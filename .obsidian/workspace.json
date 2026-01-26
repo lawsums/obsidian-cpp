@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/学习esp32s3.md",
+                "file": "Dairies/2026-01-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "学习esp32s3"
+              "title": "2026-01-26"
             }
           }
         ],
@@ -346,6 +346,7 @@
   },
   "active": "01ae1a6055cac610",
   "lastOpenFiles": [
+    "Templates/学习esp32s3.md",
     "Dairies/2026-01-26.md",
     "操作系统/请你说一说进程和线程的区别.md",
     "Templates/学习深度学习.md",
