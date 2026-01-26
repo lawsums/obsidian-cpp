@@ -1,8 +1,8 @@
 {
   "monospaceFontFamily": "Cascadia Code,JetBrains Maple Mono",
   "textFontFamily": "LXGW Bright GB,JetBrains Mono,JetBrains Maple Mono,Cascadia Code",
-  "cssTheme": "Blue Topaz",
-  "theme": "system",
+  "cssTheme": "Tokyo Night",
+  "theme": "obsidian",
   "accentColor": "",
   "nativeMenus": false,
   "enabledCssSnippets": [

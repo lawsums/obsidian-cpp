@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/2026-01-26.md",
+                "file": "Dairies/2026-01-27.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-26"
+              "title": "2026-01-27"
             }
           },
           {
@@ -77,6 +77,30 @@
               },
               "icon": "lucide-file",
               "title": "003_不定期任务"
+            }
+          },
+          {
+            "id": "1a050be779748074",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/环形多线程安全队列怎么设计.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "环形多线程安全队列怎么设计"
             }
           },
           {
@@ -343,19 +367,22 @@
       "templater-obsidian:Templater": false,
       "ace-code-editor:打开css片段管理器": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-and-night:Toggle Theme": false
     }
   },
   "active": "66510abec03f38c9",
   "lastOpenFiles": [
+    "操作系统/环形多线程安全队列怎么设计.md",
+    "Dairies/2026-01-27.md",
+    "Temp/003_不定期任务.md",
     "Dairies/2026-01-26.md",
+    "操作系统/请你说一说进程和线程的区别.md",
     "Software/Vscode快捷键.md",
     "Leetcode/test.cpp",
     "数据结构/test.cpp",
     "操作系统/test.cpp",
-    "Dairies/2026-01-27.md",
     "Templates/学习深度学习.md",
-    "操作系统/请你说一说进程和线程的区别.md",
     "Templates/Daily_note_template.md",
     "Excalidraw/Fonts/LXGWBrightGB-Regular.ttf",
     "Templates/学习esp32s3.md",
@@ -382,7 +409,6 @@
     "Leetcode/1000346. 省份数量.cpp",
     "Dairies/2026-01-24.md",
     "Temp/寻找进程.md",
-    "Dairies/2026-01-23.md",
     "Leetcode/images/1000318_1626676179-kGxcmu-image.png",
     "Leetcode/images/1000318_1626676174-hOEVUL-image.png",
     "Leetcode/images/62_1697422740-adxmsI-image.png",
