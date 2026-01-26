@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "0f273ead2ba75dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/676. 实现一个魔法字典.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "676. 实现一个魔法字典"
+            }
+          },
+          {
             "id": "18982ccd19cad086",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -344,11 +368,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f994a523f199f1ab",
+  "active": "0f273ead2ba75dd4",
   "lastOpenFiles": [
+    "Temp/2026年3月经典阅读读后感.md",
+    "Leetcode/676. 实现一个魔法字典.cpp",
+    "Leetcode/676. 实现一个魔法字典.md",
+    "Leetcode/676. 实现一个魔法字典.cpp~",
+    "Dairies/2026-01-26.md",
     "README.md",
     "Dairies/2026-01-25.md",
-    "Dairies/2026-01-26.md",
     "Software/Vscode快捷键.md",
     "操作系统/请你说一说进程和线程的区别.md",
     "操作系统/简述 一下 TCP  建立连接和断开连接的过程.md",
@@ -364,7 +392,6 @@
     "Leetcode/1000317. 相似字符串组.md",
     "Leetcode/1000317. 相似字符串组.cpp~",
     "Leetcode/1000317. 相似字符串组.cpp",
-    "Temp/2026年3月经典阅读读后感.md",
     "Templates/学习深度学习.md",
     "Leetcode/1000346. 省份数量.md",
     "Leetcode/1000346. 省份数量.cpp",
@@ -374,14 +401,10 @@
     "Leetcode/1000318. 冗余连接.md",
     "Leetcode/树.md",
     "Templates/Daily_note_template.md",
-    "Templates/学习esp32s3.md",
-    "Software/Vscode.md",
     "Pandoc/2026年3月经典阅读读后感.docx",
     "Pandoc/~WRL0004.tmp",
     "Pandoc/~WRD0003.tmp",
     "Pandoc/~WRD0002.tmp",
-    "Pandoc/~WRL0001.tmp",
-    "Pandoc/~WRD0000.tmp",
     "Leetcode/images/1000318_1626676179-kGxcmu-image.png",
     "Leetcode/images/1000318_1626676174-hOEVUL-image.png",
     "Leetcode/images/62_1697422740-adxmsI-image.png",
