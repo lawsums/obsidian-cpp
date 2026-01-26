@@ -1,6 +1,6 @@
 {
   "monospaceFontFamily": "JetBrains Maple Mono,JetBrains Mono NL",
-  "textFontFamily": "霞鹜文楷,JetBrains Mono NL,JetBrains Maple Mono",
+  "textFontFamily": "Source Code Pro,霞鹜文楷,JetBrains Mono,JetBrains Maple Mono,Cascadia Code",
   "cssTheme": "Blue Topaz",
   "theme": "system",
   "accentColor": "",

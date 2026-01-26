@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "18982ccd19cad086",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/2026年3月经典阅读读后感.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026年3月经典阅读读后感"
-            }
-          },
-          {
             "id": "0029a01abaca6e31",
             "type": "leaf",
             "state": {
@@ -370,15 +346,15 @@
   },
   "active": "0f273ead2ba75dd4",
   "lastOpenFiles": [
+    "操作系统/请你说一说进程和线程的区别.md",
     "Temp/2026年3月经典阅读读后感.md",
-    "Leetcode/676. 实现一个魔法字典.cpp",
     "Leetcode/676. 实现一个魔法字典.md",
+    "Leetcode/676. 实现一个魔法字典.cpp",
     "Leetcode/676. 实现一个魔法字典.cpp~",
     "Dairies/2026-01-26.md",
     "README.md",
     "Dairies/2026-01-25.md",
     "Software/Vscode快捷键.md",
-    "操作系统/请你说一说进程和线程的区别.md",
     "操作系统/简述 一下 TCP  建立连接和断开连接的过程.md",
     "test.lua",
     "Leetcode/146. LRU 缓存 - 力扣（LeetCode）.md",
