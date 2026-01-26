@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "0f273ead2ba75dd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/676. 实现一个魔法字典.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "676. 实现一个魔法字典"
-            }
-          },
-          {
             "id": "0029a01abaca6e31",
             "type": "leaf",
             "state": {
@@ -104,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -344,11 +320,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "0f273ead2ba75dd4",
+  "active": "f994a523f199f1ab",
   "lastOpenFiles": [
+    "Leetcode/676. 实现一个魔法字典.md",
     "操作系统/请你说一说进程和线程的区别.md",
     "Temp/2026年3月经典阅读读后感.md",
-    "Leetcode/676. 实现一个魔法字典.md",
     "Leetcode/676. 实现一个魔法字典.cpp",
     "Leetcode/676. 实现一个魔法字典.cpp~",
     "Dairies/2026-01-26.md",
