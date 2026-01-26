@@ -78,21 +78,9 @@
               "icon": "lucide-file",
               "title": "请你说一说进程和线程的区别"
             }
-          },
-          {
-            "id": "01ae1a6055cac610",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Templates/Daily_note_template.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Daily_note_template"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -334,14 +322,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "01ae1a6055cac610",
+  "active": "f994a523f199f1ab",
   "lastOpenFiles": [
-    "Templates/Daily_note_template.md",
     "Dairies/2026-01-26.md",
-    "Excalidraw/Fonts/LXGWBrightGB-Regular.ttf",
     "Templates/学习深度学习.md",
-    "Templates/学习esp32s3.md",
     "操作系统/请你说一说进程和线程的区别.md",
+    "Templates/Daily_note_template.md",
+    "Excalidraw/Fonts/LXGWBrightGB-Regular.ttf",
+    "Templates/学习esp32s3.md",
     "Leetcode/676. 实现一个魔法字典.md",
     "Temp/2026年3月经典阅读读后感.md",
     "Leetcode/676. 实现一个魔法字典.cpp",
