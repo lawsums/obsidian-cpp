@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/2026-01-26.md",
+                "file": "Templates/学习esp32s3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-26"
+              "title": "学习esp32s3"
             }
           }
         ],
@@ -346,9 +346,9 @@
   },
   "active": "01ae1a6055cac610",
   "lastOpenFiles": [
+    "Dairies/2026-01-26.md",
     "操作系统/请你说一说进程和线程的区别.md",
     "Templates/学习深度学习.md",
-    "Dairies/2026-01-26.md",
     "Templates/Daily_note_template.md",
     "Leetcode/676. 实现一个魔法字典.md",
     "Temp/2026年3月经典阅读读后感.md",
