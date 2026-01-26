@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "66510abec03f38c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-01-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-26"
+            }
+          },
+          {
             "id": "0029a01abaca6e31",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -322,14 +346,15 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f994a523f199f1ab",
+  "active": "66510abec03f38c9",
   "lastOpenFiles": [
+    "Software/Vscode快捷键.md",
+    "Dairies/2026-01-26.md",
     "Leetcode/test.cpp",
     "数据结构/test.cpp",
     "操作系统/test.cpp",
     "Dairies/2026-01-27.md",
     "Templates/学习深度学习.md",
-    "Dairies/2026-01-26.md",
     "操作系统/请你说一说进程和线程的区别.md",
     "Templates/Daily_note_template.md",
     "Excalidraw/Fonts/LXGWBrightGB-Regular.ttf",
@@ -340,7 +365,6 @@
     "Leetcode/676. 实现一个魔法字典.cpp~",
     "README.md",
     "Dairies/2026-01-25.md",
-    "Software/Vscode快捷键.md",
     "操作系统/简述 一下 TCP  建立连接和断开连接的过程.md",
     "test.lua",
     "Leetcode/146. LRU 缓存 - 力扣（LeetCode）.md",
@@ -359,7 +383,6 @@
     "Dairies/2026-01-24.md",
     "Temp/寻找进程.md",
     "Dairies/2026-01-23.md",
-    "Pandoc/2026年3月经典阅读读后感.docx",
     "Leetcode/images/1000318_1626676179-kGxcmu-image.png",
     "Leetcode/images/1000318_1626676174-hOEVUL-image.png",
     "Leetcode/images/62_1697422740-adxmsI-image.png",
