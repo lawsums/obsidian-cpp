@@ -1,0 +1,14 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "blue-topaz-theme@@disable-auto-hide-header": false,
+  "blue-topaz-theme@@left-ribbon-style": "default-left-ribbon-style",
+  "blue-topaz-theme@@background-settings-workplace-background-image": true,
+  "blue-topaz-theme@@background-image-settings-command-palette-switch": false,
+  "blue-topaz-theme@@toggle-bg-panel-page": false,
+  "blue-topaz-theme@@background-settings-workplace-theme-light": "background-settings-workplace-waves-light",
+  "blue-topaz-theme@@background-image-settings-switch": true,
+  "blue-topaz-theme@@font-family-change-to-default": false,
+  "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-in-the-sky",
+  "phycat-theme-settings@@light-color-scheme": "theme-light-forest",
+  "phycat-theme-settings@@dark-color-scheme": "theme-dark-vampire"
+}

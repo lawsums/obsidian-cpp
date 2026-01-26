@@ -1,0 +1,161 @@
+.tab-container {
+    border: 1px solid var(--background-modifier-border);
+    border-radius: 8px;
+    overflow: hidden;
+    margin: 1em 0;
+}
+
+.tabs {
+    display: flex;
+    background-color: var(--background-secondary);
+    border-bottom: 1px solid var(--background-modifier-border);
+    position: relative;
+    overflow-x: auto;
+    overflow-y: hidden;
+    padding: 0 !important;
+    margin-bottom: 0;
+}
+
+.tab-item {
+    padding: 8px 12px;
+    cursor: pointer;
+    border-right: 1px solid var(--background-modifier-border);
+    background-color: var(--background-secondary);
+    transition: all 0.2s ease;
+    user-select: none;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-width: fit-content;
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.tab-item:hover {
+    background-color: var(--background-modifier-hover);
+    padding-right: 28px;
+}
+
+.tab-item.tab-chosen {
+    box-shadow: 0 0 8px rgba(64, 169, 255, 0.5);
+    border: 2px dashed #40a9ff;
+    opacity: 0.9;
+    transform: scale(1.02);
+}
+
+.tab-item--active {
+    background-color: var(--background-primary);
+    color: var(--text-accent);
+    border-bottom-color: #7f6df2 !important;
+}
+
+.tab-text {
+    pointer-events: all;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+}
+
+.tab-delete-button {
+    opacity: 0;
+    color: var(--text-muted);
+    font-size: 16px;
+    font-weight: bold;
+    width: 0;
+    height: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 3px;
+    transition: all 0.2s ease;
+    line-height: 1;
+    cursor: pointer;
+    margin-left: 0;
+    flex-shrink: 0;
+    overflow: hidden;
+    transform: scale(0);
+    position: absolute;
+    right: 8px;
+    top: 50%;
+    transform-origin: center;
+    transform: translateY(-50%) scale(0);
+}
+
+.tab-item:hover .tab-delete-button {
+    opacity: 1;
+    width: 16px;
+    transform: translateY(-50%) scale(1);
+}
+
+.tab-delete-button:hover {
+    background-color: var(--background-modifier-error);
+    color: var(--text-on-accent);
+    transform: scale(1.1);
+}
+
+.tab-content {
+    display: none;
+    background-color: var(--background-primary);
+    border: none;
+    padding: 16px 0!important;
+}
+
+.tab-content--active {
+    display: block;
+}
+
+.tab-content .markdown-preview-view {
+    padding: 0!important;
+    overflow: auto;
+}
+
+.tab-add-button {
+    padding: 8px 12px;
+    cursor: pointer;
+    background-color: var(--background-secondary);
+    color: var(--text-muted);
+    font-weight: bold;
+    margin-left: auto;
+    border-left: 1px solid var(--background-modifier-border);
+}
+
+.tab-add-button:hover {
+    background-color: var(--background-modifier-hover);
+    color: var(--text-normal);
+}
+
+.tab-edit-input {
+    background: transparent;
+    border: 1px solid var(--text-accent);
+    color: var(--text-normal);
+    padding: 2px 4px;
+    font-size: inherit;
+    font-family: inherit;
+    width: 100px;
+}
+
+.tab-drop-indicator {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    height: 100%;
+    background-color: var(--text-accent);
+    z-index: 1001;
+    border-radius: 1px;
+    box-shadow: 0 0 8px var(--text-accent);
+    animation: pulse 0.8s infinite ease-in-out;
+    transform: translateX(-1px);
+}
+
+@keyframes pulse {
+    0%, 100% {
+        opacity: 0.6;
+        transform: translateX(-1px) scale(1);
+    }
+    50% {
+        opacity: 1;
+        transform: translateX(-1px) scale(1.2);
+    }
+}

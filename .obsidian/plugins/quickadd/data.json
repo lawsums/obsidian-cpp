@@ -1,0 +1,781 @@
+{
+  "choices": [
+    {
+      "id": "99b287c5-7d28-431d-8086-6742b5dfff93",
+      "name": "日记模版",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Daily_note_template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "b90f4fa3-3367-4e8c-973c-1206a169439c",
+      "name": "稍后再看 | Later to look",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Temp/002_稍后再看.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": true,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "e4870019-2f6b-4da7-9d97-800905c3dafa",
+      "name": "Task_to_tomorrow",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Dairies/{{DATE:+1}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "Templates/Daily_note_template.md"
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## 今天的待办项",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": true,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "0f822ea7-7e96-4f35-94bf-f8a6915c3163",
+      "name": "Task_to_today",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Dairies/{{DATE:}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "Templates/Daily_note_template.md"
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## 今天的待办项",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": true,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "abc4d920-79ec-4127-b512-273f3f4cffcc",
+      "name": "Fast_thoughts",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "Dairies/闪念_随心一念.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": true,
+      "task": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "e0e01286-dd95-456b-9cc9-65fa7a524543",
+      "name": "Add_Word_Auto",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Word_Template.md.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Vocabulary/{{VALUE:Word}}-{{DATE:YYYYMMDDHHmmss}}"
+      },
+      "folder": {
+        "enabled": false,
+        "folders": [],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "5253bb0d-0e63-47e6-8a17-191012e15935",
+      "name": "AddWord",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "AddWord",
+        "id": "7139de26-29ae-45ee-9a65-8553e84fb8f5",
+        "commands": [
+          {
+            "name": "AddWord",
+            "type": "UserScript",
+            "id": "5ea204c9-cc9c-40d5-bd22-36ee580befaa",
+            "path": "Templates/AddWord.js",
+            "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "7e9324b5-2f5c-4c28-94d9-33a158570941",
+      "name": "Mandala_曼陀罗思考法",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "{{VALUE:思考内容}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "Templates/Mandala_template.md"
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "683c4766-1f46-498e-8b19-6b84d827664d",
+      "name": "项目 | Program",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Temp/001_项目.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": true,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "c9c655b4-4eff-4272-8da8-41237ad4da3c",
+      "name": "Create_t",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "Dairies/{{DATE:}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "Templates/Daily_note_template.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "## 今天的待办项",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": true,
+      "task": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "fae28889-4355-4128-893a-29be4d455d6e",
+      "name": "Create_t_macro",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": true,
+      "macro": {
+        "name": "Create_t_macro",
+        "id": "8cb3acbd-533a-4aeb-ab8f-9984b41673b4",
+        "commands": [
+          {
+            "name": "QuickAdd: Create_t",
+            "type": "Obsidian",
+            "id": "b2c4a8e8-b690-4c12-9467-56a09f230749",
+            "commandId": "quickadd:choice:c9c655b4-4eff-4272-8da8-41237ad4da3c"
+          }
+        ]
+      }
+    },
+    {
+      "id": "e75e4c92-a4fa-422d-9060-870c5ca5a0ff",
+      "name": "Anki_Leetcode_hot100",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "数据结构/{{value}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": "Templates/Anki_leetcode.md"
+      },
+      "format": {
+        "enabled": true,
+        "format": "\nDECK: 面试题-hot100\n\n## {{value}}\n\n\n## 思路\n\n\n## 标准解法\n\n<% await tp.user.embed_code(tp, \"数据结构/{{value}}.cpp\") %>\n\n## 我的解法\n\n\n## 相关题目\n\nEND\n"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "0217bcd8-feb5-452a-9606-8a22994938e3",
+      "name": "Anki_Interview",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "操作系统/{{value}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "DECK: 面试题\n\n## {{value}}\n\n\n## 标准答案\n\n\n## 使用场景(举例)\n\n\n## 我的答案\n\n\n\nEND"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": true,
+      "task": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "931a0071-49dc-42d7-82e7-c4c71270cfa1",
+      "name": "不定期任务 | Irregular Tasks",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Temp/003_不定期任务.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": true,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "fc7b5068-1828-423b-9088-6af98646e458",
+      "name": "闪念 | fast",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Temp/004_闪念.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": true,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "933aceea-8429-4228-8a03-982a62967686",
+      "name": "歌单 | song",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Temp/005_KTV歌单.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": true,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "7f2392c8-cda6-45e2-98ee-702bfff75a17",
+      "name": "Anki_problem",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Leetcode_problem_template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Leetcode"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "475bf1cc-6704-4559-baa6-23997e00ed64",
+      "name": "No_anki_problem",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Templates/Leetcode_no_anki_problem_template.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Leetcode"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
+      "id": "0dfef201-beb5-4665-adfb-a462a86bdee2",
+      "name": "ktv歌单",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Temp/005_KTV歌单.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": true,
+      "task": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "d8217912-9161-407e-87d1-a1d0d2a36787",
+      "name": "Start pomodoro timer | 开启番茄钟",
+      "type": "Macro",
+      "command": false,
+      "runOnStartup": true,
+      "macro": {
+        "name": "Start pomodoro timer | 开启番茄钟",
+        "id": "02682bc1-8332-497d-91bc-6c0e86325d84",
+        "commands": [
+          {
+            "name": "Pomodoro Timer: Toggle timer",
+            "type": "Obsidian",
+            "id": "34b98ff6-5c64-486f-8f34-3fa469eee958",
+            "commandId": "pomodoro-timer:toggle-timer"
+          }
+        ]
+      }
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "",
+  "announceUpdates": true,
+  "version": "2.4.0",
+  "globalVariables": {},
+  "onePageInputEnabled": false,
+  "disableOnlineFeatures": false,
+  "enableRibbonIcon": true,
+  "showCaptureNotification": true,
+  "ai": {
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true,
+    "providers": [
+      {
+        "name": "OpenAI",
+        "endpoint": "https://api.openai.com/v1",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "text-davinci-003",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo",
+            "maxTokens": 4096
+          },
+          {
+            "name": "gpt-3.5-turbo-16k",
+            "maxTokens": 16384
+          },
+          {
+            "name": "gpt-3.5-turbo-1106",
+            "maxTokens": 16385
+          },
+          {
+            "name": "gpt-4",
+            "maxTokens": 8192
+          },
+          {
+            "name": "gpt-4-32k",
+            "maxTokens": 32768
+          },
+          {
+            "name": "gpt-4-1106-preview",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4-turbo",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o",
+            "maxTokens": 128000
+          },
+          {
+            "name": "gpt-4o-mini",
+            "maxTokens": 128000
+          }
+        ],
+        "autoSyncModels": false
+      },
+      {
+        "name": "Gemini",
+        "endpoint": "https://generativelanguage.googleapis.com",
+        "apiKey": "",
+        "models": [
+          {
+            "name": "gemini-1.5-pro",
+            "maxTokens": 1000000
+          },
+          {
+            "name": "gemini-1.5-flash",
+            "maxTokens": 1000000
+          },
+          {
+            "name": "gemini-1.5-flash-8b",
+            "maxTokens": 1000000
+          }
+        ],
+        "autoSyncModels": false
+      }
+    ]
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true,
+    "addDefaultAIProviders": true,
+    "removeMacroIndirection": true,
+    "migrateFileOpeningSettings": true
+  }
+}

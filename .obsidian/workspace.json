@@ -1,0 +1,397 @@
+{
+  "main": {
+    "id": "508310054f00a9a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "4696daa5c22224ab",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ce363dc65386857",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/开发inference_copy插件.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "开发inference_copy插件"
+            }
+          },
+          {
+            "id": "f994a523f199f1ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-01-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-26"
+            }
+          },
+          {
+            "id": "18982ccd19cad086",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/2026年3月经典阅读读后感.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026年3月经典阅读读后感"
+            }
+          },
+          {
+            "id": "0029a01abaca6e31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/请你说一说进程和线程的区别.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "请你说一说进程和线程的区别"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f9fe4eaa9f478e4c",
+    "type": "split",
+    "children": [
+      {
+        "id": "177fa92686b10f84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "944cd14a7fae27b7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "2109367872043c6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "a5ee81f658b4b66b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 284
+  },
+  "right": {
+    "id": "10b2f2cc90125c33",
+    "type": "split",
+    "children": [
+      {
+        "id": "720402d91614d85f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f33e270113041b3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dairies/2025-10-05.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-10-05"
+            }
+          },
+          {
+            "id": "7847ce469944fea3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dairies/2025-12-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "2025-12-24 的出链列表"
+            }
+          },
+          {
+            "id": "f1f179bcd3eb2f09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7ad080d1a7a76395",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dairies/2025-12-24.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2025-12-24 的大纲"
+            }
+          },
+          {
+            "id": "5903889d620935a8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "96da7d36b59c0c87",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "62a2ab2074b1cb48",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          },
+          {
+            "id": "732dc9c3e225ad67",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Dairies/2026-01-25.md"
+              },
+              "icon": "lucide-info",
+              "title": "2026-01-25的笔记属性"
+            }
+          },
+          {
+            "id": "4cb9d123a5756450",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {},
+              "icon": "viewIcon",
+              "title": "Markdown-Autocomplete"
+            }
+          },
+          {
+            "id": "6c75ef171ad96609",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          },
+          {
+            "id": "823296351c3bd45e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 10
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "diagram-zoom-drag:Picker mode": false,
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "terminal:Open terminal": false,
+      "slides-extended:Show slide preview": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "pomodoro-timer:Toggle timer panel": false,
+      "quickadd:QuickAdd": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+      "templater-obsidian:Templater": false,
+      "ace-code-editor:打开css片段管理器": false,
+      "obsidian-git:Open Git source control": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "f994a523f199f1ab",
+  "lastOpenFiles": [
+    "README.md",
+    "Dairies/2026-01-25.md",
+    "Dairies/2026-01-26.md",
+    "Software/Vscode快捷键.md",
+    "操作系统/请你说一说进程和线程的区别.md",
+    "操作系统/简述 一下 TCP  建立连接和断开连接的过程.md",
+    "test.lua",
+    "Leetcode/146. LRU 缓存 - 力扣（LeetCode）.md",
+    "Dairies/开发inference_copy插件.md",
+    "Templates/面试题系列.md",
+    "Temp/独白.md",
+    "操作系统/完美转发.md",
+    "操作系统/remove_const和remove_reference怎么用.md",
+    "Templates/Question_template.md",
+    "操作系统/操作系统.md",
+    "Leetcode/1000317. 相似字符串组.md",
+    "Leetcode/1000317. 相似字符串组.cpp~",
+    "Leetcode/1000317. 相似字符串组.cpp",
+    "Temp/2026年3月经典阅读读后感.md",
+    "Templates/学习深度学习.md",
+    "Leetcode/1000346. 省份数量.md",
+    "Leetcode/1000346. 省份数量.cpp",
+    "Dairies/2026-01-24.md",
+    "Temp/寻找进程.md",
+    "Dairies/2026-01-23.md",
+    "Leetcode/1000318. 冗余连接.md",
+    "Leetcode/树.md",
+    "Templates/Daily_note_template.md",
+    "Templates/学习esp32s3.md",
+    "Software/Vscode.md",
+    "Pandoc/2026年3月经典阅读读后感.docx",
+    "Pandoc/~WRL0004.tmp",
+    "Pandoc/~WRD0003.tmp",
+    "Pandoc/~WRD0002.tmp",
+    "Pandoc/~WRL0001.tmp",
+    "Pandoc/~WRD0000.tmp",
+    "Leetcode/images/1000318_1626676179-kGxcmu-image.png",
+    "Leetcode/images/1000318_1626676174-hOEVUL-image.png",
+    "Leetcode/images/62_1697422740-adxmsI-image.png",
+    "Leetcode/images/1000346_graph2.jpg",
+    "Leetcode/images/1000346_graph1.jpg",
+    "Leetcode/images/113_pathsum2.jpg",
+    "Leetcode/images/113_pathsumii1.jpg",
+    "Pasted image 20260119225933.png",
+    "Pasted image 20260119225907.png",
+    "Pasted image 20260119225900.png",
+    "Leetcode/2300. 咒语和药水的成功对数.canvas"
+  ]
+}

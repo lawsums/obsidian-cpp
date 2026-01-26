@@ -1,0 +1,107 @@
+:root {
+	/* 颜色变量定义 */
+  --h2-color: rgb(111, 154, 228);/*h2标题颜色*/
+  --bold-color: rgb(224, 130, 30);/*加粗样式颜色*/
+  --text-color: rgb(111, 154, 228);/*段落文本颜色*/
+  --bg-overlay: rgba(255, 255, 255, 0.8);/*背景遮罩颜色 0.8透明度*/
+  --blockquote-bg: rgba(255, 255, 255, 0.4);/*引用内容<背景颜色*/
+  
+   /* 排版变量 */
+  --base-font-size: 22px;/*段落文本字体大小*/
+  --h2-font-size: 55px;/*h2文本字体大小*/
+  --line-height: 1.4;/*行间距*/
+  --paragraph-spacing: 1.5em;/* 段落间距 */
+  --content-width: 70%;/* 段落宽度，请使用百分比进行设置，否则内嵌md文件的样式会出现缩放问题 */
+  
+  /*资源变量 PPT图片背景*/
+  --background-image: url('https://files.codelife.cc/wallhaven/full/28/wallhaven-28ekym.jpg?x-oss-process=image/resize,limit_0,m_fill,w_1920,h_1080/quality,Q_93/format,webp');
+  
+}
+
+/*段落文本样式修改*/
+.slides p , 
+.reveal ul{
+  text-color:var(--text-color);
+  text-align: justify;/* 两端对齐 */
+  font-size: var(--base-font-size);/* 文本字体大小 */
+  font-family: "JetBrains Maple Mono", "宋体", serif; /* 优先使用汉仪楷体简，无则回退到系统默认衬线字体 */
+  /*font-family: "宋体", "宋体", serif; /* 优先使用宋体，无则回退到系统默认衬线字体 */
+  line-height: var(--line-height); /* 行间距 */
+  margin: 0 auto var(--paragraph-spacing);  /* 段落间距 */
+  word-break: break-all; /* 允许单词内换行 */
+  width: var(--content-width);/* 段落宽度，请使用百分比进行设置，否则内嵌md文件的样式会出现缩放问题 */
+}
+
+/*一级标题#样式修改*/
+.reveal h1
+{
+	text-transform: none; /* Obsidian把 h1 标题强制设为英文字母大写，恢复正常显示 */
+    text-align: left;/* 左对齐 */
+}
+
+/*二级标题##样式修改*/
+.reveal h2
+{
+    text-align: left;/* 左对齐 */
+    font-size: var(--h2-font-size);/* 字体大小 */
+    color: var(--h2-color);/*h2字体颜色*/
+	text-transform: none; /* Obsidian把 h2 标题强制设为英文字母大写，恢复正常显示 */
+}
+
+/*列表元素- 样式修改*/
+.reveal ul
+{
+    text-align: justify;/* 设置文字为两端对齐 */
+	width:var(--content-width);
+	padding-left: 0em; /* 列表缩进 */
+}
+
+.reveal li
+{
+	text-align: justify;/* 设置文字为两端对齐 */
+}
+
+/*引用内容>样式修改*/
+.reveal blockquote  {
+  padding-top: 30px;/*距离顶部的距离*/
+  text-align: center;/* 两端对齐 */
+  width: 100%;/* 一行的宽度 */
+  background-color: var(--blockquote-bg); /* 0.6透明度的白色或者黑色蒙版 */
+  font-style: normal;/* 默认引用字体为倾斜，修为正常字体 */
+}
+
+/*加粗样式**修改*/
+.reveal strong, .reveal b
+{
+    color: var(--bold-color);/* 修改加粗字体颜色 */
+    font-weight: normal;/* 修改加粗字体为正常字体 */
+}
+
+/*PPT背景样式修改*/
+.reveal .slide-background-content
+{
+  background-image: var(--background-image);/*网络背景图片 不需要就注释掉这一行*/
+  background-size: cover;       /* 背景图案覆盖整个元素 */
+  background-position: center;  /* 背景图案居中显示 */
+  background-repeat: no-repeat; /* 背景图案不重复 */
+  
+  color: var(--text-color);
+
+   /* 使用相对定位，为遮罩创建定位上下文 */
+  position: relative;
+
+  z-index: 1; /* 将遮罩置于内容下方 */
+
+}
+
+/* 给背景图形创建黑色或者白色半透明遮罩，避免看不清文字 */
+.reveal .slide-background-content::before {
+  content: ""; /* 必须存在，即使为空 */
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color: var(--bg-overlay); /* 0.6透明度的黑色遮罩 */
+  z-index: -1; /* 将遮罩置于内容下方 */
+}

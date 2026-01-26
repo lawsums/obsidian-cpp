@@ -1,0 +1,30 @@
+{
+  "supportExtensions": [
+    "js",
+    "cpp",
+    "py"
+  ],
+  "lightTheme": "solarized_light",
+  "darkTheme": "one_dark",
+  "keyboard": "default",
+  "showLineNumbers": true,
+  "fontSize": 14,
+  "fontFamily": [
+    "Cascadia Code",
+    "Microsoft YaHei"
+  ],
+  "tabSize": 4,
+  "snippetsManager": {
+    "location": false,
+    "icon": "code"
+  },
+  "showPrintMargin": true,
+  "showInvisibles": false,
+  "displayIndentGuides": true,
+  "showFoldWidgets": true,
+  "embedMaxHeight": 500,
+  "wrap": true,
+  "minimap": {
+    "enabled": true
+  }
+}

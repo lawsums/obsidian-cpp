@@ -1,0 +1,12 @@
+{
+  "monospaceFontFamily": "JetBrains Maple Mono,JetBrains Mono NL",
+  "textFontFamily": "霞鹜文楷,JetBrains Mono NL,JetBrains Maple Mono",
+  "cssTheme": "Blue Topaz",
+  "theme": "system",
+  "accentColor": "",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "slidesStyleNight"
+  ],
+  "interfaceFontFamily": "Microsoft YaHei UI"
+}

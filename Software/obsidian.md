@@ -1,0 +1,3 @@
+
+[[Obsidian-vimrc]]
+Obsidian-nvim

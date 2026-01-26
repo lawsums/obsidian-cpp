@@ -1,0 +1,34 @@
+
+import bisect
+from typing import List
+
+class Solution:
+    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+        def count_less_equal(x):
+            """返回两个数组中 <= x 的元素个数"""
+            cnt1 = bisect.bisect_right(nums1, x)  # nums1 中 <= x 的元素个数
+            cnt2 = bisect.bisect_right(nums2, x)  # nums2 中 <= x 的元素个数
+            return cnt1 + cnt2
+        
+        def kth_smallest(k):
+            """返回第k小的元素 (0-based)"""
+            left = min(nums1[0] if nums1 else float('inf'), nums2[0] if nums2 else float('inf'))
+            right = max(nums1[-1] if nums1 else float('-inf'), nums2[-1] if nums2 else float('-inf'))
+            
+            while left <= right:
+                mid = (left + right) // 2
+                if count_less_equal(mid) <= k:
+                    left = mid + 1
+                else:
+                    right = mid - 1
+            return left
+        
+        m, n = len(nums1), len(nums2)
+        total = m + n
+        
+        if total % 2 == 1:
+            # 奇数情况：返回第 total//2 小的元素
+            return kth_smallest(total // 2)
+        else:
+            # 偶数情况：返回第 (total//2 - 1) 小和第 total//2 小的元素的平均值
+            return (kth_smallest(total // 2 - 1) + kth_smallest(total // 2)) / 2
