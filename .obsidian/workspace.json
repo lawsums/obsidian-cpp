@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/学习深度学习.md",
+                "file": "Dairies/2026-01-26.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "学习深度学习"
+              "title": "2026-01-26"
             }
           },
           {
@@ -324,8 +324,9 @@
   },
   "active": "f994a523f199f1ab",
   "lastOpenFiles": [
-    "Dairies/2026-01-26.md",
+    "Dairies/2026-01-27.md",
     "Templates/学习深度学习.md",
+    "Dairies/2026-01-26.md",
     "操作系统/请你说一说进程和线程的区别.md",
     "Templates/Daily_note_template.md",
     "Excalidraw/Fonts/LXGWBrightGB-Regular.ttf",
