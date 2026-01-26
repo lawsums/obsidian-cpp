@@ -9,6 +9,7 @@ excalidraw-open-md: true
 `button-home`   `button-anki-open`   `button-anki-update`
 
 ## 今天的待办项
+- [ ] 学习科目四
 - [ ] [多邻国练习](https://www.duolingo.cn/learn)
 - [ ] [[实现自己的数据结构]]
 - [ ] [[学习深度学习]]

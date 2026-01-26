@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/2026-01-26.md",
+                "file": "Templates/学习深度学习.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-26"
+              "title": "学习深度学习"
             }
           },
           {
@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "请你说一说进程和线程的区别"
             }
+          },
+          {
+            "id": "01ae1a6055cac610",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-01-26.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-26"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -320,14 +344,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f994a523f199f1ab",
+  "active": "01ae1a6055cac610",
   "lastOpenFiles": [
-    "Leetcode/676. 实现一个魔法字典.md",
     "操作系统/请你说一说进程和线程的区别.md",
+    "Templates/学习深度学习.md",
+    "Dairies/2026-01-26.md",
+    "Templates/Daily_note_template.md",
+    "Leetcode/676. 实现一个魔法字典.md",
     "Temp/2026年3月经典阅读读后感.md",
     "Leetcode/676. 实现一个魔法字典.cpp",
     "Leetcode/676. 实现一个魔法字典.cpp~",
-    "Dairies/2026-01-26.md",
     "README.md",
     "Dairies/2026-01-25.md",
     "Software/Vscode快捷键.md",
@@ -344,7 +370,6 @@
     "Leetcode/1000317. 相似字符串组.md",
     "Leetcode/1000317. 相似字符串组.cpp~",
     "Leetcode/1000317. 相似字符串组.cpp",
-    "Templates/学习深度学习.md",
     "Leetcode/1000346. 省份数量.md",
     "Leetcode/1000346. 省份数量.cpp",
     "Dairies/2026-01-24.md",
@@ -352,7 +377,6 @@
     "Dairies/2026-01-23.md",
     "Leetcode/1000318. 冗余连接.md",
     "Leetcode/树.md",
-    "Templates/Daily_note_template.md",
     "Pandoc/2026年3月经典阅读读后感.docx",
     "Pandoc/~WRL0004.tmp",
     "Pandoc/~WRD0003.tmp",
