@@ -83,23 +83,11 @@
             "id": "96d566cd581c9245",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Leetcode/1000277. 交错字符串.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Leetcode/1000277. 交错字符串.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "1000277. 交错字符串"
             }
           }
@@ -349,10 +337,10 @@
   },
   "active": "96d566cd581c9245",
   "lastOpenFiles": [
+    "Leetcode/1000277. 交错字符串.md",
     "Leetcode/1000277. 交错字符串.cpp~",
     "Pasted Image 20260127121459_635.png",
     "Pasted Image 20260127121418_816.png",
-    "Leetcode/1000277. 交错字符串.md",
     "Dairies/2026-01-27.md",
     "Templates/Excalidraw_template.md",
     "Leetcode/1000277. 交错字符串.cpp",
@@ -378,7 +366,6 @@
     "Dairies/2026-01-26.md",
     "Software/Vscode快捷键.md",
     "Leetcode/test.cpp",
-    "数据结构/test.cpp",
     "Templates/学习深度学习.md",
     "Templates/Daily_note_template.md",
     "Templates/学习esp32s3.md",

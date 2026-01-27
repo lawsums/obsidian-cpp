@@ -18,7 +18,8 @@ public:
 
     bool isInterleave(string s1, string s2, string s3) {
         initial();
-        return f1(s1, s2, s3);
+        // return f1(s1, s2, s3);
+        return f2(s1, s2, s3);
     }
 
     // 记忆化搜索
@@ -60,6 +61,36 @@ public:
         // 缓存结果：1表示true，0表示false
         dp[i+1][j+1] = result ? 1 : 0;
         return result;
+
+    }
+
+    bool f2(string s1, string s2, string s3) {
+        dp.assign(n + 1, vector<int>(m + 1, 0));
+        dp[0][0] = 1;
+
+        for (int i = 1; i < n; i++) {
+            if (s1[i - 1] == s3[i - 1]) {
+                dp[i][0] = dp[i - 1][0];
+            }
+        }
+        for (int j = 1; j < n; j++) {
+            if (s2[j - 1] == s3[j - 1]) {
+                dp[0][j] = dp[0][j - 1];
+            }
+        }
+
+        for (int i = 1; i < n; i++) {
+            for (int j = 1; j < m; j++) {
+                if (s1[i - 1] == s3[i + j - 1]) {
+                    dp[i][j] |= dp[i - 1][j];
+                }
+                if (s2[j - 1] == s3[i + j - 1]) {
+                    dp[i][j] |= dp[i][j - 1];
+                }
+            }
+        }
+
+        return dp[n - 1][m - 1] == 1;
     }
 };
 
