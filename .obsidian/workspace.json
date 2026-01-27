@@ -56,36 +56,12 @@
             }
           },
           {
-            "id": "66510abec03f38c9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/003_不定期任务.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "003_不定期任务"
-            }
-          },
-          {
             "id": "1a050be779748074",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/环形多线程安全队列怎么设计.md",
+                "file": "Leetcode/645. 错误的集合.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "环形多线程安全队列怎么设计"
+              "title": "645. 错误的集合"
             }
           },
           {
@@ -185,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -368,14 +343,21 @@
       "ace-code-editor:打开css片段管理器": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-and-night:Toggle Theme": false
+      "obsidian-day-and-night:Toggle Theme": false,
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "66510abec03f38c9",
+  "active": "1a050be779748074",
   "lastOpenFiles": [
+    "Leetcode/645. 错误的集合.cpp",
+    "Leetcode/645. 错误的集合.md",
+    "Leetcode/3. 无重复字符的最长子串.md",
+    "Leetcode/3. 无重复字符的最长子串.cpp",
     "操作系统/环形多线程安全队列怎么设计.md",
-    "Dairies/2026-01-27.md",
+    "Leetcode/2. 两数相加.cpp",
+    "Leetcode/2. 两数相加.md",
     "Temp/003_不定期任务.md",
+    "Dairies/2026-01-27.md",
     "Dairies/2026-01-26.md",
     "操作系统/请你说一说进程和线程的区别.md",
     "Software/Vscode快捷键.md",
@@ -402,13 +384,7 @@
     "操作系统/remove_const和remove_reference怎么用.md",
     "Templates/Question_template.md",
     "操作系统/操作系统.md",
-    "Leetcode/1000317. 相似字符串组.md",
     "Leetcode/1000317. 相似字符串组.cpp~",
-    "Leetcode/1000317. 相似字符串组.cpp",
-    "Leetcode/1000346. 省份数量.md",
-    "Leetcode/1000346. 省份数量.cpp",
-    "Dairies/2026-01-24.md",
-    "Temp/寻找进程.md",
     "Leetcode/images/1000318_1626676179-kGxcmu-image.png",
     "Leetcode/images/1000318_1626676174-hOEVUL-image.png",
     "Leetcode/images/62_1697422740-adxmsI-image.png",
