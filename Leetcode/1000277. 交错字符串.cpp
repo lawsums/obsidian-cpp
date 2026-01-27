@@ -7,23 +7,14 @@ private:
     string s1, s2, s3;
     int n, m, len3;
 public:
-    void initial() {
-        this->s1 = s1;
-        this->s2 = s2;
-        this->s3 = s3;
-        n = s1.size();
-        m = s2.size();
-        len3 = s3.size();
-    }
-
     bool isInterleave(string s1, string s2, string s3) {
-        initial();
-        // return f1(s1, s2, s3);
-        return f2(s1, s2, s3);
+        initial(s1, s2, s3);
+        // return f1();
+        return f2();
     }
 
     // 记忆化搜索
-    bool f1(string s1, string s2, string s3) {
+    bool f1() {
         // 先判断长度是否匹配，不匹配直接返回false
         if (n + m != len3) {
             return false;
@@ -34,6 +25,48 @@ public:
 
         // 深度优先搜索（带记忆化）
         return dfs(n - 1, m - 1, len3 - 1);
+    }
+
+    // 动态规划
+    bool f2() {
+        if (n + m != len3) return false;
+
+        dp.assign(n + 1, vector<int>(m + 1, 0));
+        dp[0][0] = 1;
+
+        for (int i = 1; i < n + 1; i++) {
+            if (s1[i - 1] == s3[i - 1]) {
+                dp[i][0] = dp[i - 1][0];
+            }
+        }
+        for (int j = 1; j < m + 1; j++) {
+            if (s2[j - 1] == s3[j - 1]) {
+                dp[0][j] = dp[0][j - 1];
+            }
+        }
+
+        for (int i = 1; i < n + 1; i++) {
+            for (int j = 1; j < m + 1; j++) {
+                if (s1[i - 1] == s3[i + j - 1]) {
+                    dp[i][j] |= dp[i - 1][j];
+                }
+                if (s2[j - 1] == s3[i + j - 1]) {
+                    dp[i][j] |= dp[i][j - 1];
+                }
+            }
+        }
+
+        return dp[n][m] == 1;
+    }
+
+private:
+    void initial(string s1, string s2, string s3) {
+        this->s1 = s1;
+        this->s2 = s2;
+        this->s3 = s3;
+        n = s1.size();
+        m = s2.size();
+        len3 = s3.size();
     }
 
     bool dfs(int i, int j, int step) { 
@@ -64,33 +97,6 @@ public:
 
     }
 
-    bool f2(string s1, string s2, string s3) {
-        dp.assign(n + 1, vector<int>(m + 1, 0));
-        dp[0][0] = 1;
-
-        for (int i = 1; i < n; i++) {
-            if (s1[i - 1] == s3[i - 1]) {
-                dp[i][0] = dp[i - 1][0];
-            }
-        }
-        for (int j = 1; j < n; j++) {
-            if (s2[j - 1] == s3[j - 1]) {
-                dp[0][j] = dp[0][j - 1];
-            }
-        }
-
-        for (int i = 1; i < n; i++) {
-            for (int j = 1; j < m; j++) {
-                if (s1[i - 1] == s3[i + j - 1]) {
-                    dp[i][j] |= dp[i - 1][j];
-                }
-                if (s2[j - 1] == s3[i + j - 1]) {
-                    dp[i][j] |= dp[i][j - 1];
-                }
-            }
-        }
-
-        return dp[n - 1][m - 1] == 1;
-    }
 };
+
 
