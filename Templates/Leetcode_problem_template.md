@@ -94,7 +94,7 @@ const cppFilePath = path.join(
 // 3. 自动创建空白 .cpp 文件（不存在时） 写入codeSinppet
 if (!fs.existsSync(cppFilePath)) {
   try {
-    fs.writeFileSync(cppFilePath, all + cppCode, 'utf-8'); 
+    fs.writeFileSync(cppFilePath, all + cppCode + "\n", 'utf-8'); 
     console.log(`已创建空白文件：${cppFilePath}`);
   } catch (error) {
     console.error(`创建文件失败：${error.message}`);
@@ -190,4 +190,6 @@ _%>
 
 
 END
-
+```cpp  
+```  
+END 

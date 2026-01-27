@@ -26,7 +26,7 @@
     {
       "id": "e52ujfifnv",
       "platform_specific_commands": {
-        "default": "echo ```cpp >> \"{{file_path:relative}}\" & type \"{{folder_name}}\\{{title}}.cpp\" >> \"{{file_path:relative}}\" & echo ``` >> \"{{file_path:relative}}\""
+        "default": "sed -i \"$d\" \"{{file_path:relative}}\" & echo ```cpp >> \"{{file_path:relative}}\" & type \"{{folder_name}}\\{{title}}.cpp\" >> \"{{file_path:relative}}\" & echo ``` >> \"{{file_path:relative}}\" & echo END >> \"{{file_path:relative}}\""
       },
       "shells": {},
       "alias": "cpp_to_md",
@@ -100,7 +100,7 @@
     {
       "id": "051td40mlc",
       "platform_specific_commands": {
-        "default": "sed -i '$d' \"{{file_path:relative}}\""
+        "default": "sed -i \"$d\" \"{{file_path:relative}}\" & echo ```cpp >> \"{{file_path:relative}}\" & type \"{{folder_name}}\\{{title}}.cpp\" >> \"{{file_path:relative}}\" & echo ``` >> \"{{file_path:relative}}\""
       },
       "shells": {},
       "alias": "",
