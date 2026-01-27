@@ -209,4 +209,11 @@ nmap <Space>cd :diary<CR>
 nmap <Space>cb :diary_prev<CR>
 nmap <Space>cn :diary_next<CR>
 
+" 切换侧边栏sidebar
+exmap toggle_leftside obcommand app:toggle-left-sidebar
+exmap toggle_rightside obcommand app:toggle-right-sidebar
+nmap <Space>n :toggle_leftside<CR>
+nmap <Space>m :toggle_rightside<CR>
+
+
 " 一个没用的注释

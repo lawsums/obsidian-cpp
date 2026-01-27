@@ -226,13 +226,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/2025-12-24.md",
+                "file": "Leetcode/1000277. 交错字符串.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2025-12-24 的大纲"
+              "title": "1000277. 交错字符串 的大纲"
             }
           },
           {
@@ -275,10 +275,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Dairies/2026-01-25.md"
+                "file": "Leetcode/1000277. 交错字符串.md"
               },
               "icon": "lucide-info",
-              "title": "2026-01-25的笔记属性"
+              "title": "1000277. 交错字符串的笔记属性"
             }
           },
           {
@@ -312,7 +312,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 8
       }
     ],
     "direction": "horizontal",
