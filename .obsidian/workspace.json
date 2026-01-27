@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/请你说一说进程和线程的区别.md",
+                "file": "数据库/Project2.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "请你说一说进程和线程的区别"
+              "title": "Project2"
             }
           },
           {
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -347,10 +347,12 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "96d566cd581c9245",
+  "active": "0029a01abaca6e31",
   "lastOpenFiles": [
-    "Dairies/2026-01-28.md",
+    "数据库/Cmu 15445 2022fall.md",
+    "操作系统/请你说一说进程和线程的区别.md",
     "Dairies/2026-01-27.md",
+    "Dairies/2026-01-28.md",
     "Dairies/2026-01-26.md",
     "Leetcode/1000277. 交错字符串.md",
     "Leetcode/1000277. 交错字符串.cpp~",
@@ -366,7 +368,6 @@
     "Templates/Leetcode_problem_template.md",
     "Leetcode/images/3887_e1drawio.png",
     "Leetcode/645. 错误的集合.md",
-    "操作系统/请你说一说进程和线程的区别.md",
     "Temp/优化工作流.md",
     "645",
     "Leetcode/645",
@@ -388,7 +389,6 @@
     "Dairies/2026-01-25.md",
     "操作系统/简述 一下 TCP  建立连接和断开连接的过程.md",
     "Leetcode/146. LRU 缓存 - 力扣（LeetCode）.md",
-    "Dairies/开发inference_copy插件.md",
     "Leetcode/images/1000318_1626676179-kGxcmu-image.png",
     "Leetcode/images/1000318_1626676174-hOEVUL-image.png",
     "Leetcode/images/62_1697422740-adxmsI-image.png",
