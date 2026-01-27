@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/2026-01-27.md",
+                "file": "Leetcode/1000277. 交错字符串.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,35 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-27"
-            }
-          },
-          {
-            "id": "6f441c2fe334feff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/3887. 边反转的最小路径总成本.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "3887. 边反转的最小路径总成本"
+              "title": "1000277. 交错字符串"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -371,14 +347,21 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "6f441c2fe334feff",
+  "active": "96d566cd581c9245",
   "lastOpenFiles": [
+    "Leetcode/1000277. 交错字符串.cpp~",
+    "Pasted Image 20260127121459_635.png",
+    "Pasted Image 20260127121418_816.png",
+    "Leetcode/1000277. 交错字符串.md",
+    "Dairies/2026-01-27.md",
+    "Templates/Excalidraw_template.md",
+    "Leetcode/1000277. 交错字符串.cpp",
+    "Leetcode/3887. 边反转的最小路径总成本.md",
+    "Leetcode/images/1000277_interleave.jpg",
     "Leetcode/3887. 边反转的最小路径总成本.cpp~",
     "Leetcode/3887. 边反转的最小路径总成本.cpp",
-    "Leetcode/3887. 边反转的最小路径总成本.md",
     "Templates/Leetcode_no_anki_problem_template.md",
     "Templates/Leetcode_problem_template.md",
-    "Dairies/2026-01-27.md",
     "Leetcode/images/3887_e1drawio.png",
     "Leetcode/645. 错误的集合.md",
     "操作系统/请你说一说进程和线程的区别.md",
@@ -396,7 +379,6 @@
     "Software/Vscode快捷键.md",
     "Leetcode/test.cpp",
     "数据结构/test.cpp",
-    "操作系统/test.cpp",
     "Templates/学习深度学习.md",
     "Templates/Daily_note_template.md",
     "Templates/学习esp32s3.md",
@@ -407,17 +389,12 @@
     "操作系统/简述 一下 TCP  建立连接和断开连接的过程.md",
     "Leetcode/146. LRU 缓存 - 力扣（LeetCode）.md",
     "Dairies/开发inference_copy插件.md",
-    "Templates/面试题系列.md",
-    "Temp/独白.md",
     "Leetcode/images/1000318_1626676179-kGxcmu-image.png",
     "Leetcode/images/1000318_1626676174-hOEVUL-image.png",
     "Leetcode/images/62_1697422740-adxmsI-image.png",
     "Leetcode/images/1000346_graph2.jpg",
     "Leetcode/images/1000346_graph1.jpg",
     "Leetcode/images/113_pathsum2.jpg",
-    "Leetcode/images/113_pathsumii1.jpg",
-    "Pasted image 20260119225933.png",
-    "Pasted image 20260119225907.png",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
 }
