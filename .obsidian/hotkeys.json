@@ -8,15 +8,7 @@
       "key": "R"
     }
   ],
-  "easy-typing-obsidian:easy-typing-insert-codeblock": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "C"
-    }
-  ],
+  "easy-typing-obsidian:easy-typing-insert-codeblock": [],
   "easy-typing-obsidian:easy-typing-format-switch": [
     {
       "modifiers": [
@@ -116,14 +108,6 @@
         "Mod"
       ],
       "key": "E"
-    }
-  ],
-  "calendar:show-calendar-view": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "C"
     }
   ],
   "app:toggle-left-sidebar": [
@@ -385,6 +369,24 @@
         "Mod"
       ],
       "key": "P"
+    }
+  ],
+  "obsidian-shellcommands:shell-command-e52ujfifnv": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-markdown-formatting-assistant-plugin:open-callouts-selector": [],
+  "obsidian-shellcommands:shell-command-42okxuktbh": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
     }
   ]
 }
