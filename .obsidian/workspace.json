@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -347,8 +348,9 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "0029a01abaca6e31",
+  "active": "96d566cd581c9245",
   "lastOpenFiles": [
+    "数据库/Project2.md",
     "数据库/Cmu 15445 2022fall.md",
     "操作系统/请你说一说进程和线程的区别.md",
     "Dairies/2026-01-27.md",
@@ -388,7 +390,6 @@
     "README.md",
     "Dairies/2026-01-25.md",
     "操作系统/简述 一下 TCP  建立连接和断开连接的过程.md",
-    "Leetcode/146. LRU 缓存 - 力扣（LeetCode）.md",
     "Leetcode/images/1000318_1626676179-kGxcmu-image.png",
     "Leetcode/images/1000318_1626676174-hOEVUL-image.png",
     "Leetcode/images/62_1697422740-adxmsI-image.png",
