@@ -10,7 +10,7 @@
 ## Task 2
 
 实现一个 B+树的
-1. [GetValue](b_plus_getvalue) 
+1. [GetValue](b_plus_getvalue.md) 
 2. [Insert](b_plus_insert) 
 3. [Remove](b_plus_remove) 
 4. Begin

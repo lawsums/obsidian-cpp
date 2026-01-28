@@ -56,36 +56,12 @@
             }
           },
           {
-            "id": "0029a01abaca6e31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "数据库/PageGuard.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PageGuard"
-            }
-          },
-          {
             "id": "96d566cd581c9245",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/2026-01-28.md",
+                "file": "数据库/cmu15445/Cmu 15445 2022fall.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-28"
+              "title": "Cmu 15445 2022fall"
             }
           }
         ],
@@ -347,15 +323,21 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "0029a01abaca6e31",
+  "active": "96d566cd581c9245",
   "lastOpenFiles": [
-    "数据库/Cmu 15445 2022fall.md",
-    "数据库/PageGuard.md",
-    "数据库/Project1.md",
-    "数据库/Homework1.md",
-    "数据库/Project2.md",
-    "数据库/b_plus_getvalue.md",
     "Dairies/2026-01-28.md",
+    "Temp/z_指令.md",
+    "Temp/z_.md",
+    "Temp/z_写标题.md",
+    "数据库/cmu15445/PageGuard.md",
+    "数据库/cmu15445/Cmu 15445 2022fall.md",
+    "数据库/cmu15445/缓冲池实现.md",
+    "数据库/cmu15445/b_plus_getvalue.md",
+    "数据库/cmu15445/B+树实现.cpp",
+    "数据库/cmu15445/Homework1.md",
+    "数据库/cmu15445",
+    "数据库/cmu15445/Project1.md",
+    "数据库/cmu15445/Project2.md",
     "Dairies/2026-01-27.md",
     "操作系统/请你说一说进程和线程的区别.md",
     "Dairies/2026-01-26.md",
@@ -380,15 +362,9 @@
     "Leetcode/3. 无重复字符的最长子串.md",
     "Leetcode/3. 无重复字符的最长子串.cpp",
     "操作系统/环形多线程安全队列怎么设计.md",
-    "Leetcode/2. 两数相加.cpp",
     "Leetcode/2. 两数相加.md",
     "Temp/003_不定期任务.md",
     "Software/Vscode快捷键.md",
-    "Leetcode/test.cpp",
-    "Templates/学习深度学习.md",
-    "Templates/Daily_note_template.md",
-    "Templates/学习esp32s3.md",
-    "Leetcode/676. 实现一个魔法字典.md",
     "Leetcode/images/1000318_1626676179-kGxcmu-image.png",
     "Leetcode/images/1000318_1626676174-hOEVUL-image.png",
     "Leetcode/images/62_1697422740-adxmsI-image.png",
