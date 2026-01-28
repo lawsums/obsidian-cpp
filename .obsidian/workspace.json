@@ -54,9 +54,57 @@
               "icon": "lucide-file",
               "title": "645. 错误的集合"
             }
+          },
+          {
+            "id": "96d566cd581c9245",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/anki-科目三.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "anki-科目三"
+            }
+          },
+          {
+            "id": "1849d5f0a6ed9470",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-01-29.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-29"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -88,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "科目三",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,11 +157,13 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -299,14 +349,15 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "1a050be779748074",
+  "active": "1849d5f0a6ed9470",
   "lastOpenFiles": [
-    "Temp/z_指令.md",
+    "Temp/anki-科目三.md",
+    "Dairies/2026-01-29.md",
     "Temp/z_写知识卡片.md",
     "Vocabulary/Anki-科目三.md",
     "Dairies/2026-01-28.md",
-    "Dairies/2026-01-29.md",
     "数据库/cmu15445/Cmu 15445 2022fall.md",
+    "Temp/z_指令.md",
     "Temp/z_.md",
     "Temp/z_写标题.md",
     "数据库/cmu15445/PageGuard.md",
@@ -340,7 +391,6 @@
     "Leetcode/645. 错误的集合.cpp",
     "Leetcode/3. 无重复字符的最长子串.md",
     "Leetcode/3. 无重复字符的最长子串.cpp",
-    "操作系统/环形多线程安全队列怎么设计.md",
     "Leetcode/images/1000318_1626676179-kGxcmu-image.png",
     "Leetcode/images/1000318_1626676174-hOEVUL-image.png",
     "Leetcode/images/62_1697422740-adxmsI-image.png",
