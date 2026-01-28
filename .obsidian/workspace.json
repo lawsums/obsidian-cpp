@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据库/Project2.md",
+                "file": "数据库/PageGuard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Project2"
+              "title": "PageGuard"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/2026-01-27.md",
+                "file": "Dairies/2026-01-28.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-27"
+              "title": "2026-01-28"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -161,8 +161,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -348,13 +347,17 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "96d566cd581c9245",
+  "active": "0029a01abaca6e31",
   "lastOpenFiles": [
-    "数据库/Project2.md",
     "数据库/Cmu 15445 2022fall.md",
-    "操作系统/请你说一说进程和线程的区别.md",
-    "Dairies/2026-01-27.md",
+    "数据库/PageGuard.md",
+    "数据库/Project1.md",
+    "数据库/Homework1.md",
+    "数据库/Project2.md",
+    "数据库/b_plus_getvalue.md",
     "Dairies/2026-01-28.md",
+    "Dairies/2026-01-27.md",
+    "操作系统/请你说一说进程和线程的区别.md",
     "Dairies/2026-01-26.md",
     "Leetcode/1000277. 交错字符串.md",
     "Leetcode/1000277. 交错字符串.cpp~",
@@ -386,10 +389,6 @@
     "Templates/Daily_note_template.md",
     "Templates/学习esp32s3.md",
     "Leetcode/676. 实现一个魔法字典.md",
-    "Temp/2026年3月经典阅读读后感.md",
-    "README.md",
-    "Dairies/2026-01-25.md",
-    "操作系统/简述 一下 TCP  建立连接和断开连接的过程.md",
     "Leetcode/images/1000318_1626676179-kGxcmu-image.png",
     "Leetcode/images/1000318_1626676174-hOEVUL-image.png",
     "Leetcode/images/62_1697422740-adxmsI-image.png",
