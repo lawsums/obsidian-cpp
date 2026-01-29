@@ -516,7 +516,7 @@
       },
       "prepend": false,
       "task": true,
-      "openFile": false,
+      "openFile": true,
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
@@ -679,6 +679,45 @@
             "commandId": "pomodoro-timer:toggle-timer"
           }
         ]
+      }
+    },
+    {
+      "id": "fb2cf2fe-3eff-4731-b0dd-9909a2afe88e",
+      "name": "Task_to_afterday",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Dairies/{{DATE:+2}}",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": true,
+        "template": "Templates/Daily_note_template.md"
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": true,
+        "after": "## 今天的待办项",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": true,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
       }
     }
   ],
