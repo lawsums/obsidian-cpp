@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/2026-01-30.md",
+                "file": "Templates/面试题系列.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-30"
+              "title": "面试题系列"
             }
           },
           {
@@ -349,10 +349,13 @@
   },
   "active": "e9b940bfbdac8d4c",
   "lastOpenFiles": [
-    "数据库/cmu15445/Cmu 15445 2022fall.md",
-    "Dairies/2026-01-29.md",
     "Dairies/2026-01-30.md",
     "Temp/005_KTV歌单.md",
+    "Leetcode/1000305. 除法求值.md",
+    "Leetcode/1000305. 除法求值.cpp~",
+    "Leetcode/1000305. 除法求值.cpp",
+    "数据库/cmu15445/Cmu 15445 2022fall.md",
+    "Dairies/2026-01-29.md",
     "Leetcode/3235. 转换字符串的最小成本 I.md",
     "Software/sed.md",
     "Templates/学习深度学习.md",
@@ -378,17 +381,13 @@
     "数据库/cmu15445/Homework1.md",
     "数据库/cmu15445",
     "数据库/cmu15445/Project1.md",
-    "数据库/cmu15445/Project2.md",
-    "Dairies/2026-01-27.md",
     "Leetcode/1000277. 交错字符串.cpp~",
     "Pasted Image 20260127121459_635.png",
     "Pasted Image 20260127121418_816.png",
     "Leetcode/1000277. 交错字符串.cpp",
     "Leetcode/images/1000277_interleave.jpg",
     "Leetcode/3887. 边反转的最小路径总成本.cpp~",
-    "Leetcode/3887. 边反转的最小路径总成本.cpp",
     "Leetcode/images/3887_e1drawio.png",
-    "645",
     "Leetcode/images/1000318_1626676179-kGxcmu-image.png",
     "Leetcode/images/1000318_1626676174-hOEVUL-image.png",
     "Leetcode/images/62_1697422740-adxmsI-image.png",
