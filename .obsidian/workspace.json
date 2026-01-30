@@ -59,23 +59,11 @@
             "id": "e9b940bfbdac8d4c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "数据库/cmu15445/Cmu 15445 2022fall.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "数据库/cmu15445/Cmu 15445 2022fall.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "Cmu 15445 2022fall"
             }
           },
@@ -397,6 +385,7 @@
   },
   "active": "e9b940bfbdac8d4c",
   "lastOpenFiles": [
+    "数据库/cmu15445/Cmu 15445 2022fall.md",
     "Dairies/2026-02-01.md",
     "Dairies/2026-01-30.md",
     "Temp/005_KTV歌单.md",
@@ -415,7 +404,6 @@
     "Temp/z_写知识卡片.md",
     "Vocabulary/Anki-科目三.md",
     "Dairies/2026-01-28.md",
-    "数据库/cmu15445/Cmu 15445 2022fall.md",
     "Temp/z_.md",
     "Temp/z_写标题.md",
     "数据库/cmu15445/PageGuard.md",
