@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/2026-01-29.md",
+                "file": "Dairies/2026-01-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-29"
+              "title": "2026-01-30"
+            }
+          },
+          {
+            "id": "007edd24667f806d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/005_KTV歌单.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "005_KTV歌单"
             }
           },
           {
@@ -373,13 +397,14 @@
   },
   "active": "e9b940bfbdac8d4c",
   "lastOpenFiles": [
-    "Temp/π巨乳收集.txt",
+    "Temp/005_KTV歌单.md",
     "Dairies/2026-01-30.md",
+    "Dairies/2026-01-29.md",
+    "Temp/π巨乳收集.txt",
     "Leetcode/3235. 转换字符串的最小成本 I.md",
     "Software/sed.md",
     "Leetcode/3235. 转换字符串的最小成本 I.cpp~",
     "Leetcode/3235. 转换字符串的最小成本 I.cpp",
-    "Dairies/2026-01-29.md",
     "Dairies/2026-01-31.md",
     "Temp/004_闪念.md",
     "Temp/在古代系列.md",
@@ -412,7 +437,6 @@
     "Leetcode/3887. 边反转的最小路径总成本.cpp",
     "Leetcode/images/3887_e1drawio.png",
     "645",
-    "Leetcode/645",
     "Leetcode/images/1000318_1626676179-kGxcmu-image.png",
     "Leetcode/images/1000318_1626676174-hOEVUL-image.png",
     "Leetcode/images/62_1697422740-adxmsI-image.png",
