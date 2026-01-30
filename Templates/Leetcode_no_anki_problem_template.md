@@ -110,42 +110,6 @@ if (process.platform === "win32") {
 }
 const nvimLink = `file:///${encodeURIComponent(openNvimCommand)}`;
 
-// 5. 生成「刷新Solution」的触发脚本（直接嵌入，不依赖 tp.user）
-// 关键：把 refreshSolution 函数直接写在脚本里，避免 tp.user 调用
-const refreshScript = `
-  (async (tp) => {
-    const fs = require('fs');
-    const path = require('path');
-    const targetFile = tp.config.target_file;
-    const cppFilePath = path.join(
-      targetFile.vault.adapter.basePath,
-      targetFile.parent.path,
-      \`\${targetFile.basename}.cpp\`
-    );
-
-    try {
-      // 读取笔记内容和 cpp 文件内容
-      const noteContent = await tp.file.content();
-      let cppContent = fs.readFileSync(cppFilePath, 'utf-8').trim() || "// 暂无代码实现";
-
-      // 替换 Solution 部分内容
-      const updatedContent = noteContent.replace(
-        /(## Solution\\n\\n)([\\s\\S]*?)(?=\\nEND)/,
-        (match, solutionTitle) => {
-          return \`\${solutionTitle}\`\`cpp\n\${cppContent}\n\`\`\`;
-        }
-      );
-
-
-      await tp.file.modify(updatedContent);
-      new Notice("✅ Solution 刷新成功！");
-    } catch (error) {
-      console.error("刷新失败：", error);
-      new Notice(\`❌ 刷新失败：\${error.message}\`);
-    }
-  })(tp); // 传递 tp 对象到脚本中
-`;
-
 // 6. 转义脚本，适配 Advanced URI
 const encodedRefreshScript = encodeURIComponent(refreshScript);
 const refreshLink = `obsidian://advanced-uri?command=templater%3Aexecute-script&script=${encodedRefreshScript}`;
@@ -156,11 +120,6 @@ _%>
 name <font color="#548dd4">打开nvim（自动创建.cpp）</font>
 type link
 action <% nvimLink %>
-```
-```button
-name <font color="#6aa84f">刷新Solution代码</font>
-type link
-action <% refreshLink %>
 ```
 
 `button-anki-open`   `button-anki-update`
@@ -185,6 +144,4 @@ _%>
 **记得复制题目**
 
 ![[<% `${targetFile.basename}.cpp` %>]]
-
-
 

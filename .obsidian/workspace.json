@@ -78,30 +78,6 @@
               "icon": "lucide-file",
               "title": "面试题系列"
             }
-          },
-          {
-            "id": "007edd24667f806d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/005_KTV歌单.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "005_KTV歌单"
-            }
           }
         ],
         "currentTab": 2
@@ -349,12 +325,22 @@
   },
   "active": "e9b940bfbdac8d4c",
   "lastOpenFiles": [
+    "Dairies/2026-01-30.md",
+    "Dairies/2026-01-31.md",
+    "Dairies/开发inference_copy插件.md",
     "数据库/cmu15445/Cmu 15445 2022fall.md",
     "Templates/面试题系列.md",
-    "Dairies/2026-01-30.md",
+    "Leetcode/1000329. 单词的压缩编码.md",
+    "Templates/Leetcode_problem_template.md",
+    "Leetcode/560. 和为 K 的子数组.md",
+    "Templates/Leetcode_no_anki_problem_template.md",
+    "Leetcode/839. 单词的压缩编码.md",
+    "Leetcode/839. 单词的压缩编码.cpp",
     "Temp/005_KTV歌单.md",
-    "Leetcode/1000305. 除法求值.md",
+    "Leetcode/1000329. 单词的压缩编码.cpp~",
     "Leetcode/1000305. 除法求值.cpp~",
+    "Leetcode/1000329. 单词的压缩编码.cpp",
+    "Leetcode/1000305. 除法求值.md",
     "Leetcode/1000305. 除法求值.cpp",
     "Dairies/2026-01-29.md",
     "Leetcode/3235. 转换字符串的最小成本 I.md",
@@ -364,7 +350,6 @@
     "Temp/π巨乳收集.txt",
     "Leetcode/3235. 转换字符串的最小成本 I.cpp~",
     "Leetcode/3235. 转换字符串的最小成本 I.cpp",
-    "Dairies/2026-01-31.md",
     "Temp/004_闪念.md",
     "Temp/在古代系列.md",
     "Temp/荆轲_在古代有小丑学院有多爽.md",
@@ -374,20 +359,11 @@
     "Vocabulary/Anki-科目三.md",
     "Dairies/2026-01-28.md",
     "Temp/z_.md",
-    "Temp/z_写标题.md",
-    "数据库/cmu15445/PageGuard.md",
-    "数据库/cmu15445/缓冲池实现.md",
-    "数据库/cmu15445/b_plus_getvalue.md",
     "数据库/cmu15445/B+树实现.cpp",
-    "数据库/cmu15445/Homework1.md",
     "数据库/cmu15445",
-    "数据库/cmu15445/Project1.md",
-    "Leetcode/1000277. 交错字符串.cpp~",
     "Pasted Image 20260127121459_635.png",
     "Pasted Image 20260127121418_816.png",
-    "Leetcode/1000277. 交错字符串.cpp",
     "Leetcode/images/1000277_interleave.jpg",
-    "Leetcode/3887. 边反转的最小路径总成本.cpp~",
     "Leetcode/images/3887_e1drawio.png",
     "Leetcode/images/1000318_1626676179-kGxcmu-image.png",
     "Leetcode/images/1000318_1626676174-hOEVUL-image.png",

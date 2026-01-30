@@ -188,8 +188,4 @@ _%>
 
 ![[<% `${targetFile.basename}.cpp` %>]]
 
-
 END
-```cpp  
-```  
-END 
