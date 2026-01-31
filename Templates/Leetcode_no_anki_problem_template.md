@@ -110,9 +110,6 @@ if (process.platform === "win32") {
 }
 const nvimLink = `file:///${encodeURIComponent(openNvimCommand)}`;
 
-// 6. 转义脚本，适配 Advanced URI
-const encodedRefreshScript = encodeURIComponent(refreshScript);
-const refreshLink = `obsidian://advanced-uri?command=templater%3Aexecute-script&script=${encodedRefreshScript}`;
 _%>
 
 
