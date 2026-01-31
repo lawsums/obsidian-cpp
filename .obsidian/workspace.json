@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "面试题系列"
             }
+          },
+          {
+            "id": "2dd8a99b1753fb27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-01-31.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-31"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -323,13 +347,13 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "e9b940bfbdac8d4c",
+  "active": "2dd8a99b1753fb27",
   "lastOpenFiles": [
+    "Templates/面试题系列.md",
     "Dairies/2026-01-30.md",
     "Dairies/2026-01-31.md",
     "Dairies/开发inference_copy插件.md",
     "数据库/cmu15445/Cmu 15445 2022fall.md",
-    "Templates/面试题系列.md",
     "Leetcode/1000329. 单词的压缩编码.md",
     "Templates/Leetcode_problem_template.md",
     "Leetcode/560. 和为 K 的子数组.md",
