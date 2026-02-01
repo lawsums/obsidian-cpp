@@ -359,12 +359,11 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 10
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -395,7 +394,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "d22d87850caec6e7",
+  "active": "823296351c3bd45e",
   "lastOpenFiles": [
     "语言特性/新特性/format.md",
     "Leetcode/858. 隐藏个人信息.cpp~",
