@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -395,11 +395,11 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "6b88b8e4cb60c6c1",
+  "active": "d22d87850caec6e7",
   "lastOpenFiles": [
+    "语言特性/新特性/format.md",
     "Leetcode/858. 隐藏个人信息.cpp~",
     "Leetcode/858. 隐藏个人信息.md",
-    "语言特性/新特性/format.md",
     "Dairies/2026-02-01.md",
     "Leetcode/1127. 最后一块石头的重量.md",
     "语言特性/有趣的函数/all_of.md",
