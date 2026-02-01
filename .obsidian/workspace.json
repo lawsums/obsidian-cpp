@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/373. 查找和最小的 K 对数字.md",
+                "file": "Dairies/2026-02-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "373. 查找和最小的 K 对数字"
+              "title": "2026-02-01"
             }
           },
           {
@@ -445,11 +445,11 @@
   },
   "active": "d22d87850caec6e7",
   "lastOpenFiles": [
+    "Leetcode/373. 查找和最小的 K 对数字.md",
     "Dairies/2026-02-02.md",
     "Leetcode/373. 查找和最小的 K 对数字.cpp~",
     "Leetcode/373. 查找和最小的 K 对数字.cpp",
     "Leetcode/1.md",
-    "Leetcode/373. 查找和最小的 K 对数字.md",
     "Leetcode/1127. 最后一块石头的重量.md",
     "Leetcode/2. 两数相加.cpp~",
     "Leetcode/1127. 最后一块石头的重量.cpp",
