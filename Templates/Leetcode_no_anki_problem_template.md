@@ -138,7 +138,6 @@ _%>
 
 
 ## Solution 
-**记得复制题目**
 
 ![[<% `${targetFile.basename}.cpp` %>]]
 

@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "78a4df33a64b6b03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Leetcode_no_anki_problem_template.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Leetcode_no_anki_problem_template"
-            }
-          },
-          {
             "id": "7263674c87eda8f6",
             "type": "leaf",
             "state": {
@@ -176,12 +152,12 @@
             }
           },
           {
-            "id": "2dd8a99b1753fb27",
+            "id": "70cc9f308521d1a2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/2026-01-31.md",
+                "file": "语言特性/新特性/ranges.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -196,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-01-31"
+              "title": "ranges"
             }
           }
         ],
@@ -443,44 +419,45 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "d22d87850caec6e7",
+  "active": "70cc9f308521d1a2",
   "lastOpenFiles": [
+    "语言特性/有趣的函数/count_if.md",
+    "语言特性/新特性/ranges.md",
+    "语言特性/语言特性.md",
+    "语言特性/有趣的函数",
+    "语言特性/新特性",
+    "语言特性/手撕：类继承，堆，栈上分别代码实现多态.md",
+    "语言特性/手撕：Unique_ptr，控制权转移(移动语义）.md",
+    "语言特性/类型转换.md",
+    "Leetcode/919. 三维形体投影面积.md",
+    "Leetcode/919. 三维形体投影面积.cpp",
+    "Leetcode/919. 三维形体投影面积.cpp~",
+    "Dairies/2026-01-31.md",
+    "Templates/Leetcode_no_anki_problem_template.md",
+    "Dairies/2026-02-01.md",
+    "Leetcode/images/919_shadow.png",
     "Leetcode/373. 查找和最小的 K 对数字.md",
     "Dairies/2026-02-02.md",
     "Leetcode/373. 查找和最小的 K 对数字.cpp~",
     "Leetcode/373. 查找和最小的 K 对数字.cpp",
-    "Leetcode/1.md",
     "Leetcode/1127. 最后一块石头的重量.md",
     "Leetcode/2. 两数相加.cpp~",
     "Leetcode/1127. 最后一块石头的重量.cpp",
     "Leetcode/3263. 将数组分成最小总代价的子数组 I.md",
     "Leetcode/3263. 将数组分成最小总代价的子数组 I.cpp",
-    "Templates/Leetcode_no_anki_problem_template.md",
     "Templates/面试题系列.md",
     "数据库/cmu15445/Executor.md",
     "数据库/cmu15445/Cmu 15445 2022fall.md",
-    "Dairies/2026-01-31.md",
     "Leetcode/1000272. 分割回文串 II.md",
     "Leetcode/1000280. 不同的子序列.md",
     "Leetcode/1000280. 不同的子序列.cpp~",
-    "Leetcode/1000280. 不同的子序列.cpp",
-    "Leetcode/1000272. 分割回文串 II.cpp~",
-    "Leetcode/1000272. 分割回文串 II.cpp",
     "Dairies/实现自己的数据结构.md",
-    "Dairies/2026-02-01.md",
     "Dairies/2026-01-30.md",
     "Dairies/开发inference_copy插件.md",
     "Leetcode/1000329. 单词的压缩编码.md",
     "Templates/Leetcode_problem_template.md",
     "Leetcode/560. 和为 K 的子数组.md",
     "Leetcode/839. 单词的压缩编码.md",
-    "Leetcode/839. 单词的压缩编码.cpp",
-    "Temp/005_KTV歌单.md",
-    "Leetcode/1000305. 除法求值.md",
-    "Dairies/2026-01-29.md",
-    "Leetcode/3235. 转换字符串的最小成本 I.md",
-    "Software/sed.md",
-    "Templates/学习深度学习.md",
     "Pasted Image 20260127121459_635.png",
     "Pasted Image 20260127121418_816.png",
     "Leetcode/images/1000277_interleave.jpg",
@@ -490,7 +467,6 @@
     "Leetcode/images/62_1697422740-adxmsI-image.png",
     "Leetcode/images/1000346_graph2.jpg",
     "Leetcode/images/1000346_graph1.jpg",
-    "Leetcode/images/113_pathsum2.jpg",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
 }
