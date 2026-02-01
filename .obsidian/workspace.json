@@ -157,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "语言特性/新特性/ranges.md",
+                "file": "语言特性/有趣的函数/all_of.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ranges"
+              "title": "all_of"
             }
           }
         ],
@@ -421,8 +421,10 @@
   },
   "active": "70cc9f308521d1a2",
   "lastOpenFiles": [
-    "语言特性/有趣的函数/count_if.md",
+    "语言特性/有趣的函数/example_检测大写字母.md",
+    "语言特性/有趣的函数/all_of.md",
     "语言特性/新特性/ranges.md",
+    "语言特性/有趣的函数/count_if.md",
     "语言特性/语言特性.md",
     "语言特性/有趣的函数",
     "语言特性/新特性",
@@ -456,8 +458,6 @@
     "Dairies/开发inference_copy插件.md",
     "Leetcode/1000329. 单词的压缩编码.md",
     "Templates/Leetcode_problem_template.md",
-    "Leetcode/560. 和为 K 的子数组.md",
-    "Leetcode/839. 单词的压缩编码.md",
     "Pasted Image 20260127121459_635.png",
     "Pasted Image 20260127121418_816.png",
     "Leetcode/images/1000277_interleave.jpg",
