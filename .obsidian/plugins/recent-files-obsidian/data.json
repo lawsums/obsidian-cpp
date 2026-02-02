@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "面试题系列",
+      "path": "Templates/面试题系列.md"
+    },
+    {
       "basename": "2026-02-02",
       "path": "Dairies/2026-02-02.md"
+    },
+    {
+      "basename": "通配符",
+      "path": "操作系统/linux常见命令/通配符.md"
+    },
+    {
+      "basename": "3260. 将数组分成最小总代价的子数组 II",
+      "path": "Leetcode/3260. 将数组分成最小总代价的子数组 II.md"
     },
     {
       "basename": "2026-02-01",
@@ -31,10 +43,6 @@
     {
       "basename": "黑马_Shell脚本编程",
       "path": "Temp/黑马_Shell脚本编程.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/面试题系列.md"
     }
   ],
   "omittedPaths": [],

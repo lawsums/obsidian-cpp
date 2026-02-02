@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/2026-02-02.md",
+                "file": "Templates/面试题系列.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-02"
+              "title": "面试题系列"
             }
           },
           {
@@ -171,7 +171,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -325,7 +326,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -358,6 +360,11 @@
   },
   "active": "7263674c87eda8f6",
   "lastOpenFiles": [
+    "Dairies/2026-02-02.md",
+    "操作系统/linux常见命令/通配符.md",
+    "Leetcode/3260. 将数组分成最小总代价的子数组 II.md",
+    "Leetcode/3260. 将数组分成最小总代价的子数组 II.cpp~",
+    "Leetcode/3260. 将数组分成最小总代价的子数组 II.cpp",
     "Dairies/2026-02-01.md",
     "Temp/003_不定期任务.md",
     "Leetcode/3263. 将数组分成最小总代价的子数组 I.md",
@@ -370,7 +377,6 @@
     "数据库/cmu15445/Executor.md",
     "语言特性/新特性/format.md",
     "语言特性/有趣的函数/all_of.md",
-    "操作系统/linux常见命令/通配符.md",
     "操作系统/linux常见命令/linux常见命令.md",
     "Leetcode/858. 隐藏个人信息.cpp~",
     "Leetcode/858. 隐藏个人信息.md",
@@ -388,13 +394,8 @@
     "Leetcode/919. 三维形体投影面积.md",
     "Leetcode/919. 三维形体投影面积.cpp",
     "Leetcode/919. 三维形体投影面积.cpp~",
-    "Dairies/2026-01-31.md",
-    "Templates/Leetcode_no_anki_problem_template.md",
     "Leetcode/images/919_shadow.png",
-    "Leetcode/373. 查找和最小的 K 对数字.md",
     "Leetcode/373. 查找和最小的 K 对数字.cpp~",
-    "Leetcode/373. 查找和最小的 K 对数字.cpp",
-    "Leetcode/2. 两数相加.cpp~",
     "Pasted Image 20260127121459_635.png",
     "Pasted Image 20260127121418_816.png",
     "Leetcode/images/1000277_interleave.jpg",

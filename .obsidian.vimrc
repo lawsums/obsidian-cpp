@@ -213,7 +213,7 @@ nmap <Space>cn :diary_next<CR>
 exmap toggle_leftside obcommand app:toggle-left-sidebar
 exmap toggle_rightside obcommand app:toggle-right-sidebar
 nmap <Space>n :toggle_leftside<CR>
-nmap <Space>m :toggle_rightside<CR>
+nmap <Space>N :toggle_rightside<CR>
 
 
 " 一个没用的注释
