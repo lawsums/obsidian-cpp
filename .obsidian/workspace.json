@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/2026-02-01.md",
+                "file": "Dairies/2026-02-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-01"
+              "title": "2026-02-02"
             }
           },
           {
@@ -321,7 +321,7 @@
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -358,8 +358,8 @@
   },
   "active": "7263674c87eda8f6",
   "lastOpenFiles": [
-    "Temp/003_不定期任务.md",
     "Dairies/2026-02-01.md",
+    "Temp/003_不定期任务.md",
     "Leetcode/3263. 将数组分成最小总代价的子数组 I.md",
     "Temp/黑马/000_黑马.md",
     "Temp/黑马/1-1shell语法.md",
