@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/面试题系列.md",
+                "file": "Dairies/2026-02-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "面试题系列"
+              "title": "2026-02-02"
             }
           },
           {
@@ -104,54 +104,6 @@
             }
           },
           {
-            "id": "40bf829ccdd4fd2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/test.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "test"
-            }
-          },
-          {
-            "id": "d22d87850caec6e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/linux常见命令/通配符.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "通配符"
-            }
-          },
-          {
             "id": "6b88b8e4cb60c6c1",
             "type": "leaf",
             "state": {
@@ -176,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -428,64 +380,17 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "floating": {
-    "id": "2ff26ba3a1ff7651",
-    "type": "floating",
-    "children": [
-      {
-        "id": "8c3a2d338acf0d38",
-        "type": "window",
-        "children": [
-          {
-            "id": "4ecccf23e9837f62",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "748d2bca4b59fc2d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Temp/test.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "test"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -918,
-        "y": 445,
-        "width": 602,
-        "height": 602,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "748d2bca4b59fc2d",
+  "active": "7263674c87eda8f6",
   "lastOpenFiles": [
-    "Temp/Failed to get UnRev file list.md",
-    "Temp/test.md",
-    "操作系统/编译和链接阶段分别做哪些工作.md",
-    "Temp/005_KTV歌单.md",
     "Templates/面试题系列.md",
-    "Dairies/2026-02-02.md",
+    "Temp/005_KTV歌单.md",
+    "操作系统/编译和链接阶段分别做哪些工作.md",
+    "Temp/test.md",
+    "语言特性/新特性/format.md",
     "操作系统/linux常见命令/通配符.md",
+    "Templates/Daily_note_template.md",
+    "Temp/Failed to get UnRev file list.md",
+    "Dairies/2026-02-02.md",
     "Leetcode/3260. 将数组分成最小总代价的子数组 II.md",
     "Leetcode/3260. 将数组分成最小总代价的子数组 II.cpp~",
     "Leetcode/3260. 将数组分成最小总代价的子数组 II.cpp",
@@ -498,7 +403,6 @@
     "Temp/黑马",
     "Temp/黑马_Shell脚本编程.md",
     "数据库/cmu15445/Executor.md",
-    "语言特性/新特性/format.md",
     "语言特性/有趣的函数/all_of.md",
     "操作系统/linux常见命令/linux常见命令.md",
     "Leetcode/858. 隐藏个人信息.cpp~",
@@ -511,7 +415,6 @@
     "语言特性/语言特性.md",
     "语言特性/有趣的函数",
     "语言特性/新特性",
-    "语言特性/手撕：类继承，堆，栈上分别代码实现多态.md",
     "Leetcode/919. 三维形体投影面积.cpp",
     "Leetcode/919. 三维形体投影面积.cpp~",
     "Leetcode/images/919_shadow.png",

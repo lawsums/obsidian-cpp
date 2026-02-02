@@ -22,7 +22,7 @@ excalidraw-open-md: true
 - [ ] 如果每日一题是中等/简单可以提醒一下 sly 去做
 - [ ] [每日任务excel](F:\桌面\每日任务1.xlsm)
 - [ ] 好好睡觉
-- [ ] [linux 命令行学习](H:\Document\Linux命令行大全(WilliamE.Shotts)(Z-Library).pdf) 
+- [ ] [打字练习一篇文章](https://dazidazi.com/)
 - [ ] 和家教中介进行联系
 
 ## 想法

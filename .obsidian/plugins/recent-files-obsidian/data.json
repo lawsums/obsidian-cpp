@@ -1,32 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "test",
-      "path": "Temp/test.md"
-    },
-    {
-      "basename": "Failed to get UnRev file list",
-      "path": "Temp/Failed to get UnRev file list.md"
-    },
-    {
-      "basename": "编译和链接阶段分别做哪些工作",
-      "path": "操作系统/编译和链接阶段分别做哪些工作.md"
-    },
-    {
-      "basename": "005_KTV歌单",
-      "path": "Temp/005_KTV歌单.md"
+      "basename": "2026-02-02",
+      "path": "Dairies/2026-02-02.md"
     },
     {
       "basename": "面试题系列",
       "path": "Templates/面试题系列.md"
     },
     {
-      "basename": "2026-02-02",
-      "path": "Dairies/2026-02-02.md"
+      "basename": "005_KTV歌单",
+      "path": "Temp/005_KTV歌单.md"
+    },
+    {
+      "basename": "编译和链接阶段分别做哪些工作",
+      "path": "操作系统/编译和链接阶段分别做哪些工作.md"
+    },
+    {
+      "basename": "test",
+      "path": "Temp/test.md"
+    },
+    {
+      "basename": "format",
+      "path": "语言特性/新特性/format.md"
     },
     {
       "basename": "通配符",
       "path": "操作系统/linux常见命令/通配符.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "Failed to get UnRev file list",
+      "path": "Temp/Failed to get UnRev file list.md"
     },
     {
       "basename": "3260. 将数组分成最小总代价的子数组 II",
