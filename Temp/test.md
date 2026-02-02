@@ -105,3 +105,22 @@ Typedef 不行
 为了防止把**判断等于**写成**赋值等于**
  
 ---
+``` cpp
+#include <condition_varible> // 条件变量
+#include <mutex> // 使用锁
+#include <utility> // std::forward(完美转发) std::move(移动语义)
+#include <vector>
+
+template<typename T>
+class CircularQueue {
+public:
+	CircularQueue() : {
+	}
+
+private:
+	size_t capacity_;	
+	size_t size_;
+	size_t head_;
+	size_t tail_;
+};
+```
