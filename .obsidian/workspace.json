@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/2026-02-02.md",
+                "file": "Temp/方向.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-02"
+              "title": "方向"
             }
           },
           {
@@ -408,15 +408,16 @@
   },
   "active": "76b380cc1450b0d8",
   "lastOpenFiles": [
+    "Templates/面试题系列.md",
+    "Temp/方向.md",
+    "Dairies/2026-02-02.md",
     "Dairies/2026-02-03.md",
     "Temp/z_写标题.md",
-    "Dairies/2026-02-02.md",
     "Temp/005_KTV歌单.md",
     "操作系统/编译和链接阶段分别做哪些工作.md",
     "操作系统/mutable有什么作用.md",
     "操作系统/箭头运算符的重载规则.md",
     "Temp/test.md",
-    "Templates/面试题系列.md",
     "语言特性/新特性/format.md",
     "操作系统/linux常见命令/通配符.md",
     "Templates/Daily_note_template.md",
@@ -437,7 +438,6 @@
     "操作系统/linux常见命令/linux常见命令.md",
     "Leetcode/858. 隐藏个人信息.cpp~",
     "Leetcode/858. 隐藏个人信息.md",
-    "Leetcode/1127. 最后一块石头的重量.md",
     "Leetcode/858. 隐藏个人信息.cpp",
     "语言特性/有趣的函数",
     "语言特性/新特性",

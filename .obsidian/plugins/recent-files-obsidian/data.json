@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "方向",
+      "path": "Temp/方向.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/面试题系列.md"
+    },
+    {
       "basename": "2026-02-02",
       "path": "Dairies/2026-02-02.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "test",
       "path": "Temp/test.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/面试题系列.md"
     },
     {
       "basename": "format",
