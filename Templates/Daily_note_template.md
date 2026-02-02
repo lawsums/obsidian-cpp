@@ -8,6 +8,8 @@ excalidraw-open-md: true
 ---
 `button-home`   `button-anki-open`   `button-anki-update`
 
+`button-interview`    `button-leetcode`    `button-newcoder`    `button-duolinguo`   `button-zuochengyun`
+
 ## 今天的待办项
 - [ ] 学习科目四
 - [ ] [多邻国练习](https://www.duolingo.cn/learn)
@@ -23,7 +25,7 @@ excalidraw-open-md: true
 - [ ] [每日任务excel](F:\桌面\每日任务1.xlsm)
 - [ ] 好好睡觉
 - [ ] [打字练习一篇文章](https://dazidazi.com/)
-- [ ] [[没事就用 go 写一题 leetcode]
+- [ ] [没事就用 go 写一题 leetcode](https://leetcode.cn/)
 
 ## 想法
 
