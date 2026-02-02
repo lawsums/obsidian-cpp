@@ -104,7 +104,7 @@ map sb :surround_brackets<CR>
 map s( :surround_brackets<CR>
 map s) :surround_brackets<CR>
 map s[ :surround_square_brackets<CR>
-map s] :surround_square_brackets<CR>
+map s] :surround_wiki<CR>
 map s{ :surround_curly_brackets<CR>
 map s} :surround_curly_brackets<CR>
 map si :surround_italic<CR>
