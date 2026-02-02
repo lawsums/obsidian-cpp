@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "test",
+      "path": "Temp/test.md"
+    },
+    {
+      "basename": "Failed to get UnRev file list",
+      "path": "Temp/Failed to get UnRev file list.md"
+    },
+    {
       "basename": "编译和链接阶段分别做哪些工作",
       "path": "操作系统/编译和链接阶段分别做哪些工作.md"
     },
