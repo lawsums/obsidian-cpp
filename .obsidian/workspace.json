@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "e7444255f4a6a169",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/test.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "test"
+            }
+          },
+          {
             "id": "76b380cc1450b0d8",
             "type": "leaf",
             "state": {
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -195,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -349,7 +374,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -380,8 +406,9 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "7263674c87eda8f6",
+  "active": "e7444255f4a6a169",
   "lastOpenFiles": [
+    "Dairies/2026-02-02.md",
     "Templates/面试题系列.md",
     "Temp/005_KTV歌单.md",
     "操作系统/编译和链接阶段分别做哪些工作.md",
@@ -390,7 +417,6 @@
     "操作系统/linux常见命令/通配符.md",
     "Templates/Daily_note_template.md",
     "Temp/Failed to get UnRev file list.md",
-    "Dairies/2026-02-02.md",
     "Leetcode/3260. 将数组分成最小总代价的子数组 II.md",
     "Leetcode/3260. 将数组分成最小总代价的子数组 II.cpp~",
     "Leetcode/3260. 将数组分成最小总代价的子数组 II.cpp",

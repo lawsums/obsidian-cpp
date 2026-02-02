@@ -89,12 +89,14 @@ exmap surround_bold surround ** **
 exmap surround_delete surround ~~ ~~
 exmap surround_mark surround == ==
 exmap surround_math surround $ $
+exmap surroundd_red surround <font\ color="#d83931"> </font>
+
 
 " 快速添加下划线
 exmap surround_underline surround <u> </u>
 
 " 必须使用 'map'
-map [[ :surround_wiki<CR>
+map [[ :surround_wiki<CR> 
 nunmap s
 vunmap s
 map s" :surround_double_quotes<CR>
@@ -113,6 +115,7 @@ map sd :surround_delete<CR>
 map sm :surround_mark<CR>
 map s$ :surround_math<CR>
 map su :surround_underline<CR>
+map sr :surround_red<CR>
 
 
 " 使用^和$实现tab的切换 
