@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
       "basename": "方向",
       "path": "Temp/方向.md"
+    },
+    {
+      "basename": "mutable有什么作用",
+      "path": "操作系统/mutable有什么作用.md"
     },
     {
       "basename": "面试题系列",
@@ -25,10 +33,6 @@
       "path": "操作系统/编译和链接阶段分别做哪些工作.md"
     },
     {
-      "basename": "mutable有什么作用",
-      "path": "操作系统/mutable有什么作用.md"
-    },
-    {
       "basename": "箭头运算符的重载规则",
       "path": "操作系统/箭头运算符的重载规则.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "通配符",
       "path": "操作系统/linux常见命令/通配符.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "Failed to get UnRev file list",

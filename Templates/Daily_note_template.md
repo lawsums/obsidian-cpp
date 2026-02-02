@@ -23,7 +23,7 @@ excalidraw-open-md: true
 - [ ] [每日任务excel](F:\桌面\每日任务1.xlsm)
 - [ ] 好好睡觉
 - [ ] [打字练习一篇文章](https://dazidazi.com/)
-- [ ] 和家教中介进行联系
+- [ ] [[没事就用 go 写一题 leetcode]
 
 ## 想法
 
