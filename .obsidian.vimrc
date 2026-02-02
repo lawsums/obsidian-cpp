@@ -89,7 +89,7 @@ exmap surround_bold surround ** **
 exmap surround_delete surround ~~ ~~
 exmap surround_mark surround == ==
 exmap surround_math surround $ $
-exmap surroundd_red surround <font\ color="#d83931"> </font>
+exmap surround_red surround <font\ color="#d83931"> </font>
 
 
 " 快速添加下划线
