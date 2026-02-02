@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp/黑马.md",
+                "file": "Temp/黑马/000_黑马.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "黑马"
+              "title": "000_黑马"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/3263. 将数组分成最小总代价的子数组 I.md",
+                "file": "Dairies/2026-02-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3263. 将数组分成最小总代价的子数组 I"
+              "title": "2026-02-01"
             }
           },
           {
@@ -103,7 +103,8 @@
               "title": "format"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -355,11 +356,17 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "e9b940bfbdac8d4c",
+  "active": "7263674c87eda8f6",
   "lastOpenFiles": [
-    "Templates/面试题系列.md",
-    "Temp/黑马.md",
+    "Temp/003_不定期任务.md",
     "Dairies/2026-02-01.md",
+    "Leetcode/3263. 将数组分成最小总代价的子数组 I.md",
+    "Temp/黑马/000_黑马.md",
+    "Temp/黑马/1-1shell语法.md",
+    "Temp/黑马/阶段八Shell脚本编程.md",
+    "Temp/黑马",
+    "Temp/黑马_Shell脚本编程.md",
+    "Templates/面试题系列.md",
     "数据库/cmu15445/Executor.md",
     "语言特性/新特性/format.md",
     "语言特性/有趣的函数/all_of.md",
@@ -385,15 +392,9 @@
     "Templates/Leetcode_no_anki_problem_template.md",
     "Leetcode/images/919_shadow.png",
     "Leetcode/373. 查找和最小的 K 对数字.md",
-    "Dairies/2026-02-02.md",
     "Leetcode/373. 查找和最小的 K 对数字.cpp~",
     "Leetcode/373. 查找和最小的 K 对数字.cpp",
     "Leetcode/2. 两数相加.cpp~",
-    "Leetcode/1127. 最后一块石头的重量.cpp",
-    "Leetcode/3263. 将数组分成最小总代价的子数组 I.md",
-    "数据库/cmu15445/Cmu 15445 2022fall.md",
-    "Leetcode/1000272. 分割回文串 II.md",
-    "Leetcode/1000280. 不同的子序列.md",
     "Pasted Image 20260127121459_635.png",
     "Pasted Image 20260127121418_816.png",
     "Leetcode/images/1000277_interleave.jpg",

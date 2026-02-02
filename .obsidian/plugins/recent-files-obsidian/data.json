@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "黑马",
-      "path": "Temp/黑马.md"
+      "basename": "2026-02-01",
+      "path": "Dairies/2026-02-01.md"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Temp/003_不定期任务.md"
+    },
+    {
+      "basename": "3263. 将数组分成最小总代价的子数组 I",
+      "path": "Leetcode/3263. 将数组分成最小总代价的子数组 I.md"
+    },
+    {
+      "basename": "000_黑马",
+      "path": "Temp/黑马/000_黑马.md"
+    },
+    {
+      "basename": "1-1shell语法",
+      "path": "Temp/黑马/1-1shell语法.md"
+    },
+    {
+      "basename": "阶段八Shell脚本编程",
+      "path": "Temp/黑马/阶段八Shell脚本编程.md"
+    },
+    {
+      "basename": "黑马_Shell脚本编程",
+      "path": "Temp/黑马_Shell脚本编程.md"
     },
     {
       "basename": "面试题系列",
