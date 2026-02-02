@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/学习深度学习.md",
+                "file": "Dairies/2026-02-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "学习深度学习"
+              "title": "2026-02-02"
             }
           },
           {
@@ -408,6 +408,7 @@
   },
   "active": "86f8810417be6e73",
   "lastOpenFiles": [
+    "Templates/学习深度学习.md",
     "Dairies/2026-02-02.md",
     "Dairies/2026-02-04.md",
     "Templates/Daily_note_template.md",
@@ -436,7 +437,6 @@
     "Temp/黑马",
     "Temp/黑马_Shell脚本编程.md",
     "数据库/cmu15445/Executor.md",
-    "语言特性/有趣的函数/all_of.md",
     "Leetcode/858. 隐藏个人信息.cpp~",
     "Leetcode/858. 隐藏个人信息.cpp",
     "语言特性/有趣的函数",
