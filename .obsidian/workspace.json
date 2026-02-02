@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "08a74ed7f2cafcaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/mutable有什么作用.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "mutable有什么作用"
+            }
+          },
+          {
             "id": "76b380cc1450b0d8",
             "type": "leaf",
             "state": {
@@ -152,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -406,13 +430,14 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "e7444255f4a6a169",
+  "active": "08a74ed7f2cafcaa",
   "lastOpenFiles": [
+    "Temp/test.md",
+    "操作系统/mutable有什么作用.md",
     "Dairies/2026-02-02.md",
     "Templates/面试题系列.md",
     "Temp/005_KTV歌单.md",
     "操作系统/编译和链接阶段分别做哪些工作.md",
-    "Temp/test.md",
     "语言特性/新特性/format.md",
     "操作系统/linux常见命令/通配符.md",
     "Templates/Daily_note_template.md",
@@ -438,7 +463,6 @@
     "语言特性/有趣的函数/example_检测大写字母.md",
     "语言特性/新特性/ranges.md",
     "语言特性/有趣的函数/count_if.md",
-    "语言特性/语言特性.md",
     "语言特性/有趣的函数",
     "语言特性/新特性",
     "Leetcode/919. 三维形体投影面积.cpp",
