@@ -3,8 +3,8 @@
   "homepages": {
     "Main Homepage": {
       "value": "Home",
-      "kind": "File",
-      "openOnStartup": true,
+      "kind": "Workspace",
+      "openOnStartup": false,
       "openMode": "Replace all open notes",
       "manualOpenMode": "Keep open notes",
       "view": "Default view",
