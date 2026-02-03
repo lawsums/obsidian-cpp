@@ -191,12 +191,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -206,83 +206,6 @@
         "id": "720402d91614d85f",
         "type": "tabs",
         "children": [
-          {
-            "id": "f33e270113041b3b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Dairies/2025-10-05.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for 2025-10-05"
-            }
-          },
-          {
-            "id": "7847ce469944fea3",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Dairies/2025-12-24.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "2025-12-24 的出链列表"
-            }
-          },
-          {
-            "id": "f1f179bcd3eb2f09",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "标签"
-            }
-          },
-          {
-            "id": "7ad080d1a7a76395",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Leetcode/1000277. 交错字符串.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "1000277. 交错字符串 的大纲"
-            }
-          },
-          {
-            "id": "5903889d620935a8",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
-            }
-          },
           {
             "id": "96da7d36b59c0c87",
             "type": "leaf",
@@ -294,25 +217,13 @@
             }
           },
           {
-            "id": "62a2ab2074b1cb48",
+            "id": "823296351c3bd45e",
             "type": "leaf",
             "state": {
-              "type": "timer-view",
+              "type": "git-view",
               "state": {},
-              "icon": "timer",
-              "title": "Timer"
-            }
-          },
-          {
-            "id": "732dc9c3e225ad67",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Leetcode/1000277. 交错字符串.md"
-              },
-              "icon": "lucide-info",
-              "title": "1000277. 交错字符串的笔记属性"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -334,24 +245,117 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "4d5c9ff27afeebb0",
+        "type": "tabs",
+        "children": [
           {
-            "id": "823296351c3bd45e",
+            "id": "62a2ab2074b1cb48",
             "type": "leaf",
             "state": {
-              "type": "git-view",
+              "type": "timer-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "timer",
+              "title": "Timer"
+            }
+          },
+          {
+            "id": "7ad080d1a7a76395",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dairies/实现自己的数据结构.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "实现自己的数据结构 的大纲"
+            }
+          },
+          {
+            "id": "f1f179bcd3eb2f09",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "7847ce469944fea3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dairies/实现自己的数据结构.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "实现自己的数据结构 的出链列表"
+            }
+          },
+          {
+            "id": "5903889d620935a8",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "f33e270113041b3b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dairies/实现自己的数据结构.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "实现自己的数据结构 的反向链接列表"
+            }
+          },
+          {
+            "id": "732dc9c3e225ad67",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Dairies/实现自己的数据结构.md"
+              },
+              "icon": "lucide-info",
+              "title": "实现自己的数据结构的笔记属性"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -382,24 +386,24 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "8c7ed015d0d05d1f",
+  "active": "fc4d7e22b5e634bb",
   "lastOpenFiles": [
     "Dairies/2026-02-03.md",
-    "Dairies/实现自己的数据结构.md",
-    "Dairies/学习科目四.md",
+    "Templates/学习深度学习.md",
+    "Leetcode/3. 无重复字符的最长子串.cpp",
     "操作系统/内存泄露有哪些情况.md",
-    "Temp/003_不定期任务.md",
     "Temp/黑马/000_黑马.md",
-    "Temp/方向.md",
+    "Dairies/学习科目四.md",
+    "Dairies/实现自己的数据结构.md",
     "Templates/面试题系列.md",
+    "Temp/003_不定期任务.md",
+    "Temp/方向.md",
     "操作系统/编译和链接阶段分别做哪些工作.md",
     "Leetcode/438. 找到字符串中所有字母异位词.md",
     "Leetcode/438. 找到字符串中所有字母异位词.cpp~",
     "Leetcode/438. 找到字符串中所有字母异位词.cpp",
-    "Leetcode/3. 无重复字符的最长子串.cpp",
     "Leetcode/2.md",
     "Dairies/2026-02-02.md",
-    "Templates/学习深度学习.md",
     "Dairies/2026-02-04.md",
     "Templates/Daily_note_template.md",
     "Templates/主页.md",
@@ -414,7 +418,6 @@
     "Leetcode/3260. 将数组分成最小总代价的子数组 II.md",
     "Leetcode/3260. 将数组分成最小总代价的子数组 II.cpp~",
     "Leetcode/3260. 将数组分成最小总代价的子数组 II.cpp",
-    "Dairies/2026-02-01.md",
     "Temp/黑马",
     "Leetcode/858. 隐藏个人信息.cpp~",
     "Leetcode/858. 隐藏个人信息.cpp",
