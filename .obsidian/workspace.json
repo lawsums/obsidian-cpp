@@ -11,24 +11,12 @@
             "id": "703ab5a96236243f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Templates/主页.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "项目/信息管理系统/框架.md"
               },
-              "icon": "lucide-file",
-              "title": "主页"
+              "icon": "excalidraw-icon",
+              "title": "框架"
             }
           }
         ]
@@ -98,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -258,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,12 +282,18 @@
   },
   "active": "703ab5a96236243f",
   "lastOpenFiles": [
+    "Dairies/2026-02-03.md",
+    "项目/信息管理系统/框架.md",
+    "Pasted Image 20260203160850_279.png",
+    "Pasted Image 20260203160743_303.png",
+    "Pasted Image 20260203160548_464.png",
+    "Pasted Image 20260203160317_229.png",
+    "Templates/主页.md",
+    "项目/信息管理系统",
     "Dairies/2026-02-05.md",
     "操作系统/编译和链接阶段分别做哪些工作.md",
     "Templates/面试题系列.md",
     "Temp/方向.md",
-    "Templates/主页.md",
-    "Dairies/2026-02-03.md",
     "操作系统/mutable有什么作用.md",
     "Temp/z_写标题.md",
     "Temp/test.md",
@@ -319,25 +315,18 @@
     "Temp/005_KTV歌单.md",
     "操作系统/箭头运算符的重载规则.md",
     "语言特性/新特性/format.md",
-    "操作系统/linux常见命令/通配符.md",
-    "Temp/Failed to get UnRev file list.md",
     "Leetcode/3260. 将数组分成最小总代价的子数组 II.cpp~",
     "Leetcode/3260. 将数组分成最小总代价的子数组 II.cpp",
     "Temp/黑马",
     "Leetcode/858. 隐藏个人信息.cpp~",
     "Leetcode/858. 隐藏个人信息.cpp",
     "语言特性/有趣的函数",
-    "语言特性/新特性",
     "Leetcode/images/919_shadow.png",
     "Pasted Image 20260127121459_635.png",
     "Pasted Image 20260127121418_816.png",
     "Leetcode/images/1000277_interleave.jpg",
     "Leetcode/images/3887_e1drawio.png",
     "Leetcode/images/1000318_1626676179-kGxcmu-image.png",
-    "Leetcode/images/1000318_1626676174-hOEVUL-image.png",
-    "Leetcode/images/62_1697422740-adxmsI-image.png",
-    "Leetcode/images/1000346_graph2.jpg",
-    "Leetcode/images/1000346_graph1.jpg",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
 }
