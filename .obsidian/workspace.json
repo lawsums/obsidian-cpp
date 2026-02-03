@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/2026-02-02.md",
+                "file": "Templates/面试题系列.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-02"
+              "title": "面试题系列"
             }
           },
           {
@@ -408,15 +408,15 @@
   },
   "active": "86f8810417be6e73",
   "lastOpenFiles": [
-    "Templates/学习深度学习.md",
+    "Dairies/2026-02-03.md",
     "Dairies/2026-02-02.md",
+    "Templates/学习深度学习.md",
     "Dairies/2026-02-04.md",
     "Templates/Daily_note_template.md",
     "Templates/主页.md",
     "Temp/方向.md",
     "操作系统/mutable有什么作用.md",
     "Templates/面试题系列.md",
-    "Dairies/2026-02-03.md",
     "Temp/z_写标题.md",
     "Temp/005_KTV歌单.md",
     "操作系统/编译和链接阶段分别做哪些工作.md",
