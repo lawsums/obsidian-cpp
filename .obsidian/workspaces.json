@@ -387,78 +387,6 @@
             "type": "tabs",
             "children": [
               {
-                "id": "76b380cc1450b0d8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Temp/方向.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "方向"
-                }
-              },
-              {
-                "id": "86f8810417be6e73",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Templates/面试题系列.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "面试题系列"
-                }
-              },
-              {
-                "id": "9cfac715b56f37e2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "操作系统/编译和链接阶段分别做哪些工作.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "编译和链接阶段分别做哪些工作"
-                }
-              },
-              {
                 "id": "703ab5a96236243f",
                 "type": "leaf",
                 "state": {
@@ -482,8 +410,7 @@
                   "title": "主页"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "vertical"
@@ -546,8 +473,7 @@
                   "title": "Recent Files"
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           }
         ],
         "direction": "horizontal",
@@ -744,7 +670,7 @@
         }
       },
       "active": "703ab5a96236243f",
-      "mtime": "2026-02-03T15:11:57+08:00"
+      "mtime": "2026-02-03T15:26:48+08:00"
     }
   },
   "active": "Homepage"
