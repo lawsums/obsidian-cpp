@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/内存泄露有哪些情况.md",
+                "file": "Dairies/2026-02-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "内存泄露有哪些情况"
+              "title": "2026-02-03"
             }
           },
           {
@@ -382,16 +382,17 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "e2adb8c1893fe415",
+  "active": "8c7ed015d0d05d1f",
   "lastOpenFiles": [
     "Dairies/2026-02-03.md",
-    "Temp/003_不定期任务.md",
+    "Dairies/实现自己的数据结构.md",
+    "Dairies/学习科目四.md",
     "操作系统/内存泄露有哪些情况.md",
+    "Temp/003_不定期任务.md",
     "Temp/黑马/000_黑马.md",
     "Temp/方向.md",
     "Templates/面试题系列.md",
     "操作系统/编译和链接阶段分别做哪些工作.md",
-    "Dairies/学习科目四.md",
     "Leetcode/438. 找到字符串中所有字母异位词.md",
     "Leetcode/438. 找到字符串中所有字母异位词.cpp~",
     "Leetcode/438. 找到字符串中所有字母异位词.cpp",
@@ -414,7 +415,6 @@
     "Leetcode/3260. 将数组分成最小总代价的子数组 II.cpp~",
     "Leetcode/3260. 将数组分成最小总代价的子数组 II.cpp",
     "Dairies/2026-02-01.md",
-    "Leetcode/3263. 将数组分成最小总代价的子数组 I.md",
     "Temp/黑马",
     "Leetcode/858. 隐藏个人信息.cpp~",
     "Leetcode/858. 隐藏个人信息.cpp",

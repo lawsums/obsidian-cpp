@@ -65,8 +65,9 @@ nnoremap <C-v> "+P
 vnoremap <C-v> <Esc>"+P
 
 " 保存
-nnoremap W :w<CR>
+"nnoremap W :w<CR>
 nnoremap <Space>w :w<CR>
+nnoremap <Space>q :wq<CR>
 
 " 打开文本编辑菜单 = 鼠标右键
 exmap contextMenu obcommand editor:context-menu
