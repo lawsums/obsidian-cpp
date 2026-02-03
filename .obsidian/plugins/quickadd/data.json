@@ -354,7 +354,7 @@
       "name": "Create_t_macro",
       "type": "Macro",
       "command": false,
-      "runOnStartup": true,
+      "runOnStartup": false,
       "macro": {
         "name": "Create_t_macro",
         "id": "8cb3acbd-533a-4aeb-ab8f-9984b41673b4",
