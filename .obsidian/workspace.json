@@ -11,12 +11,24 @@
             "id": "703ab5a96236243f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "项目/信息管理系统/框架.md"
+                "file": "Templates/主页.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "框架"
+              "icon": "lucide-file",
+              "title": "主页"
             }
           }
         ]
@@ -280,11 +292,11 @@
   },
   "active": "703ab5a96236243f",
   "lastOpenFiles": [
+    "项目/信息管理系统/框架.md",
+    "项目/信息管理系统/addmodifydialog.cpp",
+    "项目/信息管理系统/mainwindow.cpp",
     "Pasted Image 20260203175718_313.png",
     "Pasted Image 20260203175630_454.png",
-    "项目/信息管理系统/addmodifydialog.cpp",
-    "项目/信息管理系统/框架.md",
-    "项目/信息管理系统/mainwindow.cpp",
     "项目/信息管理系统/main.cpp",
     "MyQueue.cpp",
     "Dairies/2026-02-03.md",
@@ -325,7 +337,6 @@
     "Pasted Image 20260127121459_635.png",
     "Pasted Image 20260127121418_816.png",
     "Leetcode/images/1000277_interleave.jpg",
-    "Leetcode/images/3887_e1drawio.png",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
 }

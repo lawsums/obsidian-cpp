@@ -1,0 +1,12 @@
+{
+  "monospaceFontFamily": "Cascadia Code,JetBrains Maple Mono",
+  "textFontFamily": "LXGW Bright GB,JetBrains Mono,JetBrains Maple Mono,Cascadia Code",
+  "cssTheme": "Tokyo Night",
+  "theme": "obsidian",
+  "accentColor": "",
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "slidesStyleNight"
+  ],
+  "interfaceFontFamily": "LXGW Bright GB,Microsoft YaHei UI"
+}

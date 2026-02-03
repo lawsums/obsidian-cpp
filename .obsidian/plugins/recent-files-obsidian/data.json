@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "主页",
+      "path": "Templates/主页.md"
+    },
+    {
       "basename": "框架",
       "path": "项目/信息管理系统/框架.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "2026-02-03",
       "path": "Dairies/2026-02-03.md"
-    },
-    {
-      "basename": "主页",
-      "path": "Templates/主页.md"
     },
     {
       "basename": "编译和链接阶段分别做哪些工作",
