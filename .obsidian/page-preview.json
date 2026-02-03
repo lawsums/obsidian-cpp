@@ -1,11 +1,6 @@
 {
-  "search": false,
-  "tab-header": false,
-  "file-explorer": false,
-  "properties": false,
-  "bookmarks": false,
-  "outline": false,
   "bases": false,
   "graph": false,
-  "recent-files": false
+  "preview": true,
+  "search": false
 }
