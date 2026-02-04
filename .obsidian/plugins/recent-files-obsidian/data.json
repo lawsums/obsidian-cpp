@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "框架",
+      "path": "项目/信息管理系统/框架.md"
+    },
+    {
+      "basename": "mainwindow",
+      "path": "项目/信息管理系统/mainwindow.cpp"
+    },
+    {
+      "basename": "addmodifydialog",
+      "path": "项目/信息管理系统/addmodifydialog.cpp"
+    },
+    {
+      "basename": "001_海同网盘",
+      "path": "项目/海同网盘/001_海同网盘.md"
+    },
+    {
       "basename": "主页",
       "path": "Templates/主页.md"
     },
@@ -23,18 +39,6 @@
     {
       "basename": "2026-02-04",
       "path": "Dairies/2026-02-04.md"
-    },
-    {
-      "basename": "框架",
-      "path": "项目/信息管理系统/框架.md"
-    },
-    {
-      "basename": "addmodifydialog",
-      "path": "项目/信息管理系统/addmodifydialog.cpp"
-    },
-    {
-      "basename": "mainwindow",
-      "path": "项目/信息管理系统/mainwindow.cpp"
     },
     {
       "basename": "MyQueue",
