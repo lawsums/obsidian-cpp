@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/海同网盘/001_海同网盘.md",
+                "file": "Templates/主页.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "001_海同网盘"
+              "title": "主页"
             }
           },
           {
@@ -364,9 +364,10 @@
   },
   "active": "703ab5a96236243f",
   "lastOpenFiles": [
+    "Dairies/2026-02-04.md",
+    "项目/海同网盘/001_海同网盘.md",
     "项目/信息管理系统/框架.md",
     "项目/信息管理系统/addmodifydialog.cpp",
-    "项目/海同网盘/001_海同网盘.md",
     "项目/信息管理系统/mainwindow.cpp",
     "Templates/主页.md",
     "Leetcode/238. 除了自身以外数组的乘积.md",
@@ -377,7 +378,6 @@
     "Leetcode/459. 重复的子字符串.cpp",
     "操作系统/手撕lock_guard.md",
     "Templates/Daily_note_template.md",
-    "Dairies/2026-02-04.md",
     "Dairies/学习科目四.md",
     "Pasted Image 20260203175718_313.png",
     "Pasted Image 20260203175630_454.png",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "主页",
+      "path": "Templates/主页.md"
+    },
+    {
+      "basename": "2026-02-04",
+      "path": "Dairies/2026-02-04.md"
+    },
+    {
       "basename": "001_海同网盘",
       "path": "项目/海同网盘/001_海同网盘.md"
     },
@@ -17,10 +25,6 @@
       "path": "项目/信息管理系统/mainwindow.cpp"
     },
     {
-      "basename": "主页",
-      "path": "Templates/主页.md"
-    },
-    {
       "basename": "238. 除了自身以外数组的乘积",
       "path": "Leetcode/238. 除了自身以外数组的乘积.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
-    },
-    {
-      "basename": "2026-02-04",
-      "path": "Dairies/2026-02-04.md"
     },
     {
       "basename": "MyQueue",
