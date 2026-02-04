@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "面试题系列",
+      "path": "Templates/面试题系列.md"
+    },
+    {
       "basename": "主页",
       "path": "Templates/主页.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "编译和链接阶段分别做哪些工作",
       "path": "操作系统/编译和链接阶段分别做哪些工作.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/面试题系列.md"
     },
     {
       "basename": "方向",
