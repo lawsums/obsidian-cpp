@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "主页",
+      "path": "Templates/主页.md"
+    },
+    {
       "basename": "238. 除了自身以外数组的乘积",
       "path": "Leetcode/238. 除了自身以外数组的乘积.md"
     },
     {
       "basename": "459. 重复的子字符串",
       "path": "Leetcode/459. 重复的子字符串.md"
-    },
-    {
-      "basename": "主页",
-      "path": "Templates/主页.md"
     },
     {
       "basename": "手撕lock_guard",

@@ -103,8 +103,7 @@
               "title": "手撕lock_guard"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -331,7 +331,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -363,12 +364,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "628bb663919c4f9b",
+  "active": "703ab5a96236243f",
   "lastOpenFiles": [
+    "Leetcode/238. 除了自身以外数组的乘积.md",
     "Leetcode/238. 除了自身以外数组的乘积.cpp~",
     "Leetcode/238. 除了自身以外数组的乘积.cpp",
     "Leetcode/459. 重复的子字符串.md",
-    "Leetcode/238. 除了自身以外数组的乘积.md",
     "Leetcode/459. 重复的子字符串.cpp~",
     "Leetcode/459. 重复的子字符串.cpp",
     "Templates/主页.md",
@@ -404,7 +405,6 @@
     "Temp/黑马/000_黑马.md",
     "Temp/003_不定期任务.md",
     "Leetcode/438. 找到字符串中所有字母异位词.md",
-    "Leetcode/438. 找到字符串中所有字母异位词.cpp~",
     "Leetcode/2.md",
     "Dairies/2026-02-02.md",
     "Leetcode/images/919_shadow.png",
