@@ -5,6 +5,18 @@
       "path": "Templates/主页.md"
     },
     {
+      "basename": "手撕lock_guard",
+      "path": "操作系统/手撕lock_guard.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "2026-02-04",
+      "path": "Dairies/2026-02-04.md"
+    },
+    {
       "basename": "框架",
       "path": "项目/信息管理系统/框架.md"
     },
@@ -67,10 +79,6 @@
     {
       "basename": "学习深度学习",
       "path": "Templates/学习深度学习.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "mutable有什么作用",
