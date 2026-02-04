@@ -11,12 +11,24 @@
             "id": "703ab5a96236243f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "项目/信息管理系统/框架.md"
+                "file": "项目/海同网盘/001_海同网盘.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "框架"
+              "icon": "lucide-file",
+              "title": "001_海同网盘"
             }
           },
           {
@@ -158,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -318,7 +331,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -352,10 +366,10 @@
   },
   "active": "703ab5a96236243f",
   "lastOpenFiles": [
-    "项目/信息管理系统/mainwindow.cpp",
     "项目/信息管理系统/框架.md",
     "项目/信息管理系统/addmodifydialog.cpp",
     "项目/海同网盘/001_海同网盘.md",
+    "项目/信息管理系统/mainwindow.cpp",
     "Templates/主页.md",
     "Leetcode/238. 除了自身以外数组的乘积.md",
     "Leetcode/238. 除了自身以外数组的乘积.cpp~",
