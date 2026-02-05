@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "主页",
+      "path": "Templates/主页.md"
+    },
+    {
       "basename": "strlen和sizeof什么区别",
       "path": "操作系统/strlen和sizeof什么区别.md"
     },
     {
-      "basename": "面试题系列",
-      "path": "Templates/面试题系列.md"
+      "basename": "内存对齐是什么",
+      "path": "操作系统/内存对齐是什么.md"
     },
     {
-      "basename": "主页",
-      "path": "Templates/主页.md"
+      "basename": "2026-02-06",
+      "path": "Dairies/2026-02-06.md"
+    },
+    {
+      "basename": "2026-02-05",
+      "path": "Dairies/2026-02-05.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/面试题系列.md"
     },
     {
       "basename": "容器对比",
@@ -23,10 +35,6 @@
     {
       "basename": "2026-02-04",
       "path": "Dairies/2026-02-04.md"
-    },
-    {
-      "basename": "2026-02-05",
-      "path": "Dairies/2026-02-05.md"
     },
     {
       "basename": "001_海同网盘",

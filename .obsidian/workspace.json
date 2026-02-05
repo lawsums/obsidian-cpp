@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/面试题系列.md",
+                "file": "Templates/主页.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,35 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "面试题系列"
-            }
-          },
-          {
-            "id": "503a52e7973993a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/strlen和sizeof什么区别.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "strlen和sizeof什么区别"
+              "title": "主页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,8 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -284,8 +258,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -317,15 +290,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "503a52e7973993a5",
+  "active": "703ab5a96236243f",
   "lastOpenFiles": [
-    "Templates/面试题系列.md",
     "操作系统/strlen和sizeof什么区别.md",
+    "操作系统/内存对齐是什么.md",
+    "Dairies/2026-02-06.md",
+    "Dairies/2026-02-05.md",
+    "Templates/面试题系列.md",
     "Templates/主页.md",
     "代码模版/std容器, 库函数对比.md",
     "代码模版/容器对比.md",
     "Dairies/2026-02-04.md",
-    "Dairies/2026-02-05.md",
     "项目/海同网盘/001_海同网盘.md",
     "项目/信息管理系统/框架.md",
     "项目/信息管理系统/addmodifydialog.cpp",
@@ -359,8 +334,6 @@
     "Templates/学习深度学习.md",
     "Leetcode/3. 无重复字符的最长子串.cpp",
     "操作系统/内存泄露有哪些情况.md",
-    "Temp/黑马/000_黑马.md",
-    "Temp/003_不定期任务.md",
     "Leetcode/images/919_shadow.png",
     "Pasted Image 20260127121459_635.png",
     "Pasted Image 20260127121418_816.png",
