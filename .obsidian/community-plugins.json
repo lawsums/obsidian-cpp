@@ -44,5 +44,6 @@
   "obsidian-hover-editor",
   "homepage",
   "obsidian-hide-sidebars-when-narrow",
-  "workspaces-plus"
+  "workspaces-plus",
+  "obsidian-meta-bind-plugin"
 ]
