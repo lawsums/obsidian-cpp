@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "主页"
             }
+          },
+          {
+            "id": "1a64c0cba524df07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/学习科目四.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习科目四"
+            }
           }
         ]
       }
@@ -292,11 +316,12 @@
   },
   "active": "703ab5a96236243f",
   "lastOpenFiles": [
-    "Dairies/2026-02-07.md",
-    "Dairies/2026-02-05.md",
-    "Dairies/2026-02-06.md",
-    "Templates/主页.md",
     "Dairies/学习科目四.md",
+    "Dairies/2026-02-05.md",
+    "Templates/学习深度学习.md",
+    "Templates/主页.md",
+    "Dairies/2026-02-07.md",
+    "Dairies/2026-02-06.md",
     "操作系统/strlen和sizeof什么区别.md",
     "操作系统/内存对齐是什么.md",
     "Templates/面试题系列.md",
@@ -332,7 +357,6 @@
     "Temp/test.md",
     "Leetcode/3260. 将数组分成最小总代价的子数组 II.md",
     "Dairies/实现自己的数据结构.md",
-    "Templates/学习深度学习.md",
     "Leetcode/3. 无重复字符的最长子串.cpp",
     "Leetcode/images/919_shadow.png",
     "Pasted Image 20260127121459_635.png",

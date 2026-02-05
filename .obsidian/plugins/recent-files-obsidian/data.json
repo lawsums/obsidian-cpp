@@ -5,8 +5,16 @@
       "path": "Templates/主页.md"
     },
     {
+      "basename": "学习科目四",
+      "path": "Dairies/学习科目四.md"
+    },
+    {
       "basename": "2026-02-05",
       "path": "Dairies/2026-02-05.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/学习深度学习.md"
     },
     {
       "basename": "2026-02-06",
@@ -89,10 +97,6 @@
       "path": "操作系统/内存泄露有哪些情况.md"
     },
     {
-      "basename": "学习科目四",
-      "path": "Dairies/学习科目四.md"
-    },
-    {
       "basename": "003_不定期任务",
       "path": "Temp/003_不定期任务.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "2026-02-02",
       "path": "Dairies/2026-02-02.md"
-    },
-    {
-      "basename": "学习深度学习",
-      "path": "Templates/学习深度学习.md"
     },
     {
       "basename": "mutable有什么作用",
