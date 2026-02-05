@@ -262,7 +262,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "homepage:Open homepage": false,
       "diagram-zoom-drag:Picker mode": false,
       "bases:新建数据库": false,
       "switcher:打开快速切换": false,
@@ -287,7 +286,8 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-and-night:Toggle Theme": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false
+      "obsidian-shellcommands:Shell commands: Custom variables": false,
+      "homepage:Open homepage": false
     }
   },
   "active": "703ab5a96236243f",
