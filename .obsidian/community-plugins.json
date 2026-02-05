@@ -46,5 +46,6 @@
   "workspaces-plus",
   "obsidian-meta-bind-plugin",
   "obsidian-day-and-night",
-  "keyboard-analyzer"
+  "keyboard-analyzer",
+  "settings-search"
 ]

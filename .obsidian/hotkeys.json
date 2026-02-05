@@ -391,9 +391,7 @@
   ],
   "keyboard-analyzer:focus-shortcuts-analyzer-view": [
     {
-      "modifiers": [
-        "Mod"
-      ],
+      "modifiers": [],
       "key": "F12"
     }
   ]

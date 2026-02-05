@@ -30,19 +30,8 @@
               "icon": "lucide-file",
               "title": "主页"
             }
-          },
-          {
-            "id": "c7b80e314641de6a",
-            "type": "leaf",
-            "state": {
-              "type": "keyboard-shortcuts-visualization",
-              "state": {},
-              "icon": "keyboard",
-              "title": "Keyboard Shortcuts Analyzer"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -301,7 +290,7 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "c7b80e314641de6a",
+  "active": "703ab5a96236243f",
   "lastOpenFiles": [
     "Templates/主页.md",
     "代码模版/排序板子.md",
