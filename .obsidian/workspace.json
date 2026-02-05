@@ -11,23 +11,11 @@
             "id": "703ab5a96236243f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Templates/主页.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Templates/主页.md"
               },
-              "icon": "lucide-file",
+              "icon": "excalidraw-icon",
               "title": "主页"
             }
           }
@@ -98,7 +86,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -258,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -292,10 +282,10 @@
   },
   "active": "703ab5a96236243f",
   "lastOpenFiles": [
+    "Templates/主页.md",
     "代码模版/std容器, 库函数对比.md",
     "代码模版/容器对比.md",
     "Templates/面试题系列.md",
-    "Templates/主页.md",
     "Dairies/2026-02-04.md",
     "Dairies/2026-02-05.md",
     "项目/海同网盘/001_海同网盘.md",
