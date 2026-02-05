@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/2026-02-06.md",
+                "file": "Templates/主页.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-02-06"
+              "title": "主页"
             }
           }
         ]
@@ -292,10 +292,10 @@
   },
   "active": "703ab5a96236243f",
   "lastOpenFiles": [
-    "Dairies/学习科目四.md",
-    "Dairies/2026-02-06.md",
     "Dairies/2026-02-05.md",
+    "Dairies/2026-02-06.md",
     "Templates/主页.md",
+    "Dairies/学习科目四.md",
     "操作系统/strlen和sizeof什么区别.md",
     "操作系统/内存对齐是什么.md",
     "Templates/面试题系列.md",
