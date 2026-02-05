@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/主页.md",
+                "file": "Dairies/2026-02-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "主页"
+              "title": "2026-02-06"
             }
           }
         ]
@@ -292,12 +292,13 @@
   },
   "active": "703ab5a96236243f",
   "lastOpenFiles": [
-    "操作系统/strlen和sizeof什么区别.md",
-    "操作系统/内存对齐是什么.md",
+    "Dairies/学习科目四.md",
     "Dairies/2026-02-06.md",
     "Dairies/2026-02-05.md",
-    "Templates/面试题系列.md",
     "Templates/主页.md",
+    "操作系统/strlen和sizeof什么区别.md",
+    "操作系统/内存对齐是什么.md",
+    "Templates/面试题系列.md",
     "代码模版/std容器, 库函数对比.md",
     "代码模版/容器对比.md",
     "Dairies/2026-02-04.md",
@@ -313,7 +314,6 @@
     "Leetcode/459. 重复的子字符串.cpp",
     "操作系统/手撕lock_guard.md",
     "Templates/Daily_note_template.md",
-    "Dairies/学习科目四.md",
     "Pasted Image 20260203175718_313.png",
     "Pasted Image 20260203175630_454.png",
     "项目/信息管理系统/main.cpp",
