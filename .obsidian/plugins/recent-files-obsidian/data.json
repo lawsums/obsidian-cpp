@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "strlen和sizeof什么区别",
+      "path": "操作系统/strlen和sizeof什么区别.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/面试题系列.md"
+    },
+    {
       "basename": "主页",
       "path": "Templates/主页.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "std容器, 库函数对比",
       "path": "代码模版/std容器, 库函数对比.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/面试题系列.md"
     },
     {
       "basename": "2026-02-04",
