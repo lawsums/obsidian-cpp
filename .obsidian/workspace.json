@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "主页"
             }
+          },
+          {
+            "id": "c7b80e314641de6a",
+            "type": "leaf",
+            "state": {
+              "type": "keyboard-shortcuts-visualization",
+              "state": {},
+              "icon": "keyboard",
+              "title": "Keyboard Shortcuts Analyzer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -262,6 +273,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
       "diagram-zoom-drag:Picker mode": false,
       "bases:新建数据库": false,
       "switcher:打开快速切换": false,
@@ -286,15 +298,18 @@
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-and-night:Toggle Theme": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "homepage:Open homepage": false
+      "obsidian-shellcommands:Shell commands: Custom variables": false
     }
   },
-  "active": "703ab5a96236243f",
+  "active": "c7b80e314641de6a",
   "lastOpenFiles": [
+    "Templates/主页.md",
+    "代码模版/排序板子.md",
+    "代码模版/堆板子.md",
+    "代码模版/容器对比.md",
+    "代码模版/std容器, 库函数对比.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/学习科目四.md",
-    "Templates/主页.md",
     "Dairies/2026-02-05.md",
     "Templates/学习深度学习.md",
     "Dairies/2026-02-07.md",
@@ -302,8 +317,6 @@
     "操作系统/strlen和sizeof什么区别.md",
     "操作系统/内存对齐是什么.md",
     "Templates/面试题系列.md",
-    "代码模版/std容器, 库函数对比.md",
-    "代码模版/容器对比.md",
     "Dairies/2026-02-04.md",
     "项目/海同网盘/001_海同网盘.md",
     "项目/信息管理系统/框架.md",
@@ -331,8 +344,6 @@
     "Temp/方向.md",
     "操作系统/mutable有什么作用.md",
     "Temp/z_写标题.md",
-    "Temp/test.md",
-    "Leetcode/3260. 将数组分成最小总代价的子数组 II.md",
     "Leetcode/3. 无重复字符的最长子串.cpp",
     "Leetcode/images/919_shadow.png",
     "Pasted Image 20260127121459_635.png",

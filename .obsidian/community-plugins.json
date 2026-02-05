@@ -37,7 +37,6 @@
   "table-editor-obsidian",
   "diagram-zoom-drag",
   "obsidian-file-cooker",
-  "obsidian-day-and-night",
   "obsidian-shellcommands",
   "better-word-count",
   "recent-files-obsidian",
@@ -45,5 +44,7 @@
   "homepage",
   "obsidian-hide-sidebars-when-narrow",
   "workspaces-plus",
-  "obsidian-meta-bind-plugin"
+  "obsidian-meta-bind-plugin",
+  "obsidian-day-and-night",
+  "keyboard-analyzer"
 ]

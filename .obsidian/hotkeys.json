@@ -388,5 +388,13 @@
       ],
       "key": "C"
     }
+  ],
+  "keyboard-analyzer:focus-shortcuts-analyzer-view": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F12"
+    }
   ]
 }

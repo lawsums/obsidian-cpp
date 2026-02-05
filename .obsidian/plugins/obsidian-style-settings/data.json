@@ -10,5 +10,6 @@
   "blue-topaz-theme@@font-family-change-to-default": false,
   "blue-topaz-theme@@background-settings-workplace-theme-dark": "background-settings-workplace-theme-dark-in-the-sky",
   "phycat-theme-settings@@light-color-scheme": "theme-light-forest",
-  "phycat-theme-settings@@dark-color-scheme": "theme-dark-vampire"
+  "phycat-theme-settings@@dark-color-scheme": "theme-dark-vampire",
+  "phycat-colors@@light-color-scheme": "theme-light-mauve"
 }
