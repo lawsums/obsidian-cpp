@@ -79,7 +79,8 @@
               "title": "2026-02-07"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -338,12 +339,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "56835f59a7e3f33e",
+  "active": "270cac0ce9e62e9a",
   "lastOpenFiles": [
+    "Dairies/学习科目四.md",
+    "Dairies/2026-02-07.md",
+    "Templates/Homepage.md",
     "Temp/002_稍后再看.md",
     "Temp/006_影视作品.md",
-    "Templates/Homepage.md",
-    "Dairies/2026-02-07.md",
     "Dairies/2026-02-06.md",
     "Software/UML.md",
     "Templates/学习深度学习.md",
@@ -361,7 +363,6 @@
     "Templates/Daily_note_md.md",
     "Temp/方向.md",
     "操作系统/哈希表的原理是什么.md",
-    "Dairies/学习科目四.md",
     "Templates/面试题系列.md",
     "Dairies/顺时针遍历矩阵问题.md",
     "Leetcode/48. 旋转图像.md",
