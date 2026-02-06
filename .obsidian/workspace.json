@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/实现自己的数据结构.md",
+                "file": "Templates/主页.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,103 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "实现自己的数据结构"
-            }
-          },
-          {
-            "id": "36acd3042706f5e9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/哈希表的原理是什么.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "哈希表的原理是什么"
-            }
-          },
-          {
-            "id": "7267c6177f8b7693",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/方向.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "方向"
-            }
-          },
-          {
-            "id": "30f370056c30b69a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/003_不定期任务.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "003_不定期任务"
-            }
-          },
-          {
-            "id": "0491f6de5c06b3b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/2026-02-06.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-06"
+              "title": "主页"
             }
           }
         ]
@@ -388,6 +292,12 @@
   },
   "active": "703ab5a96236243f",
   "lastOpenFiles": [
+    "Dairies/实现自己的数据结构.md",
+    "Temp/寻找进程.md",
+    "操作系统/请问单核机器上写多线程程序，是否需要考虑加锁，为什么？.md",
+    "Dairies/2026-01-05.md",
+    "操作系统/请你说一说死锁发生的条件以及如何解决死锁.md",
+    "数据结构/队列和栈的区别.md",
     "Dairies/2026-02-08.md",
     "Templates/主页.md",
     "Temp/003_不定期任务.md",
@@ -411,12 +321,6 @@
     "代码模版/排序板子.md",
     "代码模版/堆板子.md",
     "代码模版/容器对比.md",
-    "代码模版/std容器, 库函数对比.md",
-    "Dairies/实现自己的数据结构.md",
-    "Templates/学习深度学习.md",
-    "操作系统/strlen和sizeof什么区别.md",
-    "操作系统/内存对齐是什么.md",
-    "Dairies/2026-02-04.md",
     "项目/信息管理系统/addmodifydialog.cpp",
     "项目/信息管理系统/mainwindow.cpp",
     "Leetcode/238. 除了自身以外数组的乘积.cpp~",

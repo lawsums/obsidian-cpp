@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
       "basename": "主页",
       "path": "Templates/主页.md"
+    },
+    {
+      "basename": "寻找进程",
+      "path": "Temp/寻找进程.md"
+    },
+    {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "003_不定期任务",
@@ -195,10 +199,6 @@
     {
       "basename": "1-1shell语法",
       "path": "Temp/黑马/1-1shell语法.md"
-    },
-    {
-      "basename": "阶段八Shell脚本编程",
-      "path": "Temp/黑马/阶段八Shell脚本编程.md"
     }
   ],
   "omittedPaths": [],
