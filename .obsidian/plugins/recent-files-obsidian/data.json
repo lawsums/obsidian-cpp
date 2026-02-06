@@ -5,6 +5,14 @@
       "path": "Templates/Homepage.md"
     },
     {
+      "basename": "002_稍后再看",
+      "path": "Temp/002_稍后再看.md"
+    },
+    {
+      "basename": "006_影视作品",
+      "path": "Temp/006_影视作品.md"
+    },
+    {
       "basename": "2026-02-07",
       "path": "Dairies/2026-02-07.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Failed to get UnRev file list",
       "path": "Temp/Failed to get UnRev file list.md"
-    },
-    {
-      "basename": "3260. 将数组分成最小总代价的子数组 II",
-      "path": "Leetcode/3260. 将数组分成最小总代价的子数组 II.md"
-    },
-    {
-      "basename": "2026-02-01",
-      "path": "Dairies/2026-02-01.md"
     }
   ],
   "omittedPaths": [],

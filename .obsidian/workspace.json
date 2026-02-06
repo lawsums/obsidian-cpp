@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "7b9cddc3b7957696",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/006_影视作品.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "006_影视作品"
+            }
+          },
+          {
             "id": "270cac0ce9e62e9a",
             "type": "leaf",
             "state": {
@@ -316,9 +340,11 @@
   },
   "active": "56835f59a7e3f33e",
   "lastOpenFiles": [
+    "Temp/002_稍后再看.md",
+    "Temp/006_影视作品.md",
+    "Templates/Homepage.md",
     "Dairies/2026-02-07.md",
     "Dairies/2026-02-06.md",
-    "Templates/Homepage.md",
     "Software/UML.md",
     "Templates/学习深度学习.md",
     "Dairies/实现自己的数据结构.md",
@@ -343,8 +369,6 @@
     "Leetcode/images/48_mat2.jpg",
     "Leetcode/images/48_mat1.jpg",
     "数据结构/怎么判断一个数是二的倍数，怎么求一个数中有几个 1 ， 说一下你的思路并手写代码.md",
-    "Dairies/矩阵乘法.md",
-    "Leetcode/1209. 删除字符串中的所有相邻重复项 II.md",
     "项目/信息管理系统/addmodifydialog.cpp",
     "项目/信息管理系统/mainwindow.cpp",
     "Leetcode/238. 除了自身以外数组的乘积.cpp~",
