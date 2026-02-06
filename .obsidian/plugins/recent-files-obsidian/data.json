@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "方向",
+      "path": "Temp/方向.md"
+    },
+    {
       "basename": "哈希表的原理是什么",
       "path": "操作系统/哈希表的原理是什么.md"
     },
@@ -9,12 +13,12 @@
       "path": "Templates/主页.md"
     },
     {
-      "basename": "面试题系列",
-      "path": "Templates/面试题系列.md"
-    },
-    {
       "basename": "2026-02-06",
       "path": "Dairies/2026-02-06.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/面试题系列.md"
     },
     {
       "basename": "2026-02-07",
@@ -119,10 +123,6 @@
     {
       "basename": "编译和链接阶段分别做哪些工作",
       "path": "操作系统/编译和链接阶段分别做哪些工作.md"
-    },
-    {
-      "basename": "方向",
-      "path": "Temp/方向.md"
     },
     {
       "basename": "内存泄露有哪些情况",

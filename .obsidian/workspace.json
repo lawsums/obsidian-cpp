@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "7267c6177f8b7693",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/方向.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "方向"
+            }
+          },
+          {
             "id": "30f370056c30b69a",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -363,12 +387,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "36acd3042706f5e9",
+  "active": "7267c6177f8b7693",
   "lastOpenFiles": [
-    "Templates/主页.md",
     "操作系统/哈希表的原理是什么.md",
-    "Templates/面试题系列.md",
+    "Templates/主页.md",
     "Dairies/2026-02-06.md",
+    "Dairies/学习科目四.md",
+    "Templates/面试题系列.md",
     "Dairies/2026-02-07.md",
     "Dairies/顺时针遍历矩阵问题.md",
     "Temp/003_不定期任务.md",
@@ -385,7 +410,6 @@
     "代码模版/容器对比.md",
     "代码模版/std容器, 库函数对比.md",
     "Dairies/实现自己的数据结构.md",
-    "Dairies/学习科目四.md",
     "Templates/学习深度学习.md",
     "操作系统/strlen和sizeof什么区别.md",
     "操作系统/内存对齐是什么.md",
