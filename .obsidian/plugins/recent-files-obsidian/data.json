@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "主页",
-      "path": "Templates/主页.md"
-    },
-    {
-      "basename": "寻找进程",
-      "path": "Temp/寻找进程.md"
+      "basename": "vector",
+      "path": "Dairies/vector.md"
     },
     {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
+      "basename": "主页",
+      "path": "Templates/主页.md"
+    },
+    {
+      "basename": "2026-02-06",
+      "path": "Dairies/2026-02-06.md"
+    },
+    {
+      "basename": "寻找进程",
+      "path": "Temp/寻找进程.md"
     },
     {
       "basename": "003_不定期任务",
@@ -31,10 +39,6 @@
     {
       "basename": "哈希表的原理是什么",
       "path": "操作系统/哈希表的原理是什么.md"
-    },
-    {
-      "basename": "2026-02-06",
-      "path": "Dairies/2026-02-06.md"
     },
     {
       "basename": "面试题系列",
@@ -195,10 +199,6 @@
     {
       "basename": "3263. 将数组分成最小总代价的子数组 I",
       "path": "Leetcode/3263. 将数组分成最小总代价的子数组 I.md"
-    },
-    {
-      "basename": "1-1shell语法",
-      "path": "Temp/黑马/1-1shell语法.md"
     }
   ],
   "omittedPaths": [],

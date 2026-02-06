@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/主页.md",
+                "file": "Dairies/vector.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "主页"
+              "title": "vector"
             }
           }
         ]
@@ -293,19 +293,20 @@
   "active": "703ab5a96236243f",
   "lastOpenFiles": [
     "Dairies/实现自己的数据结构.md",
+    "Dairies/vector.md",
+    "Templates/主页.md",
+    "Dairies/2026-02-06.md",
     "Temp/寻找进程.md",
     "操作系统/请问单核机器上写多线程程序，是否需要考虑加锁，为什么？.md",
     "Dairies/2026-01-05.md",
     "操作系统/请你说一说死锁发生的条件以及如何解决死锁.md",
     "数据结构/队列和栈的区别.md",
     "Dairies/2026-02-08.md",
-    "Templates/主页.md",
     "Temp/003_不定期任务.md",
     "Templates/Daily_note_template.md",
     "Templates/Daily_note_md.md",
     "Temp/方向.md",
     "操作系统/哈希表的原理是什么.md",
-    "Dairies/2026-02-06.md",
     "Dairies/学习科目四.md",
     "Templates/面试题系列.md",
     "Dairies/2026-02-07.md",
@@ -320,7 +321,6 @@
     "Dairies/2026-02-05.md",
     "代码模版/排序板子.md",
     "代码模版/堆板子.md",
-    "代码模版/容器对比.md",
     "项目/信息管理系统/addmodifydialog.cpp",
     "项目/信息管理系统/mainwindow.cpp",
     "Leetcode/238. 除了自身以外数组的乘积.cpp~",
