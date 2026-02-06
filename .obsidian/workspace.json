@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "703ab5a96236243f",
+            "id": "56835f59a7e3f33e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/vector.md",
+                "file": "Templates/Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "vector"
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "270cac0ce9e62e9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-02-07.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-07"
             }
           }
         ]
@@ -290,26 +314,29 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "703ab5a96236243f",
+  "active": "56835f59a7e3f33e",
   "lastOpenFiles": [
-    "Dairies/实现自己的数据结构.md",
-    "Dairies/vector.md",
-    "Templates/主页.md",
+    "Dairies/2026-02-07.md",
     "Dairies/2026-02-06.md",
+    "Templates/Homepage.md",
+    "Software/UML.md",
+    "Templates/学习深度学习.md",
+    "Dairies/实现自己的数据结构.md",
+    "Dairies/2026-02-03.md",
+    "Dairies/vector.md",
+    "Temp/003_不定期任务.md",
     "Temp/寻找进程.md",
     "操作系统/请问单核机器上写多线程程序，是否需要考虑加锁，为什么？.md",
     "Dairies/2026-01-05.md",
     "操作系统/请你说一说死锁发生的条件以及如何解决死锁.md",
     "数据结构/队列和栈的区别.md",
     "Dairies/2026-02-08.md",
-    "Temp/003_不定期任务.md",
     "Templates/Daily_note_template.md",
     "Templates/Daily_note_md.md",
     "Temp/方向.md",
     "操作系统/哈希表的原理是什么.md",
     "Dairies/学习科目四.md",
     "Templates/面试题系列.md",
-    "Dairies/2026-02-07.md",
     "Dairies/顺时针遍历矩阵问题.md",
     "Leetcode/48. 旋转图像.md",
     "Leetcode/48. 旋转图像.cpp",
@@ -318,9 +345,6 @@
     "数据结构/怎么判断一个数是二的倍数，怎么求一个数中有几个 1 ， 说一下你的思路并手写代码.md",
     "Dairies/矩阵乘法.md",
     "Leetcode/1209. 删除字符串中的所有相邻重复项 II.md",
-    "Dairies/2026-02-05.md",
-    "代码模版/排序板子.md",
-    "代码模版/堆板子.md",
     "项目/信息管理系统/addmodifydialog.cpp",
     "项目/信息管理系统/mainwindow.cpp",
     "Leetcode/238. 除了自身以外数组的乘积.cpp~",

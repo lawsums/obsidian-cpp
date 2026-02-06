@@ -1,382 +1,5 @@
 {
   "workspaces": {
-    "Daily-work": {
-      "main": {
-        "id": "508310054f00a9a3",
-        "type": "split",
-        "children": [
-          {
-            "id": "4696daa5c22224ab",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "e9b940bfbdac8d4c",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dairies/2026-02-03.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "2026-02-03"
-                }
-              },
-              {
-                "id": "76b380cc1450b0d8",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Temp/方向.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "方向"
-                }
-              },
-              {
-                "id": "86f8810417be6e73",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Templates/面试题系列.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "面试题系列"
-                }
-              },
-              {
-                "id": "9cfac715b56f37e2",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "操作系统/编译和链接阶段分别做哪些工作.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "编译和链接阶段分别做哪些工作"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical"
-      },
-      "left": {
-        "id": "f9fe4eaa9f478e4c",
-        "type": "split",
-        "children": [
-          {
-            "id": "177fa92686b10f84",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "944cd14a7fae27b7",
-                "type": "leaf",
-                "state": {
-                  "type": "file-explorer",
-                  "state": {
-                    "sortOrder": "alphabetical",
-                    "autoReveal": false
-                  },
-                  "icon": "lucide-folder-closed",
-                  "title": "文件列表"
-                }
-              },
-              {
-                "id": "2109367872043c6a",
-                "type": "leaf",
-                "state": {
-                  "type": "search",
-                  "state": {
-                    "query": "",
-                    "matchingCase": false,
-                    "explainSearch": false,
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical"
-                  },
-                  "icon": "lucide-search",
-                  "title": "搜索"
-                }
-              },
-              {
-                "id": "a5ee81f658b4b66b",
-                "type": "leaf",
-                "state": {
-                  "type": "bookmarks",
-                  "state": {},
-                  "icon": "lucide-bookmark",
-                  "title": "书签"
-                }
-              },
-              {
-                "id": "ab51d39c5fce48bc",
-                "type": "leaf",
-                "state": {
-                  "type": "recent-files",
-                  "state": {},
-                  "icon": "clock",
-                  "title": "Recent Files"
-                }
-              }
-            ],
-            "currentTab": 3
-          }
-        ],
-        "direction": "horizontal",
-        "width": 284
-      },
-      "right": {
-        "id": "10b2f2cc90125c33",
-        "type": "split",
-        "children": [
-          {
-            "id": "720402d91614d85f",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7ad080d1a7a76395",
-                "type": "leaf",
-                "state": {
-                  "type": "outline",
-                  "state": {
-                    "file": "Dairies/2026-02-03.md",
-                    "followCursor": false,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-list",
-                  "title": "2026-02-03 的大纲"
-                }
-              },
-              {
-                "id": "96da7d36b59c0c87",
-                "type": "leaf",
-                "state": {
-                  "type": "calendar",
-                  "state": {},
-                  "icon": "calendar-with-checkmark",
-                  "title": "Calendar"
-                }
-              },
-              {
-                "id": "823296351c3bd45e",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {},
-                  "icon": "git-pull-request",
-                  "title": "Source Control"
-                }
-              },
-              {
-                "id": "4cb9d123a5756450",
-                "type": "leaf",
-                "state": {
-                  "type": "side-panel-control-view",
-                  "state": {},
-                  "icon": "viewIcon",
-                  "title": "Markdown-Autocomplete"
-                }
-              },
-              {
-                "id": "6c75ef171ad96609",
-                "type": "leaf",
-                "state": {
-                  "type": "advanced-tables-toolbar",
-                  "state": {},
-                  "icon": "spreadsheet",
-                  "title": "Advanced Tables"
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "4d5c9ff27afeebb0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "62a2ab2074b1cb48",
-                "type": "leaf",
-                "state": {
-                  "type": "timer-view",
-                  "state": {},
-                  "icon": "timer",
-                  "title": "Timer"
-                }
-              },
-              {
-                "id": "f1f179bcd3eb2f09",
-                "type": "leaf",
-                "state": {
-                  "type": "tag",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "useHierarchy": true,
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-tags",
-                  "title": "标签"
-                }
-              },
-              {
-                "id": "7847ce469944fea3",
-                "type": "leaf",
-                "state": {
-                  "type": "outgoing-link",
-                  "state": {
-                    "file": "Dairies/2026-02-03.md",
-                    "linksCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-going-out",
-                  "title": "2026-02-03 的出链列表"
-                }
-              },
-              {
-                "id": "5903889d620935a8",
-                "type": "leaf",
-                "state": {
-                  "type": "all-properties",
-                  "state": {
-                    "sortOrder": "frequency",
-                    "showSearch": false,
-                    "searchQuery": ""
-                  },
-                  "icon": "lucide-archive",
-                  "title": "添加笔记属性"
-                }
-              },
-              {
-                "id": "f33e270113041b3b",
-                "type": "leaf",
-                "state": {
-                  "type": "backlink",
-                  "state": {
-                    "file": "Dairies/2026-02-03.md",
-                    "collapseAll": false,
-                    "extraContext": false,
-                    "sortOrder": "alphabetical",
-                    "showSearch": false,
-                    "searchQuery": "",
-                    "backlinkCollapsed": false,
-                    "unlinkedCollapsed": true
-                  },
-                  "icon": "links-coming-in",
-                  "title": "2026-02-03 的反向链接列表"
-                }
-              },
-              {
-                "id": "732dc9c3e225ad67",
-                "type": "leaf",
-                "state": {
-                  "type": "file-properties",
-                  "state": {
-                    "file": "Dairies/2026-02-03.md"
-                  },
-                  "icon": "lucide-info",
-                  "title": "2026-02-03的笔记属性"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal",
-        "width": 329.5
-      },
-      "left-ribbon": {
-        "hiddenItems": {
-          "diagram-zoom-drag:Picker mode": false,
-          "bases:新建数据库": false,
-          "switcher:打开快速切换": false,
-          "graph:查看关系图谱": false,
-          "canvas:新建白板": false,
-          "daily-notes:打开/创建今天的日记": false,
-          "templates:插入模板": false,
-          "command-palette:打开命令面板": false,
-          "workspaces:管理工作区布局": false,
-          "obsidian-excalidraw-plugin:新建绘图文件": false,
-          "terminal:Open terminal": false,
-          "slides-extended:Show slide preview": false,
-          "pdf-plus:PDF++: Toggle auto-copy": false,
-          "pdf-plus:PDF++: Toggle auto-focus": false,
-          "pdf-plus:PDF++: Toggle auto-paste": false,
-          "pomodoro-timer:Toggle timer panel": false,
-          "quickadd:QuickAdd": false,
-          "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
-          "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
-          "templater-obsidian:Templater": false,
-          "ace-code-editor:打开css片段管理器": false,
-          "obsidian-git:Open Git source control": false,
-          "table-editor-obsidian:Advanced Tables Toolbar": false,
-          "obsidian-day-and-night:Toggle Theme": false,
-          "obsidian-shellcommands:Shell commands: Custom variables": false,
-          "homepage:Open homepage": false
-        }
-      },
-      "active": "e9b940bfbdac8d4c",
-      "mtime": "2026-02-03T14:53:31+08:00",
-      "workspaces-plus:settings-v1": {
-        "explorerFoldState": [
-          "Leetcode"
-        ],
-        "description": "",
-        "mode": null
-      }
-    },
     "Homepage": {
       "main": {
         "id": "508310054f00a9a3",
@@ -387,12 +10,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "703ab5a96236243f",
+                "id": "56835f59a7e3f33e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Templates/主页.md",
+                    "file": "Templates/Homepage.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -407,7 +30,7 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "主页"
+                  "title": "Homepage"
                 }
               }
             ]
@@ -669,9 +292,15 @@
           "homepage:Open homepage": false
         }
       },
-      "active": "703ab5a96236243f",
-      "mtime": "2026-02-03T15:26:48+08:00",
-      "workspaces-plus:settings-v1": {}
+      "active": "56835f59a7e3f33e",
+      "mtime": "2026-02-06T22:01:26+08:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "Leetcode"
+        ],
+        "description": "",
+        "mode": null
+      }
     }
   },
   "active": "Homepage"

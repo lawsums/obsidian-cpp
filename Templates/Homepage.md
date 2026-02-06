@@ -5,7 +5,7 @@ tags:
 excalidraw-open-md: true
 ---
 
-`BUTTON[light-button,leetcode-button,nowcoder-button,zuochengyun-button]`
+`BUTTON[light-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`  `BUTTON[knowledgestar-button]`
 
  
 ## 今天待办
@@ -57,6 +57,15 @@ label: 左程云
 action:
   type: open
   link: https://space.bilibili.com/8888480/lists/3509640?type=series
+```
+```meta-bind-button
+style: default
+id: knowledgestar-button
+hidden: false
+label: 知识星球
+action:
+  type: open
+  link: https://wx.zsxq.com/group/88511825151142
 ```
 
 
