@@ -5,6 +5,10 @@
       "path": "Templates/主页.md"
     },
     {
+      "basename": "48. 旋转图像",
+      "path": "Leetcode/48. 旋转图像.md"
+    },
+    {
       "basename": "2026-02-05",
       "path": "Dairies/2026-02-05.md"
     },
