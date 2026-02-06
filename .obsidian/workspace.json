@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "主页"
             }
-          },
-          {
-            "id": "d182701d7e511245",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/2026-02-05.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-05"
-            }
           }
         ]
       }
@@ -314,7 +290,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "944cd14a7fae27b7",
+  "active": "703ab5a96236243f",
   "lastOpenFiles": [
     "数据结构/怎么判断一个数是二的倍数，怎么求一个数中有几个 1 ， 说一下你的思路并手写代码.md",
     "Templates/主页.md",
