@@ -26,6 +26,8 @@ excalidraw-open-md: true
 - [ ] 好好睡觉
 - [ ] [打字练习一篇文章](https://dazidazi.com/)
 - [ ] [没事就用 go 写一题 leetcode](https://leetcode.cn/)
+- [ ] 给老妈烧饭
+- [ ] 看一看 boss 直聘
 
 ## 想法
 

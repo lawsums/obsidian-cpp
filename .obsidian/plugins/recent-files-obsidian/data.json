@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "Daily_note_md",
+      "path": "Templates/Daily_note_md.md"
+    },
+    {
       "basename": "方向",
       "path": "Temp/方向.md"
     },
@@ -109,10 +117,6 @@
       "path": "操作系统/手撕lock_guard.md"
     },
     {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
-    },
-    {
       "basename": "MyQueue",
       "path": "MyQueue.cpp"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "阶段八Shell脚本编程",
       "path": "Temp/黑马/阶段八Shell脚本编程.md"
-    },
-    {
-      "basename": "黑马_Shell脚本编程",
-      "path": "Temp/黑马_Shell脚本编程.md"
     }
   ],
   "omittedPaths": [],

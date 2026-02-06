@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "32705c8d2685a16a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily_note_template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daily_note_template"
+            }
+          },
+          {
             "id": "30f370056c30b69a",
             "type": "leaf",
             "state": {
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -387,8 +411,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7267c6177f8b7693",
+  "active": "32705c8d2685a16a",
   "lastOpenFiles": [
+    "Templates/Daily_note_md.md",
+    "Temp/方向.md",
     "操作系统/哈希表的原理是什么.md",
     "Templates/主页.md",
     "Dairies/2026-02-06.md",
@@ -418,10 +444,8 @@
     "项目/信息管理系统/框架.md",
     "项目/信息管理系统/addmodifydialog.cpp",
     "项目/信息管理系统/mainwindow.cpp",
-    "Leetcode/238. 除了自身以外数组的乘积.md",
     "Leetcode/238. 除了自身以外数组的乘积.cpp~",
     "Leetcode/238. 除了自身以外数组的乘积.cpp",
-    "Leetcode/459. 重复的子字符串.md",
     "Leetcode/459. 重复的子字符串.cpp~",
     "Leetcode/459. 重复的子字符串.cpp",
     "Pasted Image 20260203175718_313.png",
