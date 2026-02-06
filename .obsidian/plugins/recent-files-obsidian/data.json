@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "主页",
-      "path": "Templates/主页.md"
+      "basename": "003_不定期任务",
+      "path": "Temp/003_不定期任务.md"
+    },
+    {
+      "basename": "2026-02-06",
+      "path": "Dairies/2026-02-06.md"
     },
     {
       "basename": "48. 旋转图像",
       "path": "Leetcode/48. 旋转图像.md"
+    },
+    {
+      "basename": "主页",
+      "path": "Templates/主页.md"
     },
     {
       "basename": "2026-02-05",
@@ -39,10 +47,6 @@
     {
       "basename": "学习深度学习",
       "path": "Templates/学习深度学习.md"
-    },
-    {
-      "basename": "2026-02-06",
-      "path": "Dairies/2026-02-06.md"
     },
     {
       "basename": "strlen和sizeof什么区别",
@@ -111,10 +115,6 @@
     {
       "basename": "内存泄露有哪些情况",
       "path": "操作系统/内存泄露有哪些情况.md"
-    },
-    {
-      "basename": "003_不定期任务",
-      "path": "Temp/003_不定期任务.md"
     },
     {
       "basename": "000_黑马",
