@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/主页.md",
+                "file": "Dairies/实现自己的数据结构.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "主页"
+              "title": "实现自己的数据结构"
             }
           },
           {
@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "32705c8d2685a16a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily_note_template.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Daily_note_template"
-            }
-          },
-          {
             "id": "30f370056c30b69a",
             "type": "leaf",
             "state": {
@@ -151,8 +127,7 @@
               "title": "2026-02-06"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -411,18 +386,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "32705c8d2685a16a",
+  "active": "703ab5a96236243f",
   "lastOpenFiles": [
+    "Templates/主页.md",
+    "Temp/003_不定期任务.md",
+    "Templates/Daily_note_template.md",
     "Templates/Daily_note_md.md",
     "Temp/方向.md",
     "操作系统/哈希表的原理是什么.md",
-    "Templates/主页.md",
     "Dairies/2026-02-06.md",
     "Dairies/学习科目四.md",
     "Templates/面试题系列.md",
     "Dairies/2026-02-07.md",
     "Dairies/顺时针遍历矩阵问题.md",
-    "Temp/003_不定期任务.md",
     "Leetcode/48. 旋转图像.md",
     "Leetcode/48. 旋转图像.cpp",
     "Leetcode/images/48_mat2.jpg",
@@ -441,7 +417,6 @@
     "操作系统/内存对齐是什么.md",
     "Dairies/2026-02-04.md",
     "项目/海同网盘/001_海同网盘.md",
-    "项目/信息管理系统/框架.md",
     "项目/信息管理系统/addmodifydialog.cpp",
     "项目/信息管理系统/mainwindow.cpp",
     "Leetcode/238. 除了自身以外数组的乘积.cpp~",

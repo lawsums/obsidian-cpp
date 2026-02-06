@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
+      "basename": "主页",
+      "path": "Templates/主页.md"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Temp/003_不定期任务.md"
+    },
+    {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
     },
@@ -17,10 +29,6 @@
       "path": "操作系统/哈希表的原理是什么.md"
     },
     {
-      "basename": "主页",
-      "path": "Templates/主页.md"
-    },
-    {
       "basename": "2026-02-06",
       "path": "Dairies/2026-02-06.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "顺时针遍历矩阵问题",
       "path": "Dairies/顺时针遍历矩阵问题.md"
-    },
-    {
-      "basename": "003_不定期任务",
-      "path": "Temp/003_不定期任务.md"
     },
     {
       "basename": "48. 旋转图像",
@@ -63,10 +67,6 @@
     {
       "basename": "std容器, 库函数对比",
       "path": "代码模版/std容器, 库函数对比.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "学习科目四",
