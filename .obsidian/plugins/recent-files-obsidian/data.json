@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "UML",
+      "path": "Software/UML.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "2026-02-06",
       "path": "Dairies/2026-02-06.md"
-    },
-    {
-      "basename": "UML",
-      "path": "Software/UML.md"
     },
     {
       "basename": "2026-02-03",

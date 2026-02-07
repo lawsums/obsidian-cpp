@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "1242d5c4a0fa4cd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/UML.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "UML"
+            }
+          },
+          {
             "id": "5e742063d9f28959",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "1756. 使字符串平衡的最少删除次数"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -314,12 +339,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "56835f59a7e3f33e",
+  "active": "1242d5c4a0fa4cd8",
   "lastOpenFiles": [
+    "Templates/Homepage.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/vector.md",
     "Pasted image 20260207130824.png",
-    "Templates/Homepage.md",
     "Leetcode/1756. 使字符串平衡的最少删除次数.md",
     "Leetcode/1756. 使字符串平衡的最少删除次数.cpp~",
     "Leetcode/1756. 使字符串平衡的最少删除次数.cpp",
