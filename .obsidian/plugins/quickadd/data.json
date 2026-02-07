@@ -719,6 +719,45 @@
         "mode": "default",
         "focus": true
       }
+    },
+    {
+      "id": "6d7ec501-5211-4cb9-818c-8e79f997e2f1",
+      "name": "video | cartoon | 影视动画",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Temp/006_影视作品.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": true,
+      "task": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
     }
   ],
   "inputPrompt": "single-line",
