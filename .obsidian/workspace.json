@@ -79,8 +79,7 @@
               "title": "1756. 使字符串平衡的最少删除次数"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -339,8 +338,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1242d5c4a0fa4cd8",
+  "active": "56835f59a7e3f33e",
   "lastOpenFiles": [
+    "Software/UML.md",
     "Templates/Homepage.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/vector.md",
@@ -354,7 +354,6 @@
     "Temp/002_稍后再看.md",
     "Temp/006_影视作品.md",
     "Dairies/2026-02-06.md",
-    "Software/UML.md",
     "Templates/学习深度学习.md",
     "Dairies/2026-02-03.md",
     "Temp/003_不定期任务.md",

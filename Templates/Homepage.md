@@ -5,8 +5,8 @@ tags:
 excalidraw-open-md: true
 ---
 
-`BUTTON[light-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`  `BUTTON[knowledgestar-button]`
-
+`BUTTON[light-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`  `BUTTON[knowledgestar-button, knowledgeWarehouse-button]`
+		
  
 ## 今天待办
 ``` dataview
@@ -66,6 +66,15 @@ label: 知识星球
 action:
   type: open
   link: https://wx.zsxq.com/group/88511825151142
+```
+```meta-bind-button
+style: default
+id: knowledgeWarehouse-button
+hidden: false
+label: C++一站式知识库
+action:
+  type: open
+  link: https://www.yuque.com/linuxer/gscfv1
 ```
 
 

@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "UML",
-      "path": "Software/UML.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage.md"
+    },
+    {
+      "basename": "UML",
+      "path": "Software/UML.md"
     },
     {
       "basename": "实现自己的数据结构",
