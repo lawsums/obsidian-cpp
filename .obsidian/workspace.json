@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "f12478afff745a7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/z_写面试题.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "z_写面试题"
+            }
+          },
+          {
             "id": "33a874951d515c0f",
             "type": "leaf",
             "state": {
@@ -365,8 +389,12 @@
   },
   "active": "8d1cde26b585fa77",
   "lastOpenFiles": [
-    "Templates/Homepage.md",
+    "Temp/z_写面试题.md",
     "操作系统/有mutex为什么还要用lock_guard、unique_lock.md",
+    "Temp/z_指令.md",
+    "Temp/z_写标题.md",
+    "Temp/z_写知识卡片.md",
+    "Templates/Homepage.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/学习esp32s3.md",
     "Temp/004_闪念.md",
@@ -390,10 +418,6 @@
     "Temp/寻找进程.md",
     "操作系统/请问单核机器上写多线程程序，是否需要考虑加锁，为什么？.md",
     "Dairies/2026-01-05.md",
-    "操作系统/请你说一说死锁发生的条件以及如何解决死锁.md",
-    "数据结构/队列和栈的区别.md",
-    "Dairies/2026-02-08.md",
-    "Templates/Daily_note_template.md",
     "Leetcode/48. 旋转图像.cpp",
     "Leetcode/images/48_mat2.jpg",
     "Leetcode/images/48_mat1.jpg",
