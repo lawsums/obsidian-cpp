@@ -5,6 +5,14 @@
       "path": "Templates/Homepage.md"
     },
     {
+      "basename": "2026-02-07",
+      "path": "Dairies/2026-02-07.md"
+    },
+    {
+      "basename": "2026-02-08",
+      "path": "Dairies/2026-02-08.md"
+    },
+    {
       "basename": "z_写面试题",
       "path": "Temp/z_写面试题.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "UML",
       "path": "Software/UML.md"
-    },
-    {
-      "basename": "2026-02-07",
-      "path": "Dairies/2026-02-07.md"
     },
     {
       "basename": "学习科目四",
@@ -195,10 +199,6 @@
     {
       "basename": "编译和链接阶段分别做哪些工作",
       "path": "操作系统/编译和链接阶段分别做哪些工作.md"
-    },
-    {
-      "basename": "内存泄露有哪些情况",
-      "path": "操作系统/内存泄露有哪些情况.md"
     }
   ],
   "omittedPaths": [],

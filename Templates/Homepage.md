@@ -7,16 +7,43 @@ excalidraw-open-md: true
 ---
 `BUTTON[light-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`  `BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button]`
 
-## 今天待办
+
+## 今天/昨日待办
+```` col
 ``` dataview
 task from "Dairies"
 where file.day = date(today) and !completed
 ```
 
+``` dataview
+task from "Dairies"
+where file.day = date(yesterday) and !completed
+```
+````
+
+## 稍后再看/不定期任务
+```` col
+``` dataview
+TASK WHERE !completed
+AND file.folder = "Temp" 
+AND file.name = "002_稍后再看"
+GROUP BY file.link
+```
+
+``` dataview
+TASK WHERE !completed
+AND file.folder = "Temp" 
+AND file.name = "003_不定期任务"
+GROUP BY file.link
+```
+````
+
 ## 其他任务
 ``` dataview
 TASK WHERE !completed
 AND file.folder = "Temp"
+AND file.name != "002_稍后再看"
+AND file.name != "003_不定期任务"
 GROUP BY file.link
 ```
 
