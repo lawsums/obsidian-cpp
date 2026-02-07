@@ -5,8 +5,8 @@ tags:
 excalidraw-open-md: true
 ---
 
-`BUTTON[light-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`  `BUTTON[knowledgestar-button, knowledgeWarehouse-button]`
-		
+`BUTTON[light-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`  `BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button]`
+
  
 ## 今天待办
 ``` dataview
@@ -71,10 +71,19 @@ action:
 style: default
 id: knowledgeWarehouse-button
 hidden: false
-label: C++一站式知识库
+label: 一站式知识库
 action:
   type: open
   link: https://www.yuque.com/linuxer/gscfv1
+```
+```meta-bind-button
+style: default
+id: commonProjects-button
+hidden: false
+label: 常见项目
+action:
+  type: open
+  link: https://zhuanlan.zhihu.com/p/17138007124
 ```
 
 
