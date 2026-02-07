@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage.md"
+    },
+    {
       "basename": "有mutex为什么还要用lock_guard、unique_lock",
       "path": "操作系统/有mutex为什么还要用lock_guard、unique_lock.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "z_写知识卡片",
       "path": "Temp/z_写知识卡片.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage.md"
     },
     {
       "basename": "实现自己的数据结构",
