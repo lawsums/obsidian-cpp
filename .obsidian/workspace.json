@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "33a874951d515c0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/学习esp32s3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习esp32s3"
+            }
+          },
+          {
+            "id": "bd3dd06f80a055d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/004_闪念.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "004_闪念"
+            }
+          },
+          {
             "id": "024138f721636266",
             "type": "leaf",
             "state": {
@@ -79,7 +127,8 @@
               "title": "UML"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -338,10 +387,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "56835f59a7e3f33e",
+  "active": "33a874951d515c0f",
   "lastOpenFiles": [
-    "Dairies/学习科目四.md",
     "Templates/Homepage.md",
+    "Dairies/2026-02-07.md",
+    "Templates/学习esp32s3.md",
+    "Temp/004_闪念.md",
+    "Dairies/学习科目四.md",
     "操作系统/size_t有什么作用.md",
     "Software/UML.md",
     "Leetcode/1756. 使字符串平衡的最少删除次数.md",
@@ -351,7 +403,6 @@
     "Pasted image 20260207130824.png",
     "Leetcode/1756. 使字符串平衡的最少删除次数.cpp~",
     "Dairies/顺时针遍历矩阵问题.md",
-    "Dairies/2026-02-07.md",
     "Temp/002_稍后再看.md",
     "Temp/006_影视作品.md",
     "Dairies/2026-02-06.md",
@@ -367,8 +418,6 @@
     "Templates/Daily_note_template.md",
     "Templates/Daily_note_md.md",
     "Temp/方向.md",
-    "操作系统/哈希表的原理是什么.md",
-    "Templates/面试题系列.md",
     "Leetcode/48. 旋转图像.cpp",
     "Leetcode/images/48_mat2.jpg",
     "Leetcode/images/48_mat1.jpg",
