@@ -79,7 +79,8 @@
               "title": "1756. 使字符串平衡的最少删除次数"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -338,16 +339,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "56835f59a7e3f33e",
+  "active": "5e742063d9f28959",
   "lastOpenFiles": [
-    "Software/UML.md",
+    "Leetcode/1756. 使字符串平衡的最少删除次数.cpp",
+    "Leetcode/1756. 使字符串平衡的最少删除次数.md",
     "Templates/Homepage.md",
+    "Software/UML.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/vector.md",
     "Pasted image 20260207130824.png",
-    "Leetcode/1756. 使字符串平衡的最少删除次数.md",
     "Leetcode/1756. 使字符串平衡的最少删除次数.cpp~",
-    "Leetcode/1756. 使字符串平衡的最少删除次数.cpp",
     "Dairies/顺时针遍历矩阵问题.md",
     "Dairies/学习科目四.md",
     "Dairies/2026-02-07.md",
