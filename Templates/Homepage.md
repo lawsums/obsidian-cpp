@@ -1,13 +1,12 @@
 ---
+banner: "![[1.jpeg]]"
 excalidraw-plugin: parsed
 tags:
   - excalidraw
 excalidraw-open-md: true
 ---
-
 `BUTTON[light-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`  `BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button]`
 
- 
 ## 今天待办
 ``` dataview
 task from "Dairies"

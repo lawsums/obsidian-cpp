@@ -5,12 +5,24 @@
       "path": "Templates/Homepage.md"
     },
     {
-      "basename": "有mutex为什么还要用lock_guard、unique_lock",
-      "path": "操作系统/有mutex为什么还要用lock_guard、unique_lock.md"
-    },
-    {
       "basename": "z_写面试题",
       "path": "Temp/z_写面试题.md"
+    },
+    {
+      "basename": "学习esp32s3",
+      "path": "Templates/学习esp32s3.md"
+    },
+    {
+      "basename": "004_闪念",
+      "path": "Temp/004_闪念.md"
+    },
+    {
+      "basename": "Pasted image 20251209200240",
+      "path": "Pasted image 20251209200240.png"
+    },
+    {
+      "basename": "有mutex为什么还要用lock_guard、unique_lock",
+      "path": "操作系统/有mutex为什么还要用lock_guard、unique_lock.md"
     },
     {
       "basename": "z_指令",
@@ -27,14 +39,6 @@
     {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
-      "basename": "学习esp32s3",
-      "path": "Templates/学习esp32s3.md"
-    },
-    {
-      "basename": "004_闪念",
-      "path": "Temp/004_闪念.md"
     },
     {
       "basename": "PlatformIO",
@@ -195,10 +199,6 @@
     {
       "basename": "内存泄露有哪些情况",
       "path": "操作系统/内存泄露有哪些情况.md"
-    },
-    {
-      "basename": "000_黑马",
-      "path": "Temp/黑马/000_黑马.md"
     }
   ],
   "omittedPaths": [],
