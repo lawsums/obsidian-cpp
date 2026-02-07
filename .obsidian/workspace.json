@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "5e742063d9f28959",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/1756. 使字符串平衡的最少删除次数.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1756. 使字符串平衡的最少删除次数"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -290,11 +315,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "56835f59a7e3f33e",
+  "active": "5e742063d9f28959",
   "lastOpenFiles": [
+    "Leetcode/1756. 使字符串平衡的最少删除次数.cpp~",
+    "Leetcode/1756. 使字符串平衡的最少删除次数.cpp",
+    "Templates/Homepage.md",
+    "Leetcode/1756. 使字符串平衡的最少删除次数.md",
+    "Dairies/顺时针遍历矩阵问题.md",
     "Dairies/学习科目四.md",
     "Dairies/2026-02-07.md",
-    "Templates/Homepage.md",
     "Temp/002_稍后再看.md",
     "Temp/006_影视作品.md",
     "Dairies/2026-02-06.md",
@@ -315,12 +344,9 @@
     "Temp/方向.md",
     "操作系统/哈希表的原理是什么.md",
     "Templates/面试题系列.md",
-    "Dairies/顺时针遍历矩阵问题.md",
-    "Leetcode/48. 旋转图像.md",
     "Leetcode/48. 旋转图像.cpp",
     "Leetcode/images/48_mat2.jpg",
     "Leetcode/images/48_mat1.jpg",
-    "数据结构/怎么判断一个数是二的倍数，怎么求一个数中有几个 1 ， 说一下你的思路并手写代码.md",
     "项目/信息管理系统/addmodifydialog.cpp",
     "项目/信息管理系统/mainwindow.cpp",
     "Leetcode/238. 除了自身以外数组的乘积.cpp~",
@@ -335,7 +361,6 @@
     "Pasted Image 20260203160743_303.png",
     "Pasted Image 20260203160548_464.png",
     "Pasted Image 20260203160317_229.png",
-    "项目/信息管理系统",
     "Leetcode/images/919_shadow.png",
     "Pasted Image 20260127121459_635.png",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
