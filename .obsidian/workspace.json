@@ -107,22 +107,8 @@
       {
         "id": "720402d91614d85f",
         "type": "tabs",
+        "dimension": 34.00447427293065,
         "children": [
-          {
-            "id": "7ad080d1a7a76395",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Dairies/2026-02-03.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "2026-02-03 的大纲"
-            }
-          },
           {
             "id": "96da7d36b59c0c87",
             "type": "leaf",
@@ -131,16 +117,6 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
-            }
-          },
-          {
-            "id": "823296351c3bd45e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
             }
           },
           {
@@ -163,12 +139,44 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "1f4a0a689d4af124",
+        "type": "tabs",
+        "dimension": 32.662192393736014,
+        "children": [
+          {
+            "id": "7ad080d1a7a76395",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Templates/Homepage.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Homepage 的大纲"
+            }
+          },
+          {
+            "id": "823296351c3bd45e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ]
       },
       {
         "id": "4d5c9ff27afeebb0",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "62a2ab2074b1cb48",
@@ -291,7 +299,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "56835f59a7e3f33e",
+  "active": "7ad080d1a7a76395",
   "lastOpenFiles": [
     "Templates/Homepage.md",
     "Dairies/学习科目四.md",
