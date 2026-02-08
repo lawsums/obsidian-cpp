@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -333,13 +333,13 @@
   },
   "active": "56835f59a7e3f33e",
   "lastOpenFiles": [
+    "Dairies/学习科目四.md",
+    "Templates/Homepage.md",
     "Leetcode/28. 找出字符串中第一个匹配项的下标.md",
     "Dairies/2026-02-08.md",
-    "Templates/Homepage.md",
     "Temp/在古代系列.md",
     "Leetcode/28. 找出字符串中第一个匹配项的下标.cpp",
     "Leetcode/28. 找出字符串中第一个匹配项的下标.cpp~",
-    "Dairies/学习科目四.md",
     "Dairies/2026-02-06.md",
     "Software/UML.md",
     "Temp/003_不定期任务.md",
