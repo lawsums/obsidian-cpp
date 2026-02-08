@@ -55,8 +55,7 @@
               "title": "110. 平衡二叉树"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -316,14 +315,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7d428e4e289eeee7",
+  "active": "56835f59a7e3f33e",
   "lastOpenFiles": [
+    "Leetcode/110. 平衡二叉树.md",
     "Leetcode/110. 平衡二叉树.cpp~",
     "Leetcode/110. 平衡二叉树.cpp",
     "Templates/Homepage.md",
     "Leetcode/images/110_balance_2.jpg",
     "Leetcode/images/110_balance_1.jpg",
-    "Leetcode/110. 平衡二叉树.md",
     "Dairies/2026-02-07.md",
     "Dairies/2026-02-08.md",
     "Templates/面试题系列.md",
@@ -360,7 +359,6 @@
     "Leetcode/238. 除了自身以外数组的乘积.cpp~",
     "Leetcode/238. 除了自身以外数组的乘积.cpp",
     "Leetcode/459. 重复的子字符串.cpp~",
-    "Leetcode/459. 重复的子字符串.cpp",
     "Pasted Image 20260203175718_313.png",
     "Pasted Image 20260203175630_454.png",
     "Pasted Image 20260203160850_279.png",
