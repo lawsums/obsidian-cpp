@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "110. 平衡二叉树",
+      "path": "Leetcode/110. 平衡二叉树.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "MyQueue",
       "path": "MyQueue.cpp"
-    },
-    {
-      "basename": "编译和链接阶段分别做哪些工作",
-      "path": "操作系统/编译和链接阶段分别做哪些工作.md"
     }
   ],
   "omittedPaths": [],

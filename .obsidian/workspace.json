@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "7d428e4e289eeee7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/110. 平衡二叉树.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "110. 平衡二叉树"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -291,10 +316,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "56835f59a7e3f33e",
+  "active": "7d428e4e289eeee7",
   "lastOpenFiles": [
-    "Dairies/2026-02-07.md",
+    "Leetcode/110. 平衡二叉树.cpp~",
+    "Leetcode/110. 平衡二叉树.cpp",
     "Templates/Homepage.md",
+    "Leetcode/images/110_balance_2.jpg",
+    "Leetcode/images/110_balance_1.jpg",
+    "Leetcode/110. 平衡二叉树.md",
+    "Dairies/2026-02-07.md",
     "Dairies/2026-02-08.md",
     "Templates/面试题系列.md",
     "Dairies/2026-02-10.md",
@@ -322,8 +352,6 @@
     "Temp/002_稍后再看.md",
     "Temp/006_影视作品.md",
     "Dairies/2026-02-06.md",
-    "Templates/学习深度学习.md",
-    "Dairies/2026-02-03.md",
     "Leetcode/48. 旋转图像.cpp",
     "Leetcode/images/48_mat2.jpg",
     "Leetcode/images/48_mat1.jpg",
@@ -335,10 +363,7 @@
     "Leetcode/459. 重复的子字符串.cpp",
     "Pasted Image 20260203175718_313.png",
     "Pasted Image 20260203175630_454.png",
-    "项目/信息管理系统/main.cpp",
     "Pasted Image 20260203160850_279.png",
-    "Pasted Image 20260203160743_303.png",
-    "Pasted Image 20260203160548_464.png",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
 }
