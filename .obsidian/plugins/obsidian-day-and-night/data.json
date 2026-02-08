@@ -1,10 +1,10 @@
 {
-  "pluginEnabled": false,
-  "currentTheme": "Blue Topaz",
+  "pluginEnabled": true,
+  "currentTheme": "Phycat",
   "currentColorScheme": "moonstone",
   "dayColorScheme": "moonstone",
   "dayTime": "7:00",
-  "dayTheme": "Blue Topaz",
+  "dayTheme": "Phycat",
   "nightColorScheme": "obsidian",
   "nightTime": "19:00",
   "nightTheme": "Tokyo Night",
