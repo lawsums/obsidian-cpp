@@ -4,7 +4,7 @@
     "cpp",
     "py"
   ],
-  "lightTheme": "solarized_light",
+  "lightTheme": "github_light_default",
   "darkTheme": "one_dark",
   "keyboard": "default",
   "showLineNumbers": true,

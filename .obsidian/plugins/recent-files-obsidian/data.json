@@ -5,6 +5,14 @@
       "path": "Templates/Homepage.md"
     },
     {
+      "basename": "28. 找出字符串中第一个匹配项的下标",
+      "path": "Leetcode/28. 找出字符串中第一个匹配项的下标.md"
+    },
+    {
+      "basename": "28. 找出字符串中第一个匹配项的下标",
+      "path": "Leetcode/28. 找出字符串中第一个匹配项的下标.cpp"
+    },
+    {
       "basename": "学习科目四",
       "path": "Dairies/学习科目四.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "addmodifydialog",
       "path": "项目/信息管理系统/addmodifydialog.cpp"
-    },
-    {
-      "basename": "mainwindow",
-      "path": "项目/信息管理系统/mainwindow.cpp"
-    },
-    {
-      "basename": "238. 除了自身以外数组的乘积",
-      "path": "Leetcode/238. 除了自身以外数组的乘积.md"
     }
   ],
   "omittedPaths": [],

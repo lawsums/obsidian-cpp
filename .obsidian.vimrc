@@ -221,11 +221,11 @@ nmap <Space>N :toggle_rightside<CR>
 
 " 切换阅读模式
 exmap toggle_preview obcommand markdown:toggle-preview
-nmap <Space>l :toggle_source
+nmap <Space>l :toggle_preview<CR>
 
 " 切换源码模式
 exmap toggle_source obcommand editor:toggle-source 
-nmap <Space>m :toggle_source
+nmap <Space>m :toggle_source<CR>
 
 
 " 一个没用的注释

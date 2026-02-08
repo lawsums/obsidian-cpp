@@ -107,8 +107,22 @@
       {
         "id": "720402d91614d85f",
         "type": "tabs",
-        "dimension": 34.00447427293065,
         "children": [
+          {
+            "id": "7ad080d1a7a76395",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Dairies/2026-02-03.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-02-03 的大纲"
+            }
+          },
           {
             "id": "96da7d36b59c0c87",
             "type": "leaf",
@@ -117,6 +131,16 @@
               "state": {},
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
+            }
+          },
+          {
+            "id": "823296351c3bd45e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -139,44 +163,12 @@
               "title": "Advanced Tables"
             }
           }
-        ]
-      },
-      {
-        "id": "1f4a0a689d4af124",
-        "type": "tabs",
-        "dimension": 32.662192393736014,
-        "children": [
-          {
-            "id": "7ad080d1a7a76395",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Templates/Homepage.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Homepage 的大纲"
-            }
-          },
-          {
-            "id": "823296351c3bd45e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "4d5c9ff27afeebb0",
         "type": "tabs",
-        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "62a2ab2074b1cb48",
@@ -299,9 +291,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7ad080d1a7a76395",
+  "active": "56835f59a7e3f33e",
   "lastOpenFiles": [
     "Templates/Homepage.md",
+    "Leetcode/28. 找出字符串中第一个匹配项的下标.md",
+    "Leetcode/28. 找出字符串中第一个匹配项的下标.cpp",
+    "Leetcode/28. 找出字符串中第一个匹配项的下标.cpp~",
     "Dairies/学习科目四.md",
     "Dairies/2026-02-06.md",
     "Software/UML.md",
@@ -331,8 +326,6 @@
     "Temp/z_写标题.md",
     "Temp/z_写知识卡片.md",
     "Software/PlatformIO.md",
-    "操作系统/size_t有什么作用.md",
-    "Leetcode/1756. 使字符串平衡的最少删除次数.md",
     "Leetcode/1756. 使字符串平衡的最少删除次数.cpp",
     "Pasted image 20260207130824.png",
     "Leetcode/1756. 使字符串平衡的最少删除次数.cpp~",
@@ -342,8 +335,6 @@
     "项目/信息管理系统/addmodifydialog.cpp",
     "项目/信息管理系统/mainwindow.cpp",
     "Leetcode/238. 除了自身以外数组的乘积.cpp~",
-    "Leetcode/238. 除了自身以外数组的乘积.cpp",
-    "Leetcode/459. 重复的子字符串.cpp~",
     "Pasted Image 20260203175718_313.png",
     "Pasted Image 20260203175630_454.png",
     "Pasted Image 20260203160850_279.png",
