@@ -750,7 +750,46 @@
         "direction": "below"
       },
       "prepend": true,
-      "task": false,
+      "task": true,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      }
+    },
+    {
+      "id": "636b369a-5fe1-419c-b6bf-3dfab66dcd4f",
+      "name": "books | 书籍",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Temp/007_书籍.md",
+      "captureToActiveFile": false,
+      "createFileIfItDoesntExist": {
+        "enabled": true,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": true,
+      "task": true,
       "openFile": false,
       "fileOpening": {
         "location": "tab",

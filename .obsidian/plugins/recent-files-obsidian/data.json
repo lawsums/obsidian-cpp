@@ -5,6 +5,18 @@
       "path": "Templates/Homepage.md"
     },
     {
+      "basename": "Effctive STL",
+      "path": "Temp/Effctive STL.md"
+    },
+    {
+      "basename": "007_书籍",
+      "path": "Temp/007_书籍.md"
+    },
+    {
+      "basename": "事务语义",
+      "path": "Temp/事务语义.md"
+    },
+    {
       "basename": "110. 平衡二叉树",
       "path": "Leetcode/110. 平衡二叉树.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "238. 除了自身以外数组的乘积",
       "path": "Leetcode/238. 除了自身以外数组的乘积.md"
-    },
-    {
-      "basename": "459. 重复的子字符串",
-      "path": "Leetcode/459. 重复的子字符串.md"
-    },
-    {
-      "basename": "手撕lock_guard",
-      "path": "操作系统/手撕lock_guard.md"
-    },
-    {
-      "basename": "MyQueue",
-      "path": "MyQueue.cpp"
     }
   ],
   "omittedPaths": [],

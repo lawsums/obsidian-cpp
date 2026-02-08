@@ -38,12 +38,31 @@ GROUP BY file.link
 ```
 ````
 
+## 影视动画/书籍
+```` col
+``` dataview
+TASK WHERE !completed
+AND file.folder = "Temp" 
+AND file.name = "006_影视作品"
+GROUP BY file.link
+```
+
+``` dataview
+TASK WHERE !completed
+AND file.folder = "Temp" 
+AND file.name = "007_书籍"
+GROUP BY file.link
+```
+````
+
 ## 其他任务
 ``` dataview
 TASK WHERE !completed
 AND file.folder = "Temp"
 AND file.name != "002_稍后再看"
 AND file.name != "003_不定期任务"
+AND file.name != "006_影视作品"
+AND file.name != "007_书籍"
 GROUP BY file.link
 ```
 
