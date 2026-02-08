@@ -219,5 +219,13 @@ exmap toggle_rightside obcommand app:toggle-right-sidebar
 nmap <Space>n :toggle_leftside<CR>
 nmap <Space>N :toggle_rightside<CR>
 
+" 切换阅读模式
+exmap toggle_preview obcommand markdown:toggle-preview
+nmap <Space>l :toggle_source
+
+" 切换源码模式
+exmap toggle_source obcommand editor:toggle-source 
+nmap <Space>m :toggle_source
+
 
 " 一个没用的注释

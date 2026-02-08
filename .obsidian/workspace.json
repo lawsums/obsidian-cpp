@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "8cc1cee5108f3f0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/UML.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "UML"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +43,6 @@
       {
         "id": "177fa92686b10f84",
         "type": "tabs",
-        "dimension": 74.14806110458284,
         "children": [
           {
             "id": "944cd14a7fae27b7",
@@ -80,7 +54,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "文件列表"
             }
           },
           {
@@ -109,14 +83,7 @@
               "icon": "lucide-bookmark",
               "title": "书签"
             }
-          }
-        ]
-      },
-      {
-        "id": "cdb84ae6af37f5a7",
-        "type": "tabs",
-        "dimension": 25.851938895417153,
-        "children": [
+          },
           {
             "id": "ab51d39c5fce48bc",
             "type": "leaf",
@@ -295,18 +262,17 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false,
-      "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "ace-code-editor:Open CSS snippet manager": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "diagram-zoom-drag:Picker mode": false,
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
       "terminal:Open terminal": false,
       "slides-extended:Show slide preview": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
@@ -317,6 +283,7 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "templater-obsidian:Templater": false,
+      "ace-code-editor:打开css片段管理器": false,
       "obsidian-git:Open Git source control": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-and-night:Toggle Theme": false,
@@ -324,9 +291,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8cc1cee5108f3f0e",
+  "active": "56835f59a7e3f33e",
   "lastOpenFiles": [
     "Templates/Homepage.md",
+    "Dairies/学习科目四.md",
+    "Dairies/2026-02-06.md",
+    "Software/UML.md",
     "Temp/003_不定期任务.md",
     "Temp/002_稍后再看.md",
     "Leetcode/110. 平衡二叉树.md",
@@ -354,11 +324,8 @@
     "Temp/z_写知识卡片.md",
     "Software/PlatformIO.md",
     "操作系统/size_t有什么作用.md",
-    "Software/UML.md",
-    "Dairies/学习科目四.md",
     "Leetcode/1756. 使字符串平衡的最少删除次数.md",
     "Leetcode/1756. 使字符串平衡的最少删除次数.cpp",
-    "Dairies/vector.md",
     "Pasted image 20260207130824.png",
     "Leetcode/1756. 使字符串平衡的最少删除次数.cpp~",
     "Leetcode/48. 旋转图像.cpp",
