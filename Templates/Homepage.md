@@ -5,7 +5,7 @@ tags:
   - excalidraw
 excalidraw-open-md: true
 ---
-`BUTTON[light-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`  `BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button]`
+`BUTTON[light-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`  `BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button, studyRoad-button]`
 
 
 ## 今天/昨日待办
@@ -111,7 +111,15 @@ action:
   type: open
   link: https://zhuanlan.zhihu.com/p/17138007124
 ```
-
+```meta-bind-button
+style: default
+id: studyRoad-button
+hidden: false
+label: 学习路线
+action:
+  type: open
+  link: https://articles.zsxq.com/id_n4jcuih49kad.html
+```
 
 # Excalidraw Data
 
