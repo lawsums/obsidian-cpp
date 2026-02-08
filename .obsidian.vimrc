@@ -139,8 +139,8 @@ nmap <Space>h :focusLeft<CR>
 nmap <Space>l :focusRight<CR>
 nmap <Space>j :focusBottom<CR>
 nmap <Space>k :focusTop<CR>
-nmap <Space>sv :vsp<CR>
-nmap <Space>sh :ssp<CR>
+nmap <Space>sl :vsp<CR>
+nmap <Space>sj :ssp<CR>
 
 " 关闭工作区
 exmap q obcommand workspace:close
@@ -225,7 +225,7 @@ nmap <Space>l :toggle_preview<CR>
 
 " 切换源码模式
 exmap toggle_source obcommand editor:toggle-source 
-nmap <Space>m :toggle_source<CR>
+nmap <Space>j :toggle_source<CR>
 
 
 " 一个没用的注释

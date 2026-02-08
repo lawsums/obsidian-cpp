@@ -8,20 +8,25 @@ excalidraw-open-md: true
 `BUTTON[light-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`  `BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button, studyRoad-button]`
 
 ## 今天/昨日待办
-```` col
+````columns
+id: gL39qDWT_Jjpb_OEMa91V
+===
 ``` dataview
 task from "Dairies"
 where file.day = date(today) and !completed
 ```
-
+===
 ``` dataview
 task from "Dairies"
 where file.day = date(yesterday) and !completed
 ```
+
 ````
-  
+
 ## 稍后再看/不定期任务
-```` col
+````columns
+id: e72xW5g2k6VC9lGXrlfRv
+===
 ``` dataview
 TASK WHERE !completed
 AND file.folder = "Temp" 
@@ -29,16 +34,20 @@ AND file.name = "002_稍后再看"
 GROUP BY file.link
 ```
 
+===
 ``` dataview
 TASK WHERE !completed
 AND file.folder = "Temp" 
 AND file.name = "003_不定期任务"
 GROUP BY file.link
 ```
+
 ````
 
 ## 影视动画/书籍
-```` col
+````columns
+id: WDL6WrMjnI7Qv5DGKK970
+===
 ``` dataview
 TASK WHERE !completed
 AND file.folder = "Temp" 
@@ -46,12 +55,15 @@ AND file.name = "006_影视作品"
 GROUP BY file.link
 ```
 
+
+===
 ``` dataview
 TASK WHERE !completed
 AND file.folder = "Temp" 
 AND file.name = "007_书籍"
 GROUP BY file.link
 ```
+
 ````
 
 ## 其他任务

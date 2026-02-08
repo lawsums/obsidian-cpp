@@ -192,9 +192,9 @@
   "editor:toggle-source": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
-      "key": "M"
+      "key": "J"
     }
   ],
   "insert-template": [
@@ -238,14 +238,6 @@
     }
   ],
   "markdown:toggle-preview": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "L"
-    }
-  ],
-  "workspace:split-vertical": [
     {
       "modifiers": [
         "Alt"
@@ -389,7 +381,7 @@
       "key": "C"
     }
   ],
-  "keyboard-analyzer:focus-shortcuts-analyzer-view": [
+  "keyboard-analyzer:open-shortcuts-analyzer-view": [
     {
       "modifiers": [],
       "key": "F12"

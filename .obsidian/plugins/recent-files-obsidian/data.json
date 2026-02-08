@@ -9,6 +9,10 @@
       "path": "Leetcode/28. 找出字符串中第一个匹配项的下标.md"
     },
     {
+      "basename": "2026-02-08",
+      "path": "Dairies/2026-02-08.md"
+    },
+    {
       "basename": "28. 找出字符串中第一个匹配项的下标",
       "path": "Leetcode/28. 找出字符串中第一个匹配项的下标.cpp"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "2026-02-07",
       "path": "Dairies/2026-02-07.md"
-    },
-    {
-      "basename": "2026-02-08",
-      "path": "Dairies/2026-02-08.md"
     },
     {
       "basename": "z_写面试题",
