@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "3f749d4d39b90a55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/实现自己的数据结构.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "实现自己的数据结构"
+            }
+          },
+          {
             "id": "2f59cdb4fa3a5575",
             "type": "leaf",
             "state": {
@@ -209,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/1285. 将二叉搜索树变平衡.md",
+                "file": "Dairies/实现自己的数据结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1285. 将二叉搜索树变平衡 的大纲"
+              "title": "实现自己的数据结构 的大纲"
             }
           },
           {
@@ -356,7 +380,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2f59cdb4fa3a5575",
+  "active": "3f749d4d39b90a55",
   "lastOpenFiles": [
     "Templates/Homepage.md",
     "Leetcode/1285. 将二叉搜索树变平衡.md",
