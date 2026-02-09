@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1285. 将二叉搜索树变平衡",
+      "path": "Leetcode/1285. 将二叉搜索树变平衡.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "框架",
       "path": "项目/信息管理系统/框架.md"
-    },
-    {
-      "basename": "addmodifydialog",
-      "path": "项目/信息管理系统/addmodifydialog.cpp"
     }
   ],
   "omittedPaths": [],
