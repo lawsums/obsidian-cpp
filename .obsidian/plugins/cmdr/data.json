@@ -1,0 +1,45 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "打开css片段管理器",
+      "🚩 Pixel Banner Menu",
+      "Picker mode",
+      "PDF++: Toggle auto-copy",
+      "PDF++: Toggle auto-focus",
+      "PDF++: Toggle auto-paste",
+      "新建白板",
+      "打开/创建今天的日记",
+      "打开命令面板",
+      "新建绘图文件",
+      "打开快速切换",
+      "QuickAdd",
+      "Advanced Tables Toolbar",
+      "Toggle Theme",
+      "Open Git source control"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
