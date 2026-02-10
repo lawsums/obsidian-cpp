@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "deque底层实现原理与操作",
+      "path": "操作系统/deque底层实现原理与操作.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/面试题系列.md"
     },
     {
       "basename": "003_不定期任务",
@@ -165,10 +173,6 @@
       "path": "操作系统/哈希表的原理是什么.md"
     },
     {
-      "basename": "面试题系列",
-      "path": "Templates/面试题系列.md"
-    },
-    {
       "basename": "48. 旋转图像",
       "path": "Leetcode/48. 旋转图像.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "学习深度学习",
       "path": "Templates/学习深度学习.md"
-    },
-    {
-      "basename": "strlen和sizeof什么区别",
-      "path": "操作系统/strlen和sizeof什么区别.md"
     }
   ],
   "omittedPaths": [],
