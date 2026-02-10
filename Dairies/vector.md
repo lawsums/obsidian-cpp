@@ -3,6 +3,10 @@
 - [ ] 实现模版化 (template)
 - [ ] 用 allocate 替代 new
 - [x] 用 deallocate 替代 delete
+- [ ] 对必要的函数添加 noexcept
+- [x] 实现反向 iterator
+- [ ] 实现 emplace_back 和不同版本的 push_back
+
 
 ![[Pasted image 20260209132718.png]]
 
