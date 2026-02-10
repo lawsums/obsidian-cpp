@@ -5,6 +5,10 @@
       "path": "Templates/Homepage.md"
     },
     {
+      "basename": "4045. 最长平衡子数组 I",
+      "path": "Leetcode/4045. 最长平衡子数组 I.md"
+    },
+    {
       "basename": "vector",
       "path": "Dairies/vector.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "001_海同网盘",
       "path": "项目/海同网盘/001_海同网盘.md"
-    },
-    {
-      "basename": "框架",
-      "path": "项目/信息管理系统/框架.md"
     }
   ],
   "omittedPaths": [],
