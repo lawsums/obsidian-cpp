@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "继承和多态的区别",
+      "path": "操作系统/继承和多态的区别.md"
+    },
+    {
+      "basename": "Qt有哪些类",
+      "path": "操作系统/Qt有哪些类.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "内存对齐是什么",
       "path": "操作系统/内存对齐是什么.md"
-    },
-    {
-      "basename": "2026-02-04",
-      "path": "Dairies/2026-02-04.md"
-    },
-    {
-      "basename": "001_海同网盘",
-      "path": "项目/海同网盘/001_海同网盘.md"
     }
   ],
   "omittedPaths": [],

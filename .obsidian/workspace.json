@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "f51bdc08adca14f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/Qt有哪些类.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Qt有哪些类"
+            }
+          },
+          {
+            "id": "73efd1b1ace46657",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/继承和多态的区别.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "继承和多态的区别"
+            }
+          },
+          {
             "id": "ccb2cf2f6bb98132",
             "type": "leaf",
             "state": {
@@ -79,7 +127,8 @@
               "title": "28. 找出字符串中第一个匹配项的下标"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage.md",
+                "file": "操作系统/继承和多态的区别.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "继承和多态的区别 的大纲"
             }
           },
           {
@@ -355,12 +404,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "56835f59a7e3f33e",
+  "active": "73efd1b1ace46657",
   "lastOpenFiles": [
+    "操作系统/Qt有哪些类.md",
+    "操作系统/继承和多态的区别.md",
+    "Templates/Homepage.md",
     "Leetcode/4045. 最长平衡子数组 I.md",
     "Leetcode/4045. 最长平衡子数组 I.cpp~",
     "Leetcode/4045. 最长平衡子数组 I.cpp",
-    "Templates/Homepage.md",
     "Dairies/2026-02-12.md",
     "Dairies/vector.md",
     "Dairies/实现自己的数据结构.md",
@@ -396,7 +447,6 @@
     "Temp/004_闪念.md",
     "1.jpeg",
     "Pasted image 20251209200240.png",
-    "Dairies/2026-02-09.md",
     "Leetcode/1756. 使字符串平衡的最少删除次数.cpp",
     "Pasted image 20260207130824.png",
     "Leetcode/1756. 使字符串平衡的最少删除次数.cpp~",
