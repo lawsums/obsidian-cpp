@@ -208,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage.md",
+                "file": "Dairies/学习科目四.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习科目四 的大纲"
             }
           },
           {
@@ -355,14 +355,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "56835f59a7e3f33e",
+  "active": "9c3bc69adff1ccdc",
   "lastOpenFiles": [
+    "Templates/Homepage.md",
     "Templates/面试题系列.md",
     "Dairies/2026-02-07.md",
     "Dairies/2026-02-08.md",
     "Dairies/2026-02-10.md",
     "Temp/z_写标题.md",
-    "Templates/Homepage.md",
     "操作系统/deque底层实现原理与操作.md",
     "Dairies/2026-02-11.md",
     "Temp/z_写面试题.md",
