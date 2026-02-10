@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Homepage.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -29,78 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
-            }
-          },
-          {
-            "id": "f51bdc08adca14f8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/Qt有哪些类.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Qt有哪些类"
-            }
-          },
-          {
-            "id": "73efd1b1ace46657",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/继承和多态的区别.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "继承和多态的区别"
-            }
-          },
-          {
-            "id": "ccb2cf2f6bb98132",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/4045. 最长平衡子数组 I.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "4045. 最长平衡子数组 I"
             }
           },
           {
@@ -127,8 +55,7 @@
               "title": "28. 找出字符串中第一个匹配项的下标"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/继承和多态的区别.md",
+                "file": "Templates/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "继承和多态的区别 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -404,11 +331,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "73efd1b1ace46657",
+  "active": "56835f59a7e3f33e",
   "lastOpenFiles": [
-    "操作系统/Qt有哪些类.md",
-    "操作系统/继承和多态的区别.md",
     "Templates/Homepage.md",
+    "Temp/面试1.md",
+    "操作系统/继承和多态的区别.md",
+    "操作系统/Qt有哪些类.md",
     "Leetcode/4045. 最长平衡子数组 I.md",
     "Leetcode/4045. 最长平衡子数组 I.cpp~",
     "Leetcode/4045. 最长平衡子数组 I.cpp",
@@ -444,7 +372,6 @@
     "Dairies/2026-02-10.md",
     "Temp/z_写面试题.md",
     "Templates/学习esp32s3.md",
-    "Temp/004_闪念.md",
     "1.jpeg",
     "Pasted image 20251209200240.png",
     "Leetcode/1756. 使字符串平衡的最少删除次数.cpp",
