@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage.md"
+    },
+    {
       "basename": "面试题系列",
       "path": "Templates/面试题系列.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "z_写标题",
       "path": "Temp/z_写标题.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage.md"
     },
     {
       "basename": "deque底层实现原理与操作",

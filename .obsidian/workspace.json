@@ -79,8 +79,7 @@
               "title": "面试题系列"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/面试题系列.md",
+                "file": "Templates/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "面试题系列 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -356,10 +355,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c33e1c8b2c613bb9",
+  "active": "56835f59a7e3f33e",
   "lastOpenFiles": [
-    "Dairies/2026-02-07.md",
     "Templates/面试题系列.md",
+    "Dairies/2026-02-07.md",
     "Dairies/2026-02-08.md",
     "Dairies/2026-02-10.md",
     "Temp/z_写标题.md",
