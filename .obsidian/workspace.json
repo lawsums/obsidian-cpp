@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "13c15e6971b6308b",
+            "id": "2598a3aeefcf19b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/deque底层实现原理与操作.md",
+                "file": "Temp/方向.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "deque底层实现原理与操作"
+              "title": "方向"
             }
           },
           {
@@ -208,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/学习科目四.md",
+                "file": "Templates/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习科目四 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -355,22 +355,29 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9c3bc69adff1ccdc",
+  "active": "56835f59a7e3f33e",
   "lastOpenFiles": [
+    "Dairies/实现自己的数据结构.md",
+    "Dairies/vector.md",
+    "Dairies/2026-01-04.md",
     "Templates/Homepage.md",
+    "Templates/学习esp32s3.md",
+    "Temp/方向.md",
+    "操作系统/deque底层实现原理与操作.md",
     "Templates/面试题系列.md",
+    "Templates/学习深度学习.md",
+    "Templates/Daily_note_template.md",
+    "Dairies/学习科目四.md",
     "Dairies/2026-02-07.md",
     "Dairies/2026-02-08.md",
     "Dairies/2026-02-10.md",
     "Temp/z_写标题.md",
-    "操作系统/deque底层实现原理与操作.md",
     "Dairies/2026-02-11.md",
     "Temp/z_写面试题.md",
     "操作系统/字节对齐.md",
     "Temp/z_指令.md",
     "Leetcode/28. 找出字符串中第一个匹配项的下标.md",
     "Temp/003_不定期任务.md",
-    "Dairies/实现自己的数据结构.md",
     "Temp/面试1.md",
     "操作系统/继承和多态的区别.md",
     "操作系统/Qt有哪些类.md",
@@ -378,20 +385,13 @@
     "Leetcode/4045. 最长平衡子数组 I.cpp~",
     "Leetcode/4045. 最长平衡子数组 I.cpp",
     "Dairies/2026-02-12.md",
-    "Dairies/vector.md",
     "Pasted image 20260209132718.png",
-    "Leetcode/1285. 将二叉搜索树变平衡.md",
     "Leetcode/1285. 将二叉搜索树变平衡.cpp~",
     "Leetcode/1285. 将二叉搜索树变平衡.cpp",
     "Leetcode/images/1285_balanced2-tree.jpg",
     "Leetcode/images/1285_balance1-tree.jpg",
-    "Dairies/学习科目四.md",
-    "Temp/在古代系列.md",
     "Leetcode/28. 找出字符串中第一个匹配项的下标.cpp",
     "Leetcode/28. 找出字符串中第一个匹配项的下标.cpp~",
-    "Dairies/2026-02-06.md",
-    "Software/UML.md",
-    "Temp/002_稍后再看.md",
     "Leetcode/110. 平衡二叉树.cpp~",
     "Leetcode/110. 平衡二叉树.cpp",
     "Leetcode/images/110_balance_2.jpg",
