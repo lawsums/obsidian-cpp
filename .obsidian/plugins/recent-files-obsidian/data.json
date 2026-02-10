@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "deque底层实现原理与操作",
+      "path": "操作系统/deque底层实现原理与操作.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage.md"
     },
     {
-      "basename": "deque底层实现原理与操作",
-      "path": "操作系统/deque底层实现原理与操作.md"
+      "basename": "2026-02-11",
+      "path": "Dairies/2026-02-11.md"
+    },
+    {
+      "basename": "2026-02-10",
+      "path": "Dairies/2026-02-10.md"
     },
     {
       "basename": "z_写面试题",
@@ -191,14 +199,6 @@
     {
       "basename": "堆板子",
       "path": "代码模版/堆板子.md"
-    },
-    {
-      "basename": "容器对比",
-      "path": "代码模版/容器对比.md"
-    },
-    {
-      "basename": "std容器, 库函数对比",
-      "path": "代码模版/std容器, 库函数对比.md"
     }
   ],
   "omittedPaths": [],

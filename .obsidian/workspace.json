@@ -54,32 +54,9 @@
               "icon": "lucide-file",
               "title": "deque底层实现原理与操作"
             }
-          },
-          {
-            "id": "1b947250b0d13d02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/z_写面试题.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "z_写面试题"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage.md",
+                "file": "操作系统/deque底层实现原理与操作.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "deque底层实现原理与操作 的大纲"
             }
           },
           {
@@ -355,14 +332,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "56835f59a7e3f33e",
+  "active": "13c15e6971b6308b",
   "lastOpenFiles": [
+    "Templates/Homepage.md",
     "操作系统/deque底层实现原理与操作.md",
+    "Dairies/2026-02-11.md",
+    "Dairies/2026-02-10.md",
     "Temp/z_写面试题.md",
     "操作系统/字节对齐.md",
     "Temp/z_指令.md",
     "Leetcode/28. 找出字符串中第一个匹配项的下标.md",
-    "Templates/Homepage.md",
     "Templates/面试题系列.md",
     "Temp/003_不定期任务.md",
     "Dairies/实现自己的数据结构.md",
@@ -390,8 +369,6 @@
     "Temp/002_稍后再看.md",
     "Leetcode/110. 平衡二叉树.md",
     "Temp/Effctive STL.md",
-    "Temp/007_书籍.md",
-    "Temp/事务语义.md",
     "Leetcode/110. 平衡二叉树.cpp~",
     "Leetcode/110. 平衡二叉树.cpp",
     "Leetcode/images/110_balance_2.jpg",
