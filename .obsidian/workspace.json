@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -333,6 +333,7 @@
   },
   "active": "56835f59a7e3f33e",
   "lastOpenFiles": [
+    "Dairies/实现自己的数据结构.md",
     "Templates/Homepage.md",
     "Temp/面试1.md",
     "操作系统/继承和多态的区别.md",
@@ -342,7 +343,6 @@
     "Leetcode/4045. 最长平衡子数组 I.cpp",
     "Dairies/2026-02-12.md",
     "Dairies/vector.md",
-    "Dairies/实现自己的数据结构.md",
     "Temp/003_不定期任务.md",
     "Pasted image 20260209132718.png",
     "Leetcode/1285. 将二叉搜索树变平衡.md",
