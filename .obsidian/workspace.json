@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage.md",
-                "mode": "preview",
+                "file": "Temp/003_不定期任务.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "003_不定期任务"
             }
           },
           {
@@ -54,8 +54,33 @@
               "icon": "lucide-file",
               "title": "auto&&属于什么用法"
             }
+          },
+          {
+            "id": "e0be4c43e8f85699",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/面试题系列.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "面试题系列"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage.md",
+                "file": "Templates/面试题系列.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "面试题系列 的大纲"
             }
           },
           {
@@ -331,19 +356,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "134193d0e2c55c4c",
+  "active": "e0be4c43e8f85699",
   "lastOpenFiles": [
-    "Dairies/学习科目四.md",
     "Templates/Homepage.md",
+    "Templates/面试题系列.md",
+    "Dairies/2026-02-11.md",
+    "Temp/003_不定期任务.md",
     "操作系统/auto&&属于什么用法.md",
+    "操作系统/printf为什么可以打印不定长的内容.md",
+    "操作系统/格式字符串.md",
+    "Temp/z_写面试题.md",
+    "Dairies/学习科目四.md",
     "Clippings/VSCodeVimVim star Vim for Visual Studio Code 1.md",
     "Software/Vscode-vim.md",
-    "Temp/z_写面试题.md",
     "Pasted image 20260211153424.png",
     "Clippings/VSCodeVimVim star Vim for Visual Studio Code.md",
     "Software/Vscode插件.md",
     "Software/Vscode.md",
-    "Dairies/2026-02-11.md",
     "代码模版/KMP板子.md",
     "代码模版/容器对比.md",
     "Leetcode/28. 找出字符串中第一个匹配项的下标.md",
@@ -353,13 +382,9 @@
     "Temp/绝命毒师.md",
     "Temp/方向.md",
     "Dairies/2026-02-13.md",
-    "Templates/面试题系列.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/vector.md",
     "Dairies/2026-01-04.md",
-    "Templates/学习esp32s3.md",
-    "操作系统/deque底层实现原理与操作.md",
-    "Templates/学习深度学习.md",
     "Leetcode/4045. 最长平衡子数组 I.cpp~",
     "Leetcode/4045. 最长平衡子数组 I.cpp",
     "Pasted image 20260209132718.png",
