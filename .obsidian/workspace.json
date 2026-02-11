@@ -15,7 +15,7 @@
               "state": {
                 "file": "Templates/Homepage.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -78,8 +78,33 @@
               "icon": "lucide-file",
               "title": "面试1"
             }
+          },
+          {
+            "id": "065f320bb5c15e3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/48. 旋转图像.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "48. 旋转图像"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage.md",
+                "file": "Leetcode/48. 旋转图像.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "48. 旋转图像 的大纲"
             }
           },
           {
@@ -355,13 +380,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "134193d0e2c55c4c",
+  "active": "065f320bb5c15e3d",
   "lastOpenFiles": [
+    "Templates/Buttons.md",
+    "Dairies/2026-02-11.md",
+    "Templates/Homepage.md",
+    "Templates/面试题系列.md",
     "Temp/面试1.md",
     "Clippings/2026-02-11-anki_card.md",
     "Temp/z_写知识卡片.md",
     "Temp/z_指令.md",
-    "Templates/面试题系列.md",
     "Templates/Snippet_content_template.md",
     "Clippings/2026-02-11-cd.md",
     "Clippings/2026-02-11-hpp2puml.md",
@@ -371,9 +399,7 @@
     "Temp/z_写面试题.md",
     "Templates/Snippet_code_template.md",
     "Templates/Mandala_template.md",
-    "Templates/Homepage.md",
     "Temp/003_不定期任务.md",
-    "Dairies/2026-02-11.md",
     "操作系统/printf为什么可以打印不定长的内容.md",
     "操作系统/格式字符串.md",
     "Dairies/学习科目四.md",
@@ -383,7 +409,6 @@
     "Clippings/VSCodeVimVim star Vim for Visual Studio Code.md",
     "Software/Vscode插件.md",
     "Software/Vscode.md",
-    "代码模版/KMP板子.md",
     "Leetcode/4045. 最长平衡子数组 I.cpp~",
     "Leetcode/4045. 最长平衡子数组 I.cpp",
     "Pasted image 20260209132718.png",

@@ -151,6 +151,16 @@ action:
   link: https://articles.zsxq.com/id_n4jcuih49kad.html
 ```
 
+```meta-bind-button
+style: default
+id: neovim-open-button
+hidden: false
+label: neovim
+action:
+  type: open
+  link: 
+```
+
 # Excalidraw Data
 
 ## Text Elements
@@ -255,4 +265,5 @@ A1izBZoGwVGLhFdgX8AgHmDMAmguiOAGgowW6JXFYw9WWKGpiMAGgT88+mgCth1tRRwQeYO/FZhCB6QB
 ```  
 ```cpp  
 ```  
-END 
+```cpp  
+``` 
