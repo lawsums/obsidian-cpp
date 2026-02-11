@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/学习科目四.md",
+                "file": "Templates/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习科目四 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -331,8 +331,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d2951a04ee15a539",
+  "active": "134193d0e2c55c4c",
   "lastOpenFiles": [
+    "Dairies/学习科目四.md",
     "Templates/Homepage.md",
     "操作系统/auto&&属于什么用法.md",
     "Clippings/VSCodeVimVim star Vim for Visual Studio Code 1.md",
@@ -359,7 +360,6 @@
     "Templates/学习esp32s3.md",
     "操作系统/deque底层实现原理与操作.md",
     "Templates/学习深度学习.md",
-    "Templates/Daily_note_template.md",
     "Leetcode/4045. 最长平衡子数组 I.cpp~",
     "Leetcode/4045. 最长平衡子数组 I.cpp",
     "Pasted image 20260209132718.png",
