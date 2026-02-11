@@ -8,54 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56835f59a7e3f33e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "代码模版/KMP板子.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "KMP板子"
-            }
-          },
-          {
-            "id": "1b947250b0d13d02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "代码模版/容器对比.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "容器对比"
-            }
-          },
-          {
             "id": "134193d0e2c55c4c",
             "type": "leaf",
             "state": {
@@ -78,9 +30,32 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "c7c74118bb14811a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/auto&&属于什么用法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "auto&&属于什么用法"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage.md",
+                "file": "Dairies/学习科目四.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习科目四 的大纲"
             }
           },
           {
@@ -356,10 +331,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "134193d0e2c55c4c",
+  "active": "d2951a04ee15a539",
   "lastOpenFiles": [
-    "Dairies/2026-02-11.md",
     "Templates/Homepage.md",
+    "操作系统/auto&&属于什么用法.md",
+    "Clippings/VSCodeVimVim star Vim for Visual Studio Code 1.md",
+    "Software/Vscode-vim.md",
+    "Temp/z_写面试题.md",
+    "Pasted image 20260211153424.png",
+    "Clippings/VSCodeVimVim star Vim for Visual Studio Code.md",
+    "Software/Vscode插件.md",
+    "Software/Vscode.md",
+    "Dairies/2026-02-11.md",
     "代码模版/KMP板子.md",
     "代码模版/容器对比.md",
     "Leetcode/28. 找出字符串中第一个匹配项的下标.md",
@@ -377,13 +360,6 @@
     "操作系统/deque底层实现原理与操作.md",
     "Templates/学习深度学习.md",
     "Templates/Daily_note_template.md",
-    "Dairies/学习科目四.md",
-    "Dairies/2026-02-07.md",
-    "Dairies/2026-02-08.md",
-    "Dairies/2026-02-10.md",
-    "Temp/z_写标题.md",
-    "Temp/z_写面试题.md",
-    "操作系统/字节对齐.md",
     "Leetcode/4045. 最长平衡子数组 I.cpp~",
     "Leetcode/4045. 最长平衡子数组 I.cpp",
     "Pasted image 20260209132718.png",
@@ -403,7 +379,6 @@
     "Pasted image 20260207130824.png",
     "Leetcode/1756. 使字符串平衡的最少删除次数.cpp~",
     "Leetcode/images/48_mat2.jpg",
-    "Leetcode/images/48_mat1.jpg",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
 }
