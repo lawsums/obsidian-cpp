@@ -5,24 +5,68 @@
       "path": "Templates/Homepage.md"
     },
     {
-      "basename": "003_不定期任务",
-      "path": "Temp/003_不定期任务.md"
-    },
-    {
       "basename": "面试1",
       "path": "Temp/面试1.md"
+    },
+    {
+      "basename": "2026-02-11-anki_card",
+      "path": "Clippings/2026-02-11-anki_card.md"
+    },
+    {
+      "basename": "z_写知识卡片",
+      "path": "Temp/z_写知识卡片.md"
+    },
+    {
+      "basename": "z_指令",
+      "path": "Temp/z_指令.md"
     },
     {
       "basename": "面试题系列",
       "path": "Templates/面试题系列.md"
     },
     {
-      "basename": "2026-02-11",
-      "path": "Dairies/2026-02-11.md"
+      "basename": "Snippet_content_template",
+      "path": "Templates/Snippet_content_template.md"
+    },
+    {
+      "basename": "2026-02-11-cd",
+      "path": "Clippings/2026-02-11-cd.md"
+    },
+    {
+      "basename": "2026-02-11-hpp2puml",
+      "path": "Clippings/2026-02-11-hpp2puml.md"
+    },
+    {
+      "basename": "2026-02-11-anki_interview_problem",
+      "path": "Clippings/2026-02-11-anki_interview_problem.md"
     },
     {
       "basename": "auto&&属于什么用法",
       "path": "操作系统/auto&&属于什么用法.md"
+    },
+    {
+      "basename": "cd",
+      "path": "Clippings/cd.md"
+    },
+    {
+      "basename": "z_写面试题",
+      "path": "Temp/z_写面试题.md"
+    },
+    {
+      "basename": "Snippet_code_template",
+      "path": "Templates/Snippet_code_template.md"
+    },
+    {
+      "basename": "Mandala_template",
+      "path": "Templates/Mandala_template.md"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Temp/003_不定期任务.md"
+    },
+    {
+      "basename": "2026-02-11",
+      "path": "Dairies/2026-02-11.md"
     },
     {
       "basename": "printf为什么可以打印不定长的内容",
@@ -31,10 +75,6 @@
     {
       "basename": "格式字符串",
       "path": "操作系统/格式字符串.md"
-    },
-    {
-      "basename": "z_写面试题",
-      "path": "Temp/z_写面试题.md"
     },
     {
       "basename": "学习科目四",
@@ -121,10 +161,6 @@
       "path": "操作系统/字节对齐.md"
     },
     {
-      "basename": "z_指令",
-      "path": "Temp/z_指令.md"
-    },
-    {
       "basename": "继承和多态的区别",
       "path": "操作系统/继承和多态的区别.md"
     },
@@ -163,42 +199,6 @@
     {
       "basename": "Effctive STL",
       "path": "Temp/Effctive STL.md"
-    },
-    {
-      "basename": "007_书籍",
-      "path": "Temp/007_书籍.md"
-    },
-    {
-      "basename": "事务语义",
-      "path": "Temp/事务语义.md"
-    },
-    {
-      "basename": "2026-02-07",
-      "path": "Dairies/2026-02-07.md"
-    },
-    {
-      "basename": "学习esp32s3",
-      "path": "Templates/学习esp32s3.md"
-    },
-    {
-      "basename": "004_闪念",
-      "path": "Temp/004_闪念.md"
-    },
-    {
-      "basename": "Pasted image 20251209200240",
-      "path": "Pasted image 20251209200240.png"
-    },
-    {
-      "basename": "有mutex为什么还要用lock_guard、unique_lock",
-      "path": "操作系统/有mutex为什么还要用lock_guard、unique_lock.md"
-    },
-    {
-      "basename": "z_写知识卡片",
-      "path": "Temp/z_写知识卡片.md"
-    },
-    {
-      "basename": "PlatformIO",
-      "path": "Software/PlatformIO.md"
     }
   ],
   "omittedPaths": [],
