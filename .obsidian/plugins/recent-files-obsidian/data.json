@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage.md"
+    },
+    {
       "basename": "KMP板子",
       "path": "代码模版/KMP板子.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "堆板子",
       "path": "代码模版/堆板子.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage.md"
     },
     {
       "basename": "006_影视作品",

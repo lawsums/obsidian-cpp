@@ -54,8 +54,33 @@
               "icon": "lucide-file",
               "title": "28. 找出字符串中第一个匹配项的下标"
             }
+          },
+          {
+            "id": "134193d0e2c55c4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "代码模版/KMP板子.md",
+                "file": "Templates/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "KMP板子 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -331,11 +356,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "56835f59a7e3f33e",
+  "active": "134193d0e2c55c4c",
   "lastOpenFiles": [
+    "代码模版/KMP板子.md",
     "代码模版/std容器, 库函数对比.md",
     "代码模版/堆板子.md",
-    "代码模版/KMP板子.md",
     "Templates/Homepage.md",
     "Temp/006_影视作品.md",
     "Temp/绝命毒师.md",
