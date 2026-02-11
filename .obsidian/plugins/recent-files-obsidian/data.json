@@ -5,6 +5,10 @@
       "path": "Templates/Homepage.md"
     },
     {
+      "basename": "2026-02-11",
+      "path": "Dairies/2026-02-11.md"
+    },
+    {
       "basename": "KMP板子",
       "path": "代码模版/KMP板子.md"
     },
@@ -63,10 +67,6 @@
     {
       "basename": "z_写标题",
       "path": "Temp/z_写标题.md"
-    },
-    {
-      "basename": "2026-02-11",
-      "path": "Dairies/2026-02-11.md"
     },
     {
       "basename": "z_写面试题",
