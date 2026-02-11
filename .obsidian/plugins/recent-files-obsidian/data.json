@@ -5,12 +5,20 @@
       "path": "Templates/Homepage.md"
     },
     {
-      "basename": "面试题系列",
-      "path": "Templates/面试题系列.md"
+      "basename": "006_影视作品",
+      "path": "Temp/006_影视作品.md"
+    },
+    {
+      "basename": "绝命毒师",
+      "path": "Temp/绝命毒师.md"
     },
     {
       "basename": "方向",
       "path": "Temp/方向.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/面试题系列.md"
     },
     {
       "basename": "实现自己的数据结构",
@@ -161,10 +169,6 @@
       "path": "Dairies/顺时针遍历矩阵问题.md"
     },
     {
-      "basename": "006_影视作品",
-      "path": "Temp/006_影视作品.md"
-    },
-    {
       "basename": "2026-02-06",
       "path": "Dairies/2026-02-06.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "排序板子",
       "path": "代码模版/排序板子.md"
-    },
-    {
-      "basename": "堆板子",
-      "path": "代码模版/堆板子.md"
     }
   ],
   "omittedPaths": [],
