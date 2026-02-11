@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage.md",
-                "mode": "preview",
+                "file": "代码模版/KMP板子.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "KMP板子"
             }
           },
           {
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage.md",
+                "file": "代码模版/KMP板子.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "KMP板子 的大纲"
             }
           },
           {
@@ -333,8 +333,11 @@
   },
   "active": "56835f59a7e3f33e",
   "lastOpenFiles": [
-    "Temp/006_影视作品.md",
+    "代码模版/std容器, 库函数对比.md",
+    "代码模版/堆板子.md",
+    "代码模版/KMP板子.md",
     "Templates/Homepage.md",
+    "Temp/006_影视作品.md",
     "Temp/绝命毒师.md",
     "Temp/方向.md",
     "Dairies/2026-02-13.md",
@@ -356,9 +359,6 @@
     "操作系统/字节对齐.md",
     "Temp/z_指令.md",
     "Leetcode/28. 找出字符串中第一个匹配项的下标.md",
-    "Temp/003_不定期任务.md",
-    "Temp/面试1.md",
-    "操作系统/继承和多态的区别.md",
     "Leetcode/4045. 最长平衡子数组 I.cpp~",
     "Leetcode/4045. 最长平衡子数组 I.cpp",
     "Pasted image 20260209132718.png",

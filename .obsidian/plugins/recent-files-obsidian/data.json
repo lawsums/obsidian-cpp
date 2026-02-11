@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "KMP板子",
+      "path": "代码模版/KMP板子.md"
+    },
+    {
+      "basename": "std容器, 库函数对比",
+      "path": "代码模版/std容器, 库函数对比.md"
+    },
+    {
+      "basename": "堆板子",
+      "path": "代码模版/堆板子.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "哈希表的原理是什么",
       "path": "操作系统/哈希表的原理是什么.md"
-    },
-    {
-      "basename": "48. 旋转图像",
-      "path": "Leetcode/48. 旋转图像.md"
-    },
-    {
-      "basename": "2026-02-05",
-      "path": "Dairies/2026-02-05.md"
-    },
-    {
-      "basename": "排序板子",
-      "path": "代码模版/排序板子.md"
     }
   ],
   "omittedPaths": [],
