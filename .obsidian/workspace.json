@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "134193d0e2c55c4c",
+            "id": "56835f59a7e3f33e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Templates/Homepage.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "e0be4c43e8f85699",
+            "id": "1b947250b0d13d02",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/面试题系列.md",
+                "file": "Leetcode/28. 找出字符串中第一个匹配项的下标.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,59 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "面试题系列"
-            }
-          },
-          {
-            "id": "586a3e4006e1cffb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/面试1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "面试1"
-            }
-          },
-          {
-            "id": "065f320bb5c15e3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/48. 旋转图像.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "48. 旋转图像"
+              "title": "28. 找出字符串中第一个匹配项的下标"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/48. 旋转图像.md",
+                "file": "Templates/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "48. 旋转图像 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -380,13 +331,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "065f320bb5c15e3d",
+  "active": "56835f59a7e3f33e",
   "lastOpenFiles": [
-    "Templates/Buttons.md",
-    "Dairies/2026-02-11.md",
-    "Templates/Homepage.md",
     "Templates/面试题系列.md",
     "Temp/面试1.md",
+    "Templates/Homepage.md",
+    "Clippings/2026-02-11-write_title.md",
+    "Temp/z_写标题.md",
+    "Leetcode/48. 旋转图像.md",
+    "Templates/Buttons.md",
+    "Dairies/2026-02-11.md",
     "Clippings/2026-02-11-anki_card.md",
     "Temp/z_写知识卡片.md",
     "Temp/z_指令.md",
@@ -406,9 +360,6 @@
     "Clippings/VSCodeVimVim star Vim for Visual Studio Code 1.md",
     "Software/Vscode-vim.md",
     "Pasted image 20260211153424.png",
-    "Clippings/VSCodeVimVim star Vim for Visual Studio Code.md",
-    "Software/Vscode插件.md",
-    "Software/Vscode.md",
     "Leetcode/4045. 最长平衡子数组 I.cpp~",
     "Leetcode/4045. 最长平衡子数组 I.cpp",
     "Pasted image 20260209132718.png",

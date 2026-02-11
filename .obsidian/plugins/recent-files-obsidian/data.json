@@ -1,18 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "48. 旋转图像",
-      "path": "Leetcode/48. 旋转图像.md"
-    },
-    {
-      "basename": "Buttons",
-      "path": "Templates/Buttons.md"
-    },
-    {
-      "basename": "2026-02-11",
-      "path": "Dairies/2026-02-11.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage.md"
     },
@@ -23,6 +11,26 @@
     {
       "basename": "面试1",
       "path": "Temp/面试1.md"
+    },
+    {
+      "basename": "2026-02-11-write_title",
+      "path": "Clippings/2026-02-11-write_title.md"
+    },
+    {
+      "basename": "z_写标题",
+      "path": "Temp/z_写标题.md"
+    },
+    {
+      "basename": "48. 旋转图像",
+      "path": "Leetcode/48. 旋转图像.md"
+    },
+    {
+      "basename": "Buttons",
+      "path": "Templates/Buttons.md"
+    },
+    {
+      "basename": "2026-02-11",
+      "path": "Dairies/2026-02-11.md"
     },
     {
       "basename": "2026-02-11-anki_card",
@@ -161,10 +169,6 @@
       "path": "Dairies/2026-02-10.md"
     },
     {
-      "basename": "z_写标题",
-      "path": "Temp/z_写标题.md"
-    },
-    {
       "basename": "字节对齐",
       "path": "操作系统/字节对齐.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "UML",
       "path": "Software/UML.md"
-    },
-    {
-      "basename": "002_稍后再看",
-      "path": "Temp/002_稍后再看.md"
     }
   ],
   "omittedPaths": [],
