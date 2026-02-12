@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage.md",
-                "mode": "preview",
+                "file": "Temp/STL源码剖析.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "STL源码剖析"
+            }
+          },
+          {
+            "id": "c8619af4e16164dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/2026-02-11-write_title.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-11-write_title"
             }
           },
           {
@@ -85,8 +109,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Buttons.md",
-                "mode": "source",
+                "file": "Templates/Homepage.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -100,7 +124,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Buttons"
+              "title": "Homepage"
             }
           }
         ]
@@ -232,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage.md",
+                "file": "Temp/STL源码剖析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "STL源码剖析 的大纲"
             }
           },
           {
@@ -381,14 +405,24 @@
   },
   "active": "56835f59a7e3f33e",
   "lastOpenFiles": [
-    "Dairies/学习科目四.md",
+    "Temp/第4章 序列式容器.md",
+    "Temp/STL源码剖析.md",
     "Templates/Homepage.md",
+    "Templates/Buttons.md",
+    "Temp/007_书籍.md",
+    "Clippings/2026-02-11-write_title.md",
+    "Temp/Effctive STL.md",
+    "Temp/另一本日式小说.md",
+    "Leetcode/328. 奇偶链表.md",
+    "Leetcode/328. 奇偶链表.cpp~",
+    "Leetcode/328. 奇偶链表.cpp",
+    "Leetcode/images/328_oddeven2-linked-list.jpg",
+    "Leetcode/images/328_oddeven-linked-list.jpg",
+    "Dairies/学习科目四.md",
     "Templates/Leetcode_problem_template.md",
     "Templates/Leetcode_problem_template 1.md",
     "Leetcode/28. 找出字符串中第一个匹配项的下标.md",
-    "Temp/另一本日式小说.md",
     "Temp/另一本日_大纲.md",
-    "Templates/Buttons.md",
     "Temp/一本日式小说.md",
     "Dairies/缓存项目.md",
     "Dairies/2026-02-12.md",
@@ -397,16 +431,10 @@
     "Dairies/2026-02-11.md",
     "Templates/面试题系列.md",
     "Temp/面试1.md",
-    "Clippings/2026-02-11-write_title.md",
     "Temp/z_写标题.md",
     "Leetcode/48. 旋转图像.md",
     "Clippings/2026-02-11-anki_card.md",
     "Temp/z_写知识卡片.md",
-    "Temp/z_指令.md",
-    "Templates/Snippet_content_template.md",
-    "Clippings/2026-02-11-cd.md",
-    "Clippings/2026-02-11-hpp2puml.md",
-    "Clippings/2026-02-11-anki_interview_problem.md",
     "Pasted image 20260211153424.png",
     "Leetcode/4045. 最长平衡子数组 I.cpp~",
     "Leetcode/4045. 最长平衡子数组 I.cpp",
@@ -423,10 +451,6 @@
     "Leetcode/images/110_balance_1.jpg",
     "1.jpeg",
     "Pasted image 20251209200240.png",
-    "Leetcode/1756. 使字符串平衡的最少删除次数.cpp",
-    "Pasted image 20260207130824.png",
-    "Leetcode/1756. 使字符串平衡的最少删除次数.cpp~",
-    "Leetcode/images/48_mat2.jpg",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
 }

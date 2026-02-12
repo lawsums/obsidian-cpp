@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "STL源码剖析",
+      "path": "Temp/STL源码剖析.md"
+    },
+    {
+      "basename": "第4章 序列式容器",
+      "path": "Temp/第4章 序列式容器.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage.md"
+    },
+    {
+      "basename": "Buttons",
+      "path": "Templates/Buttons.md"
+    },
+    {
+      "basename": "007_书籍",
+      "path": "Temp/007_书籍.md"
+    },
+    {
+      "basename": "2026-02-11-write_title",
+      "path": "Clippings/2026-02-11-write_title.md"
+    },
+    {
+      "basename": "Effctive STL",
+      "path": "Temp/Effctive STL.md"
+    },
+    {
+      "basename": "另一本日式小说",
+      "path": "Temp/另一本日式小说.md"
+    },
+    {
+      "basename": "328. 奇偶链表",
+      "path": "Leetcode/328. 奇偶链表.md"
     },
     {
       "basename": "Leetcode_problem_template",
@@ -17,16 +49,8 @@
       "path": "Leetcode/28. 找出字符串中第一个匹配项的下标.md"
     },
     {
-      "basename": "另一本日式小说",
-      "path": "Temp/另一本日式小说.md"
-    },
-    {
       "basename": "另一本日_大纲",
       "path": "Temp/另一本日_大纲.md"
-    },
-    {
-      "basename": "Buttons",
-      "path": "Templates/Buttons.md"
     },
     {
       "basename": "一本日式小说",
@@ -59,10 +83,6 @@
     {
       "basename": "面试1",
       "path": "Temp/面试1.md"
-    },
-    {
-      "basename": "2026-02-11-write_title",
-      "path": "Clippings/2026-02-11-write_title.md"
     },
     {
       "basename": "z_写标题",
@@ -179,26 +199,6 @@
     {
       "basename": "绝命毒师",
       "path": "Temp/绝命毒师.md"
-    },
-    {
-      "basename": "方向",
-      "path": "Temp/方向.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
-      "basename": "vector",
-      "path": "Dairies/vector.md"
-    },
-    {
-      "basename": "deque底层实现原理与操作",
-      "path": "操作系统/deque底层实现原理与操作.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     }
   ],
   "omittedPaths": [],

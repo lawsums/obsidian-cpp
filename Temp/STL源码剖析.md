@@ -1,0 +1,243 @@
+
+[书](G:\Downloads\Downloads\书籍\大四下\STL源码剖析.pdf)
+
+- [ ] 庖丁解牛（侯捷自序）
+- [ ] 目錄
+- [ ] 前言
+  - [ ] 本書定位
+  - [ ] 合適的讀者
+  - [ ] 最佳閱讀方式
+  - [ ] 我所選擇的剖析對象
+  - [ ] 各章主題
+  - [ ] 編譯工具
+  - [ ] 中英術語的運用風格
+  - [ ] 英文術語採用原則
+  - [ ] 版面字形風格
+  - [ ] 源碼形式與下載
+  - [ ] 線上服務
+  - [ ] 推薦讀物
+- [ ] 第1章 STL 概論與版本簡介
+  - [ ] 1.1 STL 概論
+    - [ ] 1.1.1 STL 的歷史
+    - [ ] 1.1.2 STL 與 C++ 標準程式庫
+  - [ ] 1.2 STL 六大組件 — 功能與運用
+  - [ ] 1.3 GNU 源碼開放精神
+  - [ ] 1.4 HP STL 實作版本
+  - [ ] 1.5 P.J. Plauger STL 實作版本
+  - [ ] 1.6 Rouge Wave STL 實作版本
+  - [ ] 1.7 STLport 實作版本
+  - [ ] 1.8 SGI STL 實作版本 總覽
+    - [ ] 1.8.1 SGI GNU C++ header 檔案分佈
+    - [ ] 1.8.2 SGI STL 檔案分佈與簡介
+      - [ ] STL 標準表頭檔（無副檔名）
+      - [ ] C++ 標準規格案前，HP 規範的 STL 表頭檔（副檔名 .h）
+      - [ ] SGI STL 內部檔案（SGI STL 真正實作於此）
+    - [ ] 1.8.3 SGI STL 的組態設定（configuration）
+  - [ ] 1.9 可能令你困惑的 C++ 語法
+    - [ ] 1.9.1 stl_config.h 中的各種組態
+      - [ ] 組態 3：static template member
+      - [ ] 組態 5：class template partial specialization
+      - [ ] 組態 6：function template partial order
+      - [ ] 組態 7：explicit function template arguments
+      - [ ] 組態 8：member templates
+      - [ ] 組態 10：default template argument depend on previous template parameters
+      - [ ] 組態 11：non-type template parameters
+      - [ ] 組態：bound friend template function
+      - [ ] 組態：class template explicit specialization
+    - [ ] 1.9.2 暫時物件的產生與運用
+    - [ ] 1.9.3 靜態常數整數成員在 class 內部直接初始化 in-class static const integral data member initialization
+    - [ ] 1.9.4 increment/decrement/dereference 運算子
+    - [ ] 1.9.5「前閉後開」區間表示法 [ )
+    - [ ] 1.9.6 function call 運算子（operator()）
+- [ ] 第2章 空間配置器（allocator）
+  - [ ] 2.1 空間配置器的標準介面
+    - [ ] 2.1.1 設計一個陽春的空間配置器，JJ::allocator
+  - [ ] 2.2 具備次配置力（sub-allocation）的 SGI 空間配置器
+    - [ ] 2.2.1 SGI 標準的空間配置器，std::allocator
+    - [ ] 2.2.2 SGI 特殊的空間配置器，std::alloc
+    - [ ] 2.2.3 建構和解構基本工具：construct() 和 destroy()
+    - [ ] 2.2.4 空間的配置與釋放，std::alloc
+    - [ ] 2.2.5 第一級配置器 __malloc_alloc_template 剖析
+    - [ ] 2.2.6 第二級配置器 __default_alloc_template 剖析
+    - [ ] 2.2.7 空間配置函式 allocate()
+    - [ ] 2.2.8 空間釋放函式 deallocate()
+    - [ ] 2.2.9 重新充填 free-lists
+    - [ ] 2.2.10 記憶池（memory pool）
+  - [ ] 2.3 記憶體基本處理工具
+    - [ ] 2.3.1 uninitialized_copy
+    - [ ] 2.3.2 uninitialized_fill
+    - [ ] 2.3.3 uninitialized_fill_n
+- [ ] 第3章 迭代器（iterators）概念與 traits 編程技法
+  - [ ] 3.1 迭代器設計思維 — STL 關鍵所在
+  - [ ] 3.2 迭代器是一種 smart pointer
+  - [ ] 3.3 迭代器相應型別（associated types）
+  - [ ] 3.4 Traits 編程技法 — STL 源碼門鑰
+  - [ ] 3.4.1 迭代器相應型別之一 value_type
+  - [ ] 3.4.2 迭代器相應型別之二 difference_type
+  - [ ] 3.4.3 迭代器相應型別之三 pointer
+  - [ ] 3.4.4 迭代器相應型別之四 reference_type
+  - [ ] 3.4.5 迭代器相應型別之五 iterator_category
+  - [ ] 3.5 std::iterator class 的保證
+  - [ ] 3.6 iterator 相關源碼整理重列
+  - [ ] SGI STL 的迭代器：__type_traits
+- [ ] [[第4章 序列式容器]]（sequence containers）
+- [ ] 第5章 關聯式容器（associated containers）
+  - [ ] 5.1 樹的導覽
+    - [ ] 5.1.1 二元搜尋樹（binary search tree）
+    - [ ] 5.1.2 平衡二元搜尋樹（balanced binary search tree）
+    - [ ] 5.1.3 AVL tree（Adelson-Velskii-Landis tree）
+    - [ ] 5.1.4 單旋轉（Single Rotation）
+    - [ ] 5.1.5 雙旋轉（Double Rotation）
+  - [ ] 5.2 RB-tree（紅黑樹）
+    - [ ] 5.2.1 RB-tree_node
+    - [ ] 5.2.1 安插節點
+    - [ ] 5.2.2 一個由上而下的程序
+    - [ ] 5.2.3 RB-tree 的節點設計
+    - [ ] 5.2.4 RB-tree 的迭代器
+    - [ ] 5.2.5 RB-tree 的資料結構
+    - [ ] 5.2.6 RB-tree 的建構與記憶體管理
+    - [ ] 5.2.7 RB-tree 的元素操作
+      - [ ] 元素安插動作 insert_equal
+      - [ ] 元素安插動作 insert_unique
+      - [ ] 真正的安插執行程序 __insert
+      - [ ] 調整 RB-tree（旋轉及改變顏色）
+      - [ ] 元素的搜尋 find
+  - [ ] 5.3 set
+  - [ ] 5.4 map
+  - [ ] 5.5 multiset
+  - [ ] 5.6 multimap
+  - [ ] 5.7 hashtable
+    - [ ] 5.7.1 hashtable 概述
+    - [ ] 5.7.2 hashtable 的桶子（buckets）與節點（nodes）
+    - [ ] 5.7.3 hashtable 的迭代器
+    - [ ] 5.7.4 hashtable 的資料結構
+    - [ ] 5.7.5 hashtable 的建構與記憶體管理
+      - [ ] 安插動作（insert）與表格重整（resize）
+      - [ ] 判知元素的落腳處（bkt_num）
+      - [ ] 複製（copy_from）和整體刪除（clear）
+    - [ ] 5.7.6 hashtable 運用實例（find, count）
+    - [ ] 5.7.7 hash functions
+  - [ ] 5.8 hash_set
+  - [ ] 5.9 hash_map
+  - [ ] 5.10 hash_multiset
+  - [ ] 5.11 hash_multimap
+- [ ] 第6章 演算法（algorithms）
+  - [ ] 6.1 演算法概觀
+    - [ ] 6.1.1 演算法分析與複雜度表示 O( )
+    - [ ] 6.1.2 STL 演算法分類
+    - [ ] 6.1.3 mutating algorithms — 會改變操作對象之值
+    - [ ] 6.1.4 nonmutating algorithms — 不改變操作對象之值
+    - [ ] 6.1.5 STL 演算法的一般型式
+  - [ ] 6.2 演算法的泛化過程
+  - [ ] 6.3 數值演算法 <stl_numeric.h>
+    - [ ] 6.3.1 運用實例
+    - [ ] 6.3.2 accumulate
+    - [ ] 6.3.3 adjacent_difference
+    - [ ] 6.3.4 inner_product
+    - [ ] 6.3.5 partial_sum
+    - [ ] 6.3.6 power
+    - [ ] 6.3.7 iota
+  - [ ] 6.4 基本演算法 <st_algobase.h>
+    - [ ] 6.4.1 運用實例
+    - [ ] 6.4.2 equal
+    - [ ] fill
+    - [ ] fill_n
+    - [ ] iter_swap
+    - [ ] lexicographical_compare
+    - [ ] max
+    - [ ] min
+    - [ ] mismatch
+    - [ ] swap
+    - [ ] 6.4.3 copy 強化版本與不同目標
+    - [ ] 6.4.4 copy_backward
+  - [ ] 6.5 Set 相關演算法（應用於已序區間）
+    - [ ] 6.5.1 set_union
+    - [ ] 6.5.2 set_intersection
+    - [ ] 6.5.3 set_difference
+    - [ ] 6.5.4 set_symmetric_difference
+  - [ ] 6.6 heap 演算法：make_heap, pop_heap, push_heap, sort_heap
+  - [ ] 6.7 其他演算法
+    - [ ] 6.7.1 單純的資料處理
+      - [ ] adjacent_find
+      - [ ] count
+      - [ ] count_if
+      - [ ] find
+      - [ ] find_end
+      - [ ] find_first_of
+      - [ ] for_each
+      - [ ] generate
+      - [ ] generate_n
+      - [ ] includes
+      - [ ] max_element
+      - [ ] merge
+      - [ ] min_element
+      - [ ] partial_sort
+      - [ ] partial_sort_copy
+      - [ ] remove
+      - [ ] remove_copy
+      - [ ] remove_if
+      - [ ] remove_copy_if
+      - [ ] replace
+      - [ ] replace_copy
+      - [ ] replace_if
+      - [ ] replace_copy_if
+      - [ ] reverse
+      - [ ] reverse_copy
+      - [ ] rotate
+      - [ ] rotate_copy
+      - [ ] search
+      - [ ] search_n
+      - [ ] swap_ranges
+      - [ ] transform
+      - [ ] unique
+      - [ ] unique_copy
+    - [ ] 6.7.2 lower_bound（應用於已序區間）
+    - [ ] 6.7.2 upper_bound（應用於已序區間）
+    - [ ] 6.7.3 equal_range（應用於已序區間）
+    - [ ] 6.7.4 binary_search（應用於已序區間）
+    - [ ] 6.7.5 next_permutation
+    - [ ] 6.7.6 prev_permutation
+    - [ ] 6.7.7 random_shuffle
+    - [ ] 6.7.8 partial_sort / partial_sort_copy
+    - [ ] 6.7.9 sort
+    - [ ] 6.7.10 stable_sort
+    - [ ] 6.7.11 nth_element（應用於已序區間）
+    - [ ] 6.7.12 equal_range（應用於已序區間）
+    - [ ] 6.7.13 inplace_merge
+- [ ] 第7章 仿函式（functors, 又名 function objects）
+  - [ ] 7.1 仿函式（functor）的關鍵
+  - [ ] 7.1.1 unary_function
+  - [ ] 7.1.2 binary_function
+  - [ ] 7.1.3 unary_negate
+  - [ ] 7.1.3 binary_negate
+  - [ ] 7.3 算術類（Arithmetic）仿函式
+  - [ ] 7.4 相對關係（relational）仿函式
+    - [ ] equal_to, not_equal_to, less, less_equal, greater, greater_equal
+  - [ ] 7.5 邏輯類（logical）仿函式
+    - [ ] logical_and, logical_or, logical_not
+  - [ ] 7.6 證同（identity）、選擇（select）、投射（project）
+    - [ ] identity, select1st, select2nd, project1st, project2nd
+- [ ] 第8章 配接器（adapters）
+  - [ ] 8.1 配接器概觀與分類
+    - [ ] 8.1.1 應用於容器的 container adapters
+    - [ ] 8.1.2 應用於迭代器的 iterator adapters
+    - [ ] 8.1.3 應用於仿函式的 function adapters
+  - [ ] 8.2 container adapters
+    - [ ] 8.2.1 stack
+    - [ ] 8.2.1 queue
+  - [ ] 8.3 iterator adapters
+    - [ ] 8.3.1 insert iterators
+    - [ ] 8.3.2 reverse iterators
+    - [ ] 8.3.3 stream iterators (istream_iterator, ostream_iterator)
+  - [ ] 8.4 function adapters
+    - [ ] 8.4.1 對傳回值進行邏輯否定：not1, not2
+    - [ ] 8.4.2 對參數進行繫結（綁定）：bind1st, bind2nd
+    - [ ] 8.4.3 用於函式合成：compose1, compose2（未納入標準）
+    - [ ] 8.4.4 用於函式指標：ptr_fun
+    - [ ] 8.4.5 用於成員函式指標：mem_fun, mem_fun_ref
+- [ ] 附錄A 參考資料與推薦讀物（Bibliography）
+- [ ] 附錄B 侯捷網站簡介
+- [ ] 附錄C STLport 的移植經驗（by 孟岩）
+- [ ] 索引
+
+---
