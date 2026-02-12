@@ -5,16 +5,28 @@
       "path": "Templates/Homepage.md"
     },
     {
+      "basename": "28. 找出字符串中第一个匹配项的下标",
+      "path": "Leetcode/28. 找出字符串中第一个匹配项的下标.md"
+    },
+    {
+      "basename": "MESH组网",
+      "path": "000_毕业设计/MESH组网.md"
+    },
+    {
+      "basename": "Obisidian 中怎么使用 git",
+      "path": "Temp/Obisidian 中怎么使用 git.md"
+    },
+    {
+      "basename": "git",
+      "path": "Temp/git.md"
+    },
+    {
       "basename": "003_不定期任务",
       "path": "Temp/003_不定期任务.md"
     },
     {
       "basename": "KMP相关题目",
       "path": "数据结构/KMP相关题目.md"
-    },
-    {
-      "basename": "28. 找出字符串中第一个匹配项的下标",
-      "path": "Leetcode/28. 找出字符串中第一个匹配项的下标.md"
     },
     {
       "basename": "Media Note - 算法讲解101【扩展】 KMP算法相关题目",
@@ -179,26 +191,6 @@
     {
       "basename": "Vscode插件",
       "path": "Software/Vscode插件.md"
-    },
-    {
-      "basename": "Vscode",
-      "path": "Software/Vscode.md"
-    },
-    {
-      "basename": "KMP板子",
-      "path": "代码模版/KMP板子.md"
-    },
-    {
-      "basename": "容器对比",
-      "path": "代码模版/容器对比.md"
-    },
-    {
-      "basename": "std容器, 库函数对比",
-      "path": "代码模版/std容器, 库函数对比.md"
-    },
-    {
-      "basename": "堆板子",
-      "path": "代码模版/堆板子.md"
     }
   ],
   "omittedPaths": [],

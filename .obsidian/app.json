@@ -15,5 +15,6 @@
   "rightToLeft": false,
   "spellcheck": false,
   "strictLineBreaks": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "attachmentFolderPath": "Attachments"
 }
