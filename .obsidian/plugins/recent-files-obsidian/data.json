@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "STL源码剖析",
-      "path": "Temp/STL源码剖析.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage.md"
+    },
+    {
+      "basename": "2026-02-12",
+      "path": "Dairies/2026-02-12.md"
     },
     {
       "basename": "第4章 序列式容器",
       "path": "Temp/第4章 序列式容器.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage.md"
+      "basename": "STL源码剖析",
+      "path": "Temp/STL源码剖析.md"
     },
     {
       "basename": "Buttons",
@@ -59,10 +63,6 @@
     {
       "basename": "缓存项目",
       "path": "Dairies/缓存项目.md"
-    },
-    {
-      "basename": "2026-02-12",
-      "path": "Dairies/2026-02-12.md"
     },
     {
       "basename": "学习缓存项目",

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp/STL源码剖析.md",
+                "file": "Templates/Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,55 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "STL源码剖析"
-            }
-          },
-          {
-            "id": "c8619af4e16164dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/2026-02-11-write_title.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-02-11-write_title"
-            }
-          },
-          {
-            "id": "9122078ab77eeee2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/另一本日式小说.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "另一本日式小说"
+              "title": "Homepage"
             }
           },
           {
@@ -101,30 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "28. 找出字符串中第一个匹配项的下标"
-            }
-          },
-          {
-            "id": "c708f61704ee508a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
             }
           }
         ]
@@ -256,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/STL源码剖析.md",
+                "file": "Templates/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "STL源码剖析 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -405,9 +333,11 @@
   },
   "active": "56835f59a7e3f33e",
   "lastOpenFiles": [
-    "Temp/第4章 序列式容器.md",
-    "Temp/STL源码剖析.md",
     "Templates/Homepage.md",
+    "Temp/第4章 序列式容器.md",
+    "Dairies/2026-02-14.md",
+    "Temp/STL源码剖析.md",
+    "Pasted image 20260212143730.png",
     "Templates/Buttons.md",
     "Temp/007_书籍.md",
     "Clippings/2026-02-11-write_title.md",
@@ -434,7 +364,6 @@
     "Temp/z_写标题.md",
     "Leetcode/48. 旋转图像.md",
     "Clippings/2026-02-11-anki_card.md",
-    "Temp/z_写知识卡片.md",
     "Pasted image 20260211153424.png",
     "Leetcode/4045. 最长平衡子数组 I.cpp~",
     "Leetcode/4045. 最长平衡子数组 I.cpp",
@@ -450,7 +379,6 @@
     "Leetcode/images/110_balance_2.jpg",
     "Leetcode/images/110_balance_1.jpg",
     "1.jpeg",
-    "Pasted image 20251209200240.png",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
 }
