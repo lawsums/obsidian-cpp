@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -29,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
+            }
+          },
+          {
+            "id": "9122078ab77eeee2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/另一本日式小说.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "另一本日式小说"
             }
           },
           {
@@ -53,6 +77,30 @@
               },
               "icon": "lucide-file",
               "title": "28. 找出字符串中第一个匹配项的下标"
+            }
+          },
+          {
+            "id": "c708f61704ee508a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Buttons.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Buttons"
             }
           }
         ]
@@ -333,18 +381,25 @@
   },
   "active": "56835f59a7e3f33e",
   "lastOpenFiles": [
+    "Dairies/学习科目四.md",
+    "Templates/Homepage.md",
+    "Templates/Leetcode_problem_template.md",
+    "Templates/Leetcode_problem_template 1.md",
+    "Leetcode/28. 找出字符串中第一个匹配项的下标.md",
+    "Temp/另一本日式小说.md",
+    "Temp/另一本日_大纲.md",
+    "Templates/Buttons.md",
+    "Temp/一本日式小说.md",
     "Dairies/缓存项目.md",
     "Dairies/2026-02-12.md",
     "Dairies/学习缓存项目.md",
     "Dairies/2026-02-13.md",
     "Dairies/2026-02-11.md",
-    "Templates/Homepage.md",
     "Templates/面试题系列.md",
     "Temp/面试1.md",
     "Clippings/2026-02-11-write_title.md",
     "Temp/z_写标题.md",
     "Leetcode/48. 旋转图像.md",
-    "Templates/Buttons.md",
     "Clippings/2026-02-11-anki_card.md",
     "Temp/z_写知识卡片.md",
     "Temp/z_指令.md",
@@ -352,13 +407,6 @@
     "Clippings/2026-02-11-cd.md",
     "Clippings/2026-02-11-hpp2puml.md",
     "Clippings/2026-02-11-anki_interview_problem.md",
-    "操作系统/auto&&属于什么用法.md",
-    "Clippings/cd.md",
-    "Temp/z_写面试题.md",
-    "Templates/Snippet_code_template.md",
-    "Templates/Mandala_template.md",
-    "Temp/003_不定期任务.md",
-    "操作系统/printf为什么可以打印不定长的内容.md",
     "Pasted image 20260211153424.png",
     "Leetcode/4045. 最长平衡子数组 I.cpp~",
     "Leetcode/4045. 最长平衡子数组 I.cpp",

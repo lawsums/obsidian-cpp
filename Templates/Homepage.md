@@ -150,7 +150,25 @@ action:
   type: open
   link: https://articles.zsxq.com/id_n4jcuih49kad.html
 ```
+```meta-bind-button
+label: 更新anki
+style: default
+id: anki-update
+hidden: false
+actions:
+  - type: command
+    command: obsidian-to-anki-plugin:anki-scan-vault
 
+```
+```meta-bind-button
+style: default
+id: anki-open
+hidden: false
+label: 打开anki
+action:
+  type: open
+  link: file:///E:\Anki\anki.exe
+```
 # Excalidraw Data
 
 ## Text Elements
