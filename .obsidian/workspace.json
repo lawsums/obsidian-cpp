@@ -8,14 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "56835f59a7e3f33e",
+            "id": "a8fa3bde95b82293",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage.md",
-                "mode": "source",
-                "source": false,
+                "file": "Templates/Homepage/Homepage.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -29,30 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
-            }
-          },
-          {
-            "id": "1b947250b0d13d02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/28. 找出字符串中第一个匹配项的下标.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "28. 找出字符串中第一个匹配项的下标"
             }
           }
         ]
@@ -114,7 +90,7 @@
       {
         "id": "a1a3b64710b00c75",
         "type": "tabs",
-        "dimension": 27.9430789133247,
+        "dimension": 27.943078913324708,
         "children": [
           {
             "id": "ab51d39c5fce48bc",
@@ -184,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -302,7 +278,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "media-extended:Open media": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "diagram-zoom-drag:Picker mode": false,
       "bases:新建数据库": false,
@@ -332,28 +307,32 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "56835f59a7e3f33e",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/面试题系列.md",
+    "操作系统/C++11新特性.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习esp32s3.md",
+    "Templates/Homepage",
+    "Dairies/缓存项目.md",
+    "000_毕业设计/MESH组网.md",
+    "Leetcode/28. 找出字符串中第一个匹配项的下标.md",
+    "Attachments/Pasted image 20260212151025.png",
+    "Attachments/Pasted image 20260212151021.png",
+    "Attachments/Pasted image 20260212143730.png",
+    "Attachments/Pasted image 20260211153424.png",
+    "Attachments/Pasted image 20260209132718.png",
+    "Attachments/Pasted image 20260207130824.png",
+    "Attachments/Pasted Image 20260203175718_313.png",
+    "Attachments/Pasted Image 20260203175630_454.png",
+    "Attachments/Pasted Image 20260203160850_279.png",
+    "Attachments/Pasted Image 20260203160743_303.png",
     "test.lua",
-    "Attachments/Pasted image 20260212172442.png",
-    "Attachments/Pasted image 20260212172521.png",
-    "Attachments/Pasted image 20260119225933.png",
-    "Attachments/Pasted image 20260119225907.png",
-    "Attachments/Pasted image 20260119225900.png",
-    "Attachments/Pasted image 20260119225853.png",
-    "Attachments/Pasted image 20260119225841.png",
-    "Attachments/Pasted image 20260119225829.png",
-    "Attachments/Pasted image 20260119225805.png",
-    "Attachments/Pasted image 20260118195653.png",
     "Attachments",
     "掌握 CSMA/CD 协议的相关知识。（包括工作原理、最长冲突检测时间计算、最短帧长的计算、争用期的计算).md",
-    "Leetcode/28. 找出字符串中第一个匹配项的下标.md",
     "test.cpp",
-    "Templates/Homepage.md",
-    "000_毕业设计/MESH组网.md",
     "Temp/git.md",
     "Temp/Obisidian 中怎么使用 git.md",
-    "Templates/学习esp32s3.md",
     "Temp/003_不定期任务.md",
     "Dairies/学习科目四.md",
     "数据结构/KMP相关题目.md",
@@ -372,14 +351,10 @@
     "Templates/Leetcode_problem_template.md",
     "Templates/Leetcode_problem_template 1.md",
     "Temp/另一本日_大纲.md",
-    "Temp/一本日式小说.md",
-    "Dairies/缓存项目.md",
     "Leetcode/4045. 最长平衡子数组 I.cpp~",
     "Leetcode/4045. 最长平衡子数组 I.cpp",
     "Leetcode/1285. 将二叉搜索树变平衡.cpp~",
     "Leetcode/1285. 将二叉搜索树变平衡.cpp",
-    "Leetcode/28. 找出字符串中第一个匹配项的下标.cpp",
-    "Leetcode/28. 找出字符串中第一个匹配项的下标.cpp~",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
 }

@@ -10,14 +10,14 @@
             "type": "tabs",
             "children": [
               {
-                "id": "56835f59a7e3f33e",
+                "id": "a8fa3bde95b82293",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Templates/Homepage.md",
-                    "mode": "source",
-                    "source": false,
+                    "file": "Templates/Homepage/Homepage.md",
+                    "mode": "preview",
+                    "source": true,
                     "backlinks": true,
                     "backlinkOpts": {
                       "collapseAll": false,
@@ -32,30 +32,6 @@
                   "icon": "lucide-file",
                   "title": "Homepage"
                 }
-              },
-              {
-                "id": "1b947250b0d13d02",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Leetcode/28. 找出字符串中第一个匹配项的下标.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "28. 找出字符串中第一个匹配项的下标"
-                }
               }
             ]
           }
@@ -69,7 +45,7 @@
           {
             "id": "177fa92686b10f84",
             "type": "tabs",
-            "dimension": 72.0569210866753,
+            "dimension": 72.05692108667529,
             "children": [
               {
                 "id": "944cd14a7fae27b7",
@@ -116,7 +92,7 @@
           {
             "id": "a1a3b64710b00c75",
             "type": "tabs",
-            "dimension": 27.943078913324708,
+            "dimension": 27.9430789133247,
             "children": [
               {
                 "id": "ab51d39c5fce48bc",
@@ -141,7 +117,7 @@
           {
             "id": "720402d91614d85f",
             "type": "tabs",
-            "dimension": 35.41666666666667,
+            "dimension": 35.416666666666664,
             "children": [
               {
                 "id": "96da7d36b59c0c87",
@@ -178,7 +154,7 @@
           {
             "id": "a68226789a184a04",
             "type": "tabs",
-            "dimension": 29.166666666666668,
+            "dimension": 29.166666666666664,
             "children": [
               {
                 "id": "7ad080d1a7a76395",
@@ -186,7 +162,7 @@
                 "state": {
                   "type": "outline",
                   "state": {
-                    "file": "Templates/Homepage.md",
+                    "file": "Templates/Homepage/Homepage.md",
                     "followCursor": false,
                     "showSearch": false,
                     "searchQuery": ""
@@ -270,7 +246,7 @@
           {
             "id": "4d5c9ff27afeebb0",
             "type": "tabs",
-            "dimension": 35.41666666666667,
+            "dimension": 35.416666666666664,
             "children": [
               {
                 "id": "62a2ab2074b1cb48",
@@ -304,6 +280,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "media-extended:Open media": false,
           "pexels-banner:🚩 Pixel Banner Menu": false,
           "diagram-zoom-drag:Picker mode": false,
           "bases:新建数据库": false,
@@ -333,12 +310,10 @@
           "homepage:Open homepage": false
         }
       },
-      "active": "56835f59a7e3f33e",
-      "mtime": "2026-02-08T17:17:58+08:00",
+      "active": "a8fa3bde95b82293",
+      "mtime": "2026-02-12T20:55:39+08:00",
       "workspaces-plus:settings-v1": {
-        "explorerFoldState": [
-          "Leetcode"
-        ],
+        "explorerFoldState": [],
         "description": "",
         "mode": null
       }

@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiImages",
       "LiImage",
       "LiWholeWord",
       "LiRecycle",
-      "LiContainer",
-      "LiClipboardX"
+      "LiContainer"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -52,5 +52,6 @@
   "Pandoc": "LiImport",
   "Clippings": "LiClipboardX",
   "Configs": "LiContainer",
-  "Temp": "LiRecycle"
+  "Temp": "LiRecycle",
+  "Attachments": "LiImages"
 }
