@@ -5,6 +5,10 @@
       "path": "Templates/Homepage.md"
     },
     {
+      "basename": "003_不定期任务",
+      "path": "Temp/003_不定期任务.md"
+    },
+    {
       "basename": "KMP相关题目",
       "path": "数据结构/KMP相关题目.md"
     },
@@ -147,10 +151,6 @@
     {
       "basename": "Mandala_template",
       "path": "Templates/Mandala_template.md"
-    },
-    {
-      "basename": "003_不定期任务",
-      "path": "Temp/003_不定期任务.md"
     },
     {
       "basename": "printf为什么可以打印不定长的内容",
