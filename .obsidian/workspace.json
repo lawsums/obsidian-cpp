@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/KMP相关题目.md",
+                "file": "Templates/Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "KMP相关题目"
+              "title": "Homepage"
             }
           },
           {
@@ -54,33 +54,8 @@
               "icon": "lucide-file",
               "title": "28. 找出字符串中第一个匹配项的下标"
             }
-          },
-          {
-            "id": "b49263068a3deff6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -327,6 +302,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "media-extended:Open media": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "diagram-zoom-drag:Picker mode": false,
       "bases:新建数据库": false,
@@ -353,16 +329,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-and-night:Toggle Theme": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "homepage:Open homepage": false,
-      "media-extended:Open media": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "b49263068a3deff6",
+  "active": "56835f59a7e3f33e",
   "lastOpenFiles": [
-    "Temp/003_不定期任务.md",
-    "Templates/Homepage.md",
-    "Temp/Obisidian 中怎么使用 git.md",
+    "Temp/1.jpeg",
     "Templates/学习esp32s3.md",
+    "Templates/Homepage.md",
+    "Temp/003_不定期任务.md",
+    "Temp/Obisidian 中怎么使用 git.md",
     "Dairies/学习科目四.md",
     "数据结构/KMP相关题目.md",
     "算法讲解101【扩展】 KMP算法相关题目PT2M6.608S.webp",
@@ -395,7 +371,6 @@
     "Dairies/2026-02-12.md",
     "Dairies/学习缓存项目.md",
     "Dairies/2026-02-13.md",
-    "Dairies/2026-02-11.md",
     "Pasted image 20260211153424.png",
     "Leetcode/4045. 最长平衡子数组 I.cpp~",
     "Leetcode/4045. 最长平衡子数组 I.cpp",
