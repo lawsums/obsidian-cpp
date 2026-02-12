@@ -5,6 +5,18 @@
       "path": "Templates/Homepage.md"
     },
     {
+      "basename": "KMP相关题目",
+      "path": "数据结构/KMP相关题目.md"
+    },
+    {
+      "basename": "28. 找出字符串中第一个匹配项的下标",
+      "path": "Leetcode/28. 找出字符串中第一个匹配项的下标.md"
+    },
+    {
+      "basename": "Media Note - 算法讲解101【扩展】 KMP算法相关题目",
+      "path": "Media Note - 算法讲解101【扩展】 KMP算法相关题目.md"
+    },
+    {
       "basename": "2026-02-12",
       "path": "Dairies/2026-02-12.md"
     },
@@ -47,10 +59,6 @@
     {
       "basename": "Leetcode_problem_template 1",
       "path": "Templates/Leetcode_problem_template 1.md"
-    },
-    {
-      "basename": "28. 找出字符串中第一个匹配项的下标",
-      "path": "Leetcode/28. 找出字符串中第一个匹配项的下标.md"
     },
     {
       "basename": "另一本日_大纲",
@@ -191,14 +199,6 @@
     {
       "basename": "堆板子",
       "path": "代码模版/堆板子.md"
-    },
-    {
-      "basename": "006_影视作品",
-      "path": "Temp/006_影视作品.md"
-    },
-    {
-      "basename": "绝命毒师",
-      "path": "Temp/绝命毒师.md"
     }
   ],
   "omittedPaths": [],

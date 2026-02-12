@@ -57,22 +57,6 @@
       "key": "T"
     }
   ],
-  "editor:insert-table": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "T"
-    }
-  ],
-  "editor:table-col-after": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "R"
-    }
-  ],
   "app:delete-file": [
     {
       "modifiers": [
@@ -385,6 +369,38 @@
     {
       "modifiers": [],
       "key": "F12"
+    }
+  ],
+  "media-extended:toggle-play": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "P"
+    }
+  ],
+  "media-extended:take-timestamp": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "media-extended:take-timestamp-media-note": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Y"
+    }
+  ],
+  "media-extended:save-screenshot": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
     }
   ]
 }
