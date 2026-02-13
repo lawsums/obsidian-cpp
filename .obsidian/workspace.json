@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Homepage/Homepage.md",
-                "mode": "preview",
-                "source": true,
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -30,81 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "1ed96650b30b8d0d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/合成天下.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "合成天下"
-            }
-          },
-          {
-            "id": "9fbb968751b9e306",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/189. 轮转数组.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "189. 轮转数组"
-            }
-          },
-          {
-            "id": "f34974edd25762f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/41. 缺失的第一个正数.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "41. 缺失的第一个正数"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/合成天下.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "合成天下 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -351,6 +278,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "media-extended:Open media": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "diagram-zoom-drag:Picker mode": false,
       "bases:新建数据库": false,
@@ -377,15 +305,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-and-night:Toggle Theme": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "homepage:Open homepage": false,
-      "media-extended:Open media": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "1ed96650b30b8d0d",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "未命名.canvas",
+    "Templates/Homepage/Homepage.md",
+    "Dairies/2026-02-13.md",
     "Temp/004_闪念.md",
     "Temp/合成天下.md",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/189. 轮转数组.md",
     "Leetcode/189. 轮转数组.cpp~",
     "Leetcode/189. 轮转数组.cpp",
@@ -425,8 +354,6 @@
     "Temp/STL源码剖析.md",
     "Templates/Buttons.md",
     "Temp/007_书籍.md",
-    "Clippings/2026-02-11-write_title.md",
-    "Temp/Effctive STL.md",
     "Leetcode/328. 奇偶链表.cpp~",
     "Leetcode/328. 奇偶链表.cpp",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"

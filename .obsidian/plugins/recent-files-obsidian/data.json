@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.canvas"
+    },
+    {
+      "basename": "2026-02-13",
+      "path": "Dairies/2026-02-13.md"
+    },
+    {
       "basename": "合成天下",
       "path": "Temp/合成天下.md"
     },
@@ -9,20 +21,12 @@
       "path": "Temp/004_闪念.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "189. 轮转数组",
       "path": "Leetcode/189. 轮转数组.md"
     },
     {
       "basename": "41. 缺失的第一个正数",
       "path": "Leetcode/41. 缺失的第一个正数.md"
-    },
-    {
-      "basename": "2026-02-13",
-      "path": "Dairies/2026-02-13.md"
     },
     {
       "basename": "2026-02-12",
@@ -195,10 +199,6 @@
     {
       "basename": "学习科目四",
       "path": "Dairies/学习科目四.md"
-    },
-    {
-      "basename": "VSCodeVimVim star Vim for Visual Studio Code 1",
-      "path": "Clippings/VSCodeVimVim star Vim for Visual Studio Code 1.md"
     }
   ],
   "omittedPaths": [],
