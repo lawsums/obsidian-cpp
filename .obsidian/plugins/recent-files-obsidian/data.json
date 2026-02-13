@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "整理一下vscode_vim_idea快捷键",
+      "path": "Temp/整理一下vscode_vim_idea快捷键.md"
+    },
+    {
+      "basename": "Vscode快捷键",
+      "path": "Software/Vscode快捷键.md"
+    },
+    {
+      "basename": "关于钱的问题",
+      "path": "Temp/关于钱的问题.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Temp/003_不定期任务.md"
     },
     {
       "basename": "w64dev自带指令",
@@ -109,10 +125,6 @@
       "path": "Temp/git.md"
     },
     {
-      "basename": "003_不定期任务",
-      "path": "Temp/003_不定期任务.md"
-    },
-    {
       "basename": "KMP相关题目",
       "path": "数据结构/KMP相关题目.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "z_指令",
       "path": "Temp/z_指令.md"
-    },
-    {
-      "basename": "Snippet_content_template",
-      "path": "Templates/Snippet_content_template.md"
-    },
-    {
-      "basename": "2026-02-11-cd",
-      "path": "Clippings/2026-02-11-cd.md"
-    },
-    {
-      "basename": "2026-02-11-hpp2puml",
-      "path": "Clippings/2026-02-11-hpp2puml.md"
     }
   ],
   "omittedPaths": [],

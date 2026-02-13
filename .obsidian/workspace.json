@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
-                "mode": "preview",
+                "file": "Temp/整理一下vscode_vim_idea快捷键.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "整理一下vscode_vim_idea快捷键"
+            }
+          },
+          {
+            "id": "06e9546633967ed5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/Vscode快捷键.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Vscode快捷键"
             }
           },
           {
@@ -53,6 +77,30 @@
               },
               "icon": "lucide-file",
               "title": "w64dev自带指令"
+            }
+          },
+          {
+            "id": "27669a61e3a5dc5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/Homepage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
         ]
@@ -184,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Temp/整理一下vscode_vim_idea快捷键.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "整理一下vscode_vim_idea快捷键 的大纲"
             }
           },
           {
@@ -335,9 +383,17 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-02-15.md",
+    "Temp/整理一下vscode_vim_idea快捷键.md",
+    "Software/Vscode快捷键.md",
+    "Temp/关于钱的问题.md",
+    "Templates/Homepage/Homepage.md",
+    "Temp/003_不定期任务.md",
+    "整理一下vscode/vim/idea快捷键.md",
+    "整理一下vscode/vim",
+    "整理一下vscode",
     "Software/w64dev自带指令.md",
     "Temp/第4章 序列式容器.md",
-    "Templates/Homepage/Homepage.md",
     "Attachments/Pasted image 20260213202830.png",
     "Attachments/Pasted image 20260213202824.png",
     "Attachments/Pasted image 20260213202815.png",
@@ -362,15 +418,9 @@
     "Leetcode/189. 轮转数组.md",
     "Leetcode/189. 轮转数组.cpp~",
     "Leetcode/189. 轮转数组.cpp",
-    "Leetcode/41. 缺失的第一个正数.md",
     "Leetcode/41. 缺失的第一个正数.cpp~",
     "Leetcode/41. 缺失的第一个正数.cpp",
-    "操作系统/C++11新特性.md",
-    "Templates/Homepage/学习esp32s3.md",
     "Templates/Homepage",
-    "Dairies/缓存项目.md",
-    "000_毕业设计/MESH组网.md",
-    "Leetcode/28. 找出字符串中第一个匹配项的下标.md",
     "Attachments/Pasted image 20260212151025.png",
     "Attachments/Pasted image 20260212151021.png",
     "Attachments/Pasted image 20260212143730.png",
@@ -380,8 +430,6 @@
     "test.lua",
     "Attachments",
     "test.cpp",
-    "Leetcode/328. 奇偶链表.cpp~",
-    "Leetcode/328. 奇偶链表.cpp",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
 }
