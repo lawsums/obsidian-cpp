@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "智能指针使用的时候有哪些坑",
+      "path": "操作系统/智能指针使用的时候有哪些坑.md"
+    },
+    {
       "basename": "obsidian-quick-file-yank",
       "path": "Temp/obsidian-quick-file-yank.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "开发inference_copy插件",
       "path": "Dairies/开发inference_copy插件.md"
-    },
-    {
-      "basename": "智能指针使用的时候有哪些坑",
-      "path": "操作系统/智能指针使用的时候有哪些坑.md"
     },
     {
       "basename": "面试题系列",

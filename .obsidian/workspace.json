@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "b97a60a44d795267",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/obsidian-quick-file-yank.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "obsidian-quick-file-yank"
-            }
           }
         ]
       }
@@ -335,11 +311,11 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "操作系统/智能指针使用的时候有哪些坑.md",
     "Temp/obsidian-quick-file-yank.md",
     "Templates/Homepage/Homepage.md",
     "Temp/004_闪念.md",
     "Dairies/开发inference_copy插件.md",
-    "操作系统/智能指针使用的时候有哪些坑.md",
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/学习深度学习.md",
     "Dairies/2026-02-13.md",
