@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "73a881336ddb4394",
+            "id": "8c937e265a3cbb37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp/合成天下.md",
+                "file": "Templates/Homepage/面试题系列.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "合成天下"
+              "title": "面试题系列"
+            }
+          },
+          {
+            "id": "b9b136515983dce0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/智能指针使用的时候有哪些坑.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "智能指针使用的时候有哪些坑"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "操作系统/智能指针使用的时候有哪些坑.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "智能指针使用的时候有哪些坑 的大纲"
             }
           },
           {
@@ -332,13 +357,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "b9b136515983dce0",
   "lastOpenFiles": [
-    "Dairies/学习科目四.md",
-    "Templates/Homepage/Homepage.md",
-    "Temp/合成天下.md",
     "Templates/Homepage/面试题系列.md",
+    "操作系统/智能指针使用的时候有哪些坑.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习深度学习.md",
     "Dairies/2026-02-13.md",
+    "Temp/合成天下.md",
+    "Dairies/学习科目四.md",
     "Dairies/2026-02-14.md",
     "Dairies/2026-02-12.md",
     "Dairies/日记.md",
@@ -377,8 +404,6 @@
     "Media Note - 算法讲解101【扩展】 KMP算法相关题目.md",
     "Temp/第4章 序列式容器.md",
     "Temp/STL源码剖析.md",
-    "Templates/Buttons.md",
-    "Temp/007_书籍.md",
     "Leetcode/328. 奇偶链表.cpp~",
     "Leetcode/328. 奇偶链表.cpp",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"

@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
-      "basename": "合成天下",
-      "path": "Temp/合成天下.md"
+      "basename": "智能指针使用的时候有哪些坑",
+      "path": "操作系统/智能指针使用的时候有哪些坑.md"
     },
     {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
     },
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "2026-02-13",
       "path": "Dairies/2026-02-13.md"
+    },
+    {
+      "basename": "合成天下",
+      "path": "Temp/合成天下.md"
+    },
+    {
+      "basename": "学习科目四",
+      "path": "Dairies/学习科目四.md"
     },
     {
       "basename": "2026-02-14",
@@ -191,14 +199,6 @@
     {
       "basename": "Snippet_code_template",
       "path": "Templates/Snippet_code_template.md"
-    },
-    {
-      "basename": "Mandala_template",
-      "path": "Templates/Mandala_template.md"
-    },
-    {
-      "basename": "printf为什么可以打印不定长的内容",
-      "path": "操作系统/printf为什么可以打印不定长的内容.md"
     }
   ],
   "omittedPaths": [],
