@@ -16,7 +16,7 @@
   - [ ] 源碼形式與下載
   - [ ] 線上服務
   - [ ] 推薦讀物
-- [ ] 第1章 STL 概論與版本簡介
+## 第1章 STL 概論與版本簡介
   - [ ] 1.1 STL 概論
     - [ ] 1.1.1 STL 的歷史
     - [ ] 1.1.2 STL 與 C++ 標準程式庫
@@ -49,7 +49,8 @@
     - [ ] 1.9.4 increment/decrement/dereference 運算子
     - [ ] 1.9.5「前閉後開」區間表示法 [ )
     - [ ] 1.9.6 function call 運算子（operator()）
-- [ ] 第2章 空間配置器（allocator）
+
+## 第2章 空間配置器（allocator）
   - [ ] 2.1 空間配置器的標準介面
     - [ ] 2.1.1 設計一個陽春的空間配置器，JJ::allocator
   - [ ] 2.2 具備次配置力（sub-allocation）的 SGI 空間配置器
@@ -67,7 +68,8 @@
     - [ ] 2.3.1 uninitialized_copy
     - [ ] 2.3.2 uninitialized_fill
     - [ ] 2.3.3 uninitialized_fill_n
-- [ ] 第3章 迭代器（iterators）概念與 traits 編程技法
+
+## 第3章 迭代器（iterators）概念與 traits 編程技法
   - [ ] 3.1 迭代器設計思維 — STL 關鍵所在
   - [ ] 3.2 迭代器是一種 smart pointer
   - [ ] 3.3 迭代器相應型別（associated types）
@@ -80,8 +82,10 @@
   - [ ] 3.5 std::iterator class 的保證
   - [ ] 3.6 iterator 相關源碼整理重列
   - [ ] SGI STL 的迭代器：__type_traits
-- [ ] [[第4章 序列式容器]]（sequence containers）
-- [ ] 第5章 關聯式容器（associated containers）
+
+## [[第4章 序列式容器]]（sequence containers）
+
+## 第5章 關聯式容器（associated containers）
   - [ ] 5.1 樹的導覽
     - [ ] 5.1.1 二元搜尋樹（binary search tree）
     - [ ] 5.1.2 平衡二元搜尋樹（balanced binary search tree）
@@ -121,7 +125,8 @@
   - [ ] 5.9 hash_map
   - [ ] 5.10 hash_multiset
   - [ ] 5.11 hash_multimap
-- [ ] 第6章 演算法（algorithms）
+
+## 第6章 演算法（algorithms）
   - [ ] 6.1 演算法概觀
     - [ ] 6.1.1 演算法分析與複雜度表示 O( )
     - [ ] 6.1.2 STL 演算法分類
@@ -204,7 +209,8 @@
     - [ ] 6.7.11 nth_element（應用於已序區間）
     - [ ] 6.7.12 equal_range（應用於已序區間）
     - [ ] 6.7.13 inplace_merge
-- [ ] 第7章 仿函式（functors, 又名 function objects）
+
+## 第7章 仿函式（functors, 又名 function objects）
   - [ ] 7.1 仿函式（functor）的關鍵
   - [ ] 7.1.1 unary_function
   - [ ] 7.1.2 binary_function
@@ -217,7 +223,8 @@
     - [ ] logical_and, logical_or, logical_not
   - [ ] 7.6 證同（identity）、選擇（select）、投射（project）
     - [ ] identity, select1st, select2nd, project1st, project2nd
-- [ ] 第8章 配接器（adapters）
+
+## 第8章 配接器（adapters）
   - [ ] 8.1 配接器概觀與分類
     - [ ] 8.1.1 應用於容器的 container adapters
     - [ ] 8.1.2 應用於迭代器的 iterator adapters

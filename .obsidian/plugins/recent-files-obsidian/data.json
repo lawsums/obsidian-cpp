@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "w64dev自带指令",
       "path": "Software/w64dev自带指令.md"
     },
     {
-      "basename": "mingw",
-      "path": "Software/mingw.md"
+      "basename": "第4章 序列式容器",
+      "path": "Temp/第4章 序列式容器.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "STL源码剖析",
+      "path": "Temp/STL源码剖析.md"
+    },
+    {
+      "basename": "mingw",
+      "path": "Software/mingw.md"
     },
     {
       "basename": "Daily_note_template",
@@ -111,14 +119,6 @@
     {
       "basename": "Media Note - 算法讲解101【扩展】 KMP算法相关题目",
       "path": "Media Note - 算法讲解101【扩展】 KMP算法相关题目.md"
-    },
-    {
-      "basename": "第4章 序列式容器",
-      "path": "Temp/第4章 序列式容器.md"
-    },
-    {
-      "basename": "STL源码剖析",
-      "path": "Temp/STL源码剖析.md"
     },
     {
       "basename": "Buttons",

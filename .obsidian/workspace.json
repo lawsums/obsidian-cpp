@@ -55,8 +55,7 @@
               "title": "w64dev自带指令"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/w64dev自带指令.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "w64dev自带指令 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -334,11 +333,17 @@
       "quick-file-yank:Greet": false
     }
   },
-  "active": "f731b82dbdfd2736",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Software/mingw.md",
     "Software/w64dev自带指令.md",
+    "Temp/第4章 序列式容器.md",
     "Templates/Homepage/Homepage.md",
+    "Attachments/Pasted image 20260213202830.png",
+    "Attachments/Pasted image 20260213202824.png",
+    "Attachments/Pasted image 20260213202815.png",
+    "Attachments/Pasted image 20260213202812.png",
+    "Temp/STL源码剖析.md",
+    "Software/mingw.md",
     "Templates/Daily_note_template.md",
     "Temp/面试1.md",
     "操作系统/智能指针使用的时候有哪些坑.md",
@@ -372,15 +377,9 @@
     "Attachments/Pasted image 20260211153424.png",
     "Attachments/Pasted image 20260209132718.png",
     "Attachments/Pasted image 20260207130824.png",
-    "Attachments/Pasted Image 20260203175718_313.png",
-    "Attachments/Pasted Image 20260203175630_454.png",
-    "Attachments/Pasted Image 20260203160850_279.png",
-    "Attachments/Pasted Image 20260203160743_303.png",
     "test.lua",
     "Attachments",
-    "掌握 CSMA/CD 协议的相关知识。（包括工作原理、最长冲突检测时间计算、最短帧长的计算、争用期的计算).md",
     "test.cpp",
-    "Temp/git.md",
     "Leetcode/328. 奇偶链表.cpp~",
     "Leetcode/328. 奇偶链表.cpp",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
