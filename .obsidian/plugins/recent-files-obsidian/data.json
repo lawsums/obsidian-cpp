@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "w64dev自带指令",
+      "path": "Software/w64dev自带指令.md"
+    },
+    {
+      "basename": "mingw",
+      "path": "Software/mingw.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2026-02-11-hpp2puml",
       "path": "Clippings/2026-02-11-hpp2puml.md"
-    },
-    {
-      "basename": "2026-02-11-anki_interview_problem",
-      "path": "Clippings/2026-02-11-anki_interview_problem.md"
-    },
-    {
-      "basename": "auto&&属于什么用法",
-      "path": "操作系统/auto&&属于什么用法.md"
     }
   ],
   "omittedPaths": [],
