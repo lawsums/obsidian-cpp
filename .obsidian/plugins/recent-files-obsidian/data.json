@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "obsidian-quick-file-yank",
+      "path": "Temp/obsidian-quick-file-yank.md"
+    },
+    {
+      "basename": "开发inference_copy插件",
+      "path": "Dairies/开发inference_copy插件.md"
+    },
+    {
+      "basename": "004_闪念",
+      "path": "Temp/004_闪念.md"
+    },
+    {
       "basename": "智能指针使用的时候有哪些坑",
       "path": "操作系统/智能指针使用的时候有哪些坑.md"
     },
     {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "2026-02-13",
@@ -39,10 +51,6 @@
     {
       "basename": "未命名",
       "path": "未命名.canvas"
-    },
-    {
-      "basename": "004_闪念",
-      "path": "Temp/004_闪念.md"
     },
     {
       "basename": "189. 轮转数组",
@@ -191,14 +199,6 @@
     {
       "basename": "cd",
       "path": "Clippings/cd.md"
-    },
-    {
-      "basename": "z_写面试题",
-      "path": "Temp/z_写面试题.md"
-    },
-    {
-      "basename": "Snippet_code_template",
-      "path": "Templates/Snippet_code_template.md"
     }
   ],
   "omittedPaths": [],
