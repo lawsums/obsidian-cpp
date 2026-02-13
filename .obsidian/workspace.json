@@ -13,78 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp/整理一下vscode_vim_idea快捷键.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "整理一下vscode_vim_idea快捷键"
-            }
-          },
-          {
-            "id": "06e9546633967ed5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/Vscode快捷键.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Vscode快捷键"
-            }
-          },
-          {
-            "id": "f731b82dbdfd2736",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/w64dev自带指令.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "w64dev自带指令"
-            }
-          },
-          {
-            "id": "27669a61e3a5dc5b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Templates/Homepage/Homepage.md",
                 "mode": "source",
                 "source": false,
@@ -232,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/整理一下vscode_vim_idea快捷键.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "整理一下vscode_vim_idea快捷键 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -383,8 +311,8 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Dairies/2026-02-15.md",
     "Temp/整理一下vscode_vim_idea快捷键.md",
+    "Dairies/2026-02-15.md",
     "Software/Vscode快捷键.md",
     "Temp/关于钱的问题.md",
     "Templates/Homepage/Homepage.md",
