@@ -15,7 +15,7 @@
               "state": {
                 "file": "Templates/Homepage/Homepage.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -310,9 +310,11 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "未命名.canvas",
     "Templates/Homepage/Homepage.md",
+    "Dairies/日记.md",
     "Dairies/2026-02-13.md",
+    "Dairies/2026-02-14.md",
+    "未命名.canvas",
     "Temp/004_闪念.md",
     "Temp/合成天下.md",
     "Leetcode/189. 轮转数组.md",
@@ -350,7 +352,6 @@
     "数据结构/KMP相关题目.md",
     "Media Note - 算法讲解101【扩展】 KMP算法相关题目.md",
     "Temp/第4章 序列式容器.md",
-    "Dairies/2026-02-14.md",
     "Temp/STL源码剖析.md",
     "Templates/Buttons.md",
     "Temp/007_书籍.md",

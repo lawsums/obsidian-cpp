@@ -5,12 +5,20 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "未命名",
-      "path": "未命名.canvas"
+      "basename": "日记",
+      "path": "Dairies/日记.md"
     },
     {
       "basename": "2026-02-13",
       "path": "Dairies/2026-02-13.md"
+    },
+    {
+      "basename": "2026-02-14",
+      "path": "Dairies/2026-02-14.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "未命名.canvas"
     },
     {
       "basename": "合成天下",
@@ -191,14 +199,6 @@
     {
       "basename": "printf为什么可以打印不定长的内容",
       "path": "操作系统/printf为什么可以打印不定长的内容.md"
-    },
-    {
-      "basename": "格式字符串",
-      "path": "操作系统/格式字符串.md"
-    },
-    {
-      "basename": "学习科目四",
-      "path": "Dairies/学习科目四.md"
     }
   ],
   "omittedPaths": [],
