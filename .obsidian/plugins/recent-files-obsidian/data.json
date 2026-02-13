@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
       "basename": "面试1",
       "path": "Temp/面试1.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "auto&&属于什么用法",
       "path": "操作系统/auto&&属于什么用法.md"
-    },
-    {
-      "basename": "cd",
-      "path": "Clippings/cd.md"
     }
   ],
   "omittedPaths": [],
