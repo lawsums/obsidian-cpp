@@ -16,8 +16,8 @@
                   "type": "markdown",
                   "state": {
                     "file": "Templates/Homepage/Homepage.md",
-                    "mode": "preview",
-                    "source": true,
+                    "mode": "source",
+                    "source": false,
                     "backlinks": true,
                     "backlinkOpts": {
                       "collapseAll": false,
@@ -92,7 +92,7 @@
           {
             "id": "a1a3b64710b00c75",
             "type": "tabs",
-            "dimension": 27.9430789133247,
+            "dimension": 27.943078913324708,
             "children": [
               {
                 "id": "ab51d39c5fce48bc",
@@ -280,7 +280,6 @@
       },
       "left-ribbon": {
         "hiddenItems": {
-          "media-extended:Open media": false,
           "pexels-banner:🚩 Pixel Banner Menu": false,
           "diagram-zoom-drag:Picker mode": false,
           "bases:新建数据库": false,
@@ -307,11 +306,13 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false,
           "obsidian-day-and-night:Toggle Theme": false,
           "obsidian-shellcommands:Shell commands: Custom variables": false,
-          "homepage:Open homepage": false
+          "homepage:Open homepage": false,
+          "quick-file-yank:Click me": false,
+          "quick-file-yank:Greet": false
         }
       },
       "active": "a8fa3bde95b82293",
-      "mtime": "2026-02-12T20:55:39+08:00",
+      "mtime": "2026-02-13T15:49:50+08:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [],
         "description": "",

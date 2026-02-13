@@ -9,12 +9,12 @@
       "path": "Temp/obsidian-quick-file-yank.md"
     },
     {
-      "basename": "开发inference_copy插件",
-      "path": "Dairies/开发inference_copy插件.md"
-    },
-    {
       "basename": "004_闪念",
       "path": "Temp/004_闪念.md"
+    },
+    {
+      "basename": "开发inference_copy插件",
+      "path": "Dairies/开发inference_copy插件.md"
     },
     {
       "basename": "智能指针使用的时候有哪些坑",

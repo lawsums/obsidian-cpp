@@ -10,29 +10,6 @@ vmap jk <Esc>
 " 重做 (撤销"撤销")
 nnoremap U <C-r>
 
-" 修正版本3：两步替换，最可靠
-" nnoremap gf :s/\\\(/$/g<CR>:s/\\\)/$/g<CR>
-" vnoremap gf :s/\\\(/$/g<CR>:s/\\\)/$/g<CR>
-" nnoremap gF :%s/\\\(/$/g<CR>:%s/\\\)/$/g<CR>
-"
-"
-
-" 映射说明：
-" gf = 处理圆括号 -> $...$
-" gd = 处理中括号 -> $$...$$
-
-" 原有映射保持不变
-nnoremap gf :s/\\\(/$/g<CR>:s/\\\)/$/g<CR>
-vnoremap gf :s/\\\(/$/g<CR>:s/\\\)/$/g<CR>
-nnoremap gF :%s/\\\(/$/g<CR>:%s/\\\)/$/g<CR>
-
-" 新增专门处理中括号的映射
-" 分步处理中括号
-nnoremap gb :s/\\\[/$$/ <Bar> s/\\\]/$$/<CR>
-vnoremap gb :s/\\\[/$$/ <Bar> s/\\\]/$$/<CR>
-nnoremap gB :%s/\\\[/$$/ <Bar> %s/\\\]/$$/<CR>
-
-
 " --- 行首/行尾导航 ---
 " 更快的移动光标
 " 现在space不起作用了
@@ -162,10 +139,6 @@ nmap ,c :insertColumn<CR>
 nmap ,r :insertRow<CR>
 
 " " --- 出向链接快捷键 ---
-" exmap outgoingLinks obcommand outgoing-links:open
-" " 保持 glo 没问题（g 开头通常是安全的）
-" nmap gd :outgoingLinks<CR>
-
 " 1. 在当前面板打开链接（默认行为）
 exmap followLink obcommand editor:follow-link
 " gf = go file（Vim 传统快捷键）
@@ -175,6 +148,10 @@ nmap gd :followLink<CR>
 exmap newTabLink obcommand editor:open-link-in-new-leaf
 " gF = go File（大写，表示新标签页）
 nmap gD :newTabLink<CR>
+
+exmap quickYank obcommand quick-file-yank:quick-file-yank
+nmap gy :quickYank<CR>
+
 
 " --- 主题切换快捷键 ---
 exmap toggleTheme obcommand theme:switch

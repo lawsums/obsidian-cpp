@@ -1,8 +1,8 @@
 {
-  "id": "obsidian-sample",
-  "name": "Obsidian Sample",
-  "version": "0.0.1",
+  "id": "quick-file-yank",
+  "name": "Quick File Yank",
+  "version": "0.1.0",
   "minAppVersion": "1.5.8",
-  "description": "This is an sample of the simplest obsidian plugin to develop.",
+  "description": "A plugin to quickly yank the content of a file to the clipboard.",
   "isDesktopOnly": false
 }
