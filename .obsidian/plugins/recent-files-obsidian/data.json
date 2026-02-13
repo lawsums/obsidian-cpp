@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "合成天下",
+      "path": "Temp/合成天下.md"
+    },
+    {
+      "basename": "004_闪念",
+      "path": "Temp/004_闪念.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "189. 轮转数组",
+      "path": "Leetcode/189. 轮转数组.md"
+    },
+    {
+      "basename": "41. 缺失的第一个正数",
+      "path": "Leetcode/41. 缺失的第一个正数.md"
     },
     {
       "basename": "2026-02-13",
@@ -183,18 +199,6 @@
     {
       "basename": "VSCodeVimVim star Vim for Visual Studio Code 1",
       "path": "Clippings/VSCodeVimVim star Vim for Visual Studio Code 1.md"
-    },
-    {
-      "basename": "Vscode-vim",
-      "path": "Software/Vscode-vim.md"
-    },
-    {
-      "basename": "VSCodeVimVim star Vim for Visual Studio Code",
-      "path": "Clippings/VSCodeVimVim star Vim for Visual Studio Code.md"
-    },
-    {
-      "basename": "Vscode插件",
-      "path": "Software/Vscode插件.md"
     }
   ],
   "omittedPaths": [],

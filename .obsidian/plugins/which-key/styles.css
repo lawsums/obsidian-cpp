@@ -1,0 +1,45 @@
+.which-key-container {
+    position: absolute;
+    bottom: 35px;
+    right: 10px;
+    max-height: 91%;
+    overflow-y: auto;
+    background-color: var(--background-secondary);
+    border-color: var(--modal-border-color);
+    color: var(--text-normal);
+    z-index: 100;
+}
+
+.which-key-command {
+    display: inline-flex;
+    align-items: center;
+}
+
+.which-key-commands {
+    display: flex;
+    flex-direction: column;
+}
+
+/* TODO: Serif font for clarity */
+.which-key-prefix {
+    display: inline-flex;
+    justify-content: center;
+    width: 20px;
+    color: var(--text-accent);
+    font-family: Consolas, monospace;
+}
+
+.which-key-command-arrow,
+.which-key-command-icon {
+    margin: 0 4px;
+    display: flex;
+    align-items: center;
+}
+
+.which-key-command-arrow {
+    --icon-size: 12px;
+}
+
+.which-key-command-icon {
+    --icon-size: 14px;
+}
