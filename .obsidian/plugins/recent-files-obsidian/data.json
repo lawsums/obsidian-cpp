@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "合成天下",
+      "path": "Temp/合成天下.md"
+    },
+    {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "未命名",
       "path": "未命名.canvas"
-    },
-    {
-      "basename": "合成天下",
-      "path": "Temp/合成天下.md"
     },
     {
       "basename": "004_闪念",

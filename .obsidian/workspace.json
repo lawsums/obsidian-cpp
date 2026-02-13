@@ -14,8 +14,8 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Homepage/Homepage.md",
-                "mode": "source",
-                "source": true,
+                "mode": "preview",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -29,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
+            }
+          },
+          {
+            "id": "73a881336ddb4394",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/合成天下.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "合成天下"
             }
           }
         ]
@@ -310,7 +334,9 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/学习科目四.md",
     "Templates/Homepage/Homepage.md",
+    "Temp/合成天下.md",
     "Templates/Homepage/面试题系列.md",
     "Dairies/2026-02-13.md",
     "Dairies/2026-02-14.md",
@@ -318,7 +344,6 @@
     "Dairies/日记.md",
     "未命名.canvas",
     "Temp/004_闪念.md",
-    "Temp/合成天下.md",
     "Leetcode/189. 轮转数组.md",
     "Leetcode/189. 轮转数组.cpp~",
     "Leetcode/189. 轮转数组.cpp",
@@ -348,7 +373,6 @@
     "Temp/git.md",
     "Temp/Obisidian 中怎么使用 git.md",
     "Temp/003_不定期任务.md",
-    "Dairies/学习科目四.md",
     "数据结构/KMP相关题目.md",
     "Media Note - 算法讲解101【扩展】 KMP算法相关题目.md",
     "Temp/第4章 序列式容器.md",
