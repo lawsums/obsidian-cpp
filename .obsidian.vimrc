@@ -152,8 +152,8 @@ nmap gD :newTabLink<CR>
 exmap quickYank obcommand quick-file-yank:quick-file-yank
 nmap gy :quickYank<CR>
 
-"exmap openCppInVscode obcommand obsidian-shellcommands:shell-command-2bfsb259a1
-"nmap go :openCppInVscode<CR>
+exmap openCppInVscode obcommand obsidian-shellcommands:shell-command-2bfsb259a1
+nmap go :openCppInVscode<CR>
 
 
 " --- 主题切换快捷键 ---

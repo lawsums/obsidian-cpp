@@ -205,14 +205,6 @@
       "key": "D"
     }
   ],
-  "daily-notes:goto-next": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "N"
-    }
-  ],
   "daily-notes:goto-prev": [
     {
       "modifiers": [
@@ -402,5 +394,10 @@
       ],
       "key": "O"
     }
-  ]
+  ],
+  "editor:save-file": [],
+  "workspace:close-window": [],
+  "easy-typing-obsidian:easy-typing-delete-blank-line": [],
+  "terminal:clear-terminal": [],
+  "templater-obsidian:insert-templater": []
 }
