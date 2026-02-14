@@ -115,8 +115,7 @@
               "title": "14. 最长公共前缀"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -245,13 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/红黑树有哪些性质.md",
+                "file": "Templates/Homepage/面试题系列.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "红黑树有哪些性质 的大纲"
+              "title": "面试题系列 的大纲"
             }
           },
           {
@@ -392,11 +391,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6da6eff8f6f4656a",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "操作系统/红黑树有哪些性质.md",
     "Temp/绝命毒师.md",
     "数据结构/红黑树.md",
-    "操作系统/红黑树有哪些性质.md",
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-02-14.md",

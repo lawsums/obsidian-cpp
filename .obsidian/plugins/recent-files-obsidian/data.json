@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
       "basename": "红黑树有哪些性质",
       "path": "操作系统/红黑树有哪些性质.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "红黑树",
       "path": "数据结构/红黑树.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
     },
     {
       "basename": "Homepage",
