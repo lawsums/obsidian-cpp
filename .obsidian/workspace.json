@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Homepage/Homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -79,8 +79,7 @@
               "title": "合成天下"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/2026-02-11-anki_interview_problem.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-02-11-anki_interview_problem 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -357,12 +356,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0b273927d50561bd",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Clippings/2026-02-11-anki_interview_problem.md",
     "Dairies/2026-02-16.md",
     "操作系统/前向声明的作用.md",
     "Templates/Homepage/Homepage.md",
-    "Clippings/2026-02-11-anki_interview_problem.md",
     "Templates/Question_template.md",
     "Temp/合成天下.md",
     "Leetcode/39.组合总和.md",
