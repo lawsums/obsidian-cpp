@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "红黑树有哪些性质",
+      "path": "操作系统/红黑树有哪些性质.md"
+    },
+    {
+      "basename": "绝命毒师",
+      "path": "Temp/绝命毒师.md"
+    },
+    {
+      "basename": "红黑树",
+      "path": "数据结构/红黑树.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-02-14",
+      "path": "Dairies/2026-02-14.md"
     },
     {
       "basename": "Leetcode_problem_template",
@@ -39,10 +59,6 @@
     {
       "basename": "STL源码剖析",
       "path": "Templates/Homepage/STL源码剖析.md"
-    },
-    {
-      "basename": "2026-02-14",
-      "path": "Dairies/2026-02-14.md"
     },
     {
       "basename": "2026-02-15",
@@ -95,10 +111,6 @@
     {
       "basename": "开发inference_copy插件",
       "path": "Dairies/开发inference_copy插件.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
     },
     {
       "basename": "2026-02-13",
@@ -187,18 +199,6 @@
     {
       "basename": "328. 奇偶链表",
       "path": "Leetcode/328. 奇偶链表.md"
-    },
-    {
-      "basename": "Leetcode_problem_template 1",
-      "path": "Templates/Leetcode_problem_template 1.md"
-    },
-    {
-      "basename": "另一本日_大纲",
-      "path": "Temp/另一本日_大纲.md"
-    },
-    {
-      "basename": "一本日式小说",
-      "path": "Temp/一本日式小说.md"
     }
   ],
   "omittedPaths": [],
