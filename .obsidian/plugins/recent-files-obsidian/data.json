@@ -5,16 +5,16 @@
       "path": "Dairies/解决gdb字符集问题.md"
     },
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "gdb 常用指令",
       "path": "Software/gdb 常用指令.md"
     },
     {
       "basename": "gdb",
       "path": "Software/gdb.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "第4章 序列式容器",

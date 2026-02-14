@@ -1,5 +1,8 @@
 你现在在PowerShell中调试 `container_test.cpp` 时，遇到两个核心问题：一是设置断点时的编码转换警告，二是打印 `std::string` 时出现 `Converting character sets: Invalid argument` 错误——这两个问题本质都是**Windows终端（CP65001/UTF-8）与MinGW版GDB的字符集处理不兼容**导致的，我会给你一套“一键修复+永久生效”的解决方案，彻底解决这些编码问题。
-	
+
+### 零、配置 HOME 环境变量
+GDB 对于.gdbinit的识别路径是$HOME/.gdbinit, 在windows系统上默认情况下没有HOME这个系统变量
+
 ### 一、先临时修复当前GDB会话（立即生效）
 在当前GDB交互界面执行以下命令，先解决`std::string`打印错误，不影响后续调试：
 ```gdb

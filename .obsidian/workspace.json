@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "af469e61060217df",
+            "id": "efd38981e73fc0f5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,30 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "解决gdb字符集问题"
-            }
-          },
-          {
-            "id": "f128fe9084f66a14",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/gdb 常用指令.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "gdb 常用指令"
             }
           }
         ],
@@ -356,12 +332,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "af469e61060217df",
+  "active": "efd38981e73fc0f5",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Software/gdb 常用指令.md",
     "Dairies/解决gdb字符集问题.md",
     "Software/gdb.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/第4章 序列式容器.md",
     "Templates/Homepage/STL源码剖析.md",
     "Dairies/2026-02-14.md",
