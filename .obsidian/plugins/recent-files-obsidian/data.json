@@ -5,6 +5,30 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "第4章 序列式容器",
+      "path": "Templates/Homepage/第4章 序列式容器.md"
+    },
+    {
+      "basename": "STL源码剖析",
+      "path": "Templates/Homepage/STL源码剖析.md"
+    },
+    {
+      "basename": "gdb",
+      "path": "Software/gdb.md"
+    },
+    {
+      "basename": "解决gdb字符集问题",
+      "path": "Dairies/解决gdb字符集问题.md"
+    },
+    {
+      "basename": "2026-02-14",
+      "path": "Dairies/2026-02-14.md"
+    },
+    {
+      "basename": "2026-02-15",
+      "path": "Dairies/2026-02-15.md"
+    },
+    {
       "basename": "整理一下vscode_vim_idea快捷键",
       "path": "Temp/整理一下vscode_vim_idea快捷键.md"
     },
@@ -23,14 +47,6 @@
     {
       "basename": "w64dev自带指令",
       "path": "Software/w64dev自带指令.md"
-    },
-    {
-      "basename": "第4章 序列式容器",
-      "path": "Temp/第4章 序列式容器.md"
-    },
-    {
-      "basename": "STL源码剖析",
-      "path": "Temp/STL源码剖析.md"
     },
     {
       "basename": "mingw",
@@ -75,10 +91,6 @@
     {
       "basename": "学习科目四",
       "path": "Dairies/学习科目四.md"
-    },
-    {
-      "basename": "2026-02-14",
-      "path": "Dairies/2026-02-14.md"
     },
     {
       "basename": "2026-02-12",
@@ -146,7 +158,7 @@
     },
     {
       "basename": "Effctive STL",
-      "path": "Temp/Effctive STL.md"
+      "path": "Templates/Homepage/Effctive STL.md"
     },
     {
       "basename": "另一本日式小说",
@@ -187,18 +199,6 @@
     {
       "basename": "48. 旋转图像",
       "path": "Leetcode/48. 旋转图像.md"
-    },
-    {
-      "basename": "2026-02-11-anki_card",
-      "path": "Clippings/2026-02-11-anki_card.md"
-    },
-    {
-      "basename": "z_写知识卡片",
-      "path": "Temp/z_写知识卡片.md"
-    },
-    {
-      "basename": "z_指令",
-      "path": "Temp/z_指令.md"
     }
   ],
   "omittedPaths": [],
