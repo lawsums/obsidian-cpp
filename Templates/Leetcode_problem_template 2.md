@@ -82,6 +82,9 @@ const targetFile = tp.config.target_file;
 const fs = require('fs');
 const path = require('path');
 
+// 1. Neovim 路径配置（必须修改为你的实际路径！）
+const nvimExePath = "E:/Program Files/nvim/nvim.exe"; // Windows 示例
+
 // 2. 拼接 .cpp 文件路径（和笔记同名同目录）
 const cppFilePath = path.join(
   targetFile.vault.adapter.basePath,
@@ -107,21 +110,6 @@ if (process.platform === "win32") {
   openNvimCommand = `nvim "${cppFilePath}"`;
 }
 const nvimLink = `file:///${encodeURIComponent(openNvimCommand)}`;
-
-// 5. 新增：生成 VS Code 打开命令（跨平台适配）
-let openVscodeCommand;
-if (process.platform === "win32") {
-  // Windows 下直接用 code 命令（需确保 VS Code 已加入环境变量）
-  openVscodeCommand = `code "${cppFilePath}"`;
-} else if (process.platform === "darwin") {
-  // MacOS 下的 VS Code 命令
-  openVscodeCommand = `code "${cppFilePath}"`;
-} else {
-  // Linux 下的 VS Code 命令
-  openVscodeCommand = `code "${cppFilePath}"`;
-}
-const vscodeLink = `file:///${encodeURIComponent(openVscodeCommand)}`;
-
 _%>
 
 
@@ -129,11 +117,6 @@ _%>
 name <font color="#548dd4">nvim打开</font>
 type link
 action <% nvimLink %>
-```
-```button
-name <font color="#4e937a">VSCode打开</font>
-type link
-action <% vscodeLink %>
 ```
 
 `button-anki-open`   `button-anki-update`

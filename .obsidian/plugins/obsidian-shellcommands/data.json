@@ -100,10 +100,10 @@
     {
       "id": "2bfsb259a1",
       "platform_specific_commands": {
-        "default": "nvim \"{{folder_name}}\\{{title}}.cpp\""
+        "default": "code \"{{folder_name}}\\{{title}}.cpp\""
       },
       "shells": {},
-      "alias": "",
+      "alias": "open_cpp_in_vscode",
       "icon": null,
       "confirm_execution": false,
       "ignore_error_codes": [],

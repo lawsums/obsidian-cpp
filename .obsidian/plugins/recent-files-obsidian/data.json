@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
+      "basename": "39.组合总和",
+      "path": "Leetcode/39.组合总和.md"
+    },
+    {
+      "basename": "Leetcode_problem_template",
+      "path": "Templates/Leetcode_problem_template.md"
+    },
+    {
+      "basename": "Leetcode_problem_template 2",
+      "path": "Templates/Leetcode_problem_template 2.md"
     },
     {
       "basename": "红黑树有哪些性质",
       "path": "操作系统/红黑树有哪些性质.md"
     },
     {
+      "basename": "14. 最长公共前缀",
+      "path": "Leetcode/14. 最长公共前缀.md"
+    },
+    {
       "basename": "绝命毒师",
       "path": "Temp/绝命毒师.md"
+    },
+    {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
     },
     {
       "basename": "红黑树",
@@ -27,14 +43,6 @@
     {
       "basename": "2026-02-14",
       "path": "Dairies/2026-02-14.md"
-    },
-    {
-      "basename": "Leetcode_problem_template",
-      "path": "Templates/Leetcode_problem_template.md"
-    },
-    {
-      "basename": "14. 最长公共前缀",
-      "path": "Leetcode/14. 最长公共前缀.md"
     },
     {
       "basename": "1. 两数之和",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-02-11-write_title",
       "path": "Clippings/2026-02-11-write_title.md"
-    },
-    {
-      "basename": "Effctive STL",
-      "path": "Templates/Homepage/Effctive STL.md"
-    },
-    {
-      "basename": "另一本日式小说",
-      "path": "Temp/另一本日式小说.md"
     }
   ],
   "omittedPaths": [],
