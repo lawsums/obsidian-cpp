@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "解决gdb字符集问题",
       "path": "Dairies/解决gdb字符集问题.md"
+    },
+    {
+      "basename": "gdb 常用指令",
+      "path": "Software/gdb 常用指令.md"
+    },
+    {
+      "basename": "gdb",
+      "path": "Software/gdb.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "第4章 序列式容器",
@@ -15,10 +23,6 @@
     {
       "basename": "STL源码剖析",
       "path": "Templates/Homepage/STL源码剖析.md"
-    },
-    {
-      "basename": "gdb",
-      "path": "Software/gdb.md"
     },
     {
       "basename": "2026-02-14",
@@ -195,10 +199,6 @@
     {
       "basename": "z_写标题",
       "path": "Temp/z_写标题.md"
-    },
-    {
-      "basename": "48. 旋转图像",
-      "path": "Leetcode/48. 旋转图像.md"
     }
   ],
   "omittedPaths": [],
