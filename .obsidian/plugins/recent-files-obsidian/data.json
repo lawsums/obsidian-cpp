@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "解决gdb字符集问题",
-      "path": "Dairies/解决gdb字符集问题.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Leetcode_problem_template",
+      "path": "Templates/Leetcode_problem_template.md"
+    },
+    {
+      "basename": "14. 最长公共前缀",
+      "path": "Leetcode/14. 最长公共前缀.md"
+    },
+    {
+      "basename": "1. 两数之和",
+      "path": "Leetcode/1. 两数之和.md"
+    },
+    {
+      "basename": "2. 两数相加",
+      "path": "Leetcode/2. 两数相加.cpp"
+    },
+    {
+      "basename": "解决gdb字符集问题",
+      "path": "Dairies/解决gdb字符集问题.md"
     },
     {
       "basename": "gdb 常用指令",
@@ -173,10 +189,6 @@
       "path": "Leetcode/328. 奇偶链表.md"
     },
     {
-      "basename": "Leetcode_problem_template",
-      "path": "Templates/Leetcode_problem_template.md"
-    },
-    {
       "basename": "Leetcode_problem_template 1",
       "path": "Templates/Leetcode_problem_template 1.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "一本日式小说",
       "path": "Temp/一本日式小说.md"
-    },
-    {
-      "basename": "学习缓存项目",
-      "path": "Dairies/学习缓存项目.md"
-    },
-    {
-      "basename": "2026-02-11",
-      "path": "Dairies/2026-02-11.md"
-    },
-    {
-      "basename": "z_写标题",
-      "path": "Temp/z_写标题.md"
     }
   ],
   "omittedPaths": [],

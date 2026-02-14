@@ -24,7 +24,8 @@ const all = "#include <bits/stdc++.h>\nusing namespace std;\n\n"
 // TODO 
 // console.log(question.similarQuestions);
 
-await tp.file.rename(question.questionId + ". " + question.title);
+// 不要". ", "."就行
+await tp.file.rename(question.questionId + "." + question.title);
 
 // 提前声明存储标签和提示的变量
 let topicTagsText = ""; // 存储分类标签
@@ -113,7 +114,7 @@ _%>
 
 
 ```button
-name <font color="#548dd4">打开nvim（自动创建.cpp）</font>
+name <font color="#548dd4">nvim打开</font>
 type link
 action <% nvimLink %>
 ```
