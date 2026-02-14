@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "解决gdb字符集问题",
+      "path": "Dairies/解决gdb字符集问题.md"
+    },
+    {
       "basename": "第4章 序列式容器",
       "path": "Templates/Homepage/第4章 序列式容器.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "gdb",
       "path": "Software/gdb.md"
-    },
-    {
-      "basename": "解决gdb字符集问题",
-      "path": "Dairies/解决gdb字符集问题.md"
     },
     {
       "basename": "2026-02-14",
