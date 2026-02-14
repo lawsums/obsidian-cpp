@@ -35,7 +35,6 @@
   "obsidian-git",
   "table-editor-obsidian",
   "diagram-zoom-drag",
-  "obsidian-shellcommands",
   "better-word-count",
   "recent-files-obsidian",
   "obsidian-hover-editor",
@@ -51,5 +50,6 @@
   "simple-columns",
   "cmdr",
   "which-key-plugin",
-  "quick-file-yank"
+  "quick-file-yank",
+  "obsidian-shellcommands"
 ]
