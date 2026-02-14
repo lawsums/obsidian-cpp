@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/面试题系列.md",
+                "file": "Dairies/实现自己的数据结构.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "面试题系列"
+              "title": "实现自己的数据结构"
             }
           },
           {
@@ -244,13 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/面试题系列.md",
+                "file": "Dairies/实现自己的数据结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "面试题系列 的大纲"
+              "title": "实现自己的数据结构 的大纲"
             }
           },
           {
@@ -393,11 +393,11 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/面试题系列.md",
     "操作系统/红黑树有哪些性质.md",
     "Temp/绝命毒师.md",
     "数据结构/红黑树.md",
-    "Templates/Homepage/面试题系列.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-02-14.md",
     "Templates/Leetcode_problem_template.md",
     "Leetcode/14. 最长公共前缀.md",

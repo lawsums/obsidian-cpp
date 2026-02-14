@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "红黑树",
       "path": "数据结构/红黑树.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "2026-02-14",
@@ -195,10 +199,6 @@
     {
       "basename": "另一本日式小说",
       "path": "Temp/另一本日式小说.md"
-    },
-    {
-      "basename": "328. 奇偶链表",
-      "path": "Leetcode/328. 奇偶链表.md"
     }
   ],
   "omittedPaths": [],
