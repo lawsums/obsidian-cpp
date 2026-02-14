@@ -51,5 +51,6 @@
   "cmdr",
   "which-key-plugin",
   "quick-file-yank",
-  "obsidian-shellcommands"
+  "obsidian-shellcommands",
+  "open-vscode"
 ]

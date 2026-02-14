@@ -1,6 +1,6 @@
-#include <bits/stdc++.h>
+// #include <bits/stdc++.h>
+#include <vector>
 using namespace std;
-
 
 class Solution {
 private:
@@ -32,3 +32,9 @@ public:
         }
     }
 };
+
+int main() {
+    vector<int> candidates = {2, 3, 6, 7};
+    int target = 7;
+    Solution().combinationSum(candidates, target);
+}
