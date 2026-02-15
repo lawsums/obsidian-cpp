@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-02-14",
+      "path": "Dairies/2026-02-14.md"
+    },
+    {
+      "basename": "2026-02-15",
+      "path": "Dairies/2026-02-15.md"
+    },
+    {
+      "basename": "2026-02-11-anki_interview_problem",
+      "path": "Clippings/2026-02-11-anki_interview_problem.md"
+    },
+    {
       "basename": "第4章 序列式容器",
       "path": "Templates/Homepage/第4章 序列式容器.md"
     },
     {
       "basename": "STL源码剖析",
       "path": "Templates/Homepage/STL源码剖析.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
-      "basename": "2026-02-11-anki_interview_problem",
-      "path": "Clippings/2026-02-11-anki_interview_problem.md"
     },
     {
       "basename": "前向声明的作用",
@@ -65,10 +73,6 @@
       "path": "数据结构/红黑树.md"
     },
     {
-      "basename": "2026-02-14",
-      "path": "Dairies/2026-02-14.md"
-    },
-    {
       "basename": "1. 两数之和",
       "path": "Leetcode/1. 两数之和.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "gdb",
       "path": "Software/gdb.md"
-    },
-    {
-      "basename": "2026-02-15",
-      "path": "Dairies/2026-02-15.md"
     },
     {
       "basename": "整理一下vscode_vim_idea快捷键",
