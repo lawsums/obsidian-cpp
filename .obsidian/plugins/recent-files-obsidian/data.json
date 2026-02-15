@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "67.二进制求和",
+      "path": "Leetcode/67.二进制求和.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "KMP相关题目",
       "path": "数据结构/KMP相关题目.md"
-    },
-    {
-      "basename": "Media Note - 算法讲解101【扩展】 KMP算法相关题目",
-      "path": "Media Note - 算法讲解101【扩展】 KMP算法相关题目.md"
     }
   ],
   "omittedPaths": [],
