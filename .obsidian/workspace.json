@@ -55,7 +55,8 @@
               "title": "方向"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Temp/方向.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "方向 的大纲"
             }
           },
           {
@@ -299,8 +299,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -334,10 +333,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "71c2f91dd0c1b427",
   "lastOpenFiles": [
-    "Temp/方向.md",
     "Templates/Homepage/Homepage.md",
+    "Temp/方向.md",
     "Leetcode/67.二进制求和.md",
     "Leetcode/a.exe",
     "Leetcode/67.二进制求和.cpp",
