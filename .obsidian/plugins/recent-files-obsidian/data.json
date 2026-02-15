@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "方向",
+      "path": "Temp/方向.md"
+    },
+    {
       "basename": "67.二进制求和",
       "path": "Leetcode/67.二进制求和.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "git",
       "path": "Temp/git.md"
-    },
-    {
-      "basename": "KMP相关题目",
-      "path": "数据结构/KMP相关题目.md"
     }
   ],
   "omittedPaths": [],
