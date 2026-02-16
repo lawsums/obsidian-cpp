@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "5d86ff7dc3109b87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/学习科目四.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习科目四"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -161,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/学习科目四.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习科目四 的大纲"
             }
           },
           {
@@ -275,8 +299,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,9 +333,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "5d86ff7dc3109b87",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
+    "Leetcode/4.寻找两个正序数组的中位数.md",
+    "Leetcode/4.寻找两个正序数组的中位数.cpp",
     "Temp/方向.md",
     "Leetcode/67.二进制求和.md",
     "Leetcode/a.exe",
@@ -342,8 +367,6 @@
     "Leetcode/2. 两数相加.cpp",
     "Dairies/解决gdb字符集问题.md",
     "Software/gdb 常用指令.md",
-    "Software/gdb.md",
-    "Temp/整理一下vscode_vim_idea快捷键.md",
     "整理一下vscode/vim",
     "整理一下vscode",
     "Attachments/Pasted image 20260213202830.png",
@@ -353,7 +376,6 @@
     "未命名.canvas",
     "Leetcode/189. 轮转数组.cpp~",
     "Leetcode/189. 轮转数组.cpp",
-    "Leetcode/41. 缺失的第一个正数.cpp~",
     "Attachments/Pasted image 20260212151025.png",
     "Attachments/Pasted image 20260212151021.png",
     "Attachments/Pasted image 20260212143730.png",

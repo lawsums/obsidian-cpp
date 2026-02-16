@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "4.寻找两个正序数组的中位数",
+      "path": "Leetcode/4.寻找两个正序数组的中位数.md"
+    },
+    {
       "basename": "2026-02-15",
       "path": "Dairies/2026-02-15.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Obisidian 中怎么使用 git",
       "path": "Temp/Obisidian 中怎么使用 git.md"
-    },
-    {
-      "basename": "git",
-      "path": "Temp/git.md"
     }
   ],
   "omittedPaths": [],
