@@ -9,6 +9,10 @@
       "path": "Templates/Homepage/面试题系列.md"
     },
     {
+      "basename": "008_生活",
+      "path": "Temp/008_生活.md"
+    },
+    {
       "basename": "4.寻找两个正序数组的中位数",
       "path": "Leetcode/4.寻找两个正序数组的中位数.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "28. 找出字符串中第一个匹配项的下标",
       "path": "Leetcode/28. 找出字符串中第一个匹配项的下标.md"
-    },
-    {
-      "basename": "Obisidian 中怎么使用 git",
-      "path": "Temp/Obisidian 中怎么使用 git.md"
     }
   ],
   "omittedPaths": [],
