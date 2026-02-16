@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "Vscode快捷键",
+      "path": "Software/Vscode快捷键.md"
+    },
+    {
       "basename": "2026-02-16",
       "path": "Dairies/2026-02-16.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "整理一下vscode_vim_idea快捷键",
       "path": "Temp/整理一下vscode_vim_idea快捷键.md"
-    },
-    {
-      "basename": "Vscode快捷键",
-      "path": "Software/Vscode快捷键.md"
     },
     {
       "basename": "关于钱的问题",
