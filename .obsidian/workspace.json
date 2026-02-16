@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "5d86ff7dc3109b87",
+            "id": "27ca5e7199f34654",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/学习科目四.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "学习科目四"
+              "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/面试题系列.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "面试题系列 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -332,8 +333,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "27ca5e7199f34654",
   "lastOpenFiles": [
+    "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/学习科目四.md",
     "Leetcode/4.寻找两个正序数组的中位数.md",
@@ -360,7 +362,6 @@
     "Leetcode/14. 最长公共前缀.md",
     "Temp/绝命毒师.md",
     "Dairies/实现自己的数据结构.md",
-    "Templates/Homepage/面试题系列.md",
     "数据结构/红黑树.md",
     "Dairies/2026-02-14.md",
     "Leetcode/1. 两数之和.md",
