@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/面试题系列.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "面试题系列"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "学习科目四"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/学习科目四.md",
+                "file": "Templates/Homepage/面试题系列.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习科目四 的大纲"
+              "title": "面试题系列 的大纲"
             }
           },
           {
@@ -333,9 +332,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5d86ff7dc3109b87",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
+    "Dairies/学习科目四.md",
     "Leetcode/4.寻找两个正序数组的中位数.md",
     "Leetcode/4.寻找两个正序数组的中位数.cpp",
     "Temp/方向.md",
