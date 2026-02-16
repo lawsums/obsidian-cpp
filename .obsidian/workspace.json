@@ -14,30 +14,6 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Homepage/Homepage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "71c2f91dd0c1b427",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/方向.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "方向"
+              "title": "Homepage"
             }
           }
         ]
@@ -334,8 +310,8 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Temp/方向.md",
     "Templates/Homepage/Homepage.md",
+    "Temp/方向.md",
     "Leetcode/67.二进制求和.md",
     "Leetcode/a.exe",
     "Leetcode/67.二进制求和.cpp",
