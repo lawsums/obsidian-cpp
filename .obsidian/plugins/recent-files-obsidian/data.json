@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "004_闪念",
+      "path": "Temp/004_闪念.md"
+    },
+    {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
     },
@@ -147,10 +151,6 @@
     {
       "basename": "obsidian-quick-file-yank",
       "path": "Temp/obsidian-quick-file-yank.md"
-    },
-    {
-      "basename": "004_闪念",
-      "path": "Temp/004_闪念.md"
     },
     {
       "basename": "开发inference_copy插件",
