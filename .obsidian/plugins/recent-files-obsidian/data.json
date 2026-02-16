@@ -5,16 +5,20 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-02-16",
+      "path": "Dairies/2026-02-16.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
       "basename": "146.LRU 缓存",
       "path": "Leetcode/146.LRU 缓存.md"
     },
     {
       "basename": "004_闪念",
       "path": "Temp/004_闪念.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
     },
     {
       "basename": "008_生活",
@@ -195,10 +199,6 @@
     {
       "basename": "缓存项目",
       "path": "Dairies/缓存项目.md"
-    },
-    {
-      "basename": "MESH组网",
-      "path": "000_毕业设计/MESH组网.md"
     }
   ],
   "omittedPaths": [],
