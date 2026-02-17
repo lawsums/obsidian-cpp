@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "类型擦除是什么",
-      "path": "操作系统/类型擦除是什么.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "functional_any_variant_optional的区别",
+      "path": "操作系统/functional_any_variant_optional的区别.md"
+    },
+    {
+      "basename": "类型擦除是什么",
+      "path": "操作系统/类型擦除是什么.md"
     },
     {
       "basename": "std容器, 库函数对比",
@@ -195,10 +199,6 @@
     {
       "basename": "日记",
       "path": "Dairies/日记.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "未命名.canvas"
     }
   ],
   "omittedPaths": [],

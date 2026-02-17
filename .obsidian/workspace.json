@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "2d002b0f54b8e624",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/functional_any_variant_optional的区别.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "functional_any_variant_optional的区别"
+            }
+          },
+          {
             "id": "0f97be45b9392757",
             "type": "leaf",
             "state": {
@@ -79,8 +103,7 @@
               "title": "std容器, 库函数对比"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/类型擦除是什么.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "类型擦除是什么 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -357,8 +380,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0f97be45b9392757",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "操作系统/functional_any_variant_optional的区别.md",
     "Templates/Homepage/Homepage.md",
     "操作系统/类型擦除是什么.md",
     "Dairies/2026-02-19.md",
@@ -390,7 +414,6 @@
     "操作系统/前向声明的作用.md",
     "Templates/Question_template.md",
     "Temp/合成天下.md",
-    "Leetcode/39.组合总和.md",
     "Leetcode/39.组合总和.cpp~",
     "Leetcode/39.组合总和.cpp",
     "Leetcode/2. 两数相加.cpp",
