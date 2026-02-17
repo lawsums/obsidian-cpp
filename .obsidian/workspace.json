@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/面试题系列.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "面试题系列"
-            }
-          },
-          {
-            "id": "27ca5e7199f34654",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Templates/Homepage/Homepage.md",
                 "mode": "source",
                 "source": false,
@@ -55,8 +31,7 @@
               "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -333,11 +308,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "27ca5e7199f34654",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Software/Vscode快捷键.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-02-17.md",
+    "Templates/Homepage/Homepage.md",
+    "Software/Vscode快捷键.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/2026-02-16.md",
     "Templates/Homepage/面试题系列.md",

@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-02-17",
+      "path": "Dairies/2026-02-17.md"
+    },
+    {
       "basename": "Vscode快捷键",
       "path": "Software/Vscode快捷键.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "C++11新特性",
       "path": "操作系统/C++11新特性.md"
-    },
-    {
-      "basename": "缓存项目",
-      "path": "Dairies/缓存项目.md"
     }
   ],
   "omittedPaths": [],
