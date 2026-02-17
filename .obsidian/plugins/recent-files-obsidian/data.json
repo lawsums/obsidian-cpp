@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "类型擦除是什么",
+      "path": "操作系统/类型擦除是什么.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "未命名",
       "path": "未命名.canvas"
-    },
-    {
-      "basename": "189. 轮转数组",
-      "path": "Leetcode/189. 轮转数组.md"
     }
   ],
   "omittedPaths": [],
