@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "std容器, 库函数对比",
+      "path": "代码模版/std容器, 库函数对比.md"
+    },
+    {
+      "basename": "容器对比",
+      "path": "代码模版/容器对比.md"
+    },
+    {
       "basename": "2026-02-17",
       "path": "Dairies/2026-02-17.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "189. 轮转数组",
       "path": "Leetcode/189. 轮转数组.md"
-    },
-    {
-      "basename": "41. 缺失的第一个正数",
-      "path": "Leetcode/41. 缺失的第一个正数.md"
-    },
-    {
-      "basename": "C++11新特性",
-      "path": "操作系统/C++11新特性.md"
     }
   ],
   "omittedPaths": [],

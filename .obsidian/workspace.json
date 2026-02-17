@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "8e0f39bb5eed48a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "代码模版/std容器, 库函数对比.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "std容器, 库函数对比"
+            }
           }
         ]
       }
@@ -310,8 +334,11 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Dairies/2026-02-17.md",
+    "Dairies/2026-02-18.md",
+    "代码模版/std容器, 库函数对比.md",
+    "代码模版/容器对比.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-02-17.md",
     "Software/Vscode快捷键.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/2026-02-16.md",
@@ -341,9 +368,6 @@
     "Leetcode/39.组合总和.cpp~",
     "Leetcode/39.组合总和.cpp",
     "Templates/Leetcode_problem_template 2.md",
-    "操作系统/红黑树有哪些性质.md",
-    "Leetcode/14. 最长公共前缀.md",
-    "Temp/绝命毒师.md",
     "Leetcode/2. 两数相加.cpp",
     "整理一下vscode/vim",
     "整理一下vscode",
