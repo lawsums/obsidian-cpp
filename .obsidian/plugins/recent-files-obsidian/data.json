@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "类型擦除是什么",
+      "path": "操作系统/类型擦除是什么.md"
+    },
+    {
+      "basename": "std容器, 库函数对比",
+      "path": "代码模版/std容器, 库函数对比.md"
+    },
+    {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
     },
@@ -23,14 +31,6 @@
     {
       "basename": "2026-02-17",
       "path": "Dairies/2026-02-17.md"
-    },
-    {
-      "basename": "类型擦除是什么",
-      "path": "操作系统/类型擦除是什么.md"
-    },
-    {
-      "basename": "std容器, 库函数对比",
-      "path": "代码模版/std容器, 库函数对比.md"
     },
     {
       "basename": "容器对比",
