@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "寻找并终止进程",
+      "path": "Temp/寻找并终止进程.md"
+    },
+    {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "开发inference_copy插件",
       "path": "Dairies/开发inference_copy插件.md"
-    },
-    {
-      "basename": "2026-02-13",
-      "path": "Dairies/2026-02-13.md"
     }
   ],
   "omittedPaths": [],
