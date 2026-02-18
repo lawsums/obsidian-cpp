@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "e7a3e27d15d44113",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily_note_template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daily_note_template"
+            }
+          },
+          {
             "id": "2d002b0f54b8e624",
             "type": "leaf",
             "state": {
@@ -382,8 +406,9 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Dairies/2026-02-18.md",
+    "Templates/Daily_note_template.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-02-18.md",
     "Temp/3.jpg",
     "Temp/2.png",
     "Temp/ANIME-PICTURES.NET_-_852819-2112x1188-dandadan-science+saru-ayase+momo-drmy+(doremyswt)-single-looking+at+viewer.jpg",
