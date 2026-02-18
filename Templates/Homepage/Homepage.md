@@ -66,6 +66,28 @@ GROUP BY file.link
 
 ````
 
+## 生活/游戏
+````columns
+id: nLbK6VmDOGMv25KKce9uV
+===
+``` dataview
+TASK WHERE !completed
+AND file.folder = "Temp" 
+AND file.name = "008_生活"
+GROUP BY file.link
+```
+
+
+===
+``` dataview
+TASK WHERE !completed
+AND file.folder = "Temp" 
+AND file.name = "009_游戏"
+GROUP BY file.link
+```
+
+````
+
 ## 其他任务
 ``` dataview
 TASK WHERE !completed
@@ -74,6 +96,8 @@ AND file.name != "002_稍后再看"
 AND file.name != "003_不定期任务"
 AND file.name != "006_影视作品"
 AND file.name != "007_书籍"
+AND file.name != "008_生活"
+AND file.name != "009_游戏"
 GROUP BY file.link
 ```
 

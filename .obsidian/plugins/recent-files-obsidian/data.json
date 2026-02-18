@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "009_游戏",
+      "path": "Temp/009_游戏.md"
+    },
+    {
+      "basename": "007_书籍",
+      "path": "Temp/007_书籍.md"
+    },
+    {
       "basename": "类型擦除是什么",
       "path": "操作系统/类型擦除是什么.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "2026-02-13",
       "path": "Dairies/2026-02-13.md"
-    },
-    {
-      "basename": "学习科目四",
-      "path": "Dairies/学习科目四.md"
-    },
-    {
-      "basename": "2026-02-12",
-      "path": "Dairies/2026-02-12.md"
     }
   ],
   "omittedPaths": [],
