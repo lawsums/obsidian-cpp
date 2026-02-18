@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -131,10 +135,6 @@
     {
       "basename": "14. 最长公共前缀",
       "path": "Leetcode/14. 最长公共前缀.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "红黑树",

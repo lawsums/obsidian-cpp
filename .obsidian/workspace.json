@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/实现自己的数据结构.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "实现自己的数据结构"
             }
           },
           {
@@ -256,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/实现自己的数据结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "实现自己的数据结构 的大纲"
             }
           },
           {
@@ -406,8 +406,8 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Temp/009_游戏.md",
     "Templates/Homepage/Homepage.md",
+    "Temp/009_游戏.md",
     "Temp/007_书籍.md",
     "Dairies/实现自己的数据结构.md",
     "操作系统/类型擦除是什么.md",
