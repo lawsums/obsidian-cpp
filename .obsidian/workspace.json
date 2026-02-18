@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Homepage/Homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -382,13 +382,17 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-02-18.md",
+    "Templates/Homepage/Homepage.md",
+    "Temp/3.jpg",
+    "Temp/2.png",
+    "Temp/ANIME-PICTURES.NET_-_852819-2112x1188-dandadan-science+saru-ayase+momo-drmy+(doremyswt)-single-looking+at+viewer.jpg",
+    "Temp/ANIME-PICTURES.NET_-_533861-1920x1080-vocaloid-hatsune+miku-yushika-single-long+hair-highres.png",
     "操作系统/functional_any_variant_optional的区别.md",
     "Temp/绝命毒师.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-02-17.md",
     "操作系统/类型擦除是什么.md",
     "Dairies/2026-02-19.md",
-    "Dairies/2026-02-18.md",
     "代码模版/std容器, 库函数对比.md",
     "代码模版/容器对比.md",
     "Software/Vscode快捷键.md",
@@ -413,7 +417,6 @@
     "Attachments/Pasted image 20260214234301.png",
     "Templates/Homepage/STL源码剖析.md",
     "操作系统/前向声明的作用.md",
-    "Templates/Question_template.md",
     "Leetcode/39.组合总和.cpp~",
     "Leetcode/39.组合总和.cpp",
     "Leetcode/2. 两数相加.cpp",
@@ -425,10 +428,6 @@
     "Attachments/Pasted image 20260213202812.png",
     "未命名.canvas",
     "Attachments/Pasted image 20260212151025.png",
-    "Attachments/Pasted image 20260212151021.png",
-    "Attachments/Pasted image 20260212143730.png",
-    "Attachments/Pasted image 20260211153424.png",
-    "Attachments/Pasted image 20260209132718.png",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
 }

@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-02-18",
+      "path": "Dairies/2026-02-18.md"
+    },
+    {
       "basename": "functional_any_variant_optional的区别",
       "path": "操作系统/functional_any_variant_optional的区别.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-02-12",
       "path": "Dairies/2026-02-12.md"
-    },
-    {
-      "basename": "日记",
-      "path": "Dairies/日记.md"
     }
   ],
   "omittedPaths": [],
