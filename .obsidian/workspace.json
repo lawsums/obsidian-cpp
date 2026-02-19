@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习深度学习 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -308,8 +308,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5c3595bbb2c195ba",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/学习科目四.md",
     "Dairies/2026-02-20.md",
@@ -345,7 +346,6 @@
     "Dairies/2026-02-19.md",
     "代码模版/容器对比.md",
     "Software/Vscode快捷键.md",
-    "Dairies/2026-02-16.md",
     "Leetcode/146.LRU 缓存.cpp~",
     "Leetcode/146.LRU 缓存.cpp",
     "Leetcode/4.寻找两个正序数组的中位数.cpp",
