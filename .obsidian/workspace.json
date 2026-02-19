@@ -8,37 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0f97be45b9392757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/类型擦除是什么.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "类型擦除是什么"
-            }
-          },
-          {
-            "id": "5fb36f190eca49d1",
+            "id": "a8fa3bde95b82293",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Templates/Homepage/Homepage.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -55,8 +31,7 @@
               "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -333,12 +308,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5fb36f190eca49d1",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Leetcode/460.LFU 缓存.md",
+    "Leetcode/460.LFU 缓存.cpp~",
+    "Leetcode/460.LFU 缓存.cpp",
+    "Software/智能补全.md",
+    "Attachments/Pasted image 20260219004217.png",
+    "Attachments/Pasted image 20260219004200.png",
+    "Attachments/Pasted image 20260219004136.png",
+    "Attachments/Pasted image 20260219004125.png",
+    "Software/Vscode插件.md",
+    "Software/Vscode.md",
+    "Templates/Homepage/Homepage.md",
     "操作系统/类型擦除是什么.md",
     "操作系统/functional_any_variant_optional的区别.md",
     "Dairies/2026-02-17.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/unique_ptr.md",
     "Temp/003_不定期任务.md",
@@ -362,26 +347,15 @@
     "Leetcode/146.LRU 缓存.cpp~",
     "Leetcode/146.LRU 缓存.cpp",
     "Temp/004_闪念.md",
-    "Temp/008_生活.md",
-    "Dairies/学习科目四.md",
-    "Leetcode/4.寻找两个正序数组的中位数.md",
     "Leetcode/4.寻找两个正序数组的中位数.cpp",
-    "Temp/方向.md",
-    "Leetcode/67.二进制求和.md",
     "Leetcode/a.exe",
     "Leetcode/67.二进制求和.cpp",
     "Attachments/Pasted image 20260214234301.png",
     "Leetcode/39.组合总和.cpp~",
     "Leetcode/39.组合总和.cpp",
     "Leetcode/2. 两数相加.cpp",
-    "整理一下vscode/vim",
-    "整理一下vscode",
     "Attachments/Pasted image 20260213202830.png",
-    "Attachments/Pasted image 20260213202824.png",
-    "Attachments/Pasted image 20260213202815.png",
-    "Attachments/Pasted image 20260213202812.png",
     "未命名.canvas",
-    "Attachments/Pasted image 20260212151025.png",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
 }

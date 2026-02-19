@@ -5,6 +5,22 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "460.LFU 缓存",
+      "path": "Leetcode/460.LFU 缓存.md"
+    },
+    {
+      "basename": "智能补全",
+      "path": "Software/智能补全.md"
+    },
+    {
+      "basename": "Vscode插件",
+      "path": "Software/Vscode插件.md"
+    },
+    {
+      "basename": "Vscode",
+      "path": "Software/Vscode.md"
+    },
+    {
       "basename": "类型擦除是什么",
       "path": "操作系统/类型擦除是什么.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "w64dev自带指令",
       "path": "Software/w64dev自带指令.md"
-    },
-    {
-      "basename": "mingw",
-      "path": "Software/mingw.md"
-    },
-    {
-      "basename": "面试1",
-      "path": "Temp/面试1.md"
-    },
-    {
-      "basename": "智能指针使用的时候有哪些坑",
-      "path": "操作系统/智能指针使用的时候有哪些坑.md"
-    },
-    {
-      "basename": "obsidian-quick-file-yank",
-      "path": "Temp/obsidian-quick-file-yank.md"
     }
   ],
   "omittedPaths": [],
