@@ -106,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -161,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习深度学习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习深度学习 的大纲"
             }
           },
           {
@@ -275,8 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,10 +308,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "5c3595bbb2c195ba",
   "lastOpenFiles": [
-    "Dairies/学习科目四.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/学习科目四.md",
     "Dairies/2026-02-20.md",
     "操作系统/C++如何实现一个单例模式.md",
     "Clippings/2026-02-11-anki_interview_problem.md",
