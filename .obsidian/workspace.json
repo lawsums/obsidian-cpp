@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/学习科目四.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习科目四 的大纲"
             }
           },
           {
@@ -308,12 +308,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "bd2ae27b04651223",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
+    "Dairies/2026-02-20.md",
+    "Dairies/学习科目四.md",
     "操作系统/C++如何实现一个单例模式.md",
     "Clippings/2026-02-11-anki_interview_problem.md",
     "Temp/寻找并终止进程.md",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/460.LFU 缓存.md",
     "Leetcode/460.LFU 缓存.cpp~",
     "Leetcode/460.LFU 缓存.cpp",
@@ -344,8 +346,6 @@
     "代码模版/容器对比.md",
     "Software/Vscode快捷键.md",
     "Dairies/2026-02-16.md",
-    "Templates/Homepage/面试题系列.md",
-    "Leetcode/146.LRU 缓存.md",
     "Leetcode/146.LRU 缓存.cpp~",
     "Leetcode/146.LRU 缓存.cpp",
     "Leetcode/4.寻找两个正序数组的中位数.cpp",
