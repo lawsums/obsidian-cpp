@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
+      "basename": "说一下lambda函数",
+      "path": "操作系统/说一下lambda函数.md"
     },
     {
       "basename": "学习科目四",
@@ -23,10 +35,6 @@
     {
       "basename": "超时空辉夜姬",
       "path": "Temp/超时空辉夜姬.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
     },
     {
       "basename": "003_不定期任务",
@@ -71,10 +79,6 @@
     {
       "basename": "2026-02-17",
       "path": "Dairies/2026-02-17.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "unique_ptr",
@@ -195,10 +199,6 @@
     {
       "basename": "2. 两数相加",
       "path": "Leetcode/2. 两数相加.cpp"
-    },
-    {
-      "basename": "解决gdb字符集问题",
-      "path": "Dairies/解决gdb字符集问题.md"
     }
   ],
   "omittedPaths": [],
