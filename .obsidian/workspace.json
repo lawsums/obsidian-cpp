@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
-                "mode": "preview",
+                "file": "Temp/003_不定期任务.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "003_不定期任务"
             }
           },
           {
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Temp/003_不定期任务.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "003_不定期任务 的大纲"
             }
           },
           {
@@ -335,9 +335,9 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/学习深度学习.md",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/322. 零钱兑换.md",
     "Software/ffmpeg.md",
     "Software/nvim-surround.md",
