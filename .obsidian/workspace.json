@@ -112,7 +112,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "硬币",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +133,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a1a3b64710b00c75",
@@ -358,10 +359,11 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Leetcode/322. 零钱兑换.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/面试题系列.md",
     "Software/ffmpeg.md",
     "Templates/Homepage/学习深度学习.md",
-    "Templates/Homepage/Homepage.md",
     "Software/nvim-surround.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/unique_ptr.md",
@@ -389,7 +391,6 @@
     "Software/Vscode插件.md",
     "Software/Vscode.md",
     "操作系统/类型擦除是什么.md",
-    "操作系统/functional_any_variant_optional的区别.md",
     "Temp/3.jpg",
     "Temp/2.png",
     "Temp/ANIME-PICTURES.NET_-_852819-2112x1188-dandadan-science+saru-ayase+momo-drmy+(doremyswt)-single-looking+at+viewer.jpg",
