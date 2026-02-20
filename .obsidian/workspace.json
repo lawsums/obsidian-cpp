@@ -79,7 +79,8 @@
               "title": "实现自己的数据结构"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/实现自己的数据结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "实现自己的数据结构 的大纲"
             }
           },
           {
@@ -356,13 +357,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "5b4e2fca0163a367",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
     "Software/ffmpeg.md",
     "Templates/Homepage/面试题系列.md",
     "Dairies/2026-02-20.md",
-    "Templates/Homepage/Homepage.md",
     "操作系统/说一下lambda函数.md",
     "Dairies/2026-02-21.md",
     "Dairies/学习科目四.md",
