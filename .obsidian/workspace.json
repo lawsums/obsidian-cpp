@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "59cbdc5b268b26e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/ffmpeg.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ffmpeg"
-            }
-          },
-          {
             "id": "5b4e2fca0163a367",
             "type": "leaf",
             "state": {
@@ -103,8 +79,7 @@
               "title": "实现自己的数据结构"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/ffmpeg.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ffmpeg 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -381,13 +356,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "59cbdc5b268b26e3",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/实现自己的数据结构.md",
     "Software/ffmpeg.md",
     "Templates/Homepage/面试题系列.md",
     "Dairies/2026-02-20.md",
     "Templates/Homepage/Homepage.md",
-    "Dairies/实现自己的数据结构.md",
     "操作系统/说一下lambda函数.md",
     "Dairies/2026-02-21.md",
     "Dairies/学习科目四.md",

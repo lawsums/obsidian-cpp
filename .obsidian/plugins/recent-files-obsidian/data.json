@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
       "basename": "ffmpeg",
       "path": "Software/ffmpeg.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "2026-02-20",
       "path": "Dairies/2026-02-20.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "说一下lambda函数",
