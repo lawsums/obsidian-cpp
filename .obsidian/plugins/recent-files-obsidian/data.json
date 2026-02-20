@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "ffmpeg",
+      "path": "Software/ffmpeg.md"
+    },
+    {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "红黑树",
       "path": "数据结构/红黑树.md"
-    },
-    {
-      "basename": "1. 两数之和",
-      "path": "Leetcode/1. 两数之和.md"
     }
   ],
   "omittedPaths": [],
