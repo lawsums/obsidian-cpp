@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "a0b151f227c89c84",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习深度学习.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习深度学习"
+            }
+          },
+          {
+            "id": "80e69eeda9fcb994",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/ffmpeg.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ffmpeg"
+            }
+          },
+          {
             "id": "975c28275a4e1ab6",
             "type": "leaf",
             "state": {
@@ -54,57 +102,9 @@
               "icon": "lucide-file",
               "title": "面试题系列"
             }
-          },
-          {
-            "id": "5b4e2fca0163a367",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/实现自己的数据结构.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "实现自己的数据结构"
-            }
-          },
-          {
-            "id": "ca3c507eedc3c8df",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/nvim-surround.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "nvim-surround"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/nvim-surround.md",
+                "file": "Software/ffmpeg.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "nvim-surround 的大纲"
+              "title": "ffmpeg 的大纲"
             }
           },
           {
@@ -381,22 +381,25 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ca3c507eedc3c8df",
+  "active": "80e69eeda9fcb994",
   "lastOpenFiles": [
-    "Dairies/实现自己的数据结构.md",
+    "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/Homepage.md",
+    "Software/nvim-surround.md",
+    "Dairies/实现自己的数据结构.md",
+    "Dairies/unique_ptr.md",
+    "Dairies/2026-02-22.md",
+    "Dairies/2026-02-21.md",
     "Software/ffmpeg.md",
     "Templates/Homepage/面试题系列.md",
     "Dairies/2026-02-20.md",
     "操作系统/说一下lambda函数.md",
-    "Dairies/2026-02-21.md",
     "Dairies/学习科目四.md",
     "Temp/002_稍后再看.md",
     "Temp/006_影视作品.md",
     "Temp/绝命毒师.md",
     "Temp/超时空辉夜姬.md",
     "Temp/003_不定期任务.md",
-    "Templates/Homepage/学习深度学习.md",
     "操作系统/C++如何实现一个单例模式.md",
     "Clippings/2026-02-11-anki_interview_problem.md",
     "Temp/寻找并终止进程.md",
@@ -412,9 +415,6 @@
     "Software/Vscode.md",
     "操作系统/类型擦除是什么.md",
     "操作系统/functional_any_variant_optional的区别.md",
-    "Dairies/2026-02-17.md",
-    "Dairies/unique_ptr.md",
-    "Templates/Daily_note_template.md",
     "Temp/3.jpg",
     "Temp/2.png",
     "Temp/ANIME-PICTURES.NET_-_852819-2112x1188-dandadan-science+saru-ayase+momo-drmy+(doremyswt)-single-looking+at+viewer.jpg",
