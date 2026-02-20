@@ -79,7 +79,8 @@
               "title": "面试题系列"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习深度学习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习深度学习 的大纲"
             }
           },
           {
@@ -357,10 +358,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "a0b151f227c89c84",
   "lastOpenFiles": [
-    "Leetcode/322. 零钱兑换.md",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/322. 零钱兑换.md",
     "Templates/Homepage/面试题系列.md",
     "Software/ffmpeg.md",
     "Templates/Homepage/学习深度学习.md",
