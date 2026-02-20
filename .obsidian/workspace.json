@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "实现自己的数据结构"
             }
+          },
+          {
+            "id": "ca3c507eedc3c8df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/nvim-surround.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "nvim-surround"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/实现自己的数据结构.md",
+                "file": "Software/nvim-surround.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实现自己的数据结构 的大纲"
+              "title": "nvim-surround 的大纲"
             }
           },
           {
@@ -357,10 +381,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5b4e2fca0163a367",
+  "active": "ca3c507eedc3c8df",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
+    "Templates/Homepage/Homepage.md",
     "Software/ffmpeg.md",
     "Templates/Homepage/面试题系列.md",
     "Dairies/2026-02-20.md",
