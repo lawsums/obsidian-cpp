@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "学习科目四",
+      "path": "Dairies/学习科目四.md"
+    },
+    {
       "basename": "002_稍后再看",
       "path": "Temp/002_稍后再看.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "解决gdb字符集问题",
       "path": "Dairies/解决gdb字符集问题.md"
-    },
-    {
-      "basename": "gdb 常用指令",
-      "path": "Software/gdb 常用指令.md"
     }
   ],
   "omittedPaths": [],

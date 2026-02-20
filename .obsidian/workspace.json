@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "2f7622df0b877436",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/学习科目四.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习科目四"
+            }
+          },
+          {
             "id": "9a6ef88e1c25e92f",
             "type": "leaf",
             "state": {
@@ -358,15 +382,15 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Temp/002_稍后再看.md",
+    "Dairies/学习科目四.md",
     "Templates/Homepage/Homepage.md",
+    "Temp/002_稍后再看.md",
     "Temp/006_影视作品.md",
     "Temp/绝命毒师.md",
     "Temp/超时空辉夜姬.md",
     "Templates/Homepage/面试题系列.md",
     "Temp/003_不定期任务.md",
     "Templates/Homepage/学习深度学习.md",
-    "Dairies/学习科目四.md",
     "Dairies/2026-02-20.md",
     "操作系统/C++如何实现一个单例模式.md",
     "Clippings/2026-02-11-anki_interview_problem.md",
