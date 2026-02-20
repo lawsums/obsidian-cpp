@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -91,10 +95,6 @@
     {
       "basename": "2026-02-16",
       "path": "Dairies/2026-02-16.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
     },
     {
       "basename": "146.LRU 缓存",

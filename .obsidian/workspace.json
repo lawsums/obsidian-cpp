@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "9a6ef88e1c25e92f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/面试题系列.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "面试题系列"
+            }
+          },
+          {
             "id": "96b3421509366ba0",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "003_不定期任务"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/面试题系列.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "面试题系列 的大纲"
             }
           },
           {
@@ -332,10 +357,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "9a6ef88e1c25e92f",
   "lastOpenFiles": [
-    "Temp/003_不定期任务.md",
     "Templates/Homepage/Homepage.md",
+    "Temp/003_不定期任务.md",
     "Templates/Homepage/学习深度学习.md",
     "Dairies/学习科目四.md",
     "Dairies/2026-02-20.md",
