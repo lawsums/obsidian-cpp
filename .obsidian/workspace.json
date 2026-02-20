@@ -79,8 +79,7 @@
               "title": "003_不定期任务"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/面试题系列.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "面试题系列 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -357,9 +356,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9a6ef88e1c25e92f",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Temp/002_稍后再看.md",
     "Templates/Homepage/Homepage.md",
+    "Temp/006_影视作品.md",
+    "Temp/绝命毒师.md",
+    "Temp/超时空辉夜姬.md",
+    "Templates/Homepage/面试题系列.md",
     "Temp/003_不定期任务.md",
     "Templates/Homepage/学习深度学习.md",
     "Dairies/学习科目四.md",
@@ -386,15 +390,10 @@
     "Temp/007_书籍.md",
     "Temp/009_游戏.md",
     "代码模版/std容器, 库函数对比.md",
-    "Dairies/2026-02-18.md",
     "Temp/3.jpg",
     "Temp/2.png",
     "Temp/ANIME-PICTURES.NET_-_852819-2112x1188-dandadan-science+saru-ayase+momo-drmy+(doremyswt)-single-looking+at+viewer.jpg",
     "Temp/ANIME-PICTURES.NET_-_533861-1920x1080-vocaloid-hatsune+miku-yushika-single-long+hair-highres.png",
-    "Temp/绝命毒师.md",
-    "Dairies/2026-02-19.md",
-    "代码模版/容器对比.md",
-    "Software/Vscode快捷键.md",
     "Leetcode/146.LRU 缓存.cpp~",
     "Leetcode/146.LRU 缓存.cpp",
     "Leetcode/4.寻找两个正序数组的中位数.cpp",

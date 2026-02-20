@@ -722,7 +722,7 @@
     },
     {
       "id": "6d7ec501-5211-4cb9-818c-8e79f997e2f1",
-      "name": "video | cartoon | 影视动画",
+      "name": "video | anime | 影视动画",
       "type": "Capture",
       "command": true,
       "appendLink": false,

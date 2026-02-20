@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "002_稍后再看",
+      "path": "Temp/002_稍后再看.md"
+    },
+    {
+      "basename": "006_影视作品",
+      "path": "Temp/006_影视作品.md"
+    },
+    {
+      "basename": "绝命毒师",
+      "path": "Temp/绝命毒师.md"
+    },
+    {
+      "basename": "超时空辉夜姬",
+      "path": "Temp/超时空辉夜姬.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
     },
     {
       "basename": "003_不定期任务",
@@ -79,10 +95,6 @@
     {
       "basename": "2026-02-18",
       "path": "Dairies/2026-02-18.md"
-    },
-    {
-      "basename": "绝命毒师",
-      "path": "Temp/绝命毒师.md"
     },
     {
       "basename": "容器对比",
@@ -187,18 +199,6 @@
     {
       "basename": "gdb 常用指令",
       "path": "Software/gdb 常用指令.md"
-    },
-    {
-      "basename": "gdb",
-      "path": "Software/gdb.md"
-    },
-    {
-      "basename": "整理一下vscode_vim_idea快捷键",
-      "path": "Temp/整理一下vscode_vim_idea快捷键.md"
-    },
-    {
-      "basename": "关于钱的问题",
-      "path": "Temp/关于钱的问题.md"
     }
   ],
   "omittedPaths": [],
