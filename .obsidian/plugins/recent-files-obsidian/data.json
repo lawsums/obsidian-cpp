@@ -5,8 +5,20 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
+      "basename": "悬垂引用",
+      "path": "Templates/Homepage/悬垂引用.md"
+    },
+    {
+      "basename": "139.单词拆分",
+      "path": "Leetcode/139.单词拆分.md"
     },
     {
       "basename": "学习深度学习",
@@ -83,10 +95,6 @@
     {
       "basename": "003_不定期任务",
       "path": "Temp/003_不定期任务.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
     },
     {
       "basename": "ffmpeg",
@@ -191,14 +199,6 @@
     {
       "basename": "146.LRU 缓存",
       "path": "Leetcode/146.LRU 缓存.md"
-    },
-    {
-      "basename": "004_闪念",
-      "path": "Temp/004_闪念.md"
-    },
-    {
-      "basename": "008_生活",
-      "path": "Temp/008_生活.md"
     }
   ],
   "omittedPaths": [],
