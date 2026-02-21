@@ -22,6 +22,7 @@
 | 通用查找         | `find(container.begin(), container.end(), val) != container.end()` -> bool                                             | `elem in container` -> bool                                                                                    |                                  |
 | 合并字符串        | arr \| `views:: join_with ('符号')` \| `ranges::to<string>()`                                                            | `"符号".join(arr)`                                                                                               | `strings.Join(arr, "符号")`        |
 | 字符数组形成字符串    | string(`chars.begin(), chars.end()`)                                                                                   | `"".join(chars)`                                                                                               | `string(chars)`<br>              |
+| 完美打印         | 使用我的 print 模版                                                                                                          | 直接 print                                                                                                       |                                  |
 |              |                                                                                                                        |                                                                                                                |                                  |
 
 ---
