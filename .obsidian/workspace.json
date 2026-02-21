@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/卡码缓存/锁的粒度.md",
+                "file": "项目/卡码缓存/002_问题.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "锁的粒度"
+              "title": "002_问题"
             }
           },
           {
@@ -55,7 +55,8 @@
               "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/卡码缓存/锁的粒度.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "锁的粒度 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -332,9 +333,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "3c1c04c32a55d24e",
   "lastOpenFiles": [
-    "项目/卡码缓存/000_开发流程.md",
+    "项目/卡码缓存/002_问题.md",
+    "项目/卡码缓存/000_框架.md",
+    "项目/卡码缓存/001_开发流程.md",
     "项目/卡码缓存/锁的粒度.md",
     "Templates/Homepage/Homepage.md",
     "Clippings/VSCodeVimVim star Vim for Visual Studio Code.md",
@@ -361,8 +364,6 @@
     "操作系统/说一下lambda函数.md",
     "Dairies/学习科目四.md",
     "Temp/002_稍后再看.md",
-    "Temp/006_影视作品.md",
-    "Temp/绝命毒师.md",
     "Leetcode/460.LFU 缓存.cpp~",
     "Leetcode/460.LFU 缓存.cpp",
     "Attachments/Pasted image 20260219004217.png",
