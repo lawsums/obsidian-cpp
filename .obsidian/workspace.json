@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp/003_不定期任务.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,31 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "003_不定期任务"
-            }
-          },
-          {
-            "id": "975c28275a4e1ab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/面试题系列.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "面试题系列"
+              "title": "Homepage"
             }
           }
         ]
@@ -88,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "硬币",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,8 +85,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a1a3b64710b00c75",
@@ -185,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/003_不定期任务.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "003_不定期任务 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
