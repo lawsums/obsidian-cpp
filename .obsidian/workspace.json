@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "std容器, 库函数对比"
             }
+          },
+          {
+            "id": "8caece086e8ee433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "代码模版/容器对比.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "容器对比"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -186,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "代码模版/std容器, 库函数对比.md",
+                "file": "代码模版/容器对比.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "std容器, 库函数对比 的大纲"
+              "title": "容器对比 的大纲"
             }
           },
           {
@@ -335,8 +359,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "129a8b4c6037cac8",
+  "active": "8caece086e8ee433",
   "lastOpenFiles": [
+    "代码模版/std容器, 库函数对比.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/学习深度学习.md",
@@ -368,7 +393,6 @@
     "Attachments/Pasted image 20260219004125.png",
     "Software/Vscode插件.md",
     "Software/Vscode.md",
-    "操作系统/类型擦除是什么.md",
     "Temp/3.jpg",
     "Temp/2.png",
     "Temp/ANIME-PICTURES.NET_-_852819-2112x1188-dandadan-science+saru-ayase+momo-drmy+(doremyswt)-single-looking+at+viewer.jpg",
