@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "RIME",
+      "path": "Software/RIME.md"
+    },
+    {
+      "basename": "find",
+      "path": "操作系统/linux常见命令/find.md"
+    },
+    {
       "basename": "anime_template",
       "path": "Templates/anime_template.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "C++如何实现一个单例模式",
       "path": "操作系统/C++如何实现一个单例模式.md"
-    },
-    {
-      "basename": "2026-02-11-anki_interview_problem",
-      "path": "Clippings/2026-02-11-anki_interview_problem.md"
-    },
-    {
-      "basename": "寻找并终止进程",
-      "path": "Temp/寻找并终止进程.md"
     }
   ],
   "omittedPaths": [],
