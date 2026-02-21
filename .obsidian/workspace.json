@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/卡码缓存/000_框架.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "000_框架"
+              "title": "Homepage"
             }
           },
           {
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/卡码缓存/002_问题.md",
+                "file": "项目/卡码缓存/001_开发流程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "002_问题"
+              "title": "001_开发流程"
             }
           }
         ],
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/卡码缓存/002_问题.md",
+                "file": "项目/卡码缓存/001_开发流程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "002_问题 的大纲"
+              "title": "001_开发流程 的大纲"
             }
           },
           {
@@ -333,13 +333,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "944cd14a7fae27b7",
+  "active": "3c1c04c32a55d24e",
   "lastOpenFiles": [
-    "项目/卡码缓存/卡码缓存系统/7.常见面试题.md",
     "项目/卡码缓存/002_问题.md",
+    "Templates/Homepage/Homepage.md",
+    "Software/yuque.md",
+    "项目/卡码缓存/000_框架.md",
+    "项目/卡码缓存/卡码缓存系统/7.常见面试题.md",
     "项目/卡码缓存/卡码缓存系统/6.简历写法.md",
     "项目/卡码缓存/卡码缓存系统/1.开篇.md",
-    "Templates/Homepage/Homepage.md",
     "项目/卡码缓存/卡码缓存系统/img/jFMyKnmcjNAccbPe/1733797305835-2df39ca6-c3f3-4a04-8781-d4b9d63d6acd-620953.png",
     "项目/卡码缓存/卡码缓存系统/img/jFMyKnmcjNAccbPe/1733751073658-2c7d599a-b244-491b-a0fa-ab5ec722cb56-857731.png",
     "项目/卡码缓存/卡码缓存系统/img/jFMyKnmcjNAccbPe/1733747775068-c066db38-807d-42a7-adf6-18492075db89-551715.png",
@@ -364,8 +366,6 @@
     "项目/卡码缓存/卡码缓存系统/3.缓存淘汰策略.md",
     "项目/卡码缓存/卡码缓存系统/2.项目背景介绍.md",
     "项目/卡码缓存/卡码缓存系统",
-    "项目/卡码缓存/002_问题.md",
-    "项目/卡码缓存/000_框架.md",
     "项目/卡码缓存/001_开发流程.md",
     "项目/卡码缓存/锁的粒度.md",
     "Clippings/VSCodeVimVim star Vim for Visual Studio Code.md",
