@@ -79,8 +79,7 @@
               "title": "容器对比"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "代码模版/容器对比.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "容器对比 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -359,10 +358,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8caece086e8ee433",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "代码模版/std容器, 库函数对比.md",
+    "Leetcode/102.二叉树的层序遍历.md",
+    "Leetcode/102.二叉树的层序遍历.cpp",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/images/102_tree1.jpg",
+    "代码模版/容器对比.md",
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/学习深度学习.md",
     "Leetcode/322. 零钱兑换.md",
@@ -386,13 +389,10 @@
     "Leetcode/460.LFU 缓存.md",
     "Leetcode/460.LFU 缓存.cpp~",
     "Leetcode/460.LFU 缓存.cpp",
-    "Software/智能补全.md",
     "Attachments/Pasted image 20260219004217.png",
     "Attachments/Pasted image 20260219004200.png",
     "Attachments/Pasted image 20260219004136.png",
     "Attachments/Pasted image 20260219004125.png",
-    "Software/Vscode插件.md",
-    "Software/Vscode.md",
     "Temp/3.jpg",
     "Temp/2.png",
     "Temp/ANIME-PICTURES.NET_-_852819-2112x1188-dandadan-science+saru-ayase+momo-drmy+(doremyswt)-single-looking+at+viewer.jpg",
@@ -405,8 +405,6 @@
     "Attachments/Pasted image 20260214234301.png",
     "Leetcode/39.组合总和.cpp~",
     "Leetcode/39.组合总和.cpp",
-    "Leetcode/2. 两数相加.cpp",
-    "Attachments/Pasted image 20260213202830.png",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
