@@ -7,7 +7,7 @@ excalidraw-open-md: true
 ---
 `BUTTON[light-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`  `BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button, studyRoad-button]`
 
-## 今天/昨日待办
+## 0.1 今天/昨日待办
 ````columns
 id: gL39qDWT_Jjpb_OEMa91V
 ===
@@ -23,7 +23,7 @@ where file.day = date(yesterday) and !completed
 
 ````
 
-## 稍后再看/不定期任务
+## 0.2 稍后再看/不定期任务
 ````columns
 id: e72xW5g2k6VC9lGXrlfRv
 ===
@@ -44,7 +44,7 @@ GROUP BY file.link
 
 ````
 
-## 影视动画/书籍
+## 0.3 影视动画/书籍
 ````columns
 id: WDL6WrMjnI7Qv5DGKK970
 ===
@@ -66,7 +66,7 @@ GROUP BY file.link
 
 ````
 
-## 生活/游戏
+## 0.4 生活/游戏
 ````columns
 id: nLbK6VmDOGMv25KKce9uV
 ===
@@ -88,7 +88,7 @@ GROUP BY file.link
 
 ````
 
-## 其他任务
+## 0.5 其他任务
 ``` dataview
 TASK WHERE !completed
 AND file.folder = "Temp"
@@ -101,7 +101,7 @@ AND file.name != "009_游戏"
 GROUP BY file.link
 ```
 
-## 按钮
+## 0.6 按钮
 ```meta-bind-button
 label: 开关灯
 hidden: false
@@ -193,9 +193,9 @@ action:
   type: open
   link: file:///E:\Anki\anki.exe
 ```
-# Excalidraw Data
+# 1 Excalidraw Data
 
-## Text Elements
+## 1.1 Text Elements
 方框样式 ^8juc5L0p
 
 蓝色样式 ^d7m0JvYG

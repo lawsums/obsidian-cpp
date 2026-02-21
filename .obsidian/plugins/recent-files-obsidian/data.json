@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "学习C++",
+      "path": "Templates/学习C++.md"
+    },
+    {
+      "basename": "C++课程",
+      "path": "Templates/C++课程.md"
     },
     {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "实现自己的数据结构",
@@ -173,10 +185,6 @@
       "path": "Dairies/2026-02-17.md"
     },
     {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
-    },
-    {
       "basename": "007_书籍",
       "path": "Temp/007_书籍.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "Vscode快捷键",
       "path": "Software/Vscode快捷键.md"
-    },
-    {
-      "basename": "2026-02-16",
-      "path": "Dairies/2026-02-16.md"
-    },
-    {
-      "basename": "146.LRU 缓存",
-      "path": "Leetcode/146.LRU 缓存.md"
     }
   ],
   "omittedPaths": [],

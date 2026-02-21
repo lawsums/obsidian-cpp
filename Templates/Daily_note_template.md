@@ -10,16 +10,16 @@ excalidraw-open-md: true
 
 `button-interview`    `button-leetcode`    `button-newcoder`    `button-duolinguo`   `button-zuochengyun`
 
-## 今天的待办项
+## 0.1 今天的待办项
 - [ ] [[学习科目四]]
 - [ ] [多邻国练习](https://www.duolingo.cn/learn)
 - [ ] [[实现自己的数据结构]]
 - [ ] [[学习深度学习]]
 - [ ] [学习项目](https://wx.zsxq.com/group/88511825151142)
 - [ ] [[学习esp32s3]]
+- [ ] [[学习C++]]
 - [ ] 做俯卧撑 20 个
 - [ ] 举哑铃 20 个
-- [ ] [[面试题系列]]
 - [ ] [面试题目每日一题, 写的时候用gdb调试一下, 同时记录到anki](https://codetop.cc/home)
 - [ ] 如果每日一题是中等/简单可以提醒一下 sly 去做
 - [ ] [每日任务excel](F:\桌面\每日任务1.xlsm)
@@ -29,17 +29,17 @@ excalidraw-open-md: true
 - [ ] 给老妈烧饭
 - [ ] 看一看 boss 直聘
 
-## 想法
+## 0.2 想法
 
 
-## 其他任务
+## 0.3 其他任务
 ``` dataview
 TASK WHERE !completed
 AND file.folder = "Temp"
 GROUP BY file.link
 ```
 
-## 待办表
+## 0.4 待办表
 
 ```dataview
 TABLE length(rows) AS "出现次数"
@@ -50,7 +50,7 @@ GROUP BY task.text as "任务"
 SORT length(rows) DESC
 ```
 
-## 总的每日待办项
+## 0.5 总的每日待办项
 ``` dataview
 TASK WHERE !completed
 AND file.folder = "Dairies"
@@ -60,9 +60,9 @@ GROUP BY file.link
 
 
 
-# Excalidraw Data
+# 1 Excalidraw Data
 
-## Text Elements
+## 1.1 Text Elements
 方框样式 ^s3G7MORb
 
 蓝色样式 ^y3aJEt0M

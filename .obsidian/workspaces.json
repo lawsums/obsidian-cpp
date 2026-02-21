@@ -16,7 +16,7 @@
                   "type": "markdown",
                   "state": {
                     "file": "Templates/Homepage/Homepage.md",
-                    "mode": "source",
+                    "mode": "preview",
                     "source": false,
                     "backlinks": true,
                     "backlinkOpts": {
@@ -280,6 +280,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "open-vscode:VSCode": false,
           "pexels-banner:🚩 Pixel Banner Menu": false,
           "diagram-zoom-drag:Picker mode": false,
           "bases:新建数据库": false,
@@ -306,13 +307,11 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false,
           "obsidian-day-and-night:Toggle Theme": false,
           "obsidian-shellcommands:Shell commands: Custom variables": false,
-          "homepage:Open homepage": false,
-          "quick-file-yank:Click me": false,
-          "quick-file-yank:Greet": false
+          "homepage:Open homepage": false
         }
       },
       "active": "a8fa3bde95b82293",
-      "mtime": "2026-02-13T15:49:50+08:00",
+      "mtime": "2026-02-21T18:26:02+08:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [],
         "description": "",
