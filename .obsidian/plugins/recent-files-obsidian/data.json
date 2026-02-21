@@ -5,16 +5,20 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "学习esp32s3",
+      "path": "Templates/Homepage/学习esp32s3.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/学习C++.md"
     },
     {
-      "basename": "diet_template",
-      "path": "Templates/diet_template.md"
-    },
-    {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
+      "basename": "diet_template",
+      "path": "Templates/diet_template.md"
     },
     {
       "basename": "2026-02-21",
@@ -195,10 +199,6 @@
     {
       "basename": "智能补全",
       "path": "Software/智能补全.md"
-    },
-    {
-      "basename": "类型擦除是什么",
-      "path": "操作系统/类型擦除是什么.md"
     }
   ],
   "omittedPaths": [],
