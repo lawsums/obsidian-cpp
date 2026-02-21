@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
+      "basename": "pthread",
+      "path": "项目/卡码缓存/pthread.md"
+    },
+    {
       "basename": "001_开发流程",
       "path": "项目/卡码缓存/001_开发流程.md"
     },
     {
       "basename": "002_问题",
       "path": "项目/卡码缓存/002_问题.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "yuque",
@@ -77,20 +89,12 @@
       "path": "Templates/Homepage/面试题系列.md"
     },
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
       "basename": "ffmpeg",
       "path": "Software/ffmpeg.md"
     },
     {
       "basename": "nvim-surround",
       "path": "Software/nvim-surround.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "unique_ptr",
@@ -195,10 +199,6 @@
     {
       "basename": "008_生活",
       "path": "Temp/008_生活.md"
-    },
-    {
-      "basename": "4.寻找两个正序数组的中位数",
-      "path": "Leetcode/4.寻找两个正序数组的中位数.md"
     }
   ],
   "omittedPaths": [],
