@@ -30,8 +30,115 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "4e18337081510671",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "9abd0add00169158",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/魔王 2099.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "魔王 2099"
+            }
+          },
+          {
+            "id": "ae8068e37f12158b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/anime_template.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "anime_template"
+            }
+          },
+          {
+            "id": "b61a33767f94b845",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/魔王 2099.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "魔王 2099"
+            }
+          },
+          {
+            "id": "8f07145a4a8d3983",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习esp32s3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习esp32s3"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/anime_template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "anime_template 的大纲"
             }
           },
           {
@@ -309,10 +416,13 @@
       "obsidian-projects:打开项目": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "ae8068e37f12158b",
   "lastOpenFiles": [
-    "Templates/Homepage/学习esp32s3.md",
+    "Templates/anime_template.md",
+    "Projects/魔王 2099.md",
+    "Projects",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习esp32s3.md",
     "Templates/学习C++.md",
     "Templates/Homepage/学习深度学习.md",
     "Templates/diet_template.md",
@@ -337,8 +447,6 @@
     "Software/yuque.md",
     "项目/卡码缓存/000_框架.md",
     "项目/卡码缓存/卡码缓存系统/7.常见面试题.md",
-    "项目/卡码缓存/卡码缓存系统/6.简历写法.md",
-    "项目/卡码缓存/卡码缓存系统/1.开篇.md",
     "项目/卡码缓存/卡码缓存系统/img/jFMyKnmcjNAccbPe/1733797305835-2df39ca6-c3f3-4a04-8781-d4b9d63d6acd-620953.png",
     "项目/卡码缓存/卡码缓存系统/img/jFMyKnmcjNAccbPe/1733751073658-2c7d599a-b244-491b-a0fa-ab5ec722cb56-857731.png",
     "项目/卡码缓存/卡码缓存系统/img/jFMyKnmcjNAccbPe/1733747775068-c066db38-807d-42a7-adf6-18492075db89-551715.png",
@@ -356,7 +464,6 @@
     "项目/卡码缓存/卡码缓存系统/progress.json",
     "项目/卡码缓存/卡码缓存系统/img",
     "项目/卡码缓存/卡码缓存系统",
-    "项目/卡码缓存",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
