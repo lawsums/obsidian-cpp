@@ -79,8 +79,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/实现自己的数据结构.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实现自己的数据结构 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -357,8 +356,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "370ccff8a1824d73",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习深度学习.md",
     "项目/卡码缓存/pthread.md",
@@ -402,7 +402,6 @@
     "代码模版/容器对比.md",
     "代码模版/std容器, 库函数对比.md",
     "项目/卡码缓存",
-    "Leetcode/102.二叉树的层序遍历.md",
     "Leetcode/102.二叉树的层序遍历.cpp",
     "Leetcode/460.LFU 缓存.cpp~",
     "未命名.canvas",
