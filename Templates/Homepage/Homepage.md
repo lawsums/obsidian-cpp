@@ -4,6 +4,7 @@ excalidraw-plugin: parsed
 tags:
   - excalidraw
 excalidraw-open-md: true
+number headings: off
 ---
 `BUTTON[light-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`  `BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button, studyRoad-button]`
 

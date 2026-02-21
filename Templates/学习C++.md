@@ -1,9 +1,18 @@
+```easy-tracker-daily-overview
+```
+```easy-tracker-year-calendar-heatmap
+```
+```easy-tracker-buttons
+  打卡 | 1
+```
+---
 每天任意完成一个即可
 
 [C++知识学习](https://www.bilibili.com/video/BV1a1SPYaEBY/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994)
  [[C++课程]]
  [[面试题系列]]
- 
+
+
 ---
 ## 0.1 C++知识学习
 - [ ] 01.软件安装
@@ -75,3 +84,4 @@
 - [x] 67.三向比较运算符(<=>)
 - [ ] 68.飞船模板和参数包
 - [ ] 69.引用限定符，引用限定重载
+* 2026-02-21 - 1

@@ -9,16 +9,52 @@
       "path": "Templates/学习C++.md"
     },
     {
+      "basename": "diet_template",
+      "path": "Templates/diet_template.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
+      "basename": "2026-02-21",
+      "path": "Dairies/2026-02-21.md"
+    },
+    {
+      "basename": "Effctive STL",
+      "path": "Templates/Homepage/Effctive STL.md"
+    },
+    {
+      "basename": "for_each_函数式删除器",
+      "path": "Templates/Homepage/for_each_函数式删除器.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "2026-02-23",
+      "path": "Dairies/2026-02-23.md"
+    },
+    {
+      "basename": "2026-02-22",
+      "path": "Dairies/2026-02-22.md"
+    },
+    {
+      "basename": "006_影视作品",
+      "path": "Temp/006_影视作品.md"
+    },
+    {
+      "basename": "007_书籍",
+      "path": "Temp/007_书籍.md"
+    },
+    {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
     },
     {
       "basename": "C++课程",
       "path": "Templates/C++课程.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "实现自己的数据结构",
@@ -31,10 +67,6 @@
     {
       "basename": "139.单词拆分",
       "path": "Leetcode/139.单词拆分.md"
-    },
-    {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "pthread",
@@ -121,10 +153,6 @@
       "path": "Dairies/unique_ptr.md"
     },
     {
-      "basename": "2026-02-21",
-      "path": "Dairies/2026-02-21.md"
-    },
-    {
       "basename": "2026-02-20",
       "path": "Dairies/2026-02-20.md"
     },
@@ -139,10 +167,6 @@
     {
       "basename": "002_稍后再看",
       "path": "Temp/002_稍后再看.md"
-    },
-    {
-      "basename": "006_影视作品",
-      "path": "Temp/006_影视作品.md"
     },
     {
       "basename": "绝命毒师",
@@ -175,30 +199,6 @@
     {
       "basename": "类型擦除是什么",
       "path": "操作系统/类型擦除是什么.md"
-    },
-    {
-      "basename": "functional_any_variant_optional的区别",
-      "path": "操作系统/functional_any_variant_optional的区别.md"
-    },
-    {
-      "basename": "2026-02-17",
-      "path": "Dairies/2026-02-17.md"
-    },
-    {
-      "basename": "007_书籍",
-      "path": "Temp/007_书籍.md"
-    },
-    {
-      "basename": "009_游戏",
-      "path": "Temp/009_游戏.md"
-    },
-    {
-      "basename": "2026-02-18",
-      "path": "Dairies/2026-02-18.md"
-    },
-    {
-      "basename": "Vscode快捷键",
-      "path": "Software/Vscode快捷键.md"
     }
   ],
   "omittedPaths": [],
