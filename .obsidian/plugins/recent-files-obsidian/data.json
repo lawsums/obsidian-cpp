@@ -1,8 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "锁的粒度",
+      "path": "项目/卡码缓存/锁的粒度.md"
+    },
+    {
+      "basename": "000_开发流程",
+      "path": "项目/卡码缓存/000_开发流程.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "VSCodeVimVim star Vim for Visual Studio Code",
+      "path": "Clippings/VSCodeVimVim star Vim for Visual Studio Code.md"
+    },
+    {
+      "basename": "Vscode-vim",
+      "path": "Software/Vscode-vim.md"
+    },
+    {
+      "basename": "Vscode插件",
+      "path": "Software/Vscode插件.md"
+    },
+    {
+      "basename": "Vscode",
+      "path": "Software/Vscode.md"
+    },
+    {
+      "basename": "001_海同网盘",
+      "path": "项目/海同网盘/001_海同网盘.md"
+    },
+    {
+      "basename": "容器对比",
+      "path": "代码模版/容器对比.md"
     },
     {
       "basename": "std容器, 库函数对比",
@@ -11,10 +43,6 @@
     {
       "basename": "102.二叉树的层序遍历",
       "path": "Leetcode/102.二叉树的层序遍历.md"
-    },
-    {
-      "basename": "容器对比",
-      "path": "代码模版/容器对比.md"
     },
     {
       "basename": "003_不定期任务",
@@ -97,14 +125,6 @@
       "path": "Software/智能补全.md"
     },
     {
-      "basename": "Vscode插件",
-      "path": "Software/Vscode插件.md"
-    },
-    {
-      "basename": "Vscode",
-      "path": "Software/Vscode.md"
-    },
-    {
       "basename": "类型擦除是什么",
       "path": "操作系统/类型擦除是什么.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "STL源码剖析",
       "path": "Templates/Homepage/STL源码剖析.md"
-    },
-    {
-      "basename": "前向声明的作用",
-      "path": "操作系统/前向声明的作用.md"
-    },
-    {
-      "basename": "Question_template",
-      "path": "Templates/Question_template.md"
-    },
-    {
-      "basename": "合成天下",
-      "path": "Temp/合成天下.md"
-    },
-    {
-      "basename": "39.组合总和",
-      "path": "Leetcode/39.组合总和.md"
-    },
-    {
-      "basename": "Leetcode_problem_template",
-      "path": "Templates/Leetcode_problem_template.md"
     }
   ],
   "omittedPaths": [],

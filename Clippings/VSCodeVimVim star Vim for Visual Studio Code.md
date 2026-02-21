@@ -31,7 +31,7 @@ Public repository
 
 <table><thead><tr><th colspan="2"><span>Name</span></th><th colspan="1"><span>Name</span></th><th><p><span>Last commit message</span></p></th><th colspan="1"><p><span>Last commit date</span></p></th></tr></thead><tbody><tr><td colspan="3"><p><span><a href="https://github.com/VSCodeVim/Vim/commit/d1080add8ab0979381f11da75f64d1db8bf900cb">chore(deps): update typescript-eslint monorepo to v8.51.0 (</a><a href="https://github.com/VSCodeVim/Vim/pull/9880">#9880</a><a href="https://github.com/VSCodeVim/Vim/commit/d1080add8ab0979381f11da75f64d1db8bf900cb">)</a></span></p><p><span><a href="https://github.com/VSCodeVim/Vim/commit/d1080add8ab0979381f11da75f64d1db8bf900cb">d1080ad</a> ·</span></p><p><a href="https://github.com/VSCodeVim/Vim/commits/master/"><span><span><span>7,427 Commits</span></span></span></a></p></td></tr><tr><td colspan="2"><p><a href="https://github.com/VSCodeVim/Vim/tree/master/.github">.github</a></p></td><td colspan="1"><p><a href="https://github.com/VSCodeVim/Vim/tree/master/.github">.github</a></p></td><td><p><a href="https://github.com/VSCodeVim/Vim/commit/606b8c0db97e7438a0758b06ad1fee3114b2f8fc">Upgrade to node v22</a></p></td><td></td></tr><tr><td colspan="2"><p><a href="https://github.com/VSCodeVim/Vim/tree/master/.husky">.husky</a></p></td><td colspan="1"><p><a href="https://github.com/VSCodeVim/Vim/tree/master/.husky">.husky</a></p></td><td><p><a href="https://github.com/VSCodeVim/Vim/commit/394b71911da0a84b56a551b8f70689176abcb914">Simplify husky config for v9</a></p></td><td></td></tr><tr><td colspan="2"><p><a href="https://github.com/VSCodeVim/Vim/tree/master/.vscode">.vscode</a></p></td><td colspan="1"><p><a href="https://github.com/VSCodeVim/Vim/tree/master/.vscode">.vscode</a></p></td><td></td><td></td></tr><tr><td colspan="2"><p><a href="https://github.com/VSCodeVim/Vim/tree/master/build">build</a></p></td><td colspan="1"><p><a href="https://github.com/VSCodeVim/Vim/tree/master/build">build</a></p></td><td><p><a href="https://github.com/VSCodeVim/Vim/commit/606b8c0db97e7438a0758b06ad1fee3114b2f8fc">Upgrade to node v22</a></p></td><td></td></tr><tr><td colspan="2"><p><a href="https://github.com/VSCodeVim/Vim/tree/master/images">images</a></p></td><td colspan="1"><p><a href="https://github.com/VSCodeVim/Vim/tree/master/images">images</a></p></td><td><p><a href="https://github.com/VSCodeVim/Vim/commit/04f8887371a3832e67e7d7935ef6fb98ad48314d">Update Readme. Attempt to make it more succint and add point about `u…</a></p></td><td></td></tr><tr><td colspan="2"><p><a href="https://github.com/VSCodeVim/Vim/tree/master/src">src</a></p></td><td colspan="1"><p><a href="https://github.com/VSCodeVim/Vim/tree/master/src">src</a></p></td><td><p><a href="https://github.com/VSCodeVim/Vim/commit/27b3bafd606f2c3a404bc94a59e92b19e4cbca10">Use <code>Transformer.replace()</code> some more</a></p></td><td></td></tr><tr><td colspan="2"><p><a href="https://github.com/VSCodeVim/Vim/tree/master/syntaxes">syntaxes</a></p></td><td colspan="1"><p><a href="https://github.com/VSCodeVim/Vim/tree/master/syntaxes">syntaxes</a></p></td><td></td><td></td></tr><tr><td colspan="2"><p><a href="https://github.com/VSCodeVim/Vim/tree/master/test">test</a></p></td><td colspan="1"><p><a href="https://github.com/VSCodeVim/Vim/tree/master/test">test</a></p></td><td><p><a href="https://github.com/VSCodeVim/Vim/commit/18b64577b20f0d13a1d7c80667a99ee46059f85d">feat: Automatically start in Insert mode for specific schemes (</a><a href="https://github.com/VSCodeVim/Vim/pull/9854">#9854</a><a href="https://github.com/VSCodeVim/Vim/commit/18b64577b20f0d13a1d7c80667a99ee46059f85d">)</a></p></td><td></td></tr><tr><td colspan="2"><p><a href="https://github.com/VSCodeVim/Vim/blob/master/.eslintrc.js">.eslintrc.js</a></p></td><td colspan="1"><p><a href="https://github.com/VSCodeVim/Vim/blob/master/.eslintrc.js">.eslintrc.js</a></p></td><td><p><a href="https://github.com/VSCodeVim/Vim/commit/89591d9351edd799193e07470ff1eb1909c5a430">Separate values from expressions</a></p></td><td></td></tr><tr><td colspan="2"><p><a href="https://github.com/VSCodeVim/Vim/blob/master/.gitignore">.gitignore</a></p></td><td colspan="1"><p><a href="https://github.com/VSCodeVim/Vim/blob/master/.gitignore">.gitignore</a></p></td><td><p><a href="https://github.com/VSCodeVim/Vim/commit/6506f6f632366e092114340bea82c91affe59bc1">feat: cache changelog to limit number of GH api calls</a></p></td><td></td></tr><tr><td colspan="3"></td></tr></tbody></table>
 
-## VSCodeVim
+## 0.1 VSCodeVim
 
 **Vim emulation for Visual Studio Code  
 Visual Studio Code 的 Vim 仿真**
@@ -81,7 +81,7 @@ VSCodeVim 是 [Visual Studio Code](https://code.visualstudio.com/) 的 Vim 模�
 VSCodeVim can be installed via the VS Code [Marketplace](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) or the OpenVSX [Marketplace](https://open-vsx.org/extension/vscodevim/vim).  
 VSCodeVim 可以通过 VS Code [市场](https://marketplace.visualstudio.com/items?itemName=vscodevim.vim) 或 OpenVSX [市场](https://open-vsx.org/extension/vscodevim/vim) 安装。
 
-### Mac 麦克
+### 0.1.1 Mac 麦克
 
 To enable key-repeating, execute the following in your Terminal, log out and back in, and then restart VS Code:  
 要启用按键重复，请在终端执行以下作，登出再重新登录，然后重启 VS Code：
@@ -98,7 +98,7 @@ defaults delete -g ApplePressAndHoldEnabled                                     
 We also recommend increasing Key Repeat and Delay Until Repeat settings in *System Settings/Preferences -> Keyboard*.  
 我们还建议在系统设置/偏好设置中提高按键重复和延迟重复设置 *\-> 键盘* 。
 
-### Windows 窗户
+### 0.1.2 Windows 窗户
 
 Like real vim, VSCodeVim will take over your control keys. This behavior can be adjusted with the [`useCtrlKeys`](https://github.com/VSCodeVim/#vscodevim-settings) and [`handleKeys`](https://github.com/VSCodeVim/#vscodevim-settings) settings.  
 像真正的 Vim 一样，VSCodeVim 会接管你的控制键。这个行为可以通过 [`useCtrlKeys`](https://github.com/VSCodeVim/#vscodevim-settings) 和 [`handleKeys`](https://github.com/VSCodeVim/#vscodevim-settings) 的设置来调整。
@@ -174,7 +174,7 @@ These settings are specific to VSCodeVim.
 | vim.highlightedyank.color | Set the color of yank highlights | String | rgba(250, 240, 170, 0.5) |
 | vim.highlightedyank.duration | Set the duration of yank highlights | Number | 200 |
 
-### Neovim Integration
+### 0.1.3 Neovim Integration
 
 > ⚠️ Experimental feature. Please leave feedback on neovim integration [here](https://github.com/VSCodeVim/Vim/issues/1735).
 
@@ -196,11 +196,11 @@ Here's some ideas on what you can do with neovim integration:
 - [The:normal command](https://vi.stackexchange.com/questions/4418/execute-normal-command-over-range)
 - Faster search and replace!
 
-### Key Remapping
+### 0.1.4 Key Remapping
 
 Custom remappings are defined on a per-mode basis.
 
-#### "vim.insertModeKeyBindings"/"vim.normalModeKeyBindings"/"vim.visualModeKeyBindings"/"vim.operatorPendingModeKeyBindings"
+#### 0.1.4.1 "vim.insertModeKeyBindings"/"vim.normalModeKeyBindings"/"vim.visualModeKeyBindings"/"vim.operatorPendingModeKeyBindings"
 
 - Keybinding overrides to use for insert, normal, operatorPending and visual modes.
 - Keybinding overrides can include `"before"`, `"after"`, `"commands"`, and `"silent"`.
@@ -328,7 +328,7 @@ Custom remappings are defined on a per-mode basis.
     ]
 ```
 
-#### "vim.insertModeKeyBindingsNonRecursive"/"normalModeKeyBindingsNonRecursive"/"visualModeKeyBindingsNonRecursive"/"operatorPendingModeKeyBindingsNonRecursive"
+#### 0.1.4.2 "vim.insertModeKeyBindingsNonRecursive"/"normalModeKeyBindingsNonRecursive"/"visualModeKeyBindingsNonRecursive"/"operatorPendingModeKeyBindingsNonRecursive"
 
 - Non-recursive keybinding overrides to use for insert, normal, and visual modes
 - *Example:* Exchange the meaning of two keys like `j` to `k` and `k` to `j` to exchange the cursor up and down commands. Notice that if you attempted this binding normally, the `j` would be replaced with `k` and the `k` would be replaced with `j`, on and on forever. When this happens 'maxmapdepth' times (default 1000) the error message 'E223 Recursive Mapping' will be thrown. Stop this recursive expansion using the NonRecursive variation of the keybindings:
@@ -370,7 +370,7 @@ Custom remappings are defined on a per-mode basis.
     ],
 ```
 
-#### Debugging Remappings
+#### 0.1.4.3 Debugging Remappings
 
 1. Adjust the extension's logging level to 'debug' and open the Output window:
 	1. Run `Developer: Set Log Level` from the command palette.
@@ -425,7 +425,7 @@ For example, to rebind `ctrl+shift+y` to VSCodeVim's `yy` (yank line) in normal 
 
 If keybindings.json is empty the first time you open it, make sure to add opening `[` and closing `]` square brackets to the file as the keybindings should be inside a JSON Array.
 
-### Vim modes
+### 0.1.5 Vim modes
 
 Here are all the modes used by VSCodeVim:
 
@@ -451,7 +451,7 @@ When rebinding keys in [keybindings.json](https://code.visualstudio.com/docs/get
 "when": "vim.mode == 'Normal' || vim.mode == 'Visual'",
 ```
 
-### Vim settings
+### 0.1.6 Vim settings
 
 Configuration settings that have been copied from vim. Vim settings are loaded in the following sequence:
 
@@ -480,7 +480,7 @@ Configuration settings that have been copied from vim. Vim settings are loaded i
 | vim.timeout | Timeout in milliseconds for remapped commands | Number | 1000 |
 | vim.whichwrap | Allow specified keys that move the cursor left/right to move to the previous/next line when the cursor is on the first/last character in the line. See [:help whichwrap](https://vimhelp.org/options.txt.html#%27whichwrap%27). | String | `b,s` |
 
-## .vimrc support
+## 0.2 .vimrc support
 
 > ⚠️.vimrc support is currently experimental. Only remaps are supported, and you may experience bugs. Please [report them](https://github.com/VSCodeVim/Vim/issues/new?template=bug_report.md)!
 
@@ -499,7 +499,7 @@ Once you have multiple cursors, you should be able to use Vim commands as you se
 - Each cursor has its own clipboard.
 - Pressing Escape in Multi-Cursor Visual Mode will bring you to Multi-Cursor Normal mode. Pressing it again will return you to Normal mode.
 
-### vim-airline
+### 0.2.1 vim-airline
 
 > ⚠️ There are performance implications to using this plugin. In order to change the status bar, we override the configurations in your workspace settings.json which results in increased latency and a constant changing diff in your working directory (see [issue#2124](https://github.com/VSCodeVim/Vim/issues/2124)).
 
@@ -520,7 +520,7 @@ Change the color of the status bar based on the current mode. Once enabled, conf
     "vim.statusBarColors.surroundinputmode": "#007ACC",
 ```
 
-### vim-easymotion
+### 0.2.2 vim-easymotion
 
 Based on [vim-easymotion](https://github.com/easymotion/vim-easymotion) and configured through the following settings:
 
@@ -564,7 +564,7 @@ Once easymotion is active, initiate motions using the following commands. After 
 
 `<leader><leader> (2s|2f|2F|2t|2T) <char><char>` and `<leader><leader><leader> bd2t <char>char>` are also available. The difference is character count required for search. For example, `<leader><leader> 2s <char><char>` requires two characters, and search by two characters. This mapping is not a standard mapping, so it is recommended to use your custom mapping.
 
-### vim-surround
+### 0.2.3 vim-surround
 
 Based on [surround.vim](https://github.com/tpope/vim-surround), the plugin is used to work with surrounding characters like parentheses, brackets, quotes, and XML tags.
 
@@ -587,7 +587,7 @@ Some examples:
 - `"test"` with cursor inside quotes type `ds"` to end up with `test`
 - `"test"` with cursor inside quotes type `cs"t` and enter `123>` to end up with `<123>test</123>`
 
-### vim-commentary
+### 0.2.4 vim-commentary
 
 Similar to [vim-commentary](https://github.com/tpope/vim-commentary), but uses the VS Code native *Toggle Line Comment* and *Toggle Block Comment* features.
 
@@ -596,7 +596,7 @@ Usage examples:
 - `gc` - toggles line comment. For example `gcc` to toggle line comment for current line and `gc2j` to toggle line comments for the current line and the next two lines.
 - `gC` - toggles block comment. For example `gCi)` to comment out everything within parentheses.
 
-### vim-indent-object
+### 0.2.5 vim-indent-object
 
 Based on [vim-indent-object](https://github.com/michaeljsmith/vim-indent-object), it allows for treating blocks of code at the current indentation level as text objects. Useful in languages that don't use braces around statements (e.g. Python).
 
@@ -608,7 +608,7 @@ Provided there is a new line between the opening and closing braces / tag, it ca
 | `<operator>ai` | This indentation level and the line above (think `if` statements in Python) |
 | `<operator>aI` | This indentation level, the line above, and the line after (think `if` statements in C/C++/Java/etc) |
 
-### vim-sneak
+### 0.2.6 vim-sneak
 
 Based on [vim-sneak](https://github.com/justinmk/vim-sneak), it allows for jumping to any location specified by two characters.
 
@@ -626,7 +626,7 @@ Once sneak is active, initiate motions using the following commands. For operato
 | `<operator>z<char><char>` | Perform `<operator>` forward to the first occurrence of `<char><char>` |
 | `<operator>Z<char><char>` | Perform `<operator>` backward to the first occurrence of `<char><char>` |
 
-### CamelCaseMotion
+### 0.2.7 CamelCaseMotion
 
 Based on [CamelCaseMotion](https://github.com/bkad/CamelCaseMotion), though not an exact emulation. This plugin provides an easier way to move through camelCase and snake\_case words.
 
@@ -645,7 +645,7 @@ Once CamelCaseMotion is enabled, the following motions are available:
 
 By default, `<leader>` is mapped to `\`, so for example, `d2i\w` would delete the current and next camelCase word segment.
 
-### Input Method
+### 0.2.8 Input Method
 
 Disable input method when exiting Insert Mode.
 
@@ -693,7 +693,7 @@ Any third-party program can be used to switch input methods. The following will 
 
 The `{im}` argument above is a command-line option that will be passed to `im-select` denoting the input method to switch to. If using an alternative program to switch input methods, you should add a similar option to the configuration. For example, if the program's usage is `my-program -s imKey` to switch input method, the `vim.autoSwitchInputMethod.switchIMCmd` should be `/path/to/my-program -s {im}`.
 
-### ReplaceWithRegister
+### 0.2.9 ReplaceWithRegister
 
 Based on [ReplaceWithRegister](https://github.com/vim-scripts/ReplaceWithRegister), an easy way to replace existing text with the contents of a register.
 
@@ -709,7 +709,7 @@ Once active, type `gr` (say "go replace") followed by a motion to describe the t
 | `[count]["a]grr` | Replace the \[count\] lines or current line with the contents of the specified register |
 | `{Visual}["a]gr` | Replace the selection with the contents of the specified register |
 
-### vim-textobj-entire
+### 0.2.10 vim-textobj-entire
 
 Similar to [vim-textobj-entire](https://github.com/kana/vim-textobj-entire).
 
@@ -724,7 +724,7 @@ Usage examples:
 - `yie` - will yank the buffer content except leading and trailing blank lines.
 - `gUae` - transform the whole buffer to uppercase.
 
-### vim-textobj-arguments
+### 0.2.11 vim-textobj-arguments
 
 Similar to the argument text object in [targets.vim](https://github.com/wellle/targets.vim). It is an easy way to deal with arguments inside functions in most programming languages.
 
@@ -752,7 +752,7 @@ VS Code has a lot of nifty tricks and we try to preserve some of them:
 - `af` - visual mode command which selects increasingly large blocks of text. For example, if you had "blah (foo \[bar 'ba|z'\])" then it would select 'baz' first. If you pressed `af` again, it'd then select \[bar 'baz'\], and if you did it a third time it would select "(foo \[bar 'baz'\])".
 - `gh` - equivalent to hovering your mouse over wherever the cursor is. Handy for seeing types and error messages without reaching for the mouse!
 
-## 📚 F.A.Q.
+## 0.3 📚 F.A.Q.
 
 - None of the native Visual Studio Code `ctrl` (e.g. `ctrl+f`, `ctrl+v`) commands work
 	Set the [`useCtrlKeys` setting](https://github.com/VSCodeVim/#vscodevim-settings) to `false`.
@@ -815,7 +815,7 @@ VS Code has a lot of nifty tricks and we try to preserve some of them:
 	```
 	**Caveats:** One issue with using the affinity setting is that each time you update your settings file, the Vim plugin will reload, which can take a few seconds.
 
-## ❤️ Contributing
+## 0.4 ❤️ Contributing
 
 This project is maintained by a group of awesome [people](https://github.com/VSCodeVim/Vim/graphs/contributors) and contributions are extremely welcome ❤️. For a quick tutorial on how you can help, see our [contributing guide](https://github.com/VSCodeVim/Vim/blob/master/.github/CONTRIBUTING.md).
 
@@ -827,11 +827,11 @@ This project is maintained by a group of awesome [people](https://github.com/VSC
 - Special props to [Kevin Coleman](http://kevincoleman.io/), who created our awesome logo!
 - Shoutout to @chillee aka Horace He for his contributions and hard work.
 
-## Releases 244
+## 0.5 Releases 244
 
 [\+ 243 releases](https://github.com/VSCodeVim/Vim/releases)
 
-## Sponsor this project
+## 0.6 Sponsor this project
 
 [**J-Fields** Jason Fields](https://github.com/J-Fields)
 
@@ -839,15 +839,15 @@ This project is maintained by a group of awesome [people](https://github.com/VSC
 
 [Learn more about GitHub Sponsors](https://github.com/sponsors)
 
-## Packages
+## 0.7 Packages
 
 No packages published  
 
-## Used by 277
+## 0.8 Used by 277
 
 [\+ 269](https://github.com/VSCodeVim/Vim/network/dependents)
 
-## Languages
+## 0.9 Languages
 
 - [TypeScript 99.3%](https://github.com/VSCodeVim/Vim/search?l=typescript)
 - Other 0.7%

@@ -1,4 +1,4 @@
-## 重要设置
+## 0.1 重要设置
 1. **vim.useCtrlKeys** 
    是否使用系统CtrlKeys, 暂时抛弃vim Ctrl系列, 建议一开始设置为false, 配置好==vim.handleKeys==之后设置为true, 因为如果用vim不用`Ctrl-Q` `Ctrl-O` `Ctrl-I`, 缺少了跳转功能那感觉就白用了
 2. **vim.handleKeys** 
@@ -7,7 +7,7 @@
 3. **vim.useSystemClipboard** 设置系统剪切板
 4. **vim.highlightedyank.enable** 设置复制时==高亮==
 
-## Mapping 映射
+## 0.2 Mapping 映射
 ```json
 "vim.insertModeKeyBindings": [
     {
@@ -109,7 +109,7 @@
 ```
 
 
-## 自带插件
+## 0.3 自带插件
 - **`.vimrc support`**：这是一个分类或文件夹，代表下面的插件都是在 `.vimrc` 中配置和加载的。
 - **`vim-airline`**：一个轻量的状态栏美化插件，用来替换 Vim 默认的状态栏，显示更丰富的信息（如文件类型、光标位置、Git 分支等）。
 - **`vim-easymotion`**：让光标快速跳转到屏幕上任意位置的插件，通过输入提示字符实现“指哪打哪”，大幅提升移动效率。
@@ -122,7 +122,7 @@
 
 如果你需要的话，我可以帮你整理一份**这些插件的常用快捷键速查表**，方便你快速上手。需要我整理吗？
 
-## 技巧
+## 0.4 技巧
 VS Code has a lot of nifty tricks and we try to preserve some of them:  
 VS Code 有很多巧妙的技巧，我们尽力保留其中一些：
 - 

@@ -52,5 +52,6 @@
   "which-key-plugin",
   "quick-file-yank",
   "obsidian-shellcommands",
-  "open-vscode"
+  "open-vscode",
+  "number-headings-obsidian"
 ]

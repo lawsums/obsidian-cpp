@@ -26,7 +26,7 @@
 |              |                                                                                                                        |                                                                                                                |                                                    |
 
 ---
-## [[容器对比]]
+## 0.1 [[容器对比]]
 
 | 容器类型/语言 | Cpp | Python | Golang |
 | ------- | --- | ------ | ------ |
@@ -43,9 +43,9 @@
 
 
 ---
-## 自己写一些库函数
+## 0.2 自己写一些库函数
 
-###  `split`
+### 0.2.1 `split`
 ```cpp
 vector<string> split(const string& s, char delimiter) {
 	vector<string> tokens;
