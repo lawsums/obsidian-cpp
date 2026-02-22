@@ -1,6 +1,58 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-02-22",
+      "path": "Dairies/2026-02-22.md"
+    },
+    {
+      "basename": "2026-02-23",
+      "path": "Dairies/2026-02-23.md"
+    },
+    {
+      "basename": "Obsidian-vimrc",
+      "path": "Software/Obsidian-vimrc.md"
+    },
+    {
+      "basename": "obsidian",
+      "path": "Software/obsidian.md"
+    },
+    {
+      "basename": "学习建立动画库",
+      "path": "Software/学习建立动画库.md"
+    },
+    {
+      "basename": "2026-02-24",
+      "path": "Dairies/2026-02-24.md"
+    },
+    {
+      "basename": "Diet_template",
+      "path": "Templates/Diet_template.md"
+    },
+    {
+      "basename": "魔王 2099",
+      "path": "Projects/魔王 2099.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "Anki_leetcode",
+      "path": "Templates/Anki_leetcode.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/学习C++.md"
+    },
+    {
+      "basename": "AddWord",
+      "path": "Templates/AddWord.js"
+    },
+    {
       "basename": "RIME",
       "path": "Software/RIME.md"
     },
@@ -9,32 +61,12 @@
       "path": "操作系统/linux常见命令/find.md"
     },
     {
-      "basename": "anime_template",
-      "path": "Templates/anime_template.md"
-    },
-    {
-      "basename": "魔王 2099",
-      "path": "Projects/魔王 2099.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "学习esp32s3",
       "path": "Templates/Homepage/学习esp32s3.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/学习C++.md"
-    },
-    {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
-      "basename": "diet_template",
-      "path": "Templates/diet_template.md"
     },
     {
       "basename": "2026-02-21",
@@ -47,18 +79,6 @@
     {
       "basename": "for_each_函数式删除器",
       "path": "Templates/Homepage/for_each_函数式删除器.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
-    },
-    {
-      "basename": "2026-02-23",
-      "path": "Dairies/2026-02-23.md"
-    },
-    {
-      "basename": "2026-02-22",
-      "path": "Dairies/2026-02-22.md"
     },
     {
       "basename": "006_影视作品",
@@ -179,26 +199,6 @@
     {
       "basename": "说一下lambda函数",
       "path": "操作系统/说一下lambda函数.md"
-    },
-    {
-      "basename": "学习科目四",
-      "path": "Dairies/学习科目四.md"
-    },
-    {
-      "basename": "002_稍后再看",
-      "path": "Temp/002_稍后再看.md"
-    },
-    {
-      "basename": "绝命毒师",
-      "path": "Temp/绝命毒师.md"
-    },
-    {
-      "basename": "超时空辉夜姬",
-      "path": "Temp/超时空辉夜姬.md"
-    },
-    {
-      "basename": "C++如何实现一个单例模式",
-      "path": "操作系统/C++如何实现一个单例模式.md"
     }
   ],
   "omittedPaths": [],
