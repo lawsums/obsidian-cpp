@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "000_框架",
+      "path": "项目/分布式缓存/000_框架.md"
     },
     {
       "basename": "C++课程",
@@ -11,10 +19,6 @@
     {
       "basename": "C++知识学习",
       "path": "Templates/Homepage/C++知识学习.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "方向",
@@ -195,10 +199,6 @@
     {
       "basename": "ffmpeg",
       "path": "Software/ffmpeg.md"
-    },
-    {
-      "basename": "nvim-surround",
-      "path": "Software/nvim-surround.md"
     }
   ],
   "omittedPaths": [],

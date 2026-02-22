@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
-                "mode": "preview",
+                "file": "项目/分布式缓存/000_框架.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,11 +28,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "000_框架"
             }
           },
           {
-            "id": "b0d49e4722ce1a55",
+            "id": "56ee83d8f7ccec91",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -78,8 +78,33 @@
               "icon": "lucide-file",
               "title": "C++课程"
             }
+          },
+          {
+            "id": "1c90a960565a249c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/Homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/实现自己的数据结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "实现自己的数据结构 的大纲"
             }
           },
           {
@@ -357,12 +382,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "56ee83d8f7ccec91",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
+    "Dairies/实现自己的数据结构.md",
+    "项目/分布式缓存/000_框架.md",
+    "项目/分布式缓存",
     "Templates/Homepage/C++课程.md",
     "Templates/Homepage/C++知识学习.md",
-    "Dairies/实现自己的数据结构.md",
-    "Templates/Homepage/Homepage.md",
     "Temp/方向.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/面试题系列.md",
@@ -386,7 +413,6 @@
     "Projects",
     "Templates/Homepage/学习esp32s3.md",
     "Templates/Homepage/学习深度学习.md",
-    "Dairies/2026-02-21.md",
     "Leetcode/139.单词拆分.cpp~",
     "Leetcode/139.单词拆分.cpp",
     "项目/卡码缓存/卡码缓存系统/img/jFMyKnmcjNAccbPe/1733797305835-2df39ca6-c3f3-4a04-8781-d4b9d63d6acd-620953.png",
@@ -404,7 +430,6 @@
     "项目/卡码缓存/卡码缓存系统/img/gRm2W1HnH39pA6h9",
     "项目/卡码缓存/卡码缓存系统/img/an9lm3Wl_884ZTVn",
     "项目/卡码缓存/卡码缓存系统/progress.json",
-    "项目/卡码缓存/卡码缓存系统/img",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
