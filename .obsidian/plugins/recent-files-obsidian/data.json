@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "C++课程",
+      "path": "Templates/C++课程.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "学习C++",
+      "path": "Templates/学习C++.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
       "basename": "2026-02-22",
       "path": "Dairies/2026-02-22.md"
+    },
+    {
+      "basename": "空基类优化",
+      "path": "Templates/Homepage/空基类优化.md"
     },
     {
       "basename": "2026-02-23",
@@ -43,10 +59,6 @@
     {
       "basename": "Anki_leetcode",
       "path": "Templates/Anki_leetcode.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/学习C++.md"
     },
     {
       "basename": "AddWord",
@@ -87,14 +99,6 @@
     {
       "basename": "007_书籍",
       "path": "Temp/007_书籍.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "C++课程",
-      "path": "Templates/C++课程.md"
     },
     {
       "basename": "实现自己的数据结构",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-02-20",
       "path": "Dairies/2026-02-20.md"
-    },
-    {
-      "basename": "说一下lambda函数",
-      "path": "操作系统/说一下lambda函数.md"
     }
   ],
   "omittedPaths": [],
