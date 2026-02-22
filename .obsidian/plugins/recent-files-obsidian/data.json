@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "方向",
-      "path": "Temp/方向.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "C++课程",
+      "path": "Templates/Homepage/C++课程.md"
+    },
+    {
+      "basename": "C++知识学习",
+      "path": "Templates/Homepage/C++知识学习.md"
     },
     {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
     },
     {
-      "basename": "C++知识学习",
-      "path": "Templates/Homepage/C++知识学习.md"
+      "basename": "方向",
+      "path": "Temp/方向.md"
     },
     {
       "basename": "学习C++",
@@ -23,10 +27,6 @@
     {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "C++课程",
-      "path": "Templates/Homepage/C++课程.md"
     },
     {
       "basename": "Diet_template",

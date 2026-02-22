@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "e3f993bf84a24cba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/方向.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "方向"
-            }
-          },
-          {
             "id": "b0d49e4722ce1a55",
             "type": "leaf",
             "state": {
@@ -102,33 +78,8 @@
               "icon": "lucide-file",
               "title": "C++课程"
             }
-          },
-          {
-            "id": "2c63d9c25157c1e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/C++知识学习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "C++知识学习"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/方向.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "方向 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -406,14 +357,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e3f993bf84a24cba",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
-    "Dairies/实现自己的数据结构.md",
+    "Templates/Homepage/C++课程.md",
     "Templates/Homepage/C++知识学习.md",
+    "Dairies/实现自己的数据结构.md",
+    "Templates/Homepage/Homepage.md",
+    "Temp/方向.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/面试题系列.md",
-    "Templates/Homepage/C++课程.md",
     "Templates/Diet_template.md",
     "Dairies/2026-02-22.md",
     "Dairies/2026-02-18.md",
@@ -435,7 +387,6 @@
     "Templates/Homepage/学习esp32s3.md",
     "Templates/Homepage/学习深度学习.md",
     "Dairies/2026-02-21.md",
-    "Templates/Homepage/Effctive STL.md",
     "Leetcode/139.单词拆分.cpp~",
     "Leetcode/139.单词拆分.cpp",
     "项目/卡码缓存/卡码缓存系统/img/jFMyKnmcjNAccbPe/1733797305835-2df39ca6-c3f3-4a04-8781-d4b9d63d6acd-620953.png",
