@@ -1,3 +1,4 @@
+# 1 打卡
 ```easy-tracker-daily-overview
 ```
 ```easy-tracker-year-calendar-heatmap
@@ -5,16 +6,14 @@
 ```easy-tracker-buttons
   打卡 | 1
 ```
----
-每天任意完成一个即可
-
-[C++知识学习](https://www.bilibili.com/video/BV1a1SPYaEBY/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994)
- [[C++课程]]
- [[面试题系列]]
-
 
 ---
-## 0.1 C++知识学习
+# 2 目录 
+
+[C++知识学习1](https://www.bilibili.com/video/BV1a1SPYaEBY/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994)
+[C++知识学习2-漫画版](https://www.bilibili.com/video/BV1QycTz8EXr/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994)
+
+## 2.1 知识学习 1
 - [ ] 01.软件安装
 - [x] 02.编写Hello World程序
 - [x] 03.变量和类型
@@ -84,5 +83,11 @@
 - [x] 67.三向比较运算符(<=>)
 - [ ] 68.飞船模板和参数包
 - [ ] 69.引用限定符，引用限定重载
-* 2026-02-21 - 1
+
+## 2.2 知识学习 2
+ 
+---
+# 3 笔记
+
+
 * 2026-02-22 - 1

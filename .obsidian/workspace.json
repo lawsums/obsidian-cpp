@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/C++课程.md",
+                "file": "Templates/Homepage/C++课程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "7c826a264318a69c",
+            "id": "2c63d9c25157c1e0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/学习C++.md",
+                "file": "Templates/Homepage/C++知识学习.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "学习C++"
+              "title": "C++知识学习"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -210,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/学习C++.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习C++ 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -359,12 +357,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7c826a264318a69c",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/C++课程.md",
-    "Templates/Homepage/Homepage.md",
-    "Templates/学习C++.md",
+    "Templates/Homepage/C++知识学习.md",
+    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/面试题系列.md",
+    "Templates/Homepage/C++课程.md",
+    "Templates/Diet_template.md",
+    "Templates/Homepage/Homepage.md",
     "Dairies/2026-02-22.md",
     "Dairies/2026-02-18.md",
     "Dairies/2026-02-23.md",
@@ -373,7 +373,6 @@
     "Software/obsidian.md",
     "Software/学习建立动画库.md",
     "Dairies/2026-02-24.md",
-    "Templates/Diet_template.md",
     "Projects/魔王 2099.md",
     "Templates/Daily_note_template.md",
     "Templates/Anki_leetcode.md",
@@ -388,7 +387,6 @@
     "Dairies/2026-02-21.md",
     "Templates/Homepage/Effctive STL.md",
     "Templates/Homepage/for_each_函数式删除器.md",
-    "Temp/006_影视作品.md",
     "Leetcode/139.单词拆分.cpp~",
     "Leetcode/139.单词拆分.cpp",
     "项目/卡码缓存/卡码缓存系统/img/jFMyKnmcjNAccbPe/1733797305835-2df39ca6-c3f3-4a04-8781-d4b9d63d6acd-620953.png",

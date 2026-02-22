@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "C++课程",
-      "path": "Templates/C++课程.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "C++知识学习",
+      "path": "Templates/Homepage/C++知识学习.md"
+    },
+    {
       "basename": "学习C++",
-      "path": "Templates/学习C++.md"
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
+      "basename": "C++课程",
+      "path": "Templates/Homepage/C++课程.md"
+    },
+    {
+      "basename": "Diet_template",
+      "path": "Templates/Diet_template.md"
     },
     {
       "basename": "2026-02-22",
@@ -43,10 +51,6 @@
     {
       "basename": "2026-02-24",
       "path": "Dairies/2026-02-24.md"
-    },
-    {
-      "basename": "Diet_template",
-      "path": "Templates/Diet_template.md"
     },
     {
       "basename": "魔王 2099",
@@ -195,10 +199,6 @@
     {
       "basename": "unique_ptr",
       "path": "Dairies/unique_ptr.md"
-    },
-    {
-      "basename": "2026-02-20",
-      "path": "Dairies/2026-02-20.md"
     }
   ],
   "omittedPaths": [],
