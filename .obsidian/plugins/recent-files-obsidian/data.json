@@ -1,16 +1,12 @@
 {
   "recentFiles": [
     {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
-    },
-    {
-      "basename": "Effctive STL",
-      "path": "Templates/Homepage/Effctive STL.md"
-    },
-    {
-      "basename": "003_不定期任务",
-      "path": "Temp/003_不定期任务.md"
     },
     {
       "basename": "000_框架",
@@ -19,6 +15,18 @@
     {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
+      "basename": "shared_ptr",
+      "path": "Dairies/shared_ptr.md"
+    },
+    {
+      "basename": "Effctive STL",
+      "path": "Templates/Homepage/Effctive STL.md"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Temp/003_不定期任务.md"
     },
     {
       "basename": "C++课程",
@@ -99,10 +107,6 @@
     {
       "basename": "学习esp32s3",
       "path": "Templates/Homepage/学习esp32s3.md"
-    },
-    {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "2026-02-21",
@@ -195,10 +199,6 @@
     {
       "basename": "102.二叉树的层序遍历",
       "path": "Leetcode/102.二叉树的层序遍历.md"
-    },
-    {
-      "basename": "ffmpeg",
-      "path": "Software/ffmpeg.md"
     }
   ],
   "omittedPaths": [],
