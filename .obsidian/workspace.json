@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "1c90a960565a249c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/Homepage.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
             "id": "c9eec6bf1a792383",
             "type": "leaf",
             "state": {
@@ -101,6 +77,30 @@
               },
               "icon": "lucide-file",
               "title": "学习深度学习"
+            }
+          },
+          {
+            "id": "1c90a960565a249c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/Homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
             }
           }
         ],
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习深度学习 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -382,11 +382,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c9eec6bf1a792383",
+  "active": "1c90a960565a249c",
   "lastOpenFiles": [
+    "Dairies/实现自己的数据结构.md",
+    "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/Homepage.md",
     "项目/分布式缓存/000_框架.md",
-    "Dairies/实现自己的数据结构.md",
     "Dairies/shared_ptr.md",
     "Templates/Homepage/Effctive STL.md",
     "Temp/003_不定期任务.md",
@@ -411,7 +412,6 @@
     "Templates/Anki_leetcode.md",
     "Templates/AddWord.js",
     "Templates/anime_template.md",
-    "Software/RIME.md",
     "Projects",
     "Leetcode/139.单词拆分.cpp~",
     "Leetcode/139.单词拆分.cpp",
