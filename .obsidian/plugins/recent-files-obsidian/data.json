@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "排序板子",
-      "path": "代码模版/排序板子.md"
+      "basename": "学习建立动画库",
+      "path": "Software/学习建立动画库.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习科目四",
+      "path": "Dairies/学习科目四.md"
+    },
+    {
+      "basename": "堆",
+      "path": "数据结构/堆.md"
+    },
+    {
+      "basename": "005_KTV歌单",
+      "path": "Temp/005_KTV歌单.md"
     },
     {
       "basename": "堆板子",
       "path": "代码模版/堆板子.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "排序板子",
+      "path": "代码模版/排序板子.md"
     },
     {
       "basename": "实现自己的数据结构",
@@ -79,10 +95,6 @@
     {
       "basename": "obsidian",
       "path": "Software/obsidian.md"
-    },
-    {
-      "basename": "学习建立动画库",
-      "path": "Software/学习建立动画库.md"
     },
     {
       "basename": "2026-02-24",
@@ -187,18 +199,6 @@
     {
       "basename": "Vscode插件",
       "path": "Software/Vscode插件.md"
-    },
-    {
-      "basename": "Vscode",
-      "path": "Software/Vscode.md"
-    },
-    {
-      "basename": "001_海同网盘",
-      "path": "项目/海同网盘/001_海同网盘.md"
-    },
-    {
-      "basename": "容器对比",
-      "path": "代码模版/容器对比.md"
     }
   ],
   "omittedPaths": [],
