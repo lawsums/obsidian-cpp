@@ -32,6 +32,102 @@
             }
           },
           {
+            "id": "45d7136ced29cac3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/prefix_link插件.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "prefix_link插件"
+            }
+          },
+          {
+            "id": "468a65b954691330",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/仿matlab的项目.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "仿matlab的项目"
+            }
+          },
+          {
+            "id": "06803149983fa469",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/开发inference_copy插件.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "开发inference_copy插件"
+            }
+          },
+          {
+            "id": "4702b5777f420dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/obsidian-quick-file-yank.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "obsidian-quick-file-yank"
+            }
+          },
+          {
             "id": "d21b76e4ece242ec",
             "type": "leaf",
             "state": {
@@ -54,9 +150,19 @@
               "icon": "lucide-file",
               "title": "C++课程"
             }
+          },
+          {
+            "id": "92af74925c768f00",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -185,13 +291,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/C++课程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "C++课程 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -334,8 +439,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d21b76e4ece242ec",
+  "active": "92af74925c768f00",
   "lastOpenFiles": [
+    "Temp/prefix_link插件.md",
+    "Temp/obsidian-quick-file-yank.md",
+    "Dairies/开发inference_copy插件.md",
+    "Temp/004_闪念.md",
+    "Templates/Homepage/Homepage.md",
+    "Temp/仿matlab的项目.md",
     "Templates/Homepage/C++课程.md",
     "Projects/anime/天元突破 红莲螺岩.md",
     "Projects/anime/迷宫饭.md",
@@ -347,7 +458,6 @@
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/C++知识学习.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
     "Software/学习建立动画库.md",
     "Projects/anime/我们不可能成为恋人！绝对不行。 (※似乎可行？).md",
@@ -358,15 +468,10 @@
     "Projects/anime/3月的狮子.md",
     "Projects/anime",
     "Projects/魔王 2099.md",
-    "Projects/恋人不行.md",
-    "Templates/T-漫画.md",
-    "Templates/T-动画.md",
     "Templates/ACGbangumiv2.1.js",
-    "Templates/T-游戏.md",
     "Projects/assets/魔王2099.webp",
     "Projects/assets/我们不可能成为恋人！绝对不行。(※似乎可行!_).webp",
     "Projects/assets",
-    "Templates/书籍模板.md",
     "项目/分布式缓存",
     "Templates/AddWord.js",
     "Projects",
