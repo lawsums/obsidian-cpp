@@ -54,29 +54,9 @@
               "icon": "lucide-file",
               "title": "C++课程"
             }
-          },
-          {
-            "id": "908c69518ae0b7e1",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
-            }
-          },
-          {
-            "id": "ad2400f44a180594",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -205,12 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/C++课程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "C++课程 的大纲"
             }
           },
           {
@@ -353,7 +334,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "908c69518ae0b7e1",
+  "active": "d21b76e4ece242ec",
   "lastOpenFiles": [
     "Templates/Homepage/C++课程.md",
     "Projects/anime/天元突破 红莲螺岩.md",
