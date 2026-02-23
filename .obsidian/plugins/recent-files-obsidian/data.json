@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "恋人不行",
+      "path": "Projects/恋人不行.md"
+    },
+    {
+      "basename": "魔王 2099",
+      "path": "Projects/魔王 2099.md"
+    },
+    {
       "basename": "学习建立动画库",
       "path": "Software/学习建立动画库.md"
     },
@@ -101,10 +109,6 @@
       "path": "Dairies/2026-02-24.md"
     },
     {
-      "basename": "魔王 2099",
-      "path": "Projects/魔王 2099.md"
-    },
-    {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Vscode-vim",
       "path": "Software/Vscode-vim.md"
-    },
-    {
-      "basename": "Vscode插件",
-      "path": "Software/Vscode插件.md"
     }
   ],
   "omittedPaths": [],
