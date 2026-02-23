@@ -65,8 +65,7 @@
               "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,13 +194,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/恋人不行.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "恋人不行 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -344,10 +342,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "75765d19f227a817",
+  "active": "8b1b8b641bfa867c",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Projects/恋人不行.md",
+    "Templates/Homepage/Homepage.md",
     "Projects/assets/魔王2099.webp",
     "Projects/assets/我们不可能成为恋人！绝对不行。(※似乎可行!_).webp",
     "Projects/魔王 2099.md",
