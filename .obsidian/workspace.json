@@ -30,8 +30,53 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "d21b76e4ece242ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/C++课程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++课程"
+            }
+          },
+          {
+            "id": "908c69518ae0b7e1",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          },
+          {
+            "id": "ad2400f44a180594",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,13 +205,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -309,10 +353,22 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "908c69518ae0b7e1",
   "lastOpenFiles": [
-    "Software/学习建立动画库.md",
+    "Templates/Homepage/C++课程.md",
+    "Projects/anime/天元突破 红莲螺岩.md",
+    "Projects/anime/迷宫饭.md",
+    "Projects/anime/四叠半神话大系.md",
+    "Projects/anime/两不疑.md",
+    "Projects/anime/凡人修仙传 第五季.md",
+    "Projects/anime/葬送的芙莉莲.md",
+    "Projects/anime/校园迷糊大王.md",
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/面试题系列.md",
+    "Templates/Homepage/C++知识学习.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/实现自己的数据结构.md",
+    "Software/学习建立动画库.md",
     "Projects/anime/我们不可能成为恋人！绝对不行。 (※似乎可行？).md",
     "Projects/anime/超时空辉夜姬！.md",
     "Projects/anime/辉夜大小姐想让我告白 通往大人的阶梯.md",
@@ -330,18 +386,6 @@
     "Projects/assets/我们不可能成为恋人！绝对不行。(※似乎可行!_).webp",
     "Projects/assets",
     "Templates/书籍模板.md",
-    "Templates/漫画模板.md",
-    "Templates/番剧模板.md",
-    "Templates/电影剧集模板.md",
-    "Templates/游戏模板.md",
-    "Dairies/学习科目四.md",
-    "数据结构/堆.md",
-    "Temp/005_KTV歌单.md",
-    "代码模版/hoemapge.md",
-    "代码模版/堆板子.md",
-    "代码模版/排序板子.md",
-    "Dairies/实现自己的数据结构.md",
-    "Templates/Homepage/学习深度学习.md",
     "项目/分布式缓存",
     "Templates/AddWord.js",
     "Projects",
