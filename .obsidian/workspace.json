@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/恋人不行.md",
+                "file": "Software/学习建立动画库.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "恋人不行"
+              "title": "学习建立动画库"
             }
           },
           {
@@ -65,7 +65,8 @@
               "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,12 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Software/学习建立动画库.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "学习建立动画库 的大纲"
             }
           },
           {
@@ -342,9 +344,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8b1b8b641bfa867c",
+  "active": "75765d19f227a817",
   "lastOpenFiles": [
     "Projects/恋人不行.md",
+    "Templates/T-漫画.md",
+    "Templates/T-动画.md",
+    "Templates/ACGbangumiv2.1.js",
+    "Templates/T-游戏.md",
     "Templates/Homepage/Homepage.md",
     "Projects/assets/魔王2099.webp",
     "Projects/assets/我们不可能成为恋人！绝对不行。(※似乎可行!_).webp",
@@ -371,8 +377,6 @@
     "Dairies/2026-01-10.md",
     "项目/分布式缓存",
     "Templates/Homepage/C++课程.md",
-    "Templates/Homepage/C++知识学习.md",
-    "Temp/方向.md",
     "Templates/AddWord.js",
     "Projects",
     "Leetcode/139.单词拆分.cpp~",
@@ -388,7 +392,6 @@
     "项目/卡码缓存/卡码缓存系统/img/jFMyKnmcjNAccbPe",
     "项目/卡码缓存/卡码缓存系统/img/i9t-xL1nykV0ckWv",
     "项目/卡码缓存/卡码缓存系统/img/gRm2W1HnH39pA6h9",
-    "项目/卡码缓存/卡码缓存系统/img/an9lm3Wl_884ZTVn",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
