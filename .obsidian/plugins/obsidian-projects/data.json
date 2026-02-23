@@ -18,7 +18,13 @@
       "views": [
         {
           "config": {
-            "coverField": "封面链接"
+            "coverField": "封面链接",
+            "fitStyle": "cover",
+            "includeFields": [
+              "别名",
+              "开播日期"
+            ],
+            "cardWidth": 200
           },
           "filter": {
             "conjunction": "and",
@@ -35,7 +41,19 @@
           "type": "gallery"
         },
         {
-          "config": {},
+          "config": {
+            "fieldConfig": {
+              "导演": {
+                "width": 180
+              },
+              "path": {
+                "hide": true
+              },
+              "短板": {
+                "hide": true
+              }
+            }
+          },
           "filter": {
             "conjunction": "and",
             "conditions": []

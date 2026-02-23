@@ -35,10 +35,12 @@
             "id": "8ea6c7e47d26d734",
             "type": "leaf",
             "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           },
           {
@@ -138,7 +140,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -162,7 +164,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -205,8 +207,8 @@
             "state": {
               "type": "recent-files",
               "state": {},
-              "icon": "clock",
-              "title": "Recent Files"
+              "icon": "lucide-ghost",
+              "title": "recent-files"
             }
           }
         ]
@@ -240,8 +242,8 @@
             "state": {
               "type": "side-panel-control-view",
               "state": {},
-              "icon": "viewIcon",
-              "title": "Markdown-Autocomplete"
+              "icon": "lucide-ghost",
+              "title": "side-panel-control-view"
             }
           },
           {
@@ -250,8 +252,8 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
             }
           }
         ]
@@ -267,12 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Projects/恋人不行.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Outline of 恋人不行"
             }
           },
           {
@@ -281,8 +284,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           },
           {
@@ -384,19 +387,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-projects:打开项目": false,
-      "open-vscode:VSCode": false,
-      "pexels-banner:🚩 Pixel Banner Menu": false,
-      "diagram-zoom-drag:Picker mode": false,
-      "bases:新建数据库": false,
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "workspaces:管理工作区布局": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "terminal:Open terminal": false,
       "slides-extended:Show slide preview": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
@@ -407,15 +406,12 @@
       "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
       "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
       "templater-obsidian:Templater": false,
-      "ace-code-editor:打开css片段管理器": false,
+      "ace-code-editor:Open CSS snippet manager": false,
       "obsidian-git:Open Git source control": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-day-and-night:Toggle Theme": false,
-      "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "homepage:Open homepage": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8ea6c7e47d26d734",
+  "active": "eb230af49561dd91",
   "lastOpenFiles": [
     "Projects/恋人不行.md",
     "assets/我们不可能成为恋人！绝对不行。(※似乎可行!_).webp",
