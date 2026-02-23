@@ -960,10 +960,10 @@
           "name": "Bangumi游戏",
           "type": "Template",
           "command": false,
-          "templatePath": "",
+          "templatePath": "Templates/T-游戏.md",
           "fileNameFormat": {
-            "enabled": false,
-            "format": ""
+            "enabled": true,
+            "format": "Projects/game/{{VALUE:CN}}"
           },
           "folder": {
             "enabled": false,
@@ -973,7 +973,7 @@
             "chooseFromSubfolders": false
           },
           "appendLink": false,
-          "openFile": false,
+          "openFile": true,
           "fileOpening": {
             "location": "tab",
             "direction": "vertical",
@@ -988,10 +988,10 @@
           "name": "Bangumi漫画",
           "type": "Template",
           "command": false,
-          "templatePath": "",
+          "templatePath": "Templates/T-漫画.md",
           "fileNameFormat": {
-            "enabled": false,
-            "format": ""
+            "enabled": true,
+            "format": "Projects/manga/{{VALUE:CN}}"
           },
           "folder": {
             "enabled": false,
@@ -1001,7 +1001,7 @@
             "chooseFromSubfolders": false
           },
           "appendLink": false,
-          "openFile": false,
+          "openFile": true,
           "fileOpening": {
             "location": "tab",
             "direction": "vertical",
@@ -1016,10 +1016,10 @@
           "name": "Bangumi动画",
           "type": "Template",
           "command": false,
-          "templatePath": "",
+          "templatePath": "Templates/T-动画.md",
           "fileNameFormat": {
-            "enabled": false,
-            "format": ""
+            "enabled": true,
+            "format": "Projects/anime/{{VALUE:CN}}"
           },
           "folder": {
             "enabled": false,
@@ -1039,7 +1039,28 @@
           "fileExistsMode": "Increment the file name",
           "setFileExistsBehavior": false
         }
-      ]
+      ],
+      "collapsed": false
+    },
+    {
+      "id": "ea81d6c9-0155-4c65-9128-fa0f20e848fd",
+      "name": "Bangumi搜索",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": false,
+      "macro": {
+        "name": "Bangumi搜索",
+        "id": "ac25fdfc-d9b2-4d73-b769-66e720009fbd",
+        "commands": [
+          {
+            "name": "ACGbangumiv2.1",
+            "type": "UserScript",
+            "id": "51ed159f-731a-48d6-8cae-903634da8279",
+            "path": "Templates/ACGbangumiv2.1.js",
+            "settings": {}
+          }
+        ]
+      }
     }
   ],
   "inputPrompt": "single-line",

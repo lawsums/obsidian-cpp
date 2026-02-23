@@ -10,7 +10,7 @@
       "dataSource": {
         "kind": "folder",
         "config": {
-          "path": "Projects",
+          "path": "Projects/anime",
           "recursive": false
         }
       },
@@ -18,13 +18,14 @@
       "views": [
         {
           "config": {
-            "coverField": "封面链接",
+            "coverField": "封面",
             "fitStyle": "cover",
             "includeFields": [
-              "别名",
-              "开播日期"
+              "开播日期",
+              "Bangumi评分",
+              "标签"
             ],
-            "cardWidth": 200
+            "cardWidth": 120
           },
           "filter": {
             "conjunction": "and",
