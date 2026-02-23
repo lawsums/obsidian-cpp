@@ -5,16 +5,24 @@
       "path": "Projects/恋人不行.md"
     },
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "魔王2099",
+      "path": "Projects/assets/魔王2099.webp"
+    },
+    {
+      "basename": "我们不可能成为恋人！绝对不行。(※似乎可行!_)",
+      "path": "Projects/assets/我们不可能成为恋人！绝对不行。(※似乎可行!_).webp"
+    },
+    {
       "basename": "魔王 2099",
       "path": "Projects/魔王 2099.md"
     },
     {
       "basename": "学习建立动画库",
       "path": "Software/学习建立动画库.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "学习科目四",
@@ -191,14 +199,6 @@
     {
       "basename": "锁的粒度",
       "path": "项目/卡码缓存/锁的粒度.md"
-    },
-    {
-      "basename": "VSCodeVimVim star Vim for Visual Studio Code",
-      "path": "Clippings/VSCodeVimVim star Vim for Visual Studio Code.md"
-    },
-    {
-      "basename": "Vscode-vim",
-      "path": "Software/Vscode-vim.md"
     }
   ],
   "omittedPaths": [],

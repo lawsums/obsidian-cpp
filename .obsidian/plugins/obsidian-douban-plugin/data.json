@@ -77,7 +77,7 @@
   "loginHeadersContent": "{\"Accept\":\"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7\",\"Accept-Encoding\":\"gzip, deflate, br, zstd\",\"Accept-Language\":\"zh-CN\",\"Cookie\":\"bid=70rRu9JjQzg; dbcl2=\\\"293504464:MbOynxzZ1dA\\\"\",\"Referer\":\"https://accounts.douban.com/\",\"Sec-Fetch-Mode\":\"navigate\",\"Sec-Fetch-Site\":\"same-site\",\"Sec-Fetch-User\":\"?1\",\"Upgrade-Insecure-Requests\":\"1\",\"User-Agent\":\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) obsidian/1.10.3 Chrome/138.0.7204.251 Electron/37.9.0 Safari/537.36\"}",
   "cacheImage": true,
   "cacheHighQuantityImage": true,
-  "attachmentPath": "assets",
+  "attachmentPath": "Projects/assets",
   "attachmentFileName": "{{title}}",
   "syncHandledDataArray": [],
   "scoreSetting": {
