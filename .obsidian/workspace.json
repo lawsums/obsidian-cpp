@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "代码模版/排序板子.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "排序板子"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "代码模版/排序板子.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "排序板子 的大纲"
             }
           },
           {
@@ -311,9 +311,11 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "代码模版/堆板子.md",
+    "代码模版/排序板子.md",
+    "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/学习深度学习.md",
-    "Templates/Homepage/Homepage.md",
     "项目/分布式缓存/000_框架.md",
     "Dairies/shared_ptr.md",
     "Templates/Homepage/Effctive STL.md",
@@ -336,9 +338,7 @@
     "Dairies/2026-02-24.md",
     "Projects/魔王 2099.md",
     "Templates/Daily_note_template.md",
-    "Templates/Anki_leetcode.md",
     "Templates/AddWord.js",
-    "Templates/anime_template.md",
     "Projects",
     "Leetcode/139.单词拆分.cpp~",
     "Leetcode/139.单词拆分.cpp",
