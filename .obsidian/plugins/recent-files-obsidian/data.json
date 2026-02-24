@@ -1,12 +1,48 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "STL源码剖析",
       "path": "Templates/Homepage/STL源码剖析.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "STL源码剖析_第2章 空間配置器",
+      "path": "Templates/Homepage/STL源码剖析_第2章 空間配置器.md"
+    },
+    {
+      "basename": "凡人修仙传 第五季",
+      "path": "Projects/anime/凡人修仙传 第五季.md"
+    },
+    {
+      "basename": "孤独摇滚！",
+      "path": "Projects/anime/孤独摇滚！.md"
+    },
+    {
+      "basename": "四叠半神话大系",
+      "path": "Projects/anime/四叠半神话大系.md"
+    },
+    {
+      "basename": "化物语",
+      "path": "Projects/anime/化物语.md"
+    },
+    {
+      "basename": "校园迷糊大王",
+      "path": "Projects/anime/校园迷糊大王.md"
+    },
+    {
+      "basename": "超时空辉夜姬！",
+      "path": "Projects/anime/超时空辉夜姬！.md"
+    },
+    {
+      "basename": "葬送的芙莉莲",
+      "path": "Projects/anime/葬送的芙莉莲.md"
+    },
+    {
+      "basename": "第4章 序列式容器",
+      "path": "Templates/Homepage/第4章 序列式容器.md"
     },
     {
       "basename": "学习esp32s3",
@@ -163,42 +199,6 @@
     {
       "basename": "for_each_函数式删除器",
       "path": "Templates/Homepage/for_each_函数式删除器.md"
-    },
-    {
-      "basename": "006_影视作品",
-      "path": "Temp/006_影视作品.md"
-    },
-    {
-      "basename": "007_书籍",
-      "path": "Temp/007_书籍.md"
-    },
-    {
-      "basename": "悬垂引用",
-      "path": "Templates/Homepage/悬垂引用.md"
-    },
-    {
-      "basename": "139.单词拆分",
-      "path": "Leetcode/139.单词拆分.md"
-    },
-    {
-      "basename": "pthread",
-      "path": "项目/卡码缓存/pthread.md"
-    },
-    {
-      "basename": "001_开发流程",
-      "path": "项目/卡码缓存/001_开发流程.md"
-    },
-    {
-      "basename": "002_问题",
-      "path": "项目/卡码缓存/002_问题.md"
-    },
-    {
-      "basename": "yuque",
-      "path": "Software/yuque.md"
-    },
-    {
-      "basename": "000_框架",
-      "path": "项目/卡码缓存/000_框架.md"
     }
   ],
   "omittedPaths": [],

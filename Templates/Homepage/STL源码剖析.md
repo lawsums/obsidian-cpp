@@ -48,28 +48,11 @@
       - [ ] 組態：class template explicit specialization
     - [ ] 1.9.2 暫時物件的產生與運用
     - [ ] 1.9.3 靜態常數整數成員在 class 內部直接初始化 in-class static const integral data member initialization
-    - [ ] 1.9.4 increment/decrement/dereference 運算子
+    - [x] 1.9.4 increment/decrement/dereference 運算子
     - [ ] 1.9.5「前閉後開」區間表示法 [ )
-    - [ ] 1.9.6 function call 運算子（operator()）
+    - [x] 1.9.6 function call 運算子（operator()）
 
-## 1.2 第2章 空間配置器（allocator）
-  - [ ] 2.1 空間配置器的標準介面
-    - [ ] 2.1.1 設計一個陽春的空間配置器，JJ::allocator
-  - [ ] 2.2 具備次配置力（sub-allocation）的 SGI 空間配置器
-    - [ ] 2.2.1 SGI 標準的空間配置器，std::allocator
-    - [ ] 2.2.2 SGI 特殊的空間配置器，std::alloc
-    - [ ] 2.2.3 建構和解構基本工具：construct() 和 destroy()
-    - [ ] 2.2.4 空間的配置與釋放，std::alloc
-    - [ ] 2.2.5 第一級配置器 __malloc_alloc_template 剖析
-    - [ ] 2.2.6 第二級配置器 __default_alloc_template 剖析
-    - [ ] 2.2.7 空間配置函式 allocate()
-    - [ ] 2.2.8 空間釋放函式 deallocate()
-    - [ ] 2.2.9 重新充填 free-lists
-    - [ ] 2.2.10 記憶池（memory pool）
-  - [ ] 2.3 記憶體基本處理工具
-    - [ ] 2.3.1 uninitialized_copy
-    - [ ] 2.3.2 uninitialized_fill
-    - [ ] 2.3.3 uninitialized_fill_n
+## 1.2 [[STL源码剖析_第2章 空間配置器|第2章 空間配置器]]（allocator）
 
 ## 1.3 第3章 迭代器（iterators）概念與 traits 編程技法
   - [ ] 3.1 迭代器設計思維 — STL 關鍵所在

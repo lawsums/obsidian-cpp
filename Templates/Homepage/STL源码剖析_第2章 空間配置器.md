@@ -1,0 +1,18 @@
+  
+  - [x] 2.1 空間配置器的標準介面
+    - [x] 2.1.1 設計一個陽春的空間配置器，JJ::allocator
+  - [ ] 2.2 具備次配置力（sub-allocation）的 SGI 空間配置器
+    - [ ] 2.2.1 SGI 標準的空間配置器，std::allocator
+    - [ ] 2.2.2 SGI 特殊的空間配置器，std::alloc
+    - [ ] 2.2.3 建構和解構基本工具：construct() 和 destroy()
+    - [ ] 2.2.4 空間的配置與釋放，std::alloc
+    - [ ] 2.2.5 第一級配置器 __malloc_alloc_template 剖析
+    - [ ] 2.2.6 第二級配置器 __default_alloc_template 剖析
+    - [ ] 2.2.7 空間配置函式 allocate()
+    - [ ] 2.2.8 空間釋放函式 deallocate()
+    - [ ] 2.2.9 重新充填 free-lists
+    - [ ] 2.2.10 記憶池（memory pool）
+  - [ ] 2.3 記憶體基本處理工具
+    - [ ] 2.3.1 uninitialized_copy
+    - [ ] 2.3.2 uninitialized_fill
+    - [ ] 2.3.3 uninitialized_fill_n

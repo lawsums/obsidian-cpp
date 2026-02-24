@@ -1,0 +1,8 @@
+{
+  "id": "obsidian-prefix-link",
+  "name": "Prefix Link",
+  "version": "0.0.1",
+  "minAppVersion": "1.5.8",
+  "description": "This is an sample of the simplest obsidian plugin to develop.",
+  "isDesktopOnly": false
+}
