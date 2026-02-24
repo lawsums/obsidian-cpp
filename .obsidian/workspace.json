@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/学习科目四.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习科目四 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,11 +335,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "358e2e1adcc4e22c",
+  "active": "f6492da1cc461de6",
   "lastOpenFiles": [
+    "Dairies/学习科目四.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/Homepage.md",
-    "Dairies/学习科目四.md",
     "Software/Qt.md",
     "Dairies/2026-02-23.md",
     "Temp/which-key插件.md",
