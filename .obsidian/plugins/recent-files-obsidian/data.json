@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "C++课程",
+      "path": "Templates/Homepage/C++课程.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
+      "basename": "C++知识学习",
+      "path": "Templates/Homepage/C++知识学习.md"
     },
     {
       "basename": "Homepage",
@@ -33,24 +45,12 @@
       "path": "Temp/obsidian-quick-file-yank.md"
     },
     {
-      "basename": "C++课程",
-      "path": "Templates/Homepage/C++课程.md"
-    },
-    {
       "basename": "仿matlab的项目",
       "path": "Temp/仿matlab的项目.md"
     },
     {
       "basename": "开发inference_copy插件",
       "path": "Dairies/开发inference_copy插件.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "C++知识学习",
-      "path": "Templates/Homepage/C++知识学习.md"
     },
     {
       "basename": "实现自己的数据结构",

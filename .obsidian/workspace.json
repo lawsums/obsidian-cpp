@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
+                "file": "Templates/Homepage/C++课程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "学习C++"
+              "title": "C++课程"
             }
           }
         ],
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
+                "file": "Templates/Homepage/C++课程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习C++ 的大纲"
+              "title": "C++课程 的大纲"
             }
           },
           {
@@ -337,6 +337,10 @@
   },
   "active": "f6492da1cc461de6",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/面试题系列.md",
+    "Templates/Homepage/C++课程.md",
+    "Templates/Homepage/C++知识学习.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/学习科目四.md",
     "Dairies/实现自己的数据结构.md",
@@ -346,7 +350,6 @@
     "Temp/004_闪念.md",
     "Temp/prefix_link插件.md",
     "Temp/obsidian-quick-file-yank.md",
-    "Templates/Homepage/C++课程.md",
     "Projects/anime/迷宫饭.md",
     "Projects/anime/辉夜大小姐想让我告白 通往大人的阶梯.md",
     "Projects/anime/超时空辉夜姬！.md",
@@ -362,9 +365,6 @@
     "Projects/anime/3月的狮子.md",
     "Projects/anime",
     "Projects",
-    "Temp/目标页面名.md",
-    "Temp/仿matlab的项目.md",
-    "Dairies/开发inference_copy插件.md",
     "Templates/ACGbangumiv2.1.js",
     "Projects/assets/魔王2099.webp",
     "Projects/assets/我们不可能成为恋人！绝对不行。(※似乎可行!_).webp",
