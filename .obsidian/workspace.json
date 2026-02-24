@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
-                "mode": "preview",
+                "file": "Software/Qt.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "Qt"
             }
           }
         ]
@@ -161,13 +161,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Software/Qt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "Qt 的大纲"
             }
           },
           {
@@ -312,8 +312,9 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Dairies/2026-02-23.md",
     "Templates/Homepage/Homepage.md",
+    "Software/Qt.md",
+    "Dairies/2026-02-23.md",
     "Temp/which-key插件.md",
     "Temp/004_闪念.md",
     "Temp/prefix_link插件.md",
@@ -339,7 +340,6 @@
     "Dairies/开发inference_copy插件.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/面试题系列.md",
-    "Templates/Homepage/C++知识学习.md",
     "Templates/ACGbangumiv2.1.js",
     "Projects/assets/魔王2099.webp",
     "Projects/assets/我们不可能成为恋人！绝对不行。(※似乎可行!_).webp",
