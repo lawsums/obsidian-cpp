@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "004_闪念",
-      "path": "Temp/004_闪念.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-02-23",
+      "path": "Dairies/2026-02-23.md"
+    },
+    {
+      "basename": "which-key插件",
+      "path": "Temp/which-key插件.md"
+    },
+    {
+      "basename": "004_闪念",
+      "path": "Temp/004_闪念.md"
     },
     {
       "basename": "prefix_link插件",
@@ -103,10 +111,6 @@
     {
       "basename": "空基类优化",
       "path": "Templates/Homepage/空基类优化.md"
-    },
-    {
-      "basename": "2026-02-23",
-      "path": "Dairies/2026-02-23.md"
     },
     {
       "basename": "Obsidian-vimrc",
