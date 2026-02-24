@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "方向",
+      "path": "Temp/方向.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "C++知识学习",
+      "path": "Templates/Homepage/C++知识学习.md"
     },
     {
       "basename": "Qt",
@@ -19,10 +27,6 @@
     {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "C++知识学习",
-      "path": "Templates/Homepage/C++知识学习.md"
     },
     {
       "basename": "2026-02-23",
@@ -99,10 +103,6 @@
     {
       "basename": "003_不定期任务",
       "path": "Temp/003_不定期任务.md"
-    },
-    {
-      "basename": "方向",
-      "path": "Temp/方向.md"
     },
     {
       "basename": "Diet_template",

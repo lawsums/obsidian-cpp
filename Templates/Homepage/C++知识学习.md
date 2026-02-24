@@ -55,7 +55,7 @@
 - [ ] 39.类型特征Type Traits
 - [x] 40.Algorithm算法库
 - [ ] 41.并行编程
-- [ ] 42.线程thread
+- [x] 42.线程thread
 - [ ] 43.promise和future
 - [x] 44.互斥和锁mutex & lock
 - [ ] 45.多线程死锁，std::lock防死锁的原理
@@ -64,7 +64,7 @@
 - [ ] 48.信号量Semaphore，std::counting_semap...
 - [ ] 49.异步任务，async和packaged_task
 - [ ] 50.线程屏障barrier和latch
-- [ ] 51.协程
+- [x] 51.协程
 - [ ] 52.协程可等待对象
 - [ ] 53.原子类型atomic_flag
 - [ ] 54.无锁算法和结构，CAS原子操作
@@ -169,3 +169,4 @@
 
 * 2026-02-22 - 1
 * 2026-02-23 - 1
+* 2026-02-24 - 1
