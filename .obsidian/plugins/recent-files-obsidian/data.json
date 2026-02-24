@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Qt",
+      "path": "Software/Qt.md"
+    },
+    {
       "basename": "C++课程",
       "path": "Templates/Homepage/C++课程.md"
     },
@@ -15,14 +23,6 @@
     {
       "basename": "C++知识学习",
       "path": "Templates/Homepage/C++知识学习.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
-      "basename": "Qt",
-      "path": "Software/Qt.md"
     },
     {
       "basename": "2026-02-23",

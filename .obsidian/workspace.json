@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/Qt.md",
-                "mode": "source",
+                "file": "Templates/Homepage/Homepage.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Qt"
+              "title": "Homepage"
             }
           },
           {
@@ -55,8 +55,7 @@
               "title": "C++课程"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/C++课程.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "C++课程 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,16 +334,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f6492da1cc461de6",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Software/Qt.md",
+    "Templates/Homepage/C++课程.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/面试题系列.md",
-    "Templates/Homepage/C++课程.md",
     "Templates/Homepage/C++知识学习.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/学习科目四.md",
     "Dairies/实现自己的数据结构.md",
-    "Software/Qt.md",
     "Dairies/2026-02-23.md",
     "Temp/which-key插件.md",
     "Temp/004_闪念.md",
