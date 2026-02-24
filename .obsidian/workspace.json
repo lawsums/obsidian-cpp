@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "学习C++"
             }
           }
         ],
@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习C++ 的大纲"
             }
           },
           {
@@ -337,9 +337,9 @@
   },
   "active": "f6492da1cc461de6",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Dairies/学习科目四.md",
     "Dairies/实现自己的数据结构.md",
-    "Templates/Homepage/Homepage.md",
     "Software/Qt.md",
     "Dairies/2026-02-23.md",
     "Temp/which-key插件.md",

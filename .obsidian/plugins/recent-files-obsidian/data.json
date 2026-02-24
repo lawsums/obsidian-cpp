@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "开发inference_copy插件",
       "path": "Dairies/开发inference_copy插件.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "面试题系列",
