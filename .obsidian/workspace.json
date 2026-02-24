@@ -32,13 +32,13 @@
             }
           },
           {
-            "id": "93e0c1d764cca747",
+            "id": "825b657a34eabf62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/C++知识学习.md",
-                "mode": "source",
+                "file": "Templates/Homepage/Homepage.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++知识学习"
+              "title": "Homepage"
             }
           },
           {
-            "id": "f6492da1cc461de6",
+            "id": "1ffff5fe6cd87d53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/C++课程.md",
+                "file": "Templates/Homepage/STL源码剖析.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,10 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "C++课程"
+              "title": "STL源码剖析"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -154,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -209,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/方向.md",
+                "file": "Templates/Homepage/STL源码剖析.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "方向 的大纲"
+              "title": "STL源码剖析 的大纲"
             }
           },
           {
@@ -358,10 +358,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "1ffff5fe6cd87d53",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习esp32s3.md",
     "Templates/Homepage/C++知识学习.md",
+    "Temp/方向.md",
     "Software/Qt.md",
     "Templates/Homepage/C++课程.md",
     "Templates/Homepage/学习C++.md",
@@ -384,8 +386,6 @@
     "Projects/anime/化物语.md",
     "Projects/anime/两不疑.md",
     "Projects/anime/3月的狮子 第二季.md",
-    "Projects/anime/凡人修仙传 第五季.md",
-    "Projects/anime/3月的狮子.md",
     "Projects/anime",
     "Projects",
     "Templates/ACGbangumiv2.1.js",
