@@ -186,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/学习科目四.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习科目四 的大纲"
             }
           },
           {
@@ -335,10 +335,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f6492da1cc461de6",
+  "active": "358e2e1adcc4e22c",
   "lastOpenFiles": [
-    "Software/Qt.md",
+    "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/学习科目四.md",
+    "Software/Qt.md",
     "Dairies/2026-02-23.md",
     "Temp/which-key插件.md",
     "Temp/004_闪念.md",
@@ -363,8 +365,6 @@
     "Temp/目标页面名.md",
     "Temp/仿matlab的项目.md",
     "Dairies/开发inference_copy插件.md",
-    "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/面试题系列.md",
     "Templates/ACGbangumiv2.1.js",
     "Projects/assets/魔王2099.webp",
     "Projects/assets/我们不可能成为恋人！绝对不行。(※似乎可行!_).webp",
