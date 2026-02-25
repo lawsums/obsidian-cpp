@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -71,14 +79,6 @@
     {
       "basename": "C++课程",
       "path": "Templates/Homepage/C++课程.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
     },
     {
       "basename": "2026-02-23",
