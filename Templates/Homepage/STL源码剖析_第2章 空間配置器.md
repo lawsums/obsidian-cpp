@@ -12,7 +12,7 @@
     - [ ] 2.2.8 空間釋放函式 deallocate()
     - [ ] 2.2.9 重新充填 free-lists
     - [ ] 2.2.10 記憶池（memory pool）
-  - [ ] 2.3 記憶體基本處理工具
-    - [ ] 2.3.1 uninitialized_copy
-    - [ ] 2.3.2 uninitialized_fill
-    - [ ] 2.3.3 uninitialized_fill_n
+  - [x] 2.3 記憶體基本處理工具
+    - [x] 2.3.1 uninitialized_copy
+    - [x] 2.3.2 uninitialized_fill
+    - [x] 2.3.3 uninitialized_fill_n

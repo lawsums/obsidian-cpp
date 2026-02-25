@@ -30,6 +30,54 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "d4fd1c2aa79a8646",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/STL源码剖析_第2章 空間配置器.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "STL源码剖析_第2章 空間配置器"
+            }
+          },
+          {
+            "id": "6277be2f9307fed6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/内存处理基本函数.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "内存处理基本函数"
+            }
           }
         ]
       }
@@ -311,10 +359,11 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "操作系统/内存处理基本函数.md",
+    "Templates/Homepage/STL源码剖析_第2章 空間配置器.md",
     "Templates/Homepage/Homepage.md",
     "Temp/方向.md",
     "Templates/Homepage/STL源码剖析.md",
-    "Templates/Homepage/STL源码剖析_第2章 空間配置器.md",
     "Dairies/2026-02-25.md",
     "Projects/anime/凡人修仙传 第五季.md",
     "Projects/anime/剧场版 链锯人 蕾塞篇.md",
@@ -336,7 +385,6 @@
     "Templates/Homepage/C++知识学习.md",
     "Software/Qt.md",
     "Templates/Homepage/C++课程.md",
-    "Templates/Homepage/学习C++.md",
     "Projects/anime",
     "Projects",
     "Templates/ACGbangumiv2.1.js",
