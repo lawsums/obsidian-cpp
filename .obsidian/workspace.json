@@ -30,19 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "962823bda83fbc78",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,12 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -319,9 +309,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "962823bda83fbc78",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
+    "Temp/方向.md",
     "Templates/Homepage/STL源码剖析.md",
     "Templates/Homepage/STL源码剖析_第2章 空間配置器.md",
     "Dairies/2026-02-25.md",
@@ -343,7 +334,6 @@
     "Templates/Homepage/第4章 序列式容器.md",
     "Templates/Homepage/学习esp32s3.md",
     "Templates/Homepage/C++知识学习.md",
-    "Temp/方向.md",
     "Software/Qt.md",
     "Templates/Homepage/C++课程.md",
     "Templates/Homepage/学习C++.md",

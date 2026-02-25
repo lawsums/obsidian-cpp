@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-02-25",
+      "path": "Dairies/2026-02-25.md"
+    },
+    {
+      "basename": "方向",
+      "path": "Temp/方向.md"
+    },
+    {
       "basename": "STL源码剖析",
       "path": "Templates/Homepage/STL源码剖析.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "C++知识学习",
       "path": "Templates/Homepage/C++知识学习.md"
-    },
-    {
-      "basename": "方向",
-      "path": "Temp/方向.md"
     },
     {
       "basename": "Qt",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-02-21",
       "path": "Dairies/2026-02-21.md"
-    },
-    {
-      "basename": "for_each_函数式删除器",
-      "path": "Templates/Homepage/for_each_函数式删除器.md"
     }
   ],
   "omittedPaths": [],
