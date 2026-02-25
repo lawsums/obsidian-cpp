@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "内存处理基本函数",
       "path": "操作系统/内存处理基本函数.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
+      "basename": "手撕string",
+      "path": "操作系统/手撕string.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "STL源码剖析_第2章 空間配置器",
@@ -195,10 +199,6 @@
     {
       "basename": "RIME",
       "path": "Software/RIME.md"
-    },
-    {
-      "basename": "find",
-      "path": "操作系统/linux常见命令/find.md"
     }
   ],
   "omittedPaths": [],

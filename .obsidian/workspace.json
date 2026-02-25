@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "a623233b4b91fe6b",
+            "id": "31dc98b9050e164f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/面试题系列.md",
+                "file": "操作系统/手撕string.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "面试题系列"
+              "title": "手撕string"
             }
           },
           {
@@ -79,8 +79,7 @@
               "title": "内存处理基本函数"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -209,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/面试题系列.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "面试题系列 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -358,13 +358,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a623233b4b91fe6b",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Dairies/2026-02-21.md",
-    "Templates/Homepage/面试题系列.md",
-    "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/Homepage.md",
     "操作系统/内存处理基本函数.md",
+    "Templates/Homepage/面试题系列.md",
+    "操作系统/手撕string.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习C++.md",
+    "Dairies/2026-02-21.md",
     "Dairies/2026-02-27.md",
     "Templates/Homepage/STL源码剖析_第2章 空間配置器.md",
     "Temp/方向.md",
@@ -385,7 +386,6 @@
     "Projects/anime/超时空辉夜姬！.md",
     "Projects/anime/葬送的芙莉莲.md",
     "Projects/anime/名侦探光之美少女！.md",
-    "Templates/Homepage/第4章 序列式容器.md",
     "Projects/anime",
     "Projects",
     "Templates/ACGbangumiv2.1.js",
