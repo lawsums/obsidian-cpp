@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-02-25",
+      "path": "Dairies/2026-02-25.md"
+    },
+    {
       "basename": "内存处理基本函数",
       "path": "操作系统/内存处理基本函数.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "STL源码剖析_第2章 空間配置器",
       "path": "Templates/Homepage/STL源码剖析_第2章 空間配置器.md"
-    },
-    {
-      "basename": "2026-02-25",
-      "path": "Dairies/2026-02-25.md"
     },
     {
       "basename": "方向",
