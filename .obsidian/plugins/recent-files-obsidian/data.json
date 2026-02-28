@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "Javascript现代教程",
       "path": "Temp/Javascript现代教程.md"
     },
     {
-      "basename": "007_书籍",
-      "path": "Temp/007_书籍.md"
+      "basename": "004_闪念",
+      "path": "Temp/004_闪念.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "007_书籍",
+      "path": "Temp/007_书籍.md"
     },
     {
       "basename": "2026-02-11-write_title",
@@ -111,10 +115,6 @@
     {
       "basename": "which-key插件",
       "path": "Temp/which-key插件.md"
-    },
-    {
-      "basename": "004_闪念",
-      "path": "Temp/004_闪念.md"
     },
     {
       "basename": "prefix_link插件",
