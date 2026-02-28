@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-02-27",
+      "path": "Dairies/2026-02-27.md"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Temp/003_不定期任务.md"
+    },
+    {
       "basename": "2026-02-25",
       "path": "Dairies/2026-02-25.md"
     },
@@ -157,10 +165,6 @@
       "path": "Templates/Homepage/Effctive STL.md"
     },
     {
-      "basename": "003_不定期任务",
-      "path": "Temp/003_不定期任务.md"
-    },
-    {
       "basename": "Diet_template",
       "path": "Templates/Diet_template.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "AddWord",
       "path": "Templates/AddWord.js"
-    },
-    {
-      "basename": "RIME",
-      "path": "Software/RIME.md"
     }
   ],
   "omittedPaths": [],
