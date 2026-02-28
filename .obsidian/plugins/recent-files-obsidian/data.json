@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Javascript现代教程",
+      "path": "Temp/Javascript现代教程.md"
+    },
+    {
+      "basename": "007_书籍",
+      "path": "Temp/007_书籍.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-02-11-write_title",
+      "path": "Clippings/2026-02-11-write_title.md"
     },
     {
       "basename": "2026-02-27",
@@ -187,18 +199,6 @@
     {
       "basename": "2026-02-24",
       "path": "Dairies/2026-02-24.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
-    },
-    {
-      "basename": "Anki_leetcode",
-      "path": "Templates/Anki_leetcode.md"
-    },
-    {
-      "basename": "AddWord",
-      "path": "Templates/AddWord.js"
     }
   ],
   "omittedPaths": [],

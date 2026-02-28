@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "0136533bb16d3352",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/Javascript现代教程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Javascript现代教程"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Temp/Javascript现代教程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "Javascript现代教程 的大纲"
             }
           },
           {
@@ -309,12 +334,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "0136533bb16d3352",
   "lastOpenFiles": [
+    "Temp/007_书籍.md",
+    "Temp/Javascript现代教程.md",
+    "Templates/Homepage/Homepage.md",
+    "Clippings/2026-02-11-write_title.md",
     "Dairies/2026-03-01.md",
     "Temp/003_不定期任务.md",
     "Dairies/2026-02-27.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-02-28.md",
     "Dairies/学习科目四.md",
     "Dairies/2026-02-26.md",
@@ -334,9 +362,6 @@
     "Projects/anime/GIRLS BAND CRY.md",
     "Projects/anime/BanG Dream! It's MyGO!!!!!.md",
     "Projects/anime/转生成蜘蛛又怎样！.md",
-    "Projects/anime/我的青春恋爱物语果然有问题.md",
-    "Projects/anime/五等分的新娘.md",
-    "Projects/anime/四叠半神话大系.md",
     "Projects/anime",
     "Projects",
     "Templates/ACGbangumiv2.1.js",
