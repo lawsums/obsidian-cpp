@@ -55,8 +55,7 @@
               "title": "学习esp32s3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习esp32s3.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习esp32s3 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -334,8 +333,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6d7563410b5c10d0",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习esp32s3.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-03-01.md",
     "Dairies/2026-03-03.md",
@@ -367,7 +367,6 @@
     "Temp/方向.md",
     "Templates/Homepage/STL源码剖析.md",
     "Dairies/2026-02-25.md",
-    "Projects/anime/凡人修仙传 第五季.md",
     "Projects/anime",
     "Projects",
     "Templates/ACGbangumiv2.1.js",
