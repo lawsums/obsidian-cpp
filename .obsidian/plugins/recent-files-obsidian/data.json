@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "仆少女",
       "path": "Projects/manga/仆少女.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "手撕string",
       "path": "操作系统/手撕string.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "STL源码剖析_第2章 空間配置器",
