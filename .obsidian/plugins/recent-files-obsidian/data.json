@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-03-01",
+      "path": "Dairies/2026-03-01.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "空基类优化",
       "path": "Templates/Homepage/空基类优化.md"
-    },
-    {
-      "basename": "Obsidian-vimrc",
-      "path": "Software/Obsidian-vimrc.md"
     }
   ],
   "omittedPaths": [],
