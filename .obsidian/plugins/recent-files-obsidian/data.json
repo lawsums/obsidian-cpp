@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "仆少女",
+      "path": "Projects/manga/仆少女.md"
+    },
+    {
       "basename": "98.验证二叉搜索树",
       "path": "Leetcode/98.验证二叉搜索树.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Obsidian-vimrc",
       "path": "Software/Obsidian-vimrc.md"
-    },
-    {
-      "basename": "obsidian",
-      "path": "Software/obsidian.md"
     }
   ],
   "omittedPaths": [],

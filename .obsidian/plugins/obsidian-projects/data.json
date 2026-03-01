@@ -128,6 +128,100 @@
       ],
       "id": "ca45b3c9-997d-4fa6-8ecf-7a5950228113",
       "name": "动画番剧"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/manga",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "coverField": "封面",
+            "cardWidth": 120,
+            "includeFields": [
+              "Bangumi评分",
+              "标签",
+              "日文名"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "e775898c-70d1-4f07-812a-9659317d3446",
+          "name": "漫画",
+          "type": "gallery"
+        },
+        {
+          "config": {
+            "fieldConfig": {
+              "作品大类": {
+                "width": 195
+              },
+              "Bangumi评分": {
+                "hide": false
+              },
+              "name": {
+                "width": 125
+              },
+              "观看状态": {
+                "width": 166
+              },
+              "标签": {
+                "width": 270
+              }
+            },
+            "orderFields": [
+              "name",
+              "出版社",
+              "Bangumi评分",
+              "观看状态",
+              "日文名",
+              "标签",
+              "保存状态",
+              "笔记ID",
+              "path",
+              "别名",
+              "封面",
+              "话数",
+              "具体类型",
+              "中文名",
+              "作品大类"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "8b37df67-a999-486d-a7d6-d0b3d20b3f4d",
+          "name": "表格",
+          "type": "table"
+        }
+      ],
+      "id": "a4c3997c-02cc-44c3-840d-fafbaa7cd8ad",
+      "name": "漫画"
     }
   ],
   "archives": [],
