@@ -15,7 +15,7 @@
               "state": {
                 "file": "Templates/Homepage/Homepage.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -312,9 +312,9 @@
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Temp/Javascript现代教程.md",
+    "Templates/Homepage/Homepage.md",
     "Temp/004_闪念.md",
     "Temp/007_书籍.md",
-    "Templates/Homepage/Homepage.md",
     "Clippings/2026-02-11-write_title.md",
     "Dairies/2026-03-01.md",
     "Temp/003_不定期任务.md",

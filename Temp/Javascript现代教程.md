@@ -1,5 +1,13 @@
-### 0.1.1 现代JavaScript教程 - 学习进度清单
 
+[书](G:\Downloads\Downloads\书籍\大四下\现代JavaScript教程.epub)
+
+## 0.1 未完成
+```dataview
+TASK
+WHERE file.name = this.file.name AND !completed
+```
+
+## 0.2 总待办
 - [x] JavaScript 简介
 - [ ] 手册与规范
 - [x] 代码编辑器
@@ -8,7 +16,7 @@
 - [ ] 代码结构
 - [ ] 现代模式, "use strict"
 - [ ] 变量
-- [ ] 数据类型
+- [x] 数据类型
 - [ ] 交互：alert、prompt 和 confirm
 - [ ] 类型转换
 - [ ] 基础运算符, 数学
@@ -16,7 +24,7 @@
 - [ ] 条件分支：if 和 '?'
 - [ ] 逻辑运算符
 - [ ] 空值合并运算符 '??'
-- [ ] 循环：while 和 for
+- [x] 循环：while 和 for
 - [ ] "switch" 语句
 - [x] 函数
 - [x] 函数表达式
@@ -39,7 +47,7 @@
 - [ ] 原始类型的方法
 - [ ] 数字类型
 - [ ] 字符串
-- [ ] 数组
+- [x] 数组
 - [ ] 数组方法
 - [ ] Iterable object（可迭代对象）
 - [ ] Map and Set（映射和集合）
