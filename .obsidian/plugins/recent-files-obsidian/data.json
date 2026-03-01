@@ -5,16 +5,28 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "placement new",
+      "path": "操作系统/placement new.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "2026-02-28",
+      "path": "Dairies/2026-02-28.md"
+    },
+    {
       "basename": "学习esp32s3",
       "path": "Templates/Homepage/学习esp32s3.md"
     },
     {
       "basename": "2026-03-01",
       "path": "Dairies/2026-03-01.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "仆少女",
@@ -55,10 +67,6 @@
     {
       "basename": "内存处理基本函数",
       "path": "操作系统/内存处理基本函数.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
     },
     {
       "basename": "手撕string",
@@ -191,14 +199,6 @@
     {
       "basename": "Diet_template",
       "path": "Templates/Diet_template.md"
-    },
-    {
-      "basename": "2026-02-22",
-      "path": "Dairies/2026-02-22.md"
-    },
-    {
-      "basename": "空基类优化",
-      "path": "Templates/Homepage/空基类优化.md"
     }
   ],
   "omittedPaths": [],
