@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "98.验证二叉搜索树",
+      "path": "Leetcode/98.验证二叉搜索树.md"
+    },
+    {
       "basename": "Javascript现代教程",
       "path": "Temp/Javascript现代教程.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "obsidian",
       "path": "Software/obsidian.md"
-    },
-    {
-      "basename": "2026-02-24",
-      "path": "Dairies/2026-02-24.md"
     }
   ],
   "omittedPaths": [],
