@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "STL源码剖析",
+      "path": "Templates/Homepage/STL源码剖析.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Effctive STL",
+      "path": "Templates/Homepage/Effctive STL.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "学习科目四",
+      "path": "Dairies/学习科目四.md"
+    },
+    {
+      "basename": "2026-03-02",
+      "path": "Dairies/2026-03-02.md"
     },
     {
       "basename": "placement new",
@@ -11,10 +31,6 @@
     {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "2026-02-28",
@@ -79,10 +95,6 @@
     {
       "basename": "方向",
       "path": "Temp/方向.md"
-    },
-    {
-      "basename": "STL源码剖析",
-      "path": "Templates/Homepage/STL源码剖析.md"
     },
     {
       "basename": "凡人修仙传 第五季",
@@ -161,10 +173,6 @@
       "path": "Software/学习建立动画库.md"
     },
     {
-      "basename": "学习科目四",
-      "path": "Dairies/学习科目四.md"
-    },
-    {
       "basename": "堆",
       "path": "数据结构/堆.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "shared_ptr",
       "path": "Dairies/shared_ptr.md"
-    },
-    {
-      "basename": "Effctive STL",
-      "path": "Templates/Homepage/Effctive STL.md"
-    },
-    {
-      "basename": "Diet_template",
-      "path": "Templates/Diet_template.md"
     }
   ],
   "omittedPaths": [],
