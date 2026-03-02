@@ -103,8 +103,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/STL源码剖析.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "STL源码剖析 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -382,8 +381,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cbe7f62428867d94",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/STL源码剖析.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/Effctive STL.md",
     "Templates/Homepage/学习C++.md",
@@ -415,7 +415,6 @@
     "操作系统/内存处理基本函数.md",
     "操作系统/手撕string.md",
     "Dairies/2026-02-21.md",
-    "Templates/Homepage/STL源码剖析_第2章 空間配置器.md",
     "Projects/anime",
     "Projects",
     "Templates/ACGbangumiv2.1.js",

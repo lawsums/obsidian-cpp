@@ -112,12 +112,12 @@
   - [ ] 5.11 hash_multimap
 
 ## 1.6 第6章 演算法（algorithms）
-  - [ ] 6.1 演算法概觀
+  - [x] 6.1 演算法概觀
     - [x] 6.1.1 演算法分析與複雜度表示 O( )
     - [x] 6.1.2 STL 演算法分類
-    - [ ] 6.1.3 mutating algorithms — 會改變操作對象之值
-    - [ ] 6.1.4 nonmutating algorithms — 不改變操作對象之值
-    - [ ] 6.1.5 STL 演算法的一般型式
+    - [x] 6.1.3 mutating algorithms — 會改變操作對象之值
+    - [x] 6.1.4 nonmutating algorithms — 不改變操作對象之值
+    - [x] 6.1.5 STL 演算法的一般型式
   - [ ] 6.2 演算法的泛化過程
   - [ ] 6.3 數值演算法 <stl_numeric.h>
     - [ ] 6.3.1 運用實例
