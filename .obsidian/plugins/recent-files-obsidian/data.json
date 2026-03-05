@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "101.对称二叉树",
+      "path": "Leetcode/101.对称二叉树.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "000_框架",
       "path": "项目/分布式缓存/000_框架.md"
-    },
-    {
-      "basename": "shared_ptr",
-      "path": "Dairies/shared_ptr.md"
     }
   ],
   "omittedPaths": [],
