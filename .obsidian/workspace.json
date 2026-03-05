@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "58f59b1412ba3947",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习C++"
+            }
+          },
+          {
+            "id": "eb0f3f17a25d354e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/C++知识学习.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++知识学习"
+            }
+          },
+          {
             "id": "fe0924e2f6c0e32a",
             "type": "leaf",
             "state": {
@@ -55,8 +103,7 @@
               "title": "101.对称二叉树"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/101.对称二叉树.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "101.对称二叉树 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -334,18 +381,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fe0924e2f6c0e32a",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Leetcode/101.对称二叉树.cpp",
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/C++知识学习.md",
+    "Leetcode/101.对称二叉树.md",
+    "Templates/Homepage/C++课程.md",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/101.对称二叉树.cpp",
     "Leetcode/images/101_1698027008-nPFLbM-image.png",
     "Leetcode/images/101_1698026966-JDYPDU-image.png",
-    "Leetcode/101.对称二叉树.md",
     "Dairies/2026-03-05.md",
     "Dairies/2026-03-04.md",
     "Templates/Homepage/STL源码剖析.md",
     "Templates/Homepage/Effctive STL.md",
-    "Templates/Homepage/学习C++.md",
     "Dairies/学习科目四.md",
     "Dairies/2026-03-02.md",
     "操作系统/placement new.md",
@@ -369,7 +418,6 @@
     "Temp/007_书籍.md",
     "Clippings/2026-02-11-write_title.md",
     "Temp/003_不定期任务.md",
-    "Dairies/2026-02-27.md",
     "Projects/anime",
     "Projects",
     "Templates/ACGbangumiv2.1.js",
@@ -377,7 +425,6 @@
     "Projects/assets/我们不可能成为恋人！绝对不行。(※似乎可行!_).webp",
     "Projects/assets",
     "项目/分布式缓存",
-    "Templates/AddWord.js",
     "项目/卡码缓存/卡码缓存系统/img/jFMyKnmcjNAccbPe/1733797305835-2df39ca6-c3f3-4a04-8781-d4b9d63d6acd-620953.png",
     "项目/卡码缓存/卡码缓存系统/img/jFMyKnmcjNAccbPe/1733751073658-2c7d599a-b244-491b-a0fa-ab5ec722cb56-857731.png",
     "项目/卡码缓存/卡码缓存系统/img/jFMyKnmcjNAccbPe/1733747775068-c066db38-807d-42a7-adf6-18492075db89-551715.png",
