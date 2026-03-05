@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "58f59b1412ba3947",
+            "id": "1b61bd854435e6f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
+                "file": "Templates/Homepage/学习esp32s3.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,58 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "学习C++"
-            }
-          },
-          {
-            "id": "eb0f3f17a25d354e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/C++知识学习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "C++知识学习"
-            }
-          },
-          {
-            "id": "fe0924e2f6c0e32a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/101.对称二叉树.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "101.对称二叉树"
+              "title": "学习esp32s3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习esp32s3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习esp32s3 的大纲"
             }
           },
           {
@@ -381,13 +334,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "1b61bd854435e6f1",
   "lastOpenFiles": [
+    "Dairies/2026-03-06.md",
+    "Dairies/2026-03-07.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/C++知识学习.md",
     "Leetcode/101.对称二叉树.md",
     "Templates/Homepage/C++课程.md",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/101.对称二叉树.cpp",
     "Leetcode/images/101_1698027008-nPFLbM-image.png",
     "Leetcode/images/101_1698026966-JDYPDU-image.png",
@@ -416,8 +371,6 @@
     "Temp/Javascript现代教程.md",
     "Temp/004_闪念.md",
     "Temp/007_书籍.md",
-    "Clippings/2026-02-11-write_title.md",
-    "Temp/003_不定期任务.md",
     "Projects/anime",
     "Projects",
     "Templates/ACGbangumiv2.1.js",
