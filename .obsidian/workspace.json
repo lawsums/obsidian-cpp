@@ -55,8 +55,7 @@
               "title": "学习esp32s3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习esp32s3.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习esp32s3 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -334,8 +333,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1b61bd854435e6f1",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习esp32s3.md",
     "Dairies/2026-03-06.md",
     "Dairies/2026-03-07.md",
     "Templates/Homepage/Homepage.md",
@@ -355,7 +355,6 @@
     "操作系统/placement new.md",
     "Templates/Homepage/面试题系列.md",
     "Dairies/2026-02-28.md",
-    "Templates/Homepage/学习esp32s3.md",
     "Dairies/2026-03-01.md",
     "Dairies/2026-03-03.md",
     "Pandoc/~$26年3月经典阅读读后感.docx",
