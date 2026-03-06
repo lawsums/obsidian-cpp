@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "e8d05d7c2e0e865d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/学习科目四.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习科目四"
-            }
-          },
-          {
             "id": "1b61bd854435e6f1",
             "type": "leaf",
             "state": {
@@ -79,8 +55,7 @@
               "title": "学习esp32s3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/学习科目四.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习科目四 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -358,8 +333,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e8d05d7c2e0e865d",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习esp32s3.md",
+    "Dairies/学习科目四.md",
     "操作系统/tie和apply有什么作用.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
@@ -370,8 +347,6 @@
     "Leetcode/images/25_reverse_ex2.jpg",
     "Leetcode/2.md",
     "Leetcode/images/25_reverse_ex1.jpg",
-    "Dairies/学习科目四.md",
-    "Templates/Homepage/学习esp32s3.md",
     "Dairies/2026-03-06.md",
     "Dairies/2026-03-07.md",
     "Templates/Homepage/学习C++.md",

@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习esp32s3",
+      "path": "Templates/Homepage/学习esp32s3.md"
+    },
+    {
       "basename": "学习科目四",
       "path": "Dairies/学习科目四.md"
     },
@@ -9,16 +17,8 @@
       "path": "操作系统/tie和apply有什么作用.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "25.K 个一组翻转链表",
       "path": "Leetcode/25.K 个一组翻转链表.md"
-    },
-    {
-      "basename": "学习esp32s3",
-      "path": "Templates/Homepage/学习esp32s3.md"
     },
     {
       "basename": "学习C++",
