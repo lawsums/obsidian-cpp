@@ -79,7 +79,8 @@
               "title": "学习esp32s3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/学习科目四.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习科目四 的大纲"
             }
           },
           {
@@ -357,10 +358,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "e8d05d7c2e0e865d",
   "lastOpenFiles": [
-    "Dairies/学习科目四.md",
+    "操作系统/tie和apply有什么作用.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/实现自己的数据结构.md",
+    "Leetcode/25.K 个一组翻转链表.md",
+    "Leetcode/25.K 个一组翻转链表.cpp",
+    "Leetcode/1.cpp",
+    "Leetcode/2.cpp",
+    "Leetcode/images/25_reverse_ex2.jpg",
+    "Leetcode/2.md",
+    "Leetcode/images/25_reverse_ex1.jpg",
+    "Dairies/学习科目四.md",
     "Templates/Homepage/学习esp32s3.md",
     "Dairies/2026-03-06.md",
     "Dairies/2026-03-07.md",
@@ -386,25 +396,16 @@
     "Projects/manga",
     "Projects/anime/辉夜大小姐想让我告白 通往大人的阶梯.md",
     "Projects/anime/乱马1 2.md",
-    "Leetcode/98.验证二叉搜索树.md",
     "Leetcode/98.验证二叉搜索树.cpp~",
     "Leetcode/98.验证二叉搜索树.cpp",
     "Leetcode/images/98_tree2.jpg",
     "Leetcode/images/98_tree1.jpg",
-    "Temp/Javascript现代教程.md",
-    "Temp/004_闪念.md",
-    "Temp/007_书籍.md",
     "Projects/anime",
     "Projects",
-    "Templates/ACGbangumiv2.1.js",
     "Projects/assets/魔王2099.webp",
     "Projects/assets/我们不可能成为恋人！绝对不行。(※似乎可行!_).webp",
-    "Projects/assets",
-    "项目/分布式缓存",
     "项目/卡码缓存/卡码缓存系统/img/jFMyKnmcjNAccbPe/1733797305835-2df39ca6-c3f3-4a04-8781-d4b9d63d6acd-620953.png",
     "项目/卡码缓存/卡码缓存系统/img/jFMyKnmcjNAccbPe/1733751073658-2c7d599a-b244-491b-a0fa-ab5ec722cb56-857731.png",
-    "项目/卡码缓存/卡码缓存系统/img/jFMyKnmcjNAccbPe/1733747775068-c066db38-807d-42a7-adf6-18492075db89-551715.png",
-    "项目/卡码缓存/卡码缓存系统/img/jFMyKnmcjNAccbPe/1733398286151-62bb4584-7d22-4429-be3f-14297f148fd9-475616.png",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]

@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "学习科目四",
+      "path": "Dairies/学习科目四.md"
+    },
+    {
+      "basename": "tie和apply有什么作用",
+      "path": "操作系统/tie和apply有什么作用.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "学习科目四",
-      "path": "Dairies/学习科目四.md"
+      "basename": "25.K 个一组翻转链表",
+      "path": "Leetcode/25.K 个一组翻转链表.md"
     },
     {
       "basename": "学习esp32s3",
@@ -191,14 +199,6 @@
     {
       "basename": "排序板子",
       "path": "代码模版/排序板子.md"
-    },
-    {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
-      "basename": "000_框架",
-      "path": "项目/分布式缓存/000_框架.md"
     }
   ],
   "omittedPaths": [],
