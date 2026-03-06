@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "e8d05d7c2e0e865d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/学习科目四.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习科目四"
+            }
+          },
+          {
             "id": "1b61bd854435e6f1",
             "type": "leaf",
             "state": {
@@ -335,10 +359,11 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/学习科目四.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习esp32s3.md",
     "Dairies/2026-03-06.md",
     "Dairies/2026-03-07.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/C++知识学习.md",
     "Leetcode/101.对称二叉树.md",
@@ -350,7 +375,6 @@
     "Dairies/2026-03-04.md",
     "Templates/Homepage/STL源码剖析.md",
     "Templates/Homepage/Effctive STL.md",
-    "Dairies/学习科目四.md",
     "Dairies/2026-03-02.md",
     "操作系统/placement new.md",
     "Templates/Homepage/面试题系列.md",
