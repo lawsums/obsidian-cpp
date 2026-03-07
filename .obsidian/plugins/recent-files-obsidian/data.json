@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学习esp32s3",
+      "path": "Templates/Homepage/学习esp32s3.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "147. 对链表进行插入排序",
       "path": "Leetcode/147. 对链表进行插入排序.md"
-    },
-    {
-      "basename": "学习esp32s3",
-      "path": "Templates/Homepage/学习esp32s3.md"
     },
     {
       "basename": "学习科目四",
