@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -257,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/实现自己的数据结构.md",
+                "file": "操作系统/手撕string.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实现自己的数据结构 的大纲"
+              "title": "手撕string 的大纲"
             }
           },
           {
@@ -406,11 +406,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "548ade1fe8a5ee79",
+  "active": "ef1e1c9077a16060",
   "lastOpenFiles": [
+    "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/Homepage.md",
     "操作系统/手撕string.md",
-    "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/学习esp32s3.md",
     "Dairies/2026-03-16.md",
     "Templates/Homepage/学习C++.md",
