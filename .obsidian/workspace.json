@@ -54,19 +54,8 @@
               "icon": "lucide-file",
               "title": "学习C++"
             }
-          },
-          {
-            "id": "ec468633c4a4ec23",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,12 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -343,7 +333,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ec468633c4a4ec23",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/学习C++.md",
     "Leetcode/25.K 个一组翻转链表.md",
