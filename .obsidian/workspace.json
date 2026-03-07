@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "1b61bd854435e6f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习esp32s3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习esp32s3"
-            }
           }
         ]
       }
@@ -335,6 +311,7 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-03-08.md",
     "Templates/Homepage/学习esp32s3.md",
     "Dairies/学习科目四.md",
     "操作系统/tie和apply有什么作用.md",
@@ -370,7 +347,6 @@
     "Projects/manga/仆少女.md",
     "Projects/manga",
     "Projects/anime/辉夜大小姐想让我告白 通往大人的阶梯.md",
-    "Projects/anime/乱马1 2.md",
     "Leetcode/98.验证二叉搜索树.cpp~",
     "Leetcode/98.验证二叉搜索树.cpp",
     "Leetcode/images/98_tree2.jpg",
