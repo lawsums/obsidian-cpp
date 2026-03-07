@@ -30,105 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "3089b360f8cef9ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/方向.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "方向"
-            }
-          },
-          {
-            "id": "548ade1fe8a5ee79",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/string.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "string"
-            }
-          },
-          {
-            "id": "ac0e4a2a5e99c091",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "代码模版/KMP板子.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "KMP板子"
-            }
-          },
-          {
-            "id": "ef1e1c9077a16060",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/手撕string.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "手撕string"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/方向.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "方向 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -406,15 +309,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3089b360f8cef9ef",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Temp/方向.md",
+    "Temp/微软100题.md",
+    "Dairies/2026-03-09.md",
+    "Temp/003_不定期任务.md",
     "Templates/Homepage/Homepage.md",
-    "Dairies/string.md",
+    "Temp/Art of programming.md",
+    "Temp/007_书籍.md",
     "代码模版/KMP板子.md",
+    "操作系统/手撕string.md",
+    "Dairies/string.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/2026-03-16.md",
     "Dairies/实现自己的数据结构.md",
-    "操作系统/手撕string.md",
     "Templates/Homepage/学习esp32s3.md",
     "Dairies/2026-01-05.md",
     "Dairies/2026-04-27.md",
@@ -438,15 +347,9 @@
     "Leetcode/2.md",
     "Leetcode/images/25_reverse_ex1.jpg",
     "Dairies/2026-03-06.md",
-    "Dairies/2026-03-07.md",
-    "Leetcode/101.对称二叉树.md",
-    "Templates/Homepage/C++课程.md",
     "Leetcode/101.对称二叉树.cpp",
     "Leetcode/images/101_1698027008-nPFLbM-image.png",
     "Leetcode/images/101_1698026966-JDYPDU-image.png",
-    "Dairies/2026-03-05.md",
-    "Dairies/2026-03-04.md",
-    "Templates/Homepage/STL源码剖析.md",
     "Pandoc/~$26年3月经典阅读读后感.docx",
     "Projects/manga",
     "Leetcode/98.验证二叉搜索树.cpp~",
