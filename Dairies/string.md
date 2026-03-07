@@ -1,7 +1,8 @@
 - [x] 实现 push_back/pop_back
 - [x] 实现 chop (n)
-- [ ] 实现 contain (kmp)
-- [ ] 实现 index_of/last_index_of
+- [x] 实现 contain (kmp)
+- [x] 实现 index_of
+- [ ] 实现 last_index_of
 - [ ] 实现 split
 - [ ] 实现 join
 - [ ] 实现 shift
