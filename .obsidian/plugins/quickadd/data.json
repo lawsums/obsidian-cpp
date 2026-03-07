@@ -694,6 +694,45 @@
           }
         },
         {
+          "id": "dd35dce3-7ab6-4c60-81d0-47d6a56a570d",
+          "name": "Task_to_selected_day",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "Dairies/{{VALUE:日期}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "Templates/Daily_note_template.md"
+          },
+          "format": {
+            "enabled": false,
+            "format": ""
+          },
+          "insertAfter": {
+            "enabled": true,
+            "after": "## 今天的待办项",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": false,
+          "task": true,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          }
+        },
+        {
           "id": "c9c655b4-4eff-4272-8da8-41237ad4da3c",
           "name": "Create_t",
           "type": "Capture",
@@ -724,45 +763,6 @@
           },
           "prepend": true,
           "task": false,
-          "openFile": false,
-          "fileOpening": {
-            "location": "tab",
-            "direction": "vertical",
-            "mode": "default",
-            "focus": true
-          }
-        },
-        {
-          "id": "dd35dce3-7ab6-4c60-81d0-47d6a56a570d",
-          "name": "Task_to_selected_day",
-          "type": "Capture",
-          "command": true,
-          "appendLink": false,
-          "captureTo": "Dairies/{{value}}",
-          "captureToActiveFile": false,
-          "createFileIfItDoesntExist": {
-            "enabled": true,
-            "createWithTemplate": true,
-            "template": "Templates/Daily_note_template.md"
-          },
-          "format": {
-            "enabled": false,
-            "format": ""
-          },
-          "insertAfter": {
-            "enabled": true,
-            "after": "## 今天的待办项",
-            "insertAtEnd": false,
-            "considerSubsections": false,
-            "createIfNotFound": false,
-            "createIfNotFoundLocation": "top"
-          },
-          "newLineCapture": {
-            "enabled": false,
-            "direction": "below"
-          },
-          "prepend": false,
-          "task": true,
           "openFile": false,
           "fileOpening": {
             "location": "tab",

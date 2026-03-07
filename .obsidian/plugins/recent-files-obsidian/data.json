@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "2026-03-16",
       "path": "Dairies/2026-03-16.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "2026-03-30",
+      "path": "Dairies/2026-03-30.md"
     },
     {
       "basename": "学习C++",
@@ -195,10 +199,6 @@
     {
       "basename": "堆",
       "path": "数据结构/堆.md"
-    },
-    {
-      "basename": "005_KTV歌单",
-      "path": "Temp/005_KTV歌单.md"
     }
   ],
   "omittedPaths": [],
