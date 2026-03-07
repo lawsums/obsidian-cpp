@@ -79,8 +79,7 @@
               "title": "2026-03-16"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/2026-03-16.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-16 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -358,10 +357,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1064e2cbe212a236",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-03-16.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Leetcode/25.K 个一组翻转链表.md",
     "Templates/Homepage/C++知识学习.md",
