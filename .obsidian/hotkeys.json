@@ -1,5 +1,6 @@
 {
   "terminal:find-in-terminal": [],
+  "terminal:clear-terminal": [],
   "editor:open-search-replace": [
     {
       "modifiers": [
@@ -398,6 +399,13 @@
   "editor:save-file": [],
   "workspace:close-window": [],
   "easy-typing-obsidian:easy-typing-delete-blank-line": [],
-  "terminal:clear-terminal": [],
-  "templater-obsidian:insert-templater": []
+  "templater-obsidian:insert-templater": [],
+  "obsidian-shellcommands:shell-command-2bfsb259a1": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
+    }
+  ]
 }

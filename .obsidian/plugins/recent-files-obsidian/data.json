@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "147. 对链表进行插入排序",
       "path": "Leetcode/147. 对链表进行插入排序.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "25.K 个一组翻转链表",
+      "path": "Leetcode/25.K 个一组翻转链表.md"
     },
     {
       "basename": "学习esp32s3",
@@ -19,10 +23,6 @@
     {
       "basename": "tie和apply有什么作用",
       "path": "操作系统/tie和apply有什么作用.md"
-    },
-    {
-      "basename": "25.K 个一组翻转链表",
-      "path": "Leetcode/25.K 个一组翻转链表.md"
     },
     {
       "basename": "学习C++",

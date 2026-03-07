@@ -100,7 +100,7 @@
     {
       "id": "2bfsb259a1",
       "platform_specific_commands": {
-        "default": "code \"{{folder_name}}\\{{title}}.cpp\""
+        "default": "code . --file \"{{folder_name}}\\{{title}}.cpp\""
       },
       "shells": {},
       "alias": "open_cpp_in_vscode",
