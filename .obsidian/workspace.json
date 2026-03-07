@@ -56,51 +56,13 @@
             }
           },
           {
-            "id": "2e0af7eaed1b4bde",
+            "id": "ec468633c4a4ec23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/C++知识学习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "C++知识学习"
-            }
-          },
-          {
-            "id": "9987d7525613eb86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/25.K 个一组翻转链表.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "25.K 个一组翻转链表"
+              "title": "新标签页"
             }
           }
         ],
@@ -233,13 +195,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/C++知识学习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "C++知识学习 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -382,12 +343,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2e0af7eaed1b4bde",
+  "active": "ec468633c4a4ec23",
   "lastOpenFiles": [
     "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/Homepage.md",
-    "Leetcode/147. 对链表进行插入排序.md",
     "Leetcode/25.K 个一组翻转链表.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/C++知识学习.md",
+    "Leetcode/147. 对链表进行插入排序.md",
     "Leetcode/147. 对链表进行插入排序.cpp~",
     "Leetcode/147. 对链表进行插入排序.cpp",
     "Leetcode/images/147_1724130432-zoOvdI-image.png",
@@ -406,7 +368,6 @@
     "Leetcode/images/25_reverse_ex1.jpg",
     "Dairies/2026-03-06.md",
     "Dairies/2026-03-07.md",
-    "Templates/Homepage/C++知识学习.md",
     "Leetcode/101.对称二叉树.md",
     "Templates/Homepage/C++课程.md",
     "Leetcode/101.对称二叉树.cpp",
