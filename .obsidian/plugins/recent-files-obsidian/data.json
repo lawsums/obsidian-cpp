@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-03-16",
+      "path": "Dairies/2026-03-16.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "005_KTV歌单",
       "path": "Temp/005_KTV歌单.md"
-    },
-    {
-      "basename": "堆板子",
-      "path": "代码模版/堆板子.md"
     }
   ],
   "omittedPaths": [],

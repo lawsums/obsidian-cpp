@@ -1061,45 +1061,6 @@
           }
         ]
       }
-    },
-    {
-      "id": "31c58938-9a5d-4534-8ffc-84bf18cd993d",
-      "name": "Task_to_selected_day",
-      "type": "Capture",
-      "command": true,
-      "appendLink": false,
-      "captureTo": "",
-      "captureToActiveFile": false,
-      "createFileIfItDoesntExist": {
-        "enabled": true,
-        "createWithTemplate": true,
-        "template": "Templates/Daily_note_template.md"
-      },
-      "format": {
-        "enabled": false,
-        "format": ""
-      },
-      "insertAfter": {
-        "enabled": true,
-        "after": "## 今天的待办项",
-        "insertAtEnd": false,
-        "considerSubsections": false,
-        "createIfNotFound": false,
-        "createIfNotFoundLocation": "top"
-      },
-      "newLineCapture": {
-        "enabled": false,
-        "direction": "below"
-      },
-      "prepend": false,
-      "task": true,
-      "openFile": false,
-      "fileOpening": {
-        "location": "tab",
-        "direction": "vertical",
-        "mode": "default",
-        "focus": true
-      }
     }
   ],
   "inputPrompt": "single-line",
