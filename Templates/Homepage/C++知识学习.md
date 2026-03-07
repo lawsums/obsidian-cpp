@@ -50,7 +50,7 @@
 - [ ] 34.右值引用和移动语义(下)
 - [x] 35.完美转发
 - [ ] 36.常量表达式和constexpr
-- [ ] 37.decltype运算符
+- [x] 37.decltype运算符
 - [x] 38.类的特殊成员函数
 - [ ] 39.类型特征Type Traits
 - [x] 40.Algorithm算法库
@@ -69,12 +69,12 @@
 - [ ] 53.原子类型atomic_flag
 - [ ] 54.无锁算法和结构，CAS原子操作
 - [ ] 55.内存模型与顺序
-- [ ] 56.概念和约束（Concept, Constraint, Req...
+- [x] 56.概念和约束（Concept, Constraint, Req...
 - [x] 57.模块Module
 - [x] 58.范围和视图Ranges & View
-- [ ] 59.可存储任意类型的std::any容器
-- [ ] 60.变体variant
-- [ ] 61.用std::optional & std::expected改进你的错...
+- [x] 59.可存储任意类型的std::any容器
+- [x] 60.变体variant
+- [x] 61.用std::optional & std::expected改进你的错...
 - [ ] 62 CPO & Niebloid
 - [ ] 63.正则表达式Regular Expression - Regex
 - [ ] 64.用户定义字面量User Defined Literal
@@ -171,3 +171,4 @@
 * 2026-02-23 - 1
 * 2026-02-24 - 1
 * 2026-03-05 - 1
+* 2026-03-07 - 1
