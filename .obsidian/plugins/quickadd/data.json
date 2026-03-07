@@ -1064,11 +1064,11 @@
     },
     {
       "id": "31c58938-9a5d-4534-8ffc-84bf18cd993d",
-      "name": "Task_to_afterday (copy)",
+      "name": "Task_to_selected_day",
       "type": "Capture",
       "command": true,
       "appendLink": false,
-      "captureTo": "Dairies/{{DATE:+2}}",
+      "captureTo": "",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
         "enabled": true,
