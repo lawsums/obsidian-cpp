@@ -127,8 +127,7 @@
               "title": "2026-03-16"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/手撕string.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "手撕string 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -406,11 +405,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ef1e1c9077a16060",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "操作系统/手撕string.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/Homepage.md",
-    "操作系统/手撕string.md",
     "Templates/Homepage/学习esp32s3.md",
     "Dairies/2026-03-16.md",
     "Templates/Homepage/学习C++.md",
