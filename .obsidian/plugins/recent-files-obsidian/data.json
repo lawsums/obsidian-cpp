@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "373. 查找和最小的 K 对数字",
       "path": "Leetcode/373. 查找和最小的 K 对数字.md"
     },
     {
       "basename": "Art of programming",
       "path": "Temp/Art of programming.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "007_书籍",

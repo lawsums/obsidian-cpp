@@ -55,8 +55,7 @@
               "title": "373. 查找和最小的 K 对数字"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/373. 查找和最小的 K 对数字.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "373. 查找和最小的 K 对数字 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -334,8 +333,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "551adba63c30dc2a",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Leetcode/373. 查找和最小的 K 对数字.md",
     "Temp/Art of programming.md",
     "Templates/Homepage/Homepage.md",
     "Temp/007_书籍.md",
@@ -371,7 +371,6 @@
     "Leetcode/images/25_reverse_ex2.jpg",
     "Leetcode/2.md",
     "Leetcode/images/25_reverse_ex1.jpg",
-    "Dairies/2026-03-06.md",
     "Leetcode/101.对称二叉树.cpp",
     "Leetcode/images/101_1698027008-nPFLbM-image.png",
     "Leetcode/images/101_1698026966-JDYPDU-image.png",
