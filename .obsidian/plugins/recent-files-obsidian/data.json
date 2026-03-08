@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-03-08",
+      "path": "Dairies/2026-03-08.md"
+    },
+    {
+      "basename": "2026-03-09",
+      "path": "Dairies/2026-03-09.md"
+    },
+    {
       "basename": "学习esp32s3",
       "path": "Templates/Homepage/学习esp32s3.md"
+    },
+    {
+      "basename": "C++课程",
+      "path": "Templates/Homepage/C++课程.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "C++知识学习",
+      "path": "Templates/Homepage/C++知识学习.md"
     },
     {
       "basename": "373. 查找和最小的 K 对数字",
@@ -45,16 +73,8 @@
       "path": "Dairies/string.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
       "basename": "2026-03-16",
       "path": "Dairies/2026-03-16.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "2026-03-30",
@@ -63,10 +83,6 @@
     {
       "basename": "25.K 个一组翻转链表",
       "path": "Leetcode/25.K 个一组翻转链表.md"
-    },
-    {
-      "basename": "C++知识学习",
-      "path": "Templates/Homepage/C++知识学习.md"
     },
     {
       "basename": "147. 对链表进行插入排序",
@@ -85,10 +101,6 @@
       "path": "Leetcode/101.对称二叉树.md"
     },
     {
-      "basename": "C++课程",
-      "path": "Templates/Homepage/C++课程.md"
-    },
-    {
       "basename": "STL源码剖析",
       "path": "Templates/Homepage/STL源码剖析.md"
     },
@@ -103,10 +115,6 @@
     {
       "basename": "placement new",
       "path": "操作系统/placement new.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
     },
     {
       "basename": "2026-02-28",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-02-23",
       "path": "Dairies/2026-02-23.md"
-    },
-    {
-      "basename": "which-key插件",
-      "path": "Temp/which-key插件.md"
-    },
-    {
-      "basename": "prefix_link插件",
-      "path": "Temp/prefix_link插件.md"
     }
   ],
   "omittedPaths": [],

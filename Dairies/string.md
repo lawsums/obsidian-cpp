@@ -5,5 +5,5 @@
 - [ ] 实现 last_index_of
 - [ ] 实现 split
 - [ ] 实现 join
-- [ ] 实现 shift
+- [x] 实现 shift
 - [ ] 实现 splice
