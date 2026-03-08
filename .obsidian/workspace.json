@@ -32,55 +32,7 @@
             }
           },
           {
-            "id": "28a21bb8d435b9f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/实现自己的数据结构.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "实现自己的数据结构"
-            }
-          },
-          {
-            "id": "8688a99abd731656",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/2026-03-08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-08"
-            }
-          },
-          {
-            "id": "89b35aa36c6feee4",
+            "id": "f0865b1bbf91e5e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -101,30 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "学习esp32s3"
-            }
-          },
-          {
-            "id": "e874394fdd6228d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习C++"
             }
           },
           {
@@ -151,8 +79,7 @@
               "title": "C++课程"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/实现自己的数据结构.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实现自己的数据结构 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -430,18 +357,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "28a21bb8d435b9f2",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
-    "Dairies/实现自己的数据结构.md",
-    "Dairies/2026-03-08.md",
-    "Dairies/2026-03-09.md",
     "Templates/Homepage/学习esp32s3.md",
     "Templates/Homepage/C++课程.md",
-    "Templates/Homepage/面试题系列.md",
+    "Dairies/2026-04-12.md",
+    "Dairies/2026-04-05.md",
+    "Dairies/2026-03-29.md",
+    "Dairies/2026-03-22.md",
+    "Dairies/2026-03-15.md",
     "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/C++知识学习.md",
+    "Templates/Homepage/Homepage.md",
     "Dairies/2026-03-14.md",
+    "Dairies/2026-03-08.md",
+    "Dairies/string.md",
+    "Dairies/实现自己的数据结构.md",
+    "Dairies/2026-03-09.md",
+    "Templates/Homepage/面试题系列.md",
+    "Templates/Homepage/C++知识学习.md",
     "Leetcode/373. 查找和最小的 K 对数字.md",
     "Temp/Art of programming.md",
     "Temp/007_书籍.md",
@@ -450,14 +383,8 @@
     "Temp/003_不定期任务.md",
     "代码模版/KMP板子.md",
     "操作系统/手撕string.md",
-    "Dairies/string.md",
     "Dairies/2026-03-16.md",
     "Dairies/2026-01-05.md",
-    "Dairies/2026-04-27.md",
-    "Dairies/2026-04-13.md",
-    "Dairies/2026-03-30.md",
-    "Leetcode/25.K 个一组翻转链表.md",
-    "Leetcode/147. 对链表进行插入排序.md",
     "Leetcode/147. 对链表进行插入排序.cpp~",
     "Leetcode/147. 对链表进行插入排序.cpp",
     "Leetcode/images/147_1724130432-zoOvdI-image.png",
