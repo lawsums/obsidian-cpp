@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp/Art of programming.md",
+                "file": "Leetcode/373. 查找和最小的 K 对数字.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Art of programming"
+              "title": "373. 查找和最小的 K 对数字"
             }
           }
         ],
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/Art of programming.md",
+                "file": "Leetcode/373. 查找和最小的 K 对数字.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Art of programming 的大纲"
+              "title": "373. 查找和最小的 K 对数字 的大纲"
             }
           },
           {
@@ -336,8 +336,8 @@
   },
   "active": "551adba63c30dc2a",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Temp/Art of programming.md",
+    "Templates/Homepage/Homepage.md",
     "Temp/007_书籍.md",
     "Temp/方向.md",
     "Temp/微软100题.md",

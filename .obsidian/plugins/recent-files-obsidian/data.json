@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "373. 查找和最小的 K 对数字",
+      "path": "Leetcode/373. 查找和最小的 K 对数字.md"
+    },
+    {
       "basename": "Art of programming",
       "path": "Temp/Art of programming.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "prefix_link插件",
       "path": "Temp/prefix_link插件.md"
-    },
-    {
-      "basename": "obsidian-quick-file-yank",
-      "path": "Temp/obsidian-quick-file-yank.md"
     }
   ],
   "omittedPaths": [],
