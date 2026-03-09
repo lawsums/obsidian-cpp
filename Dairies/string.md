@@ -8,3 +8,9 @@
 - [x] 实现 shift
 - [ ] 实现 splice
 - [ ] 实现反向迭代器
+- [ ] Left
+- [ ] Mid
+- [ ] Right
+- [ ] Remove
+- [ ] Replace
+- [ ] Prepend
