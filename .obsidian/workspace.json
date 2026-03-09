@@ -127,8 +127,7 @@
               "title": "Art of programming"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/003_不定期任务.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "003_不定期任务 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -406,8 +405,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7cb377c70a9fe1b7",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Temp/003_不定期任务.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/2026-03-09.md",
@@ -423,7 +423,6 @@
     "Dairies/2026-03-13.md",
     "Leetcode/297.二叉树的序列化与反序列化.md",
     "Temp/微软100题.md",
-    "Temp/003_不定期任务.md",
     "Leetcode/297.二叉树的序列化与反序列化.cpp",
     "Leetcode/images/297_serdeser.jpg",
     "Dairies/2026-03-10.md",
