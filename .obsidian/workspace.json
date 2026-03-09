@@ -103,8 +103,7 @@
               "title": "297.二叉树的序列化与反序列化"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/Art of programming.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Art of programming 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -382,8 +381,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8f7937642089cf74",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Temp/Art of programming.md",
     "Templates/Homepage/Homepage.md",
     "Temp/微软100题.md",
     "Temp/003_不定期任务.md",
@@ -407,7 +407,6 @@
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/C++知识学习.md",
     "Leetcode/373. 查找和最小的 K 对数字.md",
-    "Temp/Art of programming.md",
     "Temp/007_书籍.md",
     "Temp/方向.md",
     "代码模版/KMP板子.md",
