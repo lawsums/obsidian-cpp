@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Art of programming",
+      "path": "Temp/Art of programming.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "微软100题",
+      "path": "Temp/微软100题.md"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Temp/003_不定期任务.md"
     },
     {
       "basename": "297.二叉树的序列化与反序列化",
@@ -73,24 +85,12 @@
       "path": "Leetcode/373. 查找和最小的 K 对数字.md"
     },
     {
-      "basename": "Art of programming",
-      "path": "Temp/Art of programming.md"
-    },
-    {
       "basename": "007_书籍",
       "path": "Temp/007_书籍.md"
     },
     {
       "basename": "方向",
       "path": "Temp/方向.md"
-    },
-    {
-      "basename": "微软100题",
-      "path": "Temp/微软100题.md"
-    },
-    {
-      "basename": "003_不定期任务",
-      "path": "Temp/003_不定期任务.md"
     },
     {
       "basename": "KMP板子",
