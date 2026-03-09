@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "297.二叉树的序列化与反序列化",
+      "path": "Leetcode/297.二叉树的序列化与反序列化.md"
+    },
+    {
       "basename": "2026-03-09",
       "path": "Dairies/2026-03-09.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "四叠半神话大系",
       "path": "Projects/anime/四叠半神话大系.md"
-    },
-    {
-      "basename": "化物语",
-      "path": "Projects/anime/化物语.md"
     }
   ],
   "omittedPaths": [],

@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "8e82b5aa49d14f82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/297.二叉树的序列化与反序列化.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "297.二叉树的序列化与反序列化"
+            }
           }
         ]
       }
@@ -311,8 +335,11 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Dairies/2026-03-09.md",
+    "Leetcode/297.二叉树的序列化与反序列化.md",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/297.二叉树的序列化与反序列化.cpp",
+    "Leetcode/images/297_serdeser.jpg",
+    "Dairies/2026-03-09.md",
     "Dairies/2026-03-10.md",
     "Templates/Homepage/学习esp32s3.md",
     "Templates/Homepage/C++课程.md",
@@ -335,8 +362,6 @@
     "Temp/微软100题.md",
     "Temp/003_不定期任务.md",
     "代码模版/KMP板子.md",
-    "操作系统/手撕string.md",
-    "Dairies/2026-03-16.md",
     "Leetcode/147. 对链表进行插入排序.cpp~",
     "Leetcode/147. 对链表进行插入排序.cpp",
     "Leetcode/images/147_1724130432-zoOvdI-image.png",
@@ -353,10 +378,8 @@
     "Pandoc/~$26年3月经典阅读读后感.docx",
     "Projects/manga",
     "Leetcode/98.验证二叉搜索树.cpp~",
-    "Leetcode/98.验证二叉搜索树.cpp",
     "Leetcode/images/98_tree2.jpg",
     "Leetcode/images/98_tree1.jpg",
-    "Projects/assets/魔王2099.webp",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
