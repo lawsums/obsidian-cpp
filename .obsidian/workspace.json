@@ -103,8 +103,7 @@
               "title": "Art of programming"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/实现自己的数据结构.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实现自己的数据结构 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -382,10 +381,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1ef68c0d6a541a3a",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Dairies/2026-01-04.md",
     "Dairies/实现自己的数据结构.md",
+    "Dairies/2026-01-04.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/string.md",
     "Templates/Homepage/学习C++.md",
