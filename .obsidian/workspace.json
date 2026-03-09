@@ -78,57 +78,8 @@
               "icon": "lucide-file",
               "title": "Art of programming"
             }
-          },
-          {
-            "id": "ce220437ee2782a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/微软100题.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "微软100题"
-            }
-          },
-          {
-            "id": "8e82b5aa49d14f82",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/297.二叉树的序列化与反序列化.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "297.二叉树的序列化与反序列化"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/微软100题.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "微软100题 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -406,35 +357,36 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ce220437ee2782a7",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Dairies/string.md",
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/C++课程.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习esp32s3.md",
+    "Dairies/2026-03-09.md",
     "Dairies/实现自己的数据结构.md",
+    "操作系统/const和constexpr的关系.md",
     "Temp/Art of programming.md",
+    "未命名.md",
+    "Dairies/2026-03-13.md",
+    "Leetcode/297.二叉树的序列化与反序列化.md",
     "Temp/微软100题.md",
     "Temp/003_不定期任务.md",
-    "Leetcode/297.二叉树的序列化与反序列化.md",
     "Leetcode/297.二叉树的序列化与反序列化.cpp",
     "Leetcode/images/297_serdeser.jpg",
-    "Dairies/2026-03-09.md",
     "Dairies/2026-03-10.md",
-    "Templates/Homepage/学习esp32s3.md",
-    "Templates/Homepage/C++课程.md",
     "Dairies/2026-04-12.md",
     "Dairies/2026-04-05.md",
     "Dairies/2026-03-29.md",
     "Dairies/2026-03-22.md",
     "Dairies/2026-03-15.md",
-    "Templates/Homepage/学习C++.md",
     "Dairies/2026-03-14.md",
     "Dairies/2026-03-08.md",
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/C++知识学习.md",
     "Leetcode/373. 查找和最小的 K 对数字.md",
     "Temp/007_书籍.md",
-    "Temp/方向.md",
-    "代码模版/KMP板子.md",
     "Leetcode/147. 对链表进行插入排序.cpp~",
     "Leetcode/147. 对链表进行插入排序.cpp",
     "Leetcode/images/147_1724130432-zoOvdI-image.png",
