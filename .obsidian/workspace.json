@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "7cb377c70a9fe1b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/003_不定期任务.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "003_不定期任务"
+            }
+          },
+          {
             "id": "1ef68c0d6a541a3a",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               "title": "Art of programming"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Temp/003_不定期任务.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "003_不定期任务 的大纲"
             }
           },
           {
@@ -381,16 +406,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "7cb377c70a9fe1b7",
   "lastOpenFiles": [
-    "Dairies/实现自己的数据结构.md",
-    "Dairies/2026-01-04.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/实现自己的数据结构.md",
+    "Dairies/2026-03-09.md",
+    "Templates/Homepage/学习深度学习.md",
+    "Dairies/2026-01-04.md",
     "Dairies/string.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/C++课程.md",
     "Templates/Homepage/学习esp32s3.md",
-    "Dairies/2026-03-09.md",
     "操作系统/const和constexpr的关系.md",
     "Temp/Art of programming.md",
     "未命名.md",
@@ -410,7 +436,6 @@
     "Dairies/2026-03-08.md",
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/C++知识学习.md",
-    "Leetcode/373. 查找和最小的 K 对数字.md",
     "Leetcode/147. 对链表进行插入排序.cpp~",
     "Leetcode/147. 对链表进行插入排序.cpp",
     "Leetcode/images/147_1724130432-zoOvdI-image.png",

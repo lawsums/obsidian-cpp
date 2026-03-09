@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "003_不定期任务",
+      "path": "Temp/003_不定期任务.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
+      "basename": "2026-03-09",
+      "path": "Dairies/2026-03-09.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "string",
@@ -19,10 +31,6 @@
     {
       "basename": "学习esp32s3",
       "path": "Templates/Homepage/学习esp32s3.md"
-    },
-    {
-      "basename": "2026-03-09",
-      "path": "Dairies/2026-03-09.md"
     },
     {
       "basename": "const和constexpr的关系",
@@ -39,10 +47,6 @@
     {
       "basename": "微软100题",
       "path": "Temp/微软100题.md"
-    },
-    {
-      "basename": "003_不定期任务",
-      "path": "Temp/003_不定期任务.md"
     },
     {
       "basename": "C++课程",
@@ -195,10 +199,6 @@
     {
       "basename": "凡人修仙传 第五季",
       "path": "Projects/anime/凡人修仙传 第五季.md"
-    },
-    {
-      "basename": "孤独摇滚！",
-      "path": "Projects/anime/孤独摇滚！.md"
     }
   ],
   "omittedPaths": [],
