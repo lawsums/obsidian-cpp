@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "9e2f01f762db3b7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/vsvim.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "vsvim"
-            }
-          },
-          {
             "id": "e5bdf1ef8c20d57c",
             "type": "leaf",
             "state": {
@@ -79,8 +55,7 @@
               "title": "学习esp32s3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/vsvim.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "vsvim 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -358,14 +333,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9e2f01f762db3b7c",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Software/vim.md",
+    "Templates/Homepage/学习esp32s3.md",
     "Software/vsvim.md",
+    "Software/vim.md",
     "Software/Obsidian-vimrc.md",
     "Software/Vscode-vim.md",
     "Software/nvim.md",
-    "Templates/Homepage/学习esp32s3.md",
     "Templates/Homepage/Homepage.md",
     "Temp/30天制作一个操作系统.md",
     "Temp/007_书籍.md",
