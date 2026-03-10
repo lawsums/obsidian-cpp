@@ -151,8 +151,7 @@
               "title": "Art of programming"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,13 +280,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/2026-03-09.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-09 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -430,12 +429,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0cfbd5cc5a34144f",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-03-09.md",
     "Templates/Homepage/Homepage.md",
     "Temp/003_不定期任务.md",
     "Dairies/实现自己的数据结构.md",
-    "Dairies/2026-03-09.md",
     "Templates/Homepage/学习深度学习.md",
     "Dairies/2026-01-04.md",
     "Dairies/string.md",
