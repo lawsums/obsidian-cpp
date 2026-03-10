@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "002_稍后再看",
+      "path": "Temp/002_稍后再看.md"
+    },
+    {
       "basename": "2026-03-09",
       "path": "Dairies/2026-03-09.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "STL源码剖析_第2章 空間配置器",
       "path": "Templates/Homepage/STL源码剖析_第2章 空間配置器.md"
-    },
-    {
-      "basename": "凡人修仙传 第五季",
-      "path": "Projects/anime/凡人修仙传 第五季.md"
     }
   ],
   "omittedPaths": [],
