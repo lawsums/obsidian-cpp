@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "vsvim",
+      "path": "Software/vsvim.md"
+    },
+    {
+      "basename": "vim",
+      "path": "Software/vim.md"
+    },
+    {
+      "basename": "Obsidian-vimrc",
+      "path": "Software/Obsidian-vimrc.md"
+    },
+    {
+      "basename": "Vscode-vim",
+      "path": "Software/Vscode-vim.md"
+    },
+    {
+      "basename": "nvim",
+      "path": "Software/nvim.md"
+    },
+    {
       "basename": "学习esp32s3",
       "path": "Templates/Homepage/学习esp32s3.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "仆少女",
       "path": "Projects/manga/仆少女.md"
-    },
-    {
-      "basename": "98.验证二叉搜索树",
-      "path": "Leetcode/98.验证二叉搜索树.md"
-    },
-    {
-      "basename": "Javascript现代教程",
-      "path": "Temp/Javascript现代教程.md"
-    },
-    {
-      "basename": "004_闪念",
-      "path": "Temp/004_闪念.md"
-    },
-    {
-      "basename": "2026-02-11-write_title",
-      "path": "Clippings/2026-02-11-write_title.md"
-    },
-    {
-      "basename": "2026-02-27",
-      "path": "Dairies/2026-02-27.md"
     }
   ],
   "omittedPaths": [],
