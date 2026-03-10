@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5e232c0e22a8269b",
+            "id": "a8fa3bde95b82293",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,105 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "a8fa3bde95b82293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/fmt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "fmt"
-            }
-          },
-          {
-            "id": "0cfbd5cc5a34144f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/2026-03-09.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-09"
-            }
-          },
-          {
-            "id": "7cb377c70a9fe1b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/003_不定期任务.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "003_不定期任务"
-            }
-          },
-          {
-            "id": "8f7937642089cf74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/Art of programming.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Art of programming"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/fmt.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "fmt 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -408,14 +311,14 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Software/Cpp.md",
-    "Software/fmt.md",
-    "Templates/Homepage/Homepage.md",
-    "Temp/Art of programming.md",
-    "Dairies/实现自己的数据结构.md",
-    "Temp/002_稍后再看.md",
-    "Dairies/2026-03-09.md",
     "Temp/003_不定期任务.md",
+    "Dairies/2026-03-09.md",
+    "Software/fmt.md",
+    "Dairies/实现自己的数据结构.md",
+    "Templates/Homepage/Homepage.md",
+    "Software/Cpp.md",
+    "Temp/Art of programming.md",
+    "Temp/002_稍后再看.md",
     "Templates/Homepage/学习深度学习.md",
     "Dairies/2026-01-04.md",
     "Dairies/string.md",

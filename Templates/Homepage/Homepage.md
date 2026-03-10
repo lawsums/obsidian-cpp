@@ -6,7 +6,8 @@ tags:
 excalidraw-open-md: true
 number headings: off
 ---
-`BUTTON[light-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`  `BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button, studyRoad-button]`
+`BUTTON[light-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`  
+`BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button, studyRoad-button, cppStudy-button]`
 
 ## 0.1 今天/昨日待办
 ````columns
@@ -174,6 +175,15 @@ label: 学习路线
 action:
   type: open
   link: https://articles.zsxq.com/id_n4jcuih49kad.html
+```
+```meta-bind-button
+style: default
+id: cppStudy-button
+hidden: false
+label: cpp学习
+action:
+  type: open
+  link: https://www.learncpp.com/
 ```
 ```meta-bind-button
 label: 更新anki
