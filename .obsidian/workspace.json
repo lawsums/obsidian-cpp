@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "ee9f412da923b22c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/30天制作一个操作系统.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "30天制作一个操作系统"
+            }
+          },
+          {
+            "id": "e5bdf1ef8c20d57c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习esp32s3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习esp32s3"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Temp/30天制作一个操作系统.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "30天制作一个操作系统 的大纲"
             }
           },
           {
@@ -309,13 +358,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "ee9f412da923b22c",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习esp32s3.md",
     "Temp/007_书籍.md",
     "Templates/Homepage/STL源码剖析.md",
     "Templates/Homepage/Effctive STL.md",
     "Temp/30天制作一个操作系统.md",
-    "Templates/Homepage/Homepage.md",
     "Temp/003_不定期任务.md",
     "Dairies/2026-03-09.md",
     "Software/fmt.md",
@@ -328,7 +378,6 @@
     "Dairies/string.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/C++课程.md",
-    "Templates/Homepage/学习esp32s3.md",
     "操作系统/const和constexpr的关系.md",
     "未命名.md",
     "Dairies/2026-03-13.md",
