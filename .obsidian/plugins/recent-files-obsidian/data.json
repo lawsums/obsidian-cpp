@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "fmt",
+      "path": "Software/fmt.md"
+    },
+    {
+      "basename": "Cpp",
+      "path": "Software/Cpp.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Art of programming",
+      "path": "Temp/Art of programming.md"
+    },
+    {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "002_稍后再看",
@@ -15,10 +31,6 @@
     {
       "basename": "003_不定期任务",
       "path": "Temp/003_不定期任务.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "学习深度学习",
@@ -39,10 +51,6 @@
     {
       "basename": "const和constexpr的关系",
       "path": "操作系统/const和constexpr的关系.md"
-    },
-    {
-      "basename": "Art of programming",
-      "path": "Temp/Art of programming.md"
     },
     {
       "basename": "297.二叉树的序列化与反序列化",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-02-25",
       "path": "Dairies/2026-02-25.md"
-    },
-    {
-      "basename": "内存处理基本函数",
-      "path": "操作系统/内存处理基本函数.md"
-    },
-    {
-      "basename": "STL源码剖析_第2章 空間配置器",
-      "path": "Templates/Homepage/STL源码剖析_第2章 空間配置器.md"
     }
   ],
   "omittedPaths": [],
