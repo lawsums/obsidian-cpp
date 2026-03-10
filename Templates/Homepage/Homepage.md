@@ -6,8 +6,7 @@ tags:
 excalidraw-open-md: true
 number headings: off
 ---
-`BUTTON[light-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`  
-`BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button, studyRoad-button, cppStudy-button]`
+`BUTTON[light-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`   `BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button, studyRoad-button, cppStudy-button]`
 
 ## 0.1 今天/昨日待办
 ````columns
