@@ -1,14 +1,15 @@
 
+# 1 目录
 
 [书](G:\Downloads\Downloads\书籍\大四下\现代JavaScript教程.epub)
 
-## 0.1 未完成
+## 1.1 未完成
 ```dataview
 TASK
 WHERE file.name = this.file.name AND !completed
 ```
 
-## 0.2 总待办
+## 1.2 总待办
 - [x] JavaScript 简介
 - [ ] 手册与规范
 - [x] 代码编辑器
@@ -181,3 +182,9 @@ WHERE file.name = this.file.name AND !completed
 - [ ] 前瞻断言与后瞻断言
 - [ ] 灾难性回溯
 - [ ] 粘性标志 "y", 在位置处搜索
+
+# 2 笔记
+
+## 2.1 JSON
+
+`JSON.stringify`标准序列化函数
