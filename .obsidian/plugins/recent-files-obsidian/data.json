@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-03-11",
+      "path": "Dairies/2026-03-11.md"
+    },
+    {
       "basename": "学习esp32s3",
       "path": "Templates/Homepage/学习esp32s3.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-03-01",
       "path": "Dairies/2026-03-01.md"
-    },
-    {
-      "basename": "仆少女",
-      "path": "Projects/manga/仆少女.md"
     }
   ],
   "omittedPaths": [],

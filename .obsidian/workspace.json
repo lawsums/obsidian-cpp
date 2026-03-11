@@ -311,8 +311,9 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/学习esp32s3.md",
+    "Dairies/2026-03-11.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习esp32s3.md",
     "Software/vsvim.md",
     "Software/vim.md",
     "Software/Obsidian-vimrc.md",
@@ -336,7 +337,6 @@
     "Templates/Homepage/C++课程.md",
     "操作系统/const和constexpr的关系.md",
     "未命名.md",
-    "Dairies/2026-03-13.md",
     "Leetcode/297.二叉树的序列化与反序列化.cpp",
     "Leetcode/images/297_serdeser.jpg",
     "Leetcode/147. 对链表进行插入排序.cpp~",
