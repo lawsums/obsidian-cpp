@@ -1,3 +1,10 @@
+```easy-tracker-daily-overview
+```
+```easy-tracker-year-calendar-heatmap
+```
+```easy-tracker-buttons
+  打卡 | 1
+```
 
 # 1 目录
 
@@ -52,7 +59,7 @@ WHERE file.name = this.file.name AND !completed
 - [x] 数组
 - [ ] 数组方法
 - [ ] Iterable object（可迭代对象）
-- [ ] Map and Set（映射和集合）
+- [x] Map and Set（映射和集合）
 - [ ] WeakMap and WeakSet（弱映射和弱集合）
 - [ ] Object.keys, values, entries
 - [ ] 解构赋值
@@ -188,3 +195,5 @@ WHERE file.name = this.file.name AND !completed
 ## 2.1 JSON
 
 `JSON.stringify`标准序列化函数
+
+* 2026-03-11 - 1

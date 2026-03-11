@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Javascript现代教程",
-      "path": "Temp/Javascript现代教程.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
+      "basename": "Javascript现代教程",
+      "path": "Temp/Javascript现代教程.md"
+    },
+    {
+      "basename": "Diet_template",
+      "path": "Templates/Diet_template.md"
     },
     {
       "basename": "30天制作一个操作系统",
@@ -195,10 +199,6 @@
     {
       "basename": "placement new",
       "path": "操作系统/placement new.md"
-    },
-    {
-      "basename": "2026-02-28",
-      "path": "Dairies/2026-02-28.md"
     }
   ],
   "omittedPaths": [],

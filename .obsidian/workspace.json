@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "7b65c16bb437dda7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/Javascript现代教程.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Javascript现代教程"
-            }
-          },
-          {
             "id": "7c3a54f69454ff82",
             "type": "leaf",
             "state": {
@@ -103,8 +79,7 @@
               "title": "30天制作一个操作系统"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/Javascript现代教程.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Javascript现代教程 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -382,10 +357,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7b65c16bb437dda7",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
+    "Temp/Javascript现代教程.md",
+    "Templates/Diet_template.md",
+    "Templates/Homepage/Homepage.md",
     "Temp/30天制作一个操作系统.md",
     "Dairies/2026-03-11.md",
     "Templates/Homepage/学习esp32s3.md",
@@ -408,8 +385,6 @@
     "Dairies/string.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/C++课程.md",
-    "操作系统/const和constexpr的关系.md",
-    "未命名.md",
     "Leetcode/297.二叉树的序列化与反序列化.cpp",
     "Leetcode/images/297_serdeser.jpg",
     "Leetcode/147. 对链表进行插入排序.cpp~",

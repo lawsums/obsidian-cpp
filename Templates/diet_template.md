@@ -1,4 +1,3 @@
-# 1 打卡
 ```easy-tracker-daily-overview
 ```
 ```easy-tracker-year-calendar-heatmap
