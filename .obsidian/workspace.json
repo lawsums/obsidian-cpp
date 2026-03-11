@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "7b65c16bb437dda7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/Javascript现代教程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Javascript现代教程"
+            }
+          },
+          {
+            "id": "7c3a54f69454ff82",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/实现自己的数据结构.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "实现自己的数据结构"
+            }
+          },
+          {
             "id": "f1c9f0ddbb17e86f",
             "type": "leaf",
             "state": {
@@ -55,7 +103,8 @@
               "title": "30天制作一个操作系统"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Temp/Javascript现代教程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "Javascript现代教程 的大纲"
             }
           },
           {
@@ -333,10 +382,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "7b65c16bb437dda7",
   "lastOpenFiles": [
-    "Temp/30天制作一个操作系统.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/实现自己的数据结构.md",
+    "Temp/30天制作一个操作系统.md",
     "Dairies/2026-03-11.md",
     "Templates/Homepage/学习esp32s3.md",
     "Software/vsvim.md",
@@ -350,7 +400,6 @@
     "Temp/003_不定期任务.md",
     "Dairies/2026-03-09.md",
     "Software/fmt.md",
-    "Dairies/实现自己的数据结构.md",
     "Software/Cpp.md",
     "Temp/Art of programming.md",
     "Temp/002_稍后再看.md",

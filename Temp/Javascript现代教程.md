@@ -1,4 +1,5 @@
 
+
 [书](G:\Downloads\Downloads\书籍\大四下\现代JavaScript教程.epub)
 
 ## 0.1 未完成
@@ -21,7 +22,7 @@ WHERE file.name = this.file.name AND !completed
 - [ ] 类型转换
 - [ ] 基础运算符, 数学
 - [ ] 值的比较
-- [ ] 条件分支：if 和 '?'
+- [x] 条件分支：if 和 '?'
 - [ ] 逻辑运算符
 - [ ] 空值合并运算符 '??'
 - [x] 循环：while 和 for
