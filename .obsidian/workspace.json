@@ -55,8 +55,7 @@
               "title": "30天制作一个操作系统"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/30天制作一个操作系统.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "30天制作一个操作系统 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -334,8 +333,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f1c9f0ddbb17e86f",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Temp/30天制作一个操作系统.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-03-11.md",
     "Templates/Homepage/学习esp32s3.md",
@@ -344,7 +344,6 @@
     "Software/Obsidian-vimrc.md",
     "Software/Vscode-vim.md",
     "Software/nvim.md",
-    "Temp/30天制作一个操作系统.md",
     "Temp/007_书籍.md",
     "Templates/Homepage/STL源码剖析.md",
     "Templates/Homepage/Effctive STL.md",
