@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "30天制作一个操作系统",
+      "path": "Temp/30天制作一个操作系统.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "nvim",
       "path": "Software/nvim.md"
-    },
-    {
-      "basename": "30天制作一个操作系统",
-      "path": "Temp/30天制作一个操作系统.md"
     },
     {
       "basename": "007_书籍",
