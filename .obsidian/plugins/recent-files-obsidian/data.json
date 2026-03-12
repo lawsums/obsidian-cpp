@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学习科目四",
+      "path": "Dairies/学习科目四.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "方向",
       "path": "Temp/方向.md"
-    },
-    {
-      "basename": "KMP板子",
-      "path": "代码模版/KMP板子.md"
     }
   ],
   "omittedPaths": [],
