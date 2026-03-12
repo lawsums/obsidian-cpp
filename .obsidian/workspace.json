@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "c6799b0c606b9836",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/30天制作一个操作系统.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "30天制作一个操作系统"
+            }
+          },
+          {
             "id": "01159d23bec03a77",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/C++课程.md",
+                "file": "Templates/Homepage/30天制作一个操作系统.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "C++课程 的大纲"
+              "title": "30天制作一个操作系统 的大纲"
             }
           },
           {
@@ -382,10 +406,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fcb2d9e85725c6b9",
+  "active": "c6799b0c606b9836",
   "lastOpenFiles": [
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/C++课程.md",
+    "Templates/Homepage/学习C++.md",
     "Dairies/2026-03-12.md",
     "Software/git.md",
     "Dairies/2026-03-19.md",
@@ -409,7 +434,6 @@
     "Software/nvim.md",
     "Templates/Homepage/007_书籍.md",
     "Templates/Homepage/STL源码剖析.md",
-    "Templates/Homepage/Effctive STL.md",
     "Leetcode/297.二叉树的序列化与反序列化.cpp",
     "Leetcode/images/297_serdeser.jpg",
     "Leetcode/147. 对链表进行插入排序.cpp~",
