@@ -108,12 +108,18 @@ actions:
 ```
 ```meta-bind-button
 label: 添加本周日记
+icon: ""
+style: primary
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: "week-notes-button"
 hidden: false
-id: week-notes-button
-style: default
 actions:
   - type: command
-    command: QuickAdd:Create_week_macro
+    command: quickadd:choice:827a4d25-534c-48e5-a53c-7b21f479f3fa
+
 ```
 ```meta-bind-button
 style: default

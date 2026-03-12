@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "git",
+      "path": "Software/git.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "学习科目四",
       "path": "Dairies/学习科目四.md"
-    },
-    {
-      "basename": "tie和apply有什么作用",
-      "path": "操作系统/tie和apply有什么作用.md"
     }
   ],
   "omittedPaths": [],
