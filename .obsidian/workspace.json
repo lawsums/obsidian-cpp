@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "cf1ab29eddde1ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/30天制作一个服务器.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "30天制作一个服务器"
+            }
+          },
+          {
             "id": "0c65ae7b5383d6cd",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "学习科目四"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/30天制作一个服务器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "30天制作一个服务器 的大纲"
             }
           },
           {
@@ -333,10 +358,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "cf1ab29eddde1ace",
   "lastOpenFiles": [
-    "Dairies/学习科目四.md",
+    "Templates/Homepage/007_书籍.md",
+    "Templates/Homepage/30天制作一个服务器.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/学习科目四.md",
     "Leetcode/450.删除二叉搜索树中的节点.md",
     "Leetcode/450.删除二叉搜索树中的节点.cpp",
     "Leetcode/1.md",
@@ -363,8 +390,6 @@
     "Templates/Homepage/Javascript现代教程.md",
     "Templates/Diet_template.md",
     "Dairies/2026-03-11.md",
-    "Templates/Homepage/学习esp32s3.md",
-    "Software/vsvim.md",
     "Leetcode/297.二叉树的序列化与反序列化.cpp",
     "Leetcode/images/297_serdeser.jpg",
     "Leetcode/147. 对链表进行插入排序.cpp~",
