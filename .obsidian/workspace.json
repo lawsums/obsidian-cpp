@@ -30,54 +30,6 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "fcb2d9e85725c6b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/C++课程.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "C++课程"
-            }
-          },
-          {
-            "id": "1487f39ce3b18c0e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "git"
-            }
           }
         ]
       }
@@ -154,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -323,8 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -361,8 +311,13 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Dairies/2026-03-12.md",
+    "Leetcode/450.删除二叉搜索树中的节点.md",
+    "Leetcode/450.删除二叉搜索树中的节点.cpp",
+    "Leetcode/1.md",
+    "Leetcode/images/450_del_node_supp.jpg",
+    "Leetcode/images/450_del_node_1.jpg",
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-03-12.md",
     "Templates/Homepage/C++课程.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/30天制作一个操作系统.md",
@@ -385,9 +340,6 @@
     "Dairies/2026-03-11.md",
     "Templates/Homepage/学习esp32s3.md",
     "Software/vsvim.md",
-    "Software/vim.md",
-    "Software/Obsidian-vimrc.md",
-    "Software/Vscode-vim.md",
     "Leetcode/297.二叉树的序列化与反序列化.cpp",
     "Leetcode/images/297_serdeser.jpg",
     "Leetcode/147. 对链表进行插入排序.cpp~",
@@ -402,11 +354,8 @@
     "Leetcode/images/25_reverse_ex1.jpg",
     "Leetcode/101.对称二叉树.cpp",
     "Leetcode/images/101_1698027008-nPFLbM-image.png",
-    "Leetcode/images/101_1698026966-JDYPDU-image.png",
     "Pandoc/~$26年3月经典阅读读后感.docx",
     "Projects/manga",
-    "Leetcode/98.验证二叉搜索树.cpp~",
-    "Leetcode/images/98_tree2.jpg",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]

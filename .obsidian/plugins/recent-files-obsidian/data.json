@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "450.删除二叉搜索树中的节点",
+      "path": "Leetcode/450.删除二叉搜索树中的节点.md"
+    },
+    {
+      "basename": "1",
+      "path": "Leetcode/1.md"
+    },
+    {
       "basename": "2026-03-12",
       "path": "Dairies/2026-03-12.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "KMP板子",
       "path": "代码模版/KMP板子.md"
-    },
-    {
-      "basename": "手撕string",
-      "path": "操作系统/手撕string.md"
-    },
-    {
-      "basename": "2026-03-30",
-      "path": "Dairies/2026-03-30.md"
     }
   ],
   "omittedPaths": [],
