@@ -32,54 +32,6 @@
             }
           },
           {
-            "id": "c6799b0c606b9836",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/30天制作一个操作系统.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "30天制作一个操作系统"
-            }
-          },
-          {
-            "id": "01159d23bec03a77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习C++"
-            }
-          },
-          {
             "id": "fcb2d9e85725c6b9",
             "type": "leaf",
             "state": {
@@ -127,8 +79,7 @@
               "title": "git"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/30天制作一个操作系统.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "30天制作一个操作系统 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -408,17 +359,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c6799b0c606b9836",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/c程序后缀名逻辑.md",
-    "Templates/Homepage/30天制作一个操作系统.md",
-    "Attachments/Pasted image 20260312143851.png",
-    "Templates/Homepage/试错.md",
-    "Templates/Homepage/为什么 Makefile 能编译 nas 文件到 img 文件.md",
+    "Dairies/2026-03-12.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/C++课程.md",
     "Templates/Homepage/学习C++.md",
-    "Dairies/2026-03-12.md",
+    "Templates/Homepage/30天制作一个操作系统.md",
+    "Templates/Homepage/c程序后缀名逻辑.md",
+    "Attachments/Pasted image 20260312143851.png",
+    "Templates/Homepage/试错.md",
+    "Templates/Homepage/为什么 Makefile 能编译 nas 文件到 img 文件.md",
     "Software/git.md",
     "Dairies/2026-03-19.md",
     "Dairies/2026-03-17.md",

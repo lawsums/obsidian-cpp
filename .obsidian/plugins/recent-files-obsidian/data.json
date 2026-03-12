@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-03-12",
+      "path": "Dairies/2026-03-12.md"
+    },
+    {
+      "basename": "C++课程",
+      "path": "Templates/Homepage/C++课程.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "30天制作一个操作系统",
       "path": "Templates/Homepage/30天制作一个操作系统.md"
     },
@@ -15,22 +31,6 @@
     {
       "basename": "为什么 Makefile 能编译 nas 文件到 img 文件",
       "path": "Templates/Homepage/为什么 Makefile 能编译 nas 文件到 img 文件.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
-      "basename": "C++课程",
-      "path": "Templates/Homepage/C++课程.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "2026-03-12",
-      "path": "Dairies/2026-03-12.md"
     },
     {
       "basename": "git",
