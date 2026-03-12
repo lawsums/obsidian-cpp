@@ -183,7 +183,7 @@
           "type": "Capture",
           "command": true,
           "appendLink": false,
-          "captureTo": "Temp/003_不定期任务.md",
+          "captureTo": "Templates/Homepage/003_不定期任务.md",
           "captureToActiveFile": false,
           "createFileIfItDoesntExist": {
             "enabled": true,
@@ -222,7 +222,7 @@
           "type": "Capture",
           "command": true,
           "appendLink": false,
-          "captureTo": "Temp/002_稍后再看.md",
+          "captureTo": "Templates/Homepage/002_稍后再看.md",
           "captureToActiveFile": false,
           "createFileIfItDoesntExist": {
             "enabled": true,
@@ -261,7 +261,7 @@
           "type": "Capture",
           "command": true,
           "appendLink": false,
-          "captureTo": "Temp/004_闪念.md",
+          "captureTo": "Templates/Homepage/004_闪念.md",
           "captureToActiveFile": false,
           "createFileIfItDoesntExist": {
             "enabled": true,
@@ -300,7 +300,7 @@
           "type": "Capture",
           "command": true,
           "appendLink": false,
-          "captureTo": "Temp/006_影视作品.md",
+          "captureTo": "Templates/Homepage/006_影视作品.md",
           "captureToActiveFile": false,
           "createFileIfItDoesntExist": {
             "enabled": true,
@@ -339,7 +339,7 @@
           "type": "Capture",
           "command": true,
           "appendLink": false,
-          "captureTo": "Temp/005_KTV歌单.md",
+          "captureTo": "Templates/Homepage/005_KTV歌单.md",
           "captureToActiveFile": false,
           "createFileIfItDoesntExist": {
             "enabled": true,
@@ -378,7 +378,7 @@
           "type": "Capture",
           "command": true,
           "appendLink": false,
-          "captureTo": "Temp/001_项目.md",
+          "captureTo": "Templates/Homepage/001_项目.md",
           "captureToActiveFile": false,
           "createFileIfItDoesntExist": {
             "enabled": false,
@@ -417,7 +417,7 @@
           "type": "Capture",
           "command": true,
           "appendLink": false,
-          "captureTo": "Temp/005_KTV歌单.md",
+          "captureTo": "Templates/Homepage/005_KTV歌单.md",
           "captureToActiveFile": false,
           "createFileIfItDoesntExist": {
             "enabled": true,
@@ -456,7 +456,7 @@
           "type": "Capture",
           "command": true,
           "appendLink": false,
-          "captureTo": "Temp/007_书籍.md",
+          "captureTo": "Templates/Homepage/007_书籍.md",
           "captureToActiveFile": false,
           "createFileIfItDoesntExist": {
             "enabled": true,
@@ -495,7 +495,7 @@
           "type": "Capture",
           "command": true,
           "appendLink": false,
-          "captureTo": "Temp/008_生活.md",
+          "captureTo": "Templates/Homepage/008_生活.md",
           "captureToActiveFile": false,
           "createFileIfItDoesntExist": {
             "enabled": true,
@@ -534,7 +534,7 @@
           "type": "Capture",
           "command": true,
           "appendLink": false,
-          "captureTo": "Temp/009_游戏.md",
+          "captureTo": "Templates/Homepage/009_游戏.md",
           "captureToActiveFile": false,
           "createFileIfItDoesntExist": {
             "enabled": true,
@@ -568,7 +568,7 @@
           }
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "c8743eec-3078-40fc-8fa5-7dcb910e1b8c",
@@ -791,6 +791,334 @@
           }
         },
         {
+          "id": "bd8e4d23-9734-4a14-96be-1421daee11f4",
+          "name": "Create_t1",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "Dairies/{{DATE:+0}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "Templates/Daily_note_template.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": ""
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "## 今天的待办项",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": true,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          }
+        },
+        {
+          "id": "b8cc9da1-0847-42f4-a1b3-68b7f63bc62c",
+          "name": "Create_t2",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "Dairies/{{DATE:+1}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "Templates/Daily_note_template.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": ""
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "## 今天的待办项",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": true,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          }
+        },
+        {
+          "id": "b1876dd6-28a1-41c1-b586-c71779eac982",
+          "name": "Create_t3",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "Dairies/{{DATE:+2}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "Templates/Daily_note_template.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": ""
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "## 今天的待办项",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": true,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          }
+        },
+        {
+          "id": "da306911-9fed-4378-afb7-fff0afe620a9",
+          "name": "Create_t4",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "Dairies/{{DATE:+3}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "Templates/Daily_note_template.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": ""
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "## 今天的待办项",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": true,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          }
+        },
+        {
+          "id": "f192c674-06ab-425a-a912-891fbdb9601a",
+          "name": "Create_t5",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "Dairies/{{DATE:+4}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "Templates/Daily_note_template.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": ""
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "## 今天的待办项",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": true,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          }
+        },
+        {
+          "id": "90a9283f-48bd-4c31-ad5b-01ed0ef36949",
+          "name": "Create_t6",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "Dairies/{{DATE:+5}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "Templates/Daily_note_template.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": ""
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "## 今天的待办项",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": true,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          }
+        },
+        {
+          "id": "754bba31-9b07-45fb-abde-2595104644c1",
+          "name": "Create_t7",
+          "type": "Capture",
+          "command": false,
+          "appendLink": false,
+          "captureTo": "Dairies/{{DATE:+6}}",
+          "captureToActiveFile": false,
+          "createFileIfItDoesntExist": {
+            "enabled": true,
+            "createWithTemplate": true,
+            "template": "Templates/Daily_note_template.md"
+          },
+          "format": {
+            "enabled": true,
+            "format": ""
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "## 今天的待办项",
+            "insertAtEnd": false,
+            "considerSubsections": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "newLineCapture": {
+            "enabled": false,
+            "direction": "below"
+          },
+          "prepend": true,
+          "task": false,
+          "openFile": false,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          }
+        },
+        {
+          "id": "827a4d25-534c-48e5-a53c-7b21f479f3fa",
+          "name": "Create_week_macro",
+          "type": "Macro",
+          "command": true,
+          "runOnStartup": false,
+          "macro": {
+            "name": "Create_week_macro",
+            "id": "4ce75353-1456-45a9-a002-13621af5d9fb",
+            "commands": [
+              {
+                "name": "Create_t1",
+                "type": "Choice",
+                "id": "5c94e91a-54fe-45db-84f6-96a7c417bf13",
+                "choiceId": "bd8e4d23-9734-4a14-96be-1421daee11f4"
+              },
+              {
+                "name": "Create_t2",
+                "type": "Choice",
+                "id": "a4a26980-6d1e-45e5-b77c-fc669800815e",
+                "choiceId": "b8cc9da1-0847-42f4-a1b3-68b7f63bc62c"
+              },
+              {
+                "name": "Create_t3",
+                "type": "Choice",
+                "id": "d6c98839-530e-4c37-89d6-5a034153c2a4",
+                "choiceId": "b1876dd6-28a1-41c1-b586-c71779eac982"
+              },
+              {
+                "name": "Create_t4",
+                "type": "Choice",
+                "id": "6a8be0e2-1bfa-4564-bea9-5f5c0fc0edbf",
+                "choiceId": "da306911-9fed-4378-afb7-fff0afe620a9"
+              },
+              {
+                "name": "Create_t5",
+                "type": "Choice",
+                "id": "8c6f232c-d4e7-4d0b-83db-2435a7aada37",
+                "choiceId": "f192c674-06ab-425a-a912-891fbdb9601a"
+              },
+              {
+                "name": "Create_t6",
+                "type": "Choice",
+                "id": "57599105-3d41-40bf-a558-d0660c26cbf3",
+                "choiceId": "90a9283f-48bd-4c31-ad5b-01ed0ef36949"
+              },
+              {
+                "name": "Create_t7",
+                "type": "Choice",
+                "id": "fe76a4be-a478-4a39-9f4e-c4d6de093913",
+                "choiceId": "754bba31-9b07-45fb-abde-2595104644c1"
+              }
+            ]
+          }
+        },
+        {
           "id": "99b287c5-7d28-431d-8086-6742b5dfff93",
           "name": "日记模版",
           "type": "Template",
@@ -819,7 +1147,7 @@
           "setFileExistsBehavior": false
         }
       ],
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "299c9921-5061-401b-ac2c-c54ced9a034e",
@@ -1079,7 +1407,7 @@
           "setFileExistsBehavior": false
         }
       ],
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "ea81d6c9-0155-4c65-9128-fa0f20e848fd",

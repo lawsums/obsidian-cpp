@@ -6,7 +6,7 @@ tags:
 excalidraw-open-md: true
 number headings: off
 ---
-`BUTTON[light-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`   `BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button, studyRoad-button, cppStudy-button]`
+`BUTTON[light-button, week-notes-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`   `BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button, studyRoad-button, cppStudy-button]`
 
 ## 0.1 今天/昨日待办
 ````columns
@@ -30,7 +30,7 @@ id: e72xW5g2k6VC9lGXrlfRv
 ===
 ``` dataview
 TASK WHERE !completed
-AND file.folder = "Temp" 
+AND file.folder = "Templates/Homepage" 
 AND file.name = "002_稍后再看"
 GROUP BY file.link
 ```
@@ -38,7 +38,7 @@ GROUP BY file.link
 ===
 ``` dataview
 TASK WHERE !completed
-AND file.folder = "Temp" 
+AND file.folder = "Templates/Homepage" 
 AND file.name = "003_不定期任务"
 GROUP BY file.link
 ```
@@ -51,7 +51,7 @@ id: WDL6WrMjnI7Qv5DGKK970
 ===
 ``` dataview
 TASK WHERE !completed
-AND file.folder = "Temp" 
+AND file.folder = "Templates/Homepage" 
 AND file.name = "006_影视作品"
 GROUP BY file.link
 ```
@@ -60,7 +60,7 @@ GROUP BY file.link
 ===
 ``` dataview
 TASK WHERE !completed
-AND file.folder = "Temp" 
+AND file.folder = "Templates/Homepage" 
 AND file.name = "007_书籍"
 GROUP BY file.link
 ```
@@ -73,7 +73,7 @@ id: nLbK6VmDOGMv25KKce9uV
 ===
 ``` dataview
 TASK WHERE !completed
-AND file.folder = "Temp" 
+AND file.folder = "Templates/Homepage" 
 AND file.name = "008_生活"
 GROUP BY file.link
 ```
@@ -82,7 +82,7 @@ GROUP BY file.link
 ===
 ``` dataview
 TASK WHERE !completed
-AND file.folder = "Temp" 
+AND file.folder = "Templates/Homepage" 
 AND file.name = "009_游戏"
 GROUP BY file.link
 ```
@@ -93,12 +93,6 @@ GROUP BY file.link
 ``` dataview
 TASK WHERE !completed
 AND file.folder = "Temp"
-AND file.name != "002_稍后再看"
-AND file.name != "003_不定期任务"
-AND file.name != "006_影视作品"
-AND file.name != "007_书籍"
-AND file.name != "008_生活"
-AND file.name != "009_游戏"
 GROUP BY file.link
 ```
 
@@ -111,6 +105,15 @@ style: destructive
 actions:
   - type: command
     command: theme:toggle-light-dark
+```
+```meta-bind-button
+label: 添加本周日记
+hidden: false
+id: week-notes-button
+style: default
+actions:
+  - type: command
+    command: QuickAdd:Create_week_macro
 ```
 ```meta-bind-button
 style: default
