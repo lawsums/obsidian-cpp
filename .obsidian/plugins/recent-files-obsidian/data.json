@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/30天制作一个操作系统.md"
     },
     {
+      "basename": "为什么 Makefile 能编译 nas 文件到 img 文件",
+      "path": "Templates/Homepage/为什么 Makefile 能编译 nas 文件到 img 文件.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "147. 对链表进行插入排序",
       "path": "Leetcode/147. 对链表进行插入排序.md"
-    },
-    {
-      "basename": "学习科目四",
-      "path": "Dairies/学习科目四.md"
     }
   ],
   "omittedPaths": [],
