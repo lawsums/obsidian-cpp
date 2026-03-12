@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "git",
-      "path": "Software/git.md"
+      "basename": "C++课程",
+      "path": "Templates/Homepage/C++课程.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-03-12",
+      "path": "Dairies/2026-03-12.md"
+    },
+    {
+      "basename": "git",
+      "path": "Software/git.md"
     },
     {
       "basename": "2026-03-17",
@@ -15,10 +27,6 @@
     {
       "basename": "2026-03-16",
       "path": "Dairies/2026-03-16.md"
-    },
-    {
-      "basename": "2026-03-12",
-      "path": "Dairies/2026-03-12.md"
     },
     {
       "basename": "001_项目",
@@ -43,10 +51,6 @@
     {
       "basename": "C++知识学习",
       "path": "Templates/Homepage/C++知识学习.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "Javascript现代教程",
@@ -131,10 +135,6 @@
     {
       "basename": "微软100题",
       "path": "Temp/微软100题.md"
-    },
-    {
-      "basename": "C++课程",
-      "path": "Templates/Homepage/C++课程.md"
     },
     {
       "basename": "2026-04-12",
