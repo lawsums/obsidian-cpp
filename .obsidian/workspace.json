@@ -55,8 +55,7 @@
               "title": "459. 重复的子字符串"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/459. 重复的子字符串.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "459. 重复的子字符串 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -334,10 +333,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c017ba7cbdc4e3fc",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Leetcode/459. 重复的子字符串.md",
+    "Templates/Homepage/Homepage.md",
     "Leetcode/459. 重复的子字符串.cpp",
     "Dairies/学习科目四.md",
     "Templates/Homepage/30天制作一个服务器.md",
