@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "cf1ab29eddde1ace",
+            "id": "c017ba7cbdc4e3fc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/30天制作一个服务器.md",
+                "file": "Leetcode/459. 重复的子字符串.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "30天制作一个服务器"
-            }
-          },
-          {
-            "id": "0c65ae7b5383d6cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/学习科目四.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习科目四"
+              "title": "459. 重复的子字符串"
             }
           }
         ],
@@ -209,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/30天制作一个服务器.md",
+                "file": "Leetcode/459. 重复的子字符串.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "30天制作一个服务器 的大纲"
+              "title": "459. 重复的子字符串 的大纲"
             }
           },
           {
@@ -358,12 +334,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cf1ab29eddde1ace",
+  "active": "c017ba7cbdc4e3fc",
   "lastOpenFiles": [
-    "Templates/Homepage/007_书籍.md",
-    "Templates/Homepage/30天制作一个服务器.md",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/459. 重复的子字符串.md",
+    "Leetcode/459. 重复的子字符串.cpp",
     "Dairies/学习科目四.md",
+    "Templates/Homepage/30天制作一个服务器.md",
+    "Templates/Homepage/007_书籍.md",
     "Leetcode/450.删除二叉搜索树中的节点.md",
     "Leetcode/450.删除二叉搜索树中的节点.cpp",
     "Leetcode/1.md",
@@ -389,7 +367,6 @@
     "Templates/Homepage/C++知识学习.md",
     "Templates/Homepage/Javascript现代教程.md",
     "Templates/Diet_template.md",
-    "Dairies/2026-03-11.md",
     "Leetcode/297.二叉树的序列化与反序列化.cpp",
     "Leetcode/images/297_serdeser.jpg",
     "Leetcode/147. 对链表进行插入排序.cpp~",
@@ -405,7 +382,6 @@
     "Leetcode/101.对称二叉树.cpp",
     "Leetcode/images/101_1698027008-nPFLbM-image.png",
     "Pandoc/~$26年3月经典阅读读后感.docx",
-    "Projects/manga",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
