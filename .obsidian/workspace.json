@@ -203,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -371,7 +372,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -408,8 +410,10 @@
   },
   "active": "c6799b0c606b9836",
   "lastOpenFiles": [
-    "Templates/Homepage/试错.md",
+    "Templates/Homepage/c程序后缀名逻辑.md",
     "Templates/Homepage/30天制作一个操作系统.md",
+    "Attachments/Pasted image 20260312143851.png",
+    "Templates/Homepage/试错.md",
     "Templates/Homepage/为什么 Makefile 能编译 nas 文件到 img 文件.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/C++课程.md",
@@ -433,7 +437,6 @@
     "Software/vim.md",
     "Software/Obsidian-vimrc.md",
     "Software/Vscode-vim.md",
-    "Software/nvim.md",
     "Leetcode/297.二叉树的序列化与反序列化.cpp",
     "Leetcode/images/297_serdeser.jpg",
     "Leetcode/147. 对链表进行插入排序.cpp~",
@@ -453,7 +456,6 @@
     "Projects/manga",
     "Leetcode/98.验证二叉搜索树.cpp~",
     "Leetcode/images/98_tree2.jpg",
-    "Leetcode/images/98_tree1.jpg",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]

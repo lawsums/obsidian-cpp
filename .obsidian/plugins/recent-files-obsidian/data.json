@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/30天制作一个操作系统.md"
     },
     {
+      "basename": "c程序后缀名逻辑",
+      "path": "Templates/Homepage/c程序后缀名逻辑.md"
+    },
+    {
       "basename": "试错",
       "path": "Templates/Homepage/试错.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-03-30",
       "path": "Dairies/2026-03-30.md"
-    },
-    {
-      "basename": "25.K 个一组翻转链表",
-      "path": "Leetcode/25.K 个一组翻转链表.md"
     }
   ],
   "omittedPaths": [],
