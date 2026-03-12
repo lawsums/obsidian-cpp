@@ -55,8 +55,7 @@
               "title": "学习科目四"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/学习科目四.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习科目四 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -334,8 +333,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0c65ae7b5383d6cd",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/学习科目四.md",
     "Templates/Homepage/Homepage.md",
     "Leetcode/450.删除二叉搜索树中的节点.md",
     "Leetcode/450.删除二叉搜索树中的节点.cpp",
