@@ -52,7 +52,7 @@
   "Pandoc": "LiImport",
   "Clippings": "LiClipboardX",
   "Configs": "LiContainer",
-  "Temp": "LiRecycle",
   "Attachments": "LiImages",
-  "Projects": "🈲"
+  "Projects": "🈲",
+  "Temp": "LiRecycle"
 }

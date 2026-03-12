@@ -5,20 +5,40 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "001_项目",
+      "path": "Templates/Homepage/001_项目.md"
+    },
+    {
+      "basename": "002_稍后再看",
+      "path": "Templates/Homepage/002_稍后再看.md"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
+    },
+    {
+      "basename": "30天制作一个操作系统",
+      "path": "Templates/Homepage/30天制作一个操作系统.md"
+    },
+    {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
     },
     {
+      "basename": "C++知识学习",
+      "path": "Templates/Homepage/C++知识学习.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "Javascript现代教程",
-      "path": "Temp/Javascript现代教程.md"
+      "path": "Templates/Homepage/Javascript现代教程.md"
     },
     {
       "basename": "Diet_template",
       "path": "Templates/Diet_template.md"
-    },
-    {
-      "basename": "30天制作一个操作系统",
-      "path": "Temp/30天制作一个操作系统.md"
     },
     {
       "basename": "2026-03-11",
@@ -61,10 +81,6 @@
       "path": "Templates/Homepage/Effctive STL.md"
     },
     {
-      "basename": "003_不定期任务",
-      "path": "Temp/003_不定期任务.md"
-    },
-    {
       "basename": "2026-03-09",
       "path": "Dairies/2026-03-09.md"
     },
@@ -78,11 +94,7 @@
     },
     {
       "basename": "Art of programming",
-      "path": "Temp/Art of programming.md"
-    },
-    {
-      "basename": "002_稍后再看",
-      "path": "Temp/002_稍后再看.md"
+      "path": "Templates/Homepage/Art of programming.md"
     },
     {
       "basename": "学习深度学习",
@@ -91,10 +103,6 @@
     {
       "basename": "string",
       "path": "Dairies/string.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "const和constexpr的关系",
@@ -145,10 +153,6 @@
       "path": "Templates/Homepage/面试题系列.md"
     },
     {
-      "basename": "C++知识学习",
-      "path": "Templates/Homepage/C++知识学习.md"
-    },
-    {
       "basename": "373. 查找和最小的 K 对数字",
       "path": "Leetcode/373. 查找和最小的 K 对数字.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-03-02",
       "path": "Dairies/2026-03-02.md"
-    },
-    {
-      "basename": "placement new",
-      "path": "操作系统/placement new.md"
     }
   ],
   "omittedPaths": [],
