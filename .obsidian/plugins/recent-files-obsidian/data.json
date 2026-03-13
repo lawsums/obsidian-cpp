@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "git",
-      "path": "Software/git.md"
+      "basename": "Effctive STL",
+      "path": "Templates/Homepage/Effctive STL.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "git",
+      "path": "Software/git.md"
     },
     {
       "basename": "2026-03-13",
@@ -143,10 +147,6 @@
     {
       "basename": "STL源码剖析",
       "path": "Templates/Homepage/STL源码剖析.md"
-    },
-    {
-      "basename": "Effctive STL",
-      "path": "Templates/Homepage/Effctive STL.md"
     },
     {
       "basename": "2026-03-09",
