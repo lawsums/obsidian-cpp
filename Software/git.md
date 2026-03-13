@@ -18,5 +18,11 @@
 ## 1.5 git status
 用于在 `add` 之前看看哪些文件修改了
 
+## 1.6 git reset --soft HEAD~1
+撤销一次 commit提交
+
+## 1.7 git reset HEAD `具体路径`
+撤销一次对于指定文件夹的修改
+
 
 
