@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "c017ba7cbdc4e3fc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/459. 重复的子字符串.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "459. 重复的子字符串"
-            }
           }
         ]
       }
@@ -336,7 +312,9 @@
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Leetcode/459. 重复的子字符串.md",
+    "Templates/Homepage/调整neovim clangd路径.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-03-11.md",
     "Leetcode/459. 重复的子字符串.cpp",
     "Dairies/学习科目四.md",
     "Templates/Homepage/30天制作一个服务器.md",
@@ -364,8 +342,6 @@
     "Templates/Homepage/003_不定期任务.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/C++知识学习.md",
-    "Templates/Homepage/Javascript现代教程.md",
-    "Templates/Diet_template.md",
     "Leetcode/297.二叉树的序列化与反序列化.cpp",
     "Leetcode/images/297_serdeser.jpg",
     "Leetcode/147. 对链表进行插入排序.cpp~",

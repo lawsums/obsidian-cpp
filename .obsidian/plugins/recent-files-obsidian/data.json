@@ -9,6 +9,14 @@
       "path": "Leetcode/459. 重复的子字符串.md"
     },
     {
+      "basename": "调整neovim clangd路径",
+      "path": "Templates/Homepage/调整neovim clangd路径.md"
+    },
+    {
+      "basename": "2026-03-11",
+      "path": "Dairies/2026-03-11.md"
+    },
+    {
       "basename": "459. 重复的子字符串",
       "path": "Leetcode/459. 重复的子字符串.cpp"
     },
@@ -101,10 +109,6 @@
       "path": "Templates/Diet_template.md"
     },
     {
-      "basename": "2026-03-11",
-      "path": "Dairies/2026-03-11.md"
-    },
-    {
       "basename": "学习esp32s3",
       "path": "Templates/Homepage/学习esp32s3.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-03-15",
       "path": "Dairies/2026-03-15.md"
-    },
-    {
-      "basename": "2026-03-14",
-      "path": "Dairies/2026-03-14.md"
     }
   ],
   "omittedPaths": [],
