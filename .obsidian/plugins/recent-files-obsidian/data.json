@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "git",
+      "path": "Software/git.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "为什么 Makefile 能编译 nas 文件到 img 文件",
       "path": "Templates/Homepage/为什么 Makefile 能编译 nas 文件到 img 文件.md"
-    },
-    {
-      "basename": "git",
-      "path": "Software/git.md"
     },
     {
       "basename": "2026-03-17",
