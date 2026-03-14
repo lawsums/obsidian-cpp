@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "测验之魔女",
+      "path": "Templates/Homepage/测验之魔女.md"
+    },
+    {
+      "basename": "004_闪念",
+      "path": "Templates/Homepage/004_闪念.md"
+    },
+    {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "fmt",
       "path": "Software/fmt.md"
-    },
-    {
-      "basename": "Cpp",
-      "path": "Software/Cpp.md"
-    },
-    {
-      "basename": "Art of programming",
-      "path": "Templates/Homepage/Art of programming.md"
     }
   ],
   "omittedPaths": [],
