@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "生产实习",
-      "path": "项目/学校项目/生产实习.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "2026-03-15",
+      "path": "Dairies/2026-03-15.md"
+    },
+    {
+      "basename": "生产实习",
+      "path": "项目/学校项目/生产实习.md"
     },
     {
       "basename": "rubbish",
@@ -191,14 +199,6 @@
     {
       "basename": "string",
       "path": "Dairies/string.md"
-    },
-    {
-      "basename": "const和constexpr的关系",
-      "path": "操作系统/const和constexpr的关系.md"
-    },
-    {
-      "basename": "297.二叉树的序列化与反序列化",
-      "path": "Leetcode/297.二叉树的序列化与反序列化.md"
     }
   ],
   "omittedPaths": [],

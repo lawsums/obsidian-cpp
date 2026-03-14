@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "86a64e72f6516f04",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/学校项目/生产实习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "生产实习"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -186,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/学校项目/生产实习.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "生产实习 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -300,8 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -336,11 +309,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "86a64e72f6516f04",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-03-15.md",
+    "Templates/Daily_note_template.md",
     "Templates/Homepage/Homepage.md",
-    "项目/学校项目/rubbish.md",
     "项目/学校项目/生产实习.md",
+    "项目/学校项目/rubbish.md",
     "项目/学校项目",
     "项目/毕设/毕设规划.md",
     "项目/毕设/把其他传感器例程组合成头文件.md",
@@ -369,8 +344,6 @@
     "Templates/Homepage/试错.md",
     "Templates/Homepage/为什么 Makefile 能编译 nas 文件到 img 文件.md",
     "Dairies/2026-03-19.md",
-    "Dairies/2026-03-17.md",
-    "Dairies/2026-03-16.md",
     "Leetcode/297.二叉树的序列化与反序列化.cpp",
     "Leetcode/images/297_serdeser.jpg",
     "Leetcode/147. 对链表进行插入排序.cpp~",

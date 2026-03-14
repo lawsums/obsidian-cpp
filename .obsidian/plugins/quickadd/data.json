@@ -772,25 +772,6 @@
           }
         },
         {
-          "id": "fae28889-4355-4128-893a-29be4d455d6e",
-          "name": "Create_t_macro",
-          "type": "Macro",
-          "command": false,
-          "runOnStartup": true,
-          "macro": {
-            "name": "Create_t_macro",
-            "id": "8cb3acbd-533a-4aeb-ab8f-9984b41673b4",
-            "commands": [
-              {
-                "name": "QuickAdd: Create_t",
-                "type": "Obsidian",
-                "id": "b2c4a8e8-b690-4c12-9467-56a09f230749",
-                "commandId": "quickadd:choice:c9c655b4-4eff-4272-8da8-41237ad4da3c"
-              }
-            ]
-          }
-        },
-        {
           "id": "bd8e4d23-9734-4a14-96be-1421daee11f4",
           "name": "Create_t1",
           "type": "Capture",
@@ -1425,6 +1406,25 @@
             "id": "51ed159f-731a-48d6-8cae-903634da8279",
             "path": "Templates/ACGbangumiv2.1.js",
             "settings": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "fae28889-4355-4128-893a-29be4d455d6e",
+      "name": "Create_t_macro",
+      "type": "Macro",
+      "command": true,
+      "runOnStartup": true,
+      "macro": {
+        "name": "Create_t_macro",
+        "id": "8cb3acbd-533a-4aeb-ab8f-9984b41673b4",
+        "commands": [
+          {
+            "name": "QuickAdd: Create_t",
+            "type": "Obsidian",
+            "id": "b2c4a8e8-b690-4c12-9467-56a09f230749",
+            "commandId": "quickadd:choice:c9c655b4-4eff-4272-8da8-41237ad4da3c"
           }
         ]
       }
