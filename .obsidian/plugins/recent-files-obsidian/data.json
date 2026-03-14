@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-03-16",
+      "path": "Dairies/2026-03-16.md"
+    },
+    {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
     },
@@ -109,14 +113,6 @@
       "path": "Templates/Homepage/为什么 Makefile 能编译 nas 文件到 img 文件.md"
     },
     {
-      "basename": "2026-03-17",
-      "path": "Dairies/2026-03-17.md"
-    },
-    {
-      "basename": "2026-03-16",
-      "path": "Dairies/2026-03-16.md"
-    },
-    {
       "basename": "001_项目",
       "path": "Templates/Homepage/001_项目.md"
     },
@@ -191,14 +187,6 @@
     {
       "basename": "Art of programming",
       "path": "Templates/Homepage/Art of programming.md"
-    },
-    {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
-      "basename": "string",
-      "path": "Dairies/string.md"
     }
   ],
   "omittedPaths": [],

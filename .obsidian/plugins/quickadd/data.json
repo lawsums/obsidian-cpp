@@ -1421,10 +1421,10 @@
         "id": "8cb3acbd-533a-4aeb-ab8f-9984b41673b4",
         "commands": [
           {
-            "name": "QuickAdd: Create_t",
-            "type": "Obsidian",
-            "id": "b2c4a8e8-b690-4c12-9467-56a09f230749",
-            "commandId": "quickadd:choice:c9c655b4-4eff-4272-8da8-41237ad4da3c"
+            "name": "Create_t",
+            "type": "Choice",
+            "id": "f00c8568-b7f1-4c2d-87ae-76480688012a",
+            "choiceId": "c9c655b4-4eff-4272-8da8-41237ad4da3c"
           }
         ]
       }
