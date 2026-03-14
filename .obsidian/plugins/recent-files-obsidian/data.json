@@ -5,6 +5,10 @@
       "path": "Dairies/实现自己的数据结构.md"
     },
     {
+      "basename": "string",
+      "path": "Dairies/string.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
