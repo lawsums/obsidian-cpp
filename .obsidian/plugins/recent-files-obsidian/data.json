@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "生产实习",
+      "path": "项目/学校项目/生产实习.md"
+    },
+    {
+      "basename": "rubbish",
+      "path": "项目/学校项目/rubbish.md"
+    },
+    {
       "basename": "毕设规划",
       "path": "项目/毕设/毕设规划.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "297.二叉树的序列化与反序列化",
       "path": "Leetcode/297.二叉树的序列化与反序列化.md"
-    },
-    {
-      "basename": "微软100题",
-      "path": "Temp/微软100题.md"
-    },
-    {
-      "basename": "2026-04-12",
-      "path": "Dairies/2026-04-12.md"
     }
   ],
   "omittedPaths": [],
