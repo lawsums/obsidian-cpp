@@ -79,8 +79,7 @@
               "title": "测验之魔女"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/测验之魔女.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "测验之魔女 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -358,10 +357,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8a0b6b1737ee3786",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/004_闪念.md",
     "Templates/Homepage/测验之魔女.md",
+    "Templates/Homepage/004_闪念.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/string.md",
     "Templates/Homepage/Homepage.md",
