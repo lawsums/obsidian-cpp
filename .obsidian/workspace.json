@@ -55,7 +55,8 @@
               "title": "实现自己的数据结构"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/实现自己的数据结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "实现自己的数据结构 的大纲"
             }
           },
           {
@@ -333,10 +334,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "58192bf2491c9350",
   "lastOpenFiles": [
-    "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/实现自己的数据结构.md",
     "Dairies/2026-03-14.md",
     "Dairies/2026-03-20.md",
     "Dairies/2026-03-21.md",
