@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "生产实习",
-      "path": "项目/学校项目/生产实习.md"
+      "basename": "学习esp32s3",
+      "path": "Templates/Homepage/学习esp32s3.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "毕设规划",
+      "path": "项目/毕设/毕设规划.md"
+    },
+    {
+      "basename": "把其他传感器例程组合成头文件",
+      "path": "项目/毕设/把其他传感器例程组合成头文件.md"
+    },
+    {
+      "basename": "2026-03-15",
+      "path": "Dairies/2026-03-15.md"
+    },
+    {
+      "basename": "生产实习",
+      "path": "项目/学校项目/生产实习.md"
     },
     {
       "basename": "string",
@@ -29,16 +45,8 @@
       "path": "Dairies/c 风格赋值.md"
     },
     {
-      "basename": "把其他传感器例程组合成头文件",
-      "path": "项目/毕设/把其他传感器例程组合成头文件.md"
-    },
-    {
       "basename": "C++知识学习",
       "path": "Templates/Homepage/C++知识学习.md"
-    },
-    {
-      "basename": "学习esp32s3",
-      "path": "Templates/Homepage/学习esp32s3.md"
     },
     {
       "basename": "25.K 个一组翻转链表",
@@ -55,10 +63,6 @@
     {
       "basename": "费马小定理",
       "path": "代码模版/小知识/费马小定理.md"
-    },
-    {
-      "basename": "2026-03-15",
-      "path": "Dairies/2026-03-15.md"
     },
     {
       "basename": "2026-03-13",
@@ -95,10 +99,6 @@
     {
       "basename": "rubbish",
       "path": "项目/学校项目/rubbish.md"
-    },
-    {
-      "basename": "毕设规划",
-      "path": "项目/毕设/毕设规划.md"
     },
     {
       "basename": "Effctive STL",
