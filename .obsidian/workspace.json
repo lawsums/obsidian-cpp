@@ -86,7 +86,7 @@
               "type": "markdown",
               "state": {
                 "file": "项目/学校项目/生产实习.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -384,6 +384,8 @@
   },
   "active": "2c2a0bfdb908cec5",
   "lastOpenFiles": [
+    "Pandoc/~$生产实习.docx",
+    "Pandoc/生产实习.docx",
     "Templates/Homepage/Homepage.md",
     "Dairies/string.md",
     "Templates/Homepage/30天制作一个操作系统.md",
@@ -412,7 +414,6 @@
     "Dairies/2026-03-15.md",
     "Templates/Daily_note_template.md",
     "项目/学校项目/生产实习.md",
-    "项目/学校项目/rubbish.md",
     "项目/学校项目",
     "项目/毕设",
     "Leetcode/459. 重复的子字符串.cpp",
@@ -423,7 +424,6 @@
     "Leetcode/297.二叉树的序列化与反序列化.cpp",
     "Leetcode/images/297_serdeser.jpg",
     "Leetcode/147. 对链表进行插入排序.cpp~",
-    "Leetcode/147. 对链表进行插入排序.cpp",
     "Leetcode/images/147_1724130432-zoOvdI-image.png",
     "Leetcode/images/147_1724130414-QbPAjl-image.png",
     "Leetcode/images/147_1724130387-qxfMwx-Insertion-sort-example-300px.gif",
