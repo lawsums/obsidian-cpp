@@ -6,6 +6,7 @@
 - [x] 实现 split
 - [x] 实现 join
 - [x] 实现 shift
+- [ ] 测试 join/split
 - [ ] 实现 splice
 - [ ] 实现反向迭代器
 - [x] Left
@@ -15,9 +16,12 @@
 - [ ] Replace
 - [ ] Prepend
 - [ ] 实现 4 种版本的 to_string 及相关构造函数
-	- [ ] int
-	- [ ] long long
-	- [ ] float
-	- [ ] double
+	- [x] int
+	- [x] long long
+	- [x] float
+	- [x] double
+	- [ ] 相关构造函数
+- [x] 测试 to_string
+	- [ ] float 版本有 bug
 - [ ] 实现 stoi/...
-- [ ] 
+- [ ] 测试 stoi/...
