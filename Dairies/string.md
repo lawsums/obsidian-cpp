@@ -3,6 +3,7 @@
 - [x] 实现 contain (kmp)
 - [x] 实现 index_of
 - [ ] 实现 last_index_of
+	- [ ] 实现反向迭代器, 然后就和 index_of 一样了
 - [x] 实现 split
 - [x] 实现 join
 - [x] 实现 shift

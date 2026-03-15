@@ -32,54 +32,6 @@
             }
           },
           {
-            "id": "999b7e2d178e3564",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/实现自己的数据结构.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "实现自己的数据结构"
-            }
-          },
-          {
-            "id": "a8fa3bde95b82293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/string.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "string"
-            }
-          },
-          {
             "id": "d1e7b1541662d1ee",
             "type": "leaf",
             "state": {
@@ -127,8 +79,7 @@
               "title": "把其他传感器例程组合成头文件"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/string.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "string 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -406,13 +357,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "6972bc5f1f3f2eb9",
   "lastOpenFiles": [
+    "Dairies/string.md",
     "Templates/Homepage/30天制作一个操作系统.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/学习C++.md",
-    "Dairies/string.md",
     "Dairies/c 风格赋值.md",
     "项目/毕设/把其他传感器例程组合成头文件.md",
     "Templates/Homepage/C++知识学习.md",

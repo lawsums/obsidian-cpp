@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "string",
       "path": "Dairies/string.md"
     },
     {
       "basename": "30天制作一个操作系统",
       "path": "Templates/Homepage/30天制作一个操作系统.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "实现自己的数据结构",
