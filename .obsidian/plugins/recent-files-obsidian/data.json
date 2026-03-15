@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-03-15",
+      "path": "Dairies/2026-03-15.md"
+    },
+    {
+      "basename": "2026-03-13",
+      "path": "Dairies/2026-03-13.md"
+    },
+    {
       "basename": "测验之魔女",
       "path": "Templates/Homepage/测验之魔女.md"
     },
@@ -41,10 +49,6 @@
       "path": "Templates/Daily_note_template.md"
     },
     {
-      "basename": "2026-03-15",
-      "path": "Dairies/2026-03-15.md"
-    },
-    {
       "basename": "生产实习",
       "path": "项目/学校项目/生产实习.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "git",
       "path": "Software/git.md"
-    },
-    {
-      "basename": "2026-03-13",
-      "path": "Dairies/2026-03-13.md"
     },
     {
       "basename": "459. 重复的子字符串",
