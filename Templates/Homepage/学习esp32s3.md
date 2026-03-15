@@ -1,5 +1,9 @@
 
 [ESP32入门教程之ESP-MESH_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1a4VEz9Ep3/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994)
+[开源！STM32连接华为云最简单方案！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U4FXzyESc/?spm_id_from=333.1387.homepage.video_card.click&vd_source=cf6228c0b4a5c283905e22fd11934994)
+[开源！华为云毕设APP！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1k4Akz1Ejv/?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2481894-96shx.1773568640070.896&vd_source=cf6228c0b4a5c283905e22fd11934994)
+
+
 
 - [x] ESP32开发环境搭建(Platformlo+arduino)
 - [x] ESP32入门教程之点亮LED
@@ -8,7 +12,7 @@
 - [ ] ESP32-CAM视频流传输教程（网页端+APP）
 - [x] ESP32入门教程之BLE
 - [x] ESP32入门教程之DHT(温湿度)+LCD1602
-- [x] ESP32连接阿里云教程（温湿度上传到云端+手.
+- [ ] ESP32连接阿里云教程（温湿度上传到云端+手.
 - [ ] ESP32连接阿里云教程（手机远程控制LED亮灭.
 - [ ] ESP32-CAM内网穿透教程
 - [x] ESP32入门教程之ESP-MESH
