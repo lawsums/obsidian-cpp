@@ -78,8 +78,33 @@
               "icon": "lucide-file",
               "title": "把其他传感器例程组合成头文件"
             }
+          },
+          {
+            "id": "2c2a0bfdb908cec5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/学校项目/生产实习.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "生产实习"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/学校项目/生产实习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "生产实习 的大纲"
             }
           },
           {
@@ -357,11 +382,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6972bc5f1f3f2eb9",
+  "active": "2c2a0bfdb908cec5",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Dairies/string.md",
     "Templates/Homepage/30天制作一个操作系统.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/c 风格赋值.md",
