@@ -2,7 +2,7 @@
 [ESP32入门教程之ESP-MESH_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1a4VEz9Ep3/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994)
 [开源！STM32连接华为云最简单方案！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1U4FXzyESc/?spm_id_from=333.1387.homepage.video_card.click&vd_source=cf6228c0b4a5c283905e22fd11934994)
 [开源！华为云毕设APP！_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1k4Akz1Ejv/?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2481894-96shx.1773568640070.896&vd_source=cf6228c0b4a5c283905e22fd11934994)
-
+[毕设三大常用免费物联网云平台优缺点比较_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Hc9tYsERE/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994)
 
 
 - [x] ESP32开发环境搭建(Platformlo+arduino)

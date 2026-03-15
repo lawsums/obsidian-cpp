@@ -29,7 +29,14 @@
           },
           "filter": {
             "conjunction": "and",
-            "conditions": []
+            "conditions": [
+              {
+                "field": "观看状态",
+                "operator": "is",
+                "enabled": false,
+                "value": "想看⏰"
+              }
+            ]
           },
           "colors": {
             "conditions": []
@@ -124,6 +131,36 @@
           "id": "1fd9e8ad-a688-427f-bf6d-992093efc514",
           "name": "表格",
           "type": "table"
+        },
+        {
+          "config": {
+            "coverField": "封面",
+            "cardWidth": 120,
+            "includeFields": [
+              "标签",
+              "开播日期"
+            ]
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "观看状态",
+                "operator": "is",
+                "enabled": true,
+                "value": "想看⏰"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "52fa4575-b7e9-442c-a7b3-fa58987b40be",
+          "name": "待看的番",
+          "type": "gallery"
         }
       ],
       "id": "ca45b3c9-997d-4fa6-8ecf-7a5950228113",

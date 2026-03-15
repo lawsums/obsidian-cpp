@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "生产实习",
+      "path": "项目/学校项目/生产实习.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "学习esp32s3",
       "path": "Templates/Homepage/学习esp32s3.md"
     },
@@ -9,8 +17,12 @@
       "path": "项目/毕设/毕设规划.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "明日同学的水手服",
+      "path": "Projects/anime/明日同学的水手服.md"
+    },
+    {
+      "basename": "婚姻剧毒",
+      "path": "Projects/anime/婚姻剧毒.md"
     },
     {
       "basename": "学习科目四",
@@ -19,10 +31,6 @@
     {
       "basename": "30天制作一个操作系统",
       "path": "Templates/Homepage/30天制作一个操作系统.md"
-    },
-    {
-      "basename": "生产实习",
-      "path": "项目/学校项目/生产实习.md"
     },
     {
       "basename": "把其他传感器例程组合成头文件",
@@ -191,14 +199,6 @@
     {
       "basename": "vim",
       "path": "Software/vim.md"
-    },
-    {
-      "basename": "Obsidian-vimrc",
-      "path": "Software/Obsidian-vimrc.md"
-    },
-    {
-      "basename": "Vscode-vim",
-      "path": "Software/Vscode-vim.md"
     }
   ],
   "omittedPaths": [],

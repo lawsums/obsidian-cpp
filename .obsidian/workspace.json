@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "998c8411b7cb9b08",
+            "id": "6588699dd4d44390",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -53,6 +53,16 @@
               },
               "icon": "lucide-file",
               "title": "学习esp32s3"
+            }
+          },
+          {
+            "id": "a21ddccc47ab51df",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           },
           {
@@ -128,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -257,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习esp32s3.md",
+                "file": "项目/学校项目/生产实习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习esp32s3 的大纲"
+              "title": "生产实习 的大纲"
             }
           },
           {
@@ -406,11 +416,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "998c8411b7cb9b08",
+  "active": "2c2a0bfdb908cec5",
   "lastOpenFiles": [
-    "项目/毕设/毕设规划.md",
-    "Templates/Homepage/学习esp32s3.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习esp32s3.md",
+    "项目/毕设/毕设规划.md",
+    "Projects/anime/明日同学的水手服.md",
+    "Projects/anime/婚姻剧毒.md",
     "Dairies/学习科目四.md",
     "Dairies/2026-03-29.md",
     "Templates/Homepage/30天制作一个操作系统.md",
@@ -437,8 +449,6 @@
     "Dairies/2026-03-20.md",
     "Dairies/2026-03-21.md",
     "Dairies/2026-03-17.md",
-    "Dairies/2026-03-16.md",
-    "Dairies/2026-03-18.md",
     "项目/学校项目",
     "项目/毕设",
     "Leetcode/459. 重复的子字符串.cpp",
