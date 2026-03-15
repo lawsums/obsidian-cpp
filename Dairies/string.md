@@ -6,7 +6,8 @@
 - [x] 实现 split
 - [x] 实现 join
 - [x] 实现 shift
-- [ ] 测试 join/split
+- [x] 测试 join/split
+	- [ ] 目前 [[c 风格赋值]](不是构造)有 bug
 - [ ] 实现 splice
 - [ ] 实现反向迭代器
 - [x] Left
@@ -25,3 +26,5 @@
 	- [ ] float 版本有 bug
 - [ ] 实现 stoi/...
 - [ ] 测试 stoi/...
+
+

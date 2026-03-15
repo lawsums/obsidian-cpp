@@ -5,24 +5,28 @@
       "path": "Dairies/string.md"
     },
     {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
+      "basename": "30天制作一个操作系统",
+      "path": "Templates/Homepage/30天制作一个操作系统.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "30天制作一个操作系统",
-      "path": "Templates/Homepage/30天制作一个操作系统.md"
-    },
-    {
-      "basename": "把其他传感器例程组合成头文件",
-      "path": "项目/毕设/把其他传感器例程组合成头文件.md"
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "c 风格赋值",
+      "path": "Dairies/c 风格赋值.md"
+    },
+    {
+      "basename": "把其他传感器例程组合成头文件",
+      "path": "项目/毕设/把其他传感器例程组合成头文件.md"
     },
     {
       "basename": "C++知识学习",
@@ -195,10 +199,6 @@
     {
       "basename": "Vscode-vim",
       "path": "Software/Vscode-vim.md"
-    },
-    {
-      "basename": "nvim",
-      "path": "Software/nvim.md"
     }
   ],
   "omittedPaths": [],
