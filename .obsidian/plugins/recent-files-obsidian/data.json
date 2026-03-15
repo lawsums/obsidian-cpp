@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "string",
+      "path": "Dairies/string.md"
+    },
+    {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -55,14 +63,6 @@
     {
       "basename": "004_闪念",
       "path": "Templates/Homepage/004_闪念.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
-      "basename": "string",
-      "path": "Dairies/string.md"
     },
     {
       "basename": "2026-03-14",

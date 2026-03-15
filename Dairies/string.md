@@ -14,7 +14,10 @@
 - [ ] Remove
 - [ ] Replace
 - [ ] Prepend
-- [ ] 实现一些
-- [ ] 实现 to_string 及相关构造函数
+- [ ] 实现 4 种版本的 to_string 及相关构造函数
+	- [ ] int
+	- [ ] long long
+	- [ ] float
+	- [ ] double
 - [ ] 实现 stoi/...
 - [ ] 
