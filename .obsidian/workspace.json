@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "bb684791f96cbdd7",
+            "id": "8d00e2137859d047",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -103,8 +103,7 @@
               "title": "生产实习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/实现自己的数据结构.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实现自己的数据结构 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -383,11 +382,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bb684791f96cbdd7",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/Homepage.md",
-    "项目/学校项目/生产实习.md",
     "Templates/Homepage/Javascript现代教程.md",
+    "项目/学校项目/生产实习.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/007_书籍.md",
     "Dairies/2026-03-16.md",
@@ -410,7 +410,6 @@
     "Pandoc/~$生产实习.docx",
     "Pandoc/生产实习.docx",
     "Dairies/string.md",
-    "Dairies/实现自己的数据结构.md",
     "Dairies/c 风格赋值.md",
     "Templates/Homepage/C++知识学习.md",
     "Leetcode/25.K 个一组翻转链表.md",
