@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "生产实习",
+      "path": "项目/学校项目/生产实习.md"
+    },
+    {
+      "basename": "Javascript现代教程",
+      "path": "Templates/Homepage/Javascript现代教程.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "2026-03-16",
       "path": "Dairies/2026-03-16.md"
-    },
-    {
-      "basename": "Javascript现代教程",
-      "path": "Templates/Homepage/Javascript现代教程.md"
     },
     {
       "basename": "30天制作一个操作系统",
@@ -39,10 +43,6 @@
     {
       "basename": "Art of programming",
       "path": "Templates/Homepage/Art of programming.md"
-    },
-    {
-      "basename": "生产实习",
-      "path": "项目/学校项目/生产实习.md"
     },
     {
       "basename": "学习esp32s3",
