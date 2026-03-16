@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "项目功能结构",
+      "path": "项目/公司项目/项目功能结构.md"
+    },
+    {
+      "basename": "南京市项目合同",
+      "path": "项目/公司项目/南京市项目合同.md"
+    },
+    {
+      "basename": "备份",
+      "path": "项目/公司项目/备份.md"
+    },
+    {
+      "basename": "Javascript现代教程",
+      "path": "Templates/Homepage/Javascript现代教程.md"
+    },
+    {
+      "basename": "007_书籍",
+      "path": "Templates/Homepage/007_书籍.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Art of programming",
+      "path": "Templates/Homepage/Art of programming.md"
     },
     {
       "basename": "生产实习",
@@ -141,10 +165,6 @@
       "path": "Templates/Homepage/30天制作一个服务器.md"
     },
     {
-      "basename": "007_书籍",
-      "path": "Templates/Homepage/007_书籍.md"
-    },
-    {
       "basename": "450.删除二叉搜索树中的节点",
       "path": "Leetcode/450.删除二叉搜索树中的节点.md"
     },
@@ -179,26 +199,6 @@
     {
       "basename": "002_稍后再看",
       "path": "Templates/Homepage/002_稍后再看.md"
-    },
-    {
-      "basename": "003_不定期任务",
-      "path": "Templates/Homepage/003_不定期任务.md"
-    },
-    {
-      "basename": "Javascript现代教程",
-      "path": "Templates/Homepage/Javascript现代教程.md"
-    },
-    {
-      "basename": "Diet_template",
-      "path": "Templates/Diet_template.md"
-    },
-    {
-      "basename": "vsvim",
-      "path": "Software/vsvim.md"
-    },
-    {
-      "basename": "vim",
-      "path": "Software/vim.md"
     }
   ],
   "omittedPaths": [],
