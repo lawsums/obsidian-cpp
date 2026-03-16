@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "6eccb0c72492f749",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/30天制作一个操作系统.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "30天制作一个操作系统"
-            }
-          },
-          {
             "id": "948fb0d8423be845",
             "type": "leaf",
             "state": {
@@ -127,8 +103,7 @@
               "title": "南京市项目合同"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/30天制作一个操作系统.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "30天制作一个操作系统 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -408,12 +383,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6eccb0c72492f749",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/30天制作一个操作系统.md",
     "Attachments/Pasted image 20260316144034.png",
     "项目/公司项目/项目功能结构.md",
     "项目/公司项目/南京市项目合同.md",
-    "Templates/Homepage/30天制作一个操作系统.md",
     "Templates/Homepage/Homepage.md",
     "项目/公司项目/备份.md",
     "Templates/Homepage/Javascript现代教程.md",
@@ -455,7 +430,6 @@
     "Leetcode/images/147_1724130387-qxfMwx-Insertion-sort-example-300px.gif",
     "Leetcode/images/25_reverse_ex2.jpg",
     "Leetcode/images/25_reverse_ex1.jpg",
-    "Leetcode/images/101_1698027008-nPFLbM-image.png",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
