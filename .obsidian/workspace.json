@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/公司项目/项目功能结构.md",
+                "file": "Templates/Homepage/30天制作一个操作系统.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "项目功能结构 的大纲"
+              "title": "30天制作一个操作系统 的大纲"
             }
           },
           {
@@ -406,10 +406,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "983bb32fc3d0fe9b",
+  "active": "6eccb0c72492f749",
   "lastOpenFiles": [
-    "项目/公司项目/南京市项目合同.md",
+    "Attachments/Pasted image 20260316144034.png",
     "项目/公司项目/项目功能结构.md",
+    "项目/公司项目/南京市项目合同.md",
     "Templates/Homepage/30天制作一个操作系统.md",
     "Templates/Homepage/Homepage.md",
     "项目/公司项目/备份.md",
@@ -439,7 +440,6 @@
     "代码模版/小知识/费马小定理.md",
     "代码模版/小知识",
     "Leetcode/1728.奇妙序列.cpp",
-    "Dairies/2026-03-13.md",
     "项目/学校项目",
     "项目/毕设",
     "Leetcode/459. 重复的子字符串.cpp",
