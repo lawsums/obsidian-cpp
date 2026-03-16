@@ -5,6 +5,22 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "007_书籍",
+      "path": "Templates/Homepage/007_书籍.md"
+    },
+    {
+      "basename": "2026-03-16",
+      "path": "Dairies/2026-03-16.md"
+    },
+    {
+      "basename": "Javascript现代教程",
+      "path": "Templates/Homepage/Javascript现代教程.md"
+    },
+    {
       "basename": "30天制作一个操作系统",
       "path": "Templates/Homepage/30天制作一个操作系统.md"
     },
@@ -19,14 +35,6 @@
     {
       "basename": "备份",
       "path": "项目/公司项目/备份.md"
-    },
-    {
-      "basename": "Javascript现代教程",
-      "path": "Templates/Homepage/Javascript现代教程.md"
-    },
-    {
-      "basename": "007_书籍",
-      "path": "Templates/Homepage/007_书籍.md"
     },
     {
       "basename": "Art of programming",
@@ -71,10 +79,6 @@
     {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "c 风格赋值",
@@ -123,10 +127,6 @@
     {
       "basename": "2026-03-21",
       "path": "Dairies/2026-03-21.md"
-    },
-    {
-      "basename": "2026-03-16",
-      "path": "Dairies/2026-03-16.md"
     },
     {
       "basename": "Daily_note_template",
