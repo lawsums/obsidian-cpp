@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "30天制作一个操作系统",
+      "path": "Templates/Homepage/30天制作一个操作系统.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "南京市项目合同",
       "path": "项目/公司项目/南京市项目合同.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "007_书籍",
       "path": "Templates/Homepage/007_书籍.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "Art of programming",
@@ -51,10 +55,6 @@
     {
       "basename": "学习科目四",
       "path": "Dairies/学习科目四.md"
-    },
-    {
-      "basename": "30天制作一个操作系统",
-      "path": "Templates/Homepage/30天制作一个操作系统.md"
     },
     {
       "basename": "把其他传感器例程组合成头文件",
