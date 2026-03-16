@@ -104,7 +104,7 @@
             }
           },
           {
-            "id": "0560d95de2f92ff4",
+            "id": "ab9a0fd5270dc5d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -257,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/30天制作一个操作系统.md",
+                "file": "项目/公司项目/项目功能结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "30天制作一个操作系统 的大纲"
+              "title": "项目功能结构 的大纲"
             }
           },
           {
@@ -406,11 +406,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6eccb0c72492f749",
+  "active": "983bb32fc3d0fe9b",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "项目/公司项目/南京市项目合同.md",
     "项目/公司项目/项目功能结构.md",
+    "Templates/Homepage/30天制作一个操作系统.md",
+    "Templates/Homepage/Homepage.md",
     "项目/公司项目/备份.md",
     "Templates/Homepage/Javascript现代教程.md",
     "Templates/Homepage/007_书籍.md",
@@ -423,7 +424,6 @@
     "Projects/anime/婚姻剧毒.md",
     "Dairies/学习科目四.md",
     "Dairies/2026-03-29.md",
-    "Templates/Homepage/30天制作一个操作系统.md",
     "项目/毕设/把其他传感器例程组合成头文件.md",
     "Dairies/2026-03-15.md",
     "Pandoc/~$生产实习.docx",
