@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "30天制作一个操作系统",
-      "path": "Templates/Homepage/30天制作一个操作系统.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习科目三",
+      "path": "Templates/学习科目三.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "财务",
+      "path": "Temp/财务.md"
+    },
+    {
+      "basename": "30天制作一个操作系统",
+      "path": "Templates/Homepage/30天制作一个操作系统.md"
     },
     {
       "basename": "文档更新",
@@ -23,10 +35,6 @@
     {
       "basename": "git",
       "path": "Software/git.md"
-    },
-    {
-      "basename": "学习科目三",
-      "path": "Templates/学习科目三.md"
     },
     {
       "basename": "Daily_note_template",
@@ -59,10 +67,6 @@
     {
       "basename": "Javascript现代教程",
       "path": "Templates/Homepage/Javascript现代教程.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "007_书籍",
@@ -195,10 +199,6 @@
     {
       "basename": "c程序后缀名逻辑",
       "path": "Templates/Homepage/c程序后缀名逻辑.md"
-    },
-    {
-      "basename": "试错",
-      "path": "Templates/Homepage/试错.md"
     }
   ],
   "omittedPaths": [],
