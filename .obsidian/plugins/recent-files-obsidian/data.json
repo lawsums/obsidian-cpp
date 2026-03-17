@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-03-15",
+      "path": "Dairies/2026-03-15.md"
+    },
+    {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "把其他传感器例程组合成头文件",
       "path": "项目/毕设/把其他传感器例程组合成头文件.md"
-    },
-    {
-      "basename": "2026-03-15",
-      "path": "Dairies/2026-03-15.md"
     },
     {
       "basename": "string",
