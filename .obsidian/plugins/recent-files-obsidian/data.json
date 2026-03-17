@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "git",
+      "path": "Software/git.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "生产实习",
       "path": "项目/学校项目/生产实习.md"
-    },
-    {
-      "basename": "git",
-      "path": "Software/git.md"
     },
     {
       "basename": "2026-03-15",
