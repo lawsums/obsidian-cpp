@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "生产实习",
+      "path": "项目/学校项目/生产实习.md"
+    },
+    {
+      "basename": "30天制作一个操作系统",
+      "path": "Templates/Homepage/30天制作一个操作系统.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -21,10 +29,6 @@
       "path": "Templates/Homepage/Javascript现代教程.md"
     },
     {
-      "basename": "生产实习",
-      "path": "项目/学校项目/生产实习.md"
-    },
-    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "2026-03-16",
       "path": "Dairies/2026-03-16.md"
-    },
-    {
-      "basename": "30天制作一个操作系统",
-      "path": "Templates/Homepage/30天制作一个操作系统.md"
     },
     {
       "basename": "项目功能结构",

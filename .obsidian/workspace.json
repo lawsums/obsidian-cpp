@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "b11f703ba15a65c9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/30天制作一个操作系统.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "30天制作一个操作系统"
+            }
+          },
+          {
+            "id": "5f806f8d4610468e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/学校项目/生产实习.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "生产实习"
+            }
+          },
+          {
             "id": "61b30a0fa984a622",
             "type": "leaf",
             "state": {
@@ -54,18 +102,9 @@
               "icon": "lucide-file",
               "title": "git"
             }
-          },
-          {
-            "id": "46870978980d84ac",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -194,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/学校项目/生产实习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "生产实习 的大纲"
             }
           },
           {
@@ -308,7 +348,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -343,21 +384,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "5f806f8d4610468e",
   "lastOpenFiles": [
+    "Templates/Homepage/30天制作一个操作系统.md",
+    "Templates/Homepage/Homepage.md",
+    "项目/学校项目/生产实习.md",
     "Software/git.md",
     "Dairies/2026-03-19.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-03-15.md",
     "Dairies/2026-03-17.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/Javascript现代教程.md",
-    "项目/学校项目/生产实习.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/007_书籍.md",
     "Dairies/2026-03-16.md",
     "Dairies/2026-03-18.md",
-    "Templates/Homepage/30天制作一个操作系统.md",
     "Attachments/Pasted image 20260316144034.png",
     "项目/公司项目/项目功能结构.md",
     "项目/公司项目/南京市项目合同.md",
