@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "学习科目四",
-      "path": "Dairies/学习科目四.md"
+      "basename": "学习科目三",
+      "path": "Templates/学习科目三.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "生产实习",
-      "path": "项目/学校项目/生产实习.md"
-    },
-    {
       "basename": "30天制作一个操作系统",
       "path": "Templates/Homepage/30天制作一个操作系统.md"
+    },
+    {
+      "basename": "学习科目四",
+      "path": "Dairies/学习科目四.md"
+    },
+    {
+      "basename": "string",
+      "path": "Dairies/string.md"
+    },
+    {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
+      "basename": "自己写一个类型怎么样能调用stl算法",
+      "path": "操作系统/自己写一个类型怎么样能调用stl算法.md"
+    },
+    {
+      "basename": "生产实习",
+      "path": "项目/学校项目/生产实习.md"
     },
     {
       "basename": "git",
@@ -23,10 +43,6 @@
     {
       "basename": "2026-03-15",
       "path": "Dairies/2026-03-15.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "Javascript现代教程",
@@ -81,10 +97,6 @@
       "path": "项目/毕设/把其他传感器例程组合成头文件.md"
     },
     {
-      "basename": "string",
-      "path": "Dairies/string.md"
-    },
-    {
       "basename": "c 风格赋值",
       "path": "Dairies/c 风格赋值.md"
     },
@@ -131,10 +143,6 @@
     {
       "basename": "2026-03-21",
       "path": "Dairies/2026-03-21.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "rubbish",
@@ -191,14 +199,6 @@
     {
       "basename": "为什么 Makefile 能编译 nas 文件到 img 文件",
       "path": "Templates/Homepage/为什么 Makefile 能编译 nas 文件到 img 文件.md"
-    },
-    {
-      "basename": "001_项目",
-      "path": "Templates/Homepage/001_项目.md"
-    },
-    {
-      "basename": "002_稍后再看",
-      "path": "Templates/Homepage/002_稍后再看.md"
     }
   ],
   "omittedPaths": [],

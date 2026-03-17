@@ -12,7 +12,7 @@ number headings: off
 `button-interview`    `button-leetcode`    `button-newcoder`    `button-duolinguo`   `button-zuochengyun`
 
 ## 今天的待办项
-- [ ] [[学习科目四]]
+- [ ] [[学习科目三]]
 - [ ] 生产实习两篇日记
 - [ ] [多邻国练习](https://www.duolingo.cn/learn)
 - [ ] [[实现自己的数据结构]]

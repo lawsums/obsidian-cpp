@@ -3,14 +3,17 @@
 - [x] 实现 contain (kmp)
 - [x] 实现 index_of
 - [ ] 实现 last_index_of
-	- [ ] 实现反向迭代器, 然后就和 index_of 一样了
+	- [x] 实现反向迭代器, 然后就和 index_of 一样了
 - [x] 实现 split
 - [x] 实现 join
 - [x] 实现 shift
 - [x] 测试 join/split
 	- [ ] 目前 [[c 风格赋值]](不是构造)有 bug
 - [ ] 实现 splice
-- [ ] 实现反向迭代器
+- [x] 实现反向迭代器
+	- [ ] 通过 `std::reverse_iterator<XXX>` 接口适配器实现反向迭代器
+	- [ ] 实现基本类型的声明 `value_type` `pointer` `const_pointer` `reference` `const_reference` `difference_type` `size_type`
+	- [ ] 实现 const 和 非const 两个版本的迭代器
 - [x] Left
 - [x] Mid
 - [x] Right

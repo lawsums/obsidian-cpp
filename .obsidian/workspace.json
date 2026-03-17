@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "8a4d3e43a998ea40",
+            "id": "93b26a9208266f7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/学习科目四.md",
+                "file": "Templates/学习科目三.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "学习科目四"
+              "title": "学习科目三"
             }
           },
           {
@@ -77,30 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "30天制作一个操作系统"
-            }
-          },
-          {
-            "id": "61b30a0fa984a622",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "git"
             }
           }
         ],
@@ -234,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/学习科目四.md",
+                "file": "Templates/学习科目三.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习科目四 的大纲"
+              "title": "学习科目三 的大纲"
             }
           },
           {
@@ -384,16 +360,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8a4d3e43a998ea40",
+  "active": "93b26a9208266f7b",
   "lastOpenFiles": [
+    "Templates/Daily_note_template.md",
+    "Templates/学习科目三.md",
     "Templates/Homepage/Homepage.md",
-    "项目/学校项目/生产实习.md",
     "Templates/Homepage/30天制作一个操作系统.md",
+    "Dairies/学习科目四.md",
+    "Dairies/string.md",
+    "Dairies/实现自己的数据结构.md",
+    "操作系统/自己写一个类型怎么样能调用stl算法.md",
+    "项目/学校项目/生产实习.md",
     "Software/git.md",
     "Dairies/2026-03-19.md",
     "Dairies/2026-03-15.md",
     "Dairies/2026-03-17.md",
-    "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/Javascript现代教程.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/007_书籍.md",
@@ -409,13 +390,8 @@
     "项目/毕设/毕设规划.md",
     "Projects/anime/明日同学的水手服.md",
     "Projects/anime/婚姻剧毒.md",
-    "Dairies/学习科目四.md",
-    "Dairies/2026-03-29.md",
-    "项目/毕设/把其他传感器例程组合成头文件.md",
     "Pandoc/~$生产实习.docx",
     "Pandoc/生产实习.docx",
-    "Dairies/string.md",
-    "Dairies/c 风格赋值.md",
     "Leetcode/25.K 个一组翻转链表.cpp",
     "代码模版/小知识",
     "Leetcode/1728.奇妙序列.cpp",
