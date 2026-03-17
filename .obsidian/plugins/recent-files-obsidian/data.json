@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "git",
+      "path": "Software/git.md"
+    },
+    {
       "basename": "2026-03-15",
       "path": "Dairies/2026-03-15.md"
     },
@@ -139,10 +143,6 @@
     {
       "basename": "Effctive STL",
       "path": "Templates/Homepage/Effctive STL.md"
-    },
-    {
-      "basename": "git",
-      "path": "Software/git.md"
     },
     {
       "basename": "459. 重复的子字符串",
