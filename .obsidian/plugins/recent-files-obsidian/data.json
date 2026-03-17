@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "文档更新",
+      "path": "项目/公司项目/文档更新.md"
+    },
+    {
+      "basename": "项目功能结构",
+      "path": "项目/公司项目/项目功能结构.md"
+    },
+    {
+      "basename": "备份",
+      "path": "项目/公司项目/备份.md"
+    },
+    {
       "basename": "git",
       "path": "Software/git.md"
     },
@@ -61,16 +73,8 @@
       "path": "Dairies/2026-03-16.md"
     },
     {
-      "basename": "项目功能结构",
-      "path": "项目/公司项目/项目功能结构.md"
-    },
-    {
       "basename": "南京市项目合同",
       "path": "项目/公司项目/南京市项目合同.md"
-    },
-    {
-      "basename": "备份",
-      "path": "项目/公司项目/备份.md"
     },
     {
       "basename": "Art of programming",
@@ -195,10 +199,6 @@
     {
       "basename": "试错",
       "path": "Templates/Homepage/试错.md"
-    },
-    {
-      "basename": "为什么 Makefile 能编译 nas 文件到 img 文件",
-      "path": "Templates/Homepage/为什么 Makefile 能编译 nas 文件到 img 文件.md"
     }
   ],
   "omittedPaths": [],
