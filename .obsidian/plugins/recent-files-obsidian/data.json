@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "学习科目四",
+      "path": "Dairies/学习科目四.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "生产实习",
       "path": "项目/学校项目/生产实习.md"
     },
     {
       "basename": "30天制作一个操作系统",
       "path": "Templates/Homepage/30天制作一个操作系统.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "git",
@@ -71,10 +75,6 @@
     {
       "basename": "婚姻剧毒",
       "path": "Projects/anime/婚姻剧毒.md"
-    },
-    {
-      "basename": "学习科目四",
-      "path": "Dairies/学习科目四.md"
     },
     {
       "basename": "把其他传感器例程组合成头文件",
