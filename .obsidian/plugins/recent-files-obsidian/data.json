@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "30天制作一个服务器",
+      "path": "Templates/Homepage/30天制作一个服务器.md"
+    },
+    {
+      "basename": "007_书籍",
+      "path": "Templates/Homepage/007_书籍.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
@@ -105,10 +113,6 @@
       "path": "Templates/Homepage/Javascript现代教程.md"
     },
     {
-      "basename": "007_书籍",
-      "path": "Templates/Homepage/007_书籍.md"
-    },
-    {
       "basename": "2026-03-16",
       "path": "Dairies/2026-03-16.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "调整neovim clangd路径",
       "path": "Templates/Homepage/调整neovim clangd路径.md"
-    },
-    {
-      "basename": "2026-03-11",
-      "path": "Dairies/2026-03-11.md"
     }
   ],
   "omittedPaths": [],
