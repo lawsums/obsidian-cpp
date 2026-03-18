@@ -56,54 +56,6 @@
             }
           },
           {
-            "id": "a8fa3bde95b82293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/学校项目/生产实习.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "生产实习"
-            }
-          },
-          {
-            "id": "48bd3773bdc40fd3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/41.缺失的第一个正数.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "41.缺失的第一个正数"
-            }
-          },
-          {
             "id": "e6895ed73491abcc",
             "type": "leaf",
             "state": {
@@ -150,9 +102,33 @@
               "icon": "lucide-file",
               "title": "文档更新"
             }
+          },
+          {
+            "id": "164a8cdd67846241",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "git"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -281,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/公司项目/文档更新.md",
+                "file": "Software/git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "文档更新 的大纲"
+              "title": "git 的大纲"
             }
           },
           {
@@ -430,13 +406,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fa71e3bd99b8a385",
+  "active": "164a8cdd67846241",
   "lastOpenFiles": [
+    "项目/公司项目/文档更新.md",
     "Templates/Homepage/算法面试好题.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
     "项目/学校项目/生产实习.md",
-    "项目/公司项目/文档更新.md",
     "Templates/学习科目三.md",
     "Leetcode/41.缺失的第一个正数.md",
     "Leetcode/41.缺失的第一个正数.cpp~",
