@@ -32,13 +32,13 @@
             }
           },
           {
-            "id": "fa2ebf9fe339cdf1",
+            "id": "6ef9bc6a4f3fc164",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
-                "mode": "source",
+                "file": "项目/学校项目/生产实习.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "学习C++"
-            }
-          },
-          {
-            "id": "c8f16c1764fb4f7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/007_书籍.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "007_书籍"
+              "title": "生产实习"
             }
           },
           {
@@ -152,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/30天制作一个服务器.md",
+                "file": "项目/学校项目/生产实习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "30天制作一个服务器 的大纲"
+              "title": "生产实习 的大纲"
             }
           },
           {
@@ -430,12 +406,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0a04f1d0d9382179",
+  "active": "6ef9bc6a4f3fc164",
   "lastOpenFiles": [
-    "Dairies/2026-03-19.md",
-    "Templates/Homepage/30天制作一个服务器.md",
-    "Templates/Homepage/007_书籍.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/007_书籍.md",
+    "Templates/学习科目三.md",
+    "Templates/Homepage/30天制作一个服务器.md",
+    "Dairies/2026-03-19.md",
     "Dairies/2026-03-18.md",
     "Templates/Homepage/算法面试好题.md",
     "Attachments/Pasted image 20260318155703.png",
@@ -448,11 +426,9 @@
     "Attachments/Pasted image 20260318155342.png",
     "Attachments/Pasted image 20260318155329.png",
     "Attachments/Pasted image 20260318155317.png",
-    "Templates/Homepage/Homepage.md",
     "Software/git.md",
     "项目/公司项目/文档更新.md",
     "项目/学校项目/生产实习.md",
-    "Templates/学习科目三.md",
     "Leetcode/41.缺失的第一个正数.md",
     "Leetcode/41.缺失的第一个正数.cpp~",
     "Leetcode/41.缺失的第一个正数.cpp",
