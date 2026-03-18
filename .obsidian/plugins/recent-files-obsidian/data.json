@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "string",
+      "path": "Dairies/string.md"
+    },
+    {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
     },
@@ -95,10 +99,6 @@
     {
       "basename": "学习科目四",
       "path": "Dairies/学习科目四.md"
-    },
-    {
-      "basename": "string",
-      "path": "Dairies/string.md"
     },
     {
       "basename": "自己写一个类型怎么样能调用stl算法",

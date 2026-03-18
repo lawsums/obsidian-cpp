@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/实现自己的数据结构.md",
+                "file": "Dairies/string.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "实现自己的数据结构"
+              "title": "string"
             }
           },
           {
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/实现自己的数据结构.md",
+                "file": "Dairies/string.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实现自己的数据结构 的大纲"
+              "title": "string 的大纲"
             }
           },
           {
@@ -384,6 +384,7 @@
   },
   "active": "8cff97a46bdf494a",
   "lastOpenFiles": [
+    "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/Homepage.md",
     "Templates/学习科目三.md",
     "Templates/Homepage/30天制作一个服务器.md",
@@ -420,7 +421,6 @@
     "Templates/Daily_note_template.md",
     "Dairies/学习科目四.md",
     "Dairies/string.md",
-    "Dairies/实现自己的数据结构.md",
     "操作系统/自己写一个类型怎么样能调用stl算法.md",
     "项目/公司项目",
     "Pandoc/~$生产实习.docx",

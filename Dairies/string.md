@@ -2,8 +2,10 @@
 - [x] 实现 chop (n)
 - [x] 实现 contain (kmp)
 - [x] 实现 index_of
-- [ ] 实现 last_index_of
+- [x] 实现 last_index_of
 	- [x] 实现反向迭代器, 然后就和 index_of 一样了
+	- [ ] 实现迭代器版本的 kmp
+- [ ] 测试 index_of/last_index_of
 - [x] 实现 split
 - [x] 实现 join
 - [x] 实现 shift
@@ -13,7 +15,7 @@
 - [x] 实现反向迭代器
 	- [ ] 通过 `std::reverse_iterator<XXX>` 接口适配器实现反向迭代器
 	- [ ] 实现基本类型的声明 `value_type` `pointer` `const_pointer` `reference` `const_reference` `difference_type` `size_type`
-	- [ ] 实现 const 和 非const 两个版本的迭代器
+	- [x] 实现 const 和 非const 两个版本的迭代器
 - [x] Left
 - [x] Mid
 - [x] Right
