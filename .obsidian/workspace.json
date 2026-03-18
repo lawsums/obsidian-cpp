@@ -153,6 +153,36 @@
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "07ab3dcd223f85bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0b95e0b4249e016",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-03-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-19"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -281,13 +311,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/30天制作一个服务器.md",
+                "file": "Dairies/2026-03-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "30天制作一个服务器 的大纲"
+              "title": "2026-03-19 的大纲"
             }
           },
           {
@@ -430,8 +460,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0a04f1d0d9382179",
+  "active": "d0b95e0b4249e016",
   "lastOpenFiles": [
+    "Templates/Homepage/30天制作一个服务器.md",
     "Templates/Homepage/007_书籍.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/2026-03-18.md",
@@ -469,7 +500,6 @@
     "Dairies/string.md",
     "Dairies/实现自己的数据结构.md",
     "操作系统/自己写一个类型怎么样能调用stl算法.md",
-    "Dairies/2026-03-15.md",
     "项目/公司项目",
     "Pandoc/~$生产实习.docx",
     "Pandoc/生产实习.docx",
