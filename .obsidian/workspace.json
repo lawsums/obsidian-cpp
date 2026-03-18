@@ -103,7 +103,8 @@
               "title": "学习科目三"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -232,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/学习科目三.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习科目三 的大纲"
             }
           },
           {
@@ -381,11 +382,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d36f794152d507b8",
+  "active": "e6895ed73491abcc",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/30天制作一个服务器.md",
     "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-03-18.md",
     "项目/学校项目/生产实习.md",
     "Templates/Homepage/007_书籍.md",
