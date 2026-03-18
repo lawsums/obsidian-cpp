@@ -153,36 +153,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "07ab3dcd223f85bd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d0b95e0b4249e016",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/2026-03-19.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-19"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -311,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/2026-03-19.md",
+                "file": "Templates/Homepage/30天制作一个服务器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-03-19 的大纲"
+              "title": "30天制作一个服务器 的大纲"
             }
           },
           {
@@ -460,8 +430,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d0b95e0b4249e016",
+  "active": "0a04f1d0d9382179",
   "lastOpenFiles": [
+    "Dairies/2026-03-19.md",
     "Templates/Homepage/30天制作一个服务器.md",
     "Templates/Homepage/007_书籍.md",
     "Templates/Homepage/学习C++.md",
@@ -492,7 +463,6 @@
     "Dairies/2026-03-22.md",
     "Dairies/2026-03-21.md",
     "Dairies/2026-03-20.md",
-    "Dairies/2026-03-19.md",
     "项目/公司项目/项目功能结构.md",
     "项目/公司项目/备份.md",
     "Templates/Daily_note_template.md",
