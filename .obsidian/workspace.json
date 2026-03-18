@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8fa3bde95b82293",
+            "id": "d36f794152d507b8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,6 +29,54 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
+            }
+          },
+          {
+            "id": "a8fa3bde95b82293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/学校项目/生产实习.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "生产实习"
+            }
+          },
+          {
+            "id": "48bd3773bdc40fd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/41.缺失的第一个正数.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "41.缺失的第一个正数"
             }
           },
           {
@@ -79,7 +127,8 @@
               "title": "文档更新"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/学校项目/生产实习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "生产实习 的大纲"
             }
           },
           {
@@ -359,9 +408,13 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "项目/公司项目/文档更新.md",
     "Templates/Homepage/Homepage.md",
+    "项目/学校项目/生产实习.md",
+    "项目/公司项目/文档更新.md",
     "Templates/学习科目三.md",
+    "Leetcode/41.缺失的第一个正数.md",
+    "Leetcode/41.缺失的第一个正数.cpp~",
+    "Leetcode/41.缺失的第一个正数.cpp",
     "Dairies/2026-03-18.md",
     "Dairies/2026-03-17.md",
     "操作系统/手撕基本服务器.md",
@@ -381,11 +434,8 @@
     "Dairies/string.md",
     "Dairies/实现自己的数据结构.md",
     "操作系统/自己写一个类型怎么样能调用stl算法.md",
-    "项目/学校项目/生产实习.md",
     "Dairies/2026-03-15.md",
     "Templates/Homepage/Javascript现代教程.md",
-    "Templates/Homepage/007_书籍.md",
-    "Dairies/2026-03-16.md",
     "Attachments/Pasted image 20260316144034.png",
     "项目/公司项目",
     "Pandoc/~$生产实习.docx",
@@ -395,8 +445,6 @@
     "Leetcode/1728.奇妙序列.cpp",
     "项目/学校项目",
     "项目/毕设",
-    "Leetcode/459. 重复的子字符串.cpp",
-    "Leetcode/450.删除二叉搜索树中的节点.cpp",
     "Leetcode/images/450_del_node_supp.jpg",
     "Leetcode/images/450_del_node_1.jpg",
     "Attachments/Pasted image 20260312143851.png",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "生产实习",
+      "path": "项目/学校项目/生产实习.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -11,6 +15,10 @@
     {
       "basename": "学习科目三",
       "path": "Templates/学习科目三.md"
+    },
+    {
+      "basename": "41.缺失的第一个正数",
+      "path": "Leetcode/41.缺失的第一个正数.md"
     },
     {
       "basename": "2026-03-18",
@@ -83,10 +91,6 @@
     {
       "basename": "自己写一个类型怎么样能调用stl算法",
       "path": "操作系统/自己写一个类型怎么样能调用stl算法.md"
-    },
-    {
-      "basename": "生产实习",
-      "path": "项目/学校项目/生产实习.md"
     },
     {
       "basename": "2026-03-15",
@@ -195,10 +199,6 @@
     {
       "basename": "459. 重复的子字符串",
       "path": "Leetcode/459. 重复的子字符串.cpp"
-    },
-    {
-      "basename": "30天制作一个服务器",
-      "path": "Templates/Homepage/30天制作一个服务器.md"
     }
   ],
   "omittedPaths": [],
