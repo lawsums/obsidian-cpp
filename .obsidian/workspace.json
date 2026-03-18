@@ -127,8 +127,7 @@
               "title": "git"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/git.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "git 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -406,8 +405,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "164a8cdd67846241",
+  "active": "d36f794152d507b8",
   "lastOpenFiles": [
+    "Software/git.md",
     "项目/公司项目/文档更新.md",
     "Templates/Homepage/算法面试好题.md",
     "Templates/Homepage/学习C++.md",
@@ -429,7 +429,6 @@
     "Attachments/Pasted image 20260317171026.png",
     "项目/公司项目/项目功能结构.md",
     "项目/公司项目/备份.md",
-    "Software/git.md",
     "Templates/Daily_note_template.md",
     "Dairies/学习科目四.md",
     "Dairies/string.md",
