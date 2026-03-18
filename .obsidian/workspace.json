@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "fa2ebf9fe339cdf1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习C++"
+            }
+          },
+          {
             "id": "021f095eba91eb4a",
             "type": "leaf",
             "state": {
@@ -127,7 +151,8 @@
               "title": "git"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习C++ 的大纲"
             }
           },
           {
@@ -405,19 +430,29 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d36f794152d507b8",
+  "active": "fa2ebf9fe339cdf1",
   "lastOpenFiles": [
+    "Dairies/2026-03-18.md",
+    "Templates/Homepage/算法面试好题.md",
+    "Attachments/Pasted image 20260318155703.png",
+    "Attachments/Pasted image 20260318155619.png",
+    "Attachments/Pasted image 20260318155600.png",
+    "Attachments/Pasted image 20260318155543.png",
+    "Attachments/Pasted image 20260318155528.png",
+    "Attachments/Pasted image 20260318155409.png",
+    "Attachments/Pasted image 20260318155358.png",
+    "Attachments/Pasted image 20260318155342.png",
+    "Attachments/Pasted image 20260318155329.png",
+    "Attachments/Pasted image 20260318155317.png",
+    "Templates/Homepage/Homepage.md",
     "Software/git.md",
     "项目/公司项目/文档更新.md",
-    "Templates/Homepage/算法面试好题.md",
     "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/Homepage.md",
     "项目/学校项目/生产实习.md",
     "Templates/学习科目三.md",
     "Leetcode/41.缺失的第一个正数.md",
     "Leetcode/41.缺失的第一个正数.cpp~",
     "Leetcode/41.缺失的第一个正数.cpp",
-    "Dairies/2026-03-18.md",
     "Dairies/2026-03-17.md",
     "操作系统/手撕基本服务器.md",
     "Templates/Homepage/30天制作一个操作系统.md",
@@ -426,7 +461,6 @@
     "Dairies/2026-03-21.md",
     "Dairies/2026-03-20.md",
     "Dairies/2026-03-19.md",
-    "Attachments/Pasted image 20260317171026.png",
     "项目/公司项目/项目功能结构.md",
     "项目/公司项目/备份.md",
     "Templates/Daily_note_template.md",
@@ -435,8 +469,6 @@
     "Dairies/实现自己的数据结构.md",
     "操作系统/自己写一个类型怎么样能调用stl算法.md",
     "Dairies/2026-03-15.md",
-    "Templates/Homepage/Javascript现代教程.md",
-    "Attachments/Pasted image 20260316144034.png",
     "项目/公司项目",
     "Pandoc/~$生产实习.docx",
     "Pandoc/生产实习.docx",
@@ -445,14 +477,6 @@
     "Leetcode/1728.奇妙序列.cpp",
     "项目/学校项目",
     "项目/毕设",
-    "Leetcode/images/450_del_node_supp.jpg",
-    "Leetcode/images/450_del_node_1.jpg",
-    "Attachments/Pasted image 20260312143851.png",
-    "Leetcode/images/297_serdeser.jpg",
-    "Leetcode/images/147_1724130432-zoOvdI-image.png",
-    "Leetcode/images/147_1724130414-QbPAjl-image.png",
-    "Leetcode/images/147_1724130387-qxfMwx-Insertion-sort-example-300px.gif",
-    "Leetcode/images/25_reverse_ex2.jpg",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]

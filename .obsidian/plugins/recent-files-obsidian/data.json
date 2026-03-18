@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
-      "basename": "文档更新",
-      "path": "项目/公司项目/文档更新.md"
+      "basename": "2026-03-18",
+      "path": "Dairies/2026-03-18.md"
     },
     {
       "basename": "算法面试好题",
       "path": "Templates/Homepage/算法面试好题.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "文档更新",
+      "path": "项目/公司项目/文档更新.md"
     },
     {
       "basename": "生产实习",
@@ -27,10 +31,6 @@
     {
       "basename": "41.缺失的第一个正数",
       "path": "Leetcode/41.缺失的第一个正数.md"
-    },
-    {
-      "basename": "2026-03-18",
-      "path": "Dairies/2026-03-18.md"
     },
     {
       "basename": "2026-03-17",
