@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "30天制作一个服务器",
+      "path": "Templates/Homepage/30天制作一个服务器.md"
+    },
+    {
+      "basename": "007_书籍",
+      "path": "Templates/Homepage/007_书籍.md"
     },
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "string",
@@ -25,20 +33,12 @@
       "path": "Software/git.md"
     },
     {
-      "basename": "30天制作一个服务器",
-      "path": "Templates/Homepage/30天制作一个服务器.md"
-    },
-    {
       "basename": "2026-03-18",
       "path": "Dairies/2026-03-18.md"
     },
     {
       "basename": "生产实习",
       "path": "项目/学校项目/生产实习.md"
-    },
-    {
-      "basename": "007_书籍",
-      "path": "Templates/Homepage/007_书籍.md"
     },
     {
       "basename": "2026-03-19",
