@@ -32,54 +32,6 @@
             }
           },
           {
-            "id": "f5bc07d25f9021fe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/实现自己的数据结构.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "实现自己的数据结构"
-            }
-          },
-          {
-            "id": "04a319f414655013",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/string.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "string"
-            }
-          },
-          {
             "id": "a1c3362179d3cd2b",
             "type": "leaf",
             "state": {
@@ -127,8 +79,7 @@
               "title": "学习科目三"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/string.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "string 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -406,14 +357,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "04a319f414655013",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
+    "Dairies/string.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/学习科目三.md",
     "Software/git.md",
-    "Dairies/string.md",
     "Templates/Homepage/30天制作一个服务器.md",
     "Dairies/2026-03-18.md",
     "项目/学校项目/生产实习.md",
