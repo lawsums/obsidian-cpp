@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "66b739046dcd5810",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/学习科目三.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习科目三"
+            }
+          },
+          {
             "id": "a358de59502eca4e",
             "type": "leaf",
             "state": {
@@ -185,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/git.md",
+                "file": "Templates/学习科目三.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "git 的大纲"
+              "title": "学习科目三 的大纲"
             }
           },
           {
@@ -334,9 +358,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a358de59502eca4e",
+  "active": "66b739046dcd5810",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
+    "Software/git.md",
     "Dairies/string.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/学习科目三.md",
@@ -357,7 +382,6 @@
     "Attachments/Pasted image 20260318155342.png",
     "Attachments/Pasted image 20260318155329.png",
     "Attachments/Pasted image 20260318155317.png",
-    "Software/git.md",
     "项目/公司项目/文档更新.md",
     "Leetcode/41.缺失的第一个正数.md",
     "Leetcode/41.缺失的第一个正数.cpp~",
