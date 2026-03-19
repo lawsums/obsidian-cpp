@@ -19,12 +19,13 @@
 - [x] Left
 - [x] Mid
 - [x] Right
-- [ ] Remove
-	- [ ] 
+- [ ] erase (删除内存)
+- [ ] Remove (算法上删除)
 - [ ] Replace
 	- [ ] 使用 indexof 扩展出一个 allIndexsOf
 	- [ ] 对于每一个 index 都进行替换
 - [ ] Prepend
+	- [ ] 测试 prepend
 - [ ] 实现 4 种版本的 to_string 及相关构造函数
 	- [x] int
 	- [x] long long
