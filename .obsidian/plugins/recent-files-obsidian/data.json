@@ -1,18 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "学习科目三",
-      "path": "Templates/学习科目三.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
-      "basename": "git",
-      "path": "Software/git.md"
-    },
-    {
       "basename": "string",
       "path": "Dairies/string.md"
     },
@@ -21,12 +9,24 @@
       "path": "Dairies/实现自己的数据结构.md"
     },
     {
-      "basename": "30天制作一个服务器",
-      "path": "Templates/Homepage/30天制作一个服务器.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "学习科目三",
+      "path": "Templates/学习科目三.md"
+    },
+    {
+      "basename": "git",
+      "path": "Software/git.md"
+    },
+    {
+      "basename": "30天制作一个服务器",
+      "path": "Templates/Homepage/30天制作一个服务器.md"
     },
     {
       "basename": "2026-03-18",
