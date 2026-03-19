@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "49521ab96ad26bdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-03-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-19"
+            }
           }
         ]
       }
@@ -311,6 +335,7 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-03-19.md",
     "Templates/Homepage/Homepage.md",
     "项目/公司项目/文档更新.md",
     "Templates/Homepage/30天制作一个服务器.md",
@@ -322,7 +347,6 @@
     "Software/git.md",
     "Dairies/2026-03-18.md",
     "项目/学校项目/生产实习.md",
-    "Dairies/2026-03-19.md",
     "Templates/Homepage/算法面试好题.md",
     "Attachments/Pasted image 20260318155703.png",
     "Attachments/Pasted image 20260318155619.png",

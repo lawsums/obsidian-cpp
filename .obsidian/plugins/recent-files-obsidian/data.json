@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-03-19",
+      "path": "Dairies/2026-03-19.md"
+    },
+    {
       "basename": "实现Trie(前缀树)",
       "path": "数据结构/实现Trie(前缀树).md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "生产实习",
       "path": "项目/学校项目/生产实习.md"
-    },
-    {
-      "basename": "2026-03-19",
-      "path": "Dairies/2026-03-19.md"
     },
     {
       "basename": "算法面试好题",
