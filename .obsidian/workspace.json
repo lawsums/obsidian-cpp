@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "d2591500edbe03d0",
+            "id": "3756c31960481cac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/学校项目/生产实习.md",
+                "file": "Templates/学习科目三.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,35 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "生产实习"
-            }
-          },
-          {
-            "id": "49521ab96ad26bdd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/2026-03-19.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-03-19"
+              "title": "学习科目三"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/学校项目/生产实习.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "生产实习 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -359,19 +334,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d2591500edbe03d0",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/学习科目三.md",
+    "Templates/Homepage/Homepage.md",
     "Dairies/2026-03-19.md",
     "项目/学校项目/生产实习.md",
     "Projects/anime/派遣战斗员！.md",
-    "Templates/Homepage/Homepage.md",
     "项目/公司项目/文档更新.md",
     "Templates/Homepage/30天制作一个服务器.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/007_书籍.md",
     "Dairies/string.md",
     "Dairies/实现自己的数据结构.md",
-    "Templates/学习科目三.md",
     "Software/git.md",
     "Dairies/2026-03-18.md",
     "Templates/Homepage/算法面试好题.md",
