@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "string",
       "path": "Dairies/string.md"
     },
     {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "学习科目三",
