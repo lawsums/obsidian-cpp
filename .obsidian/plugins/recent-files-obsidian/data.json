@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "实现Trie(前缀树)",
+      "path": "数据结构/实现Trie(前缀树).md"
+    },
+    {
       "basename": "文档更新",
       "path": "项目/公司项目/文档更新.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "459. 重复的子字符串",
       "path": "Leetcode/459. 重复的子字符串.md"
-    },
-    {
-      "basename": "调整neovim clangd路径",
-      "path": "Templates/Homepage/调整neovim clangd路径.md"
     }
   ],
   "omittedPaths": [],
