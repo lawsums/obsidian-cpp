@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "git",
+      "path": "Software/git.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "备份",
       "path": "项目/公司项目/备份.md"
-    },
-    {
-      "basename": "git",
-      "path": "Software/git.md"
     },
     {
       "basename": "Daily_note_template",
