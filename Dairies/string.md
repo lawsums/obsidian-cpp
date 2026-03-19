@@ -5,7 +5,7 @@
 - [x] 实现 last_index_of
 	- [x] 实现反向迭代器, 然后就和 index_of 一样了
 	- [ ] 实现迭代器版本的 kmp
-- [ ] 测试 index_of/last_index_of
+- [x] 测试 index_of/last_index_of
 - [x] 实现 split
 - [x] 实现 join
 - [x] 实现 shift
@@ -20,7 +20,10 @@
 - [x] Mid
 - [x] Right
 - [ ] Remove
+	- [ ] 
 - [ ] Replace
+	- [ ] 使用 indexof 扩展出一个 allIndexsOf
+	- [ ] 对于每一个 index 都进行替换
 - [ ] Prepend
 - [ ] 实现 4 种版本的 to_string 及相关构造函数
 	- [x] int
