@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -258,13 +258,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/30天制作一个服务器.md",
+                "file": "项目/公司项目/文档更新.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "30天制作一个服务器 的大纲"
+              "title": "文档更新 的大纲"
             }
           },
           {
@@ -408,10 +408,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b3efe9e505e33555",
+  "active": "f43ed9383fd028cc",
   "lastOpenFiles": [
-    "项目/公司项目/文档更新.md",
     "Templates/Homepage/30天制作一个服务器.md",
+    "项目/公司项目/文档更新.md",
     "Templates/Homepage/007_书籍.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
