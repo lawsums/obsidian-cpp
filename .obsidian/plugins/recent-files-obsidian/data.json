@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "文档更新",
+      "path": "项目/公司项目/文档更新.md"
+    },
+    {
       "basename": "30天制作一个服务器",
       "path": "Templates/Homepage/30天制作一个服务器.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "算法面试好题",
       "path": "Templates/Homepage/算法面试好题.md"
-    },
-    {
-      "basename": "文档更新",
-      "path": "项目/公司项目/文档更新.md"
     },
     {
       "basename": "41.缺失的第一个正数",
