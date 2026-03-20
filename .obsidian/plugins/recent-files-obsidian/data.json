@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "文档更新",
-      "path": "项目/公司项目/文档更新.md"
-    },
-    {
       "basename": "生产实习",
       "path": "项目/学校项目/生产实习.md"
     },
     {
+      "basename": "复习面试题",
+      "path": "Templates/Homepage/复习面试题.md"
+    },
+    {
+      "basename": "2026-03-20",
+      "path": "Dairies/2026-03-20.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
+      "basename": "文档更新",
+      "path": "项目/公司项目/文档更新.md"
     },
     {
       "basename": "算法面试好题",
@@ -25,10 +41,6 @@
       "path": "Software/git.md"
     },
     {
-      "basename": "2026-03-20",
-      "path": "Dairies/2026-03-20.md"
-    },
-    {
       "basename": "2026-03-19",
       "path": "Dairies/2026-03-19.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "30天制作一个服务器",
       "path": "Templates/Homepage/30天制作一个服务器.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "007_书籍",
@@ -191,14 +199,6 @@
     {
       "basename": "rubbish",
       "path": "项目/学校项目/rubbish.md"
-    },
-    {
-      "basename": "Effctive STL",
-      "path": "Templates/Homepage/Effctive STL.md"
-    },
-    {
-      "basename": "459. 重复的子字符串",
-      "path": "Leetcode/459. 重复的子字符串.md"
     }
   ],
   "omittedPaths": [],
