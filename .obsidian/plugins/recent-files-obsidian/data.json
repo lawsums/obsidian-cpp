@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-03-20",
+      "path": "Dairies/2026-03-20.md"
+    },
+    {
       "basename": "学习科目三",
       "path": "Templates/学习科目三.md"
     },
@@ -83,10 +87,6 @@
     {
       "basename": "2026-03-21",
       "path": "Dairies/2026-03-21.md"
-    },
-    {
-      "basename": "2026-03-20",
-      "path": "Dairies/2026-03-20.md"
     },
     {
       "basename": "项目功能结构",

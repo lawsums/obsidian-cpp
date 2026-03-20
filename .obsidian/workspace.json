@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "03415ea76f140cbe",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +171,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -309,10 +319,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "03415ea76f140cbe",
   "lastOpenFiles": [
-    "Templates/学习科目三.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-03-20.md",
+    "Dairies/2026-03-27.md",
+    "Templates/学习科目三.md",
     "Dairies/2026-03-19.md",
     "项目/学校项目/生产实习.md",
     "Projects/anime/派遣战斗员！.md",
@@ -344,11 +356,9 @@
     "Temp/财务.md",
     "Dairies/2026-03-22.md",
     "Dairies/2026-03-21.md",
-    "Dairies/2026-03-20.md",
     "项目/公司项目/项目功能结构.md",
     "项目/公司项目/备份.md",
     "Templates/Daily_note_template.md",
-    "Dairies/学习科目四.md",
     "项目/公司项目",
     "Pandoc/~$生产实习.docx",
     "Pandoc/生产实习.docx",
