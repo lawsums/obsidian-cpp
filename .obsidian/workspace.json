@@ -32,13 +32,51 @@
             }
           },
           {
-            "id": "03415ea76f140cbe",
+            "id": "2f23614ac3903c53",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Templates/学习科目三.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "学习科目三"
+            }
+          },
+          {
+            "id": "270706037e659ac2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "git"
             }
           }
         ],
@@ -171,12 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/学习科目三.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "学习科目三 的大纲"
             }
           },
           {
@@ -319,12 +358,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "03415ea76f140cbe",
+  "active": "2f23614ac3903c53",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
+    "Software/git.md",
+    "Templates/学习科目三.md",
     "Dairies/2026-03-20.md",
     "Dairies/2026-03-27.md",
-    "Templates/学习科目三.md",
     "Dairies/2026-03-19.md",
     "项目/学校项目/生产实习.md",
     "Projects/anime/派遣战斗员！.md",
@@ -334,7 +374,6 @@
     "Templates/Homepage/007_书籍.md",
     "Dairies/string.md",
     "Dairies/实现自己的数据结构.md",
-    "Software/git.md",
     "Dairies/2026-03-18.md",
     "Templates/Homepage/算法面试好题.md",
     "Attachments/Pasted image 20260318155703.png",
