@@ -1,28 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "string",
-      "path": "Dairies/string.md"
+      "basename": "30天制作一个服务器",
+      "path": "Templates/Homepage/30天制作一个服务器.md"
+    },
+    {
+      "basename": "007_书籍",
+      "path": "Templates/Homepage/007_书籍.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "草稿",
-      "path": "草稿.md"
+      "basename": "复习面试题",
+      "path": "Templates/Homepage/复习面试题.md"
     },
     {
       "basename": "学习科目三",
       "path": "Templates/学习科目三.md"
     },
     {
-      "basename": "文档更新",
-      "path": "项目/公司项目/文档更新.md"
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
     },
     {
-      "basename": "复习面试题",
-      "path": "Templates/Homepage/复习面试题.md"
+      "basename": "草稿",
+      "path": "草稿.md"
+    },
+    {
+      "basename": "FIFO",
+      "path": "操作系统/FIFO.md"
+    },
+    {
+      "basename": "string",
+      "path": "Dairies/string.md"
+    },
+    {
+      "basename": "文档更新",
+      "path": "项目/公司项目/文档更新.md"
     },
     {
       "basename": "实现自己的数据结构",
@@ -35,14 +55,6 @@
     {
       "basename": "2026-03-20",
       "path": "Dairies/2026-03-20.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
     },
     {
       "basename": "算法面试好题",
@@ -59,14 +71,6 @@
     {
       "basename": "实现Trie(前缀树)",
       "path": "数据结构/实现Trie(前缀树).md"
-    },
-    {
-      "basename": "30天制作一个服务器",
-      "path": "Templates/Homepage/30天制作一个服务器.md"
-    },
-    {
-      "basename": "007_书籍",
-      "path": "Templates/Homepage/007_书籍.md"
     },
     {
       "basename": "2026-03-18",
@@ -195,10 +199,6 @@
     {
       "basename": "004_闪念",
       "path": "Templates/Homepage/004_闪念.md"
-    },
-    {
-      "basename": "2026-03-14",
-      "path": "Dairies/2026-03-14.md"
     }
   ],
   "omittedPaths": [],
