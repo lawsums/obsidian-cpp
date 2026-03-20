@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "string",
+      "path": "Dairies/string.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "草稿",
       "path": "草稿.md"
     },
@@ -17,16 +25,8 @@
       "path": "Templates/Homepage/复习面试题.md"
     },
     {
-      "basename": "string",
-      "path": "Dairies/string.md"
-    },
-    {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "生产实习",

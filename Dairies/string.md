@@ -20,7 +20,7 @@
 - [x] Mid
 - [x] Right
 - [ ] erase (删除内存)
-- [ ] Remove (算法上删除)
+- [x] Remove (算法上删除)
 - [ ] Replace
 	- [ ] 使用 indexof 扩展出一个 allIndexsOf
 	- [ ] 对于每一个 index 都进行替换

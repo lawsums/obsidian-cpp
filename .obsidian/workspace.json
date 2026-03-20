@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,8 +182,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a1a3b64710b00c75",
@@ -204,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -259,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿.md",
+                "file": "Dairies/string.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "草稿 的大纲"
+              "title": "string 的大纲"
             }
           },
           {
@@ -373,8 +371,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -409,16 +406,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fd3d409d6c34d0b4",
+  "active": "c0c95a7ae8e24ed2",
   "lastOpenFiles": [
-    "Templates/Homepage/30天制作一个操作系统.md",
+    "Templates/Homepage/Homepage.md",
     "草稿.md",
+    "Templates/Homepage/30天制作一个操作系统.md",
     "Templates/学习科目三.md",
     "项目/公司项目/文档更新.md",
     "Templates/Homepage/复习面试题.md",
     "Dairies/string.md",
     "Dairies/实现自己的数据结构.md",
-    "Templates/Homepage/Homepage.md",
     "项目/学校项目/生产实习.md",
     "Dairies/2026-03-20.md",
     "Templates/Homepage/学习C++.md",
