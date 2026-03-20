@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-03-20",
+      "path": "Dairies/2026-03-20.md"
+    },
+    {
+      "basename": "学习科目三",
+      "path": "Templates/学习科目三.md"
+    },
+    {
       "basename": "30天制作一个服务器",
       "path": "Templates/Homepage/30天制作一个服务器.md"
     },
@@ -13,16 +25,8 @@
       "path": "Templates/Homepage/学习C++.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "复习面试题",
       "path": "Templates/Homepage/复习面试题.md"
-    },
-    {
-      "basename": "学习科目三",
-      "path": "Templates/学习科目三.md"
     },
     {
       "basename": "面试题系列",
@@ -51,10 +55,6 @@
     {
       "basename": "生产实习",
       "path": "项目/学校项目/生产实习.md"
-    },
-    {
-      "basename": "2026-03-20",
-      "path": "Dairies/2026-03-20.md"
     },
     {
       "basename": "算法面试好题",
