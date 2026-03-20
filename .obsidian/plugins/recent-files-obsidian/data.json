@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "生产实习",
-      "path": "项目/学校项目/生产实习.md"
+      "basename": "草稿",
+      "path": "草稿.md"
+    },
+    {
+      "basename": "学习科目三",
+      "path": "Templates/学习科目三.md"
+    },
+    {
+      "basename": "文档更新",
+      "path": "项目/公司项目/文档更新.md"
     },
     {
       "basename": "复习面试题",
       "path": "Templates/Homepage/复习面试题.md"
     },
     {
-      "basename": "2026-03-20",
-      "path": "Dairies/2026-03-20.md"
+      "basename": "string",
+      "path": "Dairies/string.md"
+    },
+    {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "生产实习",
+      "path": "项目/学校项目/生产实习.md"
+    },
+    {
+      "basename": "2026-03-20",
+      "path": "Dairies/2026-03-20.md"
     },
     {
       "basename": "学习C++",
@@ -25,16 +45,8 @@
       "path": "Templates/Homepage/面试题系列.md"
     },
     {
-      "basename": "文档更新",
-      "path": "项目/公司项目/文档更新.md"
-    },
-    {
       "basename": "算法面试好题",
       "path": "Templates/Homepage/算法面试好题.md"
-    },
-    {
-      "basename": "学习科目三",
-      "path": "Templates/学习科目三.md"
     },
     {
       "basename": "git",
@@ -55,14 +67,6 @@
     {
       "basename": "007_书籍",
       "path": "Templates/Homepage/007_书籍.md"
-    },
-    {
-      "basename": "string",
-      "path": "Dairies/string.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "2026-03-18",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-03-14",
       "path": "Dairies/2026-03-14.md"
-    },
-    {
-      "basename": "rubbish",
-      "path": "项目/学校项目/rubbish.md"
     }
   ],
   "omittedPaths": [],
