@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "85a2c5393f9a6ace",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/学校项目/生产实习.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "生产实习"
+            }
+          },
+          {
             "id": "b4d3d5676bb6f2ad",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "学习科目三"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -185,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/学校项目/生产实习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "生产实习 的大纲"
             }
           },
           {
@@ -334,12 +359,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "85a2c5393f9a6ace",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Templates/学习科目三.md",
     "Projects/anime/时光流逝，饭菜依旧美味.md",
     "Attachments/Pasted image 20260321100910.png",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/76.最小覆盖子串.md",
     "Leetcode/76.最小覆盖子串 .go",
     "Leetcode/76.最小覆盖子串 copy.cpp",
