@@ -259,6 +259,41 @@
       ],
       "id": "a4c3997c-02cc-44c3-840d-fafbaa7cd8ad",
       "name": "漫画"
+    },
+    {
+      "fieldConfig": {},
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Projects/game",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {},
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "9b0d52c3-b172-4eeb-86dc-fbe935413898",
+          "name": "表格",
+          "type": "table"
+        }
+      ],
+      "id": "07910f33-cca6-46f2-b7bc-663a10d48944",
+      "name": "游戏"
     }
   ],
   "archives": [],

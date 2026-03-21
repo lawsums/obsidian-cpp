@@ -113,8 +113,7 @@
               "title": "学习科目三"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,12 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -391,10 +391,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "944cd14a7fae27b7",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Projects/game",
     "Templates/Homepage/Homepage.md",
+    "Projects/game",
     "Dairies/把所有科三视频都看了.md",
     "Attachments/2.jpg",
     "Attachments/1.jpg",
@@ -438,7 +438,6 @@
     "Pandoc/~$生产实习.docx",
     "Pandoc/生产实习.docx",
     "Leetcode/25.K 个一组翻转链表.cpp",
-    "代码模版/小知识",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
