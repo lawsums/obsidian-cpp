@@ -55,8 +55,7 @@
               "title": "生产实习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/学校项目/生产实习.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "生产实习 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,10 +334,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cd45919105ffe72c",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "项目/学校项目/生产实习.md",
+    "Templates/Homepage/Homepage.md",
     "Dairies/2026-03-22.md",
     "Projects/game",
     "Dairies/把所有科三视频都看了.md",
