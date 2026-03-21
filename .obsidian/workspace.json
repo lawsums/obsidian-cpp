@@ -55,7 +55,8 @@
               "title": "生产实习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/学校项目/生产实习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "生产实习 的大纲"
             }
           },
           {
@@ -334,10 +334,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "cd45919105ffe72c",
   "lastOpenFiles": [
-    "项目/学校项目/生产实习.md",
+    "Leetcode/会员题/2.md",
+    "Leetcode/会员题/2015. 判断矩阵经轮转后是否一致.cpp",
+    "Leetcode/会员题/1.md",
+    "Leetcode/会员题/2015. 判断矩阵经轮转后是否一致.md",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/images/2015_grid4.png",
+    "Leetcode/images/2015_grid3.png",
+    "Leetcode/会员题",
+    "Dairies/2026-03-23.md",
+    "项目/学校项目/生产实习.md",
     "Dairies/2026-03-22.md",
     "Projects/game",
     "Dairies/把所有科三视频都看了.md",
@@ -365,23 +373,14 @@
     "Templates/Homepage/30天制作一个操作系统.md",
     "项目/公司项目/文档更新.md",
     "Dairies/实现自己的数据结构.md",
-    "Templates/Homepage/算法面试好题.md",
     "Attachments/Pasted image 20260320092442.png",
     "Attachments/Pasted image 20260320092418.png",
     "Attachments/Pasted image 20260320084800.png",
-    "Software/git.md",
-    "Dairies/2026-03-27.md",
-    "Dairies/2026-03-19.md",
-    "Projects/anime/派遣战斗员！.md",
     "Attachments/Pasted image 20260318155703.png",
-    "Attachments/Pasted image 20260318155619.png",
-    "Attachments/Pasted image 20260318155600.png",
     "Leetcode/41.缺失的第一个正数.cpp~",
     "Leetcode/41.缺失的第一个正数.cpp",
     "项目/公司项目",
     "Pandoc/~$生产实习.docx",
-    "Pandoc/生产实习.docx",
-    "Leetcode/25.K 个一组翻转链表.cpp",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]

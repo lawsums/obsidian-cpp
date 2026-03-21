@@ -568,7 +568,7 @@
           }
         }
       ],
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "c8743eec-3078-40fc-8fa5-7dcb910e1b8c",
@@ -1128,7 +1128,7 @@
           "setFileExistsBehavior": false
         }
       ],
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "299c9921-5061-401b-ac2c-c54ced9a034e",
@@ -1150,6 +1150,36 @@
             "enabled": true,
             "folders": [
               "Leetcode"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
+          "id": "aec0ee1c-2dff-42ad-8548-434a1e3ef8bf",
+          "name": "Vip_anki_problem",
+          "type": "Template",
+          "command": true,
+          "templatePath": "Templates/Leetcode_no_anki_problem_template.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "Leetcode/会员题"
             ],
             "chooseWhenCreatingNote": false,
             "createInSameFolderAsActiveFile": false,
@@ -1275,7 +1305,7 @@
           }
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "7f57eb57-bf43-4c5e-a47a-2a7d89d06701",
