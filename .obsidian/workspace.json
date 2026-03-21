@@ -55,8 +55,7 @@
               "title": "生产实习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/学校项目/生产实习.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "生产实习 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,8 +334,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cd45919105ffe72c",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "项目/学校项目/生产实习.md",
     "Templates/Homepage/Homepage.md",
     "Projects/game",
     "Dairies/把所有科三视频都看了.md",
@@ -345,7 +345,6 @@
     "Attachments/84ae4b2c702aed9e3daf50c39616997f.jpg",
     "Dairies/2026-03-21.md",
     "Templates/学习科目三.md",
-    "项目/学校项目/生产实习.md",
     "Projects/anime/时光流逝，饭菜依旧美味.md",
     "Attachments/Pasted image 20260321100910.png",
     "Leetcode/76.最小覆盖子串.md",
