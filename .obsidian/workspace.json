@@ -103,8 +103,7 @@
               "title": "学习科目三"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/把所有科三视频都看了.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "把所有科三视频都看了 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -382,13 +381,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a898ce371089d8e5",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/把所有科三视频都看了.md",
     "Attachments/2.jpg",
     "Attachments/1.jpg",
     "Attachments/84ae4b2c702aed9e3daf50c39616997f.jpg",
     "Dairies/2026-03-21.md",
-    "Dairies/把所有科三视频都看了.md",
     "Templates/Homepage/Homepage.md",
     "Templates/学习科目三.md",
     "项目/学校项目/生产实习.md",
@@ -422,7 +421,6 @@
     "Attachments/Pasted image 20260318155703.png",
     "Attachments/Pasted image 20260318155619.png",
     "Attachments/Pasted image 20260318155600.png",
-    "Attachments/Pasted image 20260318155543.png",
     "Leetcode/41.缺失的第一个正数.cpp~",
     "Leetcode/41.缺失的第一个正数.cpp",
     "项目/公司项目",
