@@ -55,8 +55,7 @@
               "title": "学习科目三"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/学习科目三.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习科目三 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -334,15 +334,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b4d3d5676bb6f2ad",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/学习科目三.md",
+    "Projects/anime/时光流逝，饭菜依旧美味.md",
     "Attachments/Pasted image 20260321100910.png",
     "Templates/Homepage/Homepage.md",
     "Leetcode/76.最小覆盖子串.md",
     "Leetcode/76.最小覆盖子串 .go",
     "Leetcode/76.最小覆盖子串 copy.cpp",
     "Leetcode/76.最小覆盖子串.cpp",
-    "Templates/学习科目三.md",
     "Dairies/2026-03-20.md",
     "Templates/Homepage/30天制作一个服务器.md",
     "Dairies/2026-03-24.md",
@@ -372,7 +373,6 @@
     "Attachments/Pasted image 20260318155543.png",
     "Attachments/Pasted image 20260318155528.png",
     "Attachments/Pasted image 20260318155409.png",
-    "Attachments/Pasted image 20260318155358.png",
     "Leetcode/41.缺失的第一个正数.md",
     "Leetcode/41.缺失的第一个正数.cpp~",
     "Leetcode/41.缺失的第一个正数.cpp",
