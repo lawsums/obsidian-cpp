@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "f3e477042a2966b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/学习科目三.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习科目三"
+            }
+          },
+          {
             "id": "6045be1bcde92833",
             "type": "leaf",
             "state": {
@@ -185,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/把所有科三视频都看了.md",
+                "file": "Templates/学习科目三.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "把所有科三视频都看了 的大纲"
+              "title": "学习科目三 的大纲"
             }
           },
           {
@@ -334,9 +358,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6045be1bcde92833",
+  "active": "f3e477042a2966b0",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
+    "Dairies/把所有科三视频都看了.md",
     "Leetcode/会员题/2.md",
     "Leetcode/会员题/2015. 判断矩阵经轮转后是否一致.cpp",
     "Leetcode/会员题/1.md",
@@ -348,7 +373,6 @@
     "项目/学校项目/生产实习.md",
     "Dairies/2026-03-22.md",
     "Projects/game",
-    "Dairies/把所有科三视频都看了.md",
     "Attachments/2.jpg",
     "Attachments/1.jpg",
     "Attachments/84ae4b2c702aed9e3daf50c39616997f.jpg",
