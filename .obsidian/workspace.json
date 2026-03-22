@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "cd45919105ffe72c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/学校项目/生产实习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "生产实习"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/学校项目/生产实习.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "生产实习 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -334,7 +309,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cd45919105ffe72c",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Leetcode/会员题/2.md",
     "Leetcode/会员题/2015. 判断矩阵经轮转后是否一致.cpp",
