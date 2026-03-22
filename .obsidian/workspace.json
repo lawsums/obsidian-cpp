@@ -79,8 +79,7 @@
               "title": "学习科目三"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/string.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "string 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -358,8 +357,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "681226498a983758",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/string.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/Homepage.md",
     "Templates/学习科目三.md",
@@ -394,7 +394,6 @@
     "Templates/Homepage/面试题系列.md",
     "草稿.md",
     "操作系统/FIFO.md",
-    "Dairies/string.md",
     "Templates/Homepage/30天制作一个操作系统.md",
     "项目/公司项目/文档更新.md",
     "Attachments/Pasted image 20260320092442.png",
