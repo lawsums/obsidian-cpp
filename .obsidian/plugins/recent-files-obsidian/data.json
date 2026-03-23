@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1000317. 相似字符串组",
+      "path": "Leetcode/1000317. 相似字符串组.md"
+    },
+    {
       "basename": "1000305. 除法求值",
       "path": "Leetcode/1000305. 除法求值.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "c 风格赋值",
       "path": "Dairies/c 风格赋值.md"
-    },
-    {
-      "basename": "C++知识学习",
-      "path": "Templates/Homepage/C++知识学习.md"
     }
   ],
   "omittedPaths": [],
