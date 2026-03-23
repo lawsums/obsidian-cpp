@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "算法面试好题",
+      "path": "Templates/Homepage/算法面试好题.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "30天制作一个服务器",
+      "path": "Templates/Homepage/30天制作一个服务器.md"
+    },
+    {
+      "basename": "排序板子",
+      "path": "代码模版/排序板子.md"
     },
     {
       "basename": "2026-03-24",
@@ -23,10 +35,6 @@
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "30天制作一个服务器",
-      "path": "Templates/Homepage/30天制作一个服务器.md"
     },
     {
       "basename": "007_书籍",
@@ -87,10 +95,6 @@
     {
       "basename": "文档更新",
       "path": "项目/公司项目/文档更新.md"
-    },
-    {
-      "basename": "算法面试好题",
-      "path": "Templates/Homepage/算法面试好题.md"
     },
     {
       "basename": "git",
