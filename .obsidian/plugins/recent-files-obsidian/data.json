@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "生产实习",
+      "path": "项目/学校项目/生产实习.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-03-23",
+      "path": "Dairies/2026-03-23.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "30天制作一个服务器",
@@ -11,14 +27,6 @@
     {
       "basename": "007_书籍",
       "path": "Templates/Homepage/007_书籍.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "2026-03-23",
-      "path": "Dairies/2026-03-23.md"
     },
     {
       "basename": "string",
@@ -35,10 +43,6 @@
     {
       "basename": "把所有科三视频都看了",
       "path": "Dairies/把所有科三视频都看了.md"
-    },
-    {
-      "basename": "生产实习",
-      "path": "项目/学校项目/生产实习.md"
     },
     {
       "basename": "2026-03-22",
@@ -123,10 +127,6 @@
     {
       "basename": "备份",
       "path": "项目/公司项目/备份.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "学习科目四",
