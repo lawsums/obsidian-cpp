@@ -103,8 +103,7 @@
               "title": "1000317. 相似字符串组"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -180,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -234,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/1000317. 相似字符串组.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1000317. 相似字符串组 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -383,17 +383,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5ddd7f22df0f192c",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Leetcode/1000305. 除法求值.md",
+    "Templates/Homepage/算法面试好题.md",
+    "Templates/Homepage/Homepage.md",
     "Leetcode/1000317. 相似字符串组.md",
+    "Leetcode/1000305. 除法求值.md",
     "Templates/Homepage/30天制作一个服务器.md",
     "Dairies/2026-01-24.md",
     "Templates/Homepage/并查集.md",
-    "Templates/Homepage/算法面试好题.md",
     "Dairies/2026-03-25.md",
     "Templates/Homepage/002_稍后再看.md",
-    "Templates/Homepage/Homepage.md",
     "代码模版/排序板子.md",
     "Dairies/2026-03-24.md",
     "Dairies/2026-03-23.md",

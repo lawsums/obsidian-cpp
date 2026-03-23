@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "算法面试好题",
+      "path": "Templates/Homepage/算法面试好题.md"
+    },
+    {
       "basename": "1000317. 相似字符串组",
       "path": "Leetcode/1000317. 相似字符串组.md"
     },
@@ -15,14 +23,6 @@
     {
       "basename": "并查集",
       "path": "Templates/Homepage/并查集.md"
-    },
-    {
-      "basename": "算法面试好题",
-      "path": "Templates/Homepage/算法面试好题.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "排序板子",
