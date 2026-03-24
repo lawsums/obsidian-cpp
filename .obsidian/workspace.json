@@ -102,33 +102,9 @@
               "icon": "lucide-file",
               "title": "生产实习"
             }
-          },
-          {
-            "id": "1ca023a1a5d56975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/1716.矩阵的最大非负积.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1716.矩阵的最大非负积"
-            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -257,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/1716.矩阵的最大非负积.md",
+                "file": "项目/学校项目/生产实习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1716.矩阵的最大非负积 的大纲"
+              "title": "生产实习 的大纲"
             }
           },
           {
@@ -406,16 +382,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1ca023a1a5d56975",
+  "active": "544cffaaa44b662a",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
+    "Leetcode/1716.矩阵的最大非负积.md",
     "Leetcode/1716.矩阵的最大非负积.cpp~",
     "Leetcode/1716.矩阵的最大非负积.cpp",
     "项目/学校项目/生产实习.md",
     "Leetcode/images/1716_product3.jpg",
     "Leetcode/images/1716_product2.jpg",
     "Leetcode/images/1716_product1.jpg",
-    "Leetcode/1716.矩阵的最大非负积.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-03-24.md",
     "Templates/学习科目三.md",
     "Dairies/整理一下科三的细节.md",
@@ -453,7 +429,6 @@
     "Attachments/Pasted image 20260320092442.png",
     "Leetcode/41.缺失的第一个正数.cpp~",
     "Leetcode/41.缺失的第一个正数.cpp",
-    "项目/公司项目",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
