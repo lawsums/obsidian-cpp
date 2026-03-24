@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "算法面试好题",
       "path": "Templates/Homepage/算法面试好题.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "生产实习",
+      "path": "项目/学校项目/生产实习.md"
     },
     {
       "basename": "2026-03-24",
@@ -19,10 +23,6 @@
     {
       "basename": "学习科目三",
       "path": "Templates/学习科目三.md"
-    },
-    {
-      "basename": "生产实习",
-      "path": "项目/学校项目/生产实习.md"
     },
     {
       "basename": "1716.矩阵的最大非负积",

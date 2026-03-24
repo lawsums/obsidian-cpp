@@ -103,8 +103,7 @@
               "title": "生产实习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/算法面试好题.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法面试好题 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -383,13 +382,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c55a38cf9b5cbb43",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/算法面试好题.md",
+    "项目/学校项目/生产实习.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-03-24.md",
     "Templates/Homepage/学习C++.md",
     "Templates/学习科目三.md",
-    "项目/学校项目/生产实习.md",
     "Leetcode/1716.矩阵的最大非负积.md",
     "Leetcode/1716.矩阵的最大非负积.cpp~",
     "Leetcode/1716.矩阵的最大非负积.cpp",
@@ -398,7 +398,6 @@
     "Leetcode/images/1716_product1.jpg",
     "Dairies/整理一下科三的细节.md",
     "Dairies/2026-03-23.md",
-    "Templates/Homepage/算法面试好题.md",
     "Leetcode/1000317. 相似字符串组.md",
     "Leetcode/1000305. 除法求值.md",
     "Templates/Homepage/30天制作一个服务器.md",
