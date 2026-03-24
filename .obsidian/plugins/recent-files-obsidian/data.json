@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "算法面试好题",
+      "path": "Templates/Homepage/算法面试好题.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "2026-03-23",
       "path": "Dairies/2026-03-23.md"
-    },
-    {
-      "basename": "算法面试好题",
-      "path": "Templates/Homepage/算法面试好题.md"
     },
     {
       "basename": "1000317. 相似字符串组",
