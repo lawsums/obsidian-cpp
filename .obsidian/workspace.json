@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "e876c1f4c1330392",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习C++"
+            }
+          },
+          {
             "id": "c55a38cf9b5cbb43",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               "title": "生产实习"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,13 +258,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/算法面试好题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "算法面试好题 的大纲"
             }
           },
           {
@@ -382,13 +407,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "c55a38cf9b5cbb43",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/算法面试好题.md",
     "项目/学校项目/生产实习.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-03-24.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/学习科目三.md",
     "Leetcode/1716.矩阵的最大非负积.md",
     "Leetcode/1716.矩阵的最大非负积.cpp~",
