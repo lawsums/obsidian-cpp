@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "3e05ca6b776a94e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-03-24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-03-24"
+            }
+          },
+          {
+            "id": "aa78a0e0e34a3f1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/学习科目三.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习科目三"
+            }
+          },
+          {
             "id": "544cffaaa44b662a",
             "type": "leaf",
             "state": {
@@ -56,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -337,6 +385,9 @@
   "active": "544cffaaa44b662a",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-03-24.md",
+    "Templates/学习科目三.md",
+    "项目/学校项目/生产实习.md",
     "Dairies/整理一下科三的细节.md",
     "Dairies/2026-03-23.md",
     "Templates/Homepage/算法面试好题.md",
@@ -348,14 +399,11 @@
     "Dairies/2026-03-25.md",
     "Templates/Homepage/002_稍后再看.md",
     "代码模版/排序板子.md",
-    "Dairies/2026-03-24.md",
-    "项目/学校项目/生产实习.md",
     "Templates/Daily_note_template.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/007_书籍.md",
     "Dairies/string.md",
     "Dairies/实现自己的数据结构.md",
-    "Templates/学习科目三.md",
     "Dairies/把所有科三视频都看了.md",
     "Leetcode/会员题/2.md",
     "Leetcode/会员题/2015. 判断矩阵经轮转后是否一致.cpp",
