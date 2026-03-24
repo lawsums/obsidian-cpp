@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "整理一下科三的细节",
+      "path": "Dairies/整理一下科三的细节.md"
+    },
+    {
+      "basename": "2026-03-23",
+      "path": "Dairies/2026-03-23.md"
+    },
+    {
       "basename": "算法面试好题",
       "path": "Templates/Homepage/算法面试好题.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "2026-03-24",
       "path": "Dairies/2026-03-24.md"
-    },
-    {
-      "basename": "2026-03-23",
-      "path": "Dairies/2026-03-23.md"
     },
     {
       "basename": "生产实习",
@@ -195,10 +199,6 @@
     {
       "basename": "把其他传感器例程组合成头文件",
       "path": "项目/毕设/把其他传感器例程组合成头文件.md"
-    },
-    {
-      "basename": "c 风格赋值",
-      "path": "Dairies/c 风格赋值.md"
     }
   ],
   "omittedPaths": [],
