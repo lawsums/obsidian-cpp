@@ -103,8 +103,7 @@
               "title": "生产实习"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/学校项目/生产实习.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "生产实习 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -382,13 +381,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "544cffaaa44b662a",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "项目/学校项目/生产实习.md",
     "Templates/Homepage/Homepage.md",
     "Leetcode/1716.矩阵的最大非负积.md",
     "Leetcode/1716.矩阵的最大非负积.cpp~",
     "Leetcode/1716.矩阵的最大非负积.cpp",
-    "项目/学校项目/生产实习.md",
     "Leetcode/images/1716_product3.jpg",
     "Leetcode/images/1716_product2.jpg",
     "Leetcode/images/1716_product1.jpg",
