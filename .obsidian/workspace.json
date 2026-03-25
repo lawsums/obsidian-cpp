@@ -179,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -320,6 +321,16 @@
         "dimension": 35.416666666666664,
         "children": [
           {
+            "id": "b6815791fd84dcd6",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          },
+          {
             "id": "5903889d620935a8",
             "type": "leaf",
             "state": {
@@ -337,7 +348,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -371,41 +383,6 @@
       "obsidian-shellcommands:Shell commands: Custom variables": false,
       "homepage:Open homepage": false
     }
-  },
-  "floating": {
-    "id": "ae4e455200b0e59e",
-    "type": "floating",
-    "children": [
-      {
-        "id": "6f36b66e1e45af20",
-        "type": "window",
-        "children": [
-          {
-            "id": "58912856cf3de054",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "62a2ab2074b1cb48",
-                "type": "leaf",
-                "state": {
-                  "type": "timer-view",
-                  "state": {},
-                  "icon": "timer",
-                  "title": "Timer"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1267,
-        "y": 516,
-        "width": 268,
-        "height": 298,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
   },
   "active": "a9e19fd51c911d1f",
   "lastOpenFiles": [
