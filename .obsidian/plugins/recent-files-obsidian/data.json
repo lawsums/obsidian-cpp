@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "堆板子",
-      "path": "代码模版/堆板子.md"
+      "basename": "寻找外文翻译",
+      "path": "Dairies/寻找外文翻译.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "Homepage",
@@ -13,8 +17,16 @@
       "path": "Templates/Homepage/算法面试好题.md"
     },
     {
-      "basename": "寻找外文翻译",
-      "path": "Dairies/寻找外文翻译.md"
+      "basename": "140.单词拆分 II",
+      "path": "Leetcode/140.单词拆分 II.md"
+    },
+    {
+      "basename": "315.计算右侧小于当前元素的个数",
+      "path": "Leetcode/315.计算右侧小于当前元素的个数.md"
+    },
+    {
+      "basename": "堆板子",
+      "path": "代码模版/堆板子.md"
     },
     {
       "basename": "2026-03-25",
@@ -27,10 +39,6 @@
     {
       "basename": "007_书籍",
       "path": "Templates/Homepage/007_书籍.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "2026-03-24",
@@ -191,14 +199,6 @@
     {
       "basename": "南京市项目合同",
       "path": "项目/公司项目/南京市项目合同.md"
-    },
-    {
-      "basename": "Art of programming",
-      "path": "Templates/Homepage/Art of programming.md"
-    },
-    {
-      "basename": "学习esp32s3",
-      "path": "Templates/Homepage/学习esp32s3.md"
     }
   ],
   "omittedPaths": [],
