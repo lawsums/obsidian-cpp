@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "堆板子",
+      "path": "代码模版/堆板子.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "学习esp32s3",
       "path": "Templates/Homepage/学习esp32s3.md"
-    },
-    {
-      "basename": "毕设规划",
-      "path": "项目/毕设/毕设规划.md"
     }
   ],
   "omittedPaths": [],

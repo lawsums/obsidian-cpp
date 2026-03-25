@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "16de9f5698526949",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "代码模版/堆板子.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "堆板子"
+            }
+          },
+          {
             "id": "9b6887ea7dad1960",
             "type": "leaf",
             "state": {
@@ -79,7 +103,8 @@
               "title": "寻找外文翻译"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "代码模版/堆板子.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "堆板子 的大纲"
             }
           },
           {
@@ -382,11 +407,11 @@
       }
     ]
   },
-  "active": "a8fa3bde95b82293",
+  "active": "16de9f5698526949",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/算法面试好题.md",
     "Templates/Homepage/002_稍后再看.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/寻找外文翻译.md",
     "Dairies/2026-03-25.md",
     "Dairies/2026-04-04.md",
