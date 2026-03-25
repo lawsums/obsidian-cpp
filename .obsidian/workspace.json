@@ -79,8 +79,7 @@
               "title": "寻找外文翻译"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/算法面试好题.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法面试好题 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -383,8 +382,9 @@
       }
     ]
   },
-  "active": "9b6887ea7dad1960",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/算法面试好题.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/寻找外文翻译.md",
     "Dairies/2026-03-25.md",
@@ -394,7 +394,6 @@
     "Templates/Homepage/007_书籍.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/2026-03-24.md",
-    "Templates/Homepage/算法面试好题.md",
     "Templates/Homepage/002_稍后再看.md",
     "Dairies/2026-03-26.md",
     "项目/学校项目/生产实习.md",
