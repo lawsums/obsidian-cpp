@@ -272,16 +272,6 @@
         "dimension": 35.416666666666664,
         "children": [
           {
-            "id": "62a2ab2074b1cb48",
-            "type": "leaf",
-            "state": {
-              "type": "timer-view",
-              "state": {},
-              "icon": "timer",
-              "title": "Timer"
-            }
-          },
-          {
             "id": "5903889d620935a8",
             "type": "leaf",
             "state": {
@@ -334,8 +324,45 @@
       "homepage:Open homepage": false
     }
   },
+  "floating": {
+    "id": "ae4e455200b0e59e",
+    "type": "floating",
+    "children": [
+      {
+        "id": "6f36b66e1e45af20",
+        "type": "window",
+        "children": [
+          {
+            "id": "58912856cf3de054",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "62a2ab2074b1cb48",
+                "type": "leaf",
+                "state": {
+                  "type": "timer-view",
+                  "state": {},
+                  "icon": "timer",
+                  "title": "Timer"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1272,
+        "y": 516,
+        "width": 268,
+        "height": 297,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "a9e19fd51c911d1f",
   "lastOpenFiles": [
+    "Dairies/2026-04-04.md",
+    "Dairies/2026-04-01.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/寻找外文翻译.md",
     "Dairies/2026-03-25.md",
@@ -365,9 +392,7 @@
     "Dairies/string.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/把所有科三视频都看了.md",
-    "Leetcode/会员题/2.md",
     "Leetcode/会员题/2015. 判断矩阵经轮转后是否一致.cpp",
-    "Leetcode/会员题/1.md",
     "Leetcode/images/2015_grid4.png",
     "Leetcode/images/2015_grid3.png",
     "Leetcode/会员题",
