@@ -1,16 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "30天制作一个服务器",
-      "path": "Templates/Homepage/30天制作一个服务器.md"
-    },
-    {
-      "basename": "007_书籍",
-      "path": "Templates/Homepage/007_书籍.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
+      "basename": "翻译论文",
+      "path": "Templates/Homepage/翻译论文.md"
     },
     {
       "basename": "Homepage",
@@ -19,6 +11,18 @@
     {
       "basename": "学习esp32s3",
       "path": "Templates/Homepage/学习esp32s3.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "30天制作一个服务器",
+      "path": "Templates/Homepage/30天制作一个服务器.md"
+    },
+    {
+      "basename": "007_书籍",
+      "path": "Templates/Homepage/007_书籍.md"
     },
     {
       "basename": "2026-03-16",
@@ -195,10 +199,6 @@
     {
       "basename": "学习科目四",
       "path": "Dairies/学习科目四.md"
-    },
-    {
-      "basename": "自己写一个类型怎么样能调用stl算法",
-      "path": "操作系统/自己写一个类型怎么样能调用stl算法.md"
     }
   ],
   "omittedPaths": [],
