@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "学习esp32s3",
+      "path": "Templates/Homepage/学习esp32s3.md"
+    },
+    {
+      "basename": "2026-03-16",
+      "path": "Dairies/2026-03-16.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "自己写一个类型怎么样能调用stl算法",
       "path": "操作系统/自己写一个类型怎么样能调用stl算法.md"
-    },
-    {
-      "basename": "2026-03-15",
-      "path": "Dairies/2026-03-15.md"
-    },
-    {
-      "basename": "Javascript现代教程",
-      "path": "Templates/Homepage/Javascript现代教程.md"
     }
   ],
   "omittedPaths": [],
