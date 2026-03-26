@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "30天制作一个服务器",
+      "path": "Templates/Homepage/30天制作一个服务器.md"
+    },
+    {
+      "basename": "007_书籍",
+      "path": "Templates/Homepage/007_书籍.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
@@ -23,14 +31,6 @@
     {
       "basename": "linux 高性能服务器编程",
       "path": "Templates/Homepage/linux 高性能服务器编程.md"
-    },
-    {
-      "basename": "007_书籍",
-      "path": "Templates/Homepage/007_书籍.md"
-    },
-    {
-      "basename": "30天制作一个服务器",
-      "path": "Templates/Homepage/30天制作一个服务器.md"
     },
     {
       "basename": "2026-03-26",
