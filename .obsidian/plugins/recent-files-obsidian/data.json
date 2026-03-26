@@ -1,36 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "学习esp32s3",
+      "path": "Templates/Homepage/学习esp32s3.md"
+    },
+    {
       "basename": "翻译论文",
       "path": "Templates/Homepage/翻译论文.md"
-    },
-    {
-      "basename": "C++课程",
-      "path": "Templates/Homepage/C++课程.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "30天制作一个服务器",
-      "path": "Templates/Homepage/30天制作一个服务器.md"
-    },
-    {
-      "basename": "学习esp32s3",
-      "path": "Templates/Homepage/学习esp32s3.md"
-    },
-    {
-      "basename": "备份",
-      "path": "项目/公司项目/备份.md"
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "C++课程",
+      "path": "Templates/Homepage/C++课程.md"
+    },
+    {
+      "basename": "2026-03-28",
+      "path": "Dairies/2026-03-28.md"
+    },
+    {
+      "basename": "30天制作一个服务器",
+      "path": "Templates/Homepage/30天制作一个服务器.md"
+    },
+    {
+      "basename": "备份",
+      "path": "项目/公司项目/备份.md"
     },
     {
       "basename": "test_template",
@@ -195,10 +199,6 @@
     {
       "basename": "41.缺失的第一个正数",
       "path": "Leetcode/41.缺失的第一个正数.md"
-    },
-    {
-      "basename": "2026-03-17",
-      "path": "Dairies/2026-03-17.md"
     }
   ],
   "omittedPaths": [],
