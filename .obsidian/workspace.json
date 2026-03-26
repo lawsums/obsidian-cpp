@@ -103,7 +103,8 @@
               "title": "学习esp32s3"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习C++ 的大纲"
             }
           },
           {
@@ -382,46 +383,14 @@
       "homepage:Open homepage": false
     }
   },
-  "floating": {
-    "id": "57f268974bb17e1f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d678b07562e6368c",
-        "type": "window",
-        "children": [
-          {
-            "id": "0b4d3b0cc346a1bf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d14029111ed6071a",
-                "type": "leaf",
-                "state": {
-                  "type": "timer-view",
-                  "state": {},
-                  "icon": "timer",
-                  "title": "Timer"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1263,
-        "y": 517,
-        "width": 273,
-        "height": 298,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "a8fa3bde95b82293",
+  "active": "e654c19ff8c550b0",
   "lastOpenFiles": [
+    "Dairies/string.md",
+    "Dairies/实现自己的数据结构.md",
+    "Dairies/server.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习esp32s3.md",
     "Templates/Homepage/翻译论文.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Daily_note_template.md",
     "Templates/Homepage/C++课程.md",
@@ -444,9 +413,6 @@
     "Leetcode/140.单词拆分 II.cpp",
     "Leetcode/315.计算右侧小于当前元素的个数.md",
     "Leetcode/315.计算右侧小于当前元素的个数.cpp",
-    "代码模版/堆板子.md",
-    "Templates/Homepage/002_稍后再看.md",
-    "Dairies/2026-03-25.md",
     "Leetcode/1716.矩阵的最大非负积.cpp~",
     "Leetcode/1716.矩阵的最大非负积.cpp",
     "Leetcode/images/1716_product3.jpg",

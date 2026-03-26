@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "string",
+      "path": "Dairies/string.md"
+    },
+    {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
+      "basename": "server",
+      "path": "Dairies/server.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -11,10 +27,6 @@
     {
       "basename": "翻译论文",
       "path": "Templates/Homepage/翻译论文.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "Daily_note_template",
@@ -133,14 +145,6 @@
       "path": "代码模版/排序板子.md"
     },
     {
-      "basename": "string",
-      "path": "Dairies/string.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
       "basename": "把所有科三视频都看了",
       "path": "Dairies/把所有科三视频都看了.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-03-18",
       "path": "Dairies/2026-03-18.md"
-    },
-    {
-      "basename": "41.缺失的第一个正数",
-      "path": "Leetcode/41.缺失的第一个正数.md"
     }
   ],
   "omittedPaths": [],

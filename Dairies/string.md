@@ -12,6 +12,12 @@
 - [x] 测试 join/split
 	- [ ] 目前 [[c 风格赋值]](不是构造)有 bug
 - [ ] 实现 splice
+- [ ] 实现 calculate
+- [ ] 实现格式化输出
+- [ ] 实现 json
+	- [ ] 实现常见数据结构序列化
+	- [ ] 二叉树序列化
+	- [ ] 图序列化
 - [x] 实现反向迭代器
 	- [ ] 通过 `std::reverse_iterator<XXX>` 接口适配器实现反向迭代器
 	- [ ] 实现基本类型的声明 `value_type` `pointer` `const_pointer` `reference` `const_reference` `difference_type` `size_type`
