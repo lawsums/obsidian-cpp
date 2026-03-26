@@ -103,8 +103,7 @@
               "title": "学习esp32s3"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习esp32s3.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习esp32s3 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -418,8 +417,9 @@
       }
     ]
   },
-  "active": "aab064e27cad39a7",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习esp32s3.md",
     "Templates/Homepage/翻译论文.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
@@ -427,7 +427,6 @@
     "Templates/Homepage/C++课程.md",
     "Dairies/2026-03-28.md",
     "Templates/Homepage/30天制作一个服务器.md",
-    "Templates/Homepage/学习esp32s3.md",
     "项目/公司项目/备份.md",
     "Templates/test_template.md",
     "test.md",

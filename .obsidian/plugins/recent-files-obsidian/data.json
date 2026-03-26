@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "学习esp32s3",
       "path": "Templates/Homepage/学习esp32s3.md"
     },
     {
       "basename": "翻译论文",
       "path": "Templates/Homepage/翻译论文.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "学习C++",
