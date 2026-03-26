@@ -212,7 +212,7 @@
       {
         "id": "720402d91614d85f",
         "type": "tabs",
-        "dimension": 35.416666666666664,
+        "dimension": 43.0379746835443,
         "children": [
           {
             "id": "96da7d36b59c0c87",
@@ -249,7 +249,7 @@
       {
         "id": "a68226789a184a04",
         "type": "tabs",
-        "dimension": 29.166666666666664,
+        "dimension": 35.44303797468354,
         "children": [
           {
             "id": "7ad080d1a7a76395",
@@ -341,18 +341,8 @@
       {
         "id": "4d5c9ff27afeebb0",
         "type": "tabs",
-        "dimension": 35.416666666666664,
+        "dimension": 21.51898734177215,
         "children": [
-          {
-            "id": "62a2ab2074b1cb48",
-            "type": "leaf",
-            "state": {
-              "type": "timer-view",
-              "state": {},
-              "icon": "timer",
-              "title": "Timer"
-            }
-          },
           {
             "id": "5903889d620935a8",
             "type": "leaf",
@@ -366,8 +356,19 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
+          },
+          {
+            "id": "62a2ab2074b1cb48",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -406,7 +407,42 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "20d08ec9655584e2",
+  "floating": {
+    "id": "57f268974bb17e1f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d678b07562e6368c",
+        "type": "window",
+        "children": [
+          {
+            "id": "0b4d3b0cc346a1bf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d14029111ed6071a",
+                "type": "leaf",
+                "state": {
+                  "type": "timer-view",
+                  "state": {},
+                  "icon": "timer",
+                  "title": "Timer"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1263,
+        "y": 518,
+        "width": 273,
+        "height": 298,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "d14029111ed6071a",
   "lastOpenFiles": [
     "Templates/Homepage/翻译论文.md",
     "Templates/Homepage/Homepage.md",
