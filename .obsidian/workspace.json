@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -257,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/C++课程.md",
+                "file": "Templates/Homepage/翻译论文.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "C++课程 的大纲"
+              "title": "翻译论文 的大纲"
             }
           },
           {
@@ -434,7 +434,7 @@
         ],
         "direction": "vertical",
         "x": 1263,
-        "y": 518,
+        "y": 517,
         "width": 273,
         "height": 298,
         "maximize": false,
@@ -442,8 +442,9 @@
       }
     ]
   },
-  "active": "015768fb2b1b0ff3",
+  "active": "20d08ec9655584e2",
   "lastOpenFiles": [
+    "Templates/Homepage/C++课程.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/翻译论文.md",
@@ -471,7 +472,6 @@
     "Templates/Homepage/002_稍后再看.md",
     "Dairies/2026-03-25.md",
     "Dairies/2026-04-04.md",
-    "Dairies/2026-04-01.md",
     "Leetcode/1716.矩阵的最大非负积.cpp~",
     "Leetcode/1716.矩阵的最大非负积.cpp",
     "Leetcode/images/1716_product3.jpg",

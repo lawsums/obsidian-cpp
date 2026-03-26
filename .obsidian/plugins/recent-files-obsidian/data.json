@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "翻译论文",
+      "path": "Templates/Homepage/翻译论文.md"
+    },
+    {
       "basename": "C++课程",
       "path": "Templates/Homepage/C++课程.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
-    },
-    {
-      "basename": "翻译论文",
-      "path": "Templates/Homepage/翻译论文.md"
     },
     {
       "basename": "30天制作一个服务器",
