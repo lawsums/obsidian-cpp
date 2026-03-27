@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "3b893d1294b6e9e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习C++"
+            }
+          },
+          {
             "id": "fc1c41f741061199",
             "type": "leaf",
             "state": {
@@ -54,9 +78,33 @@
               "icon": "lucide-file",
               "title": "文档更新"
             }
+          },
+          {
+            "id": "26a320289919bf03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/227.基本计算器 II.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "227.基本计算器 II"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -371,14 +419,17 @@
   },
   "active": "fc1c41f741061199",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/227.基本计算器 II.md",
+    "Leetcode/227.基本计算器 II.cpp",
+    "项目/公司项目/文档更新.md",
     "Templates/Daily_note_template.md",
     "Dairies/string.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/server.md",
     "Templates/Homepage/学习esp32s3.md",
     "Templates/Homepage/翻译论文.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/C++课程.md",
     "Dairies/2026-03-28.md",
     "Templates/Homepage/30天制作一个服务器.md",
@@ -394,10 +445,7 @@
     "Dairies/寻找外文翻译.md",
     "Templates/Homepage/算法面试好题.md",
     "Templates/Homepage/linux 高性能服务器编程.md",
-    "Dairies/2026-03-26.md",
-    "Leetcode/140.单词拆分 II.md",
     "Leetcode/140.单词拆分 II.cpp",
-    "Leetcode/315.计算右侧小于当前元素的个数.md",
     "Leetcode/315.计算右侧小于当前元素的个数.cpp",
     "Leetcode/1716.矩阵的最大非负积.cpp~",
     "Leetcode/1716.矩阵的最大非负积.cpp",
@@ -415,7 +463,6 @@
     "Attachments/Pasted image 20260321100910.png",
     "Leetcode/76.最小覆盖子串 .go",
     "Leetcode/76.最小覆盖子串 copy.cpp",
-    "Leetcode/76.最小覆盖子串.cpp",
     "Attachments/Pasted image 20260320092442.png",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"

@@ -5,16 +5,20 @@
       "path": "项目/公司项目/文档更新.md"
     },
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
+      "basename": "227.基本计算器 II",
+      "path": "Leetcode/227.基本计算器 II.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "string",
@@ -195,10 +199,6 @@
     {
       "basename": "实现Trie(前缀树)",
       "path": "数据结构/实现Trie(前缀树).md"
-    },
-    {
-      "basename": "2026-03-18",
-      "path": "Dairies/2026-03-18.md"
     }
   ],
   "omittedPaths": [],
