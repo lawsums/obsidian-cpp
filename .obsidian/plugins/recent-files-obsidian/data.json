@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "翻译论文",
       "path": "Templates/Homepage/翻译论文.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "C++课程",
