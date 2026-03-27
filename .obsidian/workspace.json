@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "fc1c41f741061199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/公司项目/文档更新.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "文档更新"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/公司项目/文档更新.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "文档更新 的大纲"
             }
           },
           {
@@ -344,10 +369,10 @@
       }
     ]
   },
-  "active": "a8fa3bde95b82293",
+  "active": "fc1c41f741061199",
   "lastOpenFiles": [
-    "Templates/Daily_note_template.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Daily_note_template.md",
     "Dairies/string.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/server.md",

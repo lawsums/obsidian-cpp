@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "文档更新",
+      "path": "项目/公司项目/文档更新.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -183,10 +187,6 @@
     {
       "basename": "FIFO",
       "path": "操作系统/FIFO.md"
-    },
-    {
-      "basename": "文档更新",
-      "path": "项目/公司项目/文档更新.md"
     },
     {
       "basename": "git",
