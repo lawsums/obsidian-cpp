@@ -127,8 +127,7 @@
               "title": "文档更新"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/测验之魔女.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "测验之魔女 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -406,8 +405,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2a88ffbd712c9760",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/测验之魔女.md",
     "Templates/Homepage/004_闪念.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
@@ -434,7 +434,6 @@
     "Dairies/2026-03-28.md",
     "Templates/Homepage/30天制作一个服务器.md",
     "项目/公司项目/备份.md",
-    "Templates/test_template.md",
     "Leetcode/140.单词拆分 II.cpp",
     "Leetcode/315.计算右侧小于当前元素的个数.cpp",
     "Leetcode/1716.矩阵的最大非负积.cpp~",
