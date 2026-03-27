@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "草稿",
+      "path": "草稿.md"
+    },
+    {
       "basename": "文档更新",
       "path": "项目/公司项目/文档更新.md"
+    },
+    {
+      "basename": "复习面试题",
+      "path": "Templates/Homepage/复习面试题.md"
     },
     {
       "basename": "学习C++",
@@ -177,16 +185,8 @@
       "path": "Dairies/2026-03-20.md"
     },
     {
-      "basename": "复习面试题",
-      "path": "Templates/Homepage/复习面试题.md"
-    },
-    {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "草稿",
-      "path": "草稿.md"
     },
     {
       "basename": "FIFO",

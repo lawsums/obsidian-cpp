@@ -56,6 +56,54 @@
             }
           },
           {
+            "id": "234d41ae022549d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/复习面试题.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "复习面试题"
+            }
+          },
+          {
+            "id": "ed524f685381c2a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "草稿.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "草稿"
+            }
+          },
+          {
             "id": "fc1c41f741061199",
             "type": "leaf",
             "state": {
@@ -78,33 +126,9 @@
               "icon": "lucide-file",
               "title": "文档更新"
             }
-          },
-          {
-            "id": "26a320289919bf03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/227.基本计算器 II.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "227.基本计算器 II"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -179,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -233,13 +258,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/公司项目/文档更新.md",
+                "file": "草稿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "文档更新 的大纲"
+              "title": "草稿 的大纲"
             }
           },
           {
@@ -347,7 +372,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -408,22 +434,24 @@
           }
         ],
         "direction": "vertical",
-        "x": 1225,
-        "y": 366,
-        "width": 312,
-        "height": 443,
+        "x": 1303,
+        "y": 543,
+        "width": 234,
+        "height": 266,
         "maximize": false,
         "zoom": 0
       }
     ]
   },
-  "active": "fc1c41f741061199",
+  "active": "ed524f685381c2a7",
   "lastOpenFiles": [
+    "项目/公司项目/文档更新.md",
+    "草稿.md",
+    "Templates/Homepage/复习面试题.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
     "Leetcode/227.基本计算器 II.md",
     "Leetcode/227.基本计算器 II.cpp",
-    "项目/公司项目/文档更新.md",
     "Templates/Daily_note_template.md",
     "Dairies/string.md",
     "Dairies/实现自己的数据结构.md",
@@ -444,7 +472,6 @@
     "Dairies/2026-03-23.md",
     "Dairies/寻找外文翻译.md",
     "Templates/Homepage/算法面试好题.md",
-    "Templates/Homepage/linux 高性能服务器编程.md",
     "Leetcode/140.单词拆分 II.cpp",
     "Leetcode/315.计算右侧小于当前元素的个数.cpp",
     "Leetcode/1716.矩阵的最大非负积.cpp~",
