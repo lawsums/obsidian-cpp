@@ -382,41 +382,6 @@
       "homepage:Open homepage": false
     }
   },
-  "floating": {
-    "id": "89e66b70a859f14b",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d3cfb7783301d3c9",
-        "type": "window",
-        "children": [
-          {
-            "id": "ffd4a8494c5ae586",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d431896c3678fcfd",
-                "type": "leaf",
-                "state": {
-                  "type": "timer-view",
-                  "state": {},
-                  "icon": "timer",
-                  "title": "Timer"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1303,
-        "y": 543,
-        "width": 234,
-        "height": 266,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
   "active": "f478a070a24c5bc9",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
