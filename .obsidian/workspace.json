@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/server.md",
+                "file": "Dairies/实现自己的数据结构.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "server"
+              "title": "实现自己的数据结构"
             }
           },
           {
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/server.md",
+                "file": "Dairies/实现自己的数据结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "server 的大纲"
+              "title": "实现自己的数据结构 的大纲"
             }
           },
           {
@@ -384,8 +384,8 @@
   },
   "active": "f478a070a24c5bc9",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Dairies/server.md",
+    "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/C++知识学习.md",
