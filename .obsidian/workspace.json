@@ -32,14 +32,14 @@
             }
           },
           {
-            "id": "030a965cf43056ca",
+            "id": "f478a070a24c5bc9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Interview_template.md",
+                "file": "Dairies/server.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Interview_template"
+              "title": "server"
             }
           },
           {
@@ -77,30 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "学习C++"
-            }
-          },
-          {
-            "id": "234d41ae022549d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/复习面试题.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "复习面试题"
             }
           },
           {
@@ -442,7 +418,14 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/server.md",
+    "Dairies/实现自己的数据结构.md",
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/C++知识学习.md",
     "项目/公司项目/文档更新.md",
+    "Templates/Homepage/复习面试题.md",
+    "Templates/Homepage/007_书籍.md",
+    "Templates/Homepage/Homepage.md",
     "操作系统/继承和多态的区别3.md",
     "操作系统/继承和多态的区别2.md",
     "操作系统/继承和多态的区别.md",
@@ -450,15 +433,10 @@
     "Templates/Mandala_template.md",
     "Templates/Leetcode_hot100_template.md",
     "Templates/Daily_note_template.md",
-    "Templates/Homepage/Homepage.md",
     "草稿.md",
-    "Templates/Homepage/复习面试题.md",
-    "Templates/Homepage/学习C++.md",
     "Leetcode/227.基本计算器 II.md",
     "Leetcode/227.基本计算器 II.cpp",
     "Dairies/string.md",
-    "Dairies/实现自己的数据结构.md",
-    "Dairies/server.md",
     "Templates/Homepage/学习esp32s3.md",
     "Templates/Homepage/翻译论文.md",
     "Templates/Homepage/C++课程.md",
@@ -467,8 +445,6 @@
     "项目/公司项目/备份.md",
     "Templates/test_template.md",
     "test.md",
-    "Dairies/2026-03-31.md",
-    "Dairies/2026-04-07.md",
     "Leetcode/140.单词拆分 II.cpp",
     "Leetcode/315.计算右侧小于当前元素的个数.cpp",
     "Leetcode/1716.矩阵的最大非负积.cpp~",
