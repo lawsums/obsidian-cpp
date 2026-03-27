@@ -103,7 +103,8 @@
               "title": "文档更新"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/server.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "server 的大纲"
             }
           },
           {
@@ -416,8 +417,9 @@
       }
     ]
   },
-  "active": "a8fa3bde95b82293",
+  "active": "f478a070a24c5bc9",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Dairies/server.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/学习C++.md",
@@ -425,7 +427,6 @@
     "项目/公司项目/文档更新.md",
     "Templates/Homepage/复习面试题.md",
     "Templates/Homepage/007_书籍.md",
-    "Templates/Homepage/Homepage.md",
     "操作系统/继承和多态的区别3.md",
     "操作系统/继承和多态的区别2.md",
     "操作系统/继承和多态的区别.md",
