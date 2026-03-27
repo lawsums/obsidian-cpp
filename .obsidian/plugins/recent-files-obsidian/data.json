@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "测验之魔女",
+      "path": "Templates/Homepage/测验之魔女.md"
+    },
+    {
+      "basename": "004_闪念",
+      "path": "Templates/Homepage/004_闪念.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "server",
       "path": "Dairies/server.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "学习C++",
@@ -191,10 +199,6 @@
     {
       "basename": "2026-03-19",
       "path": "Dairies/2026-03-19.md"
-    },
-    {
-      "basename": "76.最小覆盖子串",
-      "path": "Leetcode/76.最小覆盖子串.md"
     }
   ],
   "omittedPaths": [],
