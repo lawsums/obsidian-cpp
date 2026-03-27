@@ -1266,6 +1266,36 @@
           }
         },
         {
+          "id": "15166557-5b84-4549-8928-485afa2744e8",
+          "name": "Anki_interview2",
+          "type": "Template",
+          "command": true,
+          "templatePath": "Templates/Interview_template.md",
+          "fileNameFormat": {
+            "enabled": false,
+            "format": ""
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "操作系统"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false,
+            "chooseFromSubfolders": false
+          },
+          "appendLink": false,
+          "openFile": true,
+          "fileOpening": {
+            "location": "tab",
+            "direction": "vertical",
+            "mode": "default",
+            "focus": true
+          },
+          "fileExistsMode": "Increment the file name",
+          "setFileExistsBehavior": false
+        },
+        {
           "id": "0217bcd8-feb5-452a-9606-8a22994938e3",
           "name": "Anki_Interview",
           "type": "Capture",
@@ -1275,12 +1305,12 @@
           "captureToActiveFile": false,
           "createFileIfItDoesntExist": {
             "enabled": true,
-            "createWithTemplate": false,
-            "template": ""
+            "createWithTemplate": true,
+            "template": "Templates/Interview_template.md"
           },
           "format": {
-            "enabled": true,
-            "format": "DECK: 面试题\n\n## {{value}}\n\n\n## 标准答案\n\n\n## TODO\n\n\n## 使用场景(举例)\n\n\n\nEND"
+            "enabled": false,
+            "format": ""
           },
           "insertAfter": {
             "enabled": false,

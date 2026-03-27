@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "草稿",
-      "path": "草稿.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "文档更新",
       "path": "项目/公司项目/文档更新.md"
+    },
+    {
+      "basename": "继承和多态的区别3",
+      "path": "操作系统/继承和多态的区别3.md"
+    },
+    {
+      "basename": "Interview_template",
+      "path": "Templates/Interview_template.md"
+    },
+    {
+      "basename": "Mandala_template",
+      "path": "Templates/Mandala_template.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "草稿",
+      "path": "草稿.md"
     },
     {
       "basename": "复习面试题",
@@ -17,16 +37,8 @@
       "path": "Templates/Homepage/学习C++.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "227.基本计算器 II",
       "path": "Leetcode/227.基本计算器 II.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "string",
@@ -179,26 +191,6 @@
     {
       "basename": "76.最小覆盖子串",
       "path": "Leetcode/76.最小覆盖子串.md"
-    },
-    {
-      "basename": "2026-03-20",
-      "path": "Dairies/2026-03-20.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "FIFO",
-      "path": "操作系统/FIFO.md"
-    },
-    {
-      "basename": "git",
-      "path": "Software/git.md"
-    },
-    {
-      "basename": "实现Trie(前缀树)",
-      "path": "数据结构/实现Trie(前缀树).md"
     }
   ],
   "omittedPaths": [],
