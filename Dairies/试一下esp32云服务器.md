@@ -7,8 +7,10 @@
 - [x] 启动 APP
 	- [x] 填写所有参数
 	- [x] 测试成功
-- [ ] 启动 esp32 和 esp32s3
-
+- [x] 启动 esp32 和 esp32s3
+- [x] 手动上传数据
+	- [x] $oc/devices/69 b6a63418855b39c5037df3_TEST/sys/properties/report
+	- [ ] [设备属性上报_设备数据上报_消息通信_用户指南_设备接入 IoTDA-华为云](https://support.huaweicloud.com/usermanual-iothub/iot_01_0326.html)
 
 
 获取设备参数
