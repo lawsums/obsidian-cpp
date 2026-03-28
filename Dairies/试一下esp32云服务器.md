@@ -1,11 +1,12 @@
 
 - [x] 安装 AnLink 进行手机投屏
-- [ ] 创建华为云服务
+- [x] 创建华为云服务
 	- [x] 使用13913829509 作为 ABC 账号手机号码
 	- [x] 密钥文件: C:\Users\Administrator\Downloads\credentials.csv
 	- [x] 保存所有参数
-- [ ] 启动 APP
-	- [ ]  
+- [x] 启动 APP
+	- [x] 填写所有参数
+	- [x] 测试成功
 - [ ] 启动 esp32 和 esp32s3
 
 
