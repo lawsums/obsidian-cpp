@@ -5,12 +5,12 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "翻译论文",
-      "path": "Templates/Homepage/翻译论文.md"
-    },
-    {
       "basename": "2026-03-28",
       "path": "Dairies/2026-03-28.md"
+    },
+    {
+      "basename": "翻译论文",
+      "path": "Templates/Homepage/翻译论文.md"
     },
     {
       "basename": "测验之魔女",
