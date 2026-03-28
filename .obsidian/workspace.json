@@ -55,8 +55,7 @@
               "title": "翻译论文"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/翻译论文.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "翻译论文 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -334,8 +333,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e7fabbfab5ce36e6",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/翻译论文.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-03-28.md",
     "Templates/Homepage/测验之魔女.md",
@@ -359,7 +359,6 @@
     "Leetcode/227.基本计算器 II.cpp",
     "Dairies/string.md",
     "Templates/Homepage/学习esp32s3.md",
-    "Templates/Homepage/翻译论文.md",
     "Templates/Homepage/C++课程.md",
     "Templates/Homepage/30天制作一个服务器.md",
     "项目/公司项目/备份.md",
