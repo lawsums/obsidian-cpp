@@ -25,3 +25,7 @@
 
 这里**暂时**没有修改
 ![[Pasted image 20260328143503.png]]
+
+- [ ] device_id 不知道是MQTT_USRNAME 或者 CLIENT_ID
+	- [ ] MQTT_USRNAME
+	- [ ] CLIENT_ID
