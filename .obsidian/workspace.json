@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "9b1ac45949a0988e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习esp32s3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习esp32s3"
-            }
-          },
-          {
             "id": "e7fabbfab5ce36e6",
             "type": "leaf",
             "state": {
@@ -79,8 +55,7 @@
               "title": "翻译论文"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习esp32s3.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习esp32s3 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -358,10 +333,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9b1ac45949a0988e",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习esp32s3.md",
+    "Templates/Homepage/Homepage.md",
     "Dairies/试一下esp32云服务器.md",
     "Attachments/Pasted image 20260328143503.png",
     "Dairies/2026-03-28.md",
