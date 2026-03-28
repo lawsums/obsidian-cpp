@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "学习esp32s3",
+      "path": "Templates/Homepage/学习esp32s3.md"
+    },
+    {
       "basename": "2026-03-28",
       "path": "Dairies/2026-03-28.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "string",
       "path": "Dairies/string.md"
-    },
-    {
-      "basename": "学习esp32s3",
-      "path": "Templates/Homepage/学习esp32s3.md"
     },
     {
       "basename": "C++课程",
