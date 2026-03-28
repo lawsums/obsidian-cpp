@@ -10,8 +10,8 @@
 - [x] 启动 esp32 和 esp32s3
 - [x] 手动上传数据
 	- [x] $oc/devices/69 b6a63418855b39c5037df3_TEST/sys/properties/report
-	- [ ] [设备属性上报_设备数据上报_消息通信_用户指南_设备接入 IoTDA-华为云](https://support.huaweicloud.com/usermanual-iothub/iot_01_0326.html)
-
+	- [x] [设备属性上报_设备数据上报_消息通信_用户指南_设备接入 IoTDA-华为云](https://support.huaweicloud.com/usermanual-iothub/iot_01_0326.html)
+- [x] 修改成 WiFiClientSecure 跳过 TTL 验证
 
 获取设备参数
 ```
@@ -29,5 +29,5 @@
 ![[Pasted image 20260328143503.png]]
 
 - [ ] device_id 不知道是MQTT_USRNAME 或者 CLIENT_ID
-	- [ ] MQTT_USRNAME
+	- [x] MQTT_USRNAME
 	- [ ] CLIENT_ID
