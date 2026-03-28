@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-03-28",
+      "path": "Dairies/2026-03-28.md"
+    },
+    {
       "basename": "测验之魔女",
       "path": "Templates/Homepage/测验之魔女.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "C++课程",
       "path": "Templates/Homepage/C++课程.md"
-    },
-    {
-      "basename": "2026-03-28",
-      "path": "Dairies/2026-03-28.md"
     },
     {
       "basename": "30天制作一个服务器",
