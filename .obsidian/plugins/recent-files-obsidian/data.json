@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "739.每日温度",
+      "path": "Leetcode/739.每日温度.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "把所有科三视频都看了",
       "path": "Dairies/把所有科三视频都看了.md"
-    },
-    {
-      "basename": "2026-03-22",
-      "path": "Dairies/2026-03-22.md"
     }
   ],
   "omittedPaths": [],
