@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "下载lama环境尝试跑通",
+      "path": "Dairies/下载lama环境尝试跑通.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "下载lama环境尝试跑通",
-      "path": "Dairies/下载lama环境尝试跑通.md"
+      "basename": "和老师说一下版本太老了docker安装失败",
+      "path": "Dairies/和老师说一下版本太老了docker安装失败.md"
+    },
+    {
+      "basename": "2026-03-29",
+      "path": "Dairies/2026-03-29.md"
     },
     {
       "basename": "学习C++",
@@ -191,14 +199,6 @@
     {
       "basename": "1000317. 相似字符串组",
       "path": "Leetcode/1000317. 相似字符串组.md"
-    },
-    {
-      "basename": "1000305. 除法求值",
-      "path": "Leetcode/1000305. 除法求值.md"
-    },
-    {
-      "basename": "并查集",
-      "path": "Templates/Homepage/并查集.md"
     }
   ],
   "omittedPaths": [],

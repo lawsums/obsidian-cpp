@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "cc00ecd0e22fe6ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/和老师说一下版本太老了docker安装失败.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "和老师说一下版本太老了docker安装失败"
+            }
+          },
+          {
             "id": "e7bbe1862d3fd7cf",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               "title": "下载lama环境尝试跑通"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -232,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/下载lama环境尝试跑通.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "下载lama环境尝试跑通 的大纲"
             }
           },
           {
@@ -381,11 +406,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "b7a48f0239faa06d",
   "lastOpenFiles": [
-    "Dairies/下载lama环境尝试跑通.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/下载lama环境尝试跑通.md",
+    "Dairies/和老师说一下版本太老了docker安装失败.md",
+    "Dairies/2026-03-29.md",
+    "Templates/Homepage/学习C++.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/算法面试好题.md",
@@ -409,8 +436,6 @@
     "操作系统/继承和多态的区别.md",
     "Templates/Interview_template.md",
     "Templates/Mandala_template.md",
-    "Templates/Leetcode_hot100_template.md",
-    "Templates/Daily_note_template.md",
     "Leetcode/227.基本计算器 II.cpp",
     "Leetcode/140.单词拆分 II.cpp",
     "Leetcode/315.计算右侧小于当前元素的个数.cpp",
