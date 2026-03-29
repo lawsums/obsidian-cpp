@@ -103,8 +103,7 @@
               "title": "下载lama环境尝试跑通"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/下载lama环境尝试跑通.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "下载lama环境尝试跑通 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -382,12 +381,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b7a48f0239faa06d",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/下载lama环境尝试跑通.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
-    "Dairies/下载lama环境尝试跑通.md",
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/算法面试好题.md",
     "Templates/Homepage/复习面试题.md",
