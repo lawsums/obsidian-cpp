@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "739.每日温度",
-      "path": "Leetcode/739.每日温度.md"
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "下载lama环境尝试跑通",
+      "path": "Dairies/下载lama环境尝试跑通.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
+      "basename": "复习面试题",
+      "path": "Templates/Homepage/复习面试题.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
+      "basename": "2026-03-28",
+      "path": "Dairies/2026-03-28.md"
+    },
+    {
+      "basename": "739.每日温度",
+      "path": "Leetcode/739.每日温度.md"
     },
     {
       "basename": "009_游戏",
@@ -23,10 +39,6 @@
     {
       "basename": "试一下esp32云服务器",
       "path": "Dairies/试一下esp32云服务器.md"
-    },
-    {
-      "basename": "2026-03-28",
-      "path": "Dairies/2026-03-28.md"
     },
     {
       "basename": "翻译论文",
@@ -55,10 +67,6 @@
     {
       "basename": "文档更新",
       "path": "项目/公司项目/文档更新.md"
-    },
-    {
-      "basename": "复习面试题",
-      "path": "Templates/Homepage/复习面试题.md"
     },
     {
       "basename": "007_书籍",
@@ -191,14 +199,6 @@
     {
       "basename": "并查集",
       "path": "Templates/Homepage/并查集.md"
-    },
-    {
-      "basename": "排序板子",
-      "path": "代码模版/排序板子.md"
-    },
-    {
-      "basename": "把所有科三视频都看了",
-      "path": "Dairies/把所有科三视频都看了.md"
     }
   ],
   "omittedPaths": [],
