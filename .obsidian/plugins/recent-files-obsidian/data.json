@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "009_游戏",
       "path": "Templates/Homepage/009_游戏.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "server",
       "path": "Dairies/server.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "C++知识学习",
