@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "009_游戏",
+      "path": "Templates/Homepage/009_游戏.md"
+    },
+    {
       "basename": "学习esp32s3",
       "path": "Templates/Homepage/学习esp32s3.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-03-22",
       "path": "Dairies/2026-03-22.md"
-    },
-    {
-      "basename": "2026-03-21",
-      "path": "Dairies/2026-03-21.md"
     }
   ],
   "omittedPaths": [],
