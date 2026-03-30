@@ -103,8 +103,7 @@
               "title": "文档更新"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/公司项目/文档更新.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "文档更新 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -382,13 +381,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f0e6d52803d631e7",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
+    "项目/公司项目/文档更新.md",
     "Leetcode/410.分割数组的最大值.md",
     "Templates/Homepage/面试题系列.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/用ai产出创意内容.md",
-    "项目/公司项目/文档更新.md",
     "操作系统/怎么定义一个只能在堆上或栈上创建的对象.md",
     "Templates/Homepage/Homepage.md",
     "Leetcode/410.分割数组的最大值.cpp",
