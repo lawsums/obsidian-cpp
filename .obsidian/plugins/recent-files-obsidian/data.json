@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "curl",
+      "path": "Software/curl.md"
+    },
+    {
+      "basename": "Linux",
+      "path": "Software/Linux.md"
+    },
+    {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "堆板子",
       "path": "代码模版/堆板子.md"
-    },
-    {
-      "basename": "2026-03-25",
-      "path": "Dairies/2026-03-25.md"
-    },
-    {
-      "basename": "2026-03-24",
-      "path": "Dairies/2026-03-24.md"
     }
   ],
   "omittedPaths": [],

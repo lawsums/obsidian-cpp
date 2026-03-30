@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/实现自己的数据结构.md",
+                "file": "Software/curl.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "实现自己的数据结构"
+              "title": "curl"
             }
           },
           {
@@ -257,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/实现自己的数据结构.md",
+                "file": "Software/curl.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实现自己的数据结构 的大纲"
+              "title": "curl 的大纲"
             }
           },
           {
@@ -408,11 +408,13 @@
   },
   "active": "85aa3407cc5a1b88",
   "lastOpenFiles": [
+    "Software/Linux.md",
+    "Software/curl.md",
+    "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-04-04.md",
     "Dairies/2026-03-31.md",
     "Dairies/2026-04-01.md",
-    "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/学习C++.md",
     "项目/公司项目/文档更新.md",
     "Leetcode/410.分割数组的最大值.md",
@@ -434,8 +436,6 @@
     "Dairies/2026-03-28.md",
     "Leetcode/739.每日温度.md",
     "Leetcode/739.每日温度.cpp",
-    "Templates/Homepage/009_游戏.md",
-    "Templates/Homepage/学习esp32s3.md",
     "Attachments/Pasted image 20260328143503.png",
     "Leetcode/227.基本计算器 II.cpp",
     "Leetcode/140.单词拆分 II.cpp",
