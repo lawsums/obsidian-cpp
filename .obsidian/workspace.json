@@ -32,78 +32,6 @@
             }
           },
           {
-            "id": "ea8c89a48d17b3f4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习C++"
-            }
-          },
-          {
-            "id": "fca9fc12f2b1a2c1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/面试题系列.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "面试题系列"
-            }
-          },
-          {
-            "id": "85aa3407cc5a1b88",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/curl.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "curl"
-            }
-          },
-          {
             "id": "625e8fb9f7388914",
             "type": "leaf",
             "state": {
@@ -127,8 +55,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/面试题系列.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "面试题系列 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -406,16 +333,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fca9fc12f2b1a2c1",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Software/curl.md",
     "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/用ai产出创意内容.md",
-    "Templates/Homepage/面试题系列.md",
+    "Software/curl.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/实现自己的数据结构.md",
+    "Templates/Homepage/面试题系列.md",
+    "Templates/Homepage/用ai产出创意内容.md",
     "项目/公司项目/文档更新.md",
     "Software/Linux.md",
-    "Dairies/实现自己的数据结构.md",
     "Dairies/2026-04-04.md",
     "Dairies/2026-03-31.md",
     "Dairies/2026-04-01.md",
