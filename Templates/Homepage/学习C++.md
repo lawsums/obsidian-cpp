@@ -29,6 +29,9 @@
 	- [ ] 实现 header_parser
 	- [ ] 解析 headerline
 	- [ ] 实现反向解析
+	- [ ] 改成非一次性连接 while (true) 循环
+	- [ ] 修改 error 类型
+	- [ ] 
 ---
 
 # 2 C++课程
