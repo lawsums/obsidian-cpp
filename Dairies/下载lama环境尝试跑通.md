@@ -8,8 +8,8 @@
 	 - [x] 下载模型
 	 - [x] 下载训练集
 - [x] 上传模型和数据集
- - [ ] 跑通一下看看
-	 - [ ] python3 bin/predict.py model.path=$(pwd)/big-lama indir=$(pwd)/LaMa_test_images outdir=$(pwd)/output
+ - [x] 跑通一下看看
+	 - [x] python3 bin/predict.py model.path=$(pwd)/big-lama indir=$(pwd)/LaMa_test_images outdir=$(pwd)/output
 
 ## 0.1 启动虚拟环境
 ``` bash

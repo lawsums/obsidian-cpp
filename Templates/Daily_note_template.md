@@ -25,20 +25,24 @@ switch (weekday) {
     tR += "- [ ] :LiActivitySquare: 去毕设实验室\n";
     break;
   case "星期三":
+    tR += "- [ ] [[用ai产出创意内容]]";
     break;
   case "星期四":
     break;
   case "星期五":
     break;
   case "星期六":
+    tR += "- [ ] [[学习科目三]]";
+    tR += "- [ ] [[用ai产出创意内容]]";
     break;
   case "星期日":
+    tR += "- [ ] [[学习科目三]]";
+    tR += "- [ ] [[用ai产出创意内容]]";
     break;
   default:
     break;
 }
 %>
-- [ ] [[学习科目三]]
 - [ ] [多邻国练习](https://www.duolingo.cn/learn)
 - [ ] [[实现自己的数据结构]]
 - [ ] [[学习深度学习]]

@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "下载lama环境尝试跑通",
-      "path": "Dairies/下载lama环境尝试跑通.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "下载lama环境尝试跑通",
+      "path": "Dairies/下载lama环境尝试跑通.md"
+    },
+    {
+      "basename": "学习autodl中的公网网盘和Linux基础场景1到4",
+      "path": "Templates/Homepage/学习autodl中的公网网盘和Linux基础场景1到4.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
+      "basename": "2026-03-30",
+      "path": "Dairies/2026-03-30.md"
+    },
+    {
+      "basename": "2026-03-31",
+      "path": "Dairies/2026-03-31.md"
+    },
+    {
       "basename": "和老师说一下版本太老了docker安装失败",
       "path": "Dairies/和老师说一下版本太老了docker安装失败.md"
+    },
+    {
+      "basename": "place365基础训练",
+      "path": "Dairies/place365基础训练.md"
     },
     {
       "basename": "实现自己的数据结构",
@@ -93,10 +117,6 @@
       "path": "Templates/Mandala_template.md"
     },
     {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
-    },
-    {
       "basename": "草稿",
       "path": "草稿.md"
     },
@@ -127,14 +147,6 @@
     {
       "basename": "test",
       "path": "test.md"
-    },
-    {
-      "basename": "2026-03-31",
-      "path": "Dairies/2026-03-31.md"
-    },
-    {
-      "basename": "2026-03-30",
-      "path": "Dairies/2026-03-30.md"
     },
     {
       "basename": "2026-03-16",
@@ -187,18 +199,6 @@
     {
       "basename": "1716.矩阵的最大非负积",
       "path": "Leetcode/1716.矩阵的最大非负积.md"
-    },
-    {
-      "basename": "整理一下科三的细节",
-      "path": "Dairies/整理一下科三的细节.md"
-    },
-    {
-      "basename": "2026-03-23",
-      "path": "Dairies/2026-03-23.md"
-    },
-    {
-      "basename": "1000317. 相似字符串组",
-      "path": "Leetcode/1000317. 相似字符串组.md"
     }
   ],
   "omittedPaths": [],
