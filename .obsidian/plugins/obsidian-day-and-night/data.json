@@ -1,0 +1,12 @@
+{
+  "pluginEnabled": true,
+  "currentTheme": "Phycat",
+  "currentColorScheme": "moonstone",
+  "dayColorScheme": "moonstone",
+  "dayTime": "7:00",
+  "dayTheme": "Phycat",
+  "nightColorScheme": "obsidian",
+  "nightTime": "19:00",
+  "nightTheme": "Phycat",
+  "pauseThemeToggle": false
+}
