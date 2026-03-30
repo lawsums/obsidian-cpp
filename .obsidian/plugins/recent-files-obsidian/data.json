@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "文档更新",
+      "path": "项目/公司项目/文档更新.md"
+    },
+    {
       "basename": "curl",
       "path": "Software/curl.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "文档更新",
-      "path": "项目/公司项目/文档更新.md"
     },
     {
       "basename": "410.分割数组的最大值",
