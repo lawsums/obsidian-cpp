@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "ea8c89a48d17b3f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习C++"
+            }
+          },
+          {
+            "id": "fca9fc12f2b1a2c1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/面试题系列.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "面试题系列"
+            }
+          },
+          {
             "id": "85aa3407cc5a1b88",
             "type": "leaf",
             "state": {
@@ -53,30 +101,6 @@
               },
               "icon": "lucide-file",
               "title": "curl"
-            }
-          },
-          {
-            "id": "0b76bfdbd0af27b7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "用ai产出创意内容"
             }
           },
           {
@@ -103,7 +127,8 @@
               "title": "学习C++"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -232,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/面试题系列.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "面试题系列 的大纲"
             }
           },
           {
@@ -381,20 +406,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "fca9fc12f2b1a2c1",
   "lastOpenFiles": [
+    "Software/curl.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/用ai产出创意内容.md",
-    "项目/公司项目/文档更新.md",
-    "Software/curl.md",
+    "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/Homepage.md",
+    "项目/公司项目/文档更新.md",
     "Software/Linux.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/2026-04-04.md",
     "Dairies/2026-03-31.md",
     "Dairies/2026-04-01.md",
     "Leetcode/410.分割数组的最大值.md",
-    "Templates/Homepage/面试题系列.md",
     "操作系统/怎么定义一个只能在堆上或栈上创建的对象.md",
     "Leetcode/410.分割数组的最大值.cpp",
     "Leetcode/2.md",
