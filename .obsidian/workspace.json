@@ -103,8 +103,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习C++ 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -384,13 +383,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "625e8fb9f7388914",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "项目/公司项目/文档更新.md",
     "Software/curl.md",
     "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/学习C++.md",
     "Software/Linux.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/2026-04-04.md",
