@@ -24,11 +24,12 @@ func minWindow(s string, t string) string {
 			// 更新答案
 			cur_len := r - l + 1
 			if cur_len < min_len {
-				cur_len = min_len
+                min_len = cur_len
 				start_id = l
 			}
 
-			lc := s[l]
+            var lc rune
+			lc = s[l]
 			// 等于零说明需要加回来, <0说明是无关字符
 			if cnt[lc] == 0 {
 				depts++
@@ -36,7 +37,6 @@ func minWindow(s string, t string) string {
 			cnt[lc]++
 			l++
 		}
-
 	}
 
 	if start_id == -1 {
