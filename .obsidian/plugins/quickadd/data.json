@@ -1267,7 +1267,7 @@
         },
         {
           "id": "15166557-5b84-4549-8928-485afa2744e8",
-          "name": "Anki_interview2",
+          "name": "Anki_interview",
           "type": "Template",
           "command": true,
           "templatePath": "Templates/Interview_template.md",
@@ -1294,45 +1294,6 @@
           },
           "fileExistsMode": "Increment the file name",
           "setFileExistsBehavior": false
-        },
-        {
-          "id": "0217bcd8-feb5-452a-9606-8a22994938e3",
-          "name": "Anki_Interview",
-          "type": "Capture",
-          "command": true,
-          "appendLink": false,
-          "captureTo": "操作系统/{{value}}",
-          "captureToActiveFile": false,
-          "createFileIfItDoesntExist": {
-            "enabled": true,
-            "createWithTemplate": true,
-            "template": "Templates/Interview_template.md"
-          },
-          "format": {
-            "enabled": false,
-            "format": ""
-          },
-          "insertAfter": {
-            "enabled": false,
-            "after": "",
-            "insertAtEnd": false,
-            "considerSubsections": false,
-            "createIfNotFound": false,
-            "createIfNotFoundLocation": "top"
-          },
-          "newLineCapture": {
-            "enabled": false,
-            "direction": "below"
-          },
-          "prepend": true,
-          "task": false,
-          "openFile": true,
-          "fileOpening": {
-            "location": "tab",
-            "direction": "vertical",
-            "mode": "default",
-            "focus": true
-          }
         }
       ],
       "collapsed": false

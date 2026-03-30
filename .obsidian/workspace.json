@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "0b76bfdbd0af27b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "用ai产出创意内容"
+            }
+          },
+          {
             "id": "c47fdc8672bb5118",
             "type": "leaf",
             "state": {
@@ -79,7 +103,8 @@
               "title": "文档更新"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/公司项目/文档更新.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "文档更新 的大纲"
             }
           },
           {
@@ -357,15 +382,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "f0e6d52803d631e7",
   "lastOpenFiles": [
+    "Leetcode/410.分割数组的最大值.md",
+    "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/学习C++.md",
-    "Dairies/2026-03-30.md",
-    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/用ai产出创意内容.md",
     "项目/公司项目/文档更新.md",
+    "操作系统/怎么定义一个只能在堆上或栈上创建的对象.md",
+    "Templates/Homepage/Homepage.md",
+    "Leetcode/410.分割数组的最大值.cpp",
+    "Leetcode/2.md",
+    "Dairies/2026-03-30.md",
     "Templates/Homepage/学习autodl中的公网网盘和Linux基础场景1到4.md",
     "Templates/Daily_note_template.md",
-    "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/2026-03-31.md",
     "Templates/Homepage/003_不定期任务.md",
     "Dairies/和老师说一下版本太老了docker安装失败.md",
@@ -373,7 +403,6 @@
     "Dairies/下载lama环境尝试跑通.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/2026-03-29.md",
-    "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/算法面试好题.md",
     "Templates/Homepage/复习面试题.md",
     "Dairies/2026-03-28.md",
@@ -384,9 +413,6 @@
     "Dairies/试一下esp32云服务器.md",
     "Attachments/Pasted image 20260328143503.png",
     "Templates/Homepage/翻译论文.md",
-    "Templates/Homepage/测验之魔女.md",
-    "Templates/Homepage/004_闪念.md",
-    "Dairies/server.md",
     "Leetcode/227.基本计算器 II.cpp",
     "Leetcode/140.单词拆分 II.cpp",
     "Leetcode/315.计算右侧小于当前元素的个数.cpp",
@@ -404,7 +430,6 @@
     "Attachments/1.jpg",
     "Attachments/84ae4b2c702aed9e3daf50c39616997f.jpg",
     "Attachments/Pasted image 20260321100910.png",
-    "Leetcode/76.最小覆盖子串 .go",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
