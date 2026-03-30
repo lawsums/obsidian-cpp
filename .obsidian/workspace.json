@@ -80,7 +80,7 @@
             }
           },
           {
-            "id": "c47fdc8672bb5118",
+            "id": "625e8fb9f7388914",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -101,30 +101,6 @@
               },
               "icon": "lucide-file",
               "title": "学习C++"
-            }
-          },
-          {
-            "id": "f0e6d52803d631e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/公司项目/文档更新.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "文档更新"
             }
           }
         ],
@@ -408,20 +384,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c47fdc8672bb5118",
+  "active": "625e8fb9f7388914",
   "lastOpenFiles": [
+    "Templates/Homepage/用ai产出创意内容.md",
     "项目/公司项目/文档更新.md",
     "Software/curl.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习C++.md",
     "Software/Linux.md",
     "Dairies/实现自己的数据结构.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-04-04.md",
     "Dairies/2026-03-31.md",
     "Dairies/2026-04-01.md",
-    "Templates/Homepage/学习C++.md",
     "Leetcode/410.分割数组的最大值.md",
     "Templates/Homepage/面试题系列.md",
-    "Templates/Homepage/用ai产出创意内容.md",
     "操作系统/怎么定义一个只能在堆上或栈上创建的对象.md",
     "Leetcode/410.分割数组的最大值.cpp",
     "Leetcode/2.md",
