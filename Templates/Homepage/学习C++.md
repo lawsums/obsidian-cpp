@@ -26,6 +26,9 @@
 	- [ ] 网盘项目
 - [ ]  小鹏老师服务器
 	- [ ] [双笙子佯谬的个人空间-双笙子佯谬个人主页-哔哩哔哩视频](https://space.bilibili.com/263032155/search?keyword=%E6%9C%8D%E5%8A%A1%E5%99%A8)
+	- [ ] 实现 header_parser
+	- [ ] 解析 headerline
+	- [ ] 实现反向解析
 ---
 
 # 2 C++课程

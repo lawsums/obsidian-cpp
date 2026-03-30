@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -203,7 +203,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -257,13 +258,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/公司项目/文档更新.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "文档更新 的大纲"
+              "title": "学习C++ 的大纲"
             }
           },
           {
@@ -371,7 +372,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -406,8 +408,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f0e6d52803d631e7",
+  "active": "c47fdc8672bb5118",
   "lastOpenFiles": [
+    "项目/公司项目/文档更新.md",
     "Software/curl.md",
     "Software/Linux.md",
     "Dairies/实现自己的数据结构.md",
@@ -416,7 +419,6 @@
     "Dairies/2026-03-31.md",
     "Dairies/2026-04-01.md",
     "Templates/Homepage/学习C++.md",
-    "项目/公司项目/文档更新.md",
     "Leetcode/410.分割数组的最大值.md",
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/用ai产出创意内容.md",
