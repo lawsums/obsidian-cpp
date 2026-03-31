@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "47.全排列 II",
+      "path": "Leetcode/47.全排列 II.md"
+    },
+    {
+      "basename": "236.二叉树的最近公共祖先",
+      "path": "Leetcode/236.二叉树的最近公共祖先.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "140.单词拆分 II",
       "path": "Leetcode/140.单词拆分 II.md"
-    },
-    {
-      "basename": "315.计算右侧小于当前元素的个数",
-      "path": "Leetcode/315.计算右侧小于当前元素的个数.md"
-    },
-    {
-      "basename": "堆板子",
-      "path": "代码模版/堆板子.md"
     }
   ],
   "omittedPaths": [],
