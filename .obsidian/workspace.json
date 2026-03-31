@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "操作系统/信号变量.md",
-                "mode": "source",
+                "file": "Templates/Homepage/Homepage.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "信号变量"
+              "title": "Homepage"
             }
           },
           {
@@ -232,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/信号变量.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "信号变量 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -383,8 +383,8 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "操作系统/信号变量.md",
+    "Templates/Homepage/Homepage.md",
     "网络技术/GET 和 POST 的区别.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/下载lama环境尝试跑通.md",
