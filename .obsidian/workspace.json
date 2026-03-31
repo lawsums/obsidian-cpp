@@ -79,8 +79,7 @@
               "title": "460.LFU 缓存"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/460.LFU 缓存.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "460.LFU 缓存 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -358,8 +357,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "977dc569f0ba4d5b",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Leetcode/460.LFU 缓存.md",
     "Leetcode/47.全排列 II.md",
     "Leetcode/146.LRU 缓存.md",
     "数据结构/LRU缓存.cpp",
@@ -390,7 +390,6 @@
     "Dairies/place365基础训练.md",
     "Dairies/下载lama环境尝试跑通.md",
     "Dairies/2026-03-29.md",
-    "Templates/Homepage/算法面试好题.md",
     "Leetcode/739.每日温度.cpp",
     "Attachments/Pasted image 20260328143503.png",
     "Leetcode/227.基本计算器 II.cpp",
