@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "460.LFU 缓存",
+      "path": "Leetcode/460.LFU 缓存.md"
+    },
+    {
       "basename": "47.全排列 II",
       "path": "Leetcode/47.全排列 II.md"
+    },
+    {
+      "basename": "146.LRU 缓存",
+      "path": "Leetcode/146.LRU 缓存.md"
+    },
+    {
+      "basename": "LRU缓存",
+      "path": "数据结构/LRU缓存.cpp"
     },
     {
       "basename": "236.二叉树的最近公共祖先",
@@ -187,18 +199,6 @@
     {
       "basename": "linux 高性能服务器编程",
       "path": "Templates/Homepage/linux 高性能服务器编程.md"
-    },
-    {
-      "basename": "2026-03-26",
-      "path": "Dairies/2026-03-26.md"
-    },
-    {
-      "basename": "算法面试好题",
-      "path": "Templates/Homepage/算法面试好题.md"
-    },
-    {
-      "basename": "140.单词拆分 II",
-      "path": "Leetcode/140.单词拆分 II.md"
     }
   ],
   "omittedPaths": [],
