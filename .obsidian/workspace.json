@@ -103,8 +103,7 @@
               "title": "460.LFU 缓存"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习C++ 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -382,12 +381,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c0eb7f3b23653da3",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
     "Dairies/下载lama环境尝试跑通.md",
     "Dairies/place365基础训练.md",
     "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/学习C++.md",
     "Leetcode/460.LFU 缓存.md",
     "Leetcode/47.全排列 II.md",
     "Leetcode/146.LRU 缓存.md",

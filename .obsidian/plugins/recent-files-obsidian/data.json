@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "place365基础训练",
       "path": "Dairies/place365基础训练.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "460.LFU 缓存",
