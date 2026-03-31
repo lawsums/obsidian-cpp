@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "信号变量",
+      "path": "操作系统/信号变量.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "GET 和 POST 的区别",
+      "path": "网络技术/GET 和 POST 的区别.md"
     },
     {
       "basename": "学习C++",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-03-16",
       "path": "Dairies/2026-03-16.md"
-    },
-    {
-      "basename": "寻找外文翻译",
-      "path": "Dairies/寻找外文翻译.md"
-    },
-    {
-      "basename": "linux 高性能服务器编程",
-      "path": "Templates/Homepage/linux 高性能服务器编程.md"
     }
   ],
   "omittedPaths": [],
