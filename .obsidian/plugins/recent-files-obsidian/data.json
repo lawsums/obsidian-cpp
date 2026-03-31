@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "下载lama环境尝试跑通",
+      "path": "Dairies/下载lama环境尝试跑通.md"
+    },
+    {
+      "basename": "place365基础训练",
+      "path": "Dairies/place365基础训练.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -23,10 +35,6 @@
     {
       "basename": "236.二叉树的最近公共祖先",
       "path": "Leetcode/236.二叉树的最近公共祖先.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "curl",
@@ -69,10 +77,6 @@
       "path": "Dairies/2026-03-30.md"
     },
     {
-      "basename": "下载lama环境尝试跑通",
-      "path": "Dairies/下载lama环境尝试跑通.md"
-    },
-    {
       "basename": "学习autodl中的公网网盘和Linux基础场景1到4",
       "path": "Templates/Homepage/学习autodl中的公网网盘和Linux基础场景1到4.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "和老师说一下版本太老了docker安装失败",
       "path": "Dairies/和老师说一下版本太老了docker安装失败.md"
-    },
-    {
-      "basename": "place365基础训练",
-      "path": "Dairies/place365基础训练.md"
     },
     {
       "basename": "2026-03-29",
