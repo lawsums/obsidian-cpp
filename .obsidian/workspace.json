@@ -312,6 +312,7 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-04-01.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/Redis使用.md",
     "Attachments/20200523_200745PT2M2.656S.webp",
@@ -338,7 +339,6 @@
     "Software/Linux.md",
     "Dairies/2026-04-04.md",
     "Dairies/2026-03-31.md",
-    "Dairies/2026-04-01.md",
     "Leetcode/410.分割数组的最大值.md",
     "操作系统/怎么定义一个只能在堆上或栈上创建的对象.md",
     "Leetcode/410.分割数组的最大值.cpp",
