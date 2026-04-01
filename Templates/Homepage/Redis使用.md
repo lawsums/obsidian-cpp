@@ -42,3 +42,4 @@ redis集群，源码分析->后续课程再讲这部分
 - [00:54:03](file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/2.5Redis%E7%BC%96%E7%A8%8B/20200523_200745.mp4#t=54:03.30) 介绍 incr/getrange/strlen 等方法
 - [01:00:53](file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/2.5Redis%E7%BC%96%E7%A8%8B/20200523_200745.mp4#t=1:00:53.97) 介绍消息机制
 - [01:03:36](file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/2.5Redis%E7%BC%96%E7%A8%8B/20200523_200745.mp4#t=1:03:36.53) 介绍 hash 和字符串的区别
+- [01:18:26](file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/2.5Redis%E7%BC%96%E7%A8%8B/20200523_200745.mp4#t=1:18:26.80) 介绍 redis 里面的队列
