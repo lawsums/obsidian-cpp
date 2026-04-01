@@ -55,8 +55,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习C++ 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,13 +334,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f3c75d206e33df6e",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/Daily_note_template.md",
     "Dairies/2026-04-04.md",
-    "Templates/Homepage/学习C++.md",
     "Temp/面试1.md",
     "Templates/Homepage/Redis使用.md",
     "操作系统/linux常见命令/find.md",
