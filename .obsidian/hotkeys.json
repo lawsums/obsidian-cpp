@@ -388,14 +388,6 @@
       "key": "Y"
     }
   ],
-  "media-extended:save-screenshot": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "O"
-    }
-  ],
   "editor:save-file": [],
   "workspace:close-window": [],
   "easy-typing-obsidian:easy-typing-delete-blank-line": [],
@@ -406,6 +398,14 @@
         "Alt"
       ],
       "key": "O"
+    }
+  ],
+  "media-extended:save-screenshot": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
     }
   ]
 }

@@ -5,6 +5,30 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "Redis使用",
+      "path": "Templates/Homepage/Redis使用.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "开发线程池",
+      "path": "Templates/Homepage/开发线程池.md"
+    },
+    {
+      "basename": "460.LFU 缓存",
+      "path": "Leetcode/460.LFU 缓存.md"
+    },
+    {
+      "basename": "下载lama环境尝试跑通",
+      "path": "Dairies/下载lama环境尝试跑通.md"
+    },
+    {
+      "basename": "C++课程",
+      "path": "Templates/Homepage/C++课程.md"
+    },
+    {
       "basename": "信号变量",
       "path": "操作系统/信号变量.md"
     },
@@ -13,20 +37,8 @@
       "path": "网络技术/GET 和 POST 的区别.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "下载lama环境尝试跑通",
-      "path": "Dairies/下载lama环境尝试跑通.md"
-    },
-    {
       "basename": "place365基础训练",
       "path": "Dairies/place365基础训练.md"
-    },
-    {
-      "basename": "460.LFU 缓存",
-      "path": "Leetcode/460.LFU 缓存.md"
     },
     {
       "basename": "47.全排列 II",
@@ -177,10 +189,6 @@
       "path": "Dairies/string.md"
     },
     {
-      "basename": "C++课程",
-      "path": "Templates/Homepage/C++课程.md"
-    },
-    {
       "basename": "30天制作一个服务器",
       "path": "Templates/Homepage/30天制作一个服务器.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "test_template",
       "path": "Templates/test_template.md"
-    },
-    {
-      "basename": "test",
-      "path": "test.md"
-    },
-    {
-      "basename": "2026-03-16",
-      "path": "Dairies/2026-03-16.md"
     }
   ],
   "omittedPaths": [],
