@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
-      "basename": "2026-04-01",
-      "path": "Dairies/2026-04-01.md"
-    },
-    {
       "basename": "Redis使用",
       "path": "Templates/Homepage/Redis使用.md"
     },
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-04-01",
+      "path": "Dairies/2026-04-01.md"
     },
     {
       "basename": "开发线程池",
