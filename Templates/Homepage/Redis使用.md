@@ -4,6 +4,23 @@
 2.redis的编程
 redis集群，源码分析->后续课程再讲这部分
 
+> [!question] 
+> 编程实现：
+> （1）使用 string 字符串方式实现文章的写入和读取被存储的内容数据库中的键键的值
+> 文章的标题			article:10086:title			message
+> 文章的内容			article:10086:content		hello world
+文章的作者			article:10086:author		darren"
+文章创建的时间戳	article:10086:create_at		1590216574.123456
+
+```ruby
+（2）使用 hash 方式实现文章的写入和读取
+被存储的内容数据库中的键键的值
+文章的标题			article:10086:title			message
+文章的内容			article:10086:content		hello world
+文章的作者			article:10086:author		darren"
+文章创建的时间戳	article:10086:create_at		1590216574.123456 
+```
+
 
 - [00:02:28](file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/2.5Redis%E7%BC%96%E7%A8%8B/20200523_200745.mp4#t=02:28.56) 正式上课
 - [00:04:35](file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/2.5Redis%E7%BC%96%E7%A8%8B/20200523_200745.mp4#t=04:35.10) 介绍redis
@@ -19,3 +36,4 @@ redis集群，源码分析->后续课程再讲这部分
 - [00:34:13](file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/2.5Redis%E7%BC%96%E7%A8%8B/20200523_200745.mp4#t=34:13.74) 设置变量过期时间
 	  EXPIRE 设置过期时间
 	  TTL 检测变量剩余时间
+- [00:38:59](file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/2.5Redis%E7%BC%96%E7%A8%8B/20200523_200745.mp4#t=38:59.03) 讲解**增删改查**命令
