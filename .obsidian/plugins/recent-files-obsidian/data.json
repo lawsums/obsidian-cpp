@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Redis使用",
-      "path": "Templates/Homepage/Redis使用.md"
-    },
-    {
-      "basename": "find",
-      "path": "操作系统/linux常见命令/find.md"
-    },
-    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "面试1",
+      "path": "Temp/面试1.md"
+    },
+    {
+      "basename": "Redis使用",
+      "path": "Templates/Homepage/Redis使用.md"
+    },
+    {
+      "basename": "find",
+      "path": "操作系统/linux常见命令/find.md"
     },
     {
       "basename": "2026-04-01",
@@ -195,10 +199,6 @@
     {
       "basename": "string",
       "path": "Dairies/string.md"
-    },
-    {
-      "basename": "30天制作一个服务器",
-      "path": "Templates/Homepage/30天制作一个服务器.md"
     }
   ],
   "omittedPaths": [],

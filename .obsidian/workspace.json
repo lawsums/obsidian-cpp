@@ -67,6 +67,30 @@
               "icon": "file-video",
               "title": "20200523_200745"
             }
+          },
+          {
+            "id": "68a875e305f5cced",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/面试1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "面试1"
+            }
           }
         ],
         "currentTab": 2
@@ -407,10 +431,11 @@
   },
   "active": "ff16d4770e7e2e70",
   "lastOpenFiles": [
-    "Templates/Homepage/Redis使用.md",
-    "操作系统/linux常见命令/find.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
+    "Temp/面试1.md",
+    "Templates/Homepage/Redis使用.md",
+    "操作系统/linux常见命令/find.md",
     "Dairies/2026-04-01.md",
     "Attachments/20200523_200745PT2M2.656S.webp",
     "Templates/Homepage/开发线程池.md",
@@ -438,7 +463,6 @@
     "Leetcode/410.分割数组的最大值.md",
     "操作系统/怎么定义一个只能在堆上或栈上创建的对象.md",
     "Leetcode/410.分割数组的最大值.cpp",
-    "Leetcode/2.md",
     "Leetcode/739.每日温度.cpp",
     "Attachments/Pasted image 20260328143503.png",
     "Leetcode/227.基本计算器 II.cpp",
