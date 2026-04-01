@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "2026-04-04",
+      "path": "Dairies/2026-04-04.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "面试1",
@@ -113,10 +121,6 @@
       "path": "Templates/Homepage/学习autodl中的公网网盘和Linux基础场景1到4.md"
     },
     {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
-    },
-    {
       "basename": "2026-03-31",
       "path": "Dairies/2026-03-31.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "227.基本计算器 II",
       "path": "Leetcode/227.基本计算器 II.md"
-    },
-    {
-      "basename": "string",
-      "path": "Dairies/string.md"
     }
   ],
   "omittedPaths": [],
