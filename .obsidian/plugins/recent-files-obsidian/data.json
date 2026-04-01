@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "find",
+      "path": "操作系统/linux常见命令/find.md"
+    },
+    {
       "basename": "Redis使用",
       "path": "Templates/Homepage/Redis使用.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "30天制作一个服务器",
       "path": "Templates/Homepage/30天制作一个服务器.md"
-    },
-    {
-      "basename": "备份",
-      "path": "项目/公司项目/备份.md"
     }
   ],
   "omittedPaths": [],
