@@ -56,6 +56,25 @@
             }
           },
           {
+            "id": "ff16d4770e7e2e70",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url-video",
+              "state": {
+                "source": "file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/2.5Redis%E7%BC%96%E7%A8%8B/20200523_200745.mp4"
+              },
+              "icon": "file-video",
+              "title": "20200523_200745"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "44c8e6b588b1d617",
+        "type": "tabs",
+        "children": [
+          {
             "id": "a77bd9c35598a772",
             "type": "leaf",
             "state": {
@@ -77,25 +96,6 @@
               },
               "icon": "lucide-file",
               "title": "Redis使用"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "44c8e6b588b1d617",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ff16d4770e7e2e70",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url-video",
-              "state": {
-                "source": "file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/2.5Redis%E7%BC%96%E7%A8%8B/20200523_200745.mp4"
-              },
-              "icon": "file-video",
-              "title": "20200523_200745"
             }
           }
         ]
