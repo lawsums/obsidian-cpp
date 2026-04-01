@@ -6,6 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 62.73458445040214,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -73,6 +74,7 @@
       {
         "id": "44c8e6b588b1d617",
         "type": "tabs",
+        "dimension": 37.26541554959786,
         "children": [
           {
             "id": "a77bd9c35598a772",
@@ -252,13 +254,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Redis使用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Redis使用 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -403,10 +404,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a77bd9c35598a772",
+  "active": "ff16d4770e7e2e70",
   "lastOpenFiles": [
-    "操作系统/linux常见命令/find.md",
     "Templates/Homepage/Redis使用.md",
+    "操作系统/linux常见命令/find.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-04-01.md",
