@@ -122,8 +122,7 @@
               "title": "find"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,13 +252,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/linux常见命令/find.md",
+                "file": "Templates/Homepage/Redis使用.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "find 的大纲"
+              "title": "Redis使用 的大纲"
             }
           },
           {
@@ -404,8 +403,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2f86e31ec94acb53",
+  "active": "a77bd9c35598a772",
   "lastOpenFiles": [
+    "操作系统/linux常见命令/find.md",
     "Templates/Homepage/Redis使用.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",

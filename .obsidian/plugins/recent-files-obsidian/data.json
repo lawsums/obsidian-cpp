@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "find",
-      "path": "操作系统/linux常见命令/find.md"
-    },
-    {
       "basename": "Redis使用",
       "path": "Templates/Homepage/Redis使用.md"
+    },
+    {
+      "basename": "find",
+      "path": "操作系统/linux常见命令/find.md"
     },
     {
       "basename": "学习C++",

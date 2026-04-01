@@ -14,3 +14,4 @@ redis集群，源码分析->后续课程再讲这部分
 	  2. 通过后台启动 redis. conf
 	  3. 开机自启动
 - [00:17:45](file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/2.5Redis%E7%BC%96%E7%A8%8B/20200523_200745.mp4#t=17:45.58) 介绍后台启动默认端口是 **6379** 端口
+- [00:21:14](file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/2.5Redis%E7%BC%96%E7%A8%8B/20200523_200745.mp4#t=21:14.47) 设置开机自启动
