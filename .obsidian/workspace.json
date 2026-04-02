@@ -79,8 +79,7 @@
               "title": "下载lama环境尝试跑通"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/下载lama环境尝试跑通.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "下载lama环境尝试跑通 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -359,8 +358,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d43201ab7b7b0071",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/下载lama环境尝试跑通.md",
     "Dairies/寻找diffusion中用来图像修复的论文.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-04-01.md",
@@ -375,7 +375,6 @@
     "Attachments/20200523_200745PT2M2.656S.webp",
     "Templates/Homepage/开发线程池.md",
     "Leetcode/460.LFU 缓存.md",
-    "Dairies/下载lama环境尝试跑通.md",
     "Templates/Homepage/C++课程.md",
     "操作系统/信号变量.md",
     "网络技术/GET 和 POST 的区别.md",
