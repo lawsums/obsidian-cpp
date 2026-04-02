@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Art of programming",
-      "path": "Templates/Homepage/Art of programming.md"
-    },
-    {
-      "basename": "寻找diffusion中用来图像修复的论文",
-      "path": "Dairies/寻找diffusion中用来图像修复的论文.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "用ai产出创意内容",
       "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "Art of programming",
+      "path": "Templates/Homepage/Art of programming.md"
+    },
+    {
+      "basename": "寻找和为定值的多个数",
+      "path": "Templates/Homepage/寻找和为定值的多个数.md"
+    },
+    {
+      "basename": "寻找diffusion中用来图像修复的论文",
+      "path": "Dairies/寻找diffusion中用来图像修复的论文.md"
     },
     {
       "basename": "007_书籍",
@@ -195,10 +199,6 @@
     {
       "basename": "Interview_template",
       "path": "Templates/Interview_template.md"
-    },
-    {
-      "basename": "Mandala_template",
-      "path": "Templates/Mandala_template.md"
     }
   ],
   "omittedPaths": [],
