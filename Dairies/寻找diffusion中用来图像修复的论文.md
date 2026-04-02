@@ -157,6 +157,16 @@ Windows 没有 bash 的话，直接双击运行项目里的 `download.sh` 也行
 > [!fail] 
 > 下载太慢, 怎么解决?
 
+- [ ] 下载模型
+	- [x] **256x256_classifier.pt** 官方地址（推荐用浏览器或 IDM 下载）： [https://openaipublic.blob.core.windows.net/diffusion/jul-2021/256x256_classifier.pt](https://openaipublic.blob.core.windows.net/diffusion/jul-2021/256x256_classifier.pt)
+	- [ ] **256x256_diffusion.pt** 官方地址： [https://openaipublic.blob.core.windows.net/diffusion/jul-2021/256x256_diffusion.pt](https://openaipublic.blob.core.windows.net/diffusion/jul-2021/256x256_diffusion.pt)
+	- [ ] Google Drive 的三个文件（gdown 的那几个）：
+	    - [ ] [https://drive.google.com/uc?id=1norNWWGYP3EZ_o05DmoW1ryKuKMmhlCX](https://drive.google.com/uc?id=1norNWWGYP3EZ_o05DmoW1ryKuKMmhlCX)
+	    - [ ] [https://drive.google.com/uc?id=1QEl-btGbzQz6IwkXiFGd49uQNTUtTHsk](https://drive.google.com/uc?id=1QEl-btGbzQz6IwkXiFGd49uQNTUtTHsk)
+	    - [ ] [https://drive.google.com/uc?id=1Q_dxuyI41AAmSv9ti3780BwaJQqwvwMv](https://drive.google.com/uc?id=1Q_dxuyI41AAmSv9ti3780BwaJQqwvwMv) （这是 data.zip）
+- [ ] 移动到H盘
+- [ ] 上传模型
+- [ ] 删除本地模型
 
 ---
 

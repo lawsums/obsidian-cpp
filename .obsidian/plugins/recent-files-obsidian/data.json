@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Art of programming",
+      "path": "Templates/Homepage/Art of programming.md"
+    },
+    {
+      "basename": "007_书籍",
+      "path": "Templates/Homepage/007_书籍.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
       "basename": "寻找diffusion中用来图像修复的论文",
       "path": "Dairies/寻找diffusion中用来图像修复的论文.md"
     },
     {
       "basename": "下载lama环境尝试跑通",
       "path": "Dairies/下载lama环境尝试跑通.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "2026-04-01",
@@ -91,10 +103,6 @@
     {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "文档更新",
@@ -181,10 +189,6 @@
       "path": "Templates/Homepage/C++知识学习.md"
     },
     {
-      "basename": "007_书籍",
-      "path": "Templates/Homepage/007_书籍.md"
-    },
-    {
       "basename": "继承和多态的区别3",
       "path": "操作系统/继承和多态的区别3.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Mandala_template",
       "path": "Templates/Mandala_template.md"
-    },
-    {
-      "basename": "草稿",
-      "path": "草稿.md"
     }
   ],
   "omittedPaths": [],
