@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "寻找diffusion中用来图像修复的论文",
+      "path": "Dairies/寻找diffusion中用来图像修复的论文.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-04-01",
+      "path": "Dairies/2026-04-01.md"
     },
     {
       "basename": "学习C++",
@@ -31,10 +39,6 @@
     {
       "basename": "find",
       "path": "操作系统/linux常见命令/find.md"
-    },
-    {
-      "basename": "2026-04-01",
-      "path": "Dairies/2026-04-01.md"
     },
     {
       "basename": "开发线程池",
@@ -195,10 +199,6 @@
     {
       "basename": "草稿",
       "path": "草稿.md"
-    },
-    {
-      "basename": "227.基本计算器 II",
-      "path": "Leetcode/227.基本计算器 II.md"
     }
   ],
   "omittedPaths": [],
