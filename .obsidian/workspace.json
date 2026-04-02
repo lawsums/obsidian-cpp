@@ -79,7 +79,8 @@
               "title": "下载lama环境尝试跑通"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,7 +196,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a68226789a184a04",
@@ -208,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/寻找diffusion中用来图像修复的论文.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "寻找diffusion中用来图像修复的论文 的大纲"
             }
           },
           {
@@ -358,7 +360,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "4cb9d123a5756450",
   "lastOpenFiles": [
     "Dairies/下载lama环境尝试跑通.md",
     "Dairies/寻找diffusion中用来图像修复的论文.md",

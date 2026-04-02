@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "寻找diffusion中用来图像修复的论文",
       "path": "Dairies/寻找diffusion中用来图像修复的论文.md"
+    },
+    {
+      "basename": "下载lama环境尝试跑通",
+      "path": "Dairies/下载lama环境尝试跑通.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "2026-04-01",
@@ -47,10 +51,6 @@
     {
       "basename": "460.LFU 缓存",
       "path": "Leetcode/460.LFU 缓存.md"
-    },
-    {
-      "basename": "下载lama环境尝试跑通",
-      "path": "Dairies/下载lama环境尝试跑通.md"
     },
     {
       "basename": "C++课程",
