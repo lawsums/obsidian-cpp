@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "寻找diffusion中用来图像修复的论文",
+      "path": "Dairies/寻找diffusion中用来图像修复的论文.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "寻找和为定值的多个数",
       "path": "Templates/Homepage/寻找和为定值的多个数.md"
-    },
-    {
-      "basename": "寻找diffusion中用来图像修复的论文",
-      "path": "Dairies/寻找diffusion中用来图像修复的论文.md"
     },
     {
       "basename": "007_书籍",
