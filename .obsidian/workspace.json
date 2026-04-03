@@ -55,8 +55,7 @@
               "title": "寻找diffusion中用来图像修复的论文"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/寻找diffusion中用来图像修复的论文.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "寻找diffusion中用来图像修复的论文 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,11 +334,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3b8b81e97c12e2e9",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/寻找diffusion中用来图像修复的论文.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-04-03.md",
-    "Dairies/寻找diffusion中用来图像修复的论文.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/Art of programming.md",
     "Templates/Homepage/寻找和为定值的多个数.md",
