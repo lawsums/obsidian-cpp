@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "寻找diffusion中用来图像修复的论文",
+      "path": "Dairies/寻找diffusion中用来图像修复的论文.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "寻找diffusion中用来图像修复的论文",
-      "path": "Dairies/寻找diffusion中用来图像修复的论文.md"
+      "basename": "自己上传一个遮罩用来生成带口罩的脸试试",
+      "path": "Dairies/自己上传一个遮罩用来生成带口罩的脸试试.md"
     },
     {
       "basename": "2026-04-03",
@@ -195,10 +199,6 @@
     {
       "basename": "C++知识学习",
       "path": "Templates/Homepage/C++知识学习.md"
-    },
-    {
-      "basename": "继承和多态的区别3",
-      "path": "操作系统/继承和多态的区别3.md"
     }
   ],
   "omittedPaths": [],

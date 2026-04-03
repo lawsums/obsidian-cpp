@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "5d3a45b7cbb8d829",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/自己上传一个遮罩用来生成带口罩的脸试试.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "自己上传一个遮罩用来生成带口罩的脸试试"
+            }
+          },
+          {
             "id": "3b8b81e97c12e2e9",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "寻找diffusion中用来图像修复的论文"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/寻找diffusion中用来图像修复的论文.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "寻找diffusion中用来图像修复的论文 的大纲"
             }
           },
           {
@@ -334,11 +359,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "3b8b81e97c12e2e9",
   "lastOpenFiles": [
-    "Dairies/寻找diffusion中用来图像修复的论文.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/自己上传一个遮罩用来生成带口罩的脸试试.md",
     "Dairies/2026-04-03.md",
+    "Dairies/寻找diffusion中用来图像修复的论文.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/Art of programming.md",
     "Templates/Homepage/寻找和为定值的多个数.md",
@@ -363,7 +389,6 @@
     "Leetcode/47.全排列 II.md",
     "Leetcode/146.LRU 缓存.md",
     "数据结构/LRU缓存.cpp",
-    "Leetcode/236.二叉树的最近公共祖先.md",
     "Leetcode/47.全排列 II.cpp",
     "Leetcode/236.二叉树的最近公共祖先.cpp",
     "Leetcode/images/236_binarytree.png",
