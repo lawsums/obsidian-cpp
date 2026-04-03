@@ -167,10 +167,10 @@ Windows 没有 bash 的话，直接双击运行项目里的 `download.sh` 也行
 	    - [x] [https://drive.google.com/uc?id=1QEl-btGbzQz6IwkXiFGd49uQNTUtTHsk](https://drive.google.com/uc?id=1QEl-btGbzQz6IwkXiFGd49uQNTUtTHsk)
 	    - [x] [https://drive.google.com/uc?id=1Q_dxuyI41AAmSv9ti3780BwaJQqwvwMv](https://drive.google.com/uc?id=1Q_dxuyI41AAmSv9ti3780BwaJQqwvwMv) （这是 data.zip）
 - [x] 移动到H盘
-- [ ] 上传模型
+- [x] 上传模型
 	- [x] 1
-	- [ ] 2
-	- [ ] 3
+	- [x] 2
+	- [x] 3
 - [ ] 删除本地模型
 
 ---
