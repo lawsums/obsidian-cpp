@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "寻找diffusion中用来图像修复的论文",
-      "path": "Dairies/寻找diffusion中用来图像修复的论文.md"
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "寻找diffusion中用来图像修复的论文",
+      "path": "Dairies/寻找diffusion中用来图像修复的论文.md"
     },
     {
       "basename": "自己上传一个遮罩用来生成带口罩的脸试试",
@@ -15,10 +19,6 @@
     {
       "basename": "2026-04-03",
       "path": "Dairies/2026-04-03.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "Art of programming",
