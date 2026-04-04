@@ -55,33 +55,8 @@
               "icon": "lucide-file",
               "title": "2026-04-04"
             }
-          },
-          {
-            "id": "aa9962e427305bfe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/寻找和为定值的多个数.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "寻找和为定值的多个数"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "45a2488e479dbac6",
@@ -242,13 +217,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/寻找和为定值的多个数.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "寻找和为定值的多个数 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -392,12 +367,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "aa9962e427305bfe",
+  "active": "5bf4b05e9190aa43",
   "lastOpenFiles": [
+    "Templates/Homepage/寻找和为定值的多个数.md",
     "项目/零声云盘/项目准备.md",
     "Dairies/2026-04-04.md",
     "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/寻找和为定值的多个数.md",
     "操作系统/2GB内存在20亿个整数中找出现次数最多的数.md",
     "Dairies/2026-04-06.md",
     "项目/学校项目/rubbish.md",
