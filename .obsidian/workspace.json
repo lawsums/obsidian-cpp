@@ -12,10 +12,48 @@
             "id": "5bf4b05e9190aa43",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/Homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "1e165d66ab06aad8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/2GB内存在20亿个整数中找出现次数最多的数.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2GB内存在20亿个整数中找出现次数最多的数"
             }
           },
           {
@@ -30,8 +68,7 @@
               "title": "项目需求分析与环境搭建_项目架构介绍_mp3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "45a2488e479dbac6",
@@ -137,7 +174,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -191,12 +229,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -340,13 +379,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "25fe6c1eafd4a5f5",
+  "active": "5bf4b05e9190aa43",
   "lastOpenFiles": [
+    "操作系统/2GB内存在20亿个整数中找出现次数最多的数.md",
+    "Dairies/2026-04-04.md",
+    "Templates/Homepage/Homepage.md",
+    "Dairies/2026-04-06.md",
     "项目/零声云盘/项目准备.md",
     "项目/学校项目/rubbish.md",
     "项目/零声云盘",
     "项目/未命名.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/用ai产出创意内容.md",
@@ -361,15 +403,12 @@
     "Dairies/2026-04-01.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/Daily_note_template.md",
-    "Dairies/2026-04-04.md",
     "Temp/面试1.md",
     "Templates/Homepage/Redis使用.md",
     "操作系统/linux常见命令/find.md",
     "Attachments/20200523_200745PT2M2.656S.webp",
     "Templates/Homepage/开发线程池.md",
     "Leetcode/460.LFU 缓存.md",
-    "Templates/Homepage/C++课程.md",
-    "操作系统/信号变量.md",
     "数据结构/LRU缓存.cpp",
     "Leetcode/47.全排列 II.cpp",
     "Leetcode/236.二叉树的最近公共祖先.cpp",
