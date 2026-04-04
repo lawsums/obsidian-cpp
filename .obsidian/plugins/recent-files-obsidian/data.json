@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "项目准备",
+      "path": "项目/零声云盘/项目准备.md"
+    },
+    {
+      "basename": "rubbish",
+      "path": "项目/学校项目/rubbish.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "测验之魔女",
       "path": "Templates/Homepage/测验之魔女.md"
-    },
-    {
-      "basename": "004_闪念",
-      "path": "Templates/Homepage/004_闪念.md"
-    },
-    {
-      "basename": "server",
-      "path": "Dairies/server.md"
     }
   ],
   "omittedPaths": [],
