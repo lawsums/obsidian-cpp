@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-04-04",
+      "path": "Dairies/2026-04-04.md"
+    },
+    {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "寻找和为定值的多个数",
       "path": "Templates/Homepage/寻找和为定值的多个数.md"
-    },
-    {
-      "basename": "2026-04-04",
-      "path": "Dairies/2026-04-04.md"
     },
     {
       "basename": "2GB内存在20亿个整数中找出现次数最多的数",
