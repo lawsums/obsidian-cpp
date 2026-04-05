@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "最长递增子序列问题",
-      "path": "Templates/Homepage/最长递增子序列问题.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "项目准备",
+      "path": "项目/零声云盘/项目准备.md"
     },
     {
       "basename": "Art of programming",
       "path": "Templates/Homepage/Art of programming.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "最长递增子序列问题",
+      "path": "Templates/Homepage/最长递增子序列问题.md"
+    },
+    {
+      "basename": "K 次取反后最大化的数组和",
+      "path": "Templates/Homepage/K 次取反后最大化的数组和.md"
     },
     {
       "basename": "费马小定理",
@@ -19,10 +35,6 @@
     {
       "basename": "寻找和为定值的多个数",
       "path": "Templates/Homepage/寻找和为定值的多个数.md"
-    },
-    {
-      "basename": "项目准备",
-      "path": "项目/零声云盘/项目准备.md"
     },
     {
       "basename": "2026-04-04",
@@ -35,10 +47,6 @@
     {
       "basename": "rubbish",
       "path": "项目/学校项目/rubbish.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "面试题系列",
@@ -75,10 +83,6 @@
     {
       "basename": "2026-04-01",
       "path": "Dairies/2026-04-01.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "Daily_note_template",
@@ -195,10 +199,6 @@
     {
       "basename": "009_游戏",
       "path": "Templates/Homepage/009_游戏.md"
-    },
-    {
-      "basename": "学习esp32s3",
-      "path": "Templates/Homepage/学习esp32s3.md"
     }
   ],
   "omittedPaths": [],
