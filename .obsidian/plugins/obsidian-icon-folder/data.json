@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiNewspaper",
       "🈲",
       "LiImages",
       "LiImage",
-      "LiWholeWord",
-      "LiRecycle"
+      "LiWholeWord"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,7 +37,6 @@
   "Plugins": "LiPuzzle",
   "Leetcode": "LiFolderCode",
   "Dairies": "LiCalendarDays",
-  "数据库": "LiDatabase",
   "网络技术": "LiNetwork",
   "Templates": "LiLayoutTemplate",
   "Excalidraw": "LiPaintbrush",
@@ -54,5 +53,7 @@
   "Configs": "LiContainer",
   "Attachments": "LiImages",
   "Projects": "🈲",
-  "Temp": "LiRecycle"
+  "Temp": "LiRecycle",
+  "项目/数据库": "LiDatabase",
+  "论文": "LiNewspaper"
 }

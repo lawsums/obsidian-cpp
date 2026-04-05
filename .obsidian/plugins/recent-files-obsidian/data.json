@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
+      "basename": "diffusion除图像修复相关论文",
+      "path": "论文/diffusion除图像修复相关论文.md"
+    },
+    {
+      "basename": "diffusion",
+      "path": "论文/diffusion.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "2026-04-04",
       "path": "Dairies/2026-04-04.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "学习C++",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-03-28",
       "path": "Dairies/2026-03-28.md"
-    },
-    {
-      "basename": "739.每日温度",
-      "path": "Leetcode/739.每日温度.md"
-    },
-    {
-      "basename": "009_游戏",
-      "path": "Templates/Homepage/009_游戏.md"
     }
   ],
   "omittedPaths": [],
