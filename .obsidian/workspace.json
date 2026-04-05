@@ -55,8 +55,7 @@
               "title": "Art of programming"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -186,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Art of programming.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Art of programming 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -336,8 +334,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4e806c69306901bb",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "代码模版/小知识/费马小定理.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/Art of programming.md",
     "Templates/Homepage/寻找和为定值的多个数.md",
@@ -365,7 +364,6 @@
     "操作系统/linux常见命令/find.md",
     "Attachments/20200523_200745PT2M2.656S.webp",
     "Templates/Homepage/开发线程池.md",
-    "Leetcode/460.LFU 缓存.md",
     "数据结构/LRU缓存.cpp",
     "Leetcode/47.全排列 II.cpp",
     "Leetcode/236.二叉树的最近公共祖先.cpp",

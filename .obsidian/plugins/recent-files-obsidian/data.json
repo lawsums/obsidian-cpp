@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Art of programming",
-      "path": "Templates/Homepage/Art of programming.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "费马小定理",
+      "path": "代码模版/小知识/费马小定理.md"
+    },
+    {
+      "basename": "Art of programming",
+      "path": "Templates/Homepage/Art of programming.md"
     },
     {
       "basename": "寻找和为定值的多个数",
@@ -195,10 +199,6 @@
     {
       "basename": "试一下esp32云服务器",
       "path": "Dairies/试一下esp32云服务器.md"
-    },
-    {
-      "basename": "翻译论文",
-      "path": "Templates/Homepage/翻译论文.md"
     }
   ],
   "omittedPaths": [],
