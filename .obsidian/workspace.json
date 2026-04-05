@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "ded5bb0d240c89e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/另一本日式小说.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "另一本日式小说"
+            }
+          },
+          {
             "id": "a0d15d2a38c0053c",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/实现自己的数据结构.md",
+                "file": "Temp/另一本日式小说.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实现自己的数据结构 的大纲"
+              "title": "另一本日式小说 的大纲"
             }
           },
           {
@@ -359,14 +383,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ca8817d2eb658890",
+  "active": "ded5bb0d240c89e1",
   "lastOpenFiles": [
+    "Temp/一本日式小说.md",
+    "Dairies/实现自己的数据结构.md",
     "论文/diffusion除图像修复相关论文.md",
     "论文/diffusion.md",
     "Templates/Homepage/Homepage.md",
     "论文",
     "Dairies/2026-04-04.md",
-    "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/学习C++.md",
     "项目/零声云盘/项目准备.md",
     "Templates/Homepage/Art of programming.md",
@@ -388,7 +413,6 @@
     "Templates/Homepage/007_书籍.md",
     "Dairies/下载lama环境尝试跑通.md",
     "Dairies/2026-04-01.md",
-    "Templates/Daily_note_template.md",
     "Attachments/20200523_200745PT2M2.656S.webp",
     "数据结构/LRU缓存.cpp",
     "Leetcode/47.全排列 II.cpp",
