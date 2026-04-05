@@ -5,6 +5,38 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "002_稍后再看",
+      "path": "Templates/Homepage/002_稍后再看.md"
+    },
+    {
+      "basename": "项目准备",
+      "path": "项目/零声云盘/项目准备.md"
+    },
+    {
+      "basename": "微软100题",
+      "path": "Temp/微软100题.md"
+    },
+    {
+      "basename": "把sly的gemini pro教程保存下来并看一遍",
+      "path": "Templates/Homepage/把sly的gemini pro教程保存下来并看一遍.md"
+    },
+    {
+      "basename": "The all-in-one workspace for your notes, tasks, wikis, and databases",
+      "path": "Clippings/The all-in-one workspace for your notes, tasks, wikis, and databases.md"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
+    },
+    {
+      "basename": "grep",
+      "path": "操作系统/linux常见命令/grep.md"
+    },
+    {
+      "basename": "find",
+      "path": "操作系统/linux常见命令/find.md"
+    },
+    {
       "basename": "做一个解谜缝合小游戏",
       "path": "Templates/Homepage/做一个解谜缝合小游戏.md"
     },
@@ -39,10 +71,6 @@
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "项目准备",
-      "path": "项目/零声云盘/项目准备.md"
     },
     {
       "basename": "Art of programming",
@@ -121,10 +149,6 @@
       "path": "Templates/Homepage/Redis使用.md"
     },
     {
-      "basename": "find",
-      "path": "操作系统/linux常见命令/find.md"
-    },
-    {
       "basename": "开发线程池",
       "path": "Templates/Homepage/开发线程池.md"
     },
@@ -175,30 +199,6 @@
     {
       "basename": "Linux",
       "path": "Software/Linux.md"
-    },
-    {
-      "basename": "410.分割数组的最大值",
-      "path": "Leetcode/410.分割数组的最大值.md"
-    },
-    {
-      "basename": "怎么定义一个只能在堆上或栈上创建的对象",
-      "path": "操作系统/怎么定义一个只能在堆上或栈上创建的对象.md"
-    },
-    {
-      "basename": "2",
-      "path": "Leetcode/2.md"
-    },
-    {
-      "basename": "2026-03-30",
-      "path": "Dairies/2026-03-30.md"
-    },
-    {
-      "basename": "学习autodl中的公网网盘和Linux基础场景1到4",
-      "path": "Templates/Homepage/学习autodl中的公网网盘和Linux基础场景1到4.md"
-    },
-    {
-      "basename": "2026-03-31",
-      "path": "Dairies/2026-03-31.md"
     }
   ],
   "omittedPaths": [],
