@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Art of programming",
+      "path": "Templates/Homepage/Art of programming.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "2026-04-03",
       "path": "Dairies/2026-04-03.md"
-    },
-    {
-      "basename": "Art of programming",
-      "path": "Templates/Homepage/Art of programming.md"
     },
     {
       "basename": "007_书籍",
