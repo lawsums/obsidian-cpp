@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "最长递增子序列问题",
+      "path": "Templates/Homepage/最长递增子序列问题.md"
+    },
+    {
+      "basename": "Art of programming",
+      "path": "Templates/Homepage/Art of programming.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "费马小定理",
       "path": "代码模版/小知识/费马小定理.md"
-    },
-    {
-      "basename": "Art of programming",
-      "path": "Templates/Homepage/Art of programming.md"
     },
     {
       "basename": "寻找和为定值的多个数",
@@ -195,10 +199,6 @@
     {
       "basename": "学习esp32s3",
       "path": "Templates/Homepage/学习esp32s3.md"
-    },
-    {
-      "basename": "试一下esp32云服务器",
-      "path": "Dairies/试一下esp32云服务器.md"
     }
   ],
   "omittedPaths": [],
