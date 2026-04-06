@@ -30,8 +30,81 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "1094e2ec4920f50f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习C++"
+            }
+          },
+          {
+            "id": "c6cf4a58779351a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/零声云盘/项目准备.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "项目准备"
+            }
+          },
+          {
+            "id": "01dbc455f8bd9550",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-04-06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-06"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/零声云盘/项目准备.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "项目准备 的大纲"
             }
           },
           {
@@ -309,10 +382,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "c6cf4a58779351a9",
   "lastOpenFiles": [
-    "Templates/Homepage/002_稍后再看.md",
+    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-04-06.md",
+    "Templates/Daily_note_template.md",
+    "Templates/Homepage/002_稍后再看.md",
     "项目/零声云盘/项目准备.md",
     "Temp/微软100题.md",
     "Templates/Homepage/把sly的gemini pro教程保存下来并看一遍.md",
@@ -329,15 +405,12 @@
     "论文/diffusion.md",
     "论文",
     "Dairies/2026-04-04.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Art of programming.md",
     "Templates/Homepage/最长递增子序列问题.md",
     "Templates/Homepage/K 次取反后最大化的数组和.md",
     "代码模版/小知识/费马小定理.md",
     "Templates/Homepage/寻找和为定值的多个数.md",
     "操作系统/2GB内存在20亿个整数中找出现次数最多的数.md",
-    "Dairies/2026-04-06.md",
-    "项目/学校项目/rubbish.md",
     "项目/零声云盘",
     "Attachments/20200523_200745PT2M2.656S.webp",
     "数据结构/LRU缓存.cpp",

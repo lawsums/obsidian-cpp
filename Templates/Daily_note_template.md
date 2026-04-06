@@ -25,19 +25,19 @@ switch (weekday) {
     tR += "- [ ] :LiActivitySquare: 去毕设实验室\n";
     break;
   case "星期三":
-    tR += "- [ ] [[用ai产出创意内容]]";
+    tR += "- [ ] [[用ai产出创意内容]]\n";
     break;
   case "星期四":
     break;
   case "星期五":
     break;
   case "星期六":
-    tR += "- [ ] [[学习科目三]]";
-    tR += "- [ ] [[用ai产出创意内容]]";
+    tR += "- [ ] [[学习科目三]]\n";
+    tR += "- [ ] [[用ai产出创意内容]]\n";
     break;
   case "星期日":
-    tR += "- [ ] [[学习科目三]]";
-    tR += "- [ ] [[用ai产出创意内容]]";
+    tR += "- [ ] [[学习科目三]]\n";
+    tR += "- [ ] [[用ai产出创意内容]]\n";
     break;
   default:
     break;
