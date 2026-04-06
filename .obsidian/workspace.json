@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "143673ee5c4a638e",
+            "id": "a8fa3bde95b82293",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,30 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
-            }
-          },
-          {
-            "id": "fee25654cab7a726",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/零声云盘/项目准备.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "项目准备"
             }
           }
         ]
@@ -303,7 +279,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "obsidian-projects:打开项目": false,
-      "media-extended:Open media": false,
       "open-vscode:VSCode": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "diagram-zoom-drag:Picker mode": false,
@@ -334,7 +309,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "143673ee5c4a638e",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/002_稍后再看.md",
     "Templates/Homepage/Homepage.md",
