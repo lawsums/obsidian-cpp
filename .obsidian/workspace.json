@@ -6,6 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 33.98123324396783,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -109,6 +110,7 @@
       {
         "id": "824b97d270803ece",
         "type": "tabs",
+        "dimension": 66.01876675603218,
         "children": [
           {
             "id": "555aa9eb7e3efa08",
@@ -405,6 +407,7 @@
   "active": "555aa9eb7e3efa08",
   "lastOpenFiles": [
     "项目/零声云盘/项目准备.md",
+    "Attachments/Pasted image 20260407151313.png",
     "项目/毕设/毕设规划.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
@@ -430,7 +433,6 @@
     "Templates/Homepage/最长递增子序列问题.md",
     "Templates/Homepage/K 次取反后最大化的数组和.md",
     "代码模版/小知识/费马小定理.md",
-    "Templates/Homepage/寻找和为定值的多个数.md",
     "项目/零声云盘",
     "Attachments/20200523_200745PT2M2.656S.webp",
     "数据结构/LRU缓存.cpp",
@@ -449,7 +451,6 @@
     "Leetcode/images/2015_grid4.png",
     "Leetcode/images/2015_grid3.png",
     "Attachments/2.jpg",
-    "Attachments/1.jpg",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
