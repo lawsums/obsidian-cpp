@@ -6,7 +6,6 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
-        "dimension": 33.98123324396783,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -103,15 +102,7 @@
               "icon": "lucide-file",
               "title": "项目准备"
             }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "824b97d270803ece",
-        "type": "tabs",
-        "dimension": 66.01876675603218,
-        "children": [
+          },
           {
             "id": "555aa9eb7e3efa08",
             "type": "leaf",
@@ -199,8 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -254,12 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -367,8 +358,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -404,15 +394,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "555aa9eb7e3efa08",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "项目/零声云盘/项目准备.md",
-    "Attachments/Pasted image 20260407151313.png",
     "项目/毕设/毕设规划.md",
-    "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/学习C++.md",
-    "Dairies/2026-04-06.md",
+    "Dairies/2026-04-07.md",
     "Templates/Daily_note_template.md",
+    "Dairies/2026-04-08.md",
+    "Dairies/2026-04-10.md",
+    "Templates/Homepage/Homepage.md",
+    "项目/毕设/做一个小程序显示节点报警状况.md",
+    "Dairies/修改外文翻译.md",
+    "Templates/Homepage/学习C++.md",
+    "项目/零声云盘/项目准备.md",
+    "Dairies/寻找外文翻译.md",
+    "Attachments/Pasted image 20260407151313.png",
+    "Dairies/2026-04-06.md",
     "Templates/Homepage/002_稍后再看.md",
     "Temp/微软100题.md",
     "Templates/Homepage/把sly的gemini pro教程保存下来并看一遍.md",
@@ -428,11 +424,6 @@
     "论文/diffusion除图像修复相关论文.md",
     "论文/diffusion.md",
     "论文",
-    "Dairies/2026-04-04.md",
-    "Templates/Homepage/Art of programming.md",
-    "Templates/Homepage/最长递增子序列问题.md",
-    "Templates/Homepage/K 次取反后最大化的数组和.md",
-    "代码模版/小知识/费马小定理.md",
     "项目/零声云盘",
     "Attachments/20200523_200745PT2M2.656S.webp",
     "数据结构/LRU缓存.cpp",

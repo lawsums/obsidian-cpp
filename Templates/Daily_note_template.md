@@ -14,7 +14,10 @@ number headings: off
 
 ## 今天的待办项
 <%*
-const weekday = tp.date.now("dddd");
+// const weekday = tp.date.now("dddd");
+// 从标题提取日期 → 转成星期几
+const titleDate = tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD");
+const weekday = tp.date.now("dddd", 0, titleDate);
 // ========= 在这里自定义你的每周任务 =========
 // 按星期自动生成任务 SWITCH 版
 switch (weekday) {
