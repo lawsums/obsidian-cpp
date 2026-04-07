@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "毕设规划",
-      "path": "项目/毕设/毕设规划.md"
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "毕设规划",
+      "path": "项目/毕设/毕设规划.md"
     },
     {
       "basename": "学习C++",
@@ -67,10 +71,6 @@
     {
       "basename": "The all-in-one workspace for your notes, tasks, wikis, and databases",
       "path": "Clippings/The all-in-one workspace for your notes, tasks, wikis, and databases.md"
-    },
-    {
-      "basename": "003_不定期任务",
-      "path": "Templates/Homepage/003_不定期任务.md"
     },
     {
       "basename": "grep",
