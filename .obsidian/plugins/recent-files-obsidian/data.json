@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "项目准备",
       "path": "项目/零声云盘/项目准备.md"
     },
     {
       "basename": "用ai产出创意内容",
       "path": "Templates/Homepage/用ai产出创意内容.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "毕设规划",
@@ -39,10 +43,6 @@
     {
       "basename": "修改外文翻译",
       "path": "Dairies/修改外文翻译.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "寻找外文翻译",
