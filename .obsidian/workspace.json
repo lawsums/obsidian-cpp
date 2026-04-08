@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/linux常见命令/find.md",
+                "file": "项目/零声云盘/项目准备.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "find 的大纲"
+              "title": "项目准备 的大纲"
             }
           },
           {
@@ -384,8 +384,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "417657c7fb74191a",
+  "active": "7d5db476b9f0171f",
   "lastOpenFiles": [
+    "操作系统/linux常见命令/find.md",
     "项目/零声云盘/项目准备.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/Homepage.md",
@@ -408,7 +409,6 @@
     "Templates/Homepage/把sly的gemini pro教程保存下来并看一遍.md",
     "Clippings/The all-in-one workspace for your notes, tasks, wikis, and databases.md",
     "操作系统/linux常见命令/grep.md",
-    "操作系统/linux常见命令/find.md",
     "Templates/Homepage/做一个解谜缝合小游戏.md",
     "Templates/Homepage/004_闪念.md",
     "Temp/另一本日式小说.md",
