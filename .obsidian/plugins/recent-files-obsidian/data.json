@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
-      "basename": "项目准备",
-      "path": "项目/零声云盘/项目准备.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "用ai产出创意内容",
       "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "手撕vector",
+      "path": "操作系统/手撕vector.md"
+    },
+    {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
+      "basename": "项目准备",
+      "path": "项目/零声云盘/项目准备.md"
     },
     {
       "basename": "007_书籍",
@@ -195,10 +199,6 @@
     {
       "basename": "开发线程池",
       "path": "Templates/Homepage/开发线程池.md"
-    },
-    {
-      "basename": "460.LFU 缓存",
-      "path": "Leetcode/460.LFU 缓存.md"
     }
   ],
   "omittedPaths": [],
