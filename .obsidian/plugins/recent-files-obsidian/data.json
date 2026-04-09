@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-04-10",
+      "path": "Dairies/2026-04-10.md"
+    },
+    {
       "basename": "和znn反馈",
       "path": "Dairies/和znn反馈.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
-    },
-    {
-      "basename": "2026-04-10",
-      "path": "Dairies/2026-04-10.md"
     },
     {
       "basename": "做一个小程序显示节点报警状况",
