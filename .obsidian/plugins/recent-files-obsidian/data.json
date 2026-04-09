@@ -1,28 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "项目准备",
-      "path": "项目/零声云盘/项目准备.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "find",
-      "path": "操作系统/linux常见命令/find.md"
+      "basename": "和znn反馈",
+      "path": "Dairies/和znn反馈.md"
+    },
+    {
+      "basename": "2026-04-09",
+      "path": "Dairies/2026-04-09.md"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
     },
     {
       "basename": "用ai产出创意内容",
       "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "2026-04-07",
+      "path": "Dairies/2026-04-07.md"
+    },
+    {
+      "basename": "项目准备",
+      "path": "项目/零声云盘/项目准备.md"
+    },
+    {
+      "basename": "2026-04-08",
+      "path": "Dairies/2026-04-08.md"
+    },
+    {
+      "basename": "find",
+      "path": "操作系统/linux常见命令/find.md"
     },
     {
       "basename": "002_稍后再看",
       "path": "Templates/Homepage/002_稍后再看.md"
-    },
-    {
-      "basename": "003_不定期任务",
-      "path": "Templates/Homepage/003_不定期任务.md"
     },
     {
       "basename": "毕设规划",
@@ -33,16 +49,8 @@
       "path": "Templates/Homepage/学习C++.md"
     },
     {
-      "basename": "2026-04-07",
-      "path": "Dairies/2026-04-07.md"
-    },
-    {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
-    },
-    {
-      "basename": "2026-04-08",
-      "path": "Dairies/2026-04-08.md"
     },
     {
       "basename": "2026-04-10",
@@ -191,14 +199,6 @@
     {
       "basename": "C++课程",
       "path": "Templates/Homepage/C++课程.md"
-    },
-    {
-      "basename": "信号变量",
-      "path": "操作系统/信号变量.md"
-    },
-    {
-      "basename": "GET 和 POST 的区别",
-      "path": "网络技术/GET 和 POST 的区别.md"
     }
   ],
   "omittedPaths": [],
