@@ -1,36 +1,48 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
     },
     {
-      "basename": "2026-04-10",
-      "path": "Dairies/2026-04-10.md"
-    },
-    {
-      "basename": "和znn反馈",
-      "path": "Dairies/和znn反馈.md"
-    },
-    {
-      "basename": "2026-04-09",
-      "path": "Dairies/2026-04-09.md"
-    },
-    {
-      "basename": "003_不定期任务",
-      "path": "Templates/Homepage/003_不定期任务.md"
+      "basename": "项目准备",
+      "path": "项目/零声云盘/项目准备.md"
     },
     {
       "basename": "用ai产出创意内容",
       "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
-      "basename": "2026-04-07",
-      "path": "Dairies/2026-04-07.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "项目准备",
-      "path": "项目/零声云盘/项目准备.md"
+      "basename": "007_书籍",
+      "path": "Templates/Homepage/007_书籍.md"
+    },
+    {
+      "basename": "2026-04-09",
+      "path": "Dairies/2026-04-09.md"
+    },
+    {
+      "basename": "和znn反馈",
+      "path": "Dairies/和znn反馈.md"
+    },
+    {
+      "basename": "makefile实战",
+      "path": "Templates/Homepage/makefile实战.md"
+    },
+    {
+      "basename": "2026-04-10",
+      "path": "Dairies/2026-04-10.md"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
+    },
+    {
+      "basename": "2026-04-07",
+      "path": "Dairies/2026-04-07.md"
     },
     {
       "basename": "2026-04-08",
@@ -105,10 +117,6 @@
       "path": "Temp/一本日式小说.md"
     },
     {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
       "basename": "diffusion除图像修复相关论文",
       "path": "论文/diffusion除图像修复相关论文.md"
     },
@@ -169,10 +177,6 @@
       "path": "Dairies/2026-04-03.md"
     },
     {
-      "basename": "007_书籍",
-      "path": "Templates/Homepage/007_书籍.md"
-    },
-    {
       "basename": "下载lama环境尝试跑通",
       "path": "Dairies/下载lama环境尝试跑通.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "460.LFU 缓存",
       "path": "Leetcode/460.LFU 缓存.md"
-    },
-    {
-      "basename": "C++课程",
-      "path": "Templates/Homepage/C++课程.md"
     }
   ],
   "omittedPaths": [],

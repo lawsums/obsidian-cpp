@@ -30,8 +30,81 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "f796183438dc5df5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/实现自己的数据结构.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "实现自己的数据结构"
+            }
+          },
+          {
+            "id": "896e6da6817743b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "用ai产出创意内容"
+            }
+          },
+          {
+            "id": "65586b17c2bb9727",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/零声云盘/项目准备.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "项目准备"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/实现自己的数据结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "实现自己的数据结构 的大纲"
             }
           },
           {
@@ -310,16 +383,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "f796183438dc5df5",
   "lastOpenFiles": [
-    "Dairies/2026-04-10.md",
-    "Templates/Homepage/Homepage.md",
-    "Dairies/和znn反馈.md",
-    "Dairies/2026-04-09.md",
-    "Templates/Homepage/003_不定期任务.md",
-    "Templates/Homepage/用ai产出创意内容.md",
-    "Dairies/2026-04-07.md",
     "项目/零声云盘/项目准备.md",
+    "Templates/Homepage/用ai产出创意内容.md",
+    "Dairies/实现自己的数据结构.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/007_书籍.md",
+    "Dairies/2026-04-09.md",
+    "Dairies/和znn反馈.md",
+    "Templates/Homepage/makefile实战.md",
+    "Dairies/2026-04-10.md",
+    "Templates/Homepage/003_不定期任务.md",
+    "Dairies/2026-04-07.md",
     "Dairies/2026-04-08.md",
     "Dairies/2026-04-04.md",
     "操作系统/linux常见命令/find.md",
@@ -336,9 +412,6 @@
     "Temp/微软100题.md",
     "Templates/Homepage/把sly的gemini pro教程保存下来并看一遍.md",
     "Clippings/The all-in-one workspace for your notes, tasks, wikis, and databases.md",
-    "操作系统/linux常见命令/grep.md",
-    "Templates/Homepage/做一个解谜缝合小游戏.md",
-    "Templates/Homepage/004_闪念.md",
     "论文",
     "项目/零声云盘",
     "Attachments/20200523_200745PT2M2.656S.webp",
