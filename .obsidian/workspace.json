@@ -6,7 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
-        "dimension": 33.51206434316354,
+        "dimension": 31.63538873994638,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -54,6 +54,30 @@
               },
               "icon": "lucide-file",
               "title": "学习C++"
+            }
+          },
+          {
+            "id": "1e6954e2933f4c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/零声云盘/项目准备.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "项目准备"
             }
           },
           {
@@ -108,23 +132,48 @@
         "currentTab": 2
       },
       {
-        "id": "ef8e5ade099240f6",
+        "id": "6507463ff1240c0f",
         "type": "tabs",
-        "dimension": 66.48793565683646,
+        "dimension": 68.36461126005362,
         "children": [
           {
-            "id": "f138ade06d228280",
+            "id": "0247b4c443566f70",
             "type": "leaf",
             "state": {
               "type": "mx-url-video",
               "state": {
-                "source": "file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/8.%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%91%E7%9B%98%E9%A1%B9%E7%9B%AE%E4%B8%93%E9%A2%98/8.2%E9%AB%98%E8%B4%9F%E8%BD%BDNginx%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8FastCGI%E6%8E%A5%E5%8F%A3%E7%BC%96%E7%A8%8B/%E8%A7%86%E9%A2%91/20200711_1.mp4"
+                "source": "file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/8.%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%91%E7%9B%98%E9%A1%B9%E7%9B%AE%E4%B8%93%E9%A2%98/8.1%E9%A1%B9%E7%9B%AE%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E4%B8%8E%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84%E4%BB%8B%E7%BB%8D/%E8%A7%86%E9%A2%91/%E9%A1%B9%E7%9B%AE%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E4%B8%8E%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA_%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84%E4%BB%8B%E7%BB%8D_mp3.mp4"
               },
               "icon": "file-video",
-              "title": "20200711_1"
+              "title": "项目需求分析与环境搭建_项目架构介绍_mp3"
+            }
+          },
+          {
+            "id": "f2f10d8f256c37b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/385.迷你语法分析器.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "385.迷你语法分析器"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -254,12 +303,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Leetcode/385.迷你语法分析器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "385.迷你语法分析器 的大纲"
             }
           },
           {
@@ -404,19 +454,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f138ade06d228280",
+  "active": "f2f10d8f256c37b0",
   "lastOpenFiles": [
+    "项目/零声云盘/项目准备.md",
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
     "Templates/Homepage/用ai产出创意内容.md",
-    "Templates/Homepage/学习C++.md",
     "Temp/另一本日_大纲.md",
     "Temp/另一本日式小说.md",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/385.迷你语法分析器.md",
     "Leetcode/385.迷你语法分析器.cpp",
     "操作系统/手撕vector.md",
     "Dairies/实现自己的数据结构.md",
-    "项目/零声云盘/项目准备.md",
     "Templates/Homepage/007_书籍.md",
     "Dairies/2026-04-09.md",
     "Dairies/和znn反馈.md",
