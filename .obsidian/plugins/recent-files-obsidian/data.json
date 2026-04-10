@@ -5,8 +5,20 @@
       "path": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md"
     },
     {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "另一本日_大纲",
+      "path": "Temp/另一本日_大纲.md"
+    },
+    {
+      "basename": "另一本日式小说",
+      "path": "Temp/另一本日式小说.md"
     },
     {
       "basename": "Homepage",
@@ -15,10 +27,6 @@
     {
       "basename": "385.迷你语法分析器",
       "path": "Leetcode/385.迷你语法分析器.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "手撕vector",
@@ -121,10 +129,6 @@
       "path": "Templates/Homepage/004_闪念.md"
     },
     {
-      "basename": "另一本日式小说",
-      "path": "Temp/另一本日式小说.md"
-    },
-    {
       "basename": "一本日式小说",
       "path": "Temp/一本日式小说.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-01",
       "path": "Dairies/2026-04-01.md"
-    },
-    {
-      "basename": "面试1",
-      "path": "Temp/面试1.md"
     }
   ],
   "omittedPaths": [],
