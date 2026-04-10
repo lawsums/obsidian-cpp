@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "nvim-surround",
-      "path": "Software/nvim-surround.md"
+      "basename": "另一本日_大纲",
+      "path": "Temp/另一本日_大纲.md"
     },
     {
       "basename": "用ai产出创意内容",
       "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
+      "basename": "自制galgame",
+      "path": "Templates/Homepage/自制galgame.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "nvim-surround",
+      "path": "Software/nvim-surround.md"
     },
     {
       "basename": "高负载Nginx搭建与使用FastCGI接口编程",
@@ -23,10 +31,6 @@
     {
       "basename": "项目准备",
       "path": "项目/零声云盘/项目准备.md"
-    },
-    {
-      "basename": "另一本日_大纲",
-      "path": "Temp/另一本日_大纲.md"
     },
     {
       "basename": "另一本日式小说",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-03",
       "path": "Dairies/2026-04-03.md"
-    },
-    {
-      "basename": "下载lama环境尝试跑通",
-      "path": "Dairies/下载lama环境尝试跑通.md"
     }
   ],
   "omittedPaths": [],
