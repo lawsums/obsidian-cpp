@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "385.迷你语法分析器",
+      "path": "Leetcode/385.迷你语法分析器.md"
     },
     {
       "basename": "用ai产出创意内容",
@@ -63,10 +71,6 @@
     {
       "basename": "毕设规划",
       "path": "项目/毕设/毕设规划.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "Daily_note_template",
@@ -195,10 +199,6 @@
     {
       "basename": "Redis使用",
       "path": "Templates/Homepage/Redis使用.md"
-    },
-    {
-      "basename": "开发线程池",
-      "path": "Templates/Homepage/开发线程池.md"
     }
   ],
   "omittedPaths": [],
