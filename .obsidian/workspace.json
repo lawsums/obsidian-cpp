@@ -6,6 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 29.2225201072386,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -54,9 +55,52 @@
               "icon": "lucide-file",
               "title": "学习C++"
             }
+          },
+          {
+            "id": "18610b440bb8ffc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "高负载Nginx搭建与使用FastCGI接口编程"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "ef8e5ade099240f6",
+        "type": "tabs",
+        "dimension": 70.77747989276139,
+        "children": [
+          {
+            "id": "f138ade06d228280",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url-video",
+              "state": {
+                "source": "file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/8.%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%91%E7%9B%98%E9%A1%B9%E7%9B%AE%E4%B8%93%E9%A2%98/8.2%E9%AB%98%E8%B4%9F%E8%BD%BDNginx%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8FastCGI%E6%8E%A5%E5%8F%A3%E7%BC%96%E7%A8%8B/%E8%A7%86%E9%A2%91/20200711_1.mp4"
+              },
+              "icon": "file-video",
+              "title": "20200711_1"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +154,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a1a3b64710b00c75",
@@ -131,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -185,13 +231,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习C++ 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -299,7 +344,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -335,8 +381,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1987c5d2180afeb2",
+  "active": "f138ade06d228280",
   "lastOpenFiles": [
+    "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
+    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
     "Leetcode/385.迷你语法分析器.md",
     "Leetcode/385.迷你语法分析器.cpp",
@@ -357,7 +405,6 @@
     "Templates/Homepage/002_稍后再看.md",
     "项目/毕设/毕设规划.md",
     "Dairies/2026-04-14.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Daily_note_template.md",
     "项目/毕设/做一个小程序显示节点报警状况.md",
     "Dairies/修改外文翻译.md",

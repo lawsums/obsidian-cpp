@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "高负载Nginx搭建与使用FastCGI接口编程",
+      "path": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "面试1",
       "path": "Temp/面试1.md"
-    },
-    {
-      "basename": "Redis使用",
-      "path": "Templates/Homepage/Redis使用.md"
     }
   ],
   "omittedPaths": [],
