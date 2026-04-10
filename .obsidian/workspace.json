@@ -147,30 +147,6 @@
               "icon": "file-video",
               "title": "项目需求分析与环境搭建_项目架构介绍_mp3"
             }
-          },
-          {
-            "id": "291919450d47ea21",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/另一本日_大纲.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "另一本日_大纲"
-            }
           }
         ]
       }
@@ -454,8 +430,8 @@
   },
   "active": "0247b4c443566f70",
   "lastOpenFiles": [
-    "项目/零声云盘/项目准备.md",
     "Temp/另一本日_大纲.md",
+    "项目/零声云盘/项目准备.md",
     "Temp/另一本日式小说.md",
     "Leetcode/385.迷你语法分析器.md",
     "Templates/Homepage/学习C++.md",
