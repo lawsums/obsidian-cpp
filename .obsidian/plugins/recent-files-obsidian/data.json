@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-04-11",
+      "path": "Dairies/2026-04-11.md"
+    },
+    {
+      "basename": "跑通多传感器",
+      "path": "Dairies/跑通多传感器.md"
+    },
+    {
       "basename": "另一本日_大纲",
       "path": "Temp/另一本日_大纲.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "自己上传一个遮罩用来生成带口罩的脸试试",
       "path": "Dairies/自己上传一个遮罩用来生成带口罩的脸试试.md"
-    },
-    {
-      "basename": "寻找diffusion中用来图像修复的论文",
-      "path": "Dairies/寻找diffusion中用来图像修复的论文.md"
-    },
-    {
-      "basename": "2026-04-03",
-      "path": "Dairies/2026-04-03.md"
     }
   ],
   "omittedPaths": [],
