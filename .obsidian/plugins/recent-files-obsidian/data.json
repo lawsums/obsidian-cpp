@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "另一本日_大纲",
       "path": "Temp/另一本日_大纲.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "自制galgame",
       "path": "Templates/Homepage/自制galgame.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "nvim-surround",
