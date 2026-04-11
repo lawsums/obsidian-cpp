@@ -6,6 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 28.28418230563003,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -29,6 +30,78 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
+            }
+          },
+          {
+            "id": "d11c1bd29d09404a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习C++"
+            }
+          },
+          {
+            "id": "f3db3b47d828779c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "高负载Nginx搭建与使用FastCGI接口编程"
+            }
+          },
+          {
+            "id": "dcd6b9c6cb1da986",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/规划紫金山路线.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "规划紫金山路线"
             }
           },
           {
@@ -56,12 +129,12 @@
             }
           },
           {
-            "id": "8f840334d68b8b3d",
+            "id": "14149789cf6116d8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp/另一本日_大纲.md",
+                "file": "Templates/Homepage/自制galgame.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,35 +149,30 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "另一本日_大纲"
-            }
-          },
-          {
-            "id": "7f3798f444ef2185",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/2026-04-11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-11"
+              "title": "自制galgame"
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "fb45213066955a0f",
+        "type": "tabs",
+        "dimension": 71.71581769436997,
+        "children": [
+          {
+            "id": "54e705dbc57a3f6a",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url-video",
+              "state": {
+                "source": "file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/8.%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%91%E7%9B%98%E9%A1%B9%E7%9B%AE%E4%B8%93%E9%A2%98/8.2%E9%AB%98%E8%B4%9F%E8%BD%BDNginx%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8FastCGI%E6%8E%A5%E5%8F%A3%E7%BC%96%E7%A8%8B/%E8%A7%86%E9%A2%91/20200711_1.mp4"
+              },
+              "icon": "file-video",
+              "title": "20200711_1"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -233,13 +302,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/另一本日_大纲.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "另一本日_大纲 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -347,7 +415,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -383,20 +452,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8f840334d68b8b3d",
+  "active": "54e705dbc57a3f6a",
   "lastOpenFiles": [
-    "Templates/Homepage/用ai产出创意内容.md",
-    "Templates/Homepage/Homepage.md",
-    "Dairies/2026-04-11.md",
-    "Dairies/跑通多传感器.md",
-    "Templates/Homepage/学习深度学习.md",
-    "Templates/Homepage/自制galgame.md",
-    "Software/nvim-surround.md",
-    "Dairies/2026-04-02.md",
     "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
     "Templates/Homepage/学习C++.md",
-    "项目/零声云盘/项目准备.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习esp32s3.md",
+    "Dairies/规划紫金山路线.md",
+    "Dairies/2026-04-11.md",
+    "Templates/Homepage/自制galgame.md",
+    "Templates/Homepage/用ai产出创意内容.md",
+    "Leetcode/380.O(1) 时间插入、删除和获取随机元素.md",
+    "Leetcode/380.O(1) 时间插入、删除和获取随机元素.cpp",
     "Temp/另一本日_大纲.md",
+    "Dairies/跑通多传感器.md",
+    "Templates/Homepage/学习深度学习.md",
+    "Software/nvim-surround.md",
+    "Dairies/2026-04-02.md",
+    "项目/零声云盘/项目准备.md",
     "Temp/另一本日式小说.md",
     "Leetcode/385.迷你语法分析器.md",
     "Leetcode/385.迷你语法分析器.cpp",
@@ -409,9 +482,6 @@
     "Dairies/2026-04-10.md",
     "Templates/Homepage/003_不定期任务.md",
     "Dairies/2026-04-07.md",
-    "Dairies/2026-04-08.md",
-    "Dairies/2026-04-04.md",
-    "操作系统/linux常见命令/find.md",
     "Attachments/Pasted image 20260407151313.png",
     "论文",
     "项目/零声云盘",
@@ -424,7 +494,6 @@
     "Leetcode/739.每日温度.cpp",
     "Attachments/Pasted image 20260328143503.png",
     "Leetcode/227.基本计算器 II.cpp",
-    "Leetcode/140.单词拆分 II.cpp",
     "Leetcode/images/1716_product3.jpg",
     "Leetcode/images/1716_product2.jpg",
     "Leetcode/images/1716_product1.jpg",
