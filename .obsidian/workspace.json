@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习esp32s3.md",
+                "file": "Dairies/跑通组网和多路传感器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习esp32s3 的大纲"
+              "title": "跑通组网和多路传感器 的大纲"
             }
           },
           {
@@ -359,7 +359,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2d6572f761c46117",
+  "active": "486e9a251548498e",
   "lastOpenFiles": [
     "Templates/Homepage/学习esp32s3.md",
     "Templates/Homepage/Homepage.md",
