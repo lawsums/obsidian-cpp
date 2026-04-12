@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "一本玄幻小说",
+      "path": "Temp/一本玄幻小说.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "费马小定理",
       "path": "代码模版/小知识/费马小定理.md"
-    },
-    {
-      "basename": "寻找和为定值的多个数",
-      "path": "Templates/Homepage/寻找和为定值的多个数.md"
     }
   ],
   "omittedPaths": [],
