@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "2d6572f761c46117",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习esp32s3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习esp32s3"
+            }
+          },
+          {
             "id": "486e9a251548498e",
             "type": "leaf",
             "state": {
@@ -131,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -186,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/跑通组网和多路传感器.md",
+                "file": "Templates/Homepage/学习esp32s3.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "跑通组网和多路传感器 的大纲"
+              "title": "学习esp32s3 的大纲"
             }
           },
           {
@@ -300,8 +323,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -337,15 +359,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "486e9a251548498e",
+  "active": "2d6572f761c46117",
   "lastOpenFiles": [
+    "Templates/Homepage/学习esp32s3.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/跑通组网和多路传感器.md",
     "Dairies/2026-04-12.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
     "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/学习esp32s3.md",
     "Dairies/规划紫金山路线.md",
     "Dairies/2026-04-11.md",
     "Templates/Homepage/自制galgame.md",
