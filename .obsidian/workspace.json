@@ -55,7 +55,8 @@
               "title": "跑通组网和多路传感器"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -184,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/跑通组网和多路传感器.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "跑通组网和多路传感器 的大纲"
             }
           },
           {
@@ -298,7 +300,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -334,11 +337,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "486e9a251548498e",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Dairies/跑通组网和多路传感器.md",
     "Dairies/2026-04-12.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
     "Templates/Homepage/学习C++.md",
