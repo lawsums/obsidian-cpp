@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "跑通组网和多路传感器",
+      "path": "Dairies/跑通组网和多路传感器.md"
+    },
+    {
+      "basename": "2026-04-12",
+      "path": "Dairies/2026-04-12.md"
+    },
+    {
       "basename": "自制galgame",
       "path": "Templates/Homepage/自制galgame.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "寻找和为定值的多个数",
       "path": "Templates/Homepage/寻找和为定值的多个数.md"
-    },
-    {
-      "basename": "2GB内存在20亿个整数中找出现次数最多的数",
-      "path": "操作系统/2GB内存在20亿个整数中找出现次数最多的数.md"
-    },
-    {
-      "basename": "rubbish",
-      "path": "项目/学校项目/rubbish.md"
     }
   ],
   "omittedPaths": [],
