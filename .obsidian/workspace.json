@@ -55,8 +55,7 @@
               "title": "一本玄幻小说"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/一本玄幻小说.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "一本玄幻小说 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,8 +334,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "14423360aeebd92c",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Temp/一本玄幻小说.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习esp32s3.md",
     "Dairies/跑通组网和多路传感器.md",
