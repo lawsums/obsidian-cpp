@@ -21,12 +21,22 @@
 - [x] 用 up 主的例程改一下试试看
 	- [ ] esp 32s3 nodeid = 2686903704
 		- [x] esp32-1 3046088109
-			- [ ] 加入所有属性
-				- [ ] hasFlame
-				- [ ] hasSmoke
-				- [ ] smokeVolt
-				- [ ] lightVolt
+			- [x] 加入所有属性
+				- [x] hasFlame
+				- [x] hasSmoke
+				- [x] smokeVolt
+				- [x] lightVolt
+			- [x] 添加新属性的解析
+			- [x] 修改 json 数据报格式
 		- [ ] esp32-2 
+			- [x] 加入所有属性
+				- [x] hasFlame
+				- [x] hasSmoke
+				- [x] smokeVolt
+				- [x] lightVolt
+			- [x] 将 readDHT 改成 readSensors 方法
+			- [x] 添加传感器实例
+			- [x] 消息里面添加多个新信息
 		- [ ] 加入消息 map 以记录每个 esp32 最后的 json 消息
 			- [ ] 解析每个发过来的消息的 nodeId
 			- [ ] map\[nodeId\] = makeJson (vargs...)

@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "b0362e7fc147a20c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "多个esp32组网数据通过esp32s3终端上传云平台"
+            }
+          },
+          {
             "id": "6823fd58a90e66d9",
             "type": "leaf",
             "state": {
@@ -53,54 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "2026-04-13"
-            }
-          },
-          {
-            "id": "08803b27068ea120",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "做一个小程序显示云平台数据和esp32节点报警情况"
-            }
-          },
-          {
-            "id": "b64ca0d11b1976b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "多个esp32组网数据通过esp32s3终端上传云平台"
             }
           },
           {
@@ -127,8 +103,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "做一个小程序显示云平台数据和esp32节点报警情况 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -407,14 +382,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "08803b27068ea120",
+  "active": "823678a9ee04a406",
   "lastOpenFiles": [
-    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
-    "Dairies/2026-04-13.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
-    "操作系统/简述 一下 TCP  建立连接和断开连接的过程.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
+    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
+    "Attachments/Pasted image 20260413230811.png",
+    "Attachments/Pasted image 20260413230800.png",
+    "Dairies/2026-04-13.md",
+    "操作系统/简述 一下 TCP  建立连接和断开连接的过程.md",
     "Templates/Homepage/学习esp32s3.md",
     "Temp/一本玄幻小说.md",
     "语言特性/Golang/Go.md",
@@ -437,7 +414,6 @@
     "Dairies/2026-04-02.md",
     "项目/零声云盘/项目准备.md",
     "Temp/另一本日式小说.md",
-    "Leetcode/385.迷你语法分析器.md",
     "Leetcode/385.迷你语法分析器.cpp",
     "Attachments/Pasted image 20260407151313.png",
     "论文",
@@ -453,8 +429,6 @@
     "Leetcode/images/1716_product3.jpg",
     "Leetcode/images/1716_product2.jpg",
     "Leetcode/images/1716_product1.jpg",
-    "Leetcode/images/2015_grid4.png",
-    "Leetcode/images/2015_grid3.png",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
