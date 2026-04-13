@@ -9,6 +9,10 @@
       "path": "Temp/一本玄幻小说.md"
     },
     {
+      "basename": "Go",
+      "path": "语言特性/Golang/Go.md"
+    },
+    {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "最长递增子序列问题",
       "path": "Templates/Homepage/最长递增子序列问题.md"
-    },
-    {
-      "basename": "K 次取反后最大化的数组和",
-      "path": "Templates/Homepage/K 次取反后最大化的数组和.md"
     }
   ],
   "omittedPaths": [],
