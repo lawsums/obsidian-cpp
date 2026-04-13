@@ -14,3 +14,11 @@
 	- [x] painlessMesh 桥接节点不能直接连接 wifi, 需要用桥接模式连
 	- [ ] painlessMesh 会修改 client_id, 修改内存
 	- [ ] 记得 esp32s3 解析数据补全, 现在只有 3 个数据
+
+- [ ] 是不是 painlessMesh 修改了内存的问题: 不是
+- [ ] 是不是 mesh 组网抢夺资源的问题?
+
+- [ ] 用 up 主的例程改一下试试看
+	- [ ] esp 32s3 nodeid = 2686903704
+		- [ ] esp32-1 3046088109
+		- [ ] esp32-2 
