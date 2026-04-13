@@ -18,7 +18,16 @@
 - [ ] 是不是 painlessMesh 修改了内存的问题: 不是
 - [ ] 是不是 mesh 组网抢夺资源的问题?
 
-- [ ] 用 up 主的例程改一下试试看
+- [x] 用 up 主的例程改一下试试看
 	- [ ] esp 32s3 nodeid = 2686903704
-		- [ ] esp32-1 3046088109
+		- [x] esp32-1 3046088109
+			- [ ] 加入所有属性
+				- [ ] hasFlame
+				- [ ] hasSmoke
+				- [ ] smokeVolt
+				- [ ] lightVolt
 		- [ ] esp32-2 
+		- [ ] 加入消息 map 以记录每个 esp32 最后的 json 消息
+			- [ ] 解析每个发过来的消息的 nodeId
+			- [ ] map\[nodeId\] = makeJson (vargs...)
+			- [ ] post 的时候 for-range (map) 发一下最新消息
