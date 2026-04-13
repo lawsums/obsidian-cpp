@@ -9,5 +9,6 @@
 		- [x] 添加 wifi 连接
 		- [x] 添加 mesh 数据解析之后的 mqtt 上传
 	- [x] 解决抢占网络的问题
-	- [ ] 错误码2: client_id 变了
-	- [ ] 密码也改了
+	- [x] 错误码2: client_id 变了
+	- [x] 密码也改了
+	- [ ] painlessMesh 桥接节点不能直接连接 wifi, 需要用桥接模式连
