@@ -9,6 +9,10 @@
       "path": "Temp/一本玄幻小说.md"
     },
     {
+      "basename": "2026-04-13",
+      "path": "Dairies/2026-04-13.md"
+    },
+    {
       "basename": "学习esp32s3",
       "path": "Templates/Homepage/学习esp32s3.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "K 次取反后最大化的数组和",
       "path": "Templates/Homepage/K 次取反后最大化的数组和.md"
-    },
-    {
-      "basename": "费马小定理",
-      "path": "代码模版/小知识/费马小定理.md"
     }
   ],
   "omittedPaths": [],
