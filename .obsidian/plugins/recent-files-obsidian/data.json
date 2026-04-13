@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "多个esp32组网数据通过esp32s3终端上传云平台",
+      "path": "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md"
+    },
+    {
+      "basename": "2026-04-13",
+      "path": "Dairies/2026-04-13.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "学习esp32s3",
+      "path": "Templates/Homepage/学习esp32s3.md"
     },
     {
       "basename": "一本玄幻小说",
@@ -15,14 +31,6 @@
     {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
-    },
-    {
-      "basename": "2026-04-13",
-      "path": "Dairies/2026-04-13.md"
-    },
-    {
-      "basename": "学习esp32s3",
-      "path": "Templates/Homepage/学习esp32s3.md"
     },
     {
       "basename": "跑通组网和多路传感器",
@@ -43,10 +51,6 @@
     {
       "basename": "高负载Nginx搭建与使用FastCGI接口编程",
       "path": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "规划紫金山路线",
@@ -195,10 +199,6 @@
     {
       "basename": "Art of programming",
       "path": "Templates/Homepage/Art of programming.md"
-    },
-    {
-      "basename": "最长递增子序列问题",
-      "path": "Templates/Homepage/最长递增子序列问题.md"
     }
   ],
   "omittedPaths": [],
