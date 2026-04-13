@@ -12,3 +12,4 @@
 	- [x] 错误码2: client_id 变了
 	- [x] 密码也改了
 	- [ ] painlessMesh 桥接节点不能直接连接 wifi, 需要用桥接模式连
+	- [ ] painlessMesh 会修改 client_id, 修改内存
