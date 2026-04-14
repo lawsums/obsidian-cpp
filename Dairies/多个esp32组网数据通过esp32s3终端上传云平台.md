@@ -37,7 +37,12 @@
 			- [x] 将 readDHT 改成 readSensors 方法
 			- [x] 添加传感器实例
 			- [x] 消息里面添加多个新信息
-		- [ ] 加入消息 map 以记录每个 esp32 最后的 json 消息
-			- [ ] 解析每个发过来的消息的 nodeId
-			- [ ] map\[nodeId\] = makeJson (vargs...)
-			- [ ] post 的时候 for-range (map) 发一下最新消息
+		- [x] 加入消息 map 以记录每个 esp32 最后的 json 消息
+			- [x] 解析每个发过来的消息的 nodeId
+			- [x] map\[nodeId\] = makeJson (vargs...)
+			- [x] post 的时候 for-range (map) 发一下最新消息
+			- [x] 添加 map/set
+			- [x] 添加传感数据结构体
+			- [x] 修改receivedCallback
+			- [x] 修改 checkWiFi: 有任意一个连接的就发送信息
+			- [x] 修改 mqttPost

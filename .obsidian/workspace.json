@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
+                "file": "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "做一个小程序显示云平台数据和esp32节点报警情况 的大纲"
+              "title": "多个esp32组网数据通过esp32s3终端上传云平台 的大纲"
             }
           },
           {
@@ -383,10 +383,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "53b0ee4bb4f9f354",
+  "active": "3c1580afa11132f4",
   "lastOpenFiles": [
-    "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
     "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
+    "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-04-14.md",
     "Dairies/2026-04-15.md",
