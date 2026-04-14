@@ -30,93 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "3603b14732332438",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/ai绘画.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ai绘画"
-            }
-          },
-          {
-            "id": "53b0ee4bb4f9f354",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "做一个小程序显示云平台数据和esp32节点报警情况"
-            }
-          },
-          {
-            "id": "9e2de888dcd9475d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "高负载Nginx搭建与使用FastCGI接口编程"
-            }
-          },
-          {
-            "id": "4934fc42c916e1d3",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url-video",
-              "state": {
-                "source": "file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/8.%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%91%E7%9B%98%E9%A1%B9%E7%9B%AE%E4%B8%93%E9%A2%98/8.2%E9%AB%98%E8%B4%9F%E8%BD%BDNginx%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8FastCGI%E6%8E%A5%E5%8F%A3%E7%BC%96%E7%A8%8B/%E8%A7%86%E9%A2%91/20200711_2.mp4"
-              },
-              "icon": "file-video",
-              "title": "20200711_2"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -246,12 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -359,8 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -396,11 +310,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4934fc42c916e1d3",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
-    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
+    "Attachments/Pasted image 20260414202818.png",
     "Software/ai绘画.md",
+    "Attachments/Pasted image 20260414200205.png",
+    "Attachments/Pasted image 20260414194835.png",
+    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
     "Attachments/Pasted image 20260414185949.png",
     "Attachments/Pasted image 20260414185942.png",
     "Leetcode/17.电话号码的字母组合.md",
@@ -418,8 +335,6 @@
     "Leetcode/images/100167_160_example_2.png",
     "Leetcode/images/100167_160_example_1.png",
     "Leetcode/images/100167_160_statement.png",
-    "Attachments/Pasted image 20260413230811.png",
-    "Attachments/Pasted image 20260413230800.png",
     "Dairies/2026-04-13.md",
     "操作系统/简述 一下 TCP  建立连接和断开连接的过程.md",
     "Templates/Homepage/学习esp32s3.md",
@@ -428,7 +343,6 @@
     "语言特性/Golang",
     "Templates/Daily_note_template.md",
     "Dairies/跑通组网和多路传感器.md",
-    "Attachments/Pasted image 20260412180715.png",
     "Dairies/2026-04-12.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/规划紫金山路线.md",

@@ -23,5 +23,5 @@ masterpiece,best quality,amazing quality,newest,very aesthetic,absurdres,8k,good
 illustration,clean line art,soft shading,smooth color gradient,
 white background,simple background,solid white background,
 soft studio lighting,key light,soft shadow,gentle shadows,even lighting,
-minimalistic,clean,aesthetic,official art,character reference,portrait,close-up,upper body. masterpiece,best quality,amazing quality,cowboy shot,simple background,white background,anime coloring,1girl,solo,morrigan aensland,mature female,demon girl,bat wings,long hair,green hair,green eyes,huge breasts,narrow waist,wide hips,bat wings,purple wings,low wings,bare shoulders,highleg leotard,heart cutout,bridal gauntlets,black leotard,purple pantyhose,print pantyhose,bat print,naughty face,seductive smile,
+minimalistic,clean,aesthetic,official art,character reference,portrait,close-up,upper body. 
 ```
