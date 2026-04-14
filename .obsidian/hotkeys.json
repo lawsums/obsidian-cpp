@@ -346,7 +346,7 @@
         "Mod",
         "Shift"
       ],
-      "key": "C"
+      "key": "V"
     }
   ],
   "obsidian-markdown-formatting-assistant-plugin:open-callouts-selector": [],
@@ -407,5 +407,6 @@
       ],
       "key": "I"
     }
-  ]
+  ],
+  "obsidian-auto-link-title:auto-link-title-normal-paste": []
 }

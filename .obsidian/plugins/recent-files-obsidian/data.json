@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "高负载Nginx搭建与使用FastCGI接口编程",
       "path": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md"
+    },
+    {
+      "basename": "17.电话号码的字母组合",
+      "path": "Leetcode/17.电话号码的字母组合.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "学习C++",
@@ -195,10 +199,6 @@
     {
       "basename": "004_闪念",
       "path": "Templates/Homepage/004_闪念.md"
-    },
-    {
-      "basename": "一本日式小说",
-      "path": "Temp/一本日式小说.md"
     }
   ],
   "omittedPaths": [],

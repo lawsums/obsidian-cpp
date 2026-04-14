@@ -80,7 +80,8 @@
               "title": "做一个小程序显示云平台数据和esp32节点报警情况"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "96a47f0815c4c4f3",
@@ -229,13 +230,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -380,11 +380,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "4934fc42c916e1d3",
   "lastOpenFiles": [
     "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
-    "Templates/Homepage/学习C++.md",
+    "Leetcode/17.电话号码的字母组合.md",
+    "Leetcode/17.电话号码的字母组合.cpp~",
+    "Leetcode/17.电话号码的字母组合.cpp",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/images/17_1752723054-mfIHZs-image.png",
+    "Templates/Homepage/学习C++.md",
     "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
     "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
     "Leetcode/100167.链表相交.md",
@@ -416,7 +420,6 @@
     "Temp/另一本日_大纲.md",
     "Dairies/跑通多传感器.md",
     "Templates/Homepage/学习深度学习.md",
-    "Software/nvim-surround.md",
     "Leetcode/385.迷你语法分析器.cpp",
     "Attachments/Pasted image 20260407151313.png",
     "论文",
@@ -424,9 +427,6 @@
     "Attachments/20200523_200745PT2M2.656S.webp",
     "数据结构/LRU缓存.cpp",
     "Leetcode/47.全排列 II.cpp",
-    "Leetcode/236.二叉树的最近公共祖先.cpp",
-    "Leetcode/images/236_binarytree.png",
-    "Leetcode/410.分割数组的最大值.cpp",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
