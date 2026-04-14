@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md"
     },
     {
+      "basename": "做一个小程序显示云平台数据和esp32节点报警情况",
+      "path": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md"
+    },
+    {
+      "basename": "ai绘画",
+      "path": "Software/ai绘画.md"
+    },
+    {
       "basename": "17.电话号码的字母组合",
       "path": "Leetcode/17.电话号码的字母组合.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "做一个小程序显示云平台数据和esp32节点报警情况",
-      "path": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md"
     },
     {
       "basename": "多个esp32组网数据通过esp32s3终端上传云平台",
@@ -195,10 +199,6 @@
     {
       "basename": "做一个解谜缝合小游戏",
       "path": "Templates/Homepage/做一个解谜缝合小游戏.md"
-    },
-    {
-      "basename": "004_闪念",
-      "path": "Templates/Homepage/004_闪念.md"
     }
   ],
   "omittedPaths": [],
