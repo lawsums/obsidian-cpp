@@ -103,8 +103,7 @@
               "title": "2026-04-14"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "多个esp32组网数据通过esp32s3终端上传云平台 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -383,10 +382,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3c1580afa11132f4",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
     "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
+    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-04-14.md",
     "Dairies/2026-04-15.md",
