@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "358f8b86a5eb52da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/ai绘画.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ai绘画"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Software/ai绘画.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "ai绘画 的大纲"
             }
           },
           {
@@ -310,8 +335,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "358f8b86a5eb52da",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
     "Attachments/Pasted image 20260414202818.png",
     "Software/ai绘画.md",
@@ -323,7 +349,6 @@
     "Leetcode/17.电话号码的字母组合.md",
     "Leetcode/17.电话号码的字母组合.cpp~",
     "Leetcode/17.电话号码的字母组合.cpp",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/images/17_1752723054-mfIHZs-image.png",
     "Templates/Homepage/学习C++.md",
     "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",

@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "ai绘画",
+      "path": "Software/ai绘画.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "高负载Nginx搭建与使用FastCGI接口编程",
       "path": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md"
-    },
-    {
-      "basename": "ai绘画",
-      "path": "Software/ai绘画.md"
     },
     {
       "basename": "做一个小程序显示云平台数据和esp32节点报警情况",
