@@ -408,6 +408,7 @@
   },
   "active": "013ac7a2c7f832cb",
   "lastOpenFiles": [
+    "Dairies/2026-04-16.md",
     "项目/零声云盘/项目行为.md",
     "项目/零声云盘/项目准备.md",
     "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
@@ -447,7 +448,6 @@
     "Dairies/规划紫金山路线.md",
     "Dairies/2026-04-11.md",
     "Templates/Homepage/自制galgame.md",
-    "Leetcode/380.O(1) 时间插入、删除和获取随机元素.md",
     "Leetcode/380.O(1) 时间插入、删除和获取随机元素.cpp",
     "Leetcode/385.迷你语法分析器.cpp",
     "论文",
