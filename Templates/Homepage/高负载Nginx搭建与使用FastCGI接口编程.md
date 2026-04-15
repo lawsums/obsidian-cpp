@@ -70,6 +70,10 @@ curl ifconfig.me
 | 用户名 | lawsam |
 | 密码  | 123456 |
 
+---
+## 2.5 上传/下载文件
+
+`group1/M00/00/00/wKiugWnfBBWAD9KGAAAACP8sV1M064.txt`
 
 # 3 TODO
 ## 3.1 为什么要分group? group内为什么要分组?

@@ -81,7 +81,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "c4e5949580b87994",
@@ -230,12 +230,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "项目/零声云盘/项目准备.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "项目准备 的大纲"
             }
           },
           {
@@ -380,7 +381,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dec636ab28ea49f5",
+  "active": "aa29f49306875782",
   "lastOpenFiles": [
     "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
     "项目/零声云盘/项目准备.md",
