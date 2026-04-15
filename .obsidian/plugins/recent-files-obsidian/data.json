@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "高负载Nginx搭建与使用FastCGI接口编程",
+      "path": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md"
+    },
+    {
+      "basename": "项目准备",
+      "path": "项目/零声云盘/项目准备.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "ai绘画",
-      "path": "Software/ai绘画.md"
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
-      "basename": "高负载Nginx搭建与使用FastCGI接口编程",
-      "path": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md"
+      "basename": "ai绘画",
+      "path": "Software/ai绘画.md"
     },
     {
       "basename": "做一个小程序显示云平台数据和esp32节点报警情况",
@@ -19,10 +27,6 @@
     {
       "basename": "17.电话号码的字母组合",
       "path": "Leetcode/17.电话号码的字母组合.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "多个esp32组网数据通过esp32s3终端上传云平台",
@@ -99,10 +103,6 @@
     {
       "basename": "nvim-surround",
       "path": "Software/nvim-surround.md"
-    },
-    {
-      "basename": "项目准备",
-      "path": "项目/零声云盘/项目准备.md"
     },
     {
       "basename": "另一本日式小说",
