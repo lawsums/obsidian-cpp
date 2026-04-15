@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/零声云盘/项目准备.md",
+                "file": "项目/零声云盘/项目行为.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "项目准备"
+              "title": "项目行为"
             }
           },
           {
@@ -230,13 +230,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/零声云盘/项目准备.md",
+                "file": "项目/零声云盘/项目行为.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "项目准备 的大纲"
+              "title": "项目行为 的大纲"
             }
           },
           {
@@ -384,6 +384,7 @@
   "active": "aa29f49306875782",
   "lastOpenFiles": [
     "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
+    "项目/零声云盘/项目行为.md",
     "项目/零声云盘/项目准备.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
@@ -423,7 +424,6 @@
     "Leetcode/380.O(1) 时间插入、删除和获取随机元素.md",
     "Leetcode/380.O(1) 时间插入、删除和获取随机元素.cpp",
     "Temp/另一本日_大纲.md",
-    "Dairies/跑通多传感器.md",
     "Leetcode/385.迷你语法分析器.cpp",
     "论文",
     "项目/零声云盘",
