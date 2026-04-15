@@ -105,7 +105,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "c4e5949580b87994",
@@ -255,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/零声云盘/项目行为.md",
+                "file": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "项目行为 的大纲"
+              "title": "高负载Nginx搭建与使用FastCGI接口编程 的大纲"
             }
           },
           {
@@ -406,10 +406,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "aa29f49306875782",
+  "active": "013ac7a2c7f832cb",
   "lastOpenFiles": [
-    "项目/零声云盘/项目准备.md",
     "项目/零声云盘/项目行为.md",
+    "项目/零声云盘/项目准备.md",
     "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
     "Clippings/解决使用git时遇到Failed to connect to github.com port 443 after 21090 ms Couldn‘t connect to server_git couldn't connect to server-CSDN博客.md",
     "Templates/Homepage/Homepage.md",
