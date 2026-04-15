@@ -6,7 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
-        "dimension": 40.028155795401226,
+        "dimension": 25.02200058668231,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -86,30 +86,18 @@
       {
         "id": "c4e5949580b87994",
         "type": "tabs",
-        "dimension": 59.97184420459879,
+        "dimension": 74.9779994133177,
         "children": [
           {
-            "id": "2d101ea4f5e4f3f6",
+            "id": "dec636ab28ea49f5",
             "type": "leaf",
             "state": {
               "type": "mx-url-video",
               "state": {
-                "source": "file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/8.%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%91%E7%9B%98%E9%A1%B9%E7%9B%AE%E4%B8%93%E9%A2%98/8.1%E9%A1%B9%E7%9B%AE%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E4%B8%8E%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84%E4%BB%8B%E7%BB%8D/%E8%A7%86%E9%A2%91/%E9%A1%B9%E7%9B%AE%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E4%B8%8E%E7%8E%AF%E5%A2%83%E6%90%AD%E5%BB%BA_%E9%A1%B9%E7%9B%AE%E6%9E%B6%E6%9E%84%E4%BB%8B%E7%BB%8D_mp3.mp4"
+                "source": "file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/8.%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%91%E7%9B%98%E9%A1%B9%E7%9B%AE%E4%B8%93%E9%A2%98/8.2%E9%AB%98%E8%B4%9F%E8%BD%BDNginx%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8FastCGI%E6%8E%A5%E5%8F%A3%E7%BC%96%E7%A8%8B/%E8%A7%86%E9%A2%91/20200711_2.mp4"
               },
               "icon": "file-video",
-              "title": "项目需求分析与环境搭建_项目架构介绍_mp3"
-            }
-          },
-          {
-            "id": "421aed96d7886a44",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url-video",
-              "state": {
-                "source": "file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/8.%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%91%E7%9B%98%E9%A1%B9%E7%9B%AE%E4%B8%93%E9%A2%98/8.2%E9%AB%98%E8%B4%9F%E8%BD%BDNginx%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8FastCGI%E6%8E%A5%E5%8F%A3%E7%BC%96%E7%A8%8B/%E8%A7%86%E9%A2%91/20200711_1.mp4"
-              },
-              "icon": "file-video",
-              "title": "20200711_1"
+              "title": "20200711_2"
             }
           }
         ]
@@ -242,13 +230,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "高负载Nginx搭建与使用FastCGI接口编程 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -393,10 +380,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "013ac7a2c7f832cb",
+  "active": "dec636ab28ea49f5",
   "lastOpenFiles": [
-    "项目/零声云盘/项目准备.md",
     "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
+    "项目/零声云盘/项目准备.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Attachments/Pasted image 20260414202818.png",
