@@ -6,6 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 29.959785522788202,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -32,7 +33,7 @@
             }
           },
           {
-            "id": "f9edbd50d2eafc21",
+            "id": "b45475f837d11b3d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -56,12 +57,12 @@
             }
           },
           {
-            "id": "b42927ebd17de771",
+            "id": "5c4201e0d346541e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/分布式FastDFS存储集群部署.md",
+                "file": "Templates/Homepage/面试题系列.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,16 +77,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "分布式FastDFS存储集群部署"
+              "title": "面试题系列"
             }
           },
           {
-            "id": "6b2333f7bc834fe8",
+            "id": "2ebd1c78437fa854",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/毕设/毕设规划.md",
+                "file": "Templates/Homepage/手撕内存池.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +101,30 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "毕设规划"
+              "title": "手撕内存池"
             }
           }
         ],
         "currentTab": 3
+      },
+      {
+        "id": "efcde0591ec7aecd",
+        "type": "tabs",
+        "dimension": 70.04021447721179,
+        "children": [
+          {
+            "id": "9d643d86bbf58303",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.bilibili.com/video/BV1whD1B4Euc/"
+              },
+              "icon": "bilibili",
+              "title": "影石C++一面：手撕内存池，vector scan / const read / 多线程【码农Mark】 - bilibili"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,13 +254,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/毕设/毕设规划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "毕设规划 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -385,13 +404,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6b2333f7bc834fe8",
+  "active": "9d643d86bbf58303",
   "lastOpenFiles": [
+    "Templates/Homepage/手撕内存池.md",
     "Templates/Homepage/分布式FastDFS存储集群部署.md",
-    "项目/零声云盘/项目行为.md",
-    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习C++.md",
     "项目/毕设/毕设规划.md",
+    "项目/零声云盘/项目行为.md",
     "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
     "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
     "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
@@ -425,8 +446,6 @@
     "Templates/Daily_note_template.md",
     "Dairies/跑通组网和多路传感器.md",
     "Dairies/2026-04-12.md",
-    "Templates/Homepage/用ai产出创意内容.md",
-    "Dairies/规划紫金山路线.md",
     "Leetcode/380.O(1) 时间插入、删除和获取随机元素.cpp",
     "Leetcode/385.迷你语法分析器.cpp",
     "论文",
