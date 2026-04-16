@@ -6,7 +6,6 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
-        "dimension": 38.00268096514745,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -30,98 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
-            }
-          },
-          {
-            "id": "aa29f49306875782",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/零声云盘/项目行为.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "项目行为"
-            }
-          },
-          {
-            "id": "013ac7a2c7f832cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "高负载Nginx搭建与使用FastCGI接口编程"
-            }
-          },
-          {
-            "id": "639bec4f4847b46b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/零声云盘/项目准备.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "项目准备"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "c4e5949580b87994",
-        "type": "tabs",
-        "dimension": 61.99731903485255,
-        "children": [
-          {
-            "id": "a9bea7642dc8216f",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url-video",
-              "state": {
-                "source": "file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/8.%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%91%E7%9B%98%E9%A1%B9%E7%9B%AE%E4%B8%93%E9%A2%98/8.2%E9%AB%98%E8%B4%9F%E8%BD%BDNginx%E6%90%AD%E5%BB%BA%E4%B8%8E%E4%BD%BF%E7%94%A8FastCGI%E6%8E%A5%E5%8F%A3%E7%BC%96%E7%A8%8B/%E8%A7%86%E9%A2%91/20200711_3.mp4"
-              },
-              "icon": "file-video",
-              "title": "20200711_3"
             }
           }
         ]
@@ -157,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "防火",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,8 +85,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a1a3b64710b00c75",
@@ -200,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -255,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "高负载Nginx搭建与使用FastCGI接口编程 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -369,8 +274,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -406,12 +310,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "013ac7a2c7f832cb",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
     "Dairies/2026-04-16.md",
     "项目/零声云盘/项目行为.md",
     "项目/零声云盘/项目准备.md",
-    "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
     "Clippings/解决使用git时遇到Failed to connect to github.com port 443 after 21090 ms Couldn‘t connect to server_git couldn't connect to server-CSDN博客.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",

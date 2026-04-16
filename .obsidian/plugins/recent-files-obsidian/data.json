@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "高负载Nginx搭建与使用FastCGI接口编程",
       "path": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "项目准备",
       "path": "项目/零声云盘/项目准备.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "学习C++",
