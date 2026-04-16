@@ -6,7 +6,6 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
-        "dimension": 32.03753351206434,
         "children": [
           {
             "id": "12134b8e64929842",
@@ -78,26 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "手撕内存池"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "d46b7e6154bed775",
-        "type": "tabs",
-        "dimension": 67.96246648793566,
-        "children": [
-          {
-            "id": "1a2646e93aa278dc",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.bilibili.com/video/BV1whD1B4Euc/"
-              },
-              "icon": "bilibili",
-              "title": "影石C++一面：手撕内存池，vector scan / const read / 多线程【码农Mark】 - bilibili"
             }
           }
         ]
@@ -175,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -230,12 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -343,8 +322,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -380,13 +358,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1a2646e93aa278dc",
+  "active": "12134b8e64929842",
   "lastOpenFiles": [
+    "Dairies/2026-04-17.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/手撕内存池.md",
     "项目/毕设/毕设规划.md",
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/分布式FastDFS存储集群部署.md",
     "项目/零声云盘/项目行为.md",
     "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
@@ -421,7 +400,6 @@
     "语言特性/Golang",
     "Templates/Daily_note_template.md",
     "Dairies/跑通组网和多路传感器.md",
-    "Dairies/2026-04-12.md",
     "Leetcode/380.O(1) 时间插入、删除和获取随机元素.cpp",
     "Leetcode/385.迷你语法分析器.cpp",
     "论文",
