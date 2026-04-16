@@ -6,7 +6,6 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
-        "dimension": 29.959785522788202,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -106,25 +105,6 @@
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "efcde0591ec7aecd",
-        "type": "tabs",
-        "dimension": 70.04021447721179,
-        "children": [
-          {
-            "id": "9d643d86bbf58303",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.bilibili.com/video/BV1whD1B4Euc/"
-              },
-              "icon": "bilibili",
-              "title": "影石C++一面：手撕内存池，vector scan / const read / 多线程【码农Mark】 - bilibili"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -254,12 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/手撕内存池.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "手撕内存池 的大纲"
             }
           },
           {
@@ -404,7 +385,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9d643d86bbf58303",
+  "active": "2ebd1c78437fa854",
   "lastOpenFiles": [
     "Templates/Homepage/手撕内存池.md",
     "Templates/Homepage/分布式FastDFS存储集群部署.md",
