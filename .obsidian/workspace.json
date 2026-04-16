@@ -148,8 +148,7 @@
               "title": "项目行为"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,13 +278,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/零声云盘/项目行为.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "项目行为 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -430,7 +428,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0a2d1a170072decf",
+  "active": "bd6c5d1d89584693",
   "lastOpenFiles": [
     "项目/零声云盘/项目行为.md",
     "Templates/Homepage/分布式FastDFS存储集群部署.md",
