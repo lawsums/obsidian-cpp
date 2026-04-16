@@ -6,6 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 32.506702412868634,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -32,12 +33,12 @@
             }
           },
           {
-            "id": "e89b0d706bb742e3",
+            "id": "f9edbd50d2eafc21",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +53,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "多个esp32组网数据通过esp32s3终端上传云平台"
+              "title": "学习C++"
+            }
+          },
+          {
+            "id": "b42927ebd17de771",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/分布式FastDFS存储集群部署.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "分布式FastDFS存储集群部署"
             }
           },
           {
@@ -61,7 +86,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
+                "file": "项目/毕设/毕设规划.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +101,55 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "做一个小程序显示云平台数据和esp32节点报警情况"
+              "title": "毕设规划"
             }
           }
         ],
         "currentTab": 2
+      },
+      {
+        "id": "236cf6fa7a70324c",
+        "type": "tabs",
+        "dimension": 67.49329758713137,
+        "children": [
+          {
+            "id": "bd6c5d1d89584693",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url-video",
+              "state": {
+                "source": "file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/8.%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%91%E7%9B%98%E9%A1%B9%E7%9B%AE%E4%B8%93%E9%A2%98/8.3%E5%88%86%E5%B8%83%E5%BC%8FFastDFS%E5%AD%98%E5%82%A8%E9%9B%86%E7%BE%A4%E9%83%A8%E7%BD%B2/%E8%A7%86%E9%A2%91/20200714_200022.mp4"
+              },
+              "icon": "file-video",
+              "title": "20200714_200022"
+            }
+          },
+          {
+            "id": "0a2d1a170072decf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/零声云盘/项目行为.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "项目行为"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -209,13 +279,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
+                "file": "项目/零声云盘/项目行为.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "做一个小程序显示云平台数据和esp32节点报警情况 的大纲"
+              "title": "项目行为 的大纲"
             }
           },
           {
@@ -323,7 +393,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -359,17 +430,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6b2333f7bc834fe8",
+  "active": "0a2d1a170072decf",
   "lastOpenFiles": [
-    "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
+    "项目/零声云盘/项目行为.md",
+    "Templates/Homepage/分布式FastDFS存储集群部署.md",
+    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
+    "项目/毕设/毕设规划.md",
     "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
+    "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
     "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
     "Dairies/2026-04-16.md",
-    "项目/零声云盘/项目行为.md",
     "项目/零声云盘/项目准备.md",
     "Clippings/解决使用git时遇到Failed to connect to github.com port 443 after 21090 ms Couldn‘t connect to server_git couldn't connect to server-CSDN博客.md",
-    "Templates/Homepage/学习C++.md",
     "Attachments/Pasted image 20260414202818.png",
     "Software/ai绘画.md",
     "Attachments/Pasted image 20260414200205.png",
@@ -399,8 +472,6 @@
     "Dairies/2026-04-12.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/规划紫金山路线.md",
-    "Dairies/2026-04-11.md",
-    "Templates/Homepage/自制galgame.md",
     "Leetcode/380.O(1) 时间插入、删除和获取随机元素.cpp",
     "Leetcode/385.迷你语法分析器.cpp",
     "论文",

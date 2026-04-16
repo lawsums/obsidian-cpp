@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "项目行为",
+      "path": "项目/零声云盘/项目行为.md"
+    },
+    {
+      "basename": "分布式FastDFS存储集群部署",
+      "path": "Templates/Homepage/分布式FastDFS存储集群部署.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "毕设规划",
+      "path": "项目/毕设/毕设规划.md"
+    },
+    {
       "basename": "做一个小程序显示云平台数据和esp32节点报警情况",
       "path": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md"
     },
@@ -9,24 +29,12 @@
       "path": "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "高负载Nginx搭建与使用FastCGI接口编程",
       "path": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md"
     },
     {
-      "basename": "项目行为",
-      "path": "项目/零声云盘/项目行为.md"
-    },
-    {
       "basename": "项目准备",
       "path": "项目/零声云盘/项目准备.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "ai绘画",
@@ -165,10 +173,6 @@
       "path": "Templates/Homepage/002_稍后再看.md"
     },
     {
-      "basename": "毕设规划",
-      "path": "项目/毕设/毕设规划.md"
-    },
-    {
       "basename": "做一个小程序显示节点报警状况",
       "path": "项目/毕设/做一个小程序显示节点报警状况.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The all-in-one workspace for your notes, tasks, wikis, and databases",
       "path": "Clippings/The all-in-one workspace for your notes, tasks, wikis, and databases.md"
-    },
-    {
-      "basename": "grep",
-      "path": "操作系统/linux常见命令/grep.md"
     }
   ],
   "omittedPaths": [],
