@@ -6,9 +6,10 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 32.03753351206434,
         "children": [
           {
-            "id": "a8fa3bde95b82293",
+            "id": "12134b8e64929842",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +33,12 @@
             }
           },
           {
-            "id": "b45475f837d11b3d",
+            "id": "a8fa3bde95b82293",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
+                "file": "项目/毕设/毕设规划.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "学习C++"
-            }
-          },
-          {
-            "id": "5c4201e0d346541e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/面试题系列.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "面试题系列"
+              "title": "毕设规划"
             }
           },
           {
@@ -104,7 +81,26 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "d46b7e6154bed775",
+        "type": "tabs",
+        "dimension": 67.96246648793566,
+        "children": [
+          {
+            "id": "1a2646e93aa278dc",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.bilibili.com/video/BV1whD1B4Euc/"
+              },
+              "icon": "bilibili",
+              "title": "影石C++一面：手撕内存池，vector scan / const read / 多线程【码农Mark】 - bilibili"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,13 +230,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/手撕内存池.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "手撕内存池 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -385,14 +380,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2ebd1c78437fa854",
+  "active": "1a2646e93aa278dc",
   "lastOpenFiles": [
     "Templates/Homepage/手撕内存池.md",
-    "Templates/Homepage/分布式FastDFS存储集群部署.md",
-    "Templates/Homepage/面试题系列.md",
-    "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/学习C++.md",
     "项目/毕设/毕设规划.md",
+    "Templates/Homepage/面试题系列.md",
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/分布式FastDFS存储集群部署.md",
     "项目/零声云盘/项目行为.md",
     "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
     "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",

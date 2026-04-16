@@ -5,24 +5,24 @@
       "path": "Templates/Homepage/手撕内存池.md"
     },
     {
-      "basename": "分布式FastDFS存储集群部署",
-      "path": "Templates/Homepage/分布式FastDFS存储集群部署.md"
+      "basename": "毕设规划",
+      "path": "项目/毕设/毕设规划.md"
     },
     {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
     {
-      "basename": "毕设规划",
-      "path": "项目/毕设/毕设规划.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "分布式FastDFS存储集群部署",
+      "path": "Templates/Homepage/分布式FastDFS存储集群部署.md"
     },
     {
       "basename": "项目行为",
