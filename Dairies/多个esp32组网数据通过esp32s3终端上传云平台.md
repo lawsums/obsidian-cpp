@@ -28,7 +28,7 @@
 				- [x] lightVolt
 			- [x] 添加新属性的解析
 			- [x] 修改 json 数据报格式
-		- [ ] esp32-2 
+		- [ ] esp32-2 3046083301
 			- [x] 加入所有属性
 				- [x] hasFlame
 				- [x] hasSmoke

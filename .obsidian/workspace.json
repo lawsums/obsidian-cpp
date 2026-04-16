@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "e89b0d706bb742e3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "多个esp32组网数据通过esp32s3终端上传云平台"
+            }
+          },
+          {
+            "id": "6b2333f7bc834fe8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "做一个小程序显示云平台数据和esp32节点报警情况"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "做一个小程序显示云平台数据和esp32节点报警情况 的大纲"
             }
           },
           {
@@ -310,27 +359,27 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "6b2333f7bc834fe8",
   "lastOpenFiles": [
+    "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
+    "Templates/Homepage/Homepage.md",
+    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
     "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
     "Dairies/2026-04-16.md",
     "项目/零声云盘/项目行为.md",
     "项目/零声云盘/项目准备.md",
     "Clippings/解决使用git时遇到Failed to connect to github.com port 443 after 21090 ms Couldn‘t connect to server_git couldn't connect to server-CSDN博客.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Attachments/Pasted image 20260414202818.png",
     "Software/ai绘画.md",
     "Attachments/Pasted image 20260414200205.png",
     "Attachments/Pasted image 20260414194835.png",
-    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
     "Attachments/Pasted image 20260414185949.png",
     "Attachments/Pasted image 20260414185942.png",
     "Leetcode/17.电话号码的字母组合.md",
     "Leetcode/17.电话号码的字母组合.cpp~",
     "Leetcode/17.电话号码的字母组合.cpp",
     "Leetcode/images/17_1752723054-mfIHZs-image.png",
-    "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
     "Leetcode/100167.链表相交.md",
     "Dairies/2026-04-14.md",
     "Dairies/2026-04-15.md",
