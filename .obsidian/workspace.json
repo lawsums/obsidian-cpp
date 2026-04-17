@@ -8,6 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "785bdb28f52d89c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/Homepage.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
             "id": "a8fa3bde95b82293",
             "type": "leaf",
             "state": {
@@ -79,8 +103,7 @@
               "title": "自身框架"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/毕设/自身框架.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "自身框架 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -359,24 +382,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2d1e56e7a2e26268",
+  "active": "785bdb28f52d89c6",
   "lastOpenFiles": [
-    "Pandoc/~WRL2772.tmp",
-    "Pandoc/~WRD2768.tmp",
-    "Pandoc/~$框架.docx",
-    "Pandoc/框架.docx",
-    "Pandoc/自身框架~ADCC8.tmp",
-    "Pandoc/~$自身框架.docx",
-    "Pandoc/~WRL3546.tmp",
-    "Pandoc/~WRD3409.tmp",
-    "Pandoc/自身框架.docx",
-    "项目/毕设/毕设规划.md",
     "项目/毕设/论文规划.md",
     "项目/毕设/自身框架.md",
+    "Pandoc/~WRL4067.tmp",
+    "Pandoc/~WRD4064.tmp",
+    "Pandoc/~$建筑系统框架-罗阳.docx",
+    "Pandoc/智能建筑系统框架-罗阳.docx",
+    "Pandoc/~WRL1197.tmp",
+    "Pandoc/~WRD1189.tmp",
+    "Pandoc/~WRL0092.tmp",
+    "Pandoc/~WRD0084.tmp",
+    "Pandoc/~WRL1926.tmp",
+    "Pandoc/~WRD1922.tmp",
+    "项目/毕设/毕设规划.md",
     "Templates/Homepage/Homepage.md",
     "Leetcode/100233.八皇后.md",
-    "Leetcode/100233.八皇后.cpp~",
-    "Leetcode/100233.八皇后.cpp",
     "Dairies/实现自己的数据结构.md",
     "Dairies/2026-04-17.md",
     "Templates/Homepage/手撕内存池.md",
