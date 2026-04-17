@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "1158a4340a3c6176",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "用ai产出创意内容"
+            }
+          },
+          {
             "id": "ffdf2fd6877202fb",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -234,13 +258,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Qt客户端界面设计.md",
+                "file": "Templates/Homepage/用ai产出创意内容.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Qt客户端界面设计 的大纲"
+              "title": "用ai产出创意内容 的大纲"
             }
           },
           {
@@ -384,8 +408,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2ace3fd1107b993f",
+  "active": "1158a4340a3c6176",
   "lastOpenFiles": [
+    "Dairies/2026-04-11.md",
+    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/Qt客户端界面设计.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
@@ -430,8 +456,6 @@
     "Leetcode/images/100167_160_example_2.png",
     "Leetcode/images/100167_160_example_1.png",
     "Leetcode/images/100167_160_statement.png",
-    "Dairies/2026-04-13.md",
-    "操作系统/简述 一下 TCP  建立连接和断开连接的过程.md",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
