@@ -313,15 +313,6 @@
       "key": "G"
     }
   ],
-  "obsidian-open-in-other-editor:open-in-other-editor-vscode": [
-    {
-      "modifiers": [
-        "Alt",
-        "Mod"
-      ],
-      "key": "V"
-    }
-  ],
   "leader-hotkeys-obsidian:register-modal": [
     {
       "modifiers": [
@@ -408,5 +399,13 @@
       "key": "I"
     }
   ],
-  "obsidian-auto-link-title:auto-link-title-normal-paste": []
+  "obsidian-auto-link-title:auto-link-title-normal-paste": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "V"
+    }
+  ]
 }

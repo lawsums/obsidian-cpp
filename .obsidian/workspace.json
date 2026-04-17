@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Homepage/Homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "a8fa3bde95b82293",
+            "id": "a6776ebcb42743cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/毕设/论文规划.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "论文规划"
+              "title": "学习C++"
+            }
+          },
+          {
+            "id": "2ace3fd1107b993f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/Qt客户端界面设计.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Qt客户端界面设计"
             }
           },
           {
@@ -78,32 +102,9 @@
               "icon": "lucide-file",
               "title": "毕设规划"
             }
-          },
-          {
-            "id": "2d1e56e7a2e26268",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/毕设/自身框架.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "自身框架"
-            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -232,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/Qt客户端界面设计.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "Qt客户端界面设计 的大纲"
             }
           },
           {
@@ -382,10 +384,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "785bdb28f52d89c6",
+  "active": "2ace3fd1107b993f",
   "lastOpenFiles": [
-    "项目/毕设/论文规划.md",
+    "Templates/Homepage/Qt客户端界面设计.md",
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/Homepage.md",
+    "Dairies/2026-04-17.md",
+    "项目/毕设/毕设规划.md",
     "项目/毕设/自身框架.md",
+    "项目/毕设/论文规划.md",
     "Pandoc/~WRL4067.tmp",
     "Pandoc/~WRD4064.tmp",
     "Pandoc/~$建筑系统框架-罗阳.docx",
@@ -396,14 +403,10 @@
     "Pandoc/~WRD0084.tmp",
     "Pandoc/~WRL1926.tmp",
     "Pandoc/~WRD1922.tmp",
-    "项目/毕设/毕设规划.md",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/100233.八皇后.md",
     "Dairies/实现自己的数据结构.md",
-    "Dairies/2026-04-17.md",
     "Templates/Homepage/手撕内存池.md",
     "Templates/Homepage/面试题系列.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/分布式FastDFS存储集群部署.md",
     "项目/零声云盘/项目行为.md",
     "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",

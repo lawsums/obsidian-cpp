@@ -1,28 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "Qt客户端界面设计",
+      "path": "Templates/Homepage/Qt客户端界面设计.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "论文规划",
-      "path": "项目/毕设/论文规划.md"
-    },
-    {
-      "basename": "自身框架",
-      "path": "项目/毕设/自身框架.md"
+      "basename": "2026-04-17",
+      "path": "Dairies/2026-04-17.md"
     },
     {
       "basename": "毕设规划",
       "path": "项目/毕设/毕设规划.md"
     },
     {
-      "basename": "100233.八皇后",
-      "path": "Leetcode/100233.八皇后.md"
+      "basename": "自身框架",
+      "path": "项目/毕设/自身框架.md"
     },
     {
-      "basename": "2026-04-17",
-      "path": "Dairies/2026-04-17.md"
+      "basename": "论文规划",
+      "path": "项目/毕设/论文规划.md"
+    },
+    {
+      "basename": "100233.八皇后",
+      "path": "Leetcode/100233.八皇后.md"
     },
     {
       "basename": "手撕内存池",
@@ -31,10 +39,6 @@
     {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "分布式FastDFS存储集群部署",
@@ -195,10 +199,6 @@
     {
       "basename": "002_稍后再看",
       "path": "Templates/Homepage/002_稍后再看.md"
-    },
-    {
-      "basename": "做一个小程序显示节点报警状况",
-      "path": "项目/毕设/做一个小程序显示节点报警状况.md"
     }
   ],
   "omittedPaths": [],
