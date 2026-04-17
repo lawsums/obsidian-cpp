@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "ffdf2fd6877202fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/毕设/毕设规划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "毕设规划"
+            }
+          },
+          {
             "id": "2d1e56e7a2e26268",
             "type": "leaf",
             "state": {
@@ -56,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -337,9 +361,18 @@
   },
   "active": "2d1e56e7a2e26268",
   "lastOpenFiles": [
-    "项目/毕设/自身框架.md",
-    "项目/毕设/论文规划.md",
+    "Pandoc/~WRL2772.tmp",
+    "Pandoc/~WRD2768.tmp",
+    "Pandoc/~$框架.docx",
+    "Pandoc/框架.docx",
+    "Pandoc/自身框架~ADCC8.tmp",
+    "Pandoc/~$自身框架.docx",
+    "Pandoc/~WRL3546.tmp",
+    "Pandoc/~WRD3409.tmp",
+    "Pandoc/自身框架.docx",
     "项目/毕设/毕设规划.md",
+    "项目/毕设/论文规划.md",
+    "项目/毕设/自身框架.md",
     "Templates/Homepage/Homepage.md",
     "Leetcode/100233.八皇后.md",
     "Leetcode/100233.八皇后.cpp~",
@@ -364,25 +397,16 @@
     "Attachments/Pasted image 20260414185949.png",
     "Attachments/Pasted image 20260414185942.png",
     "Leetcode/17.电话号码的字母组合.md",
-    "Leetcode/17.电话号码的字母组合.cpp~",
-    "Leetcode/17.电话号码的字母组合.cpp",
     "Leetcode/images/17_1752723054-mfIHZs-image.png",
     "Leetcode/100167.链表相交.md",
     "Dairies/2026-04-14.md",
     "Dairies/2026-04-15.md",
-    "Leetcode/100167.链表相交.cpp",
     "Leetcode/images/100167_160_example_3.png",
     "Leetcode/images/100167_160_example_2.png",
     "Leetcode/images/100167_160_example_1.png",
     "Leetcode/images/100167_160_statement.png",
     "Dairies/2026-04-13.md",
     "操作系统/简述 一下 TCP  建立连接和断开连接的过程.md",
-    "Templates/Homepage/学习esp32s3.md",
-    "语言特性/Golang",
-    "Leetcode/380.O(1) 时间插入、删除和获取随机元素.cpp",
-    "Leetcode/385.迷你语法分析器.cpp",
-    "论文",
-    "项目/零声云盘",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
