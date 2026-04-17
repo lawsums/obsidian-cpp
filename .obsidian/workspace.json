@@ -6,6 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 31.233243967828418,
         "children": [
           {
             "id": "785bdb28f52d89c6",
@@ -128,7 +129,26 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
+      },
+      {
+        "id": "36e9ddfaa9235ce2",
+        "type": "tabs",
+        "dimension": 68.76675603217159,
+        "children": [
+          {
+            "id": "51a3394966693cce",
+            "type": "leaf",
+            "state": {
+              "type": "mx-url-video",
+              "state": {
+                "source": "file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/8.%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%91%E7%9B%98%E9%A1%B9%E7%9B%AE%E4%B8%93%E9%A2%98/8.4Qt%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/%E8%A7%86%E9%A2%91/20200716_%E4%B8%8A.mp4"
+              },
+              "icon": "file-video",
+              "title": "20200716_上"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -258,13 +278,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "用ai产出创意内容 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -372,7 +391,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -408,11 +428,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1158a4340a3c6176",
+  "active": "51a3394966693cce",
   "lastOpenFiles": [
-    "Dairies/2026-04-11.md",
-    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/Qt客户端界面设计.md",
+    "Templates/Homepage/用ai产出创意内容.md",
+    "Dairies/2026-04-11.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-04-17.md",
