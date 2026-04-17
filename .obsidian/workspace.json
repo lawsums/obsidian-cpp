@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "论文规划"
             }
+          },
+          {
+            "id": "2d1e56e7a2e26268",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/毕设/自身框架.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "自身框架"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/毕设/论文规划.md",
+                "file": "项目/毕设/自身框架.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "论文规划 的大纲"
+              "title": "自身框架 的大纲"
             }
           },
           {
@@ -310,10 +335,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "2d1e56e7a2e26268",
   "lastOpenFiles": [
-    "项目/毕设/毕设规划.md",
+    "项目/毕设/自身框架.md",
     "项目/毕设/论文规划.md",
+    "项目/毕设/毕设规划.md",
     "Templates/Homepage/Homepage.md",
     "Leetcode/100233.八皇后.md",
     "Leetcode/100233.八皇后.cpp~",
@@ -352,7 +378,6 @@
     "Dairies/2026-04-13.md",
     "操作系统/简述 一下 TCP  建立连接和断开连接的过程.md",
     "Templates/Homepage/学习esp32s3.md",
-    "Temp/一本玄幻小说.md",
     "语言特性/Golang",
     "Leetcode/380.O(1) 时间插入、删除和获取随机元素.cpp",
     "Leetcode/385.迷你语法分析器.cpp",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "自身框架",
+      "path": "项目/毕设/自身框架.md"
+    },
+    {
       "basename": "论文规划",
       "path": "项目/毕设/论文规划.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "做一个小程序显示节点报警状况",
       "path": "项目/毕设/做一个小程序显示节点报警状况.md"
-    },
-    {
-      "basename": "修改外文翻译",
-      "path": "Dairies/修改外文翻译.md"
     }
   ],
   "omittedPaths": [],
