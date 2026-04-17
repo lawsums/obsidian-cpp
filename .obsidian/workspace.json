@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
-                "mode": "preview",
+                "file": "项目/毕设/论文规划.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "论文规划"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/毕设/论文规划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "论文规划 的大纲"
             }
           },
           {
@@ -312,11 +312,12 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "项目/毕设/毕设规划.md",
+    "项目/毕设/论文规划.md",
+    "Templates/Homepage/Homepage.md",
     "Leetcode/100233.八皇后.md",
     "Leetcode/100233.八皇后.cpp~",
     "Leetcode/100233.八皇后.cpp",
-    "Templates/Homepage/Homepage.md",
-    "项目/毕设/毕设规划.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/2026-04-17.md",
     "Templates/Homepage/手撕内存池.md",

@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "论文规划",
+      "path": "项目/毕设/论文规划.md"
+    },
+    {
+      "basename": "毕设规划",
+      "path": "项目/毕设/毕设规划.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "100233.八皇后",
       "path": "Leetcode/100233.八皇后.md"
-    },
-    {
-      "basename": "毕设规划",
-      "path": "项目/毕设/毕设规划.md"
     },
     {
       "basename": "2026-04-17",
@@ -195,10 +199,6 @@
     {
       "basename": "修改外文翻译",
       "path": "Dairies/修改外文翻译.md"
-    },
-    {
-      "basename": "寻找外文翻译",
-      "path": "Dairies/寻找外文翻译.md"
     }
   ],
   "omittedPaths": [],
