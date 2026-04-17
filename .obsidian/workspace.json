@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "12134b8e64929842",
+            "id": "a8fa3bde95b82293",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,54 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
-            }
-          },
-          {
-            "id": "a8fa3bde95b82293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/毕设/毕设规划.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "毕设规划"
-            }
-          },
-          {
-            "id": "2ebd1c78437fa854",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/手撕内存池.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "手撕内存池"
             }
           }
         ]
@@ -358,7 +310,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "12134b8e64929842",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "项目/毕设/毕设规划.md",
     "Dairies/实现自己的数据结构.md",
