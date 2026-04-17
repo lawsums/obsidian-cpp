@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "项目准备",
+      "path": "项目/零声云盘/项目准备.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "Qt客户端界面设计",
       "path": "Templates/Homepage/Qt客户端界面设计.md"
     },
     {
       "basename": "用ai产出创意内容",
       "path": "Templates/Homepage/用ai产出创意内容.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "Homepage",
@@ -63,10 +67,6 @@
     {
       "basename": "高负载Nginx搭建与使用FastCGI接口编程",
       "path": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md"
-    },
-    {
-      "basename": "项目准备",
-      "path": "项目/零声云盘/项目准备.md"
     },
     {
       "basename": "ai绘画",

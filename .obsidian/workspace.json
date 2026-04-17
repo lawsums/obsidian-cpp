@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
+                "file": "项目/零声云盘/项目准备.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -53,7 +53,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "学习C++"
+              "title": "项目准备"
             }
           },
           {
@@ -430,10 +430,12 @@
   },
   "active": "51a3394966693cce",
   "lastOpenFiles": [
+    "项目/零声云盘/项目准备.md",
+    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Qt客户端界面设计.md",
+    "Dairies/2026-04-18.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/2026-04-11.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-04-17.md",
     "项目/毕设/毕设规划.md",
@@ -459,7 +461,6 @@
     "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
     "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md",
     "Dairies/2026-04-16.md",
-    "项目/零声云盘/项目准备.md",
     "Clippings/解决使用git时遇到Failed to connect to github.com port 443 after 21090 ms Couldn‘t connect to server_git couldn't connect to server-CSDN博客.md",
     "Attachments/Pasted image 20260414202818.png",
     "Software/ai绘画.md",
@@ -471,7 +472,6 @@
     "Leetcode/images/17_1752723054-mfIHZs-image.png",
     "Leetcode/100167.链表相交.md",
     "Dairies/2026-04-14.md",
-    "Dairies/2026-04-15.md",
     "Leetcode/images/100167_160_example_3.png",
     "Leetcode/images/100167_160_example_2.png",
     "Leetcode/images/100167_160_example_1.png",
