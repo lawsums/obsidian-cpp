@@ -347,8 +347,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -387,11 +386,13 @@
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/007_书籍.md",
+    "Templates/Homepage/linux 高性能服务器编程.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/Qt客户端界面设计.md",
     "项目/毕设/论文规划.md",
     "Templates/Homepage/配置vscode_qt.md",
     "Attachments/Pasted image 20260418180811.png",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/005_KTV歌单.md",
     "项目/零声云盘/项目准备.md",
@@ -422,7 +423,6 @@
     "Dairies/2026-04-16.md",
     "Clippings/解决使用git时遇到Failed to connect to github.com port 443 after 21090 ms Couldn‘t connect to server_git couldn't connect to server-CSDN博客.md",
     "Attachments/Pasted image 20260414202818.png",
-    "Software/ai绘画.md",
     "Attachments/Pasted image 20260414200205.png",
     "Attachments/Pasted image 20260414194835.png",
     "Attachments/Pasted image 20260414185949.png",

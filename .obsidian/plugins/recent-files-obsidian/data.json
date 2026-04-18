@@ -9,6 +9,14 @@
       "path": "Templates/Homepage/学习C++.md"
     },
     {
+      "basename": "007_书籍",
+      "path": "Templates/Homepage/007_书籍.md"
+    },
+    {
+      "basename": "linux 高性能服务器编程",
+      "path": "Templates/Homepage/linux 高性能服务器编程.md"
+    },
+    {
       "basename": "Qt客户端界面设计",
       "path": "Templates/Homepage/Qt客户端界面设计.md"
     },
@@ -169,10 +177,6 @@
       "path": "Dairies/实现自己的数据结构.md"
     },
     {
-      "basename": "007_书籍",
-      "path": "Templates/Homepage/007_书籍.md"
-    },
-    {
       "basename": "2026-04-09",
       "path": "Dairies/2026-04-09.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-07",
       "path": "Dairies/2026-04-07.md"
-    },
-    {
-      "basename": "2026-04-08",
-      "path": "Dairies/2026-04-08.md"
     }
   ],
   "omittedPaths": [],
