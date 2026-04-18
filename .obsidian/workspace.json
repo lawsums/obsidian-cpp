@@ -6,7 +6,6 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
-        "dimension": 33.57605177993527,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -129,26 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "6cc863be984f812e",
-        "type": "tabs",
-        "dimension": 66.42394822006472,
-        "children": [
-          {
-            "id": "2a8b39ba3e17a710",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url-video",
-              "state": {
-                "source": "file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/8.%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%91%E7%9B%98%E9%A1%B9%E7%9B%AE%E4%B8%93%E9%A2%98/8.4Qt%E5%AE%A2%E6%88%B7%E7%AB%AF%E7%95%8C%E9%9D%A2%E8%AE%BE%E8%AE%A1/%E8%A7%86%E9%A2%91/20200716_%E4%B8%8B.mp4"
-              },
-              "icon": "file-video",
-              "title": "20200716_下"
-            }
-          }
-        ]
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -278,12 +258,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/学习C++.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "学习C++ 的大纲"
             }
           },
           {
@@ -428,7 +409,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2a8b39ba3e17a710",
+  "active": "7883bd95a74ffd64",
   "lastOpenFiles": [
     "Templates/Homepage/Qt客户端界面设计.md",
     "Attachments/Pasted image 20260418180811.png",
