@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "2b2802c0c33c279d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "用ai产出创意内容"
-            }
-          },
-          {
             "id": "421acc4eba3e3292",
             "type": "leaf",
             "state": {
@@ -103,8 +79,7 @@
               "title": "论文规划"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/配置vscode_qt.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "配置vscode_qt 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -383,11 +358,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "421acc4eba3e3292",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/配置vscode_qt.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "项目/毕设/论文规划.md",
-    "Templates/Homepage/配置vscode_qt.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/005_KTV歌单.md",
     "Templates/Homepage/Qt客户端界面设计.md",

@@ -49,6 +49,10 @@
 	- [ ] 画迷宫 drawMaze
 	- [x] 设计迷宫 dfsGenreate
 - [ ] 小球反弹
+	- [ ] 碰撞机制
+	- [x] 画球
+		- [x] 画布 m_scene
+		- [x] 显示类 m_view
 
 ---
 # 2 规划

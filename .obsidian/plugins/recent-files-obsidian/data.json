@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "配置vscode_qt",
       "path": "Templates/Homepage/配置vscode_qt.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "论文规划",
       "path": "项目/毕设/论文规划.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "005_KTV歌单",
