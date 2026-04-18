@@ -45,7 +45,7 @@
 
 - [ ] 迷宫
 	- [ ] 画迷宫 drawMaze
-	- [ ] 设计迷宫 dfsGenreate
+	- [x] 设计迷宫 dfsGenreate
 - [ ] 
 
 ---
