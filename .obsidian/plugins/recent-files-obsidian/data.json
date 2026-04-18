@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "另一本日_大纲",
+      "path": "Temp/另一本日_大纲.md"
+    },
+    {
+      "basename": "ai绘画",
+      "path": "Software/ai绘画.md"
+    },
+    {
+      "basename": "另一本日式小说",
+      "path": "Temp/另一本日式小说.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -85,10 +97,6 @@
       "path": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md"
     },
     {
-      "basename": "ai绘画",
-      "path": "Software/ai绘画.md"
-    },
-    {
       "basename": "17.电话号码的字母组合",
       "path": "Leetcode/17.电话号码的字母组合.md"
     },
@@ -149,20 +157,12 @@
       "path": "Leetcode/380.O(1) 时间插入、删除和获取随机元素.md"
     },
     {
-      "basename": "另一本日_大纲",
-      "path": "Temp/另一本日_大纲.md"
-    },
-    {
       "basename": "跑通多传感器",
       "path": "Dairies/跑通多传感器.md"
     },
     {
       "basename": "nvim-surround",
       "path": "Software/nvim-surround.md"
-    },
-    {
-      "basename": "另一本日式小说",
-      "path": "Temp/另一本日式小说.md"
     },
     {
       "basename": "385.迷你语法分析器",

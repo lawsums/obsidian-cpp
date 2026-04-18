@@ -8,6 +8,7 @@
 ![[Pasted image 20260414185949.png]]
 ![[Pasted image 20260414185942.png]]
 
+![[Pasted image 20260418223142.png]]
 # 3 风格提示词
 
 ## 3.1 冷色系忧郁油画风
