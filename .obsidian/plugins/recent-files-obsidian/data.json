@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "文件接口设计与Json协议",
+      "path": "Templates/Homepage/文件接口设计与Json协议.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "另一本日_大纲",
       "path": "Temp/另一本日_大纲.md"
     },
@@ -11,14 +23,6 @@
     {
       "basename": "另一本日式小说",
       "path": "Temp/另一本日式小说.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "007_书籍",
@@ -195,10 +199,6 @@
     {
       "basename": "003_不定期任务",
       "path": "Templates/Homepage/003_不定期任务.md"
-    },
-    {
-      "basename": "2026-04-07",
-      "path": "Dairies/2026-04-07.md"
     }
   ],
   "omittedPaths": [],
