@@ -6,6 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 36.48867313915858,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -109,6 +110,7 @@
       {
         "id": "f2adede72d266122",
         "type": "tabs",
+        "dimension": 63.51132686084142,
         "children": [
           {
             "id": "1d6f33f51e2e9c46",
@@ -207,7 +209,7 @@
       {
         "id": "720402d91614d85f",
         "type": "tabs",
-        "dimension": 35.416666666666664,
+        "dimension": 43.0379746835443,
         "children": [
           {
             "id": "96da7d36b59c0c87",
@@ -244,7 +246,7 @@
       {
         "id": "a68226789a184a04",
         "type": "tabs",
-        "dimension": 29.166666666666664,
+        "dimension": 35.44303797468354,
         "children": [
           {
             "id": "7ad080d1a7a76395",
@@ -335,7 +337,7 @@
       {
         "id": "4d5c9ff27afeebb0",
         "type": "tabs",
-        "dimension": 35.416666666666664,
+        "dimension": 21.51898734177215,
         "children": [
           {
             "id": "62a2ab2074b1cb48",
@@ -365,7 +367,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -401,9 +404,45 @@
       "homepage:Open homepage": false
     }
   },
+  "floating": {
+    "id": "176f44e5c9d3eb14",
+    "type": "floating",
+    "children": [
+      {
+        "id": "729c346d2b6c3683",
+        "type": "window",
+        "children": [
+          {
+            "id": "b17a727486033dbb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "f72185b657b8420d",
+                "type": "leaf",
+                "state": {
+                  "type": "timer-view",
+                  "state": {},
+                  "icon": "timer",
+                  "title": "Timer"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 1205,
+        "y": 483,
+        "width": 328,
+        "height": 336,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
   "active": "1d6f33f51e2e9c46",
   "lastOpenFiles": [
     "Templates/Homepage/文件接口设计与Json协议.md",
+    "Dairies/2026-04-19.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
     "Temp/另一本日_大纲.md",
@@ -440,7 +479,6 @@
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/分布式FastDFS存储集群部署.md",
     "项目/零声云盘/项目行为.md",
-    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
     "Attachments/Pasted image 20260414202818.png",
     "Attachments/Pasted image 20260414200205.png",
     "Attachments/Pasted image 20260414194835.png",
