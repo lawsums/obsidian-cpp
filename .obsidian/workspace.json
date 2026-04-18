@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "421acc4eba3e3292",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/配置vscode_qt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "配置vscode_qt"
+            }
+          },
+          {
             "id": "a3a370f6ee657c4c",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "file": "Templates/Homepage/配置vscode_qt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "用ai产出创意内容 的大纲"
+              "title": "配置vscode_qt 的大纲"
             }
           },
           {
@@ -359,10 +383,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2b2802c0c33c279d",
+  "active": "421acc4eba3e3292",
   "lastOpenFiles": [
-    "项目/毕设/论文规划.md",
     "Templates/Homepage/用ai产出创意内容.md",
+    "项目/毕设/论文规划.md",
+    "Templates/Homepage/配置vscode_qt.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/005_KTV歌单.md",
     "Templates/Homepage/Qt客户端界面设计.md",
@@ -402,7 +427,6 @@
     "Attachments/Pasted image 20260414185942.png",
     "Leetcode/17.电话号码的字母组合.md",
     "Leetcode/images/17_1752723054-mfIHZs-image.png",
-    "Leetcode/100167.链表相交.md",
     "Leetcode/images/100167_160_example_3.png",
     "Leetcode/images/100167_160_example_2.png",
     "Leetcode/images/100167_160_example_1.png",

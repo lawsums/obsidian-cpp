@@ -43,10 +43,12 @@
 [C 语言天罡三十六题 - 基础九题（2024-8-17 更新） - CodeBus](https://codebus.cn/yangw/36-tasks-g1)
 
 
+[[配置vscode_qt]]
+
 - [ ] 迷宫
 	- [ ] 画迷宫 drawMaze
 	- [x] 设计迷宫 dfsGenreate
-- [ ] 
+- [ ] 小球反弹
 
 ---
 # 2 规划
