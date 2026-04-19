@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "乱马1 2",
+      "path": "Projects/anime/乱马1 2.md"
+    },
+    {
+      "basename": "文件接口设计与Json协议",
+      "path": "Templates/Homepage/文件接口设计与Json协议.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -11,14 +23,6 @@
     {
       "basename": "100233.八皇后",
       "path": "Leetcode/100233.八皇后.cpp"
-    },
-    {
-      "basename": "文件接口设计与Json协议",
-      "path": "Templates/Homepage/文件接口设计与Json协议.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "另一本日_大纲",
@@ -195,10 +199,6 @@
     {
       "basename": "makefile实战",
       "path": "Templates/Homepage/makefile实战.md"
-    },
-    {
-      "basename": "2026-04-10",
-      "path": "Dairies/2026-04-10.md"
     }
   ],
   "omittedPaths": [],
