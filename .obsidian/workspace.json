@@ -79,8 +79,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/异步日志/项目准备.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "项目准备 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -361,12 +360,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "078268e08c83cfee",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "项目/异步日志/项目准备.md",
     "Attachments/Pasted image 20260419190253.png",
     "Templates/Homepage/学习C++.md",
     "Software/yuque.md",
-    "项目/异步日志/项目准备.md",
     "Dairies/实现自己的数据结构.md",
     "项目/异步日志",
     "Templates/Homepage/Homepage.md",
@@ -408,7 +407,6 @@
     "Attachments/Pasted image 20260414185942.png",
     "Leetcode/images/17_1752723054-mfIHZs-image.png",
     "Leetcode/images/100167_160_example_3.png",
-    "Leetcode/images/100167_160_example_2.png",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
