@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-04-18",
+      "path": "Dairies/2026-04-18.md"
+    },
+    {
       "basename": "基础日志系统讲解",
       "path": "项目/异步日志/基础日志系统讲解.md"
     },
     {
       "basename": "项目准备",
       "path": "项目/异步日志/项目准备.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "学习C++",
@@ -195,10 +199,6 @@
     {
       "basename": "385.迷你语法分析器",
       "path": "Leetcode/385.迷你语法分析器.md"
-    },
-    {
-      "basename": "手撕vector",
-      "path": "操作系统/手撕vector.md"
     }
   ],
   "omittedPaths": [],

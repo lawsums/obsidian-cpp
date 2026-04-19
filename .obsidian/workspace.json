@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/异步日志/基础日志系统讲解.md",
-                "mode": "source",
+                "file": "Templates/Homepage/Homepage.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "基础日志系统讲解"
+              "title": "Homepage"
             }
           },
           {
-            "id": "078268e08c83cfee",
+            "id": "5af7bc7dee91d78d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/异步日志/项目准备.md",
+                "file": "Dairies/2026-04-18.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "项目准备"
-            }
-          },
-          {
-            "id": "07e03b3e77ee887d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习C++"
+              "title": "2026-04-18"
             }
           }
         ]
@@ -154,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -208,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/异步日志/基础日志系统讲解.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基础日志系统讲解 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -295,6 +272,16 @@
         "dimension": 35.416666666666664,
         "children": [
           {
+            "id": "62a2ab2074b1cb48",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
+            }
+          },
+          {
             "id": "5903889d620935a8",
             "type": "leaf",
             "state": {
@@ -306,16 +293,6 @@
               },
               "icon": "lucide-archive",
               "title": "添加笔记属性"
-            }
-          },
-          {
-            "id": "62a2ab2074b1cb48",
-            "type": "leaf",
-            "state": {
-              "type": "timer-view",
-              "state": {},
-              "icon": "timer",
-              "title": "Timer"
             }
           }
         ]
@@ -360,10 +337,11 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-04-18.md",
+    "Templates/Homepage/Homepage.md",
     "Dairies/2026-04-20.md",
     "项目/异步日志/项目准备.md",
     "项目/异步日志/基础日志系统讲解.md",
-    "Templates/Homepage/Homepage.md",
     "Attachments/Pasted image 20260419190253.png",
     "Templates/Homepage/学习C++.md",
     "Software/yuque.md",
@@ -390,7 +368,6 @@
     "项目/毕设/论文规划.md",
     "Templates/Homepage/配置vscode_qt.md",
     "Attachments/Pasted image 20260418180811.png",
-    "Templates/Homepage/005_KTV歌单.md",
     "Pandoc/~WRL4067.tmp",
     "Pandoc/~WRD4064.tmp",
     "Pandoc/~$建筑系统框架-罗阳.docx",
