@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
-                "mode": "preview",
+                "file": "项目/异步日志/基础日志系统讲解.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "基础日志系统讲解"
             }
           },
           {
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/异步日志/基础日志系统讲解.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "基础日志系统讲解 的大纲"
             }
           },
           {
@@ -323,8 +322,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -362,13 +360,15 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-04-20.md",
     "项目/异步日志/项目准备.md",
+    "项目/异步日志/基础日志系统讲解.md",
+    "Templates/Homepage/Homepage.md",
     "Attachments/Pasted image 20260419190253.png",
     "Templates/Homepage/学习C++.md",
     "Software/yuque.md",
     "Dairies/实现自己的数据结构.md",
     "项目/异步日志",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/文件接口设计与Json协议.md",
     "Dairies/2026-04-21.md",
     "Projects/anime/乱马1 2.md",
@@ -391,7 +391,6 @@
     "Templates/Homepage/配置vscode_qt.md",
     "Attachments/Pasted image 20260418180811.png",
     "Templates/Homepage/005_KTV歌单.md",
-    "项目/零声云盘/项目准备.md",
     "Pandoc/~WRL4067.tmp",
     "Pandoc/~WRD4064.tmp",
     "Pandoc/~$建筑系统框架-罗阳.docx",
