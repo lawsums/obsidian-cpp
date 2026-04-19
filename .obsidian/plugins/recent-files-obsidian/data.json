@@ -5,16 +5,20 @@
       "path": "项目/异步日志/项目准备.md"
     },
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "yuque",
+      "path": "Software/yuque.md"
+    },
+    {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "文件接口设计与Json协议",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-09",
       "path": "Dairies/2026-04-09.md"
-    },
-    {
-      "basename": "和znn反馈",
-      "path": "Dairies/和znn反馈.md"
     }
   ],
   "omittedPaths": [],
