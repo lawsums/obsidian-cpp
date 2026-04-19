@@ -30,45 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "8cd13464848cc301",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "用ai产出创意内容"
-            }
-          },
-          {
-            "id": "05dfd6ac456781fc",
-            "type": "leaf",
-            "state": {
-              "type": "ace-code-editor",
-              "state": {
-                "file": "Leetcode/100233.八皇后.cpp"
-              },
-              "icon": "code-xml",
-              "title": "100233.八皇后"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/100233.八皇后.cpp",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "100233.八皇后 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -347,10 +310,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "05dfd6ac456781fc",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/100233.八皇后.cpp",
     "Templates/Homepage/文件接口设计与Json协议.md",
     "Dairies/2026-04-19.md",
     "Templates/Homepage/学习C++.md",
@@ -380,13 +344,11 @@
     "Pandoc/~WRL0092.tmp",
     "Pandoc/~WRD0084.tmp",
     "Pandoc/~WRL1926.tmp",
-    "Pandoc/~WRD1922.tmp",
     "Leetcode/100233.八皇后.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/手撕内存池.md",
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/分布式FastDFS存储集群部署.md",
-    "项目/零声云盘/项目行为.md",
     "Attachments/Pasted image 20260414202818.png",
     "Attachments/Pasted image 20260414200205.png",
     "Attachments/Pasted image 20260414194835.png",
