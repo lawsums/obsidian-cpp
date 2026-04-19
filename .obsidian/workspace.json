@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/实现自己的数据结构.md",
+                "file": "项目/异步日志/项目准备.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "实现自己的数据结构"
+              "title": "项目准备"
             }
           },
           {
@@ -209,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/实现自己的数据结构.md",
+                "file": "项目/异步日志/项目准备.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实现自己的数据结构 的大纲"
+              "title": "项目准备 的大纲"
             }
           },
           {
@@ -361,6 +361,9 @@
   },
   "active": "078268e08c83cfee",
   "lastOpenFiles": [
+    "Dairies/实现自己的数据结构.md",
+    "项目/异步日志/项目准备.md",
+    "项目/异步日志",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/文件接口设计与Json协议.md",
@@ -388,8 +391,6 @@
     "项目/零声云盘/项目准备.md",
     "Dairies/2026-04-18.md",
     "Dairies/2026-04-11.md",
-    "Dairies/2026-04-17.md",
-    "项目/毕设/毕设规划.md",
     "Pandoc/~WRL4067.tmp",
     "Pandoc/~WRD4064.tmp",
     "Pandoc/~$建筑系统框架-罗阳.docx",
@@ -398,7 +399,6 @@
     "Pandoc/~WRD1189.tmp",
     "Pandoc/~WRL0092.tmp",
     "Pandoc/~WRD0084.tmp",
-    "Pandoc/~WRL1926.tmp",
     "Attachments/Pasted image 20260414202818.png",
     "Attachments/Pasted image 20260414200205.png",
     "Attachments/Pasted image 20260414194835.png",

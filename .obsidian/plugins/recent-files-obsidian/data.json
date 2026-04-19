@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "项目准备",
+      "path": "项目/异步日志/项目准备.md"
+    },
+    {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "和znn反馈",
       "path": "Dairies/和znn反馈.md"
-    },
-    {
-      "basename": "makefile实战",
-      "path": "Templates/Homepage/makefile实战.md"
     }
   ],
   "omittedPaths": [],
