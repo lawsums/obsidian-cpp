@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-04-20",
+      "path": "Dairies/2026-04-20.md"
+    },
+    {
+      "basename": "2026-04-19",
+      "path": "Dairies/2026-04-19.md"
+    },
+    {
       "basename": "2026-04-18",
       "path": "Dairies/2026-04-18.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "跑通多传感器",
       "path": "Dairies/跑通多传感器.md"
-    },
-    {
-      "basename": "nvim-surround",
-      "path": "Software/nvim-surround.md"
-    },
-    {
-      "basename": "385.迷你语法分析器",
-      "path": "Leetcode/385.迷你语法分析器.md"
     }
   ],
   "omittedPaths": [],

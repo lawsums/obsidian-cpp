@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "5af7bc7dee91d78d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/2026-04-18.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-18"
-            }
           }
         ]
       }
@@ -337,9 +313,10 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-04-20.md",
+    "Dairies/2026-04-19.md",
     "Dairies/2026-04-18.md",
     "Templates/Homepage/Homepage.md",
-    "Dairies/2026-04-20.md",
     "项目/异步日志/项目准备.md",
     "项目/异步日志/基础日志系统讲解.md",
     "Attachments/Pasted image 20260419190253.png",
@@ -357,7 +334,6 @@
     "Projects/anime/欢迎来到实力至上主义的教室.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Leetcode/100233.八皇后.cpp",
-    "Dairies/2026-04-19.md",
     "Temp/另一本日_大纲.md",
     "Software/ai绘画.md",
     "Attachments/Pasted image 20260418223142.png",
