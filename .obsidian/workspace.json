@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "078268e08c83cfee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/实现自己的数据结构.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "实现自己的数据结构"
+            }
+          },
+          {
             "id": "07e03b3e77ee887d",
             "type": "leaf",
             "state": {
@@ -54,55 +78,9 @@
               "icon": "lucide-file",
               "title": "学习C++"
             }
-          },
-          {
-            "id": "0dadb084e90f71da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/文件接口设计与Json协议.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "文件接口设计与Json协议"
-            }
-          },
-          {
-            "id": "d3c8f2716cf5b1ff",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
-            }
-          },
-          {
-            "id": "31627e3af1696424",
-            "type": "leaf",
-            "state": {
-              "type": "mx-url-video",
-              "state": {
-                "source": "file:///G:/BaiduNetdiskDownload/%E6%95%99%E6%9D%90/%E5%A4%A7%E5%9B%9B%E4%B8%8B/0voice-Linux%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%95%99%E7%A8%8B/8.%E4%BA%92%E8%81%94%E7%BD%91%E4%BA%91%E7%9B%98%E9%A1%B9%E7%9B%AE%E4%B8%93%E9%A2%98/8.5%E6%96%87%E4%BB%B6%E6%8E%A5%E5%8F%A3%E8%AE%BE%E8%AE%A1%E4%B8%8EJson%E5%8D%8F%E8%AE%AE/%E8%A7%86%E9%A2%91/%E6%96%87%E4%BB%B6%E6%8E%A5%E5%8F%A3%E8%AE%BE%E8%AE%A1%E4%B8%8EJson%E5%8D%8F%E8%AE%AE%EF%BC%88%E4%B8%8B%EF%BC%89_mp3.mp4"
-              },
-              "icon": "file-video",
-              "title": "文件接口设计与Json协议（下）_mp3"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -231,12 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Dairies/实现自己的数据结构.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "实现自己的数据结构 的大纲"
             }
           },
           {
@@ -344,8 +323,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -381,17 +359,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d3c8f2716cf5b1ff",
+  "active": "078268e08c83cfee",
   "lastOpenFiles": [
-    "Projects/anime/乱马1 2.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/文件接口设计与Json协议.md",
+    "Dairies/2026-04-21.md",
+    "Projects/anime/乱马1 2.md",
     "Projects/anime/转生成自动贩卖机的我今天也在迷宫徘徊.md",
     "Projects/anime/石纪元.md",
     "Projects/anime/入间同学入魔了 第四季.md",
     "Projects/anime/主播女孩重度依赖.md",
     "Projects/anime/欢迎来到实力至上主义的教室.md",
-    "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Leetcode/100233.八皇后.cpp",
     "Dairies/2026-04-19.md",
@@ -411,7 +390,6 @@
     "Dairies/2026-04-11.md",
     "Dairies/2026-04-17.md",
     "项目/毕设/毕设规划.md",
-    "项目/毕设/自身框架.md",
     "Pandoc/~WRL4067.tmp",
     "Pandoc/~WRD4064.tmp",
     "Pandoc/~$建筑系统框架-罗阳.docx",
