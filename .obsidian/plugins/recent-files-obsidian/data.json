@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "文件接口设计与Json协议",
       "path": "Templates/Homepage/文件接口设计与Json协议.md"
     },
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "另一本日_大纲",
