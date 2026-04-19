@@ -54,9 +54,21 @@
               "icon": "lucide-file",
               "title": "用ai产出创意内容"
             }
+          },
+          {
+            "id": "05dfd6ac456781fc",
+            "type": "leaf",
+            "state": {
+              "type": "ace-code-editor",
+              "state": {
+                "file": "Leetcode/100233.八皇后.cpp"
+              },
+              "icon": "code-xml",
+              "title": "100233.八皇后"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -131,8 +143,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -186,13 +197,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "file": "Leetcode/100233.八皇后.cpp",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "用ai产出创意内容 的大纲"
+              "title": "100233.八皇后 的大纲"
             }
           },
           {
@@ -336,10 +347,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8cd13464848cc301",
+  "active": "05dfd6ac456781fc",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/用ai产出创意内容.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/文件接口设计与Json协议.md",
     "Dairies/2026-04-19.md",
     "Templates/Homepage/学习C++.md",
