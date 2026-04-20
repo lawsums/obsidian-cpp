@@ -79,7 +79,8 @@
               "title": "做一个小程序显示云平台数据和esp32节点报警情况"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/毕设/论文规划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "论文规划 的大纲"
             }
           },
           {
@@ -358,13 +359,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "7472f4c17ca23dc5",
   "lastOpenFiles": [
+    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
+    "Templates/Homepage/Homepage.md",
     "项目/毕设/论文规划.md",
     "Attachments/3.drawio.svg",
     "Attachments/4.drawio 1.svg",
-    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
-    "Templates/Homepage/Homepage.md",
     "项目/毕设/做一个小程序显示节点报警状况.md",
     "Attachments/4.drawio.svg",
     "Attachments/3.svg",
