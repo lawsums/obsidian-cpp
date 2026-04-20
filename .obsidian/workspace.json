@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
+                "file": "项目/毕设/论文规划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "做一个小程序显示云平台数据和esp32节点报警情况 的大纲"
+              "title": "论文规划 的大纲"
             }
           },
           {
@@ -359,14 +359,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1f245dd1192dd53b",
+  "active": "7472f4c17ca23dc5",
   "lastOpenFiles": [
-    "项目/毕设/做一个小程序显示节点报警状况.md",
-    "Templates/Homepage/Homepage.md",
+    "Attachments/3.drawio.svg",
+    "Attachments/4.drawio 1.svg",
+    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
     "项目/毕设/论文规划.md",
+    "Templates/Homepage/Homepage.md",
+    "项目/毕设/做一个小程序显示节点报警状况.md",
     "Attachments/4.drawio.svg",
     "Attachments/3.svg",
-    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
     "Attachments/2.drawio.svg",
     "Attachments/1.drawio 2.svg",
     "Attachments/1.drawio 1.svg",
@@ -405,7 +407,6 @@
     "Pandoc/~WRD1189.tmp",
     "Pandoc/~WRL0092.tmp",
     "Pandoc/~WRD0084.tmp",
-    "Attachments/Pasted image 20260414202818.png",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
