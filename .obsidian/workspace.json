@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "011bdcc97c6514c2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "项目/毕设/做一个小程序显示节点报警状况.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "做一个小程序显示节点报警状况"
-            }
-          },
-          {
             "id": "1f245dd1192dd53b",
             "type": "leaf",
             "state": {
@@ -92,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -221,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/毕设/论文规划.md",
+                "file": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "论文规划 的大纲"
+              "title": "做一个小程序显示云平台数据和esp32节点报警情况 的大纲"
             }
           },
           {
@@ -371,17 +359,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7472f4c17ca23dc5",
+  "active": "1f245dd1192dd53b",
   "lastOpenFiles": [
+    "项目/毕设/做一个小程序显示节点报警状况.md",
+    "Templates/Homepage/Homepage.md",
+    "项目/毕设/论文规划.md",
+    "Attachments/4.drawio.svg",
     "Attachments/3.svg",
     "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
-    "项目/毕设/做一个小程序显示节点报警状况.md",
-    "项目/毕设/论文规划.md",
     "Attachments/2.drawio.svg",
     "Attachments/1.drawio 2.svg",
     "Attachments/1.drawio 1.svg",
     "Attachments/1.drawio.svg",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-04-20.md",
     "Dairies/2026-04-19.md",
     "Dairies/2026-04-18.md",
@@ -417,8 +406,6 @@
     "Pandoc/~WRL0092.tmp",
     "Pandoc/~WRD0084.tmp",
     "Attachments/Pasted image 20260414202818.png",
-    "Attachments/Pasted image 20260414200205.png",
-    "Attachments/Pasted image 20260414194835.png",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]

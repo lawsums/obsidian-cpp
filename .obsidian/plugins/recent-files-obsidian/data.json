@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "论文规划",
-      "path": "项目/毕设/论文规划.md"
-    },
-    {
       "basename": "做一个小程序显示云平台数据和esp32节点报警情况",
       "path": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md"
     },
@@ -15,6 +11,10 @@
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "论文规划",
+      "path": "项目/毕设/论文规划.md"
     },
     {
       "basename": "2026-04-20",
