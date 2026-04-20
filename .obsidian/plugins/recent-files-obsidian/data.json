@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "100233.八皇后",
+      "path": "Leetcode/100233.八皇后.cpp"
+    },
+    {
       "basename": "论文规划",
       "path": "项目/毕设/论文规划.md"
     },
     {
       "basename": "基础日志系统讲解",
       "path": "项目/异步日志/基础日志系统讲解.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "做一个小程序显示云平台数据和esp32节点报警情况",
@@ -59,10 +63,6 @@
     {
       "basename": "用ai产出创意内容",
       "path": "Templates/Homepage/用ai产出创意内容.md"
-    },
-    {
-      "basename": "100233.八皇后",
-      "path": "Leetcode/100233.八皇后.cpp"
     },
     {
       "basename": "另一本日_大纲",

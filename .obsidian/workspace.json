@@ -103,8 +103,7 @@
               "title": "做一个小程序显示云平台数据和esp32节点报警情况"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/毕设/论文规划.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "论文规划 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -383,11 +382,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7472f4c17ca23dc5",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Leetcode/100233.八皇后.cpp",
+    "项目/毕设/论文规划.md",
     "项目/异步日志/基础日志系统讲解.md",
     "Templates/Homepage/Homepage.md",
-    "项目/毕设/论文规划.md",
     "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
     "Attachments/3.drawio.svg",
     "Attachments/4.drawio 1.svg",
@@ -416,7 +416,6 @@
     "Projects/anime/主播女孩重度依赖.md",
     "Projects/anime/欢迎来到实力至上主义的教室.md",
     "Templates/Homepage/用ai产出创意内容.md",
-    "Leetcode/100233.八皇后.cpp",
     "Temp/另一本日_大纲.md",
     "Software/ai绘画.md",
     "Attachments/Pasted image 20260418223142.png",
