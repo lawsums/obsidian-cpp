@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "f627866ea53c87bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/异步日志/基础日志系统讲解.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "基础日志系统讲解"
+            }
+          },
+          {
             "id": "7472f4c17ca23dc5",
             "type": "leaf",
             "state": {
@@ -79,8 +103,7 @@
               "title": "做一个小程序显示云平台数据和esp32节点报警情况"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/毕设/论文规划.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "论文规划 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -359,11 +382,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7472f4c17ca23dc5",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
+    "项目/异步日志/基础日志系统讲解.md",
     "Templates/Homepage/Homepage.md",
     "项目/毕设/论文规划.md",
+    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
     "Attachments/3.drawio.svg",
     "Attachments/4.drawio 1.svg",
     "项目/毕设/做一个小程序显示节点报警状况.md",
@@ -377,7 +401,6 @@
     "Dairies/2026-04-19.md",
     "Dairies/2026-04-18.md",
     "项目/异步日志/项目准备.md",
-    "项目/异步日志/基础日志系统讲解.md",
     "Attachments/Pasted image 20260419190253.png",
     "Templates/Homepage/学习C++.md",
     "Software/yuque.md",
