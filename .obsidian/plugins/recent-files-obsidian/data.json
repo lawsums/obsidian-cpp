@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "论文规划",
+      "path": "项目/毕设/论文规划.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "做一个小程序显示节点报警状况",
-      "path": "项目/毕设/做一个小程序显示节点报警状况.md"
-    },
-    {
       "basename": "2026-04-20",
       "path": "Dairies/2026-04-20.md"
+    },
+    {
+      "basename": "做一个小程序显示节点报警状况",
+      "path": "项目/毕设/做一个小程序显示节点报警状况.md"
     },
     {
       "basename": "做一个小程序显示云平台数据和esp32节点报警情况",
@@ -83,10 +87,6 @@
     {
       "basename": "Qt客户端界面设计",
       "path": "Templates/Homepage/Qt客户端界面设计.md"
-    },
-    {
-      "basename": "论文规划",
-      "path": "项目/毕设/论文规划.md"
     },
     {
       "basename": "配置vscode_qt",
