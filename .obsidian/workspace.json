@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -374,6 +373,7 @@
   },
   "active": "7472f4c17ca23dc5",
   "lastOpenFiles": [
+    "Attachments/3.svg",
     "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
     "项目/毕设/做一个小程序显示节点报警状况.md",
     "项目/毕设/论文规划.md",
@@ -407,7 +407,6 @@
     "Attachments/Pasted image 20260418223142.png",
     "Temp/另一本日式小说.md",
     "Templates/Homepage/007_书籍.md",
-    "Templates/Homepage/linux 高性能服务器编程.md",
     "Attachments/Pasted image 20260418180811.png",
     "Pandoc/~WRL4067.tmp",
     "Pandoc/~WRD4064.tmp",
