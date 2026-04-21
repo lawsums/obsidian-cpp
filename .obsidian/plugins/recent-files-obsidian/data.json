@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "软件开发",
+      "path": "Software/软件开发.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -9,16 +13,20 @@
       "path": "项目/异步日志/基础日志系统讲解.md"
     },
     {
-      "basename": "2026-04-20",
-      "path": "Dairies/2026-04-20.md"
-    },
-    {
       "basename": "做一个小程序显示云平台数据和esp32节点报警情况",
       "path": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md"
     },
     {
       "basename": "论文规划",
       "path": "项目/毕设/论文规划.md"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
+    },
+    {
+      "basename": "2026-04-20",
+      "path": "Dairies/2026-04-20.md"
     },
     {
       "basename": "100233.八皇后",
@@ -191,14 +199,6 @@
     {
       "basename": "规划紫金山路线",
       "path": "Dairies/规划紫金山路线.md"
-    },
-    {
-      "basename": "2026-04-11",
-      "path": "Dairies/2026-04-11.md"
-    },
-    {
-      "basename": "380.O(1) 时间插入、删除和获取随机元素",
-      "path": "Leetcode/380.O(1) 时间插入、删除和获取随机元素.md"
     }
   ],
   "omittedPaths": [],

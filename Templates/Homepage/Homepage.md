@@ -6,7 +6,7 @@ tags:
 excalidraw-open-md: true
 number headings: off
 ---
-`BUTTON[light-button, week-notes-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`   `BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button, studyRoad-button, cppStudy-button]`
+`BUTTON[light-button, week-notes-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`   `BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button, studyRoad-button, cppStudy-button]` `BUTTON[software-develop]`
 
 ## 0.1 今天/昨日待办
 ````columns
@@ -211,6 +211,23 @@ label: 打开anki
 action:
   type: open
   link: file:///E:\Anki\anki.exe
+```
+```meta-bind-button
+label: 软件开发
+id: software-develop
+icon: ""
+style: default
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: ""
+hidden: false
+actions:
+  - type: open
+    link: "[[软件开发]]"
+    newTab: true
+
 ```
 # 1 Excalidraw Data
 

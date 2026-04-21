@@ -46,6 +46,14 @@ https://iam.cn-east-3.myhuaweicloud.com/v3/auth/tokens
 }
 ```
 
+| 键        | 值                  |
+| --------- | ------------------- |
+| 用户密码  | zxcvbn1325796       |
+| IAM用户名 | ABC                 |
+| 账户名    | hid_2pn3upg1c2kq2ux |
+| 区域      | cn-east-3                    |
+
+
 ## 1.2 获取影子数据
 Headers 里面添加
 ![[Pasted image 20260413230800.png]]
@@ -58,3 +66,28 @@ GET
 https://95715b4c27.st1.iotda-app.cn-east-3.myhuaweicloud.com/v5/iot/dc4853d458ef43b390cb7887faeeea34/devices/69b6a63418855b39c5037df3_TEST/shadow
 ```
 
+---
+# 信息
+
+```undefined
+1.IAM用户名  ABC
+
+2.账号名  hid_2pn3upg1c2kq2ux
+
+3.账号密码  zxcvbn1325796
+
+4.项目ID  dc4853d458ef43b390cb7887faeeea34
+
+5.实例ID  63d67b7c-e846-4413-ae99-0b9dee53f894
+
+6.区域   cn-east-3
+ 
+7.设备ID  69b6a63418855b39c5037df3_TEST
+
+8.设备密钥  zxcvbn1325796
+
+9.应用http地址  95715b4c27.st1.iotda-app.cn-east-3.myhuaweicloud.com
+
+10.服务ID  TEST
+
+```
