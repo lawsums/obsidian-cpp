@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "470d5a49615df18c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/2026-04-21.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-21"
-            }
-          },
-          {
             "id": "fab7a66924da3a53",
             "type": "leaf",
             "state": {
@@ -384,10 +360,10 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "项目/异步日志/基础日志系统讲解.md",
     "Dairies/2026-04-21.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-04-22.md",
-    "项目/异步日志/基础日志系统讲解.md",
     "项目/毕设/加入模板.md",
     "项目/毕设/论文规划.md",
     "项目/毕设/代码.md",
