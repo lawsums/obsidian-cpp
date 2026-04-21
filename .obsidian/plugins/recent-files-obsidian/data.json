@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-04-20",
-      "path": "Dairies/2026-04-20.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-04-20",
+      "path": "Dairies/2026-04-20.md"
     },
     {
       "basename": "做一个小程序显示云平台数据和esp32节点报警情况",
