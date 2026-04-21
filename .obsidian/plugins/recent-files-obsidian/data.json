@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "加入模板",
+      "path": "项目/毕设/加入模板.md"
+    },
+    {
       "basename": "论文规划",
       "path": "项目/毕设/论文规划.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "自制galgame",
       "path": "Templates/Homepage/自制galgame.md"
-    },
-    {
-      "basename": "规划紫金山路线",
-      "path": "Dairies/规划紫金山路线.md"
     }
   ],
   "omittedPaths": [],
