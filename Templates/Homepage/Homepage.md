@@ -214,14 +214,13 @@ action:
 ```
 ```meta-bind-button
 label: 软件开发
-id: software-develop
 icon: ""
 style: default
 class: ""
 cssStyle: ""
 backgroundImage: ""
 tooltip: ""
-id: ""
+id: software-develop
 hidden: false
 actions:
   - type: open
