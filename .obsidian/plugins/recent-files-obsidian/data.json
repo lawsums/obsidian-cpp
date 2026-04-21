@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "加入模板",
+      "path": "项目/毕设/加入模板.md"
+    },
+    {
       "basename": "论文规划",
       "path": "项目/毕设/论文规划.md"
     },
     {
-      "basename": "加入模板",
-      "path": "项目/毕设/加入模板.md"
+      "basename": "代码",
+      "path": "项目/毕设/代码.md"
     },
     {
       "basename": "基础日志系统讲解",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-12",
       "path": "Dairies/2026-04-12.md"
-    },
-    {
-      "basename": "自制galgame",
-      "path": "Templates/Homepage/自制galgame.md"
     }
   ],
   "omittedPaths": [],
