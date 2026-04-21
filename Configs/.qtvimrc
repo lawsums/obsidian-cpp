@@ -1,0 +1,190 @@
+" "
+" ===================== 基础配置 =====================
+" 设置当前模式
+set showmode
+
+" 共享系统剪贴板（重复配置已合并）
+set clipboard=unnamed
+" set clipboard=unnamedplus  " 如需兼容更多系统可启用
+
+" 行号配置
+set number                  " 显示绝对行号
+set relativenumber          " 显示相对行号
+
+" 历史记录
+set history=2000
+
+" 关闭vi兼容模式
+set nocompatible
+
+" 语法高亮
+syntax enable
+syntax on
+
+" 搜索优化
+set incsearch               " 实时增量搜索
+set hlsearch                " 搜索结果高亮
+set ignorecase              " 忽略大小写（配合smartcase）
+set smartcase               " 智能大小写（输入大写时强制区分）
+
+" 界面优化
+set wildmenu                " 命令行智能补全
+set laststatus=2            " 始终显示状态栏
+set ruler                   " 显示光标位置
+set cursorline              " 高亮当前行
+" set cursorcolumn           " 高亮当前列（按需启用）
+set nowrap                  " 禁止折行
+
+" 缩进配置
+set expandtab               " 制表符替换为空格
+set tabstop=4               " 编辑时制表符占4空格
+set shiftwidth=4            " 格式化时制表符占4空格
+set softtabstop=4           " 连续空格视为制表符
+
+" 代码折叠
+set foldmethod=syntax       " 基于语法折叠（覆盖indent）
+set nofoldenable            " 启动时关闭折叠
+
+" ===================== 核心映射（全部用<space>） =====================
+" 取消搜索高亮（空格+l）
+nnoremap <silent> <space>l :<C-u>nohlsearch<CR><C-l>
+
+" ===================== 移动相关 =====================
+" 缓冲区切换（空格+[b / 空格+]b）
+nnoremap <silent> [b :w<CR>:bprevious<CR>
+nnoremap <silent> ]b :w<CR>:bnext<CR>
+
+" 行首/行尾（H/L）
+nnoremap H ^
+vnoremap H ^
+nnoremap L $
+vnoremap L $
+
+" 撤销撤销
+nnoremap U <C-r>
+
+" 代码跳转（空格+t / 空格+T）
+map <space>t :goback<CR>
+nmap <space>T <C-t>
+
+" 标签页切换（gn=gt 前进 / gp=gT 后退）
+nmap gn gt
+nmap gp gT
+
+" 快速移动（空格+j 合并行 / J=5行下 / K=5行上）
+nnoremap <space>j J
+nnoremap J 5gj
+nnoremap K 5gk
+
+" ===================== 文件操作 =====================
+" 关闭窗口（空格+q）
+nnoremap <space>q :wq<CR>
+
+" 保存文件（空格+w）
+nnoremap <space>w :w<CR>
+
+" ===================== 窗口操作 =====================
+" 窗口切换（Ctrl+j/k/h/l）
+"map <C-j> <C-W>j
+"map <C-k> <C-W>k
+"map <C-h> <C-W>h
+"map <C-l> <C-W>l
+map <Space>j <C-W>j
+map <Space>k <C-W>k
+map <Space>h <C-W>h
+map <Space>l <C-W>l
+
+" ===================== Qt Creator 专属功能 =====================
+" 运行（空格+r）
+map <space>r :run<CR>
+
+" 帮助
+map <space>h :context<CR>
+
+" 构建（空格+b）
+map <space>b :build<CR>
+
+" 调试（空格+d）
+map <space>d :debug<CR>
+
+"" 复制（空格+c）
+map <space>c :copy<CR>
+
+" 补全
+"map <space>c :completethis<CR>
+
+" 粘贴（空格+v）
+map <space>v :paste<CR>
+
+" 剪切（空格+x）
+map <space>x :cut<CR>
+
+" 全选（空格+a）
+map <space>a :selectall<CR>
+
+" 代码格式化（空格+f）
+map <space>f :reformatcode<CR>
+
+" 查找用法（空格+u）
+map <space>u :findusages<CR>
+
+" 切换文件树（空格+n）
+map <space>n :toggleProjects<CR>
+
+" 替换（空格+逗号）
+map <space>, :replace<CR>
+
+" 切换头/源文件
+map <space>s :switchheadersource<CR>
+
+" 转到定义
+map gd :gotodefinition<CR>
+
+" ===================== 注释相关 =====================
+nmap gcc :comment<CR>
+nmap gcf va}:comment<CR>
+nmap gcap V}:comment<CR>
+vnoremap gc :comment<CR>
+
+" ===================== 退出优化 =====================
+" 插入/可视模式下jk映射为Esc
+inoremap <Esc> <Esc>
+inoremap jk <Esc>
+vnoremap jk <Esc>
+
+" ===================== 系统剪贴板 =====================
+" Ctrl+A 全选
+nnoremap <C-a> ggVG
+inoremap <C-a> <C-o>gg<C-o>VG
+vnoremap <C-a> <Esc>ggVG
+
+" Ctrl+C 复制
+vnoremap <C-c> +y
+vnoremap <C-C> +y
+
+" Ctrl+X 剪切
+vnoremap <C-x> +d
+vnoremap <C-X> +d
+
+" 块选择（Ctrl+Q）
+nnoremap <C-q> <C-v>
+
+" Ctrl+V 粘贴
+nnoremap <C-v> "+P
+inoremap <C-v> <C-o>"+P
+vnoremap <C-v> <Esc>"+P
+cnoremap <C-v> <C-r>+
+
+" Ctrl+Z 撤销
+nnoremap <C-z> u
+inoremap <C-z> <C-o>u
+vnoremap <C-z> <Esc>u
+
+" Ctrl+S 保存
+nnoremap <C-s> :w<CR>
+inoremap <C-s> <C-o>:w<CR>
+vnoremap <C-s> <Esc>:w<CR>
+cnoremap <C-s> <C-c>:w<CR>
+
+" 可选：保留空格的基础移动功能（单按空格右移光标）
+" nnoremap <space> <Right>

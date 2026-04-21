@@ -1,0 +1,360 @@
+" ===========================================
+"            基础 Vim 设置 (Windows 适配版)
+" ===========================================
+
+" Windows Terminal/现代终端)
+if has('termguicolors')
+    set termguicolors
+endif
+
+
+" 设置字体和大小（Windows）
+" set guifont=Monospace\ 20
+set guifont=Microsoft\ YaHei\ Mono:h16 
+
+" 启用行号显示
+set number
+" 启用相对行号显示 (方便 hjkl 配合数字移动)
+set relativenumber
+
+" 设置滚动偏移量，确保光标周围总有上下文可见
+set scrolloff=5
+
+" 启用增量搜索，实时高亮匹配结果
+set incsearch
+" 搜索时忽略大小写
+set ignorecase
+" 搜索时智能大小写 (如果有大写字母则区分大小写)
+set smartcase
+
+" 设置 Tab 键和缩进的宽度为 4 个空格
+set tabstop=4
+set shiftwidth=4
+" 将 Tab 转换为空格
+set expandtab
+" 启用自动缩进
+set autoindent
+" 启用智能缩进
+set smartindent
+
+"以下三行关闭响铃，也关闭闪烁
+set noerrorbells
+set novisualbell
+set vb t_vb=
+
+" 高亮显示光标所在行
+set cursorline
+
+" 允许退格键删除任何字符 (包括自动缩进、行尾符等)
+set backspace=indent,eol,start
+
+" Windows 特定设置
+" 设置编码为 UTF-8
+set encoding=utf-8
+set fileencoding=utf-8
+" 设置文件格式为 Unix 风格 (避免换行符问题)
+set fileformat=unix
+" 启用语法高亮
+syntax on
+" 启用文件类型检测和插件
+filetype plugin on
+
+" ===========================================
+"            Vim-Plug 插件管理
+" ===========================================
+
+" 设置运行时路径以包含 vimfiles
+set rtp+=$HOME/vimfiles/autoload
+
+" 初始化插件系统
+call plug#begin('~/vimfiles/plugged')"
+" call plug#begin('C:/Users/Hello/.vim/plugged')
+
+" 高亮显示最近复制 (yank) 的文本
+Plug 'machakann/vim-highlightedyank'
+
+" 快速注释/取消注释代码
+Plug 'tpope/vim-commentary'
+
+" 处理环绕字符 (括号、引号等)
+Plug 'tpope/vim-surround'
+
+" 快速跳转
+Plug 'easymotion/vim-easymotion'
+
+" 文件浏览器
+Plug 'preservim/nerdtree'
+
+" 语法高亮增强（支持500+语言）
+Plug 'sheerun/vim-polyglot'
+
+" 缩进指南线
+Plug 'Yggdroot/indentLine'
+
+" 自动括号配对
+Plug 'jiangmiao/auto-pairs'
+
+" 格式化代码
+Plug 'vim-autoformat/vim-autoformat'
+
+" ================================================= 写代码相关插件
+" 智能自动补全（需要Node.js）
+" Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
+" 语法检查
+" Plug 'dense-analysis/ale'
+
+
+" " Python代码格式化
+" Plug 'tell-k/vim-autopep8'
+
+" " Python语法检查
+" Plug 'nvie/vim-flake8'
+
+" " 快速文件搜索
+" Plug 'ctrlpvim/ctrlp.vim'
+
+" Git集成（最好用的Git插件）
+" Plug 'tpope/vim-fugitive'
+" =================================================
+
+" 标签列表 (显示函数/类等结构)
+" Plug 'vim-scripts/taglist.vim'
+
+" 自动补全支持
+" Plug 'skywind3000/vim-auto-popmenu'
+" Plug 'skywind3000/vim-dict'
+
+" 状态栏美化
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+
+" 彩虹括号
+Plug 'kien/rainbow_parentheses.vim'
+
+Plug 'tomasr/molokai'           " 流行的 Molokai 主题
+Plug 'altercation/vim-colors-solarized' " Solarized 主题
+Plug 'joshdick/onedark.vim'     " One Dark 主题
+Plug 'morhetz/gruvbox'          " Gruvbox 主题
+
+call plug#end()
+
+" ===========================================
+"            常用快捷键映射
+" ===========================================
+
+" 定义 leader 键
+let mapleader = " "
+let g:mapleader = " "
+
+" --- 快速退出插入/可视模式 ---
+imap jk <Esc>
+vmap jk <Esc>
+imap <C-[> <Esc>
+vmap <C-[> <Esc>
+
+" 重做 (撤销"撤销")
+nnoremap U <C-r>
+
+" --- 保存/退出快捷键 ---
+nmap <leader>w :w<CR>
+nmap <leader>q :wq<CR>
+nmap <leader>Q :q!<CR>
+
+" --- 行首/行尾导航 ---
+" Home 键到行首第一个非空白字符
+nmap H ^
+" End 键到行尾
+nmap L $
+
+" --- 选中整个文件 ---
+nmap <leader>a ggVG
+
+" --- 代码折叠 ---
+nmap <leader>z za
+set foldmethod=indent
+set foldenable
+
+" --- 代码编译 --- 
+nnoremap <F4> :wa<CR>
+nnoremap <F5> :wa<CR>:!g++ % -o /tmp/a.exe && /tmp/a.exe<CR>
+nnoremap <F8> :sh<CR>
+
+" ===========================================
+"            插件配置
+" ===========================================
+
+" --- vim-highlightedyank ---
+" 设置高亮持续时间 (毫秒)
+let g:highlightedyank_highlight_duration = 300
+
+" --- vim-commentary ---
+" 已经自动配置，无需额外设置
+
+" --- NERDTree 配置 ---
+" 打开/关闭文件树
+nmap <leader>n :NERDTreeToggle<CR>
+" 如果唯一窗口是NERDTree则自动关闭
+autocmd BufEnter * if (winnr("$") == 1 && exists("b:NERDTree") && b:NERDTree.isTabTree()) | q | endif
+" 窗口切换
+nnoremap <C-h> <C-w>h
+nnoremap <C-j> <C-w>j
+nnoremap <C-k> <C-w>k
+nnoremap <C-l> <C-w>l
+
+" --- taglist.vim 配置 ---
+" 需要先安装 ctags (下载地址: https://github.com/universal-ctags/ctags-win32)
+" let Tlist_Use_Right_Window = 1
+" let Tlist_Exit_OnlyWindow = 1
+" nmap <leader>t :TlistToggle<CR>
+
+" --- easymotion 配置 ---
+let g:EasyMotion_leader_key = '<Leader>'
+" 单词内跳转
+" nmap <Leader>w <Plug>(easymotion-w)
+nmap <Leader>e <Plug>(easymotion-e)
+nmap <Leader>b <Plug>(easymotion-b)
+" 行内跳转
+nmap <Leader>j <Plug>(easymotion-j)
+nmap <Leader>k <Plug>(easymotion-k)
+" 搜索字符跳转
+nmap <Leader>s <Plug>(easymotion-s)
+
+" --- autoformat 配置
+" ===================== clang-format 谷歌风格配置 =====================
+" 1. 定义谷歌风格的 clang-format 格式化命令（必须用 g:formatdef_xxx 前缀）
+let g:formatdef_clangformat_google = '"clang-format -style google -"'
+let g:formatdef_clangformat_kr = '"clang-format -style kr -"'
+let g:formatdef_clangformat_global = '"clang-format -style=file -"'
+
+" 2. 为 C++ 注册格式化器（必须是「列表类型」，插件才识别）
+let g:formatters_cpp = ['clangformat_global']  " 重点：用 [] 列表，而非 {} 字典
+
+
+" " 1. 定义格式化器（动态拼接缩进宽度，&shiftwidth 是 Vim 当前缓冲区的缩进宽度）
+" " 核心：用双引号包裹表达式，可嵌入 Vim 变量（文档示例的写法）
+" let g:formatdef_clangformat_google = '"clang-format -style={BasedOnStyle: Google, IndentWidth: ' . &shiftwidth . ', UseTab: Never} -"'
+
+" " 2. 绑定到 C++ 文件类型（覆盖默认格式化器）
+" let g:formatters_cpp = ['clangformat_google']
+
+
+
+" 保存时自动格式化所有文件类型（已配置格式化器的生效，未配置的用 Vim 原生缩进）
+" autocmd BufWrite * :Autoformat
+
+" 仅对 C++ 等特定文件类型生效（更精准，推荐）
+autocmd BufWrite *.cpp,*.h,*.hpp,*.cc :Autoformat
+
+" ===================== 自动格式化核心配置 =====================
+" let g:autoformat_autoindent = 1          " 启用自动缩进
+" let g:autoformat_retab = 1              " 启用制表符转换（按 shiftwidth 规则）
+" let g:autoformat_remove_trailing_spaces = 0  " 禁用移除行尾空格（保持原配置）
+" let g:autoformat_verbosemode = 1        " 启用详细日志（显示格式化过程）
+" let g:autoformat = 1                    " 全局启用自动格式化（插件核心开关）
+
+" ===================== 保存时自动触发格式化 =====================
+" 方式1：使用插件自带的保存触发（推荐，兼容性更好）
+" let g:autoformat_on_save = 1            " 开启「保存时自动格式化」（vim-autoformat 插件原生支持）
+
+" 方式2：手动通过 autocmd 监听保存事件（备用方案，与方式1二选一即可）
+" autocmd BufWritePre *.cpp,*.h,*.hpp :Autoformat  " 仅对 C++ 相关文件生效
+" 说明：BufWritePre = 保存前触发，支持多文件类型用逗号分隔（如 *.cpp,*.h,*.cc）
+
+" ===================== 手动格式化快捷键（保留原功能） =====================
+nnoremap <leader>i :Autoformat<CR>          " <leader>+i 手动触发格式化
+
+
+" ===========================================
+"            Windows 特定功能和替代方案
+" ===========================================
+
+" 查找文件中的文本 (替代 IDE 的 Find Usages)
+" nmap <leader>f :grep -r "<C-R><C-W>" .<CR>:copen<CR>
+
+" 格式化代码 (需要安装外部格式化工具，如 astyle、clang-format 等)
+" nmap <leader>f :!astyle --style=linux %<CR>
+
+" 运行当前文件 (根据文件类型)
+autocmd FileType python nmap <leader>r :!python %<CR>
+autocmd FileType javascript nmap <leader>r :!node %<CR>
+" autocmd FileType cpp nmap <leader>r :!g++ -std=c++11 % -o %:r && %:r<CR>
+autocmd FileType cpp nmap <leader>r :!cmd.exe /c "chcp 65001 >nul && g++ -std=c++11 % -o %:r && %:r"<CR>
+
+" Python列表转C++格式的映射 (保留)
+nnoremap <leader>cpp :s/\[/{/g<CR>:s/\]/}/g<CR>:s/\([0-9]\)\([,}]\)/\1,\2/g<CR>:s/,\([},]\)/\1/g<CR>
+
+
+" 使用系统剪贴板
+set clipboard=unnamed
+
+" 使用系统剪贴板
+" set clipboard=unnamedplus  " unnamedplus允许直接使用系统剪贴板
+
+" Ctrl+A - 全选
+nnoremap <C-a> ggVG
+inoremap <C-a> <C-o>gg<C-o>VG
+vnoremap <C-a> <Esc>ggVG
+
+" Ctrl+C - 复制选中内容
+vnoremap <C-c> "+y
+" 兼容大小写
+vnoremap <C-C> "+y  
+
+" Ctrl+X - 剪切选中内容
+vnoremap <C-x> "+d
+" 兼容大小写
+vnoremap <C-X> "+d  
+
+" Ctrl+V - 粘贴
+nnoremap <C-v> "+P
+inoremap <C-v> <C-o>"+P
+" 可视模式下 <C-v>：用系统剪贴板替换选区，不保存旧内容到寄存器
+vnoremap <silent> <C-v> "_d"+P
+" 从可视模式退出到普通模式后粘贴
+"vnoremap <C-v> <Esc>"+P  
+" 命令行模式下粘贴
+cnoremap <C-v> <C-r>+ 
+
+" Ctrl+Z - 撤销上一步操作
+nnoremap <C-z> u
+inoremap <C-z> <C-o>u
+vnoremap <C-z> <Esc>u
+
+" Ctrl+S - 保存当前文件
+nnoremap <C-s> :w<CR>
+inoremap <C-s> <C-o>:w<CR>
+vnoremap <C-s> <Esc>:w<CR>
+cnoremap <C-s> <C-c>:w<CR>
+
+
+" ===========================================
+"            其他实用设置
+" ===========================================
+
+" 显示当前模式
+set showmode
+" 显示命令
+set showcmd
+" 显示匹配的括号
+set showmatch
+" 启用鼠标支持 (Windows 上很有用)
+" set mouse=a
+
+
+" 开启256色支持
+" set t_Co=256               
+" 设置颜色方案 (Windows Vim 通常有几种内置方案)
+try
+    " colorscheme molokai
+    colorscheme onedark
+catch
+    " 如果方案不存在，使用默认
+endtry
+
+
+
+" 设置状态行
+set laststatus=2
+set statusline=%F%m%r%h%w\ [FORMAT=%{&ff}]\ [TYPE=%Y]\ [POS=%l,%v][%p%%]\ %{strftime(\"%y/%m/%d\ -\ %H:%M\")}
+

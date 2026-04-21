@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "84c7f75af5f2a2e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/软件开发.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "软件开发"
-            }
-          },
-          {
             "id": "fab7a66924da3a53",
             "type": "leaf",
             "state": {
@@ -78,8 +54,33 @@
               "icon": "lucide-file",
               "title": "基础日志系统讲解"
             }
+          },
+          {
+            "id": "1d8a7bd3ef5dc426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/毕设/论文规划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "论文规划"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/毕设/论文规划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "论文规划 的大纲"
             }
           },
           {
@@ -287,24 +288,13 @@
               "title": "Homepage的笔记属性"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "4d5c9ff27afeebb0",
         "type": "tabs",
         "dimension": 35.41666666666667,
         "children": [
-          {
-            "id": "62a2ab2074b1cb48",
-            "type": "leaf",
-            "state": {
-              "type": "timer-view",
-              "state": {},
-              "icon": "timer",
-              "title": "Timer"
-            }
-          },
           {
             "id": "5903889d620935a8",
             "type": "leaf",
@@ -317,6 +307,16 @@
               },
               "icon": "lucide-archive",
               "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "62a2ab2074b1cb48",
+            "type": "leaf",
+            "state": {
+              "type": "timer-view",
+              "state": {},
+              "icon": "timer",
+              "title": "Timer"
             }
           }
         ]
@@ -359,14 +359,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "823296351c3bd45e",
+  "active": "62a2ab2074b1cb48",
   "lastOpenFiles": [
-    "Software/软件开发.md",
-    "Templates/Homepage/Homepage.md",
     "项目/异步日志/基础日志系统讲解.md",
-    "Configs/_vimrc",
-    "Configs/_gvimrc",
+    "Templates/Homepage/Homepage.md",
+    "Software/软件开发.md",
+    "Configs/data.ctb",
+    "Configs/start6.bat",
     "Configs/_vsvimrc",
+    "Configs/_gvimrc",
+    "Configs/_vimrc",
     "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
     "Dairies/2026-04-13.md",
     "项目/毕设/论文规划.md",
@@ -404,8 +406,6 @@
     "Pandoc/~WRL4067.tmp",
     "Pandoc/~WRD4064.tmp",
     "Pandoc/~$建筑系统框架-罗阳.docx",
-    "Pandoc/智能建筑系统框架-罗阳.docx",
-    "Pandoc/~WRL1197.tmp",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]

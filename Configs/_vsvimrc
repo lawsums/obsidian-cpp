@@ -1,0 +1,102 @@
+ 
+set ai 
+"自动缩进宽度
+set sw=4 
+set ts=4 
+"关闭高亮显示
+set nohlsearch   
+set is
+set ignorecase
+set backspace=indent,eol,start
+set clipboard=unnamed
+set number
+ 
+" 设置leader key为空格" "
+let mapleader=" "
+ 
+" jk用于退出j 
+:inoremap jk <esc>
+ 
+"跳转到行首和行尾"
+:nnoremap H ^
+:nnoremap L A<esc>
+ 
+:vnoremap H ^
+:vnoremap L g_ 
+ 
+"大写JK，用于切换标签页"
+:nnoremap $ :vsc Window.NextTab<CR>
+:nnoremap ^ :vsc Window.PreviousTab<CR>
+ 
+"查找所有引用--  
+nnoremap gr :vsc Edit.FindAllReferences<CR>  
+ 
+"打开解决方案资源管理器  
+":nnoremap  <c-;>  :vsc View.SolutionExplorer<CR>  
+:nnoremap  <leader>n  :vsc View.SolutionExplorer<CR>  
+
+"保存
+:nnoremap  <leader>w  :w<CR>  
+"保存退出
+:nnoremap  <leader>q  :wq<CR>  
+ 
+"快速查看方法定义 
+:nnoremap gd :vsc Edit.GoToDefinition<CR>
+:nnoremap gh :vsc Edit.QuickInfo<CR>
+:nnoremap gb :vsc View.NavigateBackward<CR>
+ 
+"显示错误列表的快捷键
+:nnoremap ge :vsc View.ErrorList<CR>
+:nnoremap en :vsc View.NextError<CR>
+:nnoremap ep :vsc View.PreviousError<CR>
+ 
+" 窗口关闭
+:nnoremap <leader>co :vsc File.CloseAllButThis<CR>
+ 
+" 代码格式化
+:nnoremap <leader>fm :vsc Edit.FormatDocument<CR>
+:nnoremap <leader>fM :vsc Edit.FormatSelection<CR>
+ 
+"代码注释"
+:nnoremap gcc :vsc Edit.ToggleLineComment<CR>
+:vnoremap gc :vsc Edit.ToggleLineComment<CR>
+:nnoremap <leader>/ :vsc Edit.ToggleLineComment<CR>
+:vnoremap <leader>/ :vsc Edit.ToggleLineComment<CR>
+ 
+" 书签
+" `m(ark)` - Navigate forwards through bookmarks
+" `M(ark)` - Navigate backwards through bookmarks
+" `<leader> + m + m(ark)` - Toggle bookmarks
+" `<leader> + m(arks) + r(emove)` - Remove all bookmarks
+" `<leader> + m(arks) + a(ll)` - Show bookmarks list
+ 
+noremap m :vsc Edit.NextBookmark<CR>
+noremap M :vsc Edit.PreviousBookmark<CR>
+ 
+noremap <leader>mm :vsc Edit.ToggleBookmark<CR>
+noremap <leader>mr :vsc Edit.ClearBookmarks<CR>
+noremap <leader>ma :vsc View.BookmarkWindow<CR>
+ 
+ 
+" 编译执行 
+" `<leader> + s(tart) + b(uild)` - Build solution
+" `<leader> + s(tart) + c(lean)` - Clean solution
+" `<leader> + s(tart) + b(uild)` + s(election) - Build the project that is currently selected
+" `<leader> + s(tart) + c(lean)` + s(election) - Clean the project that is currently selected
+" `<leader> + s(tart) + d(ebug)` - Start with debugging
+" `<leader> + s(tart) + r(un)` - Run a program without debugging
+" `<leader> + s(tarted) + b(uild) + c(ancel)` - Cancel building process
+" `<leader> + s(tarted) + d(ebug) + c(ancel)` - Stop debugging
+noremap <leader>sb :vsc Build.BuildSolution<CR>
+noremap <leader>sc :vsc Build.CleanSolution<CR>
+noremap <leader>sbs :vsc Build.BuildSelection<CR>
+noremap <leader>scs :vsc Build.CleanSelection<CR>
+noremap <leader>sd :vsc Debug.Start<CR>
+noremap <leader>sr :vsc Debug.StartWithoutDebugging<CR>
+noremap <leader>sbc :vsc Build.Cancel<CR>
+noremap <leader>sdc :vsc Debug.StopDebugging<CR>
+ 
+"重命名
+:noremap <leader>rn :vsc Refactor.Rename<CR>
+:vnoremap <leader>rn :vsc Refactor.Rename<CR>
+ 
