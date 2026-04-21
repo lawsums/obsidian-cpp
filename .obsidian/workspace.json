@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -240,13 +239,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/毕设/加入模板.md",
+                "file": "项目/毕设/论文规划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "加入模板 的大纲"
+              "title": "论文规划 的大纲"
             }
           },
           {
@@ -390,10 +389,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e6aeddfe0de4a8b2",
+  "active": "20df9add16496ac8",
   "lastOpenFiles": [
-    "项目/毕设/论文规划.md",
     "项目/毕设/加入模板.md",
+    "项目/毕设/论文规划.md",
     "项目/异步日志/基础日志系统讲解.md",
     "Templates/Homepage/Homepage.md",
     "Software/软件开发.md",
