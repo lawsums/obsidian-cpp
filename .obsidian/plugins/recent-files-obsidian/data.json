@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "基础日志系统讲解",
+      "path": "项目/异步日志/基础日志系统讲解.md"
+    },
+    {
       "basename": "2026-04-20",
       "path": "Dairies/2026-04-20.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "论文规划",
       "path": "项目/毕设/论文规划.md"
-    },
-    {
-      "basename": "基础日志系统讲解",
-      "path": "项目/异步日志/基础日志系统讲解.md"
     },
     {
       "basename": "100233.八皇后",
