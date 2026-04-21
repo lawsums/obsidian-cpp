@@ -79,61 +79,6 @@
               "title": "加入模板"
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "d3c0f17c92fc2155",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "20df9add16496ac8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/毕设/论文规划.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "论文规划"
-            }
-          },
-          {
-            "id": "15163fb14b893af4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/毕设/代码.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "代码"
-            }
-          }
         ]
       }
     ],
@@ -209,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -264,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/毕设/加入模板.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "加入模板 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -378,8 +322,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -415,15 +358,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e6aeddfe0de4a8b2",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-04-22.md",
+    "项目/异步日志/基础日志系统讲解.md",
+    "Templates/Homepage/Homepage.md",
+    "项目/毕设/加入模板.md",
     "项目/毕设/论文规划.md",
     "项目/毕设/代码.md",
     "Pandoc/~$代码.docx",
     "Pandoc/代码.docx",
-    "项目/毕设/加入模板.md",
-    "项目/异步日志/基础日志系统讲解.md",
-    "Templates/Homepage/Homepage.md",
     "Software/软件开发.md",
     "Configs/data.ctb",
     "Configs/start6.bat",
