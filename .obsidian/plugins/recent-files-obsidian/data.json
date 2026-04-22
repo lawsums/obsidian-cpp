@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-04-22",
+      "path": "Dairies/2026-04-22.md"
+    },
+    {
       "basename": "框架梳理",
       "path": "项目/异步日志/框架梳理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Go",
       "path": "语言特性/Golang/Go.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     }
   ],
   "omittedPaths": [],
