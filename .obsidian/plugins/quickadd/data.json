@@ -92,7 +92,7 @@
       "name": "Start pomodoro timer | 开启番茄钟",
       "type": "Macro",
       "command": false,
-      "runOnStartup": true,
+      "runOnStartup": false,
       "macro": {
         "name": "Start pomodoro timer | 开启番茄钟",
         "id": "02682bc1-8332-497d-91bc-6c0e86325d84",
