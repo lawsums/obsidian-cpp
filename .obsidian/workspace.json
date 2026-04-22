@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/异步日志/自己写一个.md",
-                "mode": "source",
+                "file": "Templates/Homepage/Homepage.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "自己写一个"
+              "title": "Homepage"
             }
           },
           {
@@ -127,7 +127,8 @@
               "title": "框架梳理"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -407,16 +408,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c12eca1945a5ce44",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "项目/异步日志/项目准备.md",
-    "项目/异步日志/自己写一个.md",
     "Templates/Homepage/Homepage.md",
+    "项目/异步日志/自己写一个.md",
     "项目/异步日志/框架梳理.md",
-    "Dairies/2026-04-23.md",
-    "项目/异步日志/基础日志系统讲解.md",
     "项目/毕设/加入模板.md",
     "项目/毕设/论文规划.md",
+    "项目/异步日志/项目准备.md",
+    "Dairies/2026-04-23.md",
+    "项目/异步日志/基础日志系统讲解.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/实现自己的数据结构.md",
