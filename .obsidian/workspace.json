@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "86a7edcb20b49d35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "用ai产出创意内容"
-            }
-          },
-          {
             "id": "9890c7449fdaea93",
             "type": "leaf",
             "state": {
@@ -128,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/毕设/加入模板.md",
+                "file": "项目/毕设/论文规划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "加入模板 的大纲"
+              "title": "论文规划 的大纲"
             }
           },
           {
@@ -407,13 +383,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ecd130ec5f059a90",
+  "active": "9890c7449fdaea93",
   "lastOpenFiles": [
-    "项目/毕设/论文规划.md",
-    "项目/毕设/加入模板.md",
-    "项目/异步日志/自己写一个.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/用ai产出创意内容.md",
+    "项目/毕设/论文规划.md",
+    "项目/异步日志/自己写一个.md",
+    "项目/毕设/加入模板.md",
+    "Templates/Homepage/学习C++.md",
     "项目/异步日志/框架梳理.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
