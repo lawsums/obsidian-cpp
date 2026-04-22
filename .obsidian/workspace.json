@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "86a7edcb20b49d35",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "用ai产出创意内容"
+            }
+          },
+          {
             "id": "a8fa3bde95b82293",
             "type": "leaf",
             "state": {
@@ -79,7 +103,8 @@
               "title": "学习C++"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/用ai产出创意内容.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "用ai产出创意内容 的大纲"
             }
           },
           {
@@ -358,11 +383,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c12eca1945a5ce44",
+  "active": "86a7edcb20b49d35",
   "lastOpenFiles": [
-    "项目/异步日志/自己写一个.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
+    "项目/异步日志/自己写一个.md",
+    "Dairies/实现自己的数据结构.md",
+    "Templates/Homepage/学习C++.md",
     "Dairies/2026-04-22.md",
     "项目/异步日志/框架梳理.md",
     "项目/毕设/加入模板.md",
@@ -400,7 +426,6 @@
     "Dairies/2026-04-19.md",
     "Dairies/2026-04-18.md",
     "Software/yuque.md",
-    "Dairies/实现自己的数据结构.md",
     "项目/异步日志",
     "Templates/Homepage/文件接口设计与Json协议.md",
     "Projects/anime/乱马1 2.md",
