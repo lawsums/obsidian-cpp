@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "自己写一个",
+      "path": "项目/异步日志/自己写一个.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "2026-04-22",
@@ -195,10 +199,6 @@
     {
       "basename": "一本玄幻小说",
       "path": "Temp/一本玄幻小说.md"
-    },
-    {
-      "basename": "Go",
-      "path": "语言特性/Golang/Go.md"
     }
   ],
   "omittedPaths": [],
