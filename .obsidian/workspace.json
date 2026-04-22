@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/毕设/论文规划.md",
+                "file": "项目/毕设/加入模板.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "论文规划 的大纲"
+              "title": "加入模板 的大纲"
             }
           },
           {
@@ -383,10 +383,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "9890c7449fdaea93",
+  "active": "ecd130ec5f059a90",
   "lastOpenFiles": [
-    "Templates/Homepage/用ai产出创意内容.md",
     "项目/毕设/论文规划.md",
+    "Templates/Homepage/用ai产出创意内容.md",
     "项目/异步日志/自己写一个.md",
     "项目/毕设/加入模板.md",
     "Templates/Homepage/学习C++.md",
