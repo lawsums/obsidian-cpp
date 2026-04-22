@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "框架梳理",
-      "path": "项目/异步日志/框架梳理.md"
-    },
-    {
       "basename": "自己写一个",
       "path": "项目/异步日志/自己写一个.md"
     },
@@ -13,16 +9,28 @@
       "path": "项目/毕设/加入模板.md"
     },
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
     },
     {
-      "basename": "论文规划",
-      "path": "项目/毕设/论文规划.md"
+      "basename": "2026-04-23",
+      "path": "Dairies/2026-04-23.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "2026-04-24",
+      "path": "Dairies/2026-04-24.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/异步日志/框架梳理.md"
+    },
+    {
+      "basename": "论文规划",
+      "path": "项目/毕设/论文规划.md"
     },
     {
       "basename": "2026-04-22",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-04-13",
       "path": "Dairies/2026-04-13.md"
-    },
-    {
-      "basename": "学习esp32s3",
-      "path": "Templates/Homepage/学习esp32s3.md"
-    },
-    {
-      "basename": "一本玄幻小说",
-      "path": "Temp/一本玄幻小说.md"
     }
   ],
   "omittedPaths": [],
