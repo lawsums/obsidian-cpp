@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-04-21",
+      "path": "Dairies/2026-04-21.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "项目准备",
       "path": "项目/异步日志/项目准备.md"
-    },
-    {
-      "basename": "2026-04-21",
-      "path": "Dairies/2026-04-21.md"
     },
     {
       "basename": "代码",

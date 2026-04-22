@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "587a7fb046fe977f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-04-21.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-21"
+            }
+          },
+          {
             "id": "95ff74f80879c023",
             "type": "leaf",
             "state": {
@@ -151,7 +175,8 @@
               "title": "框架梳理"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -281,13 +306,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/2026-04-21.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "2026-04-21 的大纲"
             }
           },
           {
@@ -431,10 +456,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c12eca1945a5ce44",
+  "active": "587a7fb046fe977f",
   "lastOpenFiles": [
-    "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/实现自己的数据结构.md",
     "项目/异步日志/自己写一个.md",
     "项目/异步日志/框架梳理.md",
     "项目/毕设/加入模板.md",
