@@ -113,8 +113,7 @@
               "title": "Projects"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/毕设/论文规划.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "论文规划 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -273,7 +272,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目/毕设/论文规划.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +282,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "论文规划 的反向链接列表"
+              "title": "Homepage 的反向链接列表"
             }
           },
           {
@@ -292,12 +291,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "项目/毕设/论文规划.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "论文规划 的出链列表"
+              "title": "Homepage 的出链列表"
             }
           }
         ]
@@ -333,10 +332,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "项目/毕设/论文规划.md"
+                "file": "Templates/Homepage/Homepage.md"
               },
               "icon": "lucide-info",
-              "title": "论文规划的笔记属性"
+              "title": "Homepage的笔记属性"
             }
           },
           {
@@ -394,8 +393,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ba8d26a56e8f11e8",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "项目/毕设/论文规划.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/2026-04-25.md",
@@ -407,7 +407,6 @@
     "Dairies/2026-04-24.md",
     "项目/异步日志/框架梳理.md",
     "项目/异步日志/自己写一个.md",
-    "项目/毕设/论文规划.md",
     "Dairies/2026-04-22.md",
     "Dairies/2026-04-21.md",
     "项目/异步日志/项目准备.md",
