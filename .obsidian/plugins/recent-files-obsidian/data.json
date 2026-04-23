@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "论文规划",
+      "path": "项目/毕设/论文规划.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "框架梳理",
       "path": "项目/异步日志/框架梳理.md"
-    },
-    {
-      "basename": "论文规划",
-      "path": "项目/毕设/论文规划.md"
     },
     {
       "basename": "2026-04-22",
