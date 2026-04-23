@@ -113,7 +113,8 @@
               "title": "Projects"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/毕设/论文规划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "论文规划 的大纲"
             }
           },
           {
@@ -272,7 +273,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/毕设/论文规划.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -282,7 +283,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Homepage 的反向链接列表"
+              "title": "论文规划 的反向链接列表"
             }
           },
           {
@@ -291,12 +292,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/毕设/论文规划.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Homepage 的出链列表"
+              "title": "论文规划 的出链列表"
             }
           }
         ]
@@ -332,10 +333,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Templates/Homepage/Homepage.md"
+                "file": "项目/毕设/论文规划.md"
               },
               "icon": "lucide-info",
-              "title": "Homepage的笔记属性"
+              "title": "论文规划的笔记属性"
             }
           },
           {
@@ -393,13 +394,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "ba8d26a56e8f11e8",
   "lastOpenFiles": [
-    "项目/毕设/论文规划.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
-    "Dairies/2026-04-25.md",
     "Templates/Homepage/003_不定期任务.md",
+    "Templates/Homepage/Homepage.md",
+    "项目/毕设/论文规划.md",
+    "Dairies/2026-04-25.md",
     "Dairies/778_水位上升的泳池中游泳.md",
     "Dairies/2026-04-23.md",
     "Dairies/2026-04-29.md",
