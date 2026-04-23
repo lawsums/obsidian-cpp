@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
+    },
+    {
+      "basename": "778_水位上升的泳池中游泳",
+      "path": "Dairies/778_水位上升的泳池中游泳.md"
+    },
+    {
       "basename": "2026-04-23",
       "path": "Dairies/2026-04-23.md"
     },
@@ -67,10 +75,6 @@
     {
       "basename": "做一个小程序显示云平台数据和esp32节点报警情况",
       "path": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md"
-    },
-    {
-      "basename": "003_不定期任务",
-      "path": "Templates/Homepage/003_不定期任务.md"
     },
     {
       "basename": "2026-04-20",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-15",
       "path": "Dairies/2026-04-15.md"
-    },
-    {
-      "basename": "2026-04-13",
-      "path": "Dairies/2026-04-13.md"
     }
   ],
   "omittedPaths": [],
