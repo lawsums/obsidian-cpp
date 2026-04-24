@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1000011.迷路的机器人",
+      "path": "Leetcode/1000011.迷路的机器人.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-14",
       "path": "Dairies/2026-04-14.md"
-    },
-    {
-      "basename": "2026-04-15",
-      "path": "Dairies/2026-04-15.md"
     }
   ],
   "omittedPaths": [],
