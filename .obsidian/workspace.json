@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "724d4940c7ce6240",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-04-24.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-24"
+            }
+          },
+          {
             "id": "52d6704f1d896ca4",
             "type": "leaf",
             "state": {
@@ -79,8 +103,7 @@
               "title": "1000011.迷路的机器人"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/毕设/论文规划.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "论文规划 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -360,23 +383,23 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "52d6704f1d896ca4",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Dairies/2026-04-28.md",
+    "Dairies/2026-04-24.md",
     "Templates/Homepage/Homepage.md",
+    "项目/毕设/论文规划.md",
+    "Dairies/2026-04-28.md",
     "Leetcode/1000011.迷路的机器人.md",
     "Leetcode/1000011.迷路的机器人.cpp~",
     "Leetcode/1000011.迷路的机器人.cpp",
     "Leetcode/images/1000011_robot_maze.png",
     "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/003_不定期任务.md",
-    "项目/毕设/论文规划.md",
     "Dairies/2026-04-25.md",
     "Dairies/778_水位上升的泳池中游泳.md",
     "Dairies/2026-04-23.md",
     "Dairies/2026-04-29.md",
     "项目/毕设/加入模板.md",
-    "Dairies/2026-04-24.md",
     "项目/异步日志/框架梳理.md",
     "项目/异步日志/自己写一个.md",
     "Dairies/2026-04-22.md",
