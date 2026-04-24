@@ -55,8 +55,7 @@
               "title": "1000011.迷路的机器人"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -131,7 +130,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -185,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/1000011.迷路的机器人.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "1000011.迷路的机器人 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,13 +335,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "49672a29f86878d9",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Leetcode/1000011.迷路的机器人.md",
     "Leetcode/1000011.迷路的机器人.cpp~",
     "Leetcode/1000011.迷路的机器人.cpp",
     "Templates/Homepage/Homepage.md",
     "Leetcode/images/1000011_robot_maze.png",
-    "Leetcode/1000011.迷路的机器人.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/003_不定期任务.md",
     "项目/毕设/论文规划.md",
@@ -382,7 +382,6 @@
     "Attachments/3.svg",
     "Attachments/2.drawio.svg",
     "Attachments/1.drawio 2.svg",
-    "项目/异步日志",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
