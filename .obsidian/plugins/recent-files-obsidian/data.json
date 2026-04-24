@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "论文规划",
       "path": "项目/毕设/论文规划.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "003_不定期任务",
       "path": "Templates/Homepage/003_不定期任务.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "778_水位上升的泳池中游泳",
