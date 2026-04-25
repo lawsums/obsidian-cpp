@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "基础日志系统讲解",
       "path": "项目/异步日志/基础日志系统讲解.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "学习C++",
