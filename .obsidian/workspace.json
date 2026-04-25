@@ -55,8 +55,7 @@
               "title": "用ai产出创意内容"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "用ai产出创意内容 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -336,10 +335,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fd3eda46e8264ad3",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/用ai产出创意内容.md",
+    "Templates/Homepage/Homepage.md",
     "Dairies/2026-04-24.md",
     "项目/毕设/论文规划.md",
     "Dairies/2026-04-28.md",
