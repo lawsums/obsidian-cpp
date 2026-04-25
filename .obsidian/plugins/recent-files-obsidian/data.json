@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "写战斗小说的技巧",
+      "path": "Templates/Homepage/写战斗小说的技巧.md"
+    },
+    {
+      "basename": "2026-04-26",
+      "path": "Dairies/2026-04-26.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "004_闪念",
+      "path": "Templates/Homepage/004_闪念.md"
     },
     {
       "basename": "论文规划",
@@ -187,18 +199,6 @@
     {
       "basename": "高负载Nginx搭建与使用FastCGI接口编程",
       "path": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md"
-    },
-    {
-      "basename": "17.电话号码的字母组合",
-      "path": "Leetcode/17.电话号码的字母组合.md"
-    },
-    {
-      "basename": "100167.链表相交",
-      "path": "Leetcode/100167.链表相交.md"
-    },
-    {
-      "basename": "2026-04-14",
-      "path": "Dairies/2026-04-14.md"
     }
   ],
   "omittedPaths": [],
