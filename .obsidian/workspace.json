@@ -127,8 +127,7 @@
               "title": "打包exe"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,13 +258,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习C++ 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -410,8 +409,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "64e0040555b18408",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
     "项目/异步日志/自己写一个.md",
     "Templates/Homepage/打包exe.md",
@@ -438,7 +438,6 @@
     "Dairies/2026-04-21.md",
     "项目/异步日志/项目准备.md",
     "项目/异步日志/基础日志系统讲解.md",
-    "Templates/Homepage/学习C++.md",
     "Attachments/Pasted image 20260421224521.png",
     "Attachments/Pasted image 20260421223456.png",
     "Attachments/Pasted image 20260421222943.png",
