@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "64e0040555b18408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习C++"
+            }
+          },
+          {
             "id": "ae989d19748f73de",
             "type": "leaf",
             "state": {
@@ -235,13 +259,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/异步日志/自己写一个.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "自己写一个 的大纲"
+              "title": "学习C++ 的大纲"
             }
           },
           {
@@ -386,7 +410,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ae989d19748f73de",
+  "active": "64e0040555b18408",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
     "项目/异步日志/自己写一个.md",
