@@ -54,6 +54,30 @@
               "icon": "lucide-file",
               "title": "用ai产出创意内容"
             }
+          },
+          {
+            "id": "f00b333e3e805af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/打包exe.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "打包exe"
+            }
           }
         ]
       }
@@ -338,8 +362,8 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/打包exe.md",
+    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/写战斗小说的技巧.md",
     "Dairies/2026-04-26.md",
