@@ -55,8 +55,7 @@
               "title": "用ai产出创意内容"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "用ai产出创意内容 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -337,14 +336,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7339a3e456a62a8b",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/用ai产出创意内容.md",
+    "Templates/Homepage/打包exe.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/写战斗小说的技巧.md",
     "Dairies/2026-04-26.md",
     "Templates/Homepage/004_闪念.md",
     "项目/毕设/论文规划.md",
-    "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/2026-04-24.md",
     "Dairies/2026-04-28.md",
     "Leetcode/1000011.迷路的机器人.md",
@@ -377,7 +377,6 @@
     "Configs/_vsvimrc",
     "Configs/_gvimrc",
     "Configs/_vimrc",
-    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
     "Leetcode/100233.八皇后.cpp",
     "Attachments/3.drawio.svg",
     "Attachments/4.drawio 1.svg",

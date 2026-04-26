@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "用ai产出创意内容",
       "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "打包exe",
+      "path": "Templates/Homepage/打包exe.md"
     },
     {
       "basename": "写战斗小说的技巧",
@@ -195,10 +199,6 @@
     {
       "basename": "多个esp32组网数据通过esp32s3终端上传云平台",
       "path": "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md"
-    },
-    {
-      "basename": "高负载Nginx搭建与使用FastCGI接口编程",
-      "path": "Templates/Homepage/高负载Nginx搭建与使用FastCGI接口编程.md"
     }
   ],
   "omittedPaths": [],
