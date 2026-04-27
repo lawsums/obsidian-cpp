@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Http请求有哪些方法",
+      "path": "操作系统/Http请求有哪些方法.md"
+    },
+    {
+      "basename": "Http和https的区别",
+      "path": "操作系统/Http和https的区别.md"
+    },
+    {
+      "basename": "在浏览器地址栏输入一个URL后回车后背后会进行哪些技术步骤",
+      "path": "操作系统/在浏览器地址栏输入一个URL后回车后背后会进行哪些技术步骤.md"
+    },
+    {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
     },
@@ -9,16 +21,24 @@
       "path": "Templates/Homepage/学习C++.md"
     },
     {
+      "basename": "2026-04-27",
+      "path": "Dairies/2026-04-27.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
+      "basename": "什么是Tcp粘包拆包",
+      "path": "操作系统/什么是Tcp粘包拆包.md"
     },
     {
-      "basename": "2026-04-27",
-      "path": "Dairies/2026-04-27.md"
+      "basename": "DNS的工作原理",
+      "path": "操作系统/DNS的工作原理.md"
+    },
+    {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "1507.检查网格中是否存在有效路径",
@@ -179,26 +199,6 @@
     {
       "basename": "项目准备",
       "path": "项目/零声云盘/项目准备.md"
-    },
-    {
-      "basename": "2026-04-17",
-      "path": "Dairies/2026-04-17.md"
-    },
-    {
-      "basename": "毕设规划",
-      "path": "项目/毕设/毕设规划.md"
-    },
-    {
-      "basename": "自身框架",
-      "path": "项目/毕设/自身框架.md"
-    },
-    {
-      "basename": "100233.八皇后",
-      "path": "Leetcode/100233.八皇后.md"
-    },
-    {
-      "basename": "手撕内存池",
-      "path": "Templates/Homepage/手撕内存池.md"
     }
   ],
   "omittedPaths": [],

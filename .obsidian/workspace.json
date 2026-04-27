@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "157b9785ab68ad60",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习C++"
-            }
-          },
-          {
             "id": "c69866d9ee8d8864",
             "type": "leaf",
             "state": {
@@ -101,6 +77,30 @@
               },
               "icon": "lucide-file",
               "title": "面试题系列"
+            }
+          },
+          {
+            "id": "55d54b114103351c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "操作系统/Http请求有哪些方法.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Http请求有哪些方法"
             }
           }
         ],
@@ -234,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/面试题系列.md",
+                "file": "操作系统/Http请求有哪些方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "面试题系列 的大纲"
+              "title": "Http请求有哪些方法 的大纲"
             }
           },
           {
@@ -385,13 +385,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c69866d9ee8d8864",
+  "active": "55d54b114103351c",
   "lastOpenFiles": [
+    "操作系统/Http和https的区别.md",
+    "操作系统/在浏览器地址栏输入一个URL后回车后背后会进行哪些技术步骤.md",
+    "操作系统/Http请求有哪些方法.md",
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/Homepage.md",
-    "Dairies/实现自己的数据结构.md",
     "Dairies/2026-04-27.md",
+    "Templates/Homepage/Homepage.md",
+    "操作系统/什么是Tcp粘包拆包.md",
+    "操作系统/DNS的工作原理.md",
+    "Dairies/实现自己的数据结构.md",
     "Leetcode/1507.检查网格中是否存在有效路径.md",
     "Leetcode/1507.检查网格中是否存在有效路径.cpp~",
     "Templates/Homepage/并查集.md",
@@ -416,11 +421,6 @@
     "Dairies/2026-04-25.md",
     "Dairies/778_水位上升的泳池中游泳.md",
     "Dairies/2026-04-23.md",
-    "Dairies/2026-04-29.md",
-    "项目/毕设/加入模板.md",
-    "项目/异步日志/框架梳理.md",
-    "Dairies/2026-04-22.md",
-    "Dairies/2026-04-21.md",
     "Attachments/Pasted image 20260421224521.png",
     "Attachments/Pasted image 20260421223456.png",
     "Attachments/Pasted image 20260421222943.png",
