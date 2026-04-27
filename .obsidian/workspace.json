@@ -79,7 +79,8 @@
               "title": "学习C++"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习C++ 的大纲"
             }
           },
           {
@@ -360,11 +361,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "157b9785ab68ad60",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/实现自己的数据结构.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-04-27.md",
     "Leetcode/1507.检查网格中是否存在有效路径.md",
     "Leetcode/1507.检查网格中是否存在有效路径.cpp~",
