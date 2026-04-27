@@ -9,6 +9,10 @@
       "path": "Templates/Homepage/学习C++.md"
     },
     {
+      "basename": "2026-04-27",
+      "path": "Dairies/2026-04-27.md"
+    },
+    {
       "basename": "1507.检查网格中是否存在有效路径",
       "path": "Leetcode/1507.检查网格中是否存在有效路径.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "分布式FastDFS存储集群部署",
-      "path": "Templates/Homepage/分布式FastDFS存储集群部署.md"
     }
   ],
   "omittedPaths": [],
