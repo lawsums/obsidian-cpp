@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "手撕内存池",
       "path": "Templates/Homepage/手撕内存池.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
     }
   ],
   "omittedPaths": [],

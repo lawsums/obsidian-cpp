@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "学习C++"
             }
+          },
+          {
+            "id": "c69866d9ee8d8864",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/面试题系列.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "面试题系列"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
+                "file": "Templates/Homepage/面试题系列.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习C++ 的大纲"
+              "title": "面试题系列 的大纲"
             }
           },
           {
@@ -361,10 +385,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "157b9785ab68ad60",
+  "active": "c69866d9ee8d8864",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/2026-04-27.md",
     "Leetcode/1507.检查网格中是否存在有效路径.md",
@@ -396,7 +421,6 @@
     "项目/异步日志/框架梳理.md",
     "Dairies/2026-04-22.md",
     "Dairies/2026-04-21.md",
-    "项目/异步日志/项目准备.md",
     "Attachments/Pasted image 20260421224521.png",
     "Attachments/Pasted image 20260421223456.png",
     "Attachments/Pasted image 20260421222943.png",
