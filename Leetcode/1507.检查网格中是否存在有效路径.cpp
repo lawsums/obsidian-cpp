@@ -1,3 +1,4 @@
+#include <algorithm>
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -54,7 +55,38 @@ public:
 class Solution {
 public:
     bool hasValidPath(vector<vector<int>>& grid) {
-        UnionFind uf;
+        int n = grid.size(), m = grid[0].size();
+        UnionFind uf(n * m);
+
+        auto pos = [=](int i, int j) {
+            return i * m + j;
+        };
+
+        auto tackle = [&](int i, int j) {
+            int r = grid[i][j];
+            if (r == 1 || r == 4 || r == 6) {
+                if (j + 1 < m) {
+                    int rr = grid[i][j + 1];
+                    if (rr == 1 || rr == 3 || rr == 5) {
+                        uf.unite(pos(i, j), pos(i, j + 1));
+                    }
+                }
+            } else if (r == 2 || r == 3 || r == 4) {
+                if (i + 1 < n) {
+                    int rd = grid[i + 1][j];
+                    if (rd == 2 || rd == 5 || rd == 6) {
+                        uf.unite(pos(i, j), pos(i + 1, j));
+                    }
+                }
+            }
+        };
         
+        for (int i = 0; i < n; ++i) {
+            for (int j = 0; j < m; ++j) {
+                tackle(i, j);
+            }
+        }
+
+        return uf.find(0) == uf.find(pos(n - 1, m - 1));
     }
 };
