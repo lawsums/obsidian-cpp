@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1507.检查网格中是否存在有效路径",
+      "path": "Leetcode/1507.检查网格中是否存在有效路径.md"
+    },
+    {
+      "basename": "并查集",
+      "path": "Templates/Homepage/并查集.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "分布式FastDFS存储集群部署",
       "path": "Templates/Homepage/分布式FastDFS存储集群部署.md"
-    },
-    {
-      "basename": "项目行为",
-      "path": "项目/零声云盘/项目行为.md"
-    },
-    {
-      "basename": "多个esp32组网数据通过esp32s3终端上传云平台",
-      "path": "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md"
     }
   ],
   "omittedPaths": [],
