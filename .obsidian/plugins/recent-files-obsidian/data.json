@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "76. 最小覆盖子串",
+      "path": "Leetcode/76. 最小覆盖子串.md"
+    },
+    {
+      "basename": "76.最小覆盖子串",
+      "path": "Leetcode/76.最小覆盖子串.md"
+    },
+    {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "配置vscode_qt",
       "path": "Templates/Homepage/配置vscode_qt.md"
-    },
-    {
-      "basename": "005_KTV歌单",
-      "path": "Templates/Homepage/005_KTV歌单.md"
-    },
-    {
-      "basename": "项目准备",
-      "path": "项目/零声云盘/项目准备.md"
     }
   ],
   "omittedPaths": [],
