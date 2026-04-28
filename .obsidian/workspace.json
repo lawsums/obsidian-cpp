@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "42074545acb3ada3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/毕设/论文规划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "论文规划"
+            }
+          },
+          {
             "id": "3783ce9b6a5d2329",
             "type": "leaf",
             "state": {
@@ -79,7 +103,8 @@
               "title": "面试题系列"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/毕设/论文规划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "论文规划 的大纲"
             }
           },
           {
@@ -360,11 +385,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "42074545acb3ada3",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Leetcode/76. 最小覆盖子串.md",
     "Leetcode/76.最小覆盖子串.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/面试题系列.md",
     "操作系统/Http请求有哪些方法.md",
     "操作系统/Http和https的区别.md",
