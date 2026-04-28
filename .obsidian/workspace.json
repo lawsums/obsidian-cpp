@@ -79,8 +79,7 @@
               "title": "面试题系列"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,7 +154,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -209,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/面试题系列.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "面试题系列 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -323,7 +323,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -359,15 +360,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c69866d9ee8d8864",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/实现自己的数据结构.md",
     "项目/毕设/论文规划.md",
     "Dairies/2026-04-30.md",
     "Leetcode/76. 最小覆盖子串.md",
     "Leetcode/76.最小覆盖子串.md",
-    "Templates/Homepage/面试题系列.md",
     "操作系统/Http请求有哪些方法.md",
     "操作系统/Http和https的区别.md",
     "操作系统/在浏览器地址栏输入一个URL后回车后背后会进行哪些技术步骤.md",
