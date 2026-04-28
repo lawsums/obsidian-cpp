@@ -179,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -348,8 +347,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -387,6 +385,7 @@
   },
   "active": "42074545acb3ada3",
   "lastOpenFiles": [
+    "Dairies/2026-04-30.md",
     "Templates/Homepage/Homepage.md",
     "项目/毕设/论文规划.md",
     "Leetcode/76. 最小覆盖子串.md",
@@ -420,7 +419,6 @@
     "Leetcode/1000011.迷路的机器人.cpp",
     "Leetcode/images/1000011_robot_maze.png",
     "Templates/Homepage/003_不定期任务.md",
-    "Dairies/2026-04-25.md",
     "Attachments/Pasted image 20260421224521.png",
     "Attachments/Pasted image 20260421223456.png",
     "Attachments/Pasted image 20260421222943.png",
