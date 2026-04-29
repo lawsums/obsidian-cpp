@@ -81,30 +81,6 @@
             }
           },
           {
-            "id": "e1e942d0d9df0ea4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/面试题系列.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "面试题系列"
-            }
-          },
-          {
             "id": "71dbc0144f3ea9ad",
             "type": "leaf",
             "state": {
@@ -455,11 +431,13 @@
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/用ai产出创意内容.md",
-    "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/面试题系列.md",
-    "Templates/Homepage/算法面试好题.md",
-    "Templates/Homepage/协程聊天服务器.md",
     "Dairies/实现自己的数据结构.md",
+    "Leetcode/1000046.最大子矩阵.md",
+    "Leetcode/1000046.最大子矩阵.cpp",
+    "Templates/Homepage/协程聊天服务器.md",
+    "Templates/Homepage/面试题系列.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/算法面试好题.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/2026-04-28.md",
     "项目/毕设/论文规划.md",
@@ -483,8 +461,6 @@
     "Templates/Homepage/打包exe.md",
     "Templates/Homepage/写战斗小说的技巧.md",
     "Dairies/2026-04-26.md",
-    "Templates/Homepage/004_闪念.md",
-    "Dairies/2026-04-24.md",
     "Leetcode/1000011.迷路的机器人.cpp~",
     "Leetcode/1000011.迷路的机器人.cpp",
     "Leetcode/images/1000011_robot_maze.png",
@@ -496,7 +472,6 @@
     "Configs/data.ctb",
     "Configs/start6.bat",
     "Configs/_vsvimrc",
-    "Configs/_gvimrc",
     "Attachments/3.drawio.svg",
     "Attachments/4.drawio 1.svg",
     "Attachments/4.drawio.svg",
