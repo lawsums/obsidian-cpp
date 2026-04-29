@@ -33,7 +33,7 @@
             }
           },
           {
-            "id": "d67f3825f1a2f7eb",
+            "id": "f63cd1981ef7604d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -54,6 +54,54 @@
               },
               "icon": "lucide-file",
               "title": "学习C++"
+            }
+          },
+          {
+            "id": "d09e476f38d829d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/算法面试好题.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "算法面试好题"
+            }
+          },
+          {
+            "id": "e1e942d0d9df0ea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/面试题系列.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "面试题系列"
             }
           },
           {
@@ -104,7 +152,8 @@
               "title": "实现自己的数据结构"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3f78d71d072195d1",
@@ -253,13 +302,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/算法面试好题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "算法面试好题 的大纲"
             }
           },
           {
@@ -404,14 +453,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "d09e476f38d829d0",
   "lastOpenFiles": [
-    "Templates/Homepage/协程聊天服务器.md",
     "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/面试题系列.md",
+    "Templates/Homepage/协程聊天服务器.md",
+    "Templates/Homepage/算法面试好题.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-04-28.md",
     "Dairies/实现自己的数据结构.md",
-    "Templates/Homepage/面试题系列.md",
     "项目/毕设/论文规划.md",
     "Dairies/2026-04-30.md",
     "Leetcode/76. 最小覆盖子串.md",
@@ -436,7 +486,6 @@
     "Dairies/2026-04-26.md",
     "Templates/Homepage/004_闪念.md",
     "Dairies/2026-04-24.md",
-    "Leetcode/1000011.迷路的机器人.md",
     "Leetcode/1000011.迷路的机器人.cpp~",
     "Leetcode/1000011.迷路的机器人.cpp",
     "Leetcode/images/1000011_robot_maze.png",
