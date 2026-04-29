@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-04-28",
+      "path": "Dairies/2026-04-28.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "面试题系列",
@@ -11,10 +19,6 @@
     {
       "basename": "论文规划",
       "path": "项目/毕设/论文规划.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "76. 最小覆盖子串",
@@ -195,10 +199,6 @@
     {
       "basename": "Qt客户端界面设计",
       "path": "Templates/Homepage/Qt客户端界面设计.md"
-    },
-    {
-      "basename": "配置vscode_qt",
-      "path": "Templates/Homepage/配置vscode_qt.md"
     }
   ],
   "omittedPaths": [],
