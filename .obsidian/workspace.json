@@ -104,8 +104,7 @@
               "title": "实现自己的数据结构"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3f78d71d072195d1",
@@ -254,12 +253,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -404,7 +404,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2d00631e3f7f5ea8",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/协程聊天服务器.md",
     "Templates/Homepage/学习C++.md",
