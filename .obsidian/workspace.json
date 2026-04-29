@@ -6,7 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
-        "dimension": 31.36729222520107,
+        "dimension": 35.79088471849866,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -128,12 +128,13 @@
               "title": "实现自己的数据结构"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "3f78d71d072195d1",
         "type": "tabs",
-        "dimension": 68.63270777479893,
+        "dimension": 64.20911528150134,
         "children": [
           {
             "id": "2d00631e3f7f5ea8",
@@ -270,7 +271,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -324,13 +326,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -438,7 +439,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -474,17 +476,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "2d00631e3f7f5ea8",
   "lastOpenFiles": [
-    "Dairies/2026-04-28.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/协程聊天服务器.md",
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/Homepage.md",
+    "Dairies/2026-04-28.md",
     "项目/毕设/论文规划.md",
     "操作系统/http服务器演化.md",
     "草稿.md",
     "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/用ai产出创意内容.md",
-    "Templates/Homepage/学习C++.md",
     "Leetcode/1000046.最大子矩阵.md",
     "Leetcode/1000046.最大子矩阵.cpp",
     "Templates/Homepage/面试题系列.md",
