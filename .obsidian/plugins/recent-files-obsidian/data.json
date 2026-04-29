@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2026-04-28",
-      "path": "Dairies/2026-04-28.md"
+      "basename": "协程聊天服务器",
+      "path": "Templates/Homepage/协程聊天服务器.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-04-28",
+      "path": "Dairies/2026-04-28.md"
     },
     {
       "basename": "实现自己的数据结构",
@@ -39,10 +47,6 @@
     {
       "basename": "在浏览器地址栏输入一个URL后回车后背后会进行哪些技术步骤",
       "path": "操作系统/在浏览器地址栏输入一个URL后回车后背后会进行哪些技术步骤.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "2026-04-27",
@@ -195,10 +199,6 @@
     {
       "basename": "linux 高性能服务器编程",
       "path": "Templates/Homepage/linux 高性能服务器编程.md"
-    },
-    {
-      "basename": "Qt客户端界面设计",
-      "path": "Templates/Homepage/Qt客户端界面设计.md"
     }
   ],
   "omittedPaths": [],

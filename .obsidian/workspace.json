@@ -6,6 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 29.021447721179626,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -32,12 +33,12 @@
             }
           },
           {
-            "id": "2924e0edce54b809",
+            "id": "d67f3825f1a2f7eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/2026-04-28.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +53,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-28"
+              "title": "学习C++"
             }
           },
           {
-            "id": "6e6201d4a98ba791",
+            "id": "71dbc0144f3ea9ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/2026-04-28.md",
+                "file": "Templates/Homepage/协程聊天服务器.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +77,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-04-28"
+              "title": "协程聊天服务器"
             }
           },
           {
@@ -104,7 +105,26 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "3f78d71d072195d1",
+        "type": "tabs",
+        "dimension": 70.97855227882037,
+        "children": [
+          {
+            "id": "2d00631e3f7f5ea8",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.bilibili.com/video/BV16W42197Ge/"
+              },
+              "icon": "bilibili",
+              "title": "【C++20】基于协程实现的WebSocket聊天服务器 - bilibili"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -233,13 +254,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/2026-04-28.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-04-28 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -347,7 +367,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -383,8 +404,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2924e0edce54b809",
+  "active": "2d00631e3f7f5ea8",
   "lastOpenFiles": [
+    "Templates/Homepage/协程聊天服务器.md",
+    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-04-28.md",
     "Dairies/实现自己的数据结构.md",
@@ -396,7 +419,6 @@
     "操作系统/Http请求有哪些方法.md",
     "操作系统/Http和https的区别.md",
     "操作系统/在浏览器地址栏输入一个URL后回车后背后会进行哪些技术步骤.md",
-    "Templates/Homepage/学习C++.md",
     "Dairies/2026-04-27.md",
     "操作系统/什么是Tcp粘包拆包.md",
     "操作系统/DNS的工作原理.md",
@@ -418,7 +440,6 @@
     "Leetcode/1000011.迷路的机器人.cpp~",
     "Leetcode/1000011.迷路的机器人.cpp",
     "Leetcode/images/1000011_robot_maze.png",
-    "Templates/Homepage/003_不定期任务.md",
     "Attachments/Pasted image 20260421224521.png",
     "Attachments/Pasted image 20260421223456.png",
     "Attachments/Pasted image 20260421222943.png",
