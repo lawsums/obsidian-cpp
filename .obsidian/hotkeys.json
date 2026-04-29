@@ -133,12 +133,6 @@
         "Shift"
       ],
       "key": "F"
-    },
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "F"
     }
   ],
   "switcher:open": [
@@ -406,6 +400,14 @@
         "Mod"
       ],
       "key": "V"
+    }
+  ],
+  "media-extended:toggle-fullscreen": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
     }
   ]
 }
