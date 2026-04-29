@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "草稿",
+      "path": "草稿.md"
+    },
+    {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "论文规划",
       "path": "项目/毕设/论文规划.md"
-    },
-    {
-      "basename": "草稿",
-      "path": "草稿.md"
     },
     {
       "basename": "学习C++",

@@ -196,7 +196,8 @@
               "title": "论文规划"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -326,13 +327,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/实现自己的数据结构.md",
+                "file": "草稿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实现自己的数据结构 的大纲"
+              "title": "草稿 的大纲"
             }
           },
           {
@@ -477,15 +478,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0e6bc70c83332ceb",
+  "active": "602892fefd3f83a9",
   "lastOpenFiles": [
+    "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/协程聊天服务器.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "项目/毕设/论文规划.md",
     "草稿.md",
     "Templates/Homepage/学习C++.md",
-    "Dairies/实现自己的数据结构.md",
     "Leetcode/1000046.最大子矩阵.md",
     "Leetcode/1000046.最大子矩阵.cpp",
     "Templates/Homepage/面试题系列.md",
