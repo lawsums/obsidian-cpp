@@ -6,7 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
-        "dimension": 34.852546916890084,
+        "dimension": 31.36729222520107,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -129,12 +129,12 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       },
       {
         "id": "3f78d71d072195d1",
         "type": "tabs",
-        "dimension": 65.14745308310992,
+        "dimension": 68.63270777479893,
         "children": [
           {
             "id": "2d00631e3f7f5ea8",
@@ -196,8 +196,7 @@
               "title": "论文规划"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -327,13 +326,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "草稿 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -478,14 +476,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "602892fefd3f83a9",
+  "active": "2d00631e3f7f5ea8",
   "lastOpenFiles": [
-    "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/协程聊天服务器.md",
+    "项目/毕设/论文规划.md",
+    "操作系统/http服务器演化.md",
+    "草稿.md",
+    "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/用ai产出创意内容.md",
-    "项目/毕设/论文规划.md",
-    "草稿.md",
     "Templates/Homepage/学习C++.md",
     "Leetcode/1000046.最大子矩阵.md",
     "Leetcode/1000046.最大子矩阵.cpp",
@@ -511,7 +510,6 @@
     "项目/异步日志/自己写一个.md",
     "Templates/Homepage/打包exe.md",
     "Templates/Homepage/写战斗小说的技巧.md",
-    "Dairies/2026-04-26.md",
     "Leetcode/1000011.迷路的机器人.cpp~",
     "Leetcode/1000011.迷路的机器人.cpp",
     "Leetcode/images/1000011_robot_maze.png",
