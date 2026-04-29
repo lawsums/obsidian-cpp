@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "论文规划",
+      "path": "项目/毕设/论文规划.md"
+    },
+    {
+      "basename": "草稿",
+      "path": "草稿.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "协程聊天服务器",
+      "path": "Templates/Homepage/协程聊天服务器.md"
+    },
+    {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -9,16 +29,8 @@
       "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
       "basename": "1000046.最大子矩阵",
       "path": "Leetcode/1000046.最大子矩阵.md"
-    },
-    {
-      "basename": "协程聊天服务器",
-      "path": "Templates/Homepage/协程聊天服务器.md"
     },
     {
       "basename": "面试题系列",
@@ -29,16 +41,8 @@
       "path": "Templates/Homepage/算法面试好题.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
       "basename": "2026-04-28",
       "path": "Dairies/2026-04-28.md"
-    },
-    {
-      "basename": "论文规划",
-      "path": "项目/毕设/论文规划.md"
     },
     {
       "basename": "76. 最小覆盖子串",
@@ -195,10 +199,6 @@
     {
       "basename": "ai绘画",
       "path": "Software/ai绘画.md"
-    },
-    {
-      "basename": "另一本日式小说",
-      "path": "Temp/另一本日式小说.md"
     }
   ],
   "omittedPaths": [],

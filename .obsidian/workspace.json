@@ -6,7 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
-        "dimension": 29.021447721179626,
+        "dimension": 47.050938337801604,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -128,12 +128,13 @@
               "title": "实现自己的数据结构"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "3f78d71d072195d1",
         "type": "tabs",
-        "dimension": 70.97855227882037,
+        "dimension": 52.949061662198396,
         "children": [
           {
             "id": "2d00631e3f7f5ea8",
@@ -146,8 +147,57 @@
               "icon": "bilibili",
               "title": "【C++20】基于协程实现的WebSocket聊天服务器 - bilibili"
             }
+          },
+          {
+            "id": "602892fefd3f83a9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "草稿.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "草稿"
+            }
+          },
+          {
+            "id": "4b66f96701aad224",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/毕设/论文规划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "论文规划"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -277,13 +327,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/毕设/论文规划.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "论文规划 的大纲"
             }
           },
           {
@@ -428,17 +478,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "4b66f96701aad224",
   "lastOpenFiles": [
-    "Templates/Homepage/用ai产出创意内容.md",
+    "草稿.md",
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/协程聊天服务器.md",
     "Dairies/实现自己的数据结构.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/用ai产出创意内容.md",
     "Leetcode/1000046.最大子矩阵.md",
     "Leetcode/1000046.最大子矩阵.cpp",
-    "Templates/Homepage/协程聊天服务器.md",
     "Templates/Homepage/面试题系列.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/算法面试好题.md",
-    "Templates/Homepage/学习C++.md",
     "Dairies/2026-04-28.md",
     "项目/毕设/论文规划.md",
     "Dairies/2026-04-30.md",
