@@ -33,6 +33,30 @@
             }
           },
           {
+            "id": "44724147bcaf2786",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "用ai产出创意内容"
+            }
+          },
+          {
             "id": "f63cd1981ef7604d",
             "type": "leaf",
             "state": {
@@ -54,30 +78,6 @@
               },
               "icon": "lucide-file",
               "title": "学习C++"
-            }
-          },
-          {
-            "id": "d09e476f38d829d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/算法面试好题.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "算法面试好题"
             }
           },
           {
@@ -152,8 +152,7 @@
               "title": "实现自己的数据结构"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3f78d71d072195d1",
@@ -302,13 +301,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/算法面试好题.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法面试好题 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -453,15 +452,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d09e476f38d829d0",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/面试题系列.md",
-    "Templates/Homepage/协程聊天服务器.md",
-    "Templates/Homepage/算法面试好题.md",
+    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/Homepage.md",
-    "Dairies/2026-04-28.md",
+    "Templates/Homepage/面试题系列.md",
+    "Templates/Homepage/算法面试好题.md",
+    "Templates/Homepage/协程聊天服务器.md",
     "Dairies/实现自己的数据结构.md",
+    "Templates/Homepage/学习C++.md",
+    "Dairies/2026-04-28.md",
     "项目/毕设/论文规划.md",
     "Dairies/2026-04-30.md",
     "Leetcode/76. 最小覆盖子串.md",
@@ -481,7 +481,6 @@
     "Leetcode/images/1507_main.png",
     "项目/异步日志/自己写一个.md",
     "Templates/Homepage/打包exe.md",
-    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/写战斗小说的技巧.md",
     "Dairies/2026-04-26.md",
     "Templates/Homepage/004_闪念.md",
