@@ -1,6 +1,26 @@
 {
   "recentFiles": [
     {
+      "basename": "框架梳理",
+      "path": "项目/第二轮面试/协程服务器/框架梳理.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/第二轮面试/异步日志/框架梳理.md"
+    },
+    {
+      "basename": "项目准备",
+      "path": "项目/第二轮面试/异步日志/项目准备.md"
+    },
+    {
+      "basename": "自己写一个",
+      "path": "项目/第二轮面试/异步日志/自己写一个.md"
+    },
+    {
+      "basename": "协程服务器",
+      "path": "项目/第二轮面试/协程服务器/协程服务器.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -97,10 +117,6 @@
       "path": "Templates/Homepage/并查集.md"
     },
     {
-      "basename": "自己写一个",
-      "path": "项目/异步日志/自己写一个.md"
-    },
-    {
       "basename": "打包exe",
       "path": "Templates/Homepage/打包exe.md"
     },
@@ -141,10 +157,6 @@
       "path": "项目/毕设/加入模板.md"
     },
     {
-      "basename": "框架梳理",
-      "path": "项目/异步日志/框架梳理.md"
-    },
-    {
       "basename": "2026-04-22",
       "path": "Dairies/2026-04-22.md"
     },
@@ -154,11 +166,7 @@
     },
     {
       "basename": "基础日志系统讲解",
-      "path": "项目/异步日志/基础日志系统讲解.md"
-    },
-    {
-      "basename": "项目准备",
-      "path": "项目/异步日志/项目准备.md"
+      "path": "项目/第二轮面试/异步日志/基础日志系统讲解.md"
     },
     {
       "basename": "代码",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-04-18",
       "path": "Dairies/2026-04-18.md"
-    },
-    {
-      "basename": "yuque",
-      "path": "Software/yuque.md"
-    },
-    {
-      "basename": "文件接口设计与Json协议",
-      "path": "Templates/Homepage/文件接口设计与Json协议.md"
     }
   ],
   "omittedPaths": [],

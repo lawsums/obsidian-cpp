@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
-                "mode": "preview",
+                "file": "项目/第二轮面试/协程服务器/框架梳理.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "框架梳理"
             }
           },
           {
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/第二轮面试/协程服务器/框架梳理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "框架梳理 的大纲"
             }
           },
           {
@@ -336,9 +336,18 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Projects/anime/未确认进行式.md",
+    "项目/第二轮面试/异步日志/框架梳理.md",
+    "项目/第二轮面试/协程服务器/框架梳理.md",
+    "项目/第二轮面试",
+    "项目/第一轮面试",
+    "项目/第二轮面试/异步日志/项目准备.md",
+    "项目/第二轮面试/异步日志/自己写一个.md",
+    "项目/第二轮面试/协程服务器/协程服务器.md",
+    "项目/第二轮面试/协程服务器",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/协程聊天服务器.md",
     "Dairies/2026-04-30.md",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/1000010.二叉搜索树序列.md",
     "Leetcode/1000010.二叉搜索树序列.cpp",
     "Templates/Homepage/学习C++.md",
@@ -358,16 +367,11 @@
     "操作系统/Http和https的区别.md",
     "操作系统/在浏览器地址栏输入一个URL后回车后背后会进行哪些技术步骤.md",
     "Dairies/2026-04-27.md",
-    "操作系统/什么是Tcp粘包拆包.md",
-    "操作系统/DNS的工作原理.md",
-    "Leetcode/1507.检查网格中是否存在有效路径.md",
     "Leetcode/1507.检查网格中是否存在有效路径.cpp~",
-    "Templates/Homepage/并查集.md",
     "Leetcode/1507.检查网格中是否存在有效路径.cpp",
     "Leetcode/images/1507_e2.png",
     "Leetcode/images/1507_e1.png",
     "Leetcode/images/1507_main.png",
-    "项目/异步日志/自己写一个.md",
     "Leetcode/1000011.迷路的机器人.cpp~",
     "Leetcode/1000011.迷路的机器人.cpp",
     "Leetcode/images/1000011_robot_maze.png",
@@ -375,9 +379,6 @@
     "Attachments/Pasted image 20260421223456.png",
     "Attachments/Pasted image 20260421222943.png",
     "Pandoc/~$代码.docx",
-    "Pandoc/代码.docx",
-    "Configs/data.ctb",
-    "Configs/start6.bat",
     "Attachments/3.drawio.svg",
     "Attachments/4.drawio 1.svg",
     "Attachments/4.drawio.svg",
