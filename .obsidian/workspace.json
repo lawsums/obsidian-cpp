@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "317d703625111547",
+            "id": "a8fa3bde95b82293",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,54 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
-            }
-          },
-          {
-            "id": "a8fa3bde95b82293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/第二轮面试/协程服务器/框架梳理.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "框架梳理"
-            }
-          },
-          {
-            "id": "e7c13d28df03ff8e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/协程聊天服务器.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "协程聊天服务器"
             }
           }
         ]
@@ -358,7 +310,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "317d703625111547",
+  "active": "944cd14a7fae27b7",
   "lastOpenFiles": [
     "项目/第二轮面试/协程服务器/框架梳理.md",
     "Projects/anime/未确认进行式.md",
