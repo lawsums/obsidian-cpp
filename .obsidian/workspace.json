@@ -6,7 +6,6 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
-        "dimension": 32.9088471849866,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -54,26 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "协程聊天服务器"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "9cc451acd258842c",
-        "type": "tabs",
-        "dimension": 67.0911528150134,
-        "children": [
-          {
-            "id": "415a64a705814a36",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.bilibili.com/video/BV16W42197Ge/"
-              },
-              "icon": "bilibili",
-              "title": "【C++20】基于协程实现的WebSocket聊天服务器 - bilibili"
             }
           }
         ]
@@ -151,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -206,12 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -319,8 +298,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -356,7 +334,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "415a64a705814a36",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/协程聊天服务器.md",
     "Dairies/2026-04-30.md",
