@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "7f8858ceee04c89c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-04-30.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-30"
+            }
           }
         ]
       }
@@ -314,9 +338,10 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-04-30.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/协程聊天服务器.md",
     "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-04-28.md",
     "项目/毕设/论文规划.md",
     "操作系统/http服务器演化.md",
@@ -327,7 +352,6 @@
     "Leetcode/1000046.最大子矩阵.cpp",
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/算法面试好题.md",
-    "Dairies/2026-04-30.md",
     "Leetcode/76. 最小覆盖子串.md",
     "Leetcode/76.最小覆盖子串.md",
     "操作系统/Http请求有哪些方法.md",

@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-04-30",
+      "path": "Dairies/2026-04-30.md"
+    },
+    {
       "basename": "协程聊天服务器",
       "path": "Templates/Homepage/协程聊天服务器.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "乱马1 2",
       "path": "Projects/anime/乱马1 2.md"
-    },
-    {
-      "basename": "另一本日_大纲",
-      "path": "Temp/另一本日_大纲.md"
     }
   ],
   "omittedPaths": [],
