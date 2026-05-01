@@ -103,8 +103,7 @@
               "title": "稿子"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -234,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/第二轮面试/协程服务器/稿子.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "稿子 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -385,10 +384,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4cafe0771f6ad734",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "项目/第二轮面试/协程服务器/面试.md",
     "项目/第二轮面试/协程服务器/稿子.md",
+    "项目/第二轮面试/协程服务器/面试.md",
     "项目/第二轮面试/协程服务器/15道题.md",
     "项目/第二轮面试/协程服务器/框架梳理.md",
     "项目/第二轮面试/协程服务器/协程服务器.md",

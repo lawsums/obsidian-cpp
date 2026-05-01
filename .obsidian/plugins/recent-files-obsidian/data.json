@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "稿子",
       "path": "项目/第二轮面试/协程服务器/稿子.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "协程聊天服务器",
       "path": "Templates/Homepage/协程聊天服务器.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "004_闪念",
