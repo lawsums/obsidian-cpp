@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "学习C++"
             }
+          },
+          {
+            "id": "4cafe0771f6ad734",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/第二轮面试/协程服务器/稿子.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "稿子"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -210,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
+                "file": "项目/第二轮面试/协程服务器/稿子.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习C++ 的大纲"
+              "title": "稿子 的大纲"
             }
           },
           {
@@ -361,25 +385,28 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6a729db7aeadea29",
+  "active": "4cafe0771f6ad734",
   "lastOpenFiles": [
+    "项目/第二轮面试/协程服务器/面试.md",
+    "项目/第二轮面试/协程服务器/稿子.md",
+    "项目/第二轮面试/协程服务器/15道题.md",
+    "项目/第二轮面试/协程服务器/框架梳理.md",
+    "项目/第二轮面试/协程服务器/协程服务器.md",
+    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/协程聊天服务器.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/004_闪念.md",
     "Dairies/2026-05-01.md",
-    "项目/第二轮面试/协程服务器/框架梳理.md",
     "Projects/anime/未确认进行式.md",
     "项目/第二轮面试/异步日志/框架梳理.md",
     "项目/第二轮面试",
     "项目/第一轮面试",
     "项目/第二轮面试/异步日志/项目准备.md",
     "项目/第二轮面试/异步日志/自己写一个.md",
-    "项目/第二轮面试/协程服务器/协程服务器.md",
     "项目/第二轮面试/协程服务器",
     "Dairies/2026-04-30.md",
     "Leetcode/1000010.二叉搜索树序列.md",
     "Leetcode/1000010.二叉搜索树序列.cpp",
-    "Templates/Homepage/学习C++.md",
     "Dairies/2026-04-28.md",
     "项目/毕设/论文规划.md",
     "操作系统/http服务器演化.md",
@@ -391,9 +418,6 @@
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/算法面试好题.md",
     "Leetcode/76. 最小覆盖子串.md",
-    "Leetcode/76.最小覆盖子串.md",
-    "操作系统/Http请求有哪些方法.md",
-    "操作系统/Http和https的区别.md",
     "Leetcode/1507.检查网格中是否存在有效路径.cpp~",
     "Leetcode/1507.检查网格中是否存在有效路径.cpp",
     "Leetcode/images/1507_e2.png",
