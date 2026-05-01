@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "004_闪念",
+      "path": "Templates/Homepage/004_闪念.md"
+    },
+    {
       "basename": "框架梳理",
       "path": "项目/第二轮面试/协程服务器/框架梳理.md"
     },
@@ -127,10 +131,6 @@
     {
       "basename": "2026-04-26",
       "path": "Dairies/2026-04-26.md"
-    },
-    {
-      "basename": "004_闪念",
-      "path": "Templates/Homepage/004_闪念.md"
     },
     {
       "basename": "2026-04-24",
