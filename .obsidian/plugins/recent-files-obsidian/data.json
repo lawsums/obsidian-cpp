@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "协程聊天服务器",
+      "path": "Templates/Homepage/协程聊天服务器.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -29,20 +37,12 @@
       "path": "项目/第二轮面试/协程服务器/协程服务器.md"
     },
     {
-      "basename": "协程聊天服务器",
-      "path": "Templates/Homepage/协程聊天服务器.md"
-    },
-    {
       "basename": "2026-04-30",
       "path": "Dairies/2026-04-30.md"
     },
     {
       "basename": "1000010.二叉搜索树序列",
       "path": "Leetcode/1000010.二叉搜索树序列.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "2026-04-28",
