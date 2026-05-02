@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "论文规划",
+      "path": "项目/毕设/论文规划.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "2026-04-28",
       "path": "Dairies/2026-04-28.md"
-    },
-    {
-      "basename": "论文规划",
-      "path": "项目/毕设/论文规划.md"
     },
     {
       "basename": "http服务器演化",
