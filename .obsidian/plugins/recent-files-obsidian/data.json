@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-05-01",
+      "path": "Dairies/2026-05-01.md"
+    },
+    {
       "basename": "稿子",
       "path": "项目/第二轮面试/协程服务器/稿子.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-20",
       "path": "Dairies/2026-04-20.md"
-    },
-    {
-      "basename": "100233.八皇后",
-      "path": "Leetcode/100233.八皇后.cpp"
     }
   ],
   "omittedPaths": [],
