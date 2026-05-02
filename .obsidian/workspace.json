@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "fc89a163fee0fbdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "用ai产出创意内容"
+            }
           }
         ]
       }
@@ -314,12 +338,13 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-05-02.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/用ai产出创意内容.md",
     "Leetcode/100261.井字游戏.md",
     "Leetcode/100261.井字游戏.cpp",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-05-03.md",
     "Dairies/2026-05-01.md",
-    "Dairies/2026-05-02.md",
     "项目/第二轮面试/协程服务器/稿子.md",
     "项目/第二轮面试/协程服务器/面试.md",
     "项目/第二轮面试/协程服务器/15道题.md",
@@ -343,7 +368,6 @@
     "操作系统/http服务器演化.md",
     "草稿.md",
     "Dairies/实现自己的数据结构.md",
-    "Templates/Homepage/用ai产出创意内容.md",
     "Leetcode/1000046.最大子矩阵.cpp",
     "Leetcode/1507.检查网格中是否存在有效路径.cpp~",
     "Leetcode/1507.检查网格中是否存在有效路径.cpp",
