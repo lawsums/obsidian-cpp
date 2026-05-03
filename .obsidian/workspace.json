@@ -79,8 +79,7 @@
               "title": "用ai产出创意内容"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/毕设/论文规划.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "论文规划 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -361,8 +360,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e757812496f72efa",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "项目/毕设/论文规划.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-05-02.md",
     "Templates/Homepage/用ai产出创意内容.md",
@@ -389,7 +389,6 @@
     "Leetcode/1000010.二叉搜索树序列.md",
     "Leetcode/1000010.二叉搜索树序列.cpp",
     "Dairies/2026-04-28.md",
-    "项目/毕设/论文规划.md",
     "操作系统/http服务器演化.md",
     "草稿.md",
     "Dairies/实现自己的数据结构.md",
