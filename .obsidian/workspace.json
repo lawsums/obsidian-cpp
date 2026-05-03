@@ -32,78 +32,6 @@
             }
           },
           {
-            "id": "84afaef8bf5955d8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "草稿.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "草稿"
-            }
-          },
-          {
-            "id": "d915903f50041b35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/复习面试题.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "复习面试题"
-            }
-          },
-          {
-            "id": "e3a0d28cad3bc45f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/第二轮面试/协程服务器/anki-5-3.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "anki-5-3"
-            }
-          },
-          {
             "id": "e757812496f72efa",
             "type": "leaf",
             "state": {
@@ -152,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -282,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "草稿.md",
+                "file": "Templates/Homepage/用ai产出创意内容.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "草稿 的大纲"
+              "title": "用ai产出创意内容 的大纲"
             }
           },
           {
@@ -433,14 +361,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "84afaef8bf5955d8",
+  "active": "fc89a163fee0fbdb",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/复习面试题.md",
     "草稿.md",
     "Templates/Homepage/箭头运算符.md",
     "Templates/Homepage/Cpp大纲.md",
     "Templates/Homepage/Effctive STL.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/2026-05-04.md",
     "项目/第二轮面试/协程服务器/anki-5-3.md",

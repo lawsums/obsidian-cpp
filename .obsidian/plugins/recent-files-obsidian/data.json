@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "草稿",
-      "path": "草稿.md"
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "复习面试题",
       "path": "Templates/Homepage/复习面试题.md"
+    },
+    {
+      "basename": "草稿",
+      "path": "草稿.md"
     },
     {
       "basename": "箭头运算符",
@@ -19,10 +27,6 @@
     {
       "basename": "Effctive STL",
       "path": "Templates/Homepage/Effctive STL.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "学习C++",
@@ -47,10 +51,6 @@
     {
       "basename": "2026-05-02",
       "path": "Dairies/2026-05-02.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "100261.井字游戏",
