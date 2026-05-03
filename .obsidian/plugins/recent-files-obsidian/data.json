@@ -1,8 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "箭头运算符",
+      "path": "Templates/Homepage/箭头运算符.md"
+    },
+    {
+      "basename": "Cpp大纲",
+      "path": "Templates/Homepage/Cpp大纲.md"
+    },
+    {
+      "basename": "草稿",
+      "path": "草稿.md"
+    },
+    {
+      "basename": "Effctive STL",
+      "path": "Templates/Homepage/Effctive STL.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "复习面试题",
+      "path": "Templates/Homepage/复习面试题.md"
     },
     {
       "basename": "anki-5-3",
@@ -49,10 +73,6 @@
       "path": "项目/第二轮面试/协程服务器/协程服务器.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
       "basename": "协程聊天服务器",
       "path": "Templates/Homepage/协程聊天服务器.md"
     },
@@ -87,10 +107,6 @@
     {
       "basename": "http服务器演化",
       "path": "操作系统/http服务器演化.md"
-    },
-    {
-      "basename": "草稿",
-      "path": "草稿.md"
     },
     {
       "basename": "实现自己的数据结构",
@@ -183,22 +199,6 @@
     {
       "basename": "加入模板",
       "path": "项目/毕设/加入模板.md"
-    },
-    {
-      "basename": "2026-04-22",
-      "path": "Dairies/2026-04-22.md"
-    },
-    {
-      "basename": "2026-04-21",
-      "path": "Dairies/2026-04-21.md"
-    },
-    {
-      "basename": "基础日志系统讲解",
-      "path": "项目/第二轮面试/异步日志/基础日志系统讲解.md"
-    },
-    {
-      "basename": "代码",
-      "path": "项目/毕设/代码.md"
     }
   ],
   "omittedPaths": [],
