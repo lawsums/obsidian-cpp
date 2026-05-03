@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "f978877ff3c4ef60",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-05-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-03"
+            }
+          },
+          {
             "id": "e757812496f72efa",
             "type": "leaf",
             "state": {
@@ -362,10 +386,11 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-05-03.md",
+    "Templates/Homepage/Homepage.md",
     "Dairies/2026-05-05.md",
     "Dairies/2026-05-20.md",
     "Templates/Homepage/用ai产出创意内容.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/复习面试题.md",
     "草稿.md",
     "Templates/Homepage/箭头运算符.md",
@@ -381,7 +406,6 @@
     "Dairies/2026-05-02.md",
     "Leetcode/100261.井字游戏.md",
     "Leetcode/100261.井字游戏.cpp",
-    "Dairies/2026-05-03.md",
     "Dairies/2026-05-01.md",
     "项目/第二轮面试/协程服务器/稿子.md",
     "项目/第二轮面试/协程服务器/框架梳理.md",
