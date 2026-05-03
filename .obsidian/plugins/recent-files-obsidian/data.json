@@ -5,6 +5,18 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "anki-5-3",
+      "path": "项目/第二轮面试/协程服务器/anki-5-3.md"
+    },
+    {
+      "basename": "15道题",
+      "path": "项目/第二轮面试/协程服务器/15道题.md"
+    },
+    {
+      "basename": "面试",
+      "path": "项目/第二轮面试/协程服务器/面试.md"
+    },
+    {
       "basename": "论文规划",
       "path": "项目/毕设/论文规划.md"
     },
@@ -27,14 +39,6 @@
     {
       "basename": "稿子",
       "path": "项目/第二轮面试/协程服务器/稿子.md"
-    },
-    {
-      "basename": "面试",
-      "path": "项目/第二轮面试/协程服务器/面试.md"
-    },
-    {
-      "basename": "15道题",
-      "path": "项目/第二轮面试/协程服务器/15道题.md"
     },
     {
       "basename": "框架梳理",
@@ -195,10 +199,6 @@
     {
       "basename": "代码",
       "path": "项目/毕设/代码.md"
-    },
-    {
-      "basename": "软件开发",
-      "path": "Software/软件开发.md"
     }
   ],
   "omittedPaths": [],
