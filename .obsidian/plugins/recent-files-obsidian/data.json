@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-05-04",
+      "path": "Dairies/2026-05-04.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-26",
       "path": "Dairies/2026-04-26.md"
-    },
-    {
-      "basename": "2026-04-24",
-      "path": "Dairies/2026-04-24.md"
     }
   ],
   "omittedPaths": [],

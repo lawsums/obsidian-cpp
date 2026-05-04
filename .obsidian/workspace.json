@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "7a1ee44d51caee7d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-05-04.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-04"
+            }
+          },
+          {
             "id": "473c4cb4141696b6",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "项目_第二轮面试_异步日志_框架梳理_面试"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -130,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -184,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/2026-05-04.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "2026-05-04 的大纲"
             }
           },
           {
@@ -298,7 +324,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -334,12 +361,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "7a1ee44d51caee7d",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "项目/第二轮面试/异步日志/项目_第二轮面试_异步日志_框架梳理_面试.md",
+    "Dairies/2026-05-04.md",
     "Leetcode/1.md",
     "项目/第二轮面试/异步日志/框架梳理.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/003_不定期任务.md",
     "项目/第二轮面试/异步日志/框架梳理_面试.md",
     "项目/第二轮面试/协程服务器/面试.md",
@@ -356,7 +384,6 @@
     "Templates/Homepage/Cpp大纲.md",
     "Templates/Homepage/Effctive STL.md",
     "Templates/Homepage/学习C++.md",
-    "Dairies/2026-05-04.md",
     "项目/第二轮面试/协程服务器/anki-5-3.md",
     "项目/第二轮面试/协程服务器/15道题.md",
     "项目/毕设/论文规划.md",
