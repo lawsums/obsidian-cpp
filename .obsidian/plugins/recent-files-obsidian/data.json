@@ -5,16 +5,20 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "项目_第二轮面试_异步日志_框架梳理_面试",
+      "path": "项目/第二轮面试/异步日志/项目_第二轮面试_异步日志_框架梳理_面试.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/第二轮面试/异步日志/框架梳理.md"
+    },
+    {
       "basename": "框架梳理_面试",
       "path": "项目/第二轮面试/异步日志/框架梳理_面试.md"
     },
     {
       "basename": "003_不定期任务",
       "path": "Templates/Homepage/003_不定期任务.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/第二轮面试/异步日志/框架梳理.md"
     },
     {
       "basename": "面试",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-24",
       "path": "Dairies/2026-04-24.md"
-    },
-    {
-      "basename": "1000011.迷路的机器人",
-      "path": "Leetcode/1000011.迷路的机器人.md"
     }
   ],
   "omittedPaths": [],
