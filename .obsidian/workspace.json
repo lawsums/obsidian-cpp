@@ -13,30 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/第二轮面试/异步日志/框架梳理_面试.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "框架梳理_面试"
-            }
-          },
-          {
-            "id": "903912e9464edfa5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Templates/Homepage/Homepage.md",
                 "mode": "preview",
                 "source": false,
@@ -55,8 +31,7 @@
               "title": "Homepage"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -335,10 +310,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "903912e9464edfa5",
+  "active": "944cd14a7fae27b7",
   "lastOpenFiles": [
-    "Templates/Homepage/003_不定期任务.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/003_不定期任务.md",
     "项目/第二轮面试/异步日志/框架梳理_面试.md",
     "项目/第二轮面试/异步日志/框架梳理.md",
     "项目/第二轮面试/协程服务器/面试.md",
