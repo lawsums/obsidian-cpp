@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "项目/第二轮面试/异步日志/框架梳理_面试.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "框架梳理_面试"
+            }
+          },
+          {
+            "id": "903912e9464edfa5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Templates/Homepage/Homepage.md",
                 "mode": "preview",
                 "source": false,
@@ -31,7 +55,8 @@
               "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -275,8 +299,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,9 +335,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "903912e9464edfa5",
   "lastOpenFiles": [
+    "Templates/Homepage/003_不定期任务.md",
     "Templates/Homepage/Homepage.md",
+    "项目/第二轮面试/异步日志/框架梳理_面试.md",
+    "项目/第二轮面试/异步日志/框架梳理.md",
+    "项目/第二轮面试/协程服务器/面试.md",
+    "项目/第二轮面试/协程服务器/框架梳理.md",
+    "项目/第二轮面试/协程服务器/稿子.md",
+    "项目/第二轮面试/异步日志/基础日志系统讲解.md",
     "Dairies/2026-05-03.md",
     "Dairies/2026-05-05.md",
     "Dairies/2026-05-20.md",
@@ -329,18 +359,11 @@
     "项目/第二轮面试/协程服务器/anki-5-3.md",
     "Leetcode/1.md",
     "项目/第二轮面试/协程服务器/15道题.md",
-    "项目/第二轮面试/协程服务器/面试.md",
     "项目/毕设/论文规划.md",
     "Dairies/2026-05-02.md",
     "Leetcode/100261.井字游戏.md",
     "Leetcode/100261.井字游戏.cpp",
     "Dairies/2026-05-01.md",
-    "项目/第二轮面试/协程服务器/稿子.md",
-    "项目/第二轮面试/协程服务器/框架梳理.md",
-    "项目/第二轮面试/协程服务器/协程服务器.md",
-    "Templates/Homepage/协程聊天服务器.md",
-    "Templates/Homepage/004_闪念.md",
-    "Projects/anime/未确认进行式.md",
     "项目/第二轮面试",
     "项目/第一轮面试",
     "项目/第二轮面试/协程服务器",

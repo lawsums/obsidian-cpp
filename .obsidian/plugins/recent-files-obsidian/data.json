@@ -5,6 +5,34 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
+    },
+    {
+      "basename": "框架梳理_面试",
+      "path": "项目/第二轮面试/异步日志/框架梳理_面试.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/第二轮面试/异步日志/框架梳理.md"
+    },
+    {
+      "basename": "面试",
+      "path": "项目/第二轮面试/协程服务器/面试.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/第二轮面试/协程服务器/框架梳理.md"
+    },
+    {
+      "basename": "稿子",
+      "path": "项目/第二轮面试/协程服务器/稿子.md"
+    },
+    {
+      "basename": "基础日志系统讲解",
+      "path": "项目/第二轮面试/异步日志/基础日志系统讲解.md"
+    },
+    {
       "basename": "用ai产出创意内容",
       "path": "Templates/Homepage/用ai产出创意内容.md"
     },
@@ -45,10 +73,6 @@
       "path": "项目/第二轮面试/协程服务器/15道题.md"
     },
     {
-      "basename": "面试",
-      "path": "项目/第二轮面试/协程服务器/面试.md"
-    },
-    {
       "basename": "论文规划",
       "path": "项目/毕设/论文规划.md"
     },
@@ -65,14 +89,6 @@
       "path": "Dairies/2026-05-01.md"
     },
     {
-      "basename": "稿子",
-      "path": "项目/第二轮面试/协程服务器/稿子.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/第二轮面试/协程服务器/框架梳理.md"
-    },
-    {
       "basename": "协程服务器",
       "path": "项目/第二轮面试/协程服务器/协程服务器.md"
     },
@@ -83,10 +99,6 @@
     {
       "basename": "004_闪念",
       "path": "Templates/Homepage/004_闪念.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/第二轮面试/异步日志/框架梳理.md"
     },
     {
       "basename": "项目准备",
@@ -187,18 +199,6 @@
     {
       "basename": "1000011.迷路的机器人",
       "path": "Leetcode/1000011.迷路的机器人.md"
-    },
-    {
-      "basename": "003_不定期任务",
-      "path": "Templates/Homepage/003_不定期任务.md"
-    },
-    {
-      "basename": "778_水位上升的泳池中游泳",
-      "path": "Dairies/778_水位上升的泳池中游泳.md"
-    },
-    {
-      "basename": "2026-04-23",
-      "path": "Dairies/2026-04-23.md"
     }
   ],
   "omittedPaths": [],
