@@ -32,14 +32,14 @@
             }
           },
           {
-            "id": "06c4e6ab7fed06a2",
+            "id": "21ede30d4823f80c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/Effctive STL.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Effctive STL"
+              "title": "学习C++"
+            }
+          },
+          {
+            "id": "d708a71fae1871e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/C++知识学习.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "C++知识学习"
             }
           },
           {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Effctive STL.md",
+                "file": "Templates/Homepage/C++知识学习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Effctive STL 的大纲"
+              "title": "C++知识学习 的大纲"
             }
           },
           {
@@ -383,11 +407,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "06c4e6ab7fed06a2",
+  "active": "d708a71fae1871e0",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
-    "项目/第二轮面试/零声网盘/项目_第二轮面试_零声网盘_框架梳理_面试.md",
     "项目/第二轮面试/零声网盘/框架梳理.md",
+    "Templates/Homepage/C++知识学习.md",
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/Effctive STL.md",
+    "项目/第二轮面试/零声网盘/项目_第二轮面试_零声网盘_框架梳理_面试.md",
     "项目/第二轮面试/未命名.md",
     "项目/第二轮面试/零声网盘",
     "项目/第二轮面试/异步日志/框架梳理.md",
@@ -408,10 +435,7 @@
     "草稿.md",
     "Templates/Homepage/箭头运算符.md",
     "Templates/Homepage/Cpp大纲.md",
-    "Templates/Homepage/Effctive STL.md",
-    "Templates/Homepage/学习C++.md",
     "项目/第二轮面试/协程服务器/anki-5-3.md",
-    "项目/第二轮面试/协程服务器/15道题.md",
     "Leetcode/100261.井字游戏.cpp",
     "项目/第二轮面试",
     "项目/第一轮面试",
