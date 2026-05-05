@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8fa3bde95b82293",
+            "id": "84ac91d02c065c64",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +30,81 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "06c4e6ab7fed06a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/Effctive STL.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Effctive STL"
+            }
+          },
+          {
+            "id": "a8fa3bde95b82293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/第二轮面试/零声网盘/框架梳理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "框架梳理"
+            }
+          },
+          {
+            "id": "a487775c10546eab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/第二轮面试/零声网盘/项目_第二轮面试_零声网盘_框架梳理_面试.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "项目_第二轮面试_零声网盘_框架梳理_面试"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/Effctive STL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "Effctive STL 的大纲"
             }
           },
           {
@@ -310,12 +383,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "06c4e6ab7fed06a2",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
+    "项目/第二轮面试/零声网盘/项目_第二轮面试_零声网盘_框架梳理_面试.md",
+    "项目/第二轮面试/零声网盘/框架梳理.md",
+    "项目/第二轮面试/未命名.md",
+    "项目/第二轮面试/零声网盘",
     "项目/第二轮面试/异步日志/框架梳理.md",
     "项目/第二轮面试/异步日志/项目_第二轮面试_异步日志_框架梳理_面试.md",
     "Dairies/2026-05-04.md",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/1.md",
     "Templates/Homepage/003_不定期任务.md",
     "项目/第二轮面试/异步日志/框架梳理_面试.md",
@@ -335,9 +412,6 @@
     "Templates/Homepage/学习C++.md",
     "项目/第二轮面试/协程服务器/anki-5-3.md",
     "项目/第二轮面试/协程服务器/15道题.md",
-    "项目/毕设/论文规划.md",
-    "Dairies/2026-05-02.md",
-    "Leetcode/100261.井字游戏.md",
     "Leetcode/100261.井字游戏.cpp",
     "项目/第二轮面试",
     "项目/第一轮面试",
@@ -350,7 +424,6 @@
     "Leetcode/images/1507_e1.png",
     "Leetcode/images/1507_main.png",
     "Leetcode/1000011.迷路的机器人.cpp~",
-    "Leetcode/1000011.迷路的机器人.cpp",
     "Leetcode/images/1000011_robot_maze.png",
     "Attachments/Pasted image 20260421224521.png",
     "Attachments/Pasted image 20260421223456.png",

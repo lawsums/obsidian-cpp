@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Effctive STL",
+      "path": "Templates/Homepage/Effctive STL.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "项目_第二轮面试_零声网盘_框架梳理_面试",
+      "path": "项目/第二轮面试/零声网盘/项目_第二轮面试_零声网盘_框架梳理_面试.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/第二轮面试/零声网盘/框架梳理.md"
     },
     {
       "basename": "框架梳理",
@@ -63,10 +75,6 @@
     {
       "basename": "Cpp大纲",
       "path": "Templates/Homepage/Cpp大纲.md"
-    },
-    {
-      "basename": "Effctive STL",
-      "path": "Templates/Homepage/Effctive STL.md"
     },
     {
       "basename": "学习C++",
@@ -191,14 +199,6 @@
     {
       "basename": "打包exe",
       "path": "Templates/Homepage/打包exe.md"
-    },
-    {
-      "basename": "写战斗小说的技巧",
-      "path": "Templates/Homepage/写战斗小说的技巧.md"
-    },
-    {
-      "basename": "2026-04-26",
-      "path": "Dairies/2026-04-26.md"
     }
   ],
   "omittedPaths": [],
