@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "8a3affdf90a6bf46",
+            "id": "8930e95cc70c6d22",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dairies/2026-05-06.md",
+                "file": "Templates/Homepage/用ai产出创意内容.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-05-06"
-            }
-          },
-          {
-            "id": "15750db10adaa3b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/2026-05-06.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-06"
+              "title": "用ai产出创意内容"
             }
           },
           {
@@ -103,7 +79,8 @@
               "title": "Daily_note_template"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/用ai产出创意内容.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "用ai产出创意内容 的大纲"
             }
           },
           {
@@ -382,10 +359,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "8930e95cc70c6d22",
   "lastOpenFiles": [
-    "Dairies/2026-05-06.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-05-06.md",
     "Templates/Daily_note_template.md",
     "Dairies/2026-05-07.md",
     "项目/第二轮面试/异步日志/项目_第二轮面试_异步日志_框架梳理_面试.md",
