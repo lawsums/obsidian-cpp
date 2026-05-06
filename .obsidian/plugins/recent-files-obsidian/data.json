@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-05-06",
+      "path": "Dairies/2026-05-06.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "什么是Tcp粘包拆包",
       "path": "操作系统/什么是Tcp粘包拆包.md"
-    },
-    {
-      "basename": "DNS的工作原理",
-      "path": "操作系统/DNS的工作原理.md"
     }
   ],
   "omittedPaths": [],
