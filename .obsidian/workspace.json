@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "7627773fa3d34ac6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/第二轮面试/异步日志/项目_第二轮面试_异步日志_框架梳理_面试.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "项目_第二轮面试_异步日志_框架梳理_面试"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/第二轮面试/异步日志/项目_第二轮面试_异步日志_框架梳理_面试.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "项目_第二轮面试_异步日志_框架梳理_面试 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,10 +310,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7627773fa3d34ac6",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "项目/第二轮面试/异步日志/项目准备.md",
     "项目/第二轮面试/异步日志/项目_第二轮面试_异步日志_框架梳理_面试.md",
+    "项目/第二轮面试/异步日志/项目准备.md",
     "项目/第二轮面试/异步日志/框架梳理_面试.md",
     "项目/第二轮面试/异步日志/基础日志系统讲解.md",
     "项目/第二轮面试/异步日志/框架梳理.md",

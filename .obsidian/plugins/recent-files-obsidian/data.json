@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "项目_第二轮面试_异步日志_框架梳理_面试",
       "path": "项目/第二轮面试/异步日志/项目_第二轮面试_异步日志_框架梳理_面试.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "框架梳理",
       "path": "项目/第二轮面试/异步日志/框架梳理.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "学习C++",
