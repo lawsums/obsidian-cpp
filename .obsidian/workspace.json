@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "8a3affdf90a6bf46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-05-06.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-06"
+            }
+          },
+          {
             "id": "15750db10adaa3b0",
             "type": "leaf",
             "state": {
@@ -80,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/2026-05-06.md",
+                "file": "Templates/Daily_note_template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-06 的大纲"
+              "title": "Daily_note_template 的大纲"
             }
           },
           {
@@ -359,8 +383,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "15750db10adaa3b0",
+  "active": "ba0e99a9096a336f",
   "lastOpenFiles": [
+    "Dairies/2026-05-06.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-05-07.md",
     "Templates/Daily_note_template.md",
@@ -373,7 +398,6 @@
     "Dairies/2026-05-05.md",
     "项目/第二轮面试/零声网盘/框架梳理.md",
     "Templates/Homepage/C++知识学习.md",
-    "Dairies/2026-05-06.md",
     "Templates/Homepage/Effctive STL.md",
     "项目/第二轮面试/零声网盘/项目_第二轮面试_零声网盘_框架梳理_面试.md",
     "项目/第二轮面试/未命名.md",
