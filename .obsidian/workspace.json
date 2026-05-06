@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "file": "Dairies/2026-05-06.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "用ai产出创意内容 的大纲"
+              "title": "2026-05-06 的大纲"
             }
           },
           {
@@ -383,11 +383,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "bf36825db4a681fb",
+  "active": "c1241f5fe75a0c71",
   "lastOpenFiles": [
+    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-05-06.md",
-    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Daily_note_template.md",
     "Dairies/2026-05-07.md",
     "项目/第二轮面试/异步日志/项目_第二轮面试_异步日志_框架梳理_面试.md",
