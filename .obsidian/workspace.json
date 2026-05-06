@@ -103,8 +103,7 @@
               "title": "Daily_note_template"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Daily_note_template.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Daily_note_template 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -383,12 +382,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ba0e99a9096a336f",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Daily_note_template.md",
     "Dairies/2026-05-06.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-05-07.md",
-    "Templates/Daily_note_template.md",
     "项目/第二轮面试/异步日志/项目_第二轮面试_异步日志_框架梳理_面试.md",
     "项目/第二轮面试/异步日志/项目准备.md",
     "项目/第二轮面试/异步日志/框架梳理_面试.md",
