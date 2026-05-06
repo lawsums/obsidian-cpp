@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "项目_第二轮面试_异步日志_框架梳理_面试",
