@@ -47,6 +47,7 @@ switch (weekday) {
 }
 %>
 - [ ] [多邻国练习](https://www.duolingo.cn/learn)
+- [ ] 抹护肤品
 - [ ] [[实现自己的数据结构]]
 - [ ] [[学习深度学习]]
 - [ ] [学习项目](https://wx.zsxq.com/group/88511825151142)
