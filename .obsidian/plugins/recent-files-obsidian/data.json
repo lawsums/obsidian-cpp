@@ -1,24 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "30天制作一个服务器",
+      "path": "Templates/Homepage/30天制作一个服务器.md"
     },
     {
-      "basename": "C++知识学习",
-      "path": "Templates/Homepage/C++知识学习.md"
+      "basename": "007_书籍",
+      "path": "Templates/Homepage/007_书籍.md"
     },
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
     {
-      "basename": "C++课程",
-      "path": "Templates/Homepage/C++课程.md"
+      "basename": "Dairies_实现自己的数据结构_需求",
+      "path": "Dairies/Dairies_实现自己的数据结构_需求.md"
     },
     {
-      "basename": "007_书籍",
-      "path": "Templates/Homepage/007_书籍.md"
+      "basename": "复习面试题",
+      "path": "Templates/Homepage/复习面试题.md"
+    },
+    {
+      "basename": "C++知识学习",
+      "path": "Templates/Homepage/C++知识学习.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-05-07",
+      "path": "Dairies/2026-05-07.md"
+    },
+    {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
+      "basename": "C++课程",
+      "path": "Templates/Homepage/C++课程.md"
     },
     {
       "basename": "100260.交点",
@@ -97,10 +117,6 @@
       "path": "Dairies/2026-05-03.md"
     },
     {
-      "basename": "复习面试题",
-      "path": "Templates/Homepage/复习面试题.md"
-    },
-    {
       "basename": "草稿",
       "path": "草稿.md"
     },
@@ -169,10 +185,6 @@
       "path": "操作系统/http服务器演化.md"
     },
     {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
       "basename": "1000046.最大子矩阵",
       "path": "Leetcode/1000046.最大子矩阵.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "76. 最小覆盖子串",
       "path": "Leetcode/76. 最小覆盖子串.md"
-    },
-    {
-      "basename": "76.最小覆盖子串",
-      "path": "Leetcode/76.最小覆盖子串.md"
-    },
-    {
-      "basename": "Http请求有哪些方法",
-      "path": "操作系统/Http请求有哪些方法.md"
-    },
-    {
-      "basename": "Http和https的区别",
-      "path": "操作系统/Http和https的区别.md"
     }
   ],
   "omittedPaths": [],
