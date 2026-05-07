@@ -5,6 +5,22 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "C++知识学习",
+      "path": "Templates/Homepage/C++知识学习.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "C++课程",
+      "path": "Templates/Homepage/C++课程.md"
+    },
+    {
+      "basename": "007_书籍",
+      "path": "Templates/Homepage/007_书籍.md"
+    },
+    {
       "basename": "100260.交点",
       "path": "Leetcode/100260.交点.md"
     },
@@ -41,20 +57,12 @@
       "path": "项目/第二轮面试/异步日志/框架梳理.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
       "basename": "2026-05-05",
       "path": "Dairies/2026-05-05.md"
     },
     {
       "basename": "框架梳理",
       "path": "项目/第二轮面试/零声网盘/框架梳理.md"
-    },
-    {
-      "basename": "C++知识学习",
-      "path": "Templates/Homepage/C++知识学习.md"
     },
     {
       "basename": "Effctive STL",
@@ -191,14 +199,6 @@
     {
       "basename": "Http和https的区别",
       "path": "操作系统/Http和https的区别.md"
-    },
-    {
-      "basename": "在浏览器地址栏输入一个URL后回车后背后会进行哪些技术步骤",
-      "path": "操作系统/在浏览器地址栏输入一个URL后回车后背后会进行哪些技术步骤.md"
-    },
-    {
-      "basename": "2026-04-27",
-      "path": "Dairies/2026-04-27.md"
     }
   ],
   "omittedPaths": [],

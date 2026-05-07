@@ -56,13 +56,13 @@
 - [x] 40.Algorithm算法库
 - [ ] 41.并行编程
 - [x] 42.线程thread
-- [ ] 43.promise和future
+- [x] 43.promise和future
 - [x] 44.互斥和锁mutex & lock
 - [ ] 45.多线程死锁，std::lock防死锁的原理
 - [ ] 46.读写锁，shared_lock的原理和使用
 - [x] 47.条件变量
 - [ ] 48.信号量Semaphore，std::counting_semap...
-- [ ] 49.异步任务，async和packaged_task
+- [x] 49.异步任务，async和packaged_task
 - [ ] 50.线程屏障barrier和latch
 - [x] 51.协程
 - [ ] 52.协程可等待对象
@@ -174,3 +174,4 @@
 * 2026-03-07 - 1
 * 2026-03-11 - 1
 * 2026-05-05 - 1
+* 2026-05-07 - 1
