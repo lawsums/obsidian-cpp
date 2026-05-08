@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "a529288d0a1422cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-05-08.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-08"
+            }
+          },
+          {
             "id": "447f3843e87db0e7",
             "type": "leaf",
             "state": {
@@ -360,8 +384,9 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/学习C++.md",
+    "Dairies/2026-05-08.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习C++.md",
     "Dairies/2026-05-22.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/2026-05-09.md",
@@ -380,7 +405,6 @@
     "Leetcode/100260.交点.md",
     "Leetcode/100260.交点.cpp~",
     "Leetcode/100260.交点.cpp",
-    "Dairies/2026-05-08.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/2026-05-06.md",
     "Templates/Daily_note_template.md",

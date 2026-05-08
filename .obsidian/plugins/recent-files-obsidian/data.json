@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-05-08",
+      "path": "Dairies/2026-05-08.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "http服务器演化",
       "path": "操作系统/http服务器演化.md"
-    },
-    {
-      "basename": "1000046.最大子矩阵",
-      "path": "Leetcode/1000046.最大子矩阵.md"
     }
   ],
   "omittedPaths": [],
