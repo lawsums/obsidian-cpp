@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-05-09",
+      "path": "Dairies/2026-05-09.md"
+    },
+    {
       "basename": "2026-05-08",
       "path": "Dairies/2026-05-08.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-04-28",
       "path": "Dairies/2026-04-28.md"
-    },
-    {
-      "basename": "http服务器演化",
-      "path": "操作系统/http服务器演化.md"
     }
   ],
   "omittedPaths": [],
