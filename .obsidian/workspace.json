@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "af8dc19be1a45f2f",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          },
+          {
             "id": "a529288d0a1422cc",
             "type": "leaf",
             "state": {
@@ -103,7 +113,8 @@
               "title": "实现自己的数据结构"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,13 +243,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -382,12 +392,16 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "af8dc19be1a45f2f",
   "lastOpenFiles": [
+    "Projects/anime/主播女孩重度依赖.md",
+    "Dairies/2026-05-08.md",
+    "Projects/anime/未确认进行式.md",
+    "Projects/anime/上伊那牡丹，酒醉身姿似百合花般.md",
+    "Templates/Homepage/Homepage.md",
+    "Projects/anime/想结束这场“我爱你”的游戏.md",
     "Dairies/2026-05-10.md",
     "Dairies/2026-05-09.md",
-    "Templates/Homepage/Homepage.md",
-    "Dairies/2026-05-08.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/2026-05-22.md",
     "Dairies/实现自己的数据结构.md",
@@ -408,10 +422,6 @@
     "Leetcode/100260.交点.cpp",
     "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/2026-05-06.md",
-    "Templates/Daily_note_template.md",
-    "项目/第二轮面试/异步日志/项目_第二轮面试_异步日志_框架梳理_面试.md",
-    "项目/第二轮面试/异步日志/项目准备.md",
-    "项目/第二轮面试/异步日志/框架梳理_面试.md",
     "项目/第二轮面试/零声网盘",
     "Leetcode/100261.井字游戏.cpp",
     "项目/第二轮面试",

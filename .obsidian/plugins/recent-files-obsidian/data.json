@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "主播女孩重度依赖",
+      "path": "Projects/anime/主播女孩重度依赖.md"
+    },
+    {
+      "basename": "2026-05-08",
+      "path": "Dairies/2026-05-08.md"
+    },
+    {
+      "basename": "未确认进行式",
+      "path": "Projects/anime/未确认进行式.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "2026-05-09",
       "path": "Dairies/2026-05-09.md"
-    },
-    {
-      "basename": "2026-05-08",
-      "path": "Dairies/2026-05-08.md"
     },
     {
       "basename": "学习C++",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-04-30",
       "path": "Dairies/2026-04-30.md"
-    },
-    {
-      "basename": "1000010.二叉搜索树序列",
-      "path": "Leetcode/1000010.二叉搜索树序列.md"
-    },
-    {
-      "basename": "2026-04-28",
-      "path": "Dairies/2026-04-28.md"
     }
   ],
   "omittedPaths": [],
