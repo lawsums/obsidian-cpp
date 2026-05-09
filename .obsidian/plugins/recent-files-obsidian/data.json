@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "主播女孩重度依赖",
       "path": "Projects/anime/主播女孩重度依赖.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "未确认进行式",
       "path": "Projects/anime/未确认进行式.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "2026-05-09",
