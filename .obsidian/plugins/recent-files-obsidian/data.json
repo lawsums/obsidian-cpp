@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "anki-2026-05-09",
+      "path": "Templates/Homepage/anki-2026-05-09.md"
+    },
+    {
       "basename": "主播女孩重度依赖",
       "path": "Projects/anime/主播女孩重度依赖.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "自己写一个",
       "path": "项目/第二轮面试/异步日志/自己写一个.md"
-    },
-    {
-      "basename": "2026-04-30",
-      "path": "Dairies/2026-04-30.md"
     }
   ],
   "omittedPaths": [],
