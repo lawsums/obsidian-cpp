@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
       "basename": "anki-2026-05-09",
       "path": "Templates/Homepage/anki-2026-05-09.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "004_闪念",
       "path": "Templates/Homepage/004_闪念.md"
-    },
-    {
-      "basename": "自己写一个",
-      "path": "项目/第二轮面试/异步日志/自己写一个.md"
     }
   ],
   "omittedPaths": [],
