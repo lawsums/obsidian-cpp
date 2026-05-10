@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "b0217474fa1fd8d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "用ai产出创意内容"
+            }
+          },
+          {
             "id": "031148b5ff349b0e",
             "type": "leaf",
             "state": {
@@ -363,8 +387,8 @@
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/用ai产出创意内容.md",
-    "Dairies/2026-05-10.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-05-10.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/2026-05-09.md",
     "Dairies/2026-05-11.md",
