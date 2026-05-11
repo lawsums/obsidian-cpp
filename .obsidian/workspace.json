@@ -55,8 +55,7 @@
               "title": "4102.有限重边的最小阈值路径"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/4102.有限重边的最小阈值路径.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4102.有限重边的最小阈值路径 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,14 +334,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b94ce8a48fea0529",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Leetcode/4102.有限重边的最小阈值路径.md",
+    "Dairies/2026-05-12.md",
     "Leetcode/4102.有限重边的最小阈值路径.cpp",
     "Templates/Homepage/Homepage.md",
     "Leetcode/images/4102_g5.png",
     "Leetcode/images/4102_g3_f.png",
     "Leetcode/images/4102_g6.png",
-    "Leetcode/4102.有限重边的最小阈值路径.md",
     "Dairies/2026-05-13.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/2026-05-10.md",
@@ -375,7 +375,6 @@
     "项目/第二轮面试/协程服务器",
     "Leetcode/1000010.二叉搜索树序列.cpp",
     "Leetcode/1000046.最大子矩阵.cpp",
-    "Leetcode/1507.检查网格中是否存在有效路径.cpp~",
     "Leetcode/images/1507_e2.png",
     "Leetcode/images/1507_e1.png",
     "Leetcode/images/1507_main.png",
