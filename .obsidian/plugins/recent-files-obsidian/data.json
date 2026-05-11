@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "4102.有限重边的最小阈值路径",
       "path": "Leetcode/4102.有限重边的最小阈值路径.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "用ai产出创意内容",
@@ -47,10 +55,6 @@
     {
       "basename": "未确认进行式",
       "path": "Projects/anime/未确认进行式.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "Dairies_实现自己的数据结构_需求",
@@ -99,10 +103,6 @@
     {
       "basename": "2026-05-06",
       "path": "Dairies/2026-05-06.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "项目_第二轮面试_异步日志_框架梳理_面试",
