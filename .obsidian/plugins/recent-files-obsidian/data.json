@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "4102.有限重边的最小阈值路径",
+      "path": "Leetcode/4102.有限重边的最小阈值路径.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-01",
       "path": "Dairies/2026-05-01.md"
-    },
-    {
-      "basename": "协程服务器",
-      "path": "项目/第二轮面试/协程服务器/协程服务器.md"
     }
   ],
   "omittedPaths": [],
