@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "多个esp32组网数据通过esp32s3终端上传云平台",
       "path": "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "2026-05-12",
       "path": "Dairies/2026-05-12.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "4102.有限重边的最小阈值路径",
