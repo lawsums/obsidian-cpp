@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-05-12",
+      "path": "Dairies/2026-05-12.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "100261.井字游戏",
       "path": "Leetcode/100261.井字游戏.md"
-    },
-    {
-      "basename": "2026-05-01",
-      "path": "Dairies/2026-05-01.md"
     }
   ],
   "omittedPaths": [],
