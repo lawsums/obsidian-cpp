@@ -54,9 +54,56 @@
               "icon": "lucide-file",
               "title": "用ai产出创意内容"
             }
+          },
+          {
+            "id": "34b0f555b18f29c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "做一个小程序显示云平台数据和esp32节点报警情况"
+            }
+          },
+          {
+            "id": "7c8f16ebadd66654",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "多个esp32组网数据通过esp32s3终端上传云平台"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "用ai产出创意内容 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,8 +382,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "06d35926da5c0f8f",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
+    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
+    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-05-12.md",
     "Templates/Homepage/学习C++.md",
@@ -347,7 +397,6 @@
     "Leetcode/images/4102_g3_f.png",
     "Leetcode/images/4102_g6.png",
     "Dairies/2026-05-13.md",
-    "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/2026-05-10.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/2026-05-09.md",
@@ -365,8 +414,6 @@
     "Templates/Homepage/第4章 序列式容器.md",
     "Templates/Homepage/放大.md",
     "Templates/Homepage/007_书籍.md",
-    "Templates/Homepage/30天制作一个服务器.md",
-    "Templates/Homepage/复习面试题.md",
     "Leetcode/100260.交点.cpp~",
     "Leetcode/100260.交点.cpp",
     "项目/第二轮面试/零声网盘",
