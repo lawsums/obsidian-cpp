@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "007_书籍",
+      "path": "Templates/Homepage/007_书籍.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "2026-05-12",
       "path": "Dairies/2026-05-12.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "多个esp32组网数据通过esp32s3终端上传云平台",
@@ -83,10 +87,6 @@
     {
       "basename": "放大",
       "path": "Templates/Homepage/放大.md"
-    },
-    {
-      "basename": "007_书籍",
-      "path": "Templates/Homepage/007_书籍.md"
     },
     {
       "basename": "30天制作一个服务器",
