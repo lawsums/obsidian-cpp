@@ -55,8 +55,7 @@
               "title": "2026-05-12"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/2026-05-12.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-12 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,10 +334,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c36d9d92e17a6f0a",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-05-12.md",
+    "Templates/Homepage/Homepage.md",
     "Dairies/2026-05-14.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
