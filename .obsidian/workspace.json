@@ -127,8 +127,7 @@
               "title": "用ai产出创意内容"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/2026-05-14.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-05-14 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -407,8 +406,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "6b2a6224a699c5c4",
+  "active": "f254303f17f2771b",
   "lastOpenFiles": [
+    "Dairies/2026-05-14.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-05-13.md",
     "Dairies/2026-05-16.md",
@@ -417,7 +417,6 @@
     "项目/第二轮面试/高性能服务器/流程.md",
     "项目/第二轮面试/muduo网络库/流程.md",
     "项目/第二轮面试/车载终端/2026-05-14-anki.md",
-    "Dairies/2026-05-14.md",
     "Dairies/2026-05-15.md",
     "Dairies/2026-05-12.md",
     "Templates/Homepage/用ai产出创意内容.md",
