@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "707b6037132d02c7",
+            "id": "f254303f17f2771b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,6 +29,54 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
+            }
+          },
+          {
+            "id": "707b6037132d02c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/第二轮面试/车载终端/2026-05-14-anki.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-14-anki"
+            }
+          },
+          {
+            "id": "419674aaab31df67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习C++"
             }
           },
           {
@@ -53,30 +101,6 @@
               },
               "icon": "lucide-file",
               "title": "用ai产出创意内容"
-            }
-          },
-          {
-            "id": "66e210ed28bb4292",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/2026-05-12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-12"
             }
           },
           {
@@ -382,13 +406,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "707b6037132d02c7",
+  "active": "f254303f17f2771b",
   "lastOpenFiles": [
-    "Templates/Homepage/用ai产出创意内容.md",
-    "Templates/Homepage/Homepage.md",
-    "项目/第二轮面试/muduo网络库/流程.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/2026-05-12.md",
+    "Templates/Homepage/Homepage.md",
+    "项目/第二轮面试/车载终端/2026-05-14-anki.md",
+    "Templates/Homepage/用ai产出创意内容.md",
+    "项目/第二轮面试/muduo网络库/流程.md",
     "项目/第二轮面试/高性能服务器/流程.md",
     "项目/第二轮面试/车载终端/流程.md",
     "项目/第二轮面试/高性能服务器",
@@ -416,7 +441,6 @@
     "Projects/anime/未确认进行式.md",
     "Projects/anime/上伊那牡丹，酒醉身姿似百合花般.md",
     "Projects/anime/想结束这场“我爱你”的游戏.md",
-    "Dairies/2026-05-22.md",
     "Leetcode/100260.交点.cpp~",
     "Leetcode/100260.交点.cpp",
     "项目/第二轮面试/零声网盘",
