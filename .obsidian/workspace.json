@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "3c57e31fb204375d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习C++"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习C++ 的大纲"
             }
           },
           {
@@ -310,13 +335,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "3c57e31fb204375d",
   "lastOpenFiles": [
-    "Dairies/2026-05-14.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习C++.md",
+    "Dairies/2026-05-14.md",
     "Dairies/2026-05-13.md",
     "Dairies/2026-05-16.md",
-    "Templates/Homepage/学习C++.md",
     "项目/第二轮面试/车载终端/流程.md",
     "项目/第二轮面试/高性能服务器/流程.md",
     "项目/第二轮面试/muduo网络库/流程.md",

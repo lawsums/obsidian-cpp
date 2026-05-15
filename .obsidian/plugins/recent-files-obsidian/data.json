@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "2026-05-13",
       "path": "Dairies/2026-05-13.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "流程",
