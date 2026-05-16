@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
       "basename": "流程",
       "path": "项目/第二轮面试/高性能服务器/流程.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "2026-05-12",
       "path": "Dairies/2026-05-12.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "007_书籍",
