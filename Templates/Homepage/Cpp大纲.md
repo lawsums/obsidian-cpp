@@ -5,7 +5,7 @@
 [[箭头运算符]]
 
 # 2 stl 
-[[Effctive STL]]
+[[Effective STL]]
 [[STL源码剖析]]
 
 
