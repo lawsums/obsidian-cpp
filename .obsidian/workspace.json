@@ -103,8 +103,7 @@
               "title": "用ai产出创意内容"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/第二轮面试/高性能服务器/流程.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "流程 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -383,14 +382,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2350cb5413ae7cea",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "项目/第二轮面试/高性能服务器/流程.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Daily_note_template.md",
     "Dairies/2026-05-17.md",
-    "项目/第二轮面试/高性能服务器/流程.md",
     "Templates/Homepage/003_不定期任务.md",
     "Templates/Homepage/Effective_Cpp.md",
     "Dairies/2026-05-16.md",
