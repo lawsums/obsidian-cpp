@@ -9,6 +9,10 @@
       "path": "项目/第二轮面试/高性能服务器/流程.md"
     },
     {
+      "basename": "002_稍后再看",
+      "path": "Templates/Homepage/002_稍后再看.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-04",
       "path": "Dairies/2026-05-04.md"
-    },
-    {
-      "basename": "面试",
-      "path": "项目/第二轮面试/协程服务器/面试.md"
     }
   ],
   "omittedPaths": [],
