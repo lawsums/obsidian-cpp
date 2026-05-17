@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "开发游戏服务器_0517",
+      "path": "Dairies/开发游戏服务器_0517.md"
+    },
+    {
+      "basename": "2026-05-18",
+      "path": "Dairies/2026-05-18.md"
+    },
+    {
       "basename": "流程",
       "path": "项目/第二轮面试/高性能服务器/流程.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "框架梳理",
       "path": "项目/第二轮面试/零声网盘/框架梳理.md"
-    },
-    {
-      "basename": "项目_第二轮面试_零声网盘_框架梳理_面试",
-      "path": "项目/第二轮面试/零声网盘/项目_第二轮面试_零声网盘_框架梳理_面试.md"
-    },
-    {
-      "basename": "2026-05-04",
-      "path": "Dairies/2026-05-04.md"
     }
   ],
   "omittedPaths": [],
