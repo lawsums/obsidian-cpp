@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-05-17",
+      "path": "Dairies/2026-05-17.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "流程",
@@ -71,10 +79,6 @@
     {
       "basename": "4102.有限重边的最小阈值路径",
       "path": "Leetcode/4102.有限重边的最小阈值路径.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "2026-05-10",
@@ -195,10 +199,6 @@
     {
       "basename": "面试",
       "path": "项目/第二轮面试/协程服务器/面试.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/第二轮面试/协程服务器/框架梳理.md"
     }
   ],
   "omittedPaths": [],

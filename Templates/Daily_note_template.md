@@ -31,6 +31,7 @@ switch (weekday) {
     tR += "- [ ] [[用ai产出创意内容]]\n";
     break;
   case "星期四":
+	 tR += "- [ ] [打字练习一篇文章](https://dazidazi.com/) \n";
     break;
   case "星期五":
     break;
@@ -58,7 +59,7 @@ switch (weekday) {
 - [ ] [面试题目每日一题, 写的时候用gdb调试一下, 同时记录到anki](https://docs.qq.com/sheet/DWGFoRGVZRmxNaXFz?tab=BB08J2&_t=1778035302469&nlc=1)
 - [ ] [每日任务excel](F:\桌面\每日任务1.xlsm)
 - [ ] 好好睡觉
-- [ ] [打字练习一篇文章](https://dazidazi.com/)
+- [ ] [拆分学习 | 小鹤音形](https://flypy.cc/if/)
 - [ ] [没事就用 go/algorithm 写一题 leetcode](https://leetcode.cn/)
 - [ ] 给老妈烧饭
 - [ ] 看一看 boss 直聘

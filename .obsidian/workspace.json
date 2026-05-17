@@ -30,8 +30,57 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "b3af5036af89c608",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-05-17.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-17"
+            }
+          },
+          {
+            "id": "d32c2e134a0d92ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily_note_template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daily_note_template"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/2026-05-17.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "2026-05-17 的大纲"
             }
           },
           {
@@ -310,11 +359,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "b3af5036af89c608",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
+    "Templates/Daily_note_template.md",
     "项目/第二轮面试/高性能服务器/流程.md",
     "Templates/Homepage/003_不定期任务.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/Effective_Cpp.md",
     "Dairies/2026-05-16.md",
     "Templates/Homepage/学习C++.md",
@@ -335,7 +385,6 @@
     "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
     "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
     "Leetcode/4102.有限重边的最小阈值路径.md",
-    "Templates/Daily_note_template.md",
     "Leetcode/4102.有限重边的最小阈值路径.cpp",
     "Leetcode/images/4102_g5.png",
     "Leetcode/images/4102_g3_f.png",
