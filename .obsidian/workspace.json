@@ -55,8 +55,7 @@
               "title": "开发游戏服务器_0517"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/开发游戏服务器_0517.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "开发游戏服务器_0517 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,10 +334,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a4f252d5aa0fbc1d",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Dairies/2026-05-18.md",
     "Dairies/开发游戏服务器_0517.md",
+    "Dairies/2026-05-18.md",
     "Templates/Homepage/Homepage.md",
     "项目/第二轮面试/高性能服务器/流程.md",
     "Templates/Homepage/002_稍后再看.md",
