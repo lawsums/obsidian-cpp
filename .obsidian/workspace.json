@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "f1371af886b4759b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/添加警报callBack.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "添加警报callBack"
-            }
-          },
-          {
             "id": "a4f252d5aa0fbc1d",
             "type": "leaf",
             "state": {
@@ -385,10 +361,10 @@
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Dairies/开发游戏服务器_0517.md",
-    "Templates/Homepage/Homepage.md",
-    "Dairies/添加警报callBack.md",
-    "Dairies/2026-05-18.md",
     "Templates/Homepage/学习C++.md",
+    "Dairies/添加警报callBack.md",
+    "Templates/Homepage/Homepage.md",
+    "Dairies/2026-05-18.md",
     "Dairies/2026-05-19.md",
     "项目/第二轮面试/高性能服务器/流程.md",
     "Templates/Homepage/002_稍后再看.md",

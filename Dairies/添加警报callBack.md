@@ -1,5 +1,7 @@
 - [x] 把 callback 抄过来
-- [ ] 修改 callback 变成自己的形状
+- [x] 安装 Arduino 库
+- [x] 修改 callback 变成自己的形状
+- [ ] 测试这个 callBack
 
 # 1 把 callback 抄过来
 [【教程】ESP32连接华为云IoT平台-CSDN博客](https://blog.csdn.net/Beihai_Van/article/details/126634891)
