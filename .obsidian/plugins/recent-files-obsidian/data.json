@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "箭头运算符",
+      "path": "Templates/Homepage/箭头运算符.md"
+    },
+    {
+      "basename": "箭头运算符的重载规则",
+      "path": "操作系统/箭头运算符的重载规则.md"
+    },
+    {
       "basename": "多个esp32组网数据通过esp32s3终端上传云平台",
       "path": "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "项目准备",
       "path": "项目/第二轮面试/异步日志/项目准备.md"
-    },
-    {
-      "basename": "框架梳理_面试",
-      "path": "项目/第二轮面试/异步日志/框架梳理_面试.md"
-    },
-    {
-      "basename": "基础日志系统讲解",
-      "path": "项目/第二轮面试/异步日志/基础日志系统讲解.md"
     }
   ],
   "omittedPaths": [],
