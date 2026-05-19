@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-05-19",
+      "path": "Dairies/2026-05-19.md"
+    },
+    {
       "basename": "箭头运算符",
       "path": "Templates/Homepage/箭头运算符.md"
     },
@@ -19,14 +27,6 @@
     {
       "basename": "做一个小程序显示节点报警状况",
       "path": "项目/毕设/做一个小程序显示节点报警状况.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
-      "basename": "2026-05-19",
-      "path": "Dairies/2026-05-19.md"
     },
     {
       "basename": "开发游戏服务器_0517",
