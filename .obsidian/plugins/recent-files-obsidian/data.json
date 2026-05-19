@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "多个esp32组网数据通过esp32s3终端上传云平台",
+      "path": "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md"
+    },
+    {
+      "basename": "做一个小程序显示云平台数据和esp32节点报警情况",
+      "path": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md"
+    },
+    {
+      "basename": "做一个小程序显示节点报警状况",
+      "path": "项目/毕设/做一个小程序显示节点报警状况.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -87,14 +99,6 @@
     {
       "basename": "2026-05-12",
       "path": "Dairies/2026-05-12.md"
-    },
-    {
-      "basename": "多个esp32组网数据通过esp32s3终端上传云平台",
-      "path": "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md"
-    },
-    {
-      "basename": "做一个小程序显示云平台数据和esp32节点报警情况",
-      "path": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md"
     },
     {
       "basename": "4102.有限重边的最小阈值路径",
@@ -195,10 +199,6 @@
     {
       "basename": "基础日志系统讲解",
       "path": "项目/第二轮面试/异步日志/基础日志系统讲解.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/第二轮面试/异步日志/框架梳理.md"
     }
   ],
   "omittedPaths": [],

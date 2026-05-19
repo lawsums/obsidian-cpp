@@ -30,8 +30,81 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "17de6be7ccdb7ae1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/毕设/做一个小程序显示节点报警状况.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "做一个小程序显示节点报警状况"
+            }
+          },
+          {
+            "id": "f78fb33c01c5bf5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "做一个小程序显示云平台数据和esp32节点报警情况"
+            }
+          },
+          {
+            "id": "5821343e1ea57946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "多个esp32组网数据通过esp32s3终端上传云平台"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -160,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "多个esp32组网数据通过esp32s3终端上传云平台 的大纲"
             }
           },
           {
@@ -310,10 +383,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "5821343e1ea57946",
   "lastOpenFiles": [
-    "Dairies/2026-05-19.md",
+    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
+    "项目/毕设/做一个小程序显示节点报警状况.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-05-19.md",
     "Dairies/开发游戏服务器_0517.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/添加警报callBack.md",
@@ -339,8 +414,6 @@
     "项目/第二轮面试/车载终端",
     "项目/第二轮面试/muduo网络库",
     "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md",
-    "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
-    "Leetcode/4102.有限重边的最小阈值路径.md",
     "Leetcode/4102.有限重边的最小阈值路径.cpp",
     "Leetcode/images/4102_g5.png",
     "Leetcode/images/4102_g3_f.png",
