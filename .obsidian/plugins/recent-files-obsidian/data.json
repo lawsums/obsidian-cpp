@@ -5,12 +5,16 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
+      "basename": "用gpt生成我和老陆的ppt",
+      "path": "Dairies/用gpt生成我和老陆的ppt.md"
     },
     {
       "basename": "2026-05-20",
       "path": "Dairies/2026-05-20.md"
+    },
+    {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "给老师看一下定稿问一下答辩时间",
@@ -195,10 +199,6 @@
     {
       "basename": "100260.交点",
       "path": "Leetcode/100260.交点.md"
-    },
-    {
-      "basename": "2026-05-06",
-      "path": "Dairies/2026-05-06.md"
     }
   ],
   "omittedPaths": [],
