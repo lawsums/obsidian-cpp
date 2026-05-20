@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "2026-05-20",
       "path": "Dairies/2026-05-20.md"
+    },
+    {
+      "basename": "给老师看一下定稿问一下答辩时间",
+      "path": "Dairies/给老师看一下定稿问一下答辩时间.md"
     },
     {
       "basename": "2026-05-18",
@@ -55,10 +63,6 @@
     {
       "basename": "002_稍后再看",
       "path": "Templates/Homepage/002_稍后再看.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "Daily_note_template",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-06",
       "path": "Dairies/2026-05-06.md"
-    },
-    {
-      "basename": "项目_第二轮面试_异步日志_框架梳理_面试",
-      "path": "项目/第二轮面试/异步日志/项目_第二轮面试_异步日志_框架梳理_面试.md"
     }
   ],
   "omittedPaths": [],
