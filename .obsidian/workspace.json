@@ -103,8 +103,7 @@
               "title": "给老师看一下定稿问一下答辩时间"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "用ai产出创意内容 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -383,11 +382,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "619b6970d791ae26",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-05-20.md",
-    "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/给老师看一下定稿问一下答辩时间.md",
     "Dairies/2026-05-18.md",
     "Dairies/2026-05-19.md",
