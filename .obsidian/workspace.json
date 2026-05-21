@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/第二轮面试/车载终端/流程.md",
+                "file": "项目/第二轮面试/高性能服务器/流程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -127,8 +127,7 @@
               "title": "2026-05-21-anki"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/第二轮面试/车载终端/流程.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "流程 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -407,8 +406,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "656dade09083f938",
+  "active": "02c389930ef8323e",
   "lastOpenFiles": [
+    "项目/第二轮面试/高性能服务器/流程.md",
+    "项目/第二轮面试/车载终端/流程.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/用豆包做一下ppt看看.md",
@@ -420,10 +421,8 @@
     "Dairies/2026-05-21.md",
     "项目/第二轮面试/车载终端/2026-05-21-anki.md",
     "项目/第二轮面试/车载终端/2026-05-14-anki.md",
-    "项目/第二轮面试/高性能服务器/流程.md",
     "Dairies/2026-05-19.md",
     "Dairies/2026-05-20.md",
-    "项目/第二轮面试/车载终端/流程.md",
     "Dairies/用gpt生成我和老陆的ppt.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/给老师看一下定稿问一下答辩时间.md",
