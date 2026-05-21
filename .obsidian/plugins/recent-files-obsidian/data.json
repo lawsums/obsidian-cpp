@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "004_闪念",
+      "path": "Templates/Homepage/004_闪念.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "流程",
+      "path": "项目/第二轮面试/高性能服务器/流程.md"
     },
     {
       "basename": "用豆包做一下ppt看看",
@@ -10,15 +22,7 @@
     },
     {
       "basename": "流程",
-      "path": "项目/第二轮面试/高性能服务器/流程.md"
-    },
-    {
-      "basename": "流程",
       "path": "项目/第二轮面试/车载终端/流程.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "3329.最长公共前缀的长度",
@@ -195,10 +199,6 @@
     {
       "basename": "第4章 序列式容器",
       "path": "Templates/Homepage/第4章 序列式容器.md"
-    },
-    {
-      "basename": "放大",
-      "path": "Templates/Homepage/放大.md"
     }
   ],
   "omittedPaths": [],
