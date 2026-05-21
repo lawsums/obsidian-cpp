@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "0a7472cf751804e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/3329.最长公共前缀的长度.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "3329.最长公共前缀的长度"
-            }
-          },
-          {
             "id": "ab935b1f22f80fbe",
             "type": "leaf",
             "state": {
@@ -103,8 +79,7 @@
               "title": "2026-05-21-anki"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/3329.最长公共前缀的长度.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3329.最长公共前缀的长度 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -383,13 +358,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "0a7472cf751804e1",
+  "active": "02c389930ef8323e",
   "lastOpenFiles": [
+    "Dairies/用豆包做一下ppt看看.md",
+    "Leetcode/3329.最长公共前缀的长度.md",
+    "Leetcode/3329.最长公共前缀的长度.cpp~",
     "Leetcode/3329.最长公共前缀的长度.cpp",
     "数据结构/实现Trie(前缀树).md",
-    "Leetcode/3329.最长公共前缀的长度.md",
     "Templates/Homepage/Homepage.md",
-    "Dairies/用豆包做一下ppt看看.md",
     "Dairies/2026-05-22.md",
     "Dairies/2026-05-21.md",
     "项目/第二轮面试/车载终端/2026-05-21-anki.md",
@@ -422,8 +398,6 @@
     "Leetcode/100260.交点.cpp",
     "项目/第二轮面试/零声网盘",
     "Leetcode/100261.井字游戏.cpp",
-    "项目/第二轮面试",
-    "项目/第一轮面试",
     "Leetcode/images/1507_e2.png",
     "Leetcode/images/1507_e1.png",
     "Leetcode/images/1507_main.png",
