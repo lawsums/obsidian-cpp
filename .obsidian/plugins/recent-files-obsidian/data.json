@@ -5,16 +5,28 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "用豆包做一下ppt看看",
+      "path": "Dairies/用豆包做一下ppt看看.md"
+    },
+    {
+      "basename": "2026-05-21",
+      "path": "Dairies/2026-05-21.md"
+    },
+    {
+      "basename": "2026-05-21-anki",
+      "path": "项目/第二轮面试/车载终端/2026-05-21-anki.md"
+    },
+    {
+      "basename": "2026-05-14-anki",
+      "path": "项目/第二轮面试/车载终端/2026-05-14-anki.md"
+    },
+    {
       "basename": "流程",
       "path": "项目/第二轮面试/高性能服务器/流程.md"
     },
     {
       "basename": "2026-05-19",
       "path": "Dairies/2026-05-19.md"
-    },
-    {
-      "basename": "2026-05-21",
-      "path": "Dairies/2026-05-21.md"
     },
     {
       "basename": "流程",
@@ -117,10 +129,6 @@
       "path": "项目/第二轮面试/muduo网络库/流程.md"
     },
     {
-      "basename": "2026-05-14-anki",
-      "path": "项目/第二轮面试/车载终端/2026-05-14-anki.md"
-    },
-    {
       "basename": "2026-05-12",
       "path": "Dairies/2026-05-12.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "C++知识学习",
       "path": "Templates/Homepage/C++知识学习.md"
-    },
-    {
-      "basename": "2026-05-07",
-      "path": "Dairies/2026-05-07.md"
-    },
-    {
-      "basename": "C++课程",
-      "path": "Templates/Homepage/C++课程.md"
     }
   ],
   "omittedPaths": [],
