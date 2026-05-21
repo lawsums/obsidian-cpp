@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3329.最长公共前缀的长度",
+      "path": "Leetcode/3329.最长公共前缀的长度.md"
+    },
+    {
       "basename": "实现Trie(前缀树)",
       "path": "数据结构/实现Trie(前缀树).md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "放大",
       "path": "Templates/Homepage/放大.md"
-    },
-    {
-      "basename": "30天制作一个服务器",
-      "path": "Templates/Homepage/30天制作一个服务器.md"
     }
   ],
   "omittedPaths": [],

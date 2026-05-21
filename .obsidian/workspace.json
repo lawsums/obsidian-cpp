@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "3292909793314eec",
+            "id": "0a7472cf751804e1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "数据结构/实现Trie(前缀树).md",
+                "file": "Leetcode/3329.最长公共前缀的长度.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "实现Trie(前缀树)"
+              "title": "3329.最长公共前缀的长度"
             }
           },
           {
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "数据结构/实现Trie(前缀树).md",
+                "file": "Leetcode/3329.最长公共前缀的长度.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "实现Trie(前缀树) 的大纲"
+              "title": "3329.最长公共前缀的长度 的大纲"
             }
           },
           {
@@ -383,8 +383,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3292909793314eec",
+  "active": "0a7472cf751804e1",
   "lastOpenFiles": [
+    "Leetcode/3329.最长公共前缀的长度.cpp",
+    "数据结构/实现Trie(前缀树).md",
+    "Leetcode/3329.最长公共前缀的长度.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/用豆包做一下ppt看看.md",
     "Dairies/2026-05-22.md",
@@ -408,9 +411,6 @@
     "Templates/Homepage/学习C++.md",
     "Dairies/添加警报callBack.md",
     "Templates/Homepage/002_稍后再看.md",
-    "Templates/Daily_note_template.md",
-    "Dairies/2026-05-17.md",
-    "Templates/Homepage/003_不定期任务.md",
     "项目/第二轮面试/高性能服务器",
     "项目/第二轮面试/车载终端",
     "项目/第二轮面试/muduo网络库",
