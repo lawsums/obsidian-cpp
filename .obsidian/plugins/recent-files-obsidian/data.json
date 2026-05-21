@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "实现Trie(前缀树)",
+      "path": "数据结构/实现Trie(前缀树).md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "用豆包做一下ppt看看",
       "path": "Dairies/用豆包做一下ppt看看.md"
+    },
+    {
+      "basename": "2026-05-22",
+      "path": "Dairies/2026-05-22.md"
     },
     {
       "basename": "2026-05-21",
@@ -191,14 +199,6 @@
     {
       "basename": "30天制作一个服务器",
       "path": "Templates/Homepage/30天制作一个服务器.md"
-    },
-    {
-      "basename": "复习面试题",
-      "path": "Templates/Homepage/复习面试题.md"
-    },
-    {
-      "basename": "C++知识学习",
-      "path": "Templates/Homepage/C++知识学习.md"
     }
   ],
   "omittedPaths": [],
