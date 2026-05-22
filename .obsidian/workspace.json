@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "6f6c331092a02df4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-05-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-22"
+            }
           }
         ]
       }
@@ -312,9 +336,9 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Dairies/2026-05-23.md",
     "Dairies/2026-05-22.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-05-23.md",
     "项目/第二轮面试/高性能服务器/流程.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/004_闪念.md",
