@@ -5,8 +5,20 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "让乔同学添加一个接收到的图片",
+      "path": "Dairies/让乔同学添加一个接收到的图片.md"
+    },
+    {
       "basename": "2026-05-23",
       "path": "Dairies/2026-05-23.md"
+    },
+    {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "1878. 检查数组是否经排序和轮转得到",
@@ -27,10 +39,6 @@
     {
       "basename": "2026-05-22",
       "path": "Dairies/2026-05-22.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "开发线程池",
@@ -83,10 +91,6 @@
     {
       "basename": "用gpt生成我和老陆的ppt",
       "path": "Dairies/用gpt生成我和老陆的ppt.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "给老师看一下定稿问一下答辩时间",
@@ -195,10 +199,6 @@
     {
       "basename": "anki-2026-05-09",
       "path": "Templates/Homepage/anki-2026-05-09.md"
-    },
-    {
-      "basename": "主播女孩重度依赖",
-      "path": "Projects/anime/主播女孩重度依赖.md"
     }
   ],
   "omittedPaths": [],
