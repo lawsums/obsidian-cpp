@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "1878. 检查数组是否经排序和轮转得到",
+      "path": "Leetcode/1878. 检查数组是否经排序和轮转得到.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "003_不定期任务",
-      "path": "Templates/Homepage/003_不定期任务.md"
-    },
-    {
       "basename": "提醒罗鑫形势与政策",
       "path": "Dairies/提醒罗鑫形势与政策.md"
+    },
+    {
+      "basename": "Pasted image 20260523010041",
+      "path": "Attachments/Pasted image 20260523010041.png"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
     },
     {
       "basename": "2026-05-23",
@@ -191,14 +199,6 @@
     {
       "basename": "主播女孩重度依赖",
       "path": "Projects/anime/主播女孩重度依赖.md"
-    },
-    {
-      "basename": "2026-05-08",
-      "path": "Dairies/2026-05-08.md"
-    },
-    {
-      "basename": "未确认进行式",
-      "path": "Projects/anime/未确认进行式.md"
     }
   ],
   "omittedPaths": [],
