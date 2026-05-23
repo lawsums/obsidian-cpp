@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "7868f80dce8685f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/修改论文.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "修改论文"
+            }
+          },
+          {
             "id": "cb3b95d2abaca719",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               "title": "用ai产出创意内容"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/修改论文.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "修改论文 的大纲"
             }
           },
           {
@@ -382,10 +407,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "7868f80dce8685f6",
   "lastOpenFiles": [
-    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/2026-05-25.md",
     "Dairies/2026-05-24.md",
     "Dairies/修改论文.md",
