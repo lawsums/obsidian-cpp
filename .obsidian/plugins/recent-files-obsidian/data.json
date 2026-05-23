@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-05-23",
+      "path": "Dairies/2026-05-23.md"
+    },
+    {
       "basename": "1878. 检查数组是否经排序和轮转得到",
       "path": "Leetcode/1878. 检查数组是否经排序和轮转得到.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "003_不定期任务",
       "path": "Templates/Homepage/003_不定期任务.md"
-    },
-    {
-      "basename": "2026-05-23",
-      "path": "Dairies/2026-05-23.md"
     },
     {
       "basename": "2026-05-22",
