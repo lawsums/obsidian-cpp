@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "cb3b95d2abaca719",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/修改论文.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "修改论文"
+            }
+          },
+          {
             "id": "08ad7abb5fcf8c49",
             "type": "leaf",
             "state": {
@@ -79,7 +103,8 @@
               "title": "用ai产出创意内容"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/修改论文.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "修改论文 的大纲"
             }
           },
           {
@@ -358,12 +383,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "cb3b95d2abaca719",
   "lastOpenFiles": [
-    "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/Homepage.md",
-    "Dairies/让乔同学添加一个接收到的图片.md",
     "Dairies/2026-05-23.md",
+    "Dairies/修改论文.md",
+    "Dairies/修改算论文.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习C++.md",
+    "Dairies/让乔同学添加一个接收到的图片.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/2026-05-22.md",
     "Leetcode/1878. 检查数组是否经排序和轮转得到.md",
@@ -389,8 +416,6 @@
     "项目/第二轮面试/车载终端/2026-05-14-anki.md",
     "Dairies/2026-05-19.md",
     "Dairies/2026-05-20.md",
-    "Dairies/用gpt生成我和老陆的ppt.md",
-    "Dairies/给老师看一下定稿问一下答辩时间.md",
     "项目/第二轮面试/高性能服务器",
     "项目/第二轮面试/车载终端",
     "项目/第二轮面试/muduo网络库",
