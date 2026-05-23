@@ -9,8 +9,20 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-05-25",
+      "path": "Dairies/2026-05-25.md"
+    },
+    {
+      "basename": "2026-05-24",
+      "path": "Dairies/2026-05-24.md"
+    },
+    {
       "basename": "修改论文",
       "path": "Dairies/修改论文.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "2026-05-23",
@@ -141,10 +153,6 @@
       "path": "Templates/Homepage/002_稍后再看.md"
     },
     {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
-    },
-    {
       "basename": "2026-05-17",
       "path": "Dairies/2026-05-17.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
-      "basename": "2026-05-09",
-      "path": "Dairies/2026-05-09.md"
-    },
-    {
-      "basename": "2026-05-11",
-      "path": "Dairies/2026-05-11.md"
     }
   ],
   "omittedPaths": [],
