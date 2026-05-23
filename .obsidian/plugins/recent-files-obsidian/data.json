@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "修改论文",
       "path": "Dairies/修改论文.md"
     },
@@ -13,20 +21,12 @@
       "path": "Dairies/修改算论文.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "让乔同学添加一个接收到的图片",
       "path": "Dairies/让乔同学添加一个接收到的图片.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "1878. 检查数组是否经排序和轮转得到",

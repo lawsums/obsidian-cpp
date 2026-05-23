@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/修改论文.md",
+                "file": "Templates/Homepage/用ai产出创意内容.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "修改论文 的大纲"
+              "title": "用ai产出创意内容 的大纲"
             }
           },
           {
@@ -383,12 +383,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cb3b95d2abaca719",
+  "active": "b2d7180277a6ae10",
   "lastOpenFiles": [
-    "Dairies/2026-05-23.md",
-    "Dairies/修改论文.md",
-    "Dairies/修改算论文.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/修改论文.md",
+    "Dairies/2026-05-23.md",
+    "Dairies/修改算论文.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/让乔同学添加一个接收到的图片.md",
     "Templates/Homepage/用ai产出创意内容.md",
