@@ -106,7 +106,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -274,7 +275,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,7 +314,10 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Leetcode/1466.跳跃游戏 V.md",
+    "Leetcode/1466.跳跃游戏 V.cpp",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/images/1466_meta-chart.jpeg",
     "Dairies/2026-05-26.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/2026-05-25.md",
@@ -341,8 +346,6 @@
     "Leetcode/3329.最长公共前缀的长度.cpp",
     "数据结构/实现Trie(前缀树).md",
     "Dairies/2026-05-21.md",
-    "项目/第二轮面试/车载终端/2026-05-21-anki.md",
-    "项目/第二轮面试/车载终端/2026-05-14-anki.md",
     "项目/第二轮面试/高性能服务器",
     "项目/第二轮面试/车载终端",
     "项目/第二轮面试/muduo网络库",
@@ -351,13 +354,11 @@
     "Leetcode/images/4102_g3_f.png",
     "Leetcode/images/4102_g6.png",
     "Leetcode/100260.交点.cpp~",
-    "Leetcode/100260.交点.cpp",
     "Leetcode/images/1507_e2.png",
     "Leetcode/images/1507_e1.png",
     "Leetcode/images/1507_main.png",
     "Leetcode/images/1000011_robot_maze.png",
     "Attachments/Pasted image 20260421224521.png",
-    "Attachments/Pasted image 20260421223456.png",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
