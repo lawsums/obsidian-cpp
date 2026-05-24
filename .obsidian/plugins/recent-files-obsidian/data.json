@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "用蓝色模板做完ppt",
+      "path": "Dairies/用蓝色模板做完ppt.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-05-23",
+      "path": "Dairies/2026-05-23.md"
     },
     {
       "basename": "2026-05-24",
@@ -35,10 +43,6 @@
     {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
-    },
-    {
-      "basename": "2026-05-23",
-      "path": "Dairies/2026-05-23.md"
     },
     {
       "basename": "修改算论文",
@@ -195,10 +199,6 @@
     {
       "basename": "流程",
       "path": "项目/第二轮面试/muduo网络库/流程.md"
-    },
-    {
-      "basename": "2026-05-12",
-      "path": "Dairies/2026-05-12.md"
     }
   ],
   "omittedPaths": [],

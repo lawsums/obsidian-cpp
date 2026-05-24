@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "da39d4ce07f42b31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/用蓝色模板做完ppt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "用蓝色模板做完ppt"
+            }
+          },
+          {
             "id": "b42c89991a32f52e",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "2026-05-24"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/用蓝色模板做完ppt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "用蓝色模板做完ppt 的大纲"
             }
           },
           {
@@ -334,11 +359,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "da39d4ce07f42b31",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
+    "Dairies/用蓝色模板做完ppt.md",
+    "Dairies/2026-05-23.md",
     "Dairies/2026-05-24.md",
     "项目/毕设/2026-05-24-anki.md",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/1466.跳跃游戏 V.md",
     "Leetcode/1466.跳跃游戏 V.cpp",
     "Leetcode/images/1466_meta-chart.jpeg",
@@ -347,7 +374,6 @@
     "Dairies/2026-05-25.md",
     "Dairies/修改论文.md",
     "Templates/Daily_note_template.md",
-    "Dairies/2026-05-23.md",
     "Dairies/修改算论文.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/让乔同学添加一个接收到的图片.md",
@@ -368,7 +394,6 @@
     "Leetcode/3329.最长公共前缀的长度.cpp~",
     "Leetcode/3329.最长公共前缀的长度.cpp",
     "数据结构/实现Trie(前缀树).md",
-    "Dairies/2026-05-21.md",
     "项目/第二轮面试/高性能服务器",
     "项目/第二轮面试/车载终端",
     "项目/第二轮面试/muduo网络库",
