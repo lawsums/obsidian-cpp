@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-05-24",
+      "path": "Dairies/2026-05-24.md"
+    },
+    {
+      "basename": "2026-05-24-anki",
+      "path": "项目/毕设/2026-05-24-anki.md"
+    },
+    {
       "basename": "1466.跳跃游戏 V",
       "path": "Leetcode/1466.跳跃游戏 V.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "2026-05-25",
       "path": "Dairies/2026-05-25.md"
-    },
-    {
-      "basename": "2026-05-24",
-      "path": "Dairies/2026-05-24.md"
     },
     {
       "basename": "Daily_note_template",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-12",
       "path": "Dairies/2026-05-12.md"
-    },
-    {
-      "basename": "4102.有限重边的最小阈值路径",
-      "path": "Leetcode/4102.有限重边的最小阈值路径.md"
     }
   ],
   "omittedPaths": [],
