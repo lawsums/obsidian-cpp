@@ -79,8 +79,7 @@
               "title": "2026-05-24"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/用蓝色模板做完ppt.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "用蓝色模板做完ppt 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -359,11 +358,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "da39d4ce07f42b31",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-05-23.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/用蓝色模板做完ppt.md",
-    "Dairies/2026-05-23.md",
     "Dairies/2026-05-24.md",
     "项目/毕设/2026-05-24-anki.md",
     "Leetcode/1466.跳跃游戏 V.md",
