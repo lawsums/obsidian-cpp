@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-05-25",
+      "path": "Dairies/2026-05-25.md"
+    },
+    {
       "basename": "2026-05-23",
       "path": "Dairies/2026-05-23.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "用ai产出创意内容",
       "path": "Templates/Homepage/用ai产出创意内容.md"
-    },
-    {
-      "basename": "2026-05-25",
-      "path": "Dairies/2026-05-25.md"
     },
     {
       "basename": "Daily_note_template",
