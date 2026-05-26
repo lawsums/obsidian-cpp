@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-05-27",
+      "path": "Dairies/2026-05-27.md"
+    },
+    {
       "basename": "2026-05-26",
       "path": "Dairies/2026-05-26.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-13",
       "path": "Dairies/2026-05-13.md"
-    },
-    {
-      "basename": "流程",
-      "path": "项目/第二轮面试/muduo网络库/流程.md"
     }
   ],
   "omittedPaths": [],
