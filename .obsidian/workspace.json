@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "ff855409fb5f8ff8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/修改论文.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "修改论文"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/修改论文.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "修改论文 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,10 +310,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ff855409fb5f8ff8",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Dairies/2026-05-28.md",
     "Dairies/修改论文.md",
+    "Dairies/2026-05-28.md",
     "Templates/Homepage/Homepage.md",
     "Leetcode/3376.最长公共后缀查询.cpp",
     "Leetcode/3376.最长公共后缀查询.md",
