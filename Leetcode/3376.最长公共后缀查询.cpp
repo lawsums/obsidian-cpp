@@ -1,3 +1,55 @@
+#include <iostream>
+#include <vector>
+#include <unordered_map>
+
+#define TEST(func, ...) \
+    func(__VA_ARGS__);  \
+    std::cout << #func << " passed!\n"
+
+// 1. 设置模式开关：提交时将下面的 1 改为 0 即可
+#define DEBUG_MODE 0
+
+#if DEBUG_MODE
+    #define LOG(x) std::cout << "[DEBUG] " << x << std::endl
+    
+    // 条件打印：只有 cond 为真时才输出内容 x
+    #define CLOG(cond, x) do { if(cond) std::cout << "[COND] " << x << std::endl; } while(0)
+
+    // 多参数 LV 核心实现：支持 1-5 个参数
+    #define GET_LV(_1, _2, _3, _4, _5, NAME, ...) NAME
+    #define LV(...) std::cout << "[DEBUG] "; GET_LV(__VA_ARGS__, LV5, LV4, LV3, LV2, LV1)(__VA_ARGS__)
+
+    #define LV1(x) std::cout << #x << "=" << (x) << std::endl
+    #define LV2(x, ...) std::cout << #x << "=" << (x) << " | "; LV1(__VA_ARGS__)
+    #define LV3(x, ...) std::cout << #x << "=" << (x) << " | "; LV2(__VA_ARGS__)
+    #define LV4(x, ...) std::cout << #x << "=" << (x) << " | "; LV3(__VA_ARGS__)
+    #define LV5(x, ...) std::cout << #x << "=" << (x) << " | "; LV4(__VA_ARGS__)
+#else
+    #define LOG(x)
+    #define CLOG(cond, x)
+    #define LV(...)
+#endif
+
+// 2. 提供对常用容器的打印支持 (保持原样)
+template<typename T>
+std::ostream& operator<<(std::ostream& os, const std::vector<T>& v) {
+    os << "[";
+    for (size_t i = 0; i < v.size(); ++i) os << v[i] << (i == v.size() - 1 ? "" : ", ");
+    return os << "]";
+}
+
+template<typename K, typename V>
+std::ostream& operator<<(std::ostream& os, const std::unordered_map<K, V>& m) {
+    os << "{";
+    bool first = true;
+    for (const auto& [k, v] : m) {
+        if (!first) os << ", ";
+        os << k << ":" << v;
+        first = false;
+    }
+    return os << "}";
+}
+
 #include <algorithm>
 #include <array>
 #include <iostream>
@@ -38,6 +90,15 @@ public:
     void insert(const string &word, int ind, vector<string> &wc) {
         auto *cur = root.get();
         cur->pass++;
+        // 更新shortest的位置
+        if (cur->shortest == -1) {
+            cur->shortest = ind;
+        } else {
+            if (wc[ind].size() < wc[cur->shortest].size() || (wc[ind].size() == wc[cur->shortest].size() &&ind < cur->shortest)) {
+                cur->shortest = ind;
+            } 
+        }
+
         for (const auto &c: word) {
             size_t path = transform(c);
             // 安全边界检查，防止坏输入压垮系统的 OOB
@@ -56,6 +117,8 @@ public:
                     cur->shortest = ind;
                 } 
             }
+
+            LV(c, ind, cur->shortest);
         }
         cur->end++;
     }
@@ -94,14 +157,15 @@ public:
 
     int countLongestPrefixInd(const string &word) {
         auto *cur = root.get();
-        int cnt = 0;
+
         for (const auto &c: word) {
+            LV("countPrefix", c);
+
             size_t path = transform(c);
             if (path >= SIZE || cur->nexts[path] == nullptr) {
-                cur->shortest;
+                return cur->shortest;
             }
             cur = cur->nexts[path].get();
-            cnt++;
         }
         return cur->shortest;
     }
@@ -160,5 +224,13 @@ public:
         }
 
         // 问题在于怎么快速判断 最长公共后缀 且 最短 的答案
+        vector<int> ans;
+        for (const auto &word : wordsQuery) {
+            string reversed_word(word.rbegin(), word.rend());
+            ans.push_back(t.countLongestPrefixInd(reversed_word));
+        }
+
+        return ans;
     }
 };
+
