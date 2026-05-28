@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "3376.最长公共后缀查询",
+      "path": "Leetcode/3376.最长公共后缀查询.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-05-28",
+      "path": "Dairies/2026-05-28.md"
     },
     {
       "basename": "2026-05-27",
@@ -191,14 +199,6 @@
     {
       "basename": "Effective STL",
       "path": "Templates/Homepage/Effective STL.md"
-    },
-    {
-      "basename": "2026-05-14",
-      "path": "Dairies/2026-05-14.md"
-    },
-    {
-      "basename": "2026-05-13",
-      "path": "Dairies/2026-05-13.md"
     }
   ],
   "omittedPaths": [],
