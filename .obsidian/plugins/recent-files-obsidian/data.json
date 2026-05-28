@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "修改论文",
+      "path": "Dairies/修改论文.md"
+    },
+    {
+      "basename": "2026-05-28",
+      "path": "Dairies/2026-05-28.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "3376.最长公共后缀查询",
       "path": "Leetcode/3376.最长公共后缀查询.md"
-    },
-    {
-      "basename": "2026-05-28",
-      "path": "Dairies/2026-05-28.md"
     },
     {
       "basename": "2026-05-27",
@@ -47,10 +51,6 @@
     {
       "basename": "1466.跳跃游戏 V",
       "path": "Leetcode/1466.跳跃游戏 V.md"
-    },
-    {
-      "basename": "修改论文",
-      "path": "Dairies/修改论文.md"
     },
     {
       "basename": "用ai产出创意内容",
