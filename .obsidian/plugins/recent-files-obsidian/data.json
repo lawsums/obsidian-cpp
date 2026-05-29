@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Art of programming",
+      "path": "Templates/Homepage/Art of programming.md"
+    },
+    {
+      "basename": "007_书籍",
+      "path": "Templates/Homepage/007_书籍.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -63,10 +75,6 @@
     {
       "basename": "修改算论文",
       "path": "Dairies/修改算论文.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "让乔同学添加一个接收到的图片",
@@ -191,14 +199,6 @@
     {
       "basename": "Effective_Cpp",
       "path": "Templates/Homepage/Effective_Cpp.md"
-    },
-    {
-      "basename": "2026-05-16",
-      "path": "Dairies/2026-05-16.md"
-    },
-    {
-      "basename": "007_书籍",
-      "path": "Templates/Homepage/007_书籍.md"
     }
   ],
   "omittedPaths": [],
