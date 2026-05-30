@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-05-30",
+      "path": "Dairies/2026-05-30.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-17",
       "path": "Dairies/2026-05-17.md"
-    },
-    {
-      "basename": "Effective_Cpp",
-      "path": "Templates/Homepage/Effective_Cpp.md"
     }
   ],
   "omittedPaths": [],
