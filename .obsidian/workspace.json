@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "7fe8397aa4479cc4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "用ai产出创意内容"
+            }
           }
         ]
       }
@@ -312,9 +336,10 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/用ai产出创意内容.md",
+    "Templates/Homepage/Homepage.md",
     "Dairies/2026-06-01.md",
     "Dairies/2026-05-30.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-05-31.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Art of programming.md",
@@ -335,7 +360,6 @@
     "Leetcode/1466.跳跃游戏 V.md",
     "Leetcode/1466.跳跃游戏 V.cpp",
     "Leetcode/images/1466_meta-chart.jpeg",
-    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Daily_note_template.md",
     "Dairies/修改算论文.md",
     "Dairies/让乔同学添加一个接收到的图片.md",

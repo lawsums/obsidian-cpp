@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
       "basename": "2026-05-30",
       "path": "Dairies/2026-05-30.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "1466.跳跃游戏 V",
       "path": "Leetcode/1466.跳跃游戏 V.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "Daily_note_template",
