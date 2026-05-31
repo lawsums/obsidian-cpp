@@ -9,6 +9,10 @@
       "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
+      "basename": "框架梳理",
+      "path": "项目/第二轮面试/协程库/框架梳理.md"
+    },
+    {
       "basename": "Aiot修改",
       "path": "Dairies/Aiot修改.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "开发游戏服务器_0517",
       "path": "Dairies/开发游戏服务器_0517.md"
-    },
-    {
-      "basename": "添加警报callBack",
-      "path": "Dairies/添加警报callBack.md"
     }
   ],
   "omittedPaths": [],
