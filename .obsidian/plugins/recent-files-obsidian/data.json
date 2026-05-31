@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-05-31",
+      "path": "Dairies/2026-05-31.md"
+    },
+    {
       "basename": "用ai产出创意内容",
       "path": "Templates/Homepage/用ai产出创意内容.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "002_稍后再看",
       "path": "Templates/Homepage/002_稍后再看.md"
-    },
-    {
-      "basename": "2026-05-17",
-      "path": "Dairies/2026-05-17.md"
     }
   ],
   "omittedPaths": [],
