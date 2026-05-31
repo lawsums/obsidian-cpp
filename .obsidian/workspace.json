@@ -79,7 +79,8 @@
               "title": "Aiot修改"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -208,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/Aiot修改.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "Aiot修改 的大纲"
             }
           },
           {
@@ -358,10 +359,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "0c8836fc67f3b456",
   "lastOpenFiles": [
-    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/用ai产出创意内容.md",
     "项目/第二轮面试/协程库/框架梳理.md",
     "项目/第二轮面试/协程库",
     "Dairies/Aiot修改.md",
