@@ -79,8 +79,7 @@
               "title": "Aiot修改"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "用ai产出创意内容 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -359,12 +358,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fb6616e8a2f00f46",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/Aiot修改.md",
     "Dairies/2026-05-31.md",
-    "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/2026-06-01.md",
     "Dairies/2026-05-30.md",
     "Templates/Homepage/学习C++.md",
