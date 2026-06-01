@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "项目/知识星球项目.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "知识星球项目"
+            }
+          },
+          {
+            "id": "1143c650c1a3e057",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Templates/Homepage/Homepage.md",
                 "mode": "preview",
                 "source": false,
@@ -31,7 +55,8 @@
               "title": "Homepage"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -310,11 +335,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "1143c650c1a3e057",
   "lastOpenFiles": [
+    "项目/知识星球项目.md",
     "Templates/Homepage/Homepage.md",
     "Attachments/Pasted image 20260601171614.png",
-    "项目/知识星球项目.md",
     "Attachments/Pasted image 20260601171631.png",
     "Software/yuque.md",
     "Dairies/2026-06-02.md",
