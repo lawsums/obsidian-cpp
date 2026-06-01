@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "yuque",
-      "path": "Software/yuque.md"
+      "basename": "知识星球项目",
+      "path": "项目/知识星球项目.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Pasted image 20260601171614",
+      "path": "Attachments/Pasted image 20260601171614.png"
+    },
+    {
+      "basename": "yuque",
+      "path": "Software/yuque.md"
     },
     {
       "basename": "Aiot修改",
@@ -191,14 +199,6 @@
     {
       "basename": "箭头运算符的重载规则",
       "path": "操作系统/箭头运算符的重载规则.md"
-    },
-    {
-      "basename": "多个esp32组网数据通过esp32s3终端上传云平台",
-      "path": "Dairies/多个esp32组网数据通过esp32s3终端上传云平台.md"
-    },
-    {
-      "basename": "做一个小程序显示节点报警状况",
-      "path": "项目/毕设/做一个小程序显示节点报警状况.md"
     }
   ],
   "omittedPaths": [],
