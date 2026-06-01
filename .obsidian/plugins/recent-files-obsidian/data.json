@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Aiot修改",
-      "path": "Dairies/Aiot修改.md"
+      "basename": "yuque",
+      "path": "Software/yuque.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Aiot修改",
+      "path": "Dairies/Aiot修改.md"
     },
     {
       "basename": "做一个小程序显示云平台数据和esp32节点报警情况",
@@ -195,10 +199,6 @@
     {
       "basename": "做一个小程序显示节点报警状况",
       "path": "项目/毕设/做一个小程序显示节点报警状况.md"
-    },
-    {
-      "basename": "开发游戏服务器_0517",
-      "path": "Dairies/开发游戏服务器_0517.md"
     }
   ],
   "omittedPaths": [],
