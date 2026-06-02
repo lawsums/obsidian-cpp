@@ -55,8 +55,7 @@
               "title": "知识星球项目"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/知识星球项目.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "知识星球项目 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,11 +334,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3812f8e0472abed7",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "项目/知识星球项目.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-06-02.md",
-    "项目/知识星球项目.md",
     "Attachments/Pasted image 20260601171614.png",
     "Attachments/Pasted image 20260601171631.png",
     "Software/yuque.md",
