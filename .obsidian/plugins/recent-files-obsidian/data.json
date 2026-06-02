@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "知识星球项目",
       "path": "项目/知识星球项目.md"
+    },
+    {
+      "basename": "2026-06-03",
+      "path": "Dairies/2026-06-03.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "2026-06-02",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-18",
       "path": "Dairies/2026-05-18.md"
-    },
-    {
-      "basename": "箭头运算符",
-      "path": "Templates/Homepage/箭头运算符.md"
     }
   ],
   "omittedPaths": [],

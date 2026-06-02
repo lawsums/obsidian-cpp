@@ -55,7 +55,8 @@
               "title": "知识星球项目"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/知识星球项目.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "知识星球项目 的大纲"
             }
           },
           {
@@ -334,8 +335,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "3812f8e0472abed7",
   "lastOpenFiles": [
+    "Dairies/2026-06-03.md",
     "项目/知识星球项目.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-06-02.md",
