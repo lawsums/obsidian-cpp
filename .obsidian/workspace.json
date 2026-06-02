@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "64c6ce7978e3521d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-06-02.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-02"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Dairies/2026-06-02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "2026-06-02 的大纲"
             }
           },
           {
@@ -310,7 +335,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "64c6ce7978e3521d",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
     "项目/知识星球项目.md",

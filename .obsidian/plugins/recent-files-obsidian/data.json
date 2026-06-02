@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2026-06-02",
+      "path": "Dairies/2026-06-02.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "箭头运算符",
       "path": "Templates/Homepage/箭头运算符.md"
-    },
-    {
-      "basename": "箭头运算符的重载规则",
-      "path": "操作系统/箭头运算符的重载规则.md"
     }
   ],
   "omittedPaths": [],
