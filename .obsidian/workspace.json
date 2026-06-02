@@ -55,8 +55,7 @@
               "title": "2026-06-02"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dairies/2026-06-02.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-06-02 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,14 +334,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "64c6ce7978e3521d",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-06-02.md",
     "Templates/Homepage/Homepage.md",
     "项目/知识星球项目.md",
     "Attachments/Pasted image 20260601171614.png",
     "Attachments/Pasted image 20260601171631.png",
     "Software/yuque.md",
-    "Dairies/2026-06-02.md",
     "Dairies/Aiot修改.md",
     "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md",
     "Templates/Homepage/用ai产出创意内容.md",
