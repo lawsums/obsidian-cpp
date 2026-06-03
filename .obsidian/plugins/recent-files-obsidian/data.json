@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "宝可梦肉鸽",
+      "path": "Templates/Homepage/宝可梦肉鸽.md"
+    },
+    {
+      "basename": "009_游戏",
+      "path": "Templates/Homepage/009_游戏.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "用gpt生成我和老陆的ppt",
       "path": "Dairies/用gpt生成我和老陆的ppt.md"
-    },
-    {
-      "basename": "给老师看一下定稿问一下答辩时间",
-      "path": "Dairies/给老师看一下定稿问一下答辩时间.md"
-    },
-    {
-      "basename": "2026-05-18",
-      "path": "Dairies/2026-05-18.md"
     }
   ],
   "omittedPaths": [],
