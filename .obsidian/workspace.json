@@ -55,8 +55,7 @@
               "title": "框架梳理"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/第二轮面试/协程库/框架梳理.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "框架梳理 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -337,10 +336,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "81562afb22cd303d",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "项目/第二轮面试/协程库/框架梳理.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/2026-06-06.md",
     "Dairies/2026-06-07.md",
