@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "81562afb22cd303d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/第二轮面试/协程库/框架梳理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "框架梳理"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +131,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -160,13 +186,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/第二轮面试/协程库/框架梳理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "框架梳理 的大纲"
             }
           },
           {
@@ -274,7 +300,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -310,16 +337,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "81562afb22cd303d",
   "lastOpenFiles": [
-    "Dairies/2026-06-06.md",
     "Templates/Homepage/Homepage.md",
+    "项目/第二轮面试/协程库/框架梳理.md",
+    "Templates/Homepage/学习C++.md",
+    "Dairies/2026-06-06.md",
     "Dairies/2026-06-07.md",
     "Dairies/2026-06-05.md",
     "Templates/Homepage/宝可梦肉鸽.md",
     "Templates/Homepage/009_游戏.md",
     "Dairies/2026-06-04.md",
-    "项目/第二轮面试/协程库/框架梳理.md",
     "Dairies/2026-06-03.md",
     "项目/知识星球项目.md",
     "Dairies/2026-06-02.md",
@@ -333,7 +361,6 @@
     "Dairies/2026-05-31.md",
     "Dairies/2026-06-01.md",
     "Dairies/2026-05-30.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Art of programming.md",
     "Templates/Homepage/007_书籍.md",
     "Dairies/2026-05-29.md",
