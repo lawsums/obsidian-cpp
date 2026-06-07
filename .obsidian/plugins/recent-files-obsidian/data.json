@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-06-07",
+      "path": "Dairies/2026-06-07.md"
+    },
+    {
       "basename": "框架梳理",
       "path": "项目/第二轮面试/协程库/框架梳理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-14-anki",
       "path": "项目/第二轮面试/车载终端/2026-05-14-anki.md"
-    },
-    {
-      "basename": "2026-05-19",
-      "path": "Dairies/2026-05-19.md"
     }
   ],
   "omittedPaths": [],
