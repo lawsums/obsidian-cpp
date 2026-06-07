@@ -22,10 +22,8 @@ const weekday = tp.date.now("dddd", 0, titleDate);
 // 按星期自动生成任务 SWITCH 版
 switch (weekday) {
   case "星期一":
-    tR += "- [ ] :LiSchool: 请假去学校, 明天需要去实验室\n";
     break;
   case "星期二":
-    tR += "- [ ] :LiActivitySquare: 去毕设实验室\n";
     break;
   case "星期三":
     tR += "- [ ] [[用ai产出创意内容]]\n";
@@ -36,18 +34,20 @@ switch (weekday) {
   case "星期五":
     break;
   case "星期六":
+    tR += "- [ ] [[打leetcode比赛]] \n";
     tR += "- [ ] [[学习科目三]]\n";
     tR += "- [ ] [[用ai产出创意内容]]\n";
     break;
   case "星期日":
-    tR += "- [ ] [[学习科目三]]\n";
-    tR += "- [ ] [[用ai产出创意内容]]\n";
+    tR += "- [ ] [[学习科目三]] \n";
+    tR += "- [ ] [[用ai产出创意内容]] \n";
     break;
   default:
     break;
 }
 %>
 - [ ] [多邻国练习](https://www.duolingo.cn/learn)
+- [ ] 晚上刷牙
 - [ ] 抹护肤品
 - [ ] 抹药
 - [ ] [[实现自己的数据结构]]

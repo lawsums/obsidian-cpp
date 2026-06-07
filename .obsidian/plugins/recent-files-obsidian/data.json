@@ -5,12 +5,16 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "2026-06-07",
-      "path": "Dairies/2026-06-07.md"
-    },
-    {
       "basename": "框架梳理",
       "path": "项目/第二轮面试/协程库/框架梳理.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "2026-06-07",
+      "path": "Dairies/2026-06-07.md"
     },
     {
       "basename": "学习C++",
@@ -127,10 +131,6 @@
     {
       "basename": "1466.跳跃游戏 V",
       "path": "Leetcode/1466.跳跃游戏 V.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "修改算论文",
