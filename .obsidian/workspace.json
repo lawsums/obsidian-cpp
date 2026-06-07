@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -155,8 +155,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -210,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/第二轮面试/协程库/框架梳理.md",
+                "file": "Templates/Homepage/用ai产出创意内容.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "框架梳理 的大纲"
+              "title": "用ai产出创意内容 的大纲"
             }
           },
           {
@@ -324,8 +323,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -361,15 +359,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "394484939bbe6ace",
+  "active": "732badf3080fca07",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/用ai产出创意内容.md",
-    "项目/第二轮面试/协程库/框架梳理.md",
-    "Templates/Daily_note_template.md",
-    "Dairies/2026-06-08.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/2026-06-06.md",
+    "Templates/Homepage/Homepage.md",
+    "项目/第二轮面试/协程库/框架梳理.md",
+    "Templates/Homepage/用ai产出创意内容.md",
+    "Templates/Daily_note_template.md",
+    "Dairies/2026-06-08.md",
     "Dairies/2026-06-07.md",
     "Dairies/2026-06-05.md",
     "Templates/Homepage/宝可梦肉鸽.md",
