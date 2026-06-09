@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Effective STL",
+      "path": "Templates/Homepage/Effective STL.md"
+    },
+    {
+      "basename": "007_书籍",
+      "path": "Templates/Homepage/007_书籍.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "知识星球项目",
       "path": "项目/知识星球项目.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "未命名 1",
+      "path": "未命名 1.md"
     },
     {
       "basename": "调整tasks使用方法",
       "path": "Dairies/调整tasks使用方法.md"
     },
     {
-      "basename": "2026-06-09",
-      "path": "Dairies/2026-06-09.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "未命名 1",
-      "path": "未命名 1.md"
+      "basename": "2026-06-10",
+      "path": "Dairies/2026-06-10.md"
+    },
+    {
+      "basename": "2026-06-09",
+      "path": "Dairies/2026-06-09.md"
     },
     {
       "basename": "2026-06-08",
@@ -27,10 +43,6 @@
     {
       "basename": "用ai产出创意内容",
       "path": "Templates/Homepage/用ai产出创意内容.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "2026-06-06",
@@ -95,10 +107,6 @@
     {
       "basename": "Art of programming",
       "path": "Templates/Homepage/Art of programming.md"
-    },
-    {
-      "basename": "007_书籍",
-      "path": "Templates/Homepage/007_书籍.md"
     },
     {
       "basename": "2026-05-28",
@@ -191,14 +199,6 @@
     {
       "basename": "用豆包做一下ppt看看",
       "path": "Dairies/用豆包做一下ppt看看.md"
-    },
-    {
-      "basename": "流程",
-      "path": "项目/第二轮面试/车载终端/流程.md"
-    },
-    {
-      "basename": "3329.最长公共前缀的长度",
-      "path": "Leetcode/3329.最长公共前缀的长度.md"
     }
   ],
   "omittedPaths": [],
