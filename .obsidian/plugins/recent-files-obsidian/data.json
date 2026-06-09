@@ -5,6 +5,18 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "调整tasks使用方法",
+      "path": "Dairies/调整tasks使用方法.md"
+    },
+    {
+      "basename": "2026-06-09",
+      "path": "Dairies/2026-06-09.md"
+    },
+    {
+      "basename": "未命名 1",
+      "path": "未命名 1.md"
+    },
+    {
       "basename": "2026-06-08",
       "path": "Dairies/2026-06-08.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "3329.最长公共前缀的长度",
       "path": "Leetcode/3329.最长公共前缀的长度.md"
-    },
-    {
-      "basename": "实现Trie(前缀树)",
-      "path": "数据结构/实现Trie(前缀树).md"
-    },
-    {
-      "basename": "2026-05-21",
-      "path": "Dairies/2026-05-21.md"
-    },
-    {
-      "basename": "2026-05-21-anki",
-      "path": "项目/第二轮面试/车载终端/2026-05-21-anki.md"
     }
   ],
   "omittedPaths": [],
