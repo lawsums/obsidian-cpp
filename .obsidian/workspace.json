@@ -30,81 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "901912bb8171c83a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习C++"
-            }
-          },
-          {
-            "id": "2575956f9490083c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/Effective STL.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Effective STL"
-            }
-          },
-          {
-            "id": "ad7e8c4c3c484544",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/知识星球项目.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "知识星球项目"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Effective STL.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Effective STL 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -383,7 +310,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2575956f9490083c",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/007_书籍.md",
     "Templates/Homepage/学习C++.md",

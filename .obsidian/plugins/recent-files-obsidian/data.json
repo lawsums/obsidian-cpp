@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "Effective STL",
       "path": "Templates/Homepage/Effective STL.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "调整tasks使用方法",
       "path": "Dairies/调整tasks使用方法.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "2026-06-10",
