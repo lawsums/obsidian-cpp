@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "2026-06-10",
+      "path": "Dairies/2026-06-10.md"
+    },
+    {
       "basename": "2026-06-11",
       "path": "Dairies/2026-06-11.md"
     },
@@ -13,16 +21,8 @@
       "path": "Dairies/修改homepage任务展示和添加任务功能.md"
     },
     {
-      "basename": "2026-06-10",
-      "path": "Dairies/2026-06-10.md"
-    },
-    {
       "basename": "未命名 1",
       "path": "未命名 1.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "Daily_note_template 1",

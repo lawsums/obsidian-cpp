@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "0d178447374c74ee",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/2026-06-10.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-10"
-            }
-          },
-          {
             "id": "8b054db3cd234172",
             "type": "leaf",
             "state": {
@@ -77,60 +53,6 @@
               },
               "icon": "lucide-file",
               "title": "Daily_note_template"
-            }
-          }
-        ]
-      },
-      {
-        "id": "acb756b2fc5b8b20",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f4d5f50b5739b44d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/2026-06-11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-11"
-            }
-          },
-          {
-            "id": "f99eb170d57da526",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "未命名 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "未命名 1"
             }
           }
         ]
@@ -208,8 +130,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -377,8 +298,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -416,12 +336,12 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Dairies/2026-06-11.md",
-    "Dairies/修改homepage任务展示和添加任务功能.md",
+    "Templates/Daily_note_template.md",
     "Dairies/2026-06-10.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-06-11.md",
+    "Dairies/修改homepage任务展示和添加任务功能.md",
     "未命名 1.md",
-    "Templates/Daily_note_template.md",
     "Templates/Daily_note_template 1.md",
     "Templates/Homepage/007_书籍.md",
     "Templates/Homepage/学习C++.md",
