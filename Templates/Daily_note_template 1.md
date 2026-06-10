@@ -13,13 +13,39 @@ number headings: off
 
 
 ## 今天的待办项
-- [ ] 交附件和电子资料
-- [x] 优先级task整成模板
-- [ ] 1 📅 2026-06-09
-- [ ] 2 🔼 📅 2026-06-09
-- [ ] 3 🔼 📅 2026-06-09
-- [ ] [[用ai产出创意内容]]
-
+<%*
+// const weekday = tp.date.now("dddd");
+// 从标题提取日期 → 转成星期几
+const titleDate = tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD");
+const weekday = tp.date.now("dddd", 0, titleDate);
+// ========= 在这里自定义你的每周任务 =========
+// 按星期自动生成任务 SWITCH 版
+switch (weekday) {
+  case "星期一":
+    break;
+  case "星期二":
+    break;
+  case "星期三":
+    tR += "- [ ] [[用ai产出创意内容]]\n";
+    break;
+  case "星期四":
+	 tR += "- [ ] [打字练习一篇文章](https://dazidazi.com/) \n";
+    break;
+  case "星期五":
+    break;
+  case "星期六":
+    tR += "- [ ] [[打leetcode比赛]] \n";
+    tR += "- [ ] [[学习科目三]]\n";
+    tR += "- [ ] [[用ai产出创意内容]]\n";
+    break;
+  case "星期日":
+    tR += "- [ ] [[学习科目三]] \n";
+    tR += "- [ ] [[用ai产出创意内容]] \n";
+    break;
+  default:
+    break;
+}
+%>
 - [ ] [多邻国练习](https://www.duolingo.cn/learn)
 - [ ] 晚上刷牙
 - [ ] 抹护肤品
@@ -35,7 +61,7 @@ number headings: off
 - [ ] [每日任务excel](F:\桌面\每日任务1.xlsm)
 - [ ] 好好睡觉
 - [ ] [拆分学习 | 小鹤音形](https://flypy.cc/if/)
-- [x] [没事就用 go/algorithm 写一题 leetcode](https://leetcode.cn/)
+- [ ] [没事就用 go/algorithm 写一题 leetcode](https://leetcode.cn/)
 - [ ] 给老妈烧饭
 - [ ] 看一看 boss 直聘
 
