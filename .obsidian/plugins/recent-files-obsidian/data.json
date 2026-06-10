@@ -5,6 +5,10 @@
       "path": "项目/第二轮面试/Http服务框架/框架梳理.md"
     },
     {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
       "basename": "流程",
       "path": "项目/第二轮面试/高性能服务器/流程.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "2026-05-24-anki",
       "path": "Temp/2026-05-24-anki.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "2026-06-10",
