@@ -30,57 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "78a58d89ff3b8e06",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/第二轮面试/Http服务框架/框架梳理.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "框架梳理"
-            }
-          },
-          {
-            "id": "8b054db3cd234172",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Daily_note_template.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Daily_note_template"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +64,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "答辩可能",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/第二轮面试/Http服务框架/框架梳理.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "框架梳理 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -359,8 +310,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "78a58d89ff3b8e06",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-06-12.md",
     "Templates/Daily_note_template.md",
     "项目/第二轮面试/Http服务框架/框架梳理.md",
     "项目/第二轮面试/高性能服务器/流程.md",
@@ -387,7 +339,6 @@
     "Dairies/2026-06-07.md",
     "Dairies/2026-06-05.md",
     "Templates/Homepage/宝可梦肉鸽.md",
-    "Templates/Homepage/009_游戏.md",
     "Attachments/Pasted image 20260601171614.png",
     "Attachments/Pasted image 20260601171631.png",
     "项目/第二轮面试/协程库",
