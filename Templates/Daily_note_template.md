@@ -26,7 +26,7 @@ switch (weekday) {
   case "星期二":
     break;
   case "星期三":
-    tR += `- [ ] [[用ai产出创意内容]] 📅 ${titleDate}\n`;
+    tR += `- [ ] [[用ai产出创意内容]] 🔼 📅 ${titleDate}\n`;
     break;
   case "星期四":
 	 tR += `- [ ] [打字练习一篇文章](https://dazidazi.com/) 📅 ${titleDate}\n`;
@@ -34,13 +34,13 @@ switch (weekday) {
   case "星期五":
     break;
   case "星期六":
-    tR += `- [ ] [[打leetcode比赛]] 📅 ${titleDate}\n`;
+    tR += `- [ ] [[打leetcode比赛]] 🔼 📅 ${titleDate}\n`;
     tR += `- [ ] [[学习科目三]] 📅 ${titleDate}\n`;
-    tR += `- [ ] [[用ai产出创意内容]] 📅 ${titleDate}\n`;
+    tR += `- [ ] [[用ai产出创意内容]] 🔼 📅 ${titleDate}\n`;
     break;
   case "星期日":
     tR += `- [ ] [[学习科目三]] 📅 ${titleDate}\n`;
-    tR += `- [ ] [[用ai产出创意内容]] 📅 ${titleDate}\n`;
+    tR += `- [ ] [[用ai产出创意内容]] 🔼 📅 ${titleDate}\n`;
     break;
   default:
     break;
@@ -49,17 +49,17 @@ switch (weekday) {
 - [ ] [多邻国练习](https://www.duolingo.cn/learn) 📅 <% titleDate %>
 - [ ] 晚上刷牙 📅 <% titleDate %>
 - [ ] 抹护肤品 📅 <% titleDate %>
-- [ ] 抹药 📅 <% titleDate %>
+- [ ] 抹药 🔼 📅 <% titleDate %>
 - [ ] [[实现自己的数据结构]] 📅 <% titleDate %>
 - [ ] [[学习深度学习]] 📅 <% titleDate %>
 - [ ] [学习项目](https://wx.zsxq.com/group/88511825151142) 📅 <% titleDate %>
 - [ ] 背面试题 📅 <% titleDate %>
-- [ ] [[学习C++]] 📅 <% titleDate %>
-- [ ] 做俯卧撑 20 个 📅 <% titleDate %>
+- [ ] [[学习C++]] 🔼 📅 <% titleDate %>
+- [ ] 做俯卧撑 20 个 🔼 📅 <% titleDate %>
 - [ ] 举哑铃 20 个 📅 <% titleDate %>
 - [ ] [面试题目每日一题, 写的时候用gdb调试一下, 同时记录到anki](https://docs.qq.com/sheet/DWGFoRGVZRmxNaXFz?tab=BB08J2&_t=1778035302469&nlc=1) 📅 <% titleDate %>
 - [ ] [每日任务excel](F:\桌面\每日任务1.xlsm) 📅 <% titleDate %>
-- [ ] 好好睡觉 📅 <% titleDate %>
+- [ ] 好好睡觉 🔼 📅 <% titleDate %>
 - [ ] [拆分学习 | 小鹤音形](https://flypy.cc/if/) 📅 <% titleDate %>
 - [ ] [没事就用 go/algorithm 写一题 leetcode](https://leetcode.cn/) 📅 <% titleDate %>
 - [ ] 给老妈烧饭 📅 <% titleDate %>
@@ -86,6 +86,7 @@ sort by due
 sort by description
 ```
 
+🔺⏫🔼🔽⏬
 
 ## 想法
 

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Homepage/Homepage.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -29,60 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
-            }
-          },
-          {
-            "id": "f2942fda9bd301b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/修改homepage任务展示和添加任务功能.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "修改homepage任务展示和添加任务功能"
-            }
-          }
-        ]
-      },
-      {
-        "id": "39e8e9c245f00905",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "54e1bfa98e5aa2d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dairies/2026-06-11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-11"
             }
           }
         ]
@@ -367,11 +313,12 @@
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Dairies/2026-06-11.md",
-    "Dairies/修改homepage任务展示和添加任务功能.md",
-    "Dairies/2026-06-10.md",
     "Templates/Homepage/Homepage.md",
-    "Dairies/2026-06-12.md",
+    "Dairies/修改homepage任务展示和添加任务功能.md",
     "Templates/Daily_note_template.md",
+    "Dairies/2026-06-10.md",
+    "Dairies/2026-06-12.md",
+    "Templates/Homepage/Homepage 1.md",
     "项目/第二轮面试/Http服务框架/框架梳理.md",
     "项目/第二轮面试/高性能服务器/流程.md",
     "项目/第二轮面试/Http服务框架",
@@ -392,7 +339,6 @@
     "Dairies/2026-06-06.md",
     "Dairies/2026-06-07.md",
     "Dairies/2026-06-05.md",
-    "Templates/Homepage/宝可梦肉鸽.md",
     "Attachments/Pasted image 20260601171614.png",
     "Attachments/Pasted image 20260601171631.png",
     "项目/第二轮面试/协程库",

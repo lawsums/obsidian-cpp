@@ -13,16 +13,24 @@
       "path": "Dairies/修改homepage任务展示和添加任务功能.md"
     },
     {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
       "basename": "2026-06-10",
       "path": "Dairies/2026-06-10.md"
     },
     {
-      "basename": "框架梳理",
-      "path": "项目/第二轮面试/Http服务框架/框架梳理.md"
+      "basename": "2026-06-12",
+      "path": "Dairies/2026-06-12.md"
     },
     {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
+      "basename": "Homepage 1",
+      "path": "Templates/Homepage/Homepage 1.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/第二轮面试/Http服务框架/框架梳理.md"
     },
     {
       "basename": "流程",
@@ -191,14 +199,6 @@
     {
       "basename": "提醒罗鑫形势与政策",
       "path": "Dairies/提醒罗鑫形势与政策.md"
-    },
-    {
-      "basename": "Pasted image 20260523010041",
-      "path": "Attachments/Pasted image 20260523010041.png"
-    },
-    {
-      "basename": "003_不定期任务",
-      "path": "Templates/Homepage/003_不定期任务.md"
     }
   ],
   "omittedPaths": [],

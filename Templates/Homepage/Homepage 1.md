@@ -12,34 +12,14 @@ number headings: off
 ````columns
 id: gL39qDWT_Jjpb_OEMa91V
 ===
-``` tasks
-not done
-due today
-has due date
-hide backlink
-hide due date
-hide start date
-hide scheduled date
-hide created date
-hide done date
-sort by priority
-sort by due
-sort by description
+``` dataview
+task from "Dairies"
+where file.day = date(today) and !completed
 ```
 ===
-``` tasks
-not done
-due yesterday
-has due date
-hide backlink
-hide due date
-hide start date
-hide scheduled date
-hide created date
-hide done date
-sort by priority
-sort by due
-sort by description
+``` dataview
+task from "Dairies"
+where file.day = date(yesterday) and !completed
 ```
 ````
 
