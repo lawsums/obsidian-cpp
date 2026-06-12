@@ -5,16 +5,16 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "AddTask",
+      "path": "Templates/Homepage/AddTask.md"
+    },
+    {
       "basename": "C++知识学习",
       "path": "Templates/Homepage/C++知识学习.md"
     },
     {
       "basename": "2026-06-13",
       "path": "Dairies/2026-06-13.md"
-    },
-    {
-      "basename": "AddTask",
-      "path": "Templates/Homepage/AddTask.md"
     },
     {
       "basename": "学习C++",
