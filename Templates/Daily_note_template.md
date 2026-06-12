@@ -13,6 +13,27 @@ number headings: off
 
 
 ## 今天的待办项
+``` tasks
+not done
+due <% titleDate %>
+has due date
+limit 100
+group by filename
+# 隐藏文件和段落链接
+hide backlink
+# 1 隐藏所有日期显示
+hide due date
+hide start date
+hide scheduled date
+hide created date
+hide done date
+# 2 先按优先级从高到低排序，再按截止日期正序（最紧急的优先）
+sort by priority
+sort by due
+sort by description
+```
+
+---
 <%*
 // 从标题提取日期 → 转成星期几
 const titleDate = tp.date.now("YYYY-MM-DD", 0, tp.file.title, "YYYY-MM-DD");
@@ -65,29 +86,6 @@ switch (weekday) {
 - [ ] 给老妈烧饭 📅 <% titleDate %>
 - [ ] 看一看 boss 直聘 📅 <% titleDate %>
 
----
-``` tasks
-not done
-due <% titleDate %>
-has due date
-limit 100
-group by filename
-# 隐藏文件和段落链接
-hide backlink
-# 1 隐藏所有日期显示
-hide due date
-hide start date
-hide scheduled date
-hide created date
-hide done date
-# 2 先按优先级从高到低排序，再按截止日期正序（最紧急的优先）
-sort by priority
-sort by due
-sort by description
-```
-
-🔺⏫🔼🔽⏬
-
 ## 想法
 
 
@@ -100,7 +98,7 @@ GROUP BY file.link
 
 ## 待办表
 
-```dataview
+```
 TABLE length(rows) AS "出现次数"
 FROM "Dairies"
 FLATTEN file.tasks AS task

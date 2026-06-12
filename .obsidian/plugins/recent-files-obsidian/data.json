@@ -5,32 +5,40 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "2026-06-13",
+      "path": "Dairies/2026-06-13.md"
+    },
+    {
+      "basename": "z_写标题",
+      "path": "Temp/z_写标题.md"
     },
     {
       "basename": "C++知识学习",
       "path": "Templates/Homepage/C++知识学习.md"
     },
     {
+      "basename": "2026-06-12",
+      "path": "Dairies/2026-06-12.md"
+    },
+    {
       "basename": "2026-06-11",
       "path": "Dairies/2026-06-11.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "修改homepage任务展示和添加任务功能",
       "path": "Dairies/修改homepage任务展示和添加任务功能.md"
     },
     {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
-    },
-    {
       "basename": "2026-06-10",
       "path": "Dairies/2026-06-10.md"
-    },
-    {
-      "basename": "2026-06-12",
-      "path": "Dairies/2026-06-12.md"
     },
     {
       "basename": "Homepage 1",
@@ -191,14 +199,6 @@
     {
       "basename": "修改算论文",
       "path": "Dairies/修改算论文.md"
-    },
-    {
-      "basename": "让乔同学添加一个接收到的图片",
-      "path": "Dairies/让乔同学添加一个接收到的图片.md"
-    },
-    {
-      "basename": "1878. 检查数组是否经排序和轮转得到",
-      "path": "Leetcode/1878. 检查数组是否经排序和轮转得到.md"
     }
   ],
   "omittedPaths": [],
