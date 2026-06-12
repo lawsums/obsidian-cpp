@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "C++知识学习",
+      "path": "Templates/Homepage/C++知识学习.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "007_书籍",
       "path": "Templates/Homepage/007_书籍.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "知识星球项目",
@@ -195,10 +199,6 @@
     {
       "basename": "1878. 检查数组是否经排序和轮转得到",
       "path": "Leetcode/1878. 检查数组是否经排序和轮转得到.md"
-    },
-    {
-      "basename": "提醒罗鑫形势与政策",
-      "path": "Dairies/提醒罗鑫形势与政策.md"
     }
   ],
   "omittedPaths": [],
