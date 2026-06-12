@@ -79,8 +79,7 @@
               "title": "C++知识学习"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/C++知识学习.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "C++知识学习 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -359,10 +358,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "29762bb2bb8391ce",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/C++知识学习.md",
     "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/C++知识学习.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-06-11.md",
     "Dairies/修改homepage任务展示和添加任务功能.md",
