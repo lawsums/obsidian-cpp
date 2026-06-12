@@ -5,20 +5,28 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
+      "basename": "C++知识学习",
+      "path": "Templates/Homepage/C++知识学习.md"
     },
     {
       "basename": "2026-06-13",
       "path": "Dairies/2026-06-13.md"
     },
     {
-      "basename": "z_写标题",
-      "path": "Temp/z_写标题.md"
+      "basename": "AddTask",
+      "path": "Templates/Homepage/AddTask.md"
     },
     {
-      "basename": "C++知识学习",
-      "path": "Templates/Homepage/C++知识学习.md"
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "z_写标题",
+      "path": "Temp/z_写标题.md"
     },
     {
       "basename": "2026-06-12",
@@ -27,10 +35,6 @@
     {
       "basename": "2026-06-11",
       "path": "Dairies/2026-06-11.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "修改homepage任务展示和添加任务功能",
@@ -195,10 +199,6 @@
     {
       "basename": "1466.跳跃游戏 V",
       "path": "Leetcode/1466.跳跃游戏 V.md"
-    },
-    {
-      "basename": "修改算论文",
-      "path": "Dairies/修改算论文.md"
     }
   ],
   "omittedPaths": [],
