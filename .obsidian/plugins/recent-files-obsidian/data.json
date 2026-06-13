@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "grep",
+      "path": "操作系统/linux常见命令/grep.md"
+    },
+    {
       "basename": "宝可梦肉鸽",
       "path": "Templates/Homepage/宝可梦肉鸽.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "用蓝色模板做完ppt",
       "path": "Dairies/用蓝色模板做完ppt.md"
-    },
-    {
-      "basename": "2026-05-24",
-      "path": "Dairies/2026-05-24.md"
     }
   ],
   "omittedPaths": [],
