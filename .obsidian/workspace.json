@@ -32,54 +32,6 @@
             }
           },
           {
-            "id": "39500ac93b3d02e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/宝可梦肉鸽.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "宝可梦肉鸽"
-            }
-          },
-          {
-            "id": "a8c5462a538ab6cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "操作系统/linux常见命令/grep.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "grep"
-            }
-          },
-          {
             "id": "3aa407a927550962",
             "type": "leaf",
             "state": {
@@ -127,8 +79,7 @@
               "title": "AddTask"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "操作系统/linux常见命令/grep.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "grep 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -407,12 +358,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8c5462a538ab6cb",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/宝可梦肉鸽.md",
     "操作系统/linux常见命令/grep.md",
     "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/AddTask.md",
     "Dairies/2026-06-13.md",
     "Templates/Daily_note_template.md",
