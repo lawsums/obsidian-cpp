@@ -7,8 +7,6 @@ excalidraw-open-md: true
 number headings: off
 ---
 `BUTTON[light-button, week-notes-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`   `BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button, studyRoad-button, cppStudy-button]` `BUTTON[software-develop]`
-
-## 0.1 今天/昨日待办
 ````columns
 id: gL39qDWT_Jjpb_OEMa91V
 ===

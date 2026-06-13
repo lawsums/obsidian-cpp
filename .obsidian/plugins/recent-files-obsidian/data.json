@@ -5,24 +5,28 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "AddTask",
-      "path": "Templates/Homepage/AddTask.md"
-    },
-    {
-      "basename": "C++知识学习",
-      "path": "Templates/Homepage/C++知识学习.md"
-    },
-    {
       "basename": "2026-06-13",
       "path": "Dairies/2026-06-13.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
     {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
+      "basename": "打leetcode比赛",
+      "path": "Templates/Homepage/打leetcode比赛.md"
+    },
+    {
+      "basename": "AddTask",
+      "path": "Templates/Homepage/AddTask.md"
+    },
+    {
+      "basename": "C++知识学习",
+      "path": "Templates/Homepage/C++知识学习.md"
     },
     {
       "basename": "z_写标题",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-24",
       "path": "Dairies/2026-05-24.md"
-    },
-    {
-      "basename": "1466.跳跃游戏 V",
-      "path": "Leetcode/1466.跳跃游戏 V.md"
     }
   ],
   "omittedPaths": [],
