@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "AddTask",
+      "path": "Templates/Homepage/AddTask.md"
+    },
+    {
       "basename": "2026-06-13",
       "path": "Dairies/2026-06-13.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "打leetcode比赛",
       "path": "Templates/Homepage/打leetcode比赛.md"
-    },
-    {
-      "basename": "AddTask",
-      "path": "Templates/Homepage/AddTask.md"
     },
     {
       "basename": "C++知识学习",
