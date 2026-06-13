@@ -79,8 +79,7 @@
               "title": "AddTask"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "用ai产出创意内容 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -359,11 +358,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "3aa407a927550962",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/用ai产出创意内容.md",
+    "Templates/Homepage/AddTask.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-06-13.md",
-    "Templates/Homepage/AddTask.md",
     "Templates/Daily_note_template.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/打leetcode比赛.md",
@@ -387,7 +387,6 @@
     "Templates/Homepage/007_书籍.md",
     "项目/知识星球项目.md",
     "Dairies/调整tasks使用方法.md",
-    "Dairies/2026-06-09.md",
     "Attachments/Pasted image 20260601171614.png",
     "Attachments/Pasted image 20260601171631.png",
     "项目/第二轮面试/协程库",
