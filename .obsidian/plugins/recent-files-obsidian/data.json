@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-06-14",
+      "path": "Dairies/2026-06-14.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
       "basename": "用ai产出创意内容",
       "path": "Templates/Homepage/用ai产出创意内容.md"
     },
@@ -23,10 +31,6 @@
     {
       "basename": "2026-06-13",
       "path": "Dairies/2026-06-13.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "学习C++",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-23",
       "path": "Dairies/2026-05-23.md"
-    },
-    {
-      "basename": "用蓝色模板做完ppt",
-      "path": "Dairies/用蓝色模板做完ppt.md"
     }
   ],
   "omittedPaths": [],
