@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "AddTask",
+      "path": "Templates/Homepage/AddTask.md"
+    },
+    {
       "basename": "2026-06-14",
       "path": "Dairies/2026-06-14.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "grep",
       "path": "操作系统/linux常见命令/grep.md"
-    },
-    {
-      "basename": "AddTask",
-      "path": "Templates/Homepage/AddTask.md"
     },
     {
       "basename": "2026-06-13",
