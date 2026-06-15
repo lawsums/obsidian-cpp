@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "af450bd5f57d8df4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/005_KTV歌单.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "005_KTV歌单"
+            }
+          },
+          {
             "id": "301a814a9ad8b31c",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "学习C++"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/005_KTV歌单.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "005_KTV歌单 的大纲"
             }
           },
           {
@@ -334,11 +359,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "af450bd5f57d8df4",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/AddTask.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-06-15.md",
     "Templates/Daily_note_template.md",
     "Templates/Homepage/用ai产出创意内容.md",
