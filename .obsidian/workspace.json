@@ -79,8 +79,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/005_KTV歌单.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "005_KTV歌单 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -359,8 +358,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "af450bd5f57d8df4",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/005_KTV歌单.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/AddTask.md",
@@ -387,7 +387,6 @@
     "Temp/2026-05-24-anki.md",
     "Dairies/2026-05-24.md",
     "Templates/Homepage/003_不定期任务.md",
-    "未命名 1.md",
     "Attachments/Pasted image 20260601171614.png",
     "Attachments/Pasted image 20260601171631.png",
     "项目/第二轮面试/协程库",
