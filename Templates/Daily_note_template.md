@@ -81,7 +81,7 @@ switch (weekday) {
 - [ ] 举哑铃 20 个 📅 <% titleDate %>
 - [ ] [面试题目每日一题, 写的时候用gdb调试一下, 同时记录到anki](https://docs.qq.com/sheet/DWGFoRGVZRmxNaXFz?tab=BB08J2&_t=1778035302469&nlc=1) 📅 <% titleDate %>
 - [ ] [每日任务excel](F:\桌面\每日任务1.xlsm) 📅 <% titleDate %>
-- [ ] 好好睡觉 🔼 📅 <% titleDate %>
+- [ ] 11 点睡觉 🔼 📅 <% titleDate %>
 - [ ] [拆分学习 | 小鹤音形](https://flypy.cc/if/) 📅 <% titleDate %>
 - [ ] [没事就用 go/algorithm 写一题 leetcode](https://leetcode.cn/) 📅 <% titleDate %>
 - [ ] 给老妈烧饭 📅 <% titleDate %>

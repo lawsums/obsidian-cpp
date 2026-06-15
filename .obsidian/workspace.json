@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "301a814a9ad8b31c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习C++"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习C++ 的大纲"
             }
           },
           {
@@ -310,18 +335,18 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "301a814a9ad8b31c",
   "lastOpenFiles": [
-    "Templates/Homepage/AddTask.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-06-15.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习C++.md",
+    "Templates/Daily_note_template.md",
+    "Templates/Homepage/AddTask.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/2026-06-14.md",
-    "Templates/Daily_note_template.md",
     "Templates/Homepage/宝可梦肉鸽.md",
     "操作系统/linux常见命令/grep.md",
     "Dairies/2026-06-13.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/打leetcode比赛.md",
     "Templates/Homepage/C++知识学习.md",
     "Temp/z_写标题.md",

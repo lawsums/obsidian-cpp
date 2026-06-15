@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "2026-06-15",
+      "path": "Dairies/2026-06-15.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "AddTask",
@@ -17,10 +29,6 @@
       "path": "Dairies/2026-06-14.md"
     },
     {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
-    },
-    {
       "basename": "宝可梦肉鸽",
       "path": "Templates/Homepage/宝可梦肉鸽.md"
     },
@@ -31,10 +39,6 @@
     {
       "basename": "2026-06-13",
       "path": "Dairies/2026-06-13.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "打leetcode比赛",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-25",
       "path": "Dairies/2026-05-25.md"
-    },
-    {
-      "basename": "2026-05-23",
-      "path": "Dairies/2026-05-23.md"
     }
   ],
   "omittedPaths": [],
