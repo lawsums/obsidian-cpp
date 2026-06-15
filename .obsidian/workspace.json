@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "af450bd5f57d8df4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/005_KTV歌单.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "005_KTV歌单"
-            }
-          },
-          {
             "id": "301a814a9ad8b31c",
             "type": "leaf",
             "state": {
@@ -79,7 +55,8 @@
               "title": "学习C++"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习C++ 的大纲"
             }
           },
           {
@@ -358,10 +335,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "301a814a9ad8b31c",
   "lastOpenFiles": [
-    "Templates/Homepage/005_KTV歌单.md",
     "Templates/Homepage/AddTask.md",
+    "Templates/Homepage/005_KTV歌单.md",
     "Templates/Homepage/Homepage.md",
     "项目/第二轮面试/高性能服务器/流程.md",
     "Templates/Homepage/学习C++.md",
