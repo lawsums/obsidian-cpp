@@ -79,8 +79,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/第二轮面试/高性能服务器/流程.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "流程 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -359,10 +358,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "944cd14a7fae27b7",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/005_KTV歌单.md",
+    "项目/第二轮面试/高性能服务器/流程.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/AddTask.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/2026-06-15.md",
@@ -382,7 +382,6 @@
     "Dairies/2026-06-10.md",
     "Templates/Homepage/Homepage 1.md",
     "项目/第二轮面试/Http服务框架/框架梳理.md",
-    "项目/第二轮面试/高性能服务器/流程.md",
     "项目/第二轮面试/Http服务框架",
     "项目/第二轮面试/协程库/框架梳理.md",
     "Temp/2026-05-24-anki.md",
