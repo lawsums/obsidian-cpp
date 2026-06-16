@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "3931.用特殊操作处理字符串 I",
-      "path": "Leetcode/3931.用特殊操作处理字符串 I.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "3939.用特殊操作处理字符串 II",
+      "path": "Leetcode/3939.用特殊操作处理字符串 II.md"
+    },
+    {
+      "basename": "3931.用特殊操作处理字符串 I",
+      "path": "Leetcode/3931.用特殊操作处理字符串 I.md"
     },
     {
       "basename": "学习C++",
@@ -195,10 +199,6 @@
     {
       "basename": "3376.最长公共后缀查询",
       "path": "Leetcode/3376.最长公共后缀查询.md"
-    },
-    {
-      "basename": "2026-05-27",
-      "path": "Dairies/2026-05-27.md"
     }
   ],
   "omittedPaths": [],

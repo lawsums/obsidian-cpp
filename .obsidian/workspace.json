@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "29db5fa0a8e5f6ab",
+            "id": "316bdcc465d0c46e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/3931.用特殊操作处理字符串 I.md",
+                "file": "Leetcode/3939.用特殊操作处理字符串 II.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "3931.用特殊操作处理字符串 I"
+              "title": "3939.用特殊操作处理字符串 II"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/3931.用特殊操作处理字符串 I.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3931.用特殊操作处理字符串 I 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,11 +334,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "29db5fa0a8e5f6ab",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Leetcode/3939.用特殊操作处理字符串 II.md",
+    "Leetcode/3939.用特殊操作处理字符串 II.cpp~",
+    "Leetcode/3939.用特殊操作处理字符串 II.cpp",
+    "Leetcode/3931.用特殊操作处理字符串 I.md",
     "Leetcode/3931.用特殊操作处理字符串 I.cpp",
     "Templates/Homepage/Homepage.md",
-    "Leetcode/3931.用特殊操作处理字符串 I.md",
     "Dairies/2026-06-16.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/AddTask.md",
@@ -363,7 +365,6 @@
     "Templates/Homepage/Homepage 1.md",
     "项目/第二轮面试/Http服务框架/框架梳理.md",
     "项目/第二轮面试/Http服务框架",
-    "项目/第二轮面试/协程库/框架梳理.md",
     "Attachments/Pasted image 20260601171614.png",
     "Attachments/Pasted image 20260601171631.png",
     "项目/第二轮面试/协程库",
@@ -374,9 +375,6 @@
     "Leetcode/1878. 检查数组是否经排序和轮转得到.cpp~",
     "Leetcode/1878. 检查数组是否经排序和轮转得到.cpp",
     "Attachments/Pasted image 20260523010041.png",
-    "Leetcode/3329.最长公共前缀的长度.cpp~",
-    "Leetcode/3329.最长公共前缀的长度.cpp",
-    "项目/第二轮面试/高性能服务器",
     "Leetcode/images/4102_g5.png",
     "Leetcode/images/4102_g3_f.png",
     "Leetcode/images/4102_g6.png",
