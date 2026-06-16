@@ -9,16 +9,16 @@
       "path": "Leetcode/3939.用特殊操作处理字符串 II.md"
     },
     {
+      "basename": "AddTask",
+      "path": "Templates/Homepage/AddTask.md"
+    },
+    {
       "basename": "3931.用特殊操作处理字符串 I",
       "path": "Leetcode/3931.用特殊操作处理字符串 I.md"
     },
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "AddTask",
-      "path": "Templates/Homepage/AddTask.md"
     },
     {
       "basename": "005_KTV歌单",
