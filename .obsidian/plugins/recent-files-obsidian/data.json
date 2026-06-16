@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "3931.用特殊操作处理字符串 I",
+      "path": "Leetcode/3931.用特殊操作处理字符串 I.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-27",
       "path": "Dairies/2026-05-27.md"
-    },
-    {
-      "basename": "2026-05-26",
-      "path": "Dairies/2026-05-26.md"
     }
   ],
   "omittedPaths": [],
