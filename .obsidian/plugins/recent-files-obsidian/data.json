@@ -9,6 +9,10 @@
       "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
+    },
+    {
       "basename": "3939.用特殊操作处理字符串 II",
       "path": "Leetcode/3939.用特殊操作处理字符串 II.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3376.最长公共后缀查询",
       "path": "Leetcode/3376.最长公共后缀查询.cpp"
-    },
-    {
-      "basename": "3376.最长公共后缀查询",
-      "path": "Leetcode/3376.最长公共后缀查询.md"
     }
   ],
   "omittedPaths": [],
