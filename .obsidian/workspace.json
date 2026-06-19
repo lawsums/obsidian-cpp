@@ -55,7 +55,8 @@
               "title": "框架梳理"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/第二轮面试/Http服务框架/框架梳理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "框架梳理 的大纲"
             }
           },
           {
@@ -334,10 +335,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "b3bbd55fbecd5b23",
   "lastOpenFiles": [
-    "项目/第二轮面试/Http服务框架/框架梳理.md",
     "Templates/Homepage/Homepage.md",
+    "项目/第二轮面试/Http服务框架/框架梳理.md",
     "Dairies/2026-06-19.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/AddTask.md",
