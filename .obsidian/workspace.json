@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "file": "Templates/Homepage/AddTask.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "用ai产出创意内容 的大纲"
+              "title": "AddTask 的大纲"
             }
           },
           {
@@ -359,8 +359,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "fe521d8f905f9d07",
+  "active": "29f3894463cf38ef",
   "lastOpenFiles": [
+    "Templates/Homepage/用ai产出创意内容.md",
     "Software/Software_Software_galgame-maker_文字_exporter.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/AddTask.md",
@@ -368,7 +369,6 @@
     "Software/galgame-maker.md",
     "Software/文字.md",
     "Software/软件开发.md",
-    "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/2026-06-20.md",
     "项目/第二轮面试/Http服务框架/框架梳理.md",
     "Dairies/2026-06-19.md",
