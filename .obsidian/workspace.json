@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Templates/Homepage/Homepage.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -29,54 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
-            }
-          },
-          {
-            "id": "cf8f201d8ef1cfd5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/软件开发.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "软件开发"
-            }
-          },
-          {
-            "id": "b3bbd55fbecd5b23",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/第二轮面试/Http服务框架/框架梳理.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "框架梳理"
             }
           }
         ]
@@ -360,10 +312,11 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Software/软件开发.md",
-    "Templates/Homepage/Homepage.md",
-    "项目/第二轮面试/Http服务框架/框架梳理.md",
+    "Dairies/2026-06-20.md",
     "Templates/Homepage/AddTask.md",
+    "Templates/Homepage/Homepage.md",
+    "Software/软件开发.md",
+    "项目/第二轮面试/Http服务框架/框架梳理.md",
     "Dairies/2026-06-19.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "项目/知识星球项目.md",
@@ -388,7 +341,6 @@
     "Templates/Homepage/打leetcode比赛.md",
     "Templates/Homepage/C++知识学习.md",
     "Temp/z_写标题.md",
-    "Dairies/2026-06-12.md",
     "项目/第二轮面试/Http服务框架",
     "Attachments/Pasted image 20260601171614.png",
     "Attachments/Pasted image 20260601171631.png",
