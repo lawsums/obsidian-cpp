@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Software/软件开发.md",
+                "file": "Software/Software_Software_galgame-maker_文字_exporter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "软件开发"
+              "title": "Software_Software_galgame-maker_文字_exporter"
             }
           },
           {
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/软件开发.md",
+                "file": "Software/Software_Software_galgame-maker_文字_exporter.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "软件开发 的大纲"
+              "title": "Software_Software_galgame-maker_文字_exporter 的大纲"
             }
           },
           {
@@ -385,11 +385,15 @@
   },
   "active": "820261617b728f12",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/用ai产出创意内容.md",
-    "Templates/Homepage/AddTask.md",
-    "Dairies/2026-06-20.md",
+    "Software/Software_galgame-maker_文字.md",
+    "Software/galgame-maker.md",
+    "Software/Software_Software_galgame-maker_文字_exporter.md",
+    "Software/文字.md",
     "Software/软件开发.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/AddTask.md",
+    "Templates/Homepage/用ai产出创意内容.md",
+    "Dairies/2026-06-20.md",
     "项目/第二轮面试/Http服务框架/框架梳理.md",
     "Dairies/2026-06-19.md",
     "项目/知识星球项目.md",
@@ -410,10 +414,6 @@
     "Dairies/2026-06-14.md",
     "Templates/Homepage/宝可梦肉鸽.md",
     "操作系统/linux常见命令/grep.md",
-    "Dairies/2026-06-13.md",
-    "Templates/Homepage/打leetcode比赛.md",
-    "Templates/Homepage/C++知识学习.md",
-    "Temp/z_写标题.md",
     "项目/第二轮面试/Http服务框架",
     "Attachments/Pasted image 20260601171614.png",
     "Attachments/Pasted image 20260601171631.png",

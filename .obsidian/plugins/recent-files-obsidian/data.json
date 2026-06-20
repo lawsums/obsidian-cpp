@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "Software_Software_galgame-maker_文字_exporter",
+      "path": "Software/Software_Software_galgame-maker_文字_exporter.md"
+    },
+    {
+      "basename": "Software_galgame-maker_文字",
+      "path": "Software/Software_galgame-maker_文字.md"
+    },
+    {
+      "basename": "galgame-maker",
+      "path": "Software/galgame-maker.md"
+    },
+    {
+      "basename": "文字",
+      "path": "Software/文字.md"
+    },
+    {
       "basename": "软件开发",
       "path": "Software/软件开发.md"
     },
@@ -9,12 +25,12 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
-    },
-    {
       "basename": "AddTask",
       "path": "Templates/Homepage/AddTask.md"
+    },
+    {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "2026-06-20",
@@ -183,22 +199,6 @@
     {
       "basename": "做一个小程序显示云平台数据和esp32节点报警情况",
       "path": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md"
-    },
-    {
-      "basename": "2026-05-31",
-      "path": "Dairies/2026-05-31.md"
-    },
-    {
-      "basename": "2026-05-30",
-      "path": "Dairies/2026-05-30.md"
-    },
-    {
-      "basename": "Art of programming",
-      "path": "Templates/Homepage/Art of programming.md"
-    },
-    {
-      "basename": "2026-05-28",
-      "path": "Dairies/2026-05-28.md"
     }
   ],
   "omittedPaths": [],
