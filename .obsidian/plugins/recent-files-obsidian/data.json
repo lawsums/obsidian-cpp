@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "软件开发",
+      "path": "Software/软件开发.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "AddTask",
@@ -13,16 +21,8 @@
       "path": "Dairies/2026-06-20.md"
     },
     {
-      "basename": "软件开发",
-      "path": "Software/软件开发.md"
-    },
-    {
       "basename": "框架梳理",
       "path": "项目/第二轮面试/Http服务框架/框架梳理.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "知识星球项目",
