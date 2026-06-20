@@ -6,7 +6,7 @@ tags:
 excalidraw-open-md: true
 number headings: off
 ---
-`BUTTON[light-button, week-notes-button]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`   `BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button, studyRoad-button, cppStudy-button]` `BUTTON[software-develop]`
+`BUTTON[light-button, task-add]`   `BUTTON[leetcode-button,nowcoder-button,zuochengyun-button]`   `BUTTON[knowledgestar-button, knowledgeWarehouse-button, commonProjects-button, studyRoad-button, cppStudy-button]` `BUTTON[software-develop]`
 ````columns
 id: gL39qDWT_Jjpb_OEMa91V
 ===
@@ -242,6 +242,22 @@ hidden: false
 actions:
   - type: open
     link: "[[软件开发]]"
+    newTab: true
+
+```
+```meta-bind-button
+label: 添加任务
+icon: ""
+style: primary
+class: ""
+cssStyle: ""
+backgroundImage: ""
+tooltip: ""
+id: task-add
+hidden: false
+actions:
+  - type: open
+    link: "[[AddTask]]"
     newTab: true
 
 ```
