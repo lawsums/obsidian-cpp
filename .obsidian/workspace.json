@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -233,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/Software_Software_galgame-maker_文字_exporter.md",
+                "file": "Templates/Homepage/AddTask.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Software_Software_galgame-maker_文字_exporter 的大纲"
+              "title": "AddTask 的大纲"
             }
           },
           {
@@ -383,11 +383,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "820261617b728f12",
+  "active": "29f3894463cf38ef",
   "lastOpenFiles": [
+    "Software/Software_Software_galgame-maker_文字_exporter.md",
     "Software/Software_galgame-maker_文字.md",
     "Software/galgame-maker.md",
-    "Software/Software_Software_galgame-maker_文字_exporter.md",
     "Software/文字.md",
     "Software/软件开发.md",
     "Templates/Homepage/Homepage.md",
