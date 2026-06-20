@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "AddTask",
-      "path": "Templates/Homepage/AddTask.md"
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "Software_Software_galgame-maker_文字_exporter",
       "path": "Software/Software_Software_galgame-maker_文字_exporter.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "AddTask",
+      "path": "Templates/Homepage/AddTask.md"
     },
     {
       "basename": "Software_galgame-maker_文字",
@@ -23,14 +31,6 @@
     {
       "basename": "软件开发",
       "path": "Software/软件开发.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "2026-06-20",
