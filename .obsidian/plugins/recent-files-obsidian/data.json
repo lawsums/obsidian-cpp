@@ -9,6 +9,10 @@
       "path": "Templates/Homepage/AddTask.md"
     },
     {
+      "basename": "学习科目三",
+      "path": "Templates/学习科目三.md"
+    },
+    {
       "basename": "用ai产出创意内容",
       "path": "Templates/Homepage/用ai产出创意内容.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Aiot修改",
       "path": "Dairies/Aiot修改.md"
-    },
-    {
-      "basename": "做一个小程序显示云平台数据和esp32节点报警情况",
-      "path": "Dairies/做一个小程序显示云平台数据和esp32节点报警情况.md"
     }
   ],
   "omittedPaths": [],
