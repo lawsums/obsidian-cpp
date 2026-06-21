@@ -5,12 +5,12 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "AddTask",
-      "path": "Templates/Homepage/AddTask.md"
-    },
-    {
       "basename": "学习科目三",
       "path": "Templates/学习科目三.md"
+    },
+    {
+      "basename": "AddTask",
+      "path": "Templates/Homepage/AddTask.md"
     },
     {
       "basename": "用ai产出创意内容",
