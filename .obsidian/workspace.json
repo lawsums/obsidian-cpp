@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "959b55e435d0f60e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/AddTask.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AddTask"
+            }
+          },
+          {
             "id": "1759ee182539661d",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "学习科目三"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/AddTask.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "AddTask 的大纲"
             }
           },
           {
@@ -334,12 +359,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "959b55e435d0f60e",
   "lastOpenFiles": [
-    "Templates/学习科目三.md",
-    "Templates/Homepage/AddTask.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-06-21.md",
+    "Templates/学习科目三.md",
+    "Templates/Homepage/AddTask.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Software/Software_Software_galgame-maker_文字_exporter.md",
     "Software/Software_galgame-maker_文字.md",
