@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "AddTask",
       "path": "Templates/Homepage/AddTask.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Software_Software_galgame-maker_文字_exporter",
       "path": "Software/Software_Software_galgame-maker_文字_exporter.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "Software_galgame-maker_文字",

@@ -30,57 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "fe521d8f905f9d07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "用ai产出创意内容"
-            }
-          },
-          {
-            "id": "29f3894463cf38ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/AddTask.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AddTask"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/AddTask.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AddTask 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -359,12 +310,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "29f3894463cf38ef",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/AddTask.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Software/Software_Software_galgame-maker_文字_exporter.md",
     "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/AddTask.md",
     "Software/Software_galgame-maker_文字.md",
     "Software/galgame-maker.md",
     "Software/文字.md",
