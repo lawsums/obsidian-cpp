@@ -5,8 +5,16 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "学习科目三",
       "path": "Templates/学习科目三.md"
+    },
+    {
+      "basename": "AddTask",
+      "path": "Templates/Homepage/AddTask.md"
     },
     {
       "basename": "Daily_note_template",
@@ -15,10 +23,6 @@
     {
       "basename": "Daily_note_md",
       "path": "Templates/Daily_note_md.md"
-    },
-    {
-      "basename": "AddTask",
-      "path": "Templates/Homepage/AddTask.md"
     },
     {
       "basename": "2026-06-21",
@@ -71,10 +75,6 @@
     {
       "basename": "3931.用特殊操作处理字符串 I",
       "path": "Leetcode/3931.用特殊操作处理字符串 I.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "005_KTV歌单",

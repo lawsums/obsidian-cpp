@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "abeb3519a7d44a0b",
+            "id": "53c0ae0d5cd7661a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/AddTask.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AddTask"
+              "title": "学习C++"
             }
           },
           {
@@ -360,11 +360,12 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
     "Templates/学习科目三.md",
-    "Templates/Daily_note_template.md",
-    "Templates/Homepage/Homepage.md",
-    "Templates/Daily_note_md.md",
     "Templates/Homepage/AddTask.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Daily_note_template.md",
+    "Templates/Daily_note_md.md",
     "Attachments/Pasted image 20260622110148.png",
     "Dairies/2026-03-20.md",
     "Dairies/2026-06-22.md",
@@ -388,7 +389,6 @@
     "Leetcode/3931.用特殊操作处理字符串 I.md",
     "Leetcode/3931.用特殊操作处理字符串 I.cpp",
     "Dairies/2026-06-16.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/005_KTV歌单.md",
     "项目/第二轮面试/Http服务框架",
     "Attachments/Pasted image 20260601171614.png",
