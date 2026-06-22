@@ -5,12 +5,16 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "学习科目三",
+      "path": "Templates/学习科目三.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
     {
-      "basename": "学习科目三",
-      "path": "Templates/学习科目三.md"
+      "basename": "投一个研零的求助帖子",
+      "path": "Templates/Homepage/投一个研零的求助帖子.md"
     },
     {
       "basename": "AddTask",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-06-02",
       "path": "Dairies/2026-06-02.md"
-    },
-    {
-      "basename": "Pasted image 20260601171614",
-      "path": "Attachments/Pasted image 20260601171614.png"
     }
   ],
   "omittedPaths": [],
