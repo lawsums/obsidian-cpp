@@ -70,7 +70,7 @@ switch (weekday) {
 %>
 - [ ] [多邻国练习](https://www.duolingo.cn/learn) 📅 <% titleDate %>
 - [ ] 晚上刷牙 📅 <% titleDate %>
-- [ ] 抹护肤品 📅 <% titleDate %>
+- [ ] 抹护肤品 + [提拉法令纹](https://www.bilibili.com/video/BV1mE411i7Li?vd_source=cf6228c0b4a5c283905e22fd11934994) 📅 <% titleDate %>
 - [ ] 抹药 🔼 📅 <% titleDate %>
 - [ ] [[实现自己的数据结构]] 📅 <% titleDate %>
 - [ ] [[学习深度学习]] 📅 <% titleDate %>
