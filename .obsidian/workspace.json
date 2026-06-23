@@ -103,8 +103,7 @@
               "title": "投一个研零的求助帖子"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "八股文/大模型.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大模型 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -383,10 +382,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "36aa60ac150e0ac5",
   "lastOpenFiles": [
-    "八股文/大模型输出怎么约束.md",
     "八股文/大模型.md",
+    "八股文/大模型输出怎么约束.md",
     "Templates/Homepage/Homepage.md",
     "八股文",
     "Templates/Homepage/AddTask.md",
