@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "投一个研零的求助帖子",
+      "path": "Templates/Homepage/投一个研零的求助帖子.md"
+    },
+    {
       "basename": "AddTask",
       "path": "Templates/Homepage/AddTask.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "投一个研零的求助帖子",
-      "path": "Templates/Homepage/投一个研零的求助帖子.md"
     },
     {
       "basename": "Daily_note_template",
