@@ -140,7 +140,7 @@ action <% vscodeLink %>
 
 DECK: 面试题-hot100
 
-## <% `${targetFile.basename}` %>
+## 0.1 <% `${targetFile.basename}` %>
 
 <% question.content %>
 
@@ -153,10 +153,10 @@ question.hints.forEach(item => {
 hintsText
 _%>
 
-## Notes
+## 0.2 Notes
 
 
-## Solution 
+## 0.3 Solution 
 **记得复制题目**
 
 ![[<% `${targetFile.basename}.cpp` %>]]

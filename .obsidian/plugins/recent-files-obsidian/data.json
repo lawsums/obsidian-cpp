@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Leetcode_problem_template",
+      "path": "Templates/Leetcode_problem_template.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "调整tasks使用方法",
       "path": "Dairies/调整tasks使用方法.md"
-    },
-    {
-      "basename": "2026-06-09",
-      "path": "Dairies/2026-06-09.md"
     }
   ],
   "omittedPaths": [],

@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "e629beabc9bdc7e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Leetcode_problem_template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Leetcode_problem_template"
+            }
+          },
+          {
             "id": "a8fa3bde95b82293",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               "title": "投一个研零的求助帖子"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Leetcode_problem_template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "Leetcode_problem_template 的大纲"
             }
           },
           {
@@ -382,11 +407,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "36aa60ac150e0ac5",
+  "active": "e629beabc9bdc7e4",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "八股文/大模型.md",
     "八股文/为什么有了大模型还需要RAG.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/宝可梦肉鸽.md",
     "Templates/Homepage/003_不定期任务.md",
     "Clippings/剪藏网页.md",
