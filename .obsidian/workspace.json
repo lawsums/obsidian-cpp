@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8fa3bde95b82293",
+            "id": "36aa60ac150e0ac5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
+            }
+          },
+          {
+            "id": "a8fa3bde95b82293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "八股文/大模型.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "大模型"
             }
           },
           {
@@ -79,7 +103,8 @@
               "title": "投一个研零的求助帖子"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "八股文/大模型.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "大模型 的大纲"
             }
           },
           {
@@ -360,9 +385,12 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "八股文/大模型输出怎么约束.md",
+    "八股文/大模型.md",
+    "Templates/Homepage/Homepage.md",
+    "八股文",
     "Templates/Homepage/AddTask.md",
     "Templates/Homepage/投一个研零的求助帖子.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-06-23.md",
     "Templates/学习科目三.md",
     "Templates/Homepage/学习C++.md",
@@ -385,10 +413,8 @@
     "Templates/Homepage/003_不定期任务.md",
     "Dairies/2026-06-18.md",
     "Dairies/2026-06-17.md",
-    "Leetcode/3939.用特殊操作处理字符串 II.md",
     "Leetcode/3939.用特殊操作处理字符串 II.cpp~",
     "Leetcode/3939.用特殊操作处理字符串 II.cpp",
-    "Leetcode/3931.用特殊操作处理字符串 I.md",
     "Leetcode/3931.用特殊操作处理字符串 I.cpp",
     "项目/第二轮面试/Http服务框架",
     "Attachments/Pasted image 20260601171614.png",
@@ -399,7 +425,6 @@
     "Leetcode/1466.跳跃游戏 V.cpp",
     "Leetcode/images/1466_meta-chart.jpeg",
     "Leetcode/1878. 检查数组是否经排序和轮转得到.cpp~",
-    "Leetcode/1878. 检查数组是否经排序和轮转得到.cpp",
     "Attachments/Pasted image 20260523010041.png",
     "Leetcode/images/4102_g5.png",
     "Leetcode/images/4102_g3_f.png",
