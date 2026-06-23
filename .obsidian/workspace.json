@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/宝可梦肉鸽.md",
+                "file": "Templates/Homepage/挂机脚本.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "宝可梦肉鸽"
+              "title": "挂机脚本"
             }
           },
           {
@@ -387,13 +387,14 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "八股文/大模型.md",
+    "Templates/Homepage/挂机脚本.md",
+    "Templates/Homepage/宝可梦肉鸽.md",
     "项目/Agent开发/KamaClaude/框架流程.md",
+    "八股文/大模型.md",
     "项目/Agent开发/KamaClaude",
     "项目/Agent开发",
     "八股文/大模型输出怎么约束.md",
     "项目/知识星球项目.md",
-    "Templates/Homepage/宝可梦肉鸽.md",
     "项目/第二轮面试/异步日志/项目准备.md",
     "Templates/Homepage/AddTask.md",
     "Templates/Leetcode_problem_template.md",
@@ -416,7 +417,6 @@
     "Dairies/2026-03-20.md",
     "Dairies/2026-06-22.md",
     "Dairies/2026-06-21.md",
-    "Templates/Homepage/用ai产出创意内容.md",
     "Leetcode/3939.用特殊操作处理字符串 II.cpp~",
     "Leetcode/3939.用特殊操作处理字符串 II.cpp",
     "Leetcode/3931.用特殊操作处理字符串 I.cpp",

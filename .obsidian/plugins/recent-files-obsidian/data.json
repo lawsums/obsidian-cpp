@@ -5,6 +5,14 @@
       "path": "项目/Agent开发/KamaClaude/框架流程.md"
     },
     {
+      "basename": "挂机脚本",
+      "path": "Templates/Homepage/挂机脚本.md"
+    },
+    {
+      "basename": "宝可梦肉鸽",
+      "path": "Templates/Homepage/宝可梦肉鸽.md"
+    },
+    {
       "basename": "大模型",
       "path": "八股文/大模型.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "知识星球项目",
       "path": "项目/知识星球项目.md"
-    },
-    {
-      "basename": "宝可梦肉鸽",
-      "path": "Templates/Homepage/宝可梦肉鸽.md"
     },
     {
       "basename": "项目准备",
@@ -195,10 +199,6 @@
     {
       "basename": "Daily_note_template 1",
       "path": "Templates/Daily_note_template 1.md"
-    },
-    {
-      "basename": "Effective STL",
-      "path": "Templates/Homepage/Effective STL.md"
     }
   ],
   "omittedPaths": [],
