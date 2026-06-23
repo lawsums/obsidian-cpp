@@ -5,12 +5,12 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "投一个研零的求助帖子",
-      "path": "Templates/Homepage/投一个研零的求助帖子.md"
-    },
-    {
       "basename": "AddTask",
       "path": "Templates/Homepage/AddTask.md"
+    },
+    {
+      "basename": "投一个研零的求助帖子",
+      "path": "Templates/Homepage/投一个研零的求助帖子.md"
     },
     {
       "basename": "学习科目三",
