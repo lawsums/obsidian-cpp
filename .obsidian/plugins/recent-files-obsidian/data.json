@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
-      "basename": "AddTask",
-      "path": "Templates/Homepage/AddTask.md"
-    },
-    {
       "basename": "003_不定期任务",
       "path": "Templates/Homepage/003_不定期任务.md"
     },
     {
       "basename": "大模型",
       "path": "八股文/大模型.md"
+    },
+    {
+      "basename": "剪藏网页",
+      "path": "Clippings/剪藏网页.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Count Subgrid Sum = K",
+      "path": "Clippings/Count Subgrid Sum = K.md"
+    },
+    {
+      "basename": "AddTask",
+      "path": "Templates/Homepage/AddTask.md"
     },
     {
       "basename": "大模型怎么调用工具",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-06-08",
       "path": "Dairies/2026-06-08.md"
-    },
-    {
-      "basename": "2026-06-06",
-      "path": "Dairies/2026-06-06.md"
-    },
-    {
-      "basename": "2026-06-07",
-      "path": "Dairies/2026-06-07.md"
     }
   ],
   "omittedPaths": [],

@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "0725514c74f650a2",
+            "id": "6f8f8caaac5da8af",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/AddTask.md",
+                "file": "Templates/Homepage/003_不定期任务.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AddTask"
+              "title": "003_不定期任务"
             }
           },
           {
@@ -127,7 +127,8 @@
               "title": "投一个研零的求助帖子"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -256,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/003_不定期任务.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "003_不定期任务 的大纲"
             }
           },
           {
@@ -406,12 +407,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "36aa60ac150e0ac5",
+  "active": "6f8f8caaac5da8af",
   "lastOpenFiles": [
-    "Templates/Homepage/AddTask.md",
+    "八股文/大模型.md",
+    "Clippings/剪藏网页.md",
     "Templates/Homepage/003_不定期任务.md",
     "Templates/Homepage/Homepage.md",
-    "八股文/大模型.md",
+    "Clippings/Count Subgrid Sum = K.md",
+    "Templates/Homepage/AddTask.md",
     "八股文/大模型怎么调用工具.md",
     "八股文/同步异步流式输出的区别.md",
     "Templates/Homepage/投一个研零的求助帖子.md",
@@ -434,8 +437,6 @@
     "Software/文字.md",
     "Software/软件开发.md",
     "Dairies/2026-06-20.md",
-    "项目/第二轮面试/Http服务框架/框架梳理.md",
-    "Dairies/2026-06-19.md",
     "Leetcode/3939.用特殊操作处理字符串 II.cpp~",
     "Leetcode/3939.用特殊操作处理字符串 II.cpp",
     "Leetcode/3931.用特殊操作处理字符串 I.cpp",
