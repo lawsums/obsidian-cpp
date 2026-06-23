@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "大模型",
+      "path": "八股文/大模型.md"
+    },
+    {
+      "basename": "为什么有了大模型还需要RAG",
+      "path": "八股文/为什么有了大模型还需要RAG.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "宝可梦肉鸽",
       "path": "Templates/Homepage/宝可梦肉鸽.md"
     },
@@ -9,16 +21,8 @@
       "path": "Templates/Homepage/003_不定期任务.md"
     },
     {
-      "basename": "大模型",
-      "path": "八股文/大模型.md"
-    },
-    {
       "basename": "剪藏网页",
       "path": "Clippings/剪藏网页.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "Count Subgrid Sum = K",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-06-09",
       "path": "Dairies/2026-06-09.md"
-    },
-    {
-      "basename": "2026-06-08",
-      "path": "Dairies/2026-06-08.md"
     }
   ],
   "omittedPaths": [],
