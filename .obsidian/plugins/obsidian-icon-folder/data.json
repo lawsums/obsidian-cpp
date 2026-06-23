@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTextSearch",
       "LiNewspaper",
       "🈲",
       "LiImages",
-      "LiImage",
-      "LiWholeWord"
+      "LiImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -55,5 +55,6 @@
   "Projects": "🈲",
   "Temp": "LiRecycle",
   "项目/数据库": "LiDatabase",
-  "论文": "LiNewspaper"
+  "论文": "LiNewspaper",
+  "八股文": "LiTextSearch"
 }

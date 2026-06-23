@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "e629beabc9bdc7e4",
+            "id": "a0d45b51a50d7301",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Leetcode_problem_template.md",
+                "file": "Templates/Homepage/宝可梦肉鸽.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Leetcode_problem_template"
+              "title": "宝可梦肉鸽"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "八股文/大模型.md",
+                "file": "项目/Agent开发/KamaClaude/框架流程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "大模型"
+              "title": "框架流程"
             }
           },
           {
@@ -102,33 +102,9 @@
               "icon": "lucide-file",
               "title": "大模型怎么调用工具"
             }
-          },
-          {
-            "id": "af12eccb0fb7703e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/投一个研零的求助帖子.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "投一个研零的求助帖子"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -203,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -257,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Leetcode_problem_template.md",
+                "file": "项目/Agent开发/KamaClaude/框架流程.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Leetcode_problem_template 的大纲"
+              "title": "框架流程 的大纲"
             }
           },
           {
@@ -371,7 +348,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -407,21 +385,27 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "e629beabc9bdc7e4",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "八股文/大模型.md",
-    "八股文/为什么有了大模型还需要RAG.md",
+    "项目/Agent开发/KamaClaude/框架流程.md",
+    "项目/Agent开发/KamaClaude",
+    "项目/Agent开发",
+    "八股文/大模型输出怎么约束.md",
+    "项目/知识星球项目.md",
     "Templates/Homepage/宝可梦肉鸽.md",
+    "项目/第二轮面试/异步日志/项目准备.md",
+    "Templates/Homepage/AddTask.md",
+    "Templates/Leetcode_problem_template.md",
+    "Templates/Homepage/Homepage.md",
+    "八股文/大模型怎么调用工具.md",
+    "Templates/Homepage/投一个研零的求助帖子.md",
+    "八股文/为什么有了大模型还需要RAG.md",
     "Templates/Homepage/003_不定期任务.md",
     "Clippings/剪藏网页.md",
     "Clippings/Count Subgrid Sum = K.md",
-    "Templates/Homepage/AddTask.md",
-    "八股文/大模型怎么调用工具.md",
     "八股文/同步异步流式输出的区别.md",
-    "Templates/Homepage/投一个研零的求助帖子.md",
     "八股文/未命名.md",
-    "八股文/大模型输出怎么约束.md",
     "八股文",
     "Dairies/2026-06-23.md",
     "Templates/学习科目三.md",
@@ -433,10 +417,6 @@
     "Dairies/2026-06-22.md",
     "Dairies/2026-06-21.md",
     "Templates/Homepage/用ai产出创意内容.md",
-    "Software/Software_Software_galgame-maker_文字_exporter.md",
-    "Software/Software_galgame-maker_文字.md",
-    "Software/galgame-maker.md",
-    "Software/文字.md",
     "Leetcode/3939.用特殊操作处理字符串 II.cpp~",
     "Leetcode/3939.用特殊操作处理字符串 II.cpp",
     "Leetcode/3931.用特殊操作处理字符串 I.cpp",
@@ -446,9 +426,7 @@
     "项目/第二轮面试/协程库",
     "Leetcode/3376.最长公共后缀查询.cpp",
     "Leetcode/3376.最长公共后缀查询.cpp~",
-    "Leetcode/1466.跳跃游戏 V.cpp",
     "Leetcode/images/1466_meta-chart.jpeg",
-    "Leetcode/1878. 检查数组是否经排序和轮转得到.cpp~",
     "Attachments/Pasted image 20260523010041.png",
     "Leetcode/images/4102_g5.png",
     "Leetcode/images/4102_g3_f.png",
