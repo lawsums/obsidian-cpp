@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "大模型",
       "path": "八股文/大模型.md"
     },
     {
       "basename": "为什么有了大模型还需要RAG",
       "path": "八股文/为什么有了大模型还需要RAG.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "宝可梦肉鸽",
