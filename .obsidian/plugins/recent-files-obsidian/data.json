@@ -5,20 +5,32 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "大模型",
-      "path": "八股文/大模型.md"
-    },
-    {
-      "basename": "大模型输出怎么约束",
-      "path": "八股文/大模型输出怎么约束.md"
-    },
-    {
       "basename": "AddTask",
       "path": "Templates/Homepage/AddTask.md"
     },
     {
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
+    },
+    {
+      "basename": "大模型",
+      "path": "八股文/大模型.md"
+    },
+    {
+      "basename": "大模型怎么调用工具",
+      "path": "八股文/大模型怎么调用工具.md"
+    },
+    {
+      "basename": "同步异步流式输出的区别",
+      "path": "八股文/同步异步流式输出的区别.md"
+    },
+    {
       "basename": "投一个研零的求助帖子",
       "path": "Templates/Homepage/投一个研零的求助帖子.md"
+    },
+    {
+      "basename": "大模型输出怎么约束",
+      "path": "八股文/大模型输出怎么约束.md"
     },
     {
       "basename": "学习科目三",
@@ -75,10 +87,6 @@
     {
       "basename": "知识星球项目",
       "path": "项目/知识星球项目.md"
-    },
-    {
-      "basename": "003_不定期任务",
-      "path": "Templates/Homepage/003_不定期任务.md"
     },
     {
       "basename": "3939.用特殊操作处理字符串 II",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-06-07",
       "path": "Dairies/2026-06-07.md"
-    },
-    {
-      "basename": "2026-06-05",
-      "path": "Dairies/2026-06-05.md"
-    },
-    {
-      "basename": "009_游戏",
-      "path": "Templates/Homepage/009_游戏.md"
     }
   ],
   "omittedPaths": [],
