@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "b0c6116b1216d9c4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/AddTask.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AddTask"
+            }
+          },
+          {
             "id": "9560b2fd030176d7",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "用ai产出创意内容"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/用ai产出创意内容.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "用ai产出创意内容 的大纲"
             }
           },
           {
@@ -334,13 +359,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "9560b2fd030176d7",
   "lastOpenFiles": [
-    "Templates/Homepage/用ai产出创意内容.md",
+    "Templates/Homepage/AddTask.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/2026-06-24.md",
     "八股文/大模型怎么调用工具.md",
-    "Templates/Homepage/AddTask.md",
     "Templates/Homepage/挂机脚本.md",
     "项目/Agent开发/KamaClaude/框架流程.md",
     "Templates/Homepage/宝可梦肉鸽.md",
