@@ -5,20 +5,20 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
-    },
-    {
       "basename": "AddTask",
       "path": "Templates/Homepage/AddTask.md"
     },
     {
-      "basename": "大模型怎么调用工具",
-      "path": "八股文/大模型怎么调用工具.md"
-    },
-    {
       "basename": "挂机脚本",
       "path": "Templates/Homepage/挂机脚本.md"
+    },
+    {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
+      "basename": "大模型怎么调用工具",
+      "path": "八股文/大模型怎么调用工具.md"
     },
     {
       "basename": "框架流程",
