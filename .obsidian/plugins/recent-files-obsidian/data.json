@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "框架流程",
-      "path": "项目/Agent开发/KamaClaude/框架流程.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "AddTask",
+      "path": "Templates/Homepage/AddTask.md"
+    },
+    {
+      "basename": "大模型怎么调用工具",
+      "path": "八股文/大模型怎么调用工具.md"
     },
     {
       "basename": "挂机脚本",
       "path": "Templates/Homepage/挂机脚本.md"
+    },
+    {
+      "basename": "框架流程",
+      "path": "项目/Agent开发/KamaClaude/框架流程.md"
     },
     {
       "basename": "宝可梦肉鸽",
@@ -29,20 +41,8 @@
       "path": "项目/第二轮面试/异步日志/项目准备.md"
     },
     {
-      "basename": "AddTask",
-      "path": "Templates/Homepage/AddTask.md"
-    },
-    {
       "basename": "Leetcode_problem_template",
       "path": "Templates/Leetcode_problem_template.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
-      "basename": "大模型怎么调用工具",
-      "path": "八股文/大模型怎么调用工具.md"
     },
     {
       "basename": "投一个研零的求助帖子",
