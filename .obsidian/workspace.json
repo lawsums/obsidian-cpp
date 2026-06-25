@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "b0c6116b1216d9c4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/AddTask.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AddTask"
-            }
           }
         ]
       }
@@ -337,8 +313,9 @@
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/AddTask.md",
-    "Templates/Homepage/挂机脚本.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-06-25.md",
+    "Templates/Homepage/挂机脚本.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/2026-06-24.md",
     "八股文/大模型怎么调用工具.md",
@@ -365,7 +342,6 @@
     "Templates/Daily_note_template.md",
     "Templates/Daily_note_md.md",
     "Attachments/Pasted image 20260622110148.png",
-    "Dairies/2026-03-20.md",
     "Leetcode/3939.用特殊操作处理字符串 II.cpp~",
     "Leetcode/3939.用特殊操作处理字符串 II.cpp",
     "Leetcode/3931.用特殊操作处理字符串 I.cpp",
