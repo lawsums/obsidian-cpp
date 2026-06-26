@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "软件开发",
+      "path": "Software/软件开发.md"
+    },
+    {
+      "basename": "ai 任务管家",
+      "path": "Software/ai 任务管家.md"
+    },
+    {
       "basename": "AddTask",
       "path": "Templates/Homepage/AddTask.md"
     },
@@ -109,10 +117,6 @@
       "path": "Software/文字.md"
     },
     {
-      "basename": "软件开发",
-      "path": "Software/软件开发.md"
-    },
-    {
       "basename": "2026-06-20",
       "path": "Dairies/2026-06-20.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "未命名 1",
       "path": "未命名 1.md"
-    },
-    {
-      "basename": "Daily_note_template 1",
-      "path": "Templates/Daily_note_template 1.md"
     }
   ],
   "omittedPaths": [],

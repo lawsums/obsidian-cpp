@@ -30,6 +30,30 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
+          },
+          {
+            "id": "1e92da79487f67ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/软件开发.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "软件开发"
+            }
           }
         ]
       }
@@ -312,9 +336,11 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Software/软件开发.md",
+    "Software/ai 任务管家.md",
+    "Templates/Homepage/Homepage.md",
     "Dairies/2026-06-26.md",
     "Templates/Homepage/AddTask.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-06-25.md",
     "Templates/Homepage/挂机脚本.md",
     "Templates/Homepage/用ai产出创意内容.md",
@@ -339,8 +365,6 @@
     "八股文",
     "Dairies/2026-06-23.md",
     "Templates/学习科目三.md",
-    "Templates/Homepage/学习C++.md",
-    "Templates/Daily_note_template.md",
     "Attachments/Pasted image 20260622110148.png",
     "Leetcode/3939.用特殊操作处理字符串 II.cpp~",
     "Leetcode/3939.用特殊操作处理字符串 II.cpp",
