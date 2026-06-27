@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "宝可梦肉鸽",
       "path": "Templates/Homepage/宝可梦肉鸽.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "挂机脚本",
       "path": "Templates/Homepage/挂机脚本.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "2026-06-27",

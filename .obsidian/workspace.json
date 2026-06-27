@@ -103,8 +103,7 @@
               "title": "AddTask"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/宝可梦肉鸽.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "宝可梦肉鸽 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -383,12 +382,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "445835d8e776aad9",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/宝可梦肉鸽.md",
     "Templates/Homepage/安排一下句容怎么玩.md",
     "Templates/Homepage/AddTask.md",
     "Templates/Homepage/挂机脚本.md",
-    "Templates/Homepage/宝可梦肉鸽.md",
     "Templates/Homepage/Homepage.md",
     "Attachments/Pasted image 20260627160829.png",
     "Dairies/2026-06-27.md",
