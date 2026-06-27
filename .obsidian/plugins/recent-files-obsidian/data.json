@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "2026-06-27",
+      "path": "Dairies/2026-06-27.md"
+    },
+    {
       "basename": "宝可梦肉鸽",
       "path": "Templates/Homepage/宝可梦肉鸽.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-24-anki",
       "path": "Temp/2026-05-24-anki.md"
-    },
-    {
-      "basename": "未命名 1",
-      "path": "未命名 1.md"
     }
   ],
   "omittedPaths": [],
