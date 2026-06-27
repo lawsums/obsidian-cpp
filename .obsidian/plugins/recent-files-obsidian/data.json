@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "AddTask",
+      "path": "Templates/Homepage/AddTask.md"
+    },
+    {
       "basename": "2026-06-27",
       "path": "Dairies/2026-06-27.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "ai 任务管家",
       "path": "Software/ai 任务管家.md"
-    },
-    {
-      "basename": "AddTask",
-      "path": "Templates/Homepage/AddTask.md"
     },
     {
       "basename": "挂机脚本",
