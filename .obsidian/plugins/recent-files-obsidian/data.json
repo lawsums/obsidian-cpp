@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "宝可梦肉鸽",
+      "path": "Templates/Homepage/宝可梦肉鸽.md"
+    },
+    {
       "basename": "软件开发",
       "path": "Software/软件开发.md"
     },
@@ -31,10 +35,6 @@
     {
       "basename": "框架流程",
       "path": "项目/Agent开发/KamaClaude/框架流程.md"
-    },
-    {
-      "basename": "宝可梦肉鸽",
-      "path": "Templates/Homepage/宝可梦肉鸽.md"
     },
     {
       "basename": "大模型",
