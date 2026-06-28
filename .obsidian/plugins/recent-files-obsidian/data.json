@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "AddTask",
+      "path": "Templates/Homepage/AddTask.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "2026-06-28",
+      "path": "Dairies/2026-06-28.md"
     },
     {
       "basename": "宝可梦肉鸽",
@@ -11,10 +19,6 @@
     {
       "basename": "安排一下句容怎么玩",
       "path": "Templates/Homepage/安排一下句容怎么玩.md"
-    },
-    {
-      "basename": "AddTask",
-      "path": "Templates/Homepage/AddTask.md"
     },
     {
       "basename": "挂机脚本",
@@ -195,10 +199,6 @@
     {
       "basename": "Homepage 1",
       "path": "Templates/Homepage/Homepage 1.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/第二轮面试/协程库/框架梳理.md"
     }
   ],
   "omittedPaths": [],

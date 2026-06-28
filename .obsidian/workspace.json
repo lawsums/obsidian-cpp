@@ -32,55 +32,7 @@
             }
           },
           {
-            "id": "b66aead79f000ebe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/安排一下句容怎么玩.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "安排一下句容怎么玩"
-            }
-          },
-          {
-            "id": "445835d8e776aad9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/宝可梦肉鸽.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "宝可梦肉鸽"
-            }
-          },
-          {
-            "id": "a5c113a0ebd015ad",
+            "id": "943e4ffa3284cd36",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -103,7 +55,8 @@
               "title": "AddTask"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,13 +185,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/AddTask.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "AddTask 的大纲"
             }
           },
           {
@@ -382,13 +335,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "943e4ffa3284cd36",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/AddTask.md",
+    "Dairies/2026-06-28.md",
     "Templates/Homepage/宝可梦肉鸽.md",
     "Templates/Homepage/安排一下句容怎么玩.md",
-    "Templates/Homepage/AddTask.md",
     "Templates/Homepage/挂机脚本.md",
-    "Templates/Homepage/Homepage.md",
     "Attachments/Pasted image 20260627160829.png",
     "Dairies/2026-06-27.md",
     "Software/软件开发.md",
