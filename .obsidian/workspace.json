@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "bfb9a5875d45e009",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/宝可梦肉鸽.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "宝可梦肉鸽"
+            }
+          },
+          {
             "id": "69a67e1b1b678e4c",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "框架流程"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/宝可梦肉鸽.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "宝可梦肉鸽 的大纲"
             }
           },
           {
@@ -334,11 +359,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "bfb9a5875d45e009",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "项目/Agent开发/KamaClaude/框架流程.md",
     "Templates/Homepage/AddTask.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-06-29.md",
     "Templates/Daily_note_template.md",
     "Dairies/2026-06-28.md",
