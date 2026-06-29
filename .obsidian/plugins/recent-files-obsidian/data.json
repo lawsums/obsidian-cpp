@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "宝可梦肉鸽",
-      "path": "Templates/Homepage/宝可梦肉鸽.md"
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "宝可梦肉鸽",
+      "path": "Templates/Homepage/宝可梦肉鸽.md"
     },
     {
       "basename": "框架流程",
@@ -99,10 +103,6 @@
     {
       "basename": "学习科目三",
       "path": "Templates/学习科目三.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "Daily_note_md",
