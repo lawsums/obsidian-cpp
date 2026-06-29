@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "框架流程",
+      "path": "项目/Agent开发/KamaClaude/框架流程.md"
+    },
+    {
       "basename": "AddTask",
       "path": "Templates/Homepage/AddTask.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "大模型怎么调用工具",
       "path": "八股文/大模型怎么调用工具.md"
-    },
-    {
-      "basename": "框架流程",
-      "path": "项目/Agent开发/KamaClaude/框架流程.md"
     },
     {
       "basename": "大模型",
