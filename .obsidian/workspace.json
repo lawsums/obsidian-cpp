@@ -30,33 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "943e4ffa3284cd36",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/AddTask.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AddTask"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/AddTask.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AddTask 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,10 +310,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "943e4ffa3284cd36",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/AddTask.md",
+    "Templates/Daily_note_template.md",
+    "Templates/Homepage/Homepage.md",
     "Dairies/2026-06-28.md",
     "Templates/Homepage/宝可梦肉鸽.md",
     "Templates/Homepage/安排一下句容怎么玩.md",
@@ -365,7 +341,6 @@
     "Templates/Homepage/003_不定期任务.md",
     "Clippings/剪藏网页.md",
     "Clippings/Count Subgrid Sum = K.md",
-    "八股文/同步异步流式输出的区别.md",
     "八股文",
     "Attachments/Pasted image 20260622110148.png",
     "Leetcode/3939.用特殊操作处理字符串 II.cpp~",

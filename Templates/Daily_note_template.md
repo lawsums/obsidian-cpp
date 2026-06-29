@@ -57,11 +57,9 @@ switch (weekday) {
     break;
   case "星期六":
     tR += `- [ ] 打leetcode比赛 🔼 📅 ${titleDate}\n`;
-    tR += `- [ ] [[学习科目三]] 📅 ${titleDate}\n`;
     tR += `- [ ] [[用ai产出创意内容]] 🔼 📅 ${titleDate}\n`;
     break;
   case "星期日":
-    tR += `- [ ] [[学习科目三]] 📅 ${titleDate}\n`;
     tR += `- [ ] [[用ai产出创意内容]] 🔼 📅 ${titleDate}\n`;
     break;
   default:
