@@ -55,8 +55,7 @@
               "title": "AddTask"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/AddTask.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AddTask 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,12 +334,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "972f806545993ece",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/AddTask.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/挂机脚本.md",
     "Templates/Homepage/编一个理由说自己有家教工作了.md",
-    "Templates/Homepage/AddTask.md",
     "Dairies/2026-06-30.md",
     "Software/软件开发.md",
     "Templates/Homepage/学习C++.md",
@@ -367,4 +366,23 @@
     "Templates/Leetcode_problem_template.md",
     "Templates/Homepage/投一个研零的求助帖子.md",
     "八股文",
-    "Attachments/Pasted image 20260622110
+    "Attachments/Pasted image 20260622110148.png",
+    "Leetcode/3939.用特殊操作处理字符串 II.cpp~",
+    "Leetcode/3939.用特殊操作处理字符串 II.cpp",
+    "Leetcode/3931.用特殊操作处理字符串 I.cpp",
+    "项目/第二轮面试/Http服务框架",
+    "Attachments/Pasted image 20260601171614.png",
+    "Attachments/Pasted image 20260601171631.png",
+    "项目/第二轮面试/协程库",
+    "Leetcode/3376.最长公共后缀查询.cpp",
+    "Leetcode/3376.最长公共后缀查询.cpp~",
+    "Leetcode/images/1466_meta-chart.jpeg",
+    "Attachments/Pasted image 20260523010041.png",
+    "Leetcode/images/4102_g5.png",
+    "Leetcode/images/4102_g3_f.png",
+    "Leetcode/images/4102_g6.png",
+    "Leetcode/images/1507_e2.png",
+    "未命名.canvas",
+    "Leetcode/2300. 咒语和药水的成功对数.canvas"
+  ]
+}
