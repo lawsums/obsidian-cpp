@@ -1,0 +1,34 @@
+.ai-task-butler-modal textarea.ai-task-butler-input {
+  width: 100%;
+  min-height: 120px;
+  resize: vertical;
+}
+
+.ai-task-butler-preview {
+  margin-top: 12px;
+  padding: 10px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  background: var(--background-secondary);
+}
+
+.ai-task-butler-preview pre {
+  white-space: pre-wrap;
+  margin: 8px 0 0;
+}
+
+.ai-task-butler-empty {
+  color: var(--text-muted);
+}
+
+.ai-task-butler-warning {
+  margin-top: 8px;
+  color: var(--text-warning);
+}
+
+.ai-task-butler-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  margin-top: 16px;
+}

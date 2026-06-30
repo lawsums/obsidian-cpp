@@ -1,0 +1,10 @@
+{
+  "id": "ai-task-butler",
+  "name": "AI Task Butler",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Capture natural-language tasks and append Obsidian Tasks compatible Markdown.",
+  "author": "Codex",
+  "authorUrl": "",
+  "isDesktopOnly": false
+}

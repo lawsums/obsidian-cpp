@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "AddTask",
+      "path": "Templates/Homepage/AddTask.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "编一个理由说自己有家教工作了",
       "path": "Templates/Homepage/编一个理由说自己有家教工作了.md"
-    },
-    {
-      "basename": "AddTask",
-      "path": "Templates/Homepage/AddTask.md"
     },
     {
       "basename": "软件开发",
