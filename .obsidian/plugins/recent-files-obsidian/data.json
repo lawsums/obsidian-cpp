@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "看家教相关工作",
       "path": "Templates/Homepage/看家教相关工作.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "晚上看家教相关工作",
@@ -31,10 +35,6 @@
     {
       "basename": "软件开发",
       "path": "Software/软件开发.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "宝可梦肉鸽",

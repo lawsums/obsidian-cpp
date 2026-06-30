@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "3f34539e60f12e86",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/晚上看家教相关工作.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "晚上看家教相关工作"
-            }
-          },
-          {
             "id": "972f806545993ece",
             "type": "leaf",
             "state": {
@@ -103,8 +79,7 @@
               "title": "AddTask"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/看家教相关工作.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "看家教相关工作 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -383,9 +358,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8c8841b3d88424ed",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/看家教相关工作.md",
+    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/晚上看家教相关工作.md",
     "Templates/Homepage/制作 ai 任务管家相关软件.md",
@@ -394,7 +370,6 @@
     "Templates/Homepage/编一个理由说自己有家教工作了.md",
     "Dairies/2026-06-30.md",
     "Software/软件开发.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/宝可梦肉鸽.md",
     "项目/Agent开发/KamaClaude/框架流程.md",
     "Dairies/2026-06-29.md",
