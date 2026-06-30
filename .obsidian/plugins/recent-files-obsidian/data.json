@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "看家教相关工作",
       "path": "Templates/Homepage/看家教相关工作.md"
+    },
+    {
+      "basename": "AddTask",
+      "path": "Templates/Homepage/AddTask.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "学习C++",
@@ -19,10 +23,6 @@
     {
       "basename": "制作 ai 任务管家相关软件",
       "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
-    },
-    {
-      "basename": "AddTask",
-      "path": "Templates/Homepage/AddTask.md"
     },
     {
       "basename": "挂机脚本",
