@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "看家教相关工作",
+      "path": "Templates/Homepage/看家教相关工作.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-06-12",
       "path": "Dairies/2026-06-12.md"
-    },
-    {
-      "basename": "2026-06-11",
-      "path": "Dairies/2026-06-11.md"
     }
   ],
   "omittedPaths": [],
