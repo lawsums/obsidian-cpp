@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "挂机脚本",
+      "path": "Templates/Homepage/挂机脚本.md"
+    },
+    {
       "basename": "编一个理由说自己有家教工作了",
       "path": "Templates/Homepage/编一个理由说自己有家教工作了.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "安排一下句容怎么玩",
       "path": "Templates/Homepage/安排一下句容怎么玩.md"
-    },
-    {
-      "basename": "挂机脚本",
-      "path": "Templates/Homepage/挂机脚本.md"
     },
     {
       "basename": "2026-06-27",
