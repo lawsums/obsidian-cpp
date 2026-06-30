@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "编一个理由说自己有家教工作了",
+      "path": "Templates/Homepage/编一个理由说自己有家教工作了.md"
+    },
+    {
       "basename": "AddTask",
       "path": "Templates/Homepage/AddTask.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-06-10",
       "path": "Dairies/2026-06-10.md"
-    },
-    {
-      "basename": "Homepage 1",
-      "path": "Templates/Homepage/Homepage 1.md"
     }
   ],
   "omittedPaths": [],
