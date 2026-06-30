@@ -9,6 +9,10 @@
       "path": "Templates/Homepage/晚上看家教相关工作.md"
     },
     {
+      "basename": "制作 ai 任务管家相关软件",
+      "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
+    },
+    {
       "basename": "AddTask",
       "path": "Templates/Homepage/AddTask.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-06-11",
       "path": "Dairies/2026-06-11.md"
-    },
-    {
-      "basename": "修改homepage任务展示和添加任务功能",
-      "path": "Dairies/修改homepage任务展示和添加任务功能.md"
     }
   ],
   "omittedPaths": [],
