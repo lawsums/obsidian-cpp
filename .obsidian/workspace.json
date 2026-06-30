@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "3f34539e60f12e86",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/晚上看家教相关工作.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "晚上看家教相关工作"
+            }
+          },
+          {
             "id": "972f806545993ece",
             "type": "leaf",
             "state": {
@@ -336,8 +360,9 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/AddTask.md",
+    "Templates/Homepage/晚上看家教相关工作.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/AddTask.md",
     "Templates/Homepage/挂机脚本.md",
     "Templates/Homepage/编一个理由说自己有家教工作了.md",
     "Dairies/2026-06-30.md",
@@ -364,7 +389,6 @@
     "项目/知识星球项目.md",
     "项目/第二轮面试/异步日志/项目准备.md",
     "Templates/Leetcode_problem_template.md",
-    "Templates/Homepage/投一个研零的求助帖子.md",
     "八股文",
     "Attachments/Pasted image 20260622110148.png",
     "Leetcode/3939.用特殊操作处理字符串 II.cpp~",
