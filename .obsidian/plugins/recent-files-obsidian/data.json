@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "看家教相关工作",
       "path": "Templates/Homepage/看家教相关工作.md"
     },
     {
       "basename": "AddTask",
       "path": "Templates/Homepage/AddTask.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "学习C++",

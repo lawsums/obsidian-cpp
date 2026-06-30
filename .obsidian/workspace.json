@@ -79,8 +79,7 @@
               "title": "AddTask"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/看家教相关工作.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "看家教相关工作 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -359,11 +358,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "8c8841b3d88424ed",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/看家教相关工作.md",
     "Templates/Homepage/AddTask.md",
     "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/看家教相关工作.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/晚上看家教相关工作.md",
     "Templates/Homepage/制作 ai 任务管家相关软件.md",
