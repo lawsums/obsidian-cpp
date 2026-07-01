@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "11b7b628720ad415",
+            "id": "a8fa3bde95b82293",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "4692e91c004df621",
+            "id": "ddc7fcd2d531ddb1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/Agent开发/KamaClaude/框架流程.md",
+                "file": "Templates/Homepage/AddTask.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "框架流程"
-            }
-          },
-          {
-            "id": "5701b4a7ca6be474",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/看家教相关工作.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "看家教相关工作"
+              "title": "AddTask"
             }
           }
         ]
@@ -358,11 +334,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "11b7b628720ad415",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "项目/Agent开发/KamaClaude/框架流程.md",
     "Templates/Homepage/AddTask.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-07-02.md",
+    "项目/Agent开发/KamaClaude/框架流程.md",
     "Templates/Homepage/看家教相关工作.md",
     "Templates/Homepage/制作 ai 任务管家相关软件.md",
     "Templates/Homepage/学习C++.md",
@@ -388,7 +365,6 @@
     "八股文/大模型.md",
     "项目/Agent开发/KamaClaude",
     "项目/Agent开发",
-    "八股文/大模型输出怎么约束.md",
     "八股文",
     "Attachments/Pasted image 20260622110148.png",
     "Leetcode/3939.用特殊操作处理字符串 II.cpp~",
