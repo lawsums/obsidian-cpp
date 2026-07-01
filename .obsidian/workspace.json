@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "4f377fabe7edbe1e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/挂机脚本.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "挂机脚本"
+            }
+          },
+          {
             "id": "5701b4a7ca6be474",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "看家教相关工作"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/挂机脚本.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "挂机脚本 的大纲"
             }
           },
           {
@@ -334,10 +359,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "4f377fabe7edbe1e",
   "lastOpenFiles": [
-    "Templates/Homepage/看家教相关工作.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/看家教相关工作.md",
     "Dairies/2026-07-01.md",
     "Templates/Homepage/AddTask.md",
     "Templates/Homepage/学习C++.md",

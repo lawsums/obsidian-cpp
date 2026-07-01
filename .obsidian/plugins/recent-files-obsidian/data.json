@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "挂机脚本",
+      "path": "Templates/Homepage/挂机脚本.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "制作 ai 任务管家相关软件",
       "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
-    },
-    {
-      "basename": "挂机脚本",
-      "path": "Templates/Homepage/挂机脚本.md"
     },
     {
       "basename": "编一个理由说自己有家教工作了",
