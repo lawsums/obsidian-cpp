@@ -79,8 +79,7 @@
               "title": "看家教相关工作"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -155,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -210,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/Agent开发/KamaClaude/框架流程.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "框架流程 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -324,8 +322,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -361,10 +358,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4692e91c004df621",
+  "active": "11b7b628720ad415",
   "lastOpenFiles": [
-    "Templates/Homepage/AddTask.md",
     "项目/Agent开发/KamaClaude/框架流程.md",
+    "Templates/Homepage/AddTask.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/看家教相关工作.md",
     "Templates/Homepage/制作 ai 任务管家相关软件.md",
