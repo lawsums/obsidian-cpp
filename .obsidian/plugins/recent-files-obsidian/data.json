@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "制作 ai 任务管家相关软件",
+      "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
+    },
+    {
       "basename": "看家教相关工作",
       "path": "Templates/Homepage/看家教相关工作.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "晚上看家教相关工作",
       "path": "Templates/Homepage/晚上看家教相关工作.md"
-    },
-    {
-      "basename": "制作 ai 任务管家相关软件",
-      "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
     },
     {
       "basename": "编一个理由说自己有家教工作了",
