@@ -9,6 +9,10 @@
       "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
     },
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "看家教相关工作",
       "path": "Templates/Homepage/看家教相关工作.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "AddTask",
       "path": "Templates/Homepage/AddTask.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "晚上看家教相关工作",
