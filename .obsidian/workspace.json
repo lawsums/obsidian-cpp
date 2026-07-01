@@ -30,54 +30,6 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "8c8841b3d88424ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/看家教相关工作.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "看家教相关工作"
-            }
-          },
-          {
-            "id": "972f806545993ece",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/AddTask.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AddTask"
-            }
           }
         ]
       }
@@ -360,6 +312,7 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-07-01.md",
     "Templates/Homepage/看家教相关工作.md",
     "Templates/Homepage/AddTask.md",
     "Templates/Homepage/Homepage.md",
@@ -388,7 +341,6 @@
     "项目/Agent开发/KamaClaude",
     "项目/Agent开发",
     "八股文/大模型输出怎么约束.md",
-    "项目/知识星球项目.md",
     "八股文",
     "Attachments/Pasted image 20260622110148.png",
     "Leetcode/3939.用特殊操作处理字符串 II.cpp~",
