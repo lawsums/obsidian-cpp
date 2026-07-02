@@ -1,40 +1,44 @@
 {
   "recentFiles": [
     {
-      "basename": "联系家长",
-      "path": "Templates/Homepage/联系家长.md"
-    },
-    {
-      "basename": "看家教相关工作",
-      "path": "Templates/Homepage/看家教相关工作.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
     {
-      "basename": "C++知识学习",
-      "path": "Templates/Homepage/C++知识学习.md"
+      "basename": "制作 ai 任务管家相关软件",
+      "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
+    },
+    {
+      "basename": "002_稍后再看",
+      "path": "Templates/Homepage/002_稍后再看.md"
     },
     {
       "basename": "AddTask",
       "path": "Templates/Homepage/AddTask.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "看家教相关工作",
+      "path": "Templates/Homepage/看家教相关工作.md"
+    },
+    {
+      "basename": "联系家长",
+      "path": "Templates/Homepage/联系家长.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
+      "basename": "C++知识学习",
+      "path": "Templates/Homepage/C++知识学习.md"
     },
     {
       "basename": "框架流程",
       "path": "项目/Agent开发/KamaClaude/框架流程.md"
-    },
-    {
-      "basename": "制作 ai 任务管家相关软件",
-      "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
     },
     {
       "basename": "挂机脚本",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-06-13",
       "path": "Dairies/2026-06-13.md"
-    },
-    {
-      "basename": "打leetcode比赛",
-      "path": "Templates/Homepage/打leetcode比赛.md"
     }
   ],
   "omittedPaths": [],

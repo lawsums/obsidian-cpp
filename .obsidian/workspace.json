@@ -102,33 +102,8 @@
               "icon": "lucide-file",
               "title": "看家教相关工作"
             }
-          },
-          {
-            "id": "464cdb613b317f37",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/联系家长.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "联系家长"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,13 +232,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/联系家长.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "联系家长 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -407,19 +382,20 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "464cdb613b317f37",
+  "active": "a14b20a30cd7f8d3",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/制作 ai 任务管家相关软件.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/002_稍后再看.md",
+    "Templates/Homepage/AddTask.md",
     "Templates/Homepage/看家教相关工作.md",
     "Templates/Homepage/联系家长.md",
     "Templates/Homepage/面试题系列.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/算法面试好题.md",
     "Templates/Homepage/C++知识学习.md",
-    "Templates/Homepage/AddTask.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-07-02.md",
     "项目/Agent开发/KamaClaude/框架流程.md",
-    "Templates/Homepage/制作 ai 任务管家相关软件.md",
     "Templates/Homepage/挂机脚本.md",
     "Dairies/2026-07-01.md",
     "Templates/Homepage/晚上看家教相关工作.md",
@@ -435,7 +411,6 @@
     "Dairies/2026-06-27.md",
     "Software/ai 任务管家.md",
     "Dairies/2026-06-26.md",
-    "Dairies/2026-06-25.md",
     "项目/Agent开发/KamaClaude",
     "项目/Agent开发",
     "八股文",
