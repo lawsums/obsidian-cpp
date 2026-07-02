@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
+                "file": "语言特性/trick/PRETTY_FUNCTION.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "学习C++"
+              "title": "PRETTY_FUNCTION"
             }
           },
           {
@@ -103,7 +103,8 @@
               "title": "看家教相关工作"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "语言特性/trick/PRETTY_FUNCTION.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "PRETTY_FUNCTION 的大纲"
             }
           },
           {
@@ -382,11 +383,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a14b20a30cd7f8d3",
+  "active": "944cd14a7fae27b7",
   "lastOpenFiles": [
+    "语言特性/trick/pb_ds库.md",
+    "语言特性/trick/PRETTY_FUNCTION.md",
     "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/制作 ai 任务管家相关软件.md",
+    "语言特性/trick",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/制作 ai 任务管家相关软件.md",
     "Templates/Homepage/002_稍后再看.md",
     "Templates/Homepage/AddTask.md",
     "Templates/Homepage/看家教相关工作.md",
@@ -409,8 +413,6 @@
     "Templates/Homepage/安排一下句容怎么玩.md",
     "Attachments/Pasted image 20260627160829.png",
     "Dairies/2026-06-27.md",
-    "Software/ai 任务管家.md",
-    "Dairies/2026-06-26.md",
     "项目/Agent开发/KamaClaude",
     "项目/Agent开发",
     "八股文",
@@ -423,7 +425,6 @@
     "Attachments/Pasted image 20260601171631.png",
     "项目/第二轮面试/协程库",
     "Leetcode/3376.最长公共后缀查询.cpp",
-    "Leetcode/3376.最长公共后缀查询.cpp~",
     "Leetcode/images/1466_meta-chart.jpeg",
     "Attachments/Pasted image 20260523010041.png",
     "Leetcode/images/4102_g5.png",

@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "PRETTY_FUNCTION",
+      "path": "语言特性/trick/PRETTY_FUNCTION.md"
+    },
+    {
+      "basename": "pb_ds库",
+      "path": "语言特性/trick/pb_ds库.md"
     },
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "制作 ai 任务管家相关软件",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-06-14",
       "path": "Dairies/2026-06-14.md"
-    },
-    {
-      "basename": "grep",
-      "path": "操作系统/linux常见命令/grep.md"
-    },
-    {
-      "basename": "2026-06-13",
-      "path": "Dairies/2026-06-13.md"
     }
   ],
   "omittedPaths": [],
