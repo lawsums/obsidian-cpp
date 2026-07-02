@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "PRETTY_FUNCTION",
       "path": "语言特性/trick/PRETTY_FUNCTION.md"
+    },
+    {
+      "basename": "把计时器加入面试题",
+      "path": "Templates/Homepage/把计时器加入面试题.md"
+    },
+    {
+      "basename": "AddTask",
+      "path": "Templates/Homepage/AddTask.md"
     },
     {
       "basename": "pb_ds库",
@@ -13,20 +25,12 @@
       "path": "Templates/Homepage/学习C++.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "制作 ai 任务管家相关软件",
       "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
     },
     {
       "basename": "002_稍后再看",
       "path": "Templates/Homepage/002_稍后再看.md"
-    },
-    {
-      "basename": "AddTask",
-      "path": "Templates/Homepage/AddTask.md"
     },
     {
       "basename": "看家教相关工作",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-06-15",
       "path": "Dairies/2026-06-15.md"
-    },
-    {
-      "basename": "2026-06-14",
-      "path": "Dairies/2026-06-14.md"
     }
   ],
   "omittedPaths": [],
