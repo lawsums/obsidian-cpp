@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "联系家长",
+      "path": "Templates/Homepage/联系家长.md"
+    },
+    {
       "basename": "看家教相关工作",
       "path": "Templates/Homepage/看家教相关工作.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "打leetcode比赛",
       "path": "Templates/Homepage/打leetcode比赛.md"
-    },
-    {
-      "basename": "z_写标题",
-      "path": "Temp/z_写标题.md"
     }
   ],
   "omittedPaths": [],
