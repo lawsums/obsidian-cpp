@@ -79,7 +79,8 @@
               "title": "AddTask"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/看家教相关工作.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "看家教相关工作 的大纲"
             }
           },
           {
@@ -358,10 +359,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a14b20a30cd7f8d3",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/看家教相关工作.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/看家教相关工作.md",
     "Templates/Homepage/AddTask.md",
     "Dairies/2026-07-02.md",
     "项目/Agent开发/KamaClaude/框架流程.md",
