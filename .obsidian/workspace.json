@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "4feb2072aad6efdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/AddTask.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AddTask"
+            }
+          },
+          {
             "id": "e2c0a65fa192901c",
             "type": "leaf",
             "state": {
@@ -209,13 +233,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
+                "file": "Templates/Homepage/AddTask.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习深度学习 的大纲"
+              "title": "AddTask 的大纲"
             }
           },
           {
@@ -360,11 +384,11 @@
       "ai-task-butler:AI Task Butler: capture task": false
     }
   },
-  "active": "e2c0a65fa192901c",
+  "active": "4feb2072aad6efdb",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习深度学习.md",
     "Dairies/2026-01-14.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Tasks.md",
     "Templates/Homepage/AddTask.md",
     "Templates/Homepage/003_不定期任务.md",
