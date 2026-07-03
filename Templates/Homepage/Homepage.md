@@ -13,7 +13,6 @@ id: gL39qDWT_Jjpb_OEMa91V
 ``` tasks
 not done
 (due today) OR (scheduled today)
-has due date
 hide backlink
 hide due date
 hide start date
@@ -28,7 +27,6 @@ sort by description
 ``` tasks
 not done
 (due yesterday) OR (scheduled yesterday)
-has due date
 hide backlink
 hide due date
 hide start date

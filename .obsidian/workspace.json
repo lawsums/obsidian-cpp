@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/003_不定期任务.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "003_不定期任务"
+              "title": "Homepage"
+            }
+          },
+          {
+            "id": "e2c0a65fa192901c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习深度学习.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习深度学习"
+            }
+          },
+          {
+            "id": "752eade66516286e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,13 +209,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/003_不定期任务.md",
+                "file": "Templates/Homepage/学习深度学习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "003_不定期任务 的大纲"
+              "title": "学习深度学习 的大纲"
             }
           },
           {
@@ -307,18 +356,23 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-and-night:Toggle Theme": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "homepage:Open homepage": false
+      "homepage:Open homepage": false,
+      "ai-task-butler:AI Task Butler: capture task": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "e2c0a65fa192901c",
   "lastOpenFiles": [
+    "Templates/Homepage/学习深度学习.md",
+    "Dairies/2026-01-14.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Tasks.md",
+    "Templates/Homepage/AddTask.md",
+    "Templates/Homepage/003_不定期任务.md",
     "Templates/Homepage/制作 ai 任务管家相关软件.md",
     "Templates/Homepage/007_书籍.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/2026-07-03.md",
     "项目/Agent开发/CppAI框架/框架梳理.md",
-    "Templates/Homepage/AddTask.md",
     "Templates/Homepage/把计时器加入面试题.md",
     "Templates/Homepage/看家教相关工作.md",
     "操作系统/定时器.md",
@@ -337,10 +391,6 @@
     "Templates/Homepage/挂机脚本.md",
     "Dairies/2026-07-01.md",
     "Templates/Homepage/晚上看家教相关工作.md",
-    "Templates/Homepage/编一个理由说自己有家教工作了.md",
-    "Dairies/2026-06-30.md",
-    "Software/软件开发.md",
-    "Templates/Homepage/宝可梦肉鸽.md",
     "Attachments/Pasted image 20260627160829.png",
     "项目/Agent开发/KamaClaude",
     "项目/Agent开发",

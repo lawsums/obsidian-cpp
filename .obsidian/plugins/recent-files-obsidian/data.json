@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "003_不定期任务",
-      "path": "Templates/Homepage/003_不定期任务.md"
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
+      "basename": "AddTask",
+      "path": "Templates/Homepage/AddTask.md"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
     },
     {
       "basename": "制作 ai 任务管家相关软件",
@@ -27,10 +39,6 @@
     {
       "basename": "框架梳理",
       "path": "项目/Agent开发/CppAI框架/框架梳理.md"
-    },
-    {
-      "basename": "AddTask",
-      "path": "Templates/Homepage/AddTask.md"
     },
     {
       "basename": "把计时器加入面试题",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-06-20",
       "path": "Dairies/2026-06-20.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/第二轮面试/Http服务框架/框架梳理.md"
-    },
-    {
-      "basename": "3939.用特殊操作处理字符串 II",
-      "path": "Leetcode/3939.用特殊操作处理字符串 II.md"
     }
   ],
   "omittedPaths": [],
