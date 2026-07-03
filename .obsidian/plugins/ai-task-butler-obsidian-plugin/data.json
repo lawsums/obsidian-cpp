@@ -1,0 +1,30 @@
+{
+  "inboxPath": "Tasks/Inbox.md",
+  "defaultTag": "#task",
+  "aiProvider": "alibaba",
+  "aiEndpoint": "https://api.openai.com/v1/chat/completions",
+  "aiModel": "gpt-4.1-mini",
+  "aiApiKey": "",
+  "openaiTaskEndpoint": "https://api.openai.com/v1/chat/completions",
+  "openaiTaskModel": "gpt-4.1-mini",
+  "openaiTaskApiKey": "",
+  "alibabaTaskEndpoint": "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions",
+  "alibabaTaskModel": "qwen-plus",
+  "alibabaTaskApiKey": "sk-4b7330f1e8c74f96804e98530fe3404b",
+  "transcriptionProvider": "alibaba",
+  "openaiTranscriptionEndpoint": "https://api.openai.com/v1/audio/transcriptions",
+  "openaiTranscriptionModel": "gpt-4o-mini-transcribe",
+  "openaiTranscriptionApiKey": "",
+  "alibabaTranscriptionEndpoint": "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions",
+  "alibabaTranscriptionModel": "qwen3-asr-flash",
+  "alibabaTranscriptionApiKey": "sk-4b7330f1e8c74f96804e98530fe3404b",
+  "alibabaTranscriptionLanguage": "zh",
+  "appendCreatedDate": true,
+  "appendBlockId": true,
+  "openInboxAfterCapture": false,
+  "lowConfidenceThreshold": 0.55,
+  "enableReminderNotices": true,
+  "notifiedReminders": {
+    "Tasks/Inbox.md:3:2026-07-01T15:00:^task-20260630-f7549b7a": "2026-07-01T11:58:40.748Z"
+  }
+}

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/003_不定期任务.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -28,83 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
-            }
-          },
-          {
-            "id": "7d3cc27c73159868",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/制作 ai 任务管家相关软件.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "制作 ai 任务管家相关软件"
-            }
-          },
-          {
-            "id": "1e8d2b801402e033",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习C++"
-            }
-          },
-          {
-            "id": "eb3bf81b6813e5d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/007_书籍.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "007_书籍"
+              "title": "003_不定期任务"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/制作 ai 任务管家相关软件.md",
+                "file": "Templates/Homepage/003_不定期任务.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "制作 ai 任务管家相关软件 的大纲"
+              "title": "003_不定期任务 的大纲"
             }
           },
           {
@@ -383,9 +310,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "7d3cc27c73159868",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/制作 ai 任务管家相关软件.md",
     "Templates/Homepage/007_书籍.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/2026-07-03.md",
@@ -399,7 +327,6 @@
     "语言特性/trick/PRETTY_FUNCTION.md",
     "语言特性/trick/pb_ds库.md",
     "语言特性/trick",
-    "Templates/Homepage/制作 ai 任务管家相关软件.md",
     "Templates/Homepage/002_稍后再看.md",
     "Templates/Homepage/联系家长.md",
     "Templates/Homepage/面试题系列.md",

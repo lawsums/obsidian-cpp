@@ -12,7 +12,7 @@ id: gL39qDWT_Jjpb_OEMa91V
 ===
 ``` tasks
 not done
-due today
+(due today) OR (scheduled today)
 has due date
 hide backlink
 hide due date
@@ -27,7 +27,7 @@ sort by description
 ===
 ``` tasks
 not done
-due yesterday
+(due yesterday) OR (scheduled yesterday)
 has due date
 hide backlink
 hide due date

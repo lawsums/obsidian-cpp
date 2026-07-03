@@ -17,6 +17,20 @@ const DEFAULT_SETTINGS = {
   aiEndpoint: "https://api.openai.com/v1/chat/completions",
   aiModel: "gpt-4.1-mini",
   aiApiKey: "",
+  openaiTaskEndpoint: "https://api.openai.com/v1/chat/completions",
+  openaiTaskModel: "gpt-4.1-mini",
+  openaiTaskApiKey: "",
+  alibabaTaskEndpoint: "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions",
+  alibabaTaskModel: "qwen-plus",
+  alibabaTaskApiKey: "",
+  transcriptionProvider: "web-speech",
+  openaiTranscriptionEndpoint: "https://api.openai.com/v1/audio/transcriptions",
+  openaiTranscriptionModel: "gpt-4o-mini-transcribe",
+  openaiTranscriptionApiKey: "",
+  alibabaTranscriptionEndpoint: "https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions",
+  alibabaTranscriptionModel: "qwen3-asr-flash",
+  alibabaTranscriptionApiKey: "",
+  alibabaTranscriptionLanguage: "zh",
   appendCreatedDate: true,
   appendBlockId: true,
   openInboxAfterCapture: false,
@@ -67,6 +81,12 @@ module.exports = class AiTaskButlerPlugin extends Plugin {
     });
 
     this.addCommand({
+      id: "quick-voice-task",
+      name: "Quick voice task",
+      callback: () => new QuickVoiceTaskModal(this.app, this).open()
+    });
+
+    this.addCommand({
       id: "capture-selection-as-ai-task",
       name: "Capture selection as AI task",
       editorCallback: async (editor) => {
@@ -82,10 +102,38 @@ module.exports = class AiTaskButlerPlugin extends Plugin {
     });
 
     this.addCommand({
+      id: "test-ai-task-parser",
+      name: "Test AI task parser",
+      callback: async () => {
+        const sample = "明天下午三点提醒我给张三发合同，很重要 #work";
+        const draft = await this.parseTask(sample);
+        new Notice(taskDraftToMarkdown(draft, this.settings), 15000);
+      }
+    });
+
+    this.addCommand({
       id: "insert-today-task-dashboard",
       name: "Insert today task dashboard",
       editorCallback: (editor) => {
         editor.replaceSelection(todayTaskDashboardMarkdown());
+      }
+    });
+
+    this.addCommand({
+      id: "scan-due-reminders-now",
+      name: "Scan due reminders now",
+      callback: async () => {
+        const count = await this.scanDueReminders();
+        new Notice(`Reminder scan complete. Triggered ${count} reminder(s).`);
+      }
+    });
+
+    this.addCommand({
+      id: "test-reminder-notification",
+      name: "Test reminder notification",
+      callback: () => {
+        new Notice("AI Task Butler reminder test.", 10000);
+        maybeSendSystemNotification("AI Task Butler", "Reminder notification test.");
       }
     });
 
@@ -103,6 +151,20 @@ module.exports = class AiTaskButlerPlugin extends Plugin {
 
   async parseTask(text) {
     return await parseTaskWithAiFallback(text, this.settings);
+  }
+
+  canUseConfiguredTranscriptionProvider() {
+    if (this.settings.transcriptionProvider === "openai") {
+      return Boolean(this.settings.openaiTranscriptionApiKey);
+    }
+    if (this.settings.transcriptionProvider === "alibaba") {
+      return Boolean(this.settings.alibabaTranscriptionApiKey);
+    }
+    return true;
+  }
+
+  async transcribeAudio(blob) {
+    return await transcribeAudio(blob, this.settings);
   }
 
   async appendTask(draft) {
@@ -123,40 +185,51 @@ module.exports = class AiTaskButlerPlugin extends Plugin {
   }
 
   async scanDueReminders() {
-    const path = normalizePath(this.settings.inboxPath || DEFAULT_SETTINGS.inboxPath);
-    const file = this.app.vault.getAbstractFileByPath(path);
-    if (!(file instanceof TFile)) return;
-
-    const content = await this.app.vault.read(file);
     const now = new Date();
     const staleBefore = now.getTime() - 24 * 60 * 60 * 1000;
-    const lines = content.split(/\r?\n/);
+    const files = this.getReminderScanFiles();
     let changed = false;
+    let triggered = 0;
 
-    for (let index = 0; index < lines.length; index += 1) {
-      const line = lines[index];
-      if (!/^- \[ \]/.test(line)) continue;
+    for (const file of files) {
+      const content = await this.app.vault.read(file);
+      const lines = content.split(/\r?\n/);
+      const path = file.path;
 
-      const match = line.match(/⏰\s*(\d{4}-\d{2}-\d{2})[ T](\d{2}:\d{2})/);
-      if (!match) continue;
+      for (let index = 0; index < lines.length; index += 1) {
+        const line = lines[index];
+        if (!/^- \[ \]/.test(line)) continue;
 
-      const due = new Date(`${match[1]}T${match[2]}:00`);
-      const key = `${path}:${index + 1}:${match[1]}T${match[2]}:${extractBlockId(line) || stableHash(line)}`;
-      if (this.settings.notifiedReminders[key]) continue;
-      if (Number.isNaN(due.getTime())) continue;
-      if (due.getTime() > now.getTime()) continue;
-      if (due.getTime() < staleBefore) continue;
+        const match = line.match(/⏰\s*(\d{4}-\d{2}-\d{2})[ T](\d{2}:\d{2})/);
+        if (!match) continue;
 
-      const title = notificationTitleFromTaskLine(line);
-      new Notice(`该处理：${title}`, 10000);
-      maybeSendSystemNotification("该处理", title);
-      this.settings.notifiedReminders[key] = new Date().toISOString();
-      changed = true;
+        const due = new Date(`${match[1]}T${match[2]}:00`);
+        const key = `${path}:${index + 1}:${match[1]}T${match[2]}:${extractBlockId(line) || stableHash(line)}`;
+        if (this.settings.notifiedReminders[key]) continue;
+        if (Number.isNaN(due.getTime())) continue;
+        if (due.getTime() > now.getTime()) continue;
+        if (due.getTime() < staleBefore) continue;
+
+        const title = notificationTitleFromTaskLine(line);
+        new Notice(`该处理：${title}`, 10000);
+        maybeSendSystemNotification("该处理", `${title}\n${path}:${index + 1}`);
+        this.settings.notifiedReminders[key] = new Date().toISOString();
+        changed = true;
+        triggered += 1;
+      }
     }
 
     if (changed) {
       await this.saveSettings();
     }
+
+    return triggered;
+  }
+
+  getReminderScanFiles() {
+    const path = normalizePath(this.settings.inboxPath || DEFAULT_SETTINGS.inboxPath);
+    const file = this.app.vault.getAbstractFileByPath(path);
+    return file instanceof TFile ? [file] : [];
   }
 };
 
@@ -200,7 +273,17 @@ class CaptureTaskModal extends Modal {
 
     const buttonRow = contentEl.createDiv({ cls: "ai-task-butler-actions" });
     const voiceButton = buttonRow.createEl("button", { text: "语音输入" });
-    voiceButton.addEventListener("click", () => this.startDictation(textArea, voiceButton));
+    voiceButton.addEventListener("click", () => {
+      if (this.activeRecorder) {
+        this.stopApiRecording();
+        return;
+      }
+      if (this.activeRecognition) {
+        this.stopDictation();
+        return;
+      }
+      this.startVoiceInput(textArea, voiceButton);
+    });
 
     const cancelButton = buttonRow.createEl("button", { text: "取消" });
     cancelButton.addEventListener("click", () => this.close());
@@ -224,41 +307,194 @@ class CaptureTaskModal extends Modal {
     textArea.focus();
   }
 
+  startVoiceInput(textArea, voiceButton) {
+    const provider = this.plugin.settings.transcriptionProvider || "web-speech";
+    if (provider === "openai" || provider === "alibaba") {
+      this.startApiRecording(textArea, voiceButton);
+      return;
+    }
+
+    this.startDictation(textArea, voiceButton);
+  }
+
+  async startApiRecording(textArea, voiceButton) {
+    if (!navigator.mediaDevices?.getUserMedia || typeof MediaRecorder === "undefined") {
+      new Notice("当前环境不支持录音，请检查 Obsidian 桌面版或系统权限。");
+      return;
+    }
+
+    const provider = this.plugin.settings.transcriptionProvider;
+    if (!this.plugin.canUseConfiguredTranscriptionProvider()) {
+      new Notice("请先在 AI Task Butler 设置里填写当前转写服务的 API Key。", 10000);
+      return;
+    }
+
+    try {
+      const stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      const mimeType = pickRecordingMimeType();
+      const recorder = mimeType ? new MediaRecorder(stream, { mimeType }) : new MediaRecorder(stream);
+      const chunks = [];
+
+      this.activeRecorder = recorder;
+      this.activeRecorderStream = stream;
+      voiceButton.setText("停止录音");
+      new Notice(provider === "openai" ? "正在录音，停止后将用 OpenAI 转写。" : "正在录音，停止后将用阿里云转写。");
+
+      recorder.ondataavailable = (event) => {
+        if (event.data && event.data.size > 0) chunks.push(event.data);
+      };
+
+      recorder.onerror = () => {
+        new Notice("录音失败，请检查麦克风权限。");
+      };
+
+      recorder.onstop = async () => {
+        this.stopRecordingTracks();
+        voiceButton.setText("转写中...");
+
+        try {
+          const blob = new Blob(chunks, { type: recorder.mimeType || "audio/webm" });
+          if (blob.size < 1024) {
+            throw new Error("录音太短或为空，请录制至少 1 秒语音。");
+          }
+          const transcript = await this.plugin.transcribeAudio(blob);
+          this.appendTranscriptToInput(textArea, transcript);
+          new Notice("语音转写完成。");
+        } catch (error) {
+          console.error("AI Task Butler: transcription failed.", error);
+          new Notice(`语音转写失败：${error.message || "未知错误"}`, 12000);
+        } finally {
+          this.activeRecorder = null;
+          this.activeRecorderStream = null;
+          voiceButton.setText("语音输入");
+        }
+      };
+
+      recorder.start();
+    } catch (error) {
+      this.activeRecorder = null;
+      this.stopRecordingTracks();
+      voiceButton.setText("语音输入");
+      new Notice(`无法开始录音：${error.message || "请检查麦克风权限"}`, 10000);
+    }
+  }
+
+  stopApiRecording() {
+    if (!this.activeRecorder) return;
+    if (this.activeRecorder.state !== "inactive") {
+      this.activeRecorder.stop();
+    }
+  }
+
+  stopRecordingTracks() {
+    if (!this.activeRecorderStream) return;
+    for (const track of this.activeRecorderStream.getTracks()) {
+      track.stop();
+    }
+  }
+
+  appendTranscriptToInput(textArea, transcript) {
+    const cleanTranscript = (transcript || "").trim();
+    if (!cleanTranscript) {
+      new Notice("转写结果为空，请再试一次。");
+      return;
+    }
+
+    const prefix = textArea.value.trim() ? `${textArea.value.trim()} ` : "";
+    textArea.value = `${prefix}${cleanTranscript}`;
+    this.input = textArea.value;
+    this.draft = parseTaskText(this.input);
+    this.renderPreview();
+  }
+
   startDictation(textArea, voiceButton) {
     const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
     if (!SpeechRecognition) {
-      new Notice("当前 Obsidian 环境不支持浏览器语音识别。");
+      new Notice("当前 Obsidian 环境不支持浏览器语音识别，请先用文本输入。");
       return;
     }
 
     const recognition = new SpeechRecognition();
     recognition.lang = "zh-CN";
-    recognition.interimResults = false;
+    recognition.continuous = false;
+    recognition.interimResults = true;
     recognition.maxAlternatives = 1;
 
-    voiceButton.disabled = true;
-    voiceButton.setText("听写中...");
+    const baseText = textArea.value.trim();
+    let finalTranscript = "";
+    let started = false;
+    let handledError = false;
+
+    this.activeRecognition = recognition;
+    voiceButton.setText("停止听写");
+
+    recognition.onstart = () => {
+      started = true;
+      new Notice("正在听写，请开始说话。");
+    };
+
+    recognition.onaudiostart = () => {
+      voiceButton.setText("正在听...");
+    };
+
+    recognition.onspeechstart = () => {
+      voiceButton.setText("识别中...");
+    };
 
     recognition.onresult = (event) => {
-      const transcript = event.results?.[0]?.[0]?.transcript || "";
-      if (!transcript.trim()) return;
-      const prefix = textArea.value.trim() ? `${textArea.value.trim()} ` : "";
-      textArea.value = `${prefix}${transcript.trim()}`;
+      let interimTranscript = "";
+      for (let index = event.resultIndex; index < event.results.length; index += 1) {
+        const transcript = event.results[index]?.[0]?.transcript || "";
+        if (event.results[index].isFinal) {
+          finalTranscript += transcript;
+        } else {
+          interimTranscript += transcript;
+        }
+      }
+
+      const combined = `${finalTranscript}${interimTranscript}`.trim();
+      if (!combined) return;
+
+      textArea.value = [baseText, combined].filter(Boolean).join(" ");
       this.input = textArea.value;
       this.draft = parseTaskText(this.input);
       this.renderPreview();
     };
 
-    recognition.onerror = () => {
-      new Notice("语音识别失败，请改用文本输入。");
+    recognition.onnomatch = () => {
+      new Notice("没有识别到清晰语音，请再试一次。");
+    };
+
+    recognition.onerror = (event) => {
+      handledError = true;
+      new Notice(dictationErrorMessage(event?.error), 10000);
     };
 
     recognition.onend = () => {
-      voiceButton.disabled = false;
+      this.activeRecognition = null;
       voiceButton.setText("语音输入");
+      if (!started && !handledError) {
+        new Notice("语音识别没有启动，可能是当前 Obsidian 环境不支持。");
+      }
     };
 
-    recognition.start();
+    try {
+      recognition.start();
+    } catch (error) {
+      this.activeRecognition = null;
+      voiceButton.setText("语音输入");
+      new Notice(`语音识别启动失败：${error.message || "未知错误"}`, 10000);
+    }
+  }
+
+  stopDictation() {
+    if (!this.activeRecognition) return;
+    try {
+      this.activeRecognition.stop();
+    } catch (error) {
+      console.warn("AI Task Butler: failed to stop dictation.", error);
+    }
+    this.activeRecognition = null;
   }
 
   renderPreview() {
@@ -290,6 +526,277 @@ class CaptureTaskModal extends Modal {
   }
 }
 
+class QuickVoiceTaskModal extends Modal {
+  constructor(app, plugin) {
+    super(app);
+    this.plugin = plugin;
+    this.status = "准备录音...";
+    this.transcript = "";
+    this.draft = null;
+    this.chunks = [];
+    this.hasHeardVoice = false;
+    this.silenceStartedAt = null;
+    this.rafId = null;
+  }
+
+  onOpen() {
+    this.render();
+    this.scope.register([], "Enter", (event) => {
+      event.preventDefault();
+      this.commitTask();
+    });
+    this.scope.register([], "r", (event) => {
+      event.preventDefault();
+      this.restart();
+    });
+    window.setTimeout(() => this.start(), 150);
+  }
+
+  render() {
+    const { contentEl } = this;
+    contentEl.empty();
+    contentEl.addClass("ai-task-butler-modal");
+    contentEl.addClass("ai-task-butler-quick-voice");
+
+    contentEl.createEl("h2", { text: "快速语音任务" });
+    this.statusEl = contentEl.createEl("div", {
+      cls: "ai-task-butler-voice-status",
+      text: this.status
+    });
+
+    this.levelEl = contentEl.createDiv({ cls: "ai-task-butler-level" });
+    this.levelBarEl = this.levelEl.createDiv({ cls: "ai-task-butler-level-bar" });
+
+    this.previewEl = contentEl.createDiv({ cls: "ai-task-butler-preview" });
+    this.renderPreview();
+
+    const buttonRow = contentEl.createDiv({ cls: "ai-task-butler-actions" });
+    const retryButton = buttonRow.createEl("button", { text: "重录 R" });
+    retryButton.addEventListener("click", () => this.restart());
+
+    const stopButton = buttonRow.createEl("button", { text: "停止录音" });
+    stopButton.addEventListener("click", () => this.stopRecording());
+
+    const saveButton = buttonRow.createEl("button", {
+      text: "导入 Enter",
+      cls: "mod-cta"
+    });
+    saveButton.addEventListener("click", () => this.commitTask());
+  }
+
+  renderPreview() {
+    if (!this.previewEl) return;
+    this.previewEl.empty();
+
+    if (this.transcript) {
+      this.previewEl.createEl("div", { text: "识别文本：" });
+      this.previewEl.createEl("pre", { text: this.transcript });
+    }
+
+    if (this.draft) {
+      this.previewEl.createEl("div", { text: "将写入：" });
+      this.previewEl.createEl("pre", { text: taskDraftToMarkdown(this.draft, this.plugin.settings) });
+      this.previewEl.createEl("div", {
+        cls: "ai-task-butler-empty",
+        text: "按 Enter 导入，按 r 重录。"
+      });
+      return;
+    }
+
+    if (!this.transcript) {
+      this.previewEl.createEl("div", {
+        cls: "ai-task-butler-empty",
+        text: "说完后停顿一下，我会自动结束录音并识别。"
+      });
+    }
+  }
+
+  setStatus(status) {
+    this.status = status;
+    if (this.statusEl) this.statusEl.setText(status);
+  }
+
+  async start() {
+    if (this.recorder) return;
+    if (!navigator.mediaDevices?.getUserMedia || typeof MediaRecorder === "undefined") {
+      this.setStatus("当前环境不支持录音，请检查 Obsidian 桌面版或系统权限。");
+      return;
+    }
+    if (!this.plugin.canUseConfiguredTranscriptionProvider()) {
+      this.setStatus("请先在设置里选择 OpenAI 或阿里云转写，并填写对应 API Key。");
+      return;
+    }
+    if (this.plugin.settings.transcriptionProvider === "web-speech") {
+      this.setStatus("快速语音任务需要录音转写服务，请选择 OpenAI 或阿里云。");
+      return;
+    }
+
+    try {
+      this.stream = await navigator.mediaDevices.getUserMedia({ audio: true });
+      await this.startVoiceActivityDetection(this.stream);
+
+      const mimeType = pickRecordingMimeType();
+      this.recorder = mimeType ? new MediaRecorder(this.stream, { mimeType }) : new MediaRecorder(this.stream);
+      this.chunks = [];
+      this.hasHeardVoice = false;
+      this.silenceStartedAt = null;
+
+      this.recorder.ondataavailable = (event) => {
+        if (event.data && event.data.size > 0) this.chunks.push(event.data);
+      };
+      this.recorder.onerror = () => {
+        this.setStatus("录音失败，请检查麦克风权限。");
+      };
+      this.recorder.onstop = () => this.finishRecording();
+
+      this.recorder.start();
+      this.setStatus("正在听，请开始说话...");
+    } catch (error) {
+      this.cleanupAudio();
+      this.setStatus(`无法开始录音：${error.message || "请检查麦克风权限"}`);
+    }
+  }
+
+  async startVoiceActivityDetection(stream) {
+    const AudioContextClass = window.AudioContext || window.webkitAudioContext;
+    if (!AudioContextClass) return;
+
+    this.audioContext = new AudioContextClass();
+    const source = this.audioContext.createMediaStreamSource(stream);
+    const analyser = this.audioContext.createAnalyser();
+    analyser.fftSize = 2048;
+    source.connect(analyser);
+    this.analyser = analyser;
+    this.audioData = new Uint8Array(analyser.fftSize);
+
+    const voiceThreshold = 0.035;
+    const silenceMs = 1100;
+    const maxRecordingMs = 30000;
+    const minRecordingMs = 700;
+    const startedAt = Date.now();
+
+    const tick = () => {
+      if (!this.recorder || this.recorder.state !== "recording") {
+        this.rafId = null;
+        return;
+      }
+
+      analyser.getByteTimeDomainData(this.audioData);
+      const level = rmsAudioLevel(this.audioData);
+      if (this.levelBarEl) {
+        this.levelBarEl.style.width = `${Math.min(100, Math.round(level * 280))}%`;
+      }
+
+      const now = Date.now();
+      if (level > voiceThreshold) {
+        this.hasHeardVoice = true;
+        this.silenceStartedAt = null;
+        this.setStatus("识别到人声，继续说...");
+      } else if (this.hasHeardVoice) {
+        if (!this.silenceStartedAt) this.silenceStartedAt = now;
+        if (now - this.silenceStartedAt > silenceMs && now - startedAt > minRecordingMs) {
+          this.setStatus("检测到停顿，正在转写...");
+          this.stopRecording();
+          return;
+        }
+      }
+
+      if (now - startedAt > maxRecordingMs) {
+        this.setStatus("录音达到 30 秒，正在转写...");
+        this.stopRecording();
+        return;
+      }
+
+      this.rafId = requestAnimationFrame(tick);
+    };
+
+    this.rafId = requestAnimationFrame(tick);
+  }
+
+  stopRecording() {
+    if (this.recorder && this.recorder.state !== "inactive") {
+      this.recorder.stop();
+    }
+  }
+
+  async finishRecording() {
+    this.cancelVad();
+    this.stopTracks();
+
+    try {
+      const blob = new Blob(this.chunks, { type: this.recorder?.mimeType || "audio/webm" });
+      this.recorder = null;
+      if (blob.size < 1024) {
+        this.setStatus("录音太短或为空，按 r 重录。");
+        return;
+      }
+
+      this.setStatus("正在转写...");
+      this.transcript = await this.plugin.transcribeAudio(blob);
+      this.draft = await this.plugin.parseTask(this.transcript);
+      this.setStatus("转写完成。按 Enter 导入，按 r 重录。");
+      this.renderPreview();
+    } catch (error) {
+      console.error("AI Task Butler: quick voice task failed.", error);
+      this.setStatus(`转写失败：${error.message || "未知错误"}。按 r 重录。`);
+    }
+  }
+
+  async commitTask() {
+    if (!this.draft) {
+      new Notice("还没有可导入的任务。");
+      return;
+    }
+    await this.plugin.appendTask(this.draft);
+    this.close();
+  }
+
+  restart() {
+    this.cancelVad();
+    this.stopRecording();
+    this.stopTracks();
+    this.recorder = null;
+    this.transcript = "";
+    this.draft = null;
+    this.chunks = [];
+    this.hasHeardVoice = false;
+    this.silenceStartedAt = null;
+    this.setStatus("重新录音...");
+    this.renderPreview();
+    window.setTimeout(() => this.start(), 150);
+  }
+
+  cancelVad() {
+    if (this.rafId) {
+      cancelAnimationFrame(this.rafId);
+      this.rafId = null;
+    }
+    if (this.audioContext) {
+      this.audioContext.close().catch(() => {});
+      this.audioContext = null;
+    }
+  }
+
+  stopTracks() {
+    if (!this.stream) return;
+    for (const track of this.stream.getTracks()) {
+      track.stop();
+    }
+    this.stream = null;
+  }
+
+  cleanupAudio() {
+    this.cancelVad();
+    this.stopTracks();
+    this.recorder = null;
+  }
+
+  onClose() {
+    this.cleanupAudio();
+    this.contentEl.empty();
+  }
+}
+
 class AiTaskButlerSettingTab extends PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
@@ -304,7 +811,7 @@ class AiTaskButlerSettingTab extends PluginSettingTab {
 
     new Setting(containerEl)
       .setName("Inbox path")
-      .setDesc("Captured tasks will be appended to this Markdown file.")
+      .setDesc("Captured tasks are appended here, and reminders are scanned only from this Markdown file.")
       .addText((text) => text
         .setPlaceholder("Tasks/Inbox.md")
         .setValue(this.plugin.settings.inboxPath)
@@ -327,10 +834,12 @@ class AiTaskButlerSettingTab extends PluginSettingTab {
 
     new Setting(containerEl)
       .setName("AI provider")
-      .setDesc("Use an OpenAI-compatible chat completions endpoint, or keep offline rule parsing.")
+      .setDesc("Choose the text model used to translate natural language into structured tasks.")
       .addDropdown((dropdown) => dropdown
         .addOption("off", "Offline rules")
-        .addOption("openai-compatible", "OpenAI-compatible")
+        .addOption("openai", "OpenAI")
+        .addOption("alibaba", "Alibaba Qwen")
+        .addOption("openai-compatible", "Custom OpenAI-compatible")
         .setValue(this.plugin.settings.aiProvider)
         .onChange(async (value) => {
           this.plugin.settings.aiProvider = value;
@@ -338,8 +847,80 @@ class AiTaskButlerSettingTab extends PluginSettingTab {
         }));
 
     new Setting(containerEl)
+      .setName("OpenAI task endpoint")
+      .setDesc("Used when AI provider is OpenAI.")
+      .addText((text) => text
+        .setPlaceholder(DEFAULT_SETTINGS.openaiTaskEndpoint)
+        .setValue(this.plugin.settings.openaiTaskEndpoint)
+        .onChange(async (value) => {
+          this.plugin.settings.openaiTaskEndpoint = value.trim() || DEFAULT_SETTINGS.openaiTaskEndpoint;
+          await this.plugin.saveSettings();
+        }));
+
+    new Setting(containerEl)
+      .setName("OpenAI task model")
+      .setDesc("Text model used to parse tasks.")
+      .addText((text) => text
+        .setPlaceholder(DEFAULT_SETTINGS.openaiTaskModel)
+        .setValue(this.plugin.settings.openaiTaskModel)
+        .onChange(async (value) => {
+          this.plugin.settings.openaiTaskModel = value.trim() || DEFAULT_SETTINGS.openaiTaskModel;
+          await this.plugin.saveSettings();
+        }));
+
+    new Setting(containerEl)
+      .setName("OpenAI task API key")
+      .setDesc("Stored locally in this plugin's settings.")
+      .addText((text) => {
+        text.inputEl.type = "password";
+        text
+          .setPlaceholder("sk-...")
+          .setValue(this.plugin.settings.openaiTaskApiKey)
+          .onChange(async (value) => {
+            this.plugin.settings.openaiTaskApiKey = value.trim();
+            await this.plugin.saveSettings();
+          });
+      });
+
+    new Setting(containerEl)
+      .setName("Alibaba Qwen task endpoint")
+      .setDesc("DashScope OpenAI-compatible chat completions endpoint.")
+      .addText((text) => text
+        .setPlaceholder(DEFAULT_SETTINGS.alibabaTaskEndpoint)
+        .setValue(this.plugin.settings.alibabaTaskEndpoint)
+        .onChange(async (value) => {
+          this.plugin.settings.alibabaTaskEndpoint = value.trim() || DEFAULT_SETTINGS.alibabaTaskEndpoint;
+          await this.plugin.saveSettings();
+        }));
+
+    new Setting(containerEl)
+      .setName("Alibaba Qwen task model")
+      .setDesc("Recommended default is qwen-plus.")
+      .addText((text) => text
+        .setPlaceholder(DEFAULT_SETTINGS.alibabaTaskModel)
+        .setValue(this.plugin.settings.alibabaTaskModel)
+        .onChange(async (value) => {
+          this.plugin.settings.alibabaTaskModel = value.trim() || DEFAULT_SETTINGS.alibabaTaskModel;
+          await this.plugin.saveSettings();
+        }));
+
+    new Setting(containerEl)
+      .setName("Alibaba Qwen task API key")
+      .setDesc("DashScope API key, stored locally in this plugin's settings.")
+      .addText((text) => {
+        text.inputEl.type = "password";
+        text
+          .setPlaceholder("sk-...")
+          .setValue(this.plugin.settings.alibabaTaskApiKey)
+          .onChange(async (value) => {
+            this.plugin.settings.alibabaTaskApiKey = value.trim();
+            await this.plugin.saveSettings();
+          });
+      });
+
+    new Setting(containerEl)
       .setName("AI endpoint")
-      .setDesc("Chat completions endpoint. Keep the default for OpenAI-compatible APIs.")
+      .setDesc("Custom provider only. Chat completions endpoint for OpenAI-compatible APIs.")
       .addText((text) => text
         .setPlaceholder("https://api.openai.com/v1/chat/completions")
         .setValue(this.plugin.settings.aiEndpoint)
@@ -350,7 +931,7 @@ class AiTaskButlerSettingTab extends PluginSettingTab {
 
     new Setting(containerEl)
       .setName("AI model")
-      .setDesc("Model name used by the configured endpoint.")
+      .setDesc("Custom provider only. Model name used by the configured endpoint.")
       .addText((text) => text
         .setPlaceholder("gpt-4.1-mini")
         .setValue(this.plugin.settings.aiModel)
@@ -361,7 +942,7 @@ class AiTaskButlerSettingTab extends PluginSettingTab {
 
     new Setting(containerEl)
       .setName("AI API key")
-      .setDesc("Stored in this plugin's local Obsidian settings. Leave empty to use offline rules.")
+      .setDesc("Custom provider only. Stored in this plugin's local Obsidian settings.")
       .addText((text) => {
         text.inputEl.type = "password";
         text
@@ -369,6 +950,93 @@ class AiTaskButlerSettingTab extends PluginSettingTab {
           .setValue(this.plugin.settings.aiApiKey)
           .onChange(async (value) => {
             this.plugin.settings.aiApiKey = value.trim();
+            await this.plugin.saveSettings();
+          });
+      });
+
+    containerEl.createEl("h3", { text: "Voice transcription" });
+
+    new Setting(containerEl)
+      .setName("Transcription provider")
+      .setDesc("Web Speech is built in but may fail in Obsidian. OpenAI and Alibaba record audio, then transcribe through API.")
+      .addDropdown((dropdown) => dropdown
+        .addOption("web-speech", "Web Speech")
+        .addOption("openai", "OpenAI gpt-4o-mini-transcribe")
+        .addOption("alibaba", "Alibaba Qwen-ASR")
+        .setValue(this.plugin.settings.transcriptionProvider)
+        .onChange(async (value) => {
+          this.plugin.settings.transcriptionProvider = value;
+          await this.plugin.saveSettings();
+        }));
+
+    new Setting(containerEl)
+      .setName("OpenAI transcription endpoint")
+      .setDesc("Used when transcription provider is OpenAI.")
+      .addText((text) => text
+        .setPlaceholder(DEFAULT_SETTINGS.openaiTranscriptionEndpoint)
+        .setValue(this.plugin.settings.openaiTranscriptionEndpoint)
+        .onChange(async (value) => {
+          this.plugin.settings.openaiTranscriptionEndpoint = value.trim() || DEFAULT_SETTINGS.openaiTranscriptionEndpoint;
+          await this.plugin.saveSettings();
+        }));
+
+    new Setting(containerEl)
+      .setName("OpenAI transcription model")
+      .setDesc("Recommended first model for short task voice capture.")
+      .addText((text) => text
+        .setPlaceholder(DEFAULT_SETTINGS.openaiTranscriptionModel)
+        .setValue(this.plugin.settings.openaiTranscriptionModel)
+        .onChange(async (value) => {
+          this.plugin.settings.openaiTranscriptionModel = value.trim() || DEFAULT_SETTINGS.openaiTranscriptionModel;
+          await this.plugin.saveSettings();
+        }));
+
+    new Setting(containerEl)
+      .setName("OpenAI transcription API key")
+      .setDesc("Stored locally in this plugin's settings.")
+      .addText((text) => {
+        text.inputEl.type = "password";
+        text
+          .setPlaceholder("sk-...")
+          .setValue(this.plugin.settings.openaiTranscriptionApiKey)
+          .onChange(async (value) => {
+            this.plugin.settings.openaiTranscriptionApiKey = value.trim();
+            await this.plugin.saveSettings();
+          });
+      });
+
+    new Setting(containerEl)
+      .setName("Alibaba transcription endpoint")
+      .setDesc("DashScope OpenAI-compatible chat completions endpoint.")
+      .addText((text) => text
+        .setPlaceholder(DEFAULT_SETTINGS.alibabaTranscriptionEndpoint)
+        .setValue(this.plugin.settings.alibabaTranscriptionEndpoint)
+        .onChange(async (value) => {
+          this.plugin.settings.alibabaTranscriptionEndpoint = value.trim() || DEFAULT_SETTINGS.alibabaTranscriptionEndpoint;
+          await this.plugin.saveSettings();
+        }));
+
+    new Setting(containerEl)
+      .setName("Alibaba transcription model")
+      .setDesc("Default is qwen3-asr-flash.")
+      .addText((text) => text
+        .setPlaceholder(DEFAULT_SETTINGS.alibabaTranscriptionModel)
+        .setValue(this.plugin.settings.alibabaTranscriptionModel)
+        .onChange(async (value) => {
+          this.plugin.settings.alibabaTranscriptionModel = value.trim() || DEFAULT_SETTINGS.alibabaTranscriptionModel;
+          await this.plugin.saveSettings();
+        }));
+
+    new Setting(containerEl)
+      .setName("Alibaba transcription API key")
+      .setDesc("DashScope API key, stored locally in this plugin's settings.")
+      .addText((text) => {
+        text.inputEl.type = "password";
+        text
+          .setPlaceholder("sk-...")
+          .setValue(this.plugin.settings.alibabaTranscriptionApiKey)
+          .onChange(async (value) => {
+            this.plugin.settings.alibabaTranscriptionApiKey = value.trim();
             await this.plugin.saveSettings();
           });
       });
@@ -405,13 +1073,14 @@ class AiTaskButlerSettingTab extends PluginSettingTab {
 
     new Setting(containerEl)
       .setName("Reminder notices")
-      .setDesc("While Obsidian is open, scan the Inbox for due ⏰ reminders and show notifications.")
+      .setDesc("While Obsidian is open, scan the configured Inbox file for due ⏰ reminders and show notifications.")
       .addToggle((toggle) => toggle
         .setValue(this.plugin.settings.enableReminderNotices)
         .onChange(async (value) => {
           this.plugin.settings.enableReminderNotices = value;
           await this.plugin.saveSettings();
         }));
+
   }
 }
 
@@ -465,37 +1134,67 @@ function parseTaskText(rawText, now = new Date()) {
 
 async function parseTaskWithAiFallback(rawText, settings, now = new Date()) {
   const localDraft = parseTaskText(rawText, now);
-  if (settings.aiProvider !== "openai-compatible" || !settings.aiApiKey) {
+  if (!canUseTaskAiProvider(settings)) {
     return localDraft;
   }
 
   try {
-    const aiDraft = await parseTaskWithOpenAiCompatible(rawText, settings, now);
+    const aiDraft = await parseTaskWithChatCompletions(rawText, settings, now);
     return normalizeAiDraft(aiDraft, localDraft);
   } catch (error) {
     console.warn("AI Task Butler: AI parsing failed, using offline parser.", error);
-    new Notice("AI parsing failed; used offline parser instead.");
+    new Notice(`AI task parsing failed; used offline parser instead. ${error.message || ""}`, 10000);
     return localDraft;
   }
 }
 
-async function parseTaskWithOpenAiCompatible(rawText, settings, now) {
-  const payload = {
+function canUseTaskAiProvider(settings) {
+  if (settings.aiProvider === "openai") return Boolean(settings.openaiTaskApiKey);
+  if (settings.aiProvider === "alibaba") return Boolean(settings.alibabaTaskApiKey);
+  if (settings.aiProvider === "openai-compatible") return Boolean(settings.aiApiKey);
+  return false;
+}
+
+function taskAiProviderConfig(settings) {
+  if (settings.aiProvider === "openai") {
+    return {
+      providerName: "OpenAI task parser",
+      endpoint: settings.openaiTaskEndpoint || DEFAULT_SETTINGS.openaiTaskEndpoint,
+      model: settings.openaiTaskModel || DEFAULT_SETTINGS.openaiTaskModel,
+      apiKey: settings.openaiTaskApiKey,
+      responseFormat: { type: "json_object" }
+    };
+  }
+
+  if (settings.aiProvider === "alibaba") {
+    return {
+      providerName: "Alibaba Qwen task parser",
+      endpoint: settings.alibabaTaskEndpoint || DEFAULT_SETTINGS.alibabaTaskEndpoint,
+      model: settings.alibabaTaskModel || DEFAULT_SETTINGS.alibabaTaskModel,
+      apiKey: settings.alibabaTaskApiKey,
+      responseFormat: { type: "json_object" }
+    };
+  }
+
+  return {
+    providerName: "Custom OpenAI-compatible task parser",
+    endpoint: settings.aiEndpoint || DEFAULT_SETTINGS.aiEndpoint,
     model: settings.aiModel || DEFAULT_SETTINGS.aiModel,
+    apiKey: settings.aiApiKey,
+    responseFormat: { type: "json_object" }
+  };
+}
+
+async function parseTaskWithChatCompletions(rawText, settings, now) {
+  const config = taskAiProviderConfig(settings);
+  const payload = {
+    model: config.model,
     temperature: 0.1,
-    response_format: { type: "json_object" },
+    response_format: config.responseFormat,
     messages: [
       {
         role: "system",
-        content: [
-          "You convert natural-language task captures into strict JSON.",
-          "Return only valid JSON with these keys:",
-          "title, notes, project, tags, startDate, scheduledDate, dueDate, reminderAt, priority, estimatedMinutes, confidence, questions.",
-          "Dates must be YYYY-MM-DD. reminderAt must be local ISO-like datetime YYYY-MM-DDTHH:mm:ss without timezone.",
-          "priority must be one of highest, high, medium, none, low, lowest.",
-          "tags must be an array of Obsidian tags beginning with #.",
-          "Use null for unknown optional fields. Do not invent dates."
-        ].join(" ")
+        content: taskParserSystemPrompt()
       },
       {
         role: "user",
@@ -509,14 +1208,18 @@ async function parseTaskWithOpenAiCompatible(rawText, settings, now) {
     ]
   };
 
-  const response = await requestUrl({
-    url: settings.aiEndpoint || DEFAULT_SETTINGS.aiEndpoint,
-    method: "POST",
-    headers: {
-      "Content-Type": "application/json",
-      "Authorization": `Bearer ${settings.aiApiKey}`
-    },
-    body: JSON.stringify(payload)
+  const response = await requestUrlWithHint({
+    provider: config.providerName,
+    hint: "请检查任务解析 API Key、endpoint、模型名，以及模型是否支持 Chat Completions JSON 输出。",
+    request: {
+      url: config.endpoint,
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+        "Authorization": `Bearer ${config.apiKey}`
+      },
+      body: JSON.stringify(payload)
+    }
   });
 
   const content = response.json?.choices?.[0]?.message?.content;
@@ -525,6 +1228,41 @@ async function parseTaskWithOpenAiCompatible(rawText, settings, now) {
   }
 
   return JSON.parse(content);
+}
+
+function taskParserSystemPrompt() {
+  return [
+    "你是一个面向 Obsidian Tasks 的中文任务转译器。",
+    "你的任务是把用户随口说出的任务、提醒、截止日期、优先级和上下文，转换为严格 JSON。",
+    "只输出 JSON，不要输出 Markdown、解释、代码块或多余文字。",
+    "JSON keys 必须包含：title, notes, project, tags, startDate, scheduledDate, dueDate, reminderAt, priority, estimatedMinutes, confidence, questions。",
+    "字段规则：",
+    "- title: 简洁可执行的任务标题，删除'提醒我'、日期、时间、优先级废话，但保留人名、对象和动作。",
+    "- notes: 可选补充说明；没有则 null。",
+    "- project: 工作/家庭/学习/健康/财务等领域；不确定则 null。",
+    "- tags: Obsidian 标签数组，必须以 # 开头；用户已给标签要保留；没有明确标签可返回 []。",
+    "- startDate: 开始日期，YYYY-MM-DD；来自'从...开始'、'开始准备'等语义。",
+    "- scheduledDate: 计划执行日期，YYYY-MM-DD；来自'今天做'、'明天处理'、'周五安排'等语义。",
+    "- dueDate: 截止日期，YYYY-MM-DD；来自'之前'、'前'、'截止'、'ddl'、'deadline'、'到期'等语义。",
+    "- reminderAt: 提醒时间，格式 YYYY-MM-DDTHH:mm:ss；只有用户明确说提醒、叫我、到点通知，或给出具体执行时间时填写。",
+    "- priority: highest/high/medium/none/low/lowest 之一。",
+    "- estimatedMinutes: 如果用户表达了耗时，返回分钟数；否则 null。",
+    "- confidence: 0 到 1。日期、时间、任务对象明确时更高；含糊表达如'找时间'、'有空'要降低。",
+    "- questions: 如果需要用户确认，返回简短问题数组；否则 []。",
+    "日期理解：",
+    "- 所有日期都以 user.now 和 user.timezoneHint 为基准。",
+    "- 不要编造不存在的日期。",
+    "- '明天下午三点提醒我开会' => scheduledDate 为明天，reminderAt 为明天 15:00:00。",
+    "- '周五前交报告' => dueDate 为最近合理的周五。",
+    "- '有空整理书桌' => priority low，日期为空，confidence 较低。",
+    "优先级理解：",
+    "- 紧急、马上、必须今天、十万火急 => highest。",
+    "- 重要、尽快、客户、老板、截止、必须 => high。",
+    "- 普通、一般 => medium。",
+    "- 有空、不急、顺手、回头 => low。",
+    "返回示例：",
+    "{\"title\":\"给张三发合同\",\"notes\":null,\"project\":\"工作\",\"tags\":[\"#work\"],\"startDate\":null,\"scheduledDate\":\"2026-07-01\",\"dueDate\":null,\"reminderAt\":\"2026-07-01T15:00:00\",\"priority\":\"high\",\"estimatedMinutes\":null,\"confidence\":0.9,\"questions\":[]}"
+  ].join("\\n");
 }
 
 function normalizeAiDraft(aiDraft, fallbackDraft) {
@@ -580,6 +1318,192 @@ function clampConfidence(value, fallback) {
   const numeric = Number(value);
   if (!Number.isFinite(numeric)) return fallback;
   return Math.max(0.1, Math.min(numeric, 0.99));
+}
+
+async function transcribeAudio(blob, settings) {
+  if (settings.transcriptionProvider === "openai") {
+    return await transcribeWithOpenAi(blob, settings);
+  }
+
+  if (settings.transcriptionProvider === "alibaba") {
+    return await transcribeWithAlibaba(blob, settings);
+  }
+
+  throw new Error("当前语音提供商不支持录音转写。");
+}
+
+async function transcribeWithOpenAi(blob, settings) {
+  const audioContentType = normalizeAudioMimeType(blob.type || "audio/webm");
+  const { body, contentType: multipartContentType } = await createMultipartBody({
+    fields: {
+      model: settings.openaiTranscriptionModel || DEFAULT_SETTINGS.openaiTranscriptionModel,
+      response_format: "json"
+    },
+    file: {
+      fieldName: "file",
+      fileName: `task-voice.${mimeTypeToAudioFormat(audioContentType)}`,
+      contentType: audioContentType,
+      data: await blob.arrayBuffer()
+    }
+  });
+
+  const response = await requestUrlWithHint({
+    provider: "OpenAI 转写",
+    hint: "请检查 API Key、模型名、音频是否为空，以及 endpoint 是否为 /v1/audio/transcriptions。",
+    request: {
+      url: settings.openaiTranscriptionEndpoint || DEFAULT_SETTINGS.openaiTranscriptionEndpoint,
+      method: "POST",
+      headers: {
+        "Authorization": `Bearer ${settings.openaiTranscriptionApiKey}`,
+        "Content-Type": multipartContentType
+      },
+      body
+    }
+  });
+
+  const text = response.json?.text;
+  if (!text) {
+    throw new Error("OpenAI 转写响应中没有 text 字段。");
+  }
+  return text;
+}
+
+async function transcribeWithAlibaba(blob, settings) {
+  const audioBase64 = arrayBufferToBase64(await blob.arrayBuffer());
+  const mimeType = normalizeAudioMimeType(blob.type || "audio/webm");
+  const dataUrl = `data:${mimeType};base64,${audioBase64}`;
+
+  const response = await requestUrlWithHint({
+    provider: "阿里云转写",
+    hint: "请检查 DashScope API Key、endpoint 区域、模型名，以及音频格式。中国北京 endpoint 是 https://dashscope.aliyuncs.com/compatible-mode/v1/chat/completions。",
+    request: {
+      url: settings.alibabaTranscriptionEndpoint || DEFAULT_SETTINGS.alibabaTranscriptionEndpoint,
+      method: "POST",
+      headers: {
+        "Authorization": `Bearer ${settings.alibabaTranscriptionApiKey}`,
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+      model: settings.alibabaTranscriptionModel || DEFAULT_SETTINGS.alibabaTranscriptionModel,
+      messages: [
+        {
+          role: "user",
+          content: [
+            {
+              type: "input_audio",
+              input_audio: {
+                data: dataUrl
+              }
+            }
+          ]
+        }
+      ],
+      stream: false,
+      asr_options: {
+        language: settings.alibabaTranscriptionLanguage || "zh",
+        enable_itn: false
+      }
+      })
+    }
+  });
+
+  const content = response.json?.choices?.[0]?.message?.content;
+  const text = Array.isArray(content)
+    ? content.map((item) => item.text || "").join("").trim()
+    : String(content || "").trim();
+
+  if (!text) {
+    throw new Error("阿里云转写响应中没有文本内容。");
+  }
+  return text;
+}
+
+async function requestUrlWithHint({ provider, hint, request }) {
+  try {
+    return await requestUrl(request);
+  } catch (error) {
+    const status = error?.status ? `status ${error.status}` : error?.message || "请求失败";
+    throw new Error(`${provider}请求失败：${status}。${hint}`);
+  }
+}
+
+async function createMultipartBody({ fields, file }) {
+  const boundary = `----AiTaskButler${stableHash(`${Date.now()}${Math.random()}`)}`;
+  const encoder = new TextEncoder();
+  const chunks = [];
+
+  for (const [name, value] of Object.entries(fields)) {
+    chunks.push(encoder.encode(`--${boundary}\r\n`));
+    chunks.push(encoder.encode(`Content-Disposition: form-data; name="${name}"\r\n\r\n`));
+    chunks.push(encoder.encode(`${value}\r\n`));
+  }
+
+  chunks.push(encoder.encode(`--${boundary}\r\n`));
+  chunks.push(encoder.encode(`Content-Disposition: form-data; name="${file.fieldName}"; filename="${file.fileName}"\r\n`));
+  chunks.push(encoder.encode(`Content-Type: ${file.contentType}\r\n\r\n`));
+  chunks.push(new Uint8Array(file.data));
+  chunks.push(encoder.encode("\r\n"));
+  chunks.push(encoder.encode(`--${boundary}--\r\n`));
+
+  return {
+    body: concatUint8Arrays(chunks).buffer,
+    contentType: `multipart/form-data; boundary=${boundary}`
+  };
+}
+
+function concatUint8Arrays(chunks) {
+  const total = chunks.reduce((sum, chunk) => sum + chunk.byteLength, 0);
+  const result = new Uint8Array(total);
+  let offset = 0;
+  for (const chunk of chunks) {
+    result.set(chunk, offset);
+    offset += chunk.byteLength;
+  }
+  return result;
+}
+
+function arrayBufferToBase64(buffer) {
+  const bytes = new Uint8Array(buffer);
+  let binary = "";
+  const chunkSize = 0x8000;
+  for (let offset = 0; offset < bytes.length; offset += chunkSize) {
+    const chunk = bytes.subarray(offset, offset + chunkSize);
+    binary += String.fromCharCode(...chunk);
+  }
+  return btoa(binary);
+}
+
+function mimeTypeToAudioFormat(mimeType) {
+  if (/mp4|m4a/.test(mimeType)) return "mp4";
+  if (/mpeg|mp3/.test(mimeType)) return "mp3";
+  if (/wav/.test(mimeType)) return "wav";
+  if (/ogg/.test(mimeType)) return "ogg";
+  return "webm";
+}
+
+function normalizeAudioMimeType(mimeType) {
+  return String(mimeType || "audio/webm").split(";")[0].trim() || "audio/webm";
+}
+
+function pickRecordingMimeType() {
+  const candidates = [
+    "audio/webm;codecs=opus",
+    "audio/webm",
+    "audio/mp4",
+    "audio/ogg;codecs=opus"
+  ];
+
+  if (typeof MediaRecorder === "undefined" || !MediaRecorder.isTypeSupported) return "";
+  return candidates.find((candidate) => MediaRecorder.isTypeSupported(candidate)) || "";
+}
+
+function rmsAudioLevel(byteTimeDomainData) {
+  let sum = 0;
+  for (let index = 0; index < byteTimeDomainData.length; index += 1) {
+    const centered = (byteTimeDomainData[index] - 128) / 128;
+    sum += centered * centered;
+  }
+  return Math.sqrt(sum / byteTimeDomainData.length);
 }
 
 function taskDraftToMarkdown(draft, settings) {
@@ -807,6 +1731,20 @@ function maybeSendSystemNotification(title, body) {
       }
     });
   }
+}
+
+function dictationErrorMessage(errorCode) {
+  const messages = {
+    "no-speech": "没有听到声音。请点击语音输入后立刻说话，或检查麦克风音量。",
+    "audio-capture": "没有检测到可用麦克风。请检查系统麦克风权限和输入设备。",
+    "not-allowed": "麦克风权限被拒绝。请在系统设置中允许 Obsidian 使用麦克风。",
+    "service-not-allowed": "当前环境不允许使用语音识别服务。Obsidian 桌面版可能不支持 Web Speech。",
+    "network": "语音识别服务不可用。Obsidian/Electron 环境里 Web Speech 可能无法连接服务。",
+    "aborted": "语音识别已停止。",
+    "language-not-supported": "当前语音识别服务不支持 zh-CN。"
+  };
+
+  return messages[errorCode] || `语音识别失败：${errorCode || "未知错误"}`;
 }
 
 function todayTaskDashboardMarkdown() {

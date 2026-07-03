@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "制作 ai 任务管家相关软件",
-      "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "制作 ai 任务管家相关软件",
+      "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
     },
     {
       "basename": "007_书籍",
@@ -143,10 +147,6 @@
     {
       "basename": "为什么有了大模型还需要RAG",
       "path": "八股文/为什么有了大模型还需要RAG.md"
-    },
-    {
-      "basename": "003_不定期任务",
-      "path": "Templates/Homepage/003_不定期任务.md"
     },
     {
       "basename": "剪藏网页",
