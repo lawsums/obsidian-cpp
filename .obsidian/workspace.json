@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/把计时器加入面试题.md",
+                "file": "项目/Agent开发/CppAI框架/框架梳理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "把计时器加入面试题"
+              "title": "框架梳理"
             }
           },
           {
@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -179,7 +179,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -233,13 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
+                "file": "项目/Agent开发/CppAI框架/框架梳理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习C++ 的大纲"
+              "title": "框架梳理 的大纲"
             }
           },
           {
@@ -347,7 +348,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -383,16 +385,19 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1e8d2b801402e033",
+  "active": "c8a5ff81e85cf59d",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
-    "操作系统/定时器.md",
     "Templates/Homepage/把计时器加入面试题.md",
+    "项目/Agent开发/CppAI框架/框架梳理.md",
+    "项目/Agent开发/CppAI框架",
+    "项目/Agent开发/未命名.canvas",
+    "操作系统/定时器.md",
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/Homepage.md",
     "Dairies/2026-07-03.md",
     "语言特性/trick/PRETTY_FUNCTION.md",
     "Templates/Homepage/AddTask.md",
     "语言特性/trick/pb_ds库.md",
-    "Templates/Homepage/学习C++.md",
     "语言特性/trick",
     "Templates/Homepage/制作 ai 任务管家相关软件.md",
     "Templates/Homepage/002_稍后再看.md",
@@ -411,7 +416,6 @@
     "Software/软件开发.md",
     "Templates/Homepage/宝可梦肉鸽.md",
     "Dairies/2026-06-29.md",
-    "Templates/Daily_note_template.md",
     "Attachments/Pasted image 20260627160829.png",
     "项目/Agent开发/KamaClaude",
     "项目/Agent开发",
@@ -424,7 +428,6 @@
     "Attachments/Pasted image 20260601171614.png",
     "Attachments/Pasted image 20260601171631.png",
     "项目/第二轮面试/协程库",
-    "Leetcode/3376.最长公共后缀查询.cpp",
     "Leetcode/images/1466_meta-chart.jpeg",
     "Attachments/Pasted image 20260523010041.png",
     "Leetcode/images/4102_g5.png",
