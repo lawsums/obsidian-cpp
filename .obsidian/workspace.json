@@ -179,8 +179,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -348,8 +347,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -387,13 +385,13 @@
   },
   "active": "c8a5ff81e85cf59d",
   "lastOpenFiles": [
-    "Templates/Homepage/把计时器加入面试题.md",
+    "Templates/Homepage/Homepage.md",
     "项目/Agent开发/CppAI框架/框架梳理.md",
+    "Templates/Homepage/把计时器加入面试题.md",
     "项目/Agent开发/CppAI框架",
     "项目/Agent开发/未命名.canvas",
     "操作系统/定时器.md",
     "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-07-03.md",
     "语言特性/trick/PRETTY_FUNCTION.md",
     "Templates/Homepage/AddTask.md",
