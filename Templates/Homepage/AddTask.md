@@ -1,4 +1,5 @@
 - [x] [[把计时器加入面试题]]，背诵一下 get_current_time 🔼 📅 2026-07-03 ✅ 2026-07-03
+- [ ] 查看五年级需要学什么 📅 2026-07-03 🔼 
 - [ ] 下午去家教 📅 2026-07-04 ⏫ 
 - [x] 喷杀虫剂 ⏫ 📅 2026-07-02 ✅ 2026-07-02
 - [x] 喷杀虫剂去看书 ⏫ 📅 2026-07-01 ✅ 2026-07-01
@@ -29,7 +30,8 @@
 - [x] 洗澡 🔼 📅 2026-06-26 ✅ 2026-06-26
 - [x] 问一下安全员怎么调整座椅高度 🔼 📅 2026-06-25 ✅ 2026-06-25
 - [x] 录音记录细节 🔼 📅 2026-06-25 ✅ 2026-06-25
-- [ ] 看[[框架流程]]以及继续学习[大模型八股](https://notes.kamacoder.com/llm/app/chain_of_rag.html#%E4%B8%89%E3%80%81%E5%9C%A8%E7%BA%BF%E9%98%B6%E6%AE%B5) 🔼 🔁 every day 📅 2026-07-03
+- [ ] 看[[框架流程]]以及继续学习[大模型八股](https://notes.kamacoder.com/llm/app/chain_of_rag.html#%E4%B8%89%E3%80%81%E5%9C%A8%E7%BA%BF%E9%98%B6%E6%AE%B5) 🔼 🔁 every day 📅 2026-07-04
+- [x] 看[[框架流程]]以及继续学习[大模型八股](https://notes.kamacoder.com/llm/app/chain_of_rag.html#%E4%B8%89%E3%80%81%E5%9C%A8%E7%BA%BF%E9%98%B6%E6%AE%B5) 🔼 🔁 every day 📅 2026-07-03 ✅ 2026-07-03
 - [x] 看[[框架流程]]以及继续学习[大模型八股](https://notes.kamacoder.com/llm/app/chain_of_rag.html#%E4%B8%89%E3%80%81%E5%9C%A8%E7%BA%BF%E9%98%B6%E6%AE%B5) 🔼 🔁 every day 📅 2026-07-02 ✅ 2026-07-03
 - [x] 看[[框架流程]]以及继续学习[大模型八股](https://notes.kamacoder.com/llm/app/chain_of_rag.html#%E4%B8%89%E3%80%81%E5%9C%A8%E7%BA%BF%E9%98%B6%E6%AE%B5) 🔼 🔁 every day 📅 2026-07-01 ✅ 2026-07-01
 - [x] 看[[框架流程]]以及继续学习[大模型八股](https://notes.kamacoder.com/llm/app/chain_of_rag.html#%E4%B8%89%E3%80%81%E5%9C%A8%E7%BA%BF%E9%98%B6%E6%AE%B5) 🔼 🔁 every day 📅 2026-06-30 ✅ 2026-06-30

@@ -1,48 +1,56 @@
 {
   "recentFiles": [
     {
-      "basename": "框架梳理",
-      "path": "项目/Agent开发/CppAI框架/框架梳理.md"
+      "basename": "制作 ai 任务管家相关软件",
+      "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "把计时器加入面试题",
-      "path": "Templates/Homepage/把计时器加入面试题.md"
-    },
-    {
-      "basename": "定时器",
-      "path": "操作系统/定时器.md"
+      "basename": "007_书籍",
+      "path": "Templates/Homepage/007_书籍.md"
     },
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
     {
-      "basename": "PRETTY_FUNCTION",
-      "path": "语言特性/trick/PRETTY_FUNCTION.md"
+      "basename": "2026-07-03",
+      "path": "Dairies/2026-07-03.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/Agent开发/CppAI框架/框架梳理.md"
     },
     {
       "basename": "AddTask",
       "path": "Templates/Homepage/AddTask.md"
     },
     {
-      "basename": "pb_ds库",
-      "path": "语言特性/trick/pb_ds库.md"
-    },
-    {
-      "basename": "制作 ai 任务管家相关软件",
-      "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
-    },
-    {
-      "basename": "002_稍后再看",
-      "path": "Templates/Homepage/002_稍后再看.md"
+      "basename": "把计时器加入面试题",
+      "path": "Templates/Homepage/把计时器加入面试题.md"
     },
     {
       "basename": "看家教相关工作",
       "path": "Templates/Homepage/看家教相关工作.md"
+    },
+    {
+      "basename": "定时器",
+      "path": "操作系统/定时器.md"
+    },
+    {
+      "basename": "PRETTY_FUNCTION",
+      "path": "语言特性/trick/PRETTY_FUNCTION.md"
+    },
+    {
+      "basename": "pb_ds库",
+      "path": "语言特性/trick/pb_ds库.md"
+    },
+    {
+      "basename": "002_稍后再看",
+      "path": "Templates/Homepage/002_稍后再看.md"
     },
     {
       "basename": "联系家长",
@@ -191,14 +199,6 @@
     {
       "basename": "3939.用特殊操作处理字符串 II",
       "path": "Leetcode/3939.用特殊操作处理字符串 II.md"
-    },
-    {
-      "basename": "3931.用特殊操作处理字符串 I",
-      "path": "Leetcode/3931.用特殊操作处理字符串 I.md"
-    },
-    {
-      "basename": "005_KTV歌单",
-      "path": "Templates/Homepage/005_KTV歌单.md"
     }
   ],
   "omittedPaths": [],
