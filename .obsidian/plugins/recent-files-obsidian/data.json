@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "试课后进行反馈",
+      "path": "Templates/Homepage/试课后进行反馈.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "文字",
       "path": "Software/文字.md"
-    },
-    {
-      "basename": "2026-06-20",
-      "path": "Dairies/2026-06-20.md"
     }
   ],
   "omittedPaths": [],
