@@ -30,81 +30,8 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "4feb2072aad6efdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/AddTask.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AddTask"
-            }
-          },
-          {
-            "id": "e2c0a65fa192901c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习深度学习"
-            }
-          },
-          {
-            "id": "752eade66516286e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Tasks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tasks"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/AddTask.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "AddTask 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -353,6 +280,7 @@
     "hiddenItems": {
       "obsidian-projects:打开项目": false,
       "media-extended:Open media": false,
+      "ai-task-butler:AI Task Butler: capture task": false,
       "open-vscode:VSCode": false,
       "pexels-banner:🚩 Pixel Banner Menu": false,
       "diagram-zoom-drag:Picker mode": false,
@@ -380,17 +308,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-day-and-night:Toggle Theme": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
-      "homepage:Open homepage": false,
-      "ai-task-butler:AI Task Butler: capture task": false
+      "homepage:Open homepage": false
     }
   },
-  "active": "4feb2072aad6efdb",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/AddTask.md",
     "Templates/Homepage/学习深度学习.md",
     "Dairies/2026-01-14.md",
     "Templates/Tasks.md",
-    "Templates/Homepage/AddTask.md",
     "Templates/Homepage/003_不定期任务.md",
     "Templates/Homepage/制作 ai 任务管家相关软件.md",
     "Templates/Homepage/007_书籍.md",
