@@ -55,8 +55,7 @@
               "title": "试课后进行反馈"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/试课后进行反馈.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "试课后进行反馈 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -336,7 +335,7 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "25259107f0ed5e27",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/试课后进行反馈.md",
     "Templates/Homepage/Homepage.md",
