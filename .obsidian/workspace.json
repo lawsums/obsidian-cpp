@@ -79,8 +79,7 @@
               "title": "007_书籍"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习C++ 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -353,8 +352,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d56db15e4c6ea154",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/用ai产出创意内容.md",
@@ -362,7 +362,6 @@
     "Templates/Homepage/007_书籍.md",
     "Software/软件开发.md",
     "Templates/Homepage/Art of programming.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/AddTask.md",
     "Templates/Homepage/C++课程.md",
     "Templates/Homepage/算法面试好题.md",
