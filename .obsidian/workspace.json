@@ -55,8 +55,7 @@
               "title": "2375.到达角落需要移除障碍物的最小数目"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/2375.到达角落需要移除障碍物的最小数目.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2375.到达角落需要移除障碍物的最小数目 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -336,13 +335,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a7fbaa3e0ab68821",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Leetcode/2375.到达角落需要移除障碍物的最小数目.md",
     "Leetcode/2375.到达角落需要移除障碍物的最小数目.cpp",
     "Templates/Homepage/Homepage.md",
     "Leetcode/images/2375_example1drawio.png",
     "Leetcode/images/2375_example1drawio-1.png",
-    "Leetcode/2375.到达角落需要移除障碍物的最小数目.md",
     "Dairies/2026-07-05.md",
     "Templates/Homepage/AddTask.md",
     "Templates/Homepage/试课后进行反馈.md",
@@ -380,7 +379,6 @@
     "项目/第二轮面试/Http服务框架",
     "Attachments/Pasted image 20260601171614.png",
     "Attachments/Pasted image 20260601171631.png",
-    "项目/第二轮面试/协程库",
     "Leetcode/images/1466_meta-chart.jpeg",
     "Attachments/Pasted image 20260523010041.png",
     "Leetcode/images/4102_g5.png",
