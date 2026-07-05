@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "试课后进行反馈",
       "path": "Templates/Homepage/试课后进行反馈.md"
-    },
-    {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "003_不定期任务",
