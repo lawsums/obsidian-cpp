@@ -127,8 +127,7 @@
               "title": "007_书籍"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/制作 ai 任务管家相关软件.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "制作 ai 任务管家相关软件 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -401,13 +400,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d1d7f5ff4c17c8dc",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/制作 ai 任务管家相关软件.md",
+    "Templates/Homepage/AddTask.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/和家长进行沟通.md",
     "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/AddTask.md",
     "Templates/Tasks.md",
     "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/用ai产出创意内容.md",
