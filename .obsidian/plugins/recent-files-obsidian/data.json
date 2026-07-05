@@ -9,6 +9,10 @@
       "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
       "basename": "007_书籍",
       "path": "Templates/Homepage/007_书籍.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "003_不定期任务",
