@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
       "basename": "007_书籍",
       "path": "Templates/Homepage/007_书籍.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "AddTask",
       "path": "Templates/Homepage/AddTask.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "算法面试好题",
