@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "a7fbaa3e0ab68821",
+            "id": "8383797537c1fc85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/2375.到达角落需要移除障碍物的最小数目.md",
+                "file": "Templates/Homepage/用ai产出创意内容.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2375.到达角落需要移除障碍物的最小数目"
+              "title": "用ai产出创意内容"
             }
           }
         ]
@@ -337,9 +337,10 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/用ai产出创意内容.md",
     "Leetcode/2375.到达角落需要移除障碍物的最小数目.md",
-    "Leetcode/2375.到达角落需要移除障碍物的最小数目.cpp",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/2375.到达角落需要移除障碍物的最小数目.cpp",
     "Leetcode/images/2375_example1drawio.png",
     "Leetcode/images/2375_example1drawio-1.png",
     "Dairies/2026-07-05.md",
