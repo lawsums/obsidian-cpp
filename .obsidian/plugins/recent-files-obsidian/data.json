@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Art of programming",
-      "path": "Templates/Homepage/Art of programming.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "007_书籍",
       "path": "Templates/Homepage/007_书籍.md"
     },
     {
+      "basename": "软件开发",
+      "path": "Software/软件开发.md"
+    },
+    {
+      "basename": "Art of programming",
+      "path": "Templates/Homepage/Art of programming.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
     {
-      "basename": "软件开发",
-      "path": "Software/软件开发.md"
+      "basename": "AddTask",
+      "path": "Templates/Homepage/AddTask.md"
     },
     {
       "basename": "用ai产出创意内容",
@@ -25,16 +33,8 @@
       "path": "Templates/Homepage/算法面试好题.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "2375.到达角落需要移除障碍物的最小数目",
       "path": "Leetcode/2375.到达角落需要移除障碍物的最小数目.md"
-    },
-    {
-      "basename": "AddTask",
-      "path": "Templates/Homepage/AddTask.md"
     },
     {
       "basename": "试课后进行反馈",
