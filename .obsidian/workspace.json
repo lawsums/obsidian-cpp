@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "452468edaa844518",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "和家长同步家教状况"
+            }
+          },
+          {
             "id": "cdb973ae28eef372",
             "type": "leaf",
             "state": {
@@ -195,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
+                "file": "Templates/Homepage/和家长同步家教状况.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习C++ 的大纲"
+              "title": "和家长同步家教状况 的大纲"
             }
           },
           {
@@ -329,11 +353,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "cdb973ae28eef372",
+  "active": "452468edaa844518",
   "lastOpenFiles": [
-    "Templates/Homepage/和家长进行沟通.md",
+    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/和家长进行沟通.md",
     "Software/软件开发.md",
     "Templates/Homepage/007_书籍.md",
     "Templates/Homepage/用ai产出创意内容.md",
@@ -361,7 +386,6 @@
     "操作系统/定时器.md",
     "项目/Agent开发/CppAI框架",
     "项目/Agent开发/未命名.canvas",
-    "语言特性/trick/PRETTY_FUNCTION.md",
     "语言特性/trick",
     "Attachments/Pasted image 20260627160829.png",
     "项目/Agent开发/KamaClaude",
