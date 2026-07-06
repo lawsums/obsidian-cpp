@@ -79,8 +79,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/和家长进行沟通.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "和家长进行沟通 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -353,8 +352,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "05bc244defb06c0b",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/和家长进行沟通.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Software/软件开发.md",
@@ -364,7 +364,6 @@
     "Templates/Homepage/制作 ai 任务管家相关软件.md",
     "Templates/Tasks.md",
     "Templates/Homepage/AddTask.md",
-    "Templates/Homepage/和家长进行沟通.md",
     "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/Art of programming.md",
     "Templates/Homepage/C++课程.md",
