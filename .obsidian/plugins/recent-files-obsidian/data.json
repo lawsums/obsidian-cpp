@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "和家长进行沟通",
+      "path": "Templates/Homepage/和家长进行沟通.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "软件开发",
+      "path": "Software/软件开发.md"
+    },
+    {
+      "basename": "007_书籍",
+      "path": "Templates/Homepage/007_书籍.md"
+    },
+    {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "制作 ai 任务管家相关软件",
@@ -17,28 +37,8 @@
       "path": "Templates/Homepage/AddTask.md"
     },
     {
-      "basename": "和家长进行沟通",
-      "path": "Templates/Homepage/和家长进行沟通.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
-    },
-    {
-      "basename": "007_书籍",
-      "path": "Templates/Homepage/007_书籍.md"
-    },
-    {
-      "basename": "软件开发",
-      "path": "Software/软件开发.md"
     },
     {
       "basename": "Art of programming",
