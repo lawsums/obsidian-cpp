@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "复习面试题",
+      "path": "Templates/Homepage/复习面试题.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
+      "basename": "挂机脚本",
+      "path": "Templates/Homepage/挂机脚本.md"
+    },
+    {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "和家长进行沟通",
@@ -101,20 +113,12 @@
       "path": "Templates/Homepage/联系家长.md"
     },
     {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
       "basename": "C++知识学习",
       "path": "Templates/Homepage/C++知识学习.md"
     },
     {
       "basename": "框架流程",
       "path": "项目/Agent开发/KamaClaude/框架流程.md"
-    },
-    {
-      "basename": "挂机脚本",
-      "path": "Templates/Homepage/挂机脚本.md"
     },
     {
       "basename": "晚上看家教相关工作",
@@ -195,10 +199,6 @@
     {
       "basename": "学习科目三",
       "path": "Templates/学习科目三.md"
-    },
-    {
-      "basename": "Daily_note_md",
-      "path": "Templates/Daily_note_md.md"
     }
   ],
   "omittedPaths": [],
