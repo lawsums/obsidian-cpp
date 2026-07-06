@@ -103,8 +103,7 @@
               "title": "面试题系列"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,13 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/面试题系列.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "面试题系列 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -377,8 +376,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "54638ca084fc1482",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/复习面试题.md",
     "Templates/Homepage/Homepage.md",
@@ -407,7 +407,6 @@
     "Templates/Homepage/003_不定期任务.md",
     "Dairies/2026-07-03.md",
     "项目/Agent开发/CppAI框架/框架梳理.md",
-    "Templates/Homepage/把计时器加入面试题.md",
     "项目/Agent开发/CppAI框架",
     "项目/Agent开发/未命名.canvas",
     "语言特性/trick",

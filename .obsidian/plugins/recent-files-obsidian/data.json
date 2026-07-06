@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "复习面试题",
       "path": "Templates/Homepage/复习面试题.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "挂机脚本",
