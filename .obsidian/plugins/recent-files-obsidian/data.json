@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Leetcode_no_anki_problem_template",
-      "path": "Templates/Leetcode_no_anki_problem_template.md"
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "第四章智能体经典范式构建",
+      "path": "项目/Agent开发/Hello-agents/第四章智能体经典范式构建.md"
+    },
+    {
+      "basename": "代码网站爬虫",
+      "path": "Software/代码网站爬虫.md"
+    },
+    {
+      "basename": "Leetcode_no_anki_problem_template",
+      "path": "Templates/Leetcode_no_anki_problem_template.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/Agent开发/Hello-agents/框架梳理.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
+      "basename": "软件开发",
+      "path": "Software/软件开发.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/Agent开发/CppAI框架/框架梳理.md"
     },
     {
       "basename": "制作 ai 任务管家相关软件",
@@ -15,14 +43,6 @@
     {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "挂机脚本",
@@ -39,10 +59,6 @@
     {
       "basename": "和家长进行沟通",
       "path": "Templates/Homepage/和家长进行沟通.md"
-    },
-    {
-      "basename": "软件开发",
-      "path": "Software/软件开发.md"
     },
     {
       "basename": "007_书籍",
@@ -83,10 +99,6 @@
     {
       "basename": "2026-07-03",
       "path": "Dairies/2026-07-03.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/Agent开发/CppAI框架/框架梳理.md"
     },
     {
       "basename": "把计时器加入面试题",
@@ -187,18 +199,6 @@
     {
       "basename": "为什么有了大模型还需要RAG",
       "path": "八股文/为什么有了大模型还需要RAG.md"
-    },
-    {
-      "basename": "剪藏网页",
-      "path": "Clippings/剪藏网页.md"
-    },
-    {
-      "basename": "Count Subgrid Sum = K",
-      "path": "Clippings/Count Subgrid Sum = K.md"
-    },
-    {
-      "basename": "同步异步流式输出的区别",
-      "path": "八股文/同步异步流式输出的区别.md"
     }
   ],
   "omittedPaths": [],
