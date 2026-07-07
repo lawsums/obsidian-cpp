@@ -9,16 +9,24 @@
       "path": "Templates/Homepage/面试题系列.md"
     },
     {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
     {
-      "basename": "复习面试题",
-      "path": "Templates/Homepage/复习面试题.md"
+      "basename": "制作 ai 任务管家相关软件",
+      "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
     },
     {
       "basename": "挂机脚本",
       "path": "Templates/Homepage/挂机脚本.md"
+    },
+    {
+      "basename": "复习面试题",
+      "path": "Templates/Homepage/复习面试题.md"
     },
     {
       "basename": "和家长同步家教状况",
@@ -41,20 +49,12 @@
       "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
-      "basename": "制作 ai 任务管家相关软件",
-      "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
-    },
-    {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
     },
     {
       "basename": "AddTask",
       "path": "Templates/Homepage/AddTask.md"
-    },
-    {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "Art of programming",
