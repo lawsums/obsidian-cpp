@@ -121,7 +121,7 @@ action <% nvimLink %>
 
 `button-anki-open`   `button-anki-update`
 
-## <% `${targetFile.basename}` %>
+## 0.1 <% `${targetFile.basename}` %>
 
 <% question.content %>
 
@@ -134,10 +134,10 @@ question.hints.forEach(item => {
 hintsText
 _%>
 
-## Notes
+## 0.2 Notes
 
 
-## Solution 
+## 0.3 Solution 
 
 ![[<% `${targetFile.basename}.cpp` %>]]
 

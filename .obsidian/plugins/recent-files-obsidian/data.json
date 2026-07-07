@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Leetcode_no_anki_problem_template",
+      "path": "Templates/Leetcode_no_anki_problem_template.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "同步异步流式输出的区别",
       "path": "八股文/同步异步流式输出的区别.md"
-    },
-    {
-      "basename": "学习科目三",
-      "path": "Templates/学习科目三.md"
     }
   ],
   "omittedPaths": [],
