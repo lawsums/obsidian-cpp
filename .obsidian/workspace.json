@@ -103,8 +103,7 @@
               "title": "计算器"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,8 +157,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a1a3b64710b00c75",
@@ -244,13 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "和家长同步家教状况 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -378,15 +376,15 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "c953377af72e484d",
   "lastOpenFiles": [
     "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/和家长同步家教状况.md",
     "数据结构/计算器.md",
     "项目/Agent开发/Hello-agents/第四章智能体经典范式构建.md",
     "Leetcode/227.基本计算器 II.md",
     "Templates/Homepage/学习深度学习.md",
-    "Templates/Homepage/和家长同步家教状况.md",
-    "Templates/Homepage/Homepage.md",
     "Software/代码网站爬虫.md",
     "Templates/Leetcode_no_anki_problem_template.md",
     "项目/Agent开发/Hello-agents/框架梳理.md",
