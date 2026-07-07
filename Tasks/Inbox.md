@@ -1,3 +1,5 @@
 # Inbox
 - [ ] 学习 hello agent 项目 #task 🔼 🔁 every day 🛫 2026-07-08 ⏳ 2026-07-08
 - [x] 学习 hello agent 项目 #task 🔼 🔁 every day ➕ 2026-07-07 🛫 2026-07-07 ⏳ 2026-07-07 ✅ 2026-07-07 ^task-20260707-180789b3
+- [ ] 安装 OpenCore #task 🔼 ➕ 2026-07-07 ^task-20260707-c098f0be
+- [ ] 学习多 agent 工作流 #task ⏫ ⏳ 2026-07-08 ➕ 2026-07-07 ^task-20260707-ef80f560
