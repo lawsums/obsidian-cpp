@@ -17,6 +17,7 @@ AI Task Butler 是一个 Obsidian Tasks 辅助插件原型。它把自然语言�
   - `📅 YYYY-MM-DD` 截止日期
   - `🛫 YYYY-MM-DD` 开始日期
   - `➕ YYYY-MM-DD` 创建日期
+  - `🔁 every day` 每日循环
   - `🔺 ⏫ 🔼 🔽 ⏬` 优先级
 - 支持稳定块 ID：`^task-*`
 - 支持轻量提醒：任务行包含 `⏰ YYYY-MM-DD HH:mm` 时，Obsidian 打开期间会弹出提醒
@@ -46,6 +47,20 @@ AI Task Butler 是一个 Obsidian Tasks 辅助插件原型。它把自然语言�
 
 ```markdown
 - [ ] 给张三发合同 #work ⏫ ⏳ 2026-07-01 ⏰ 2026-07-01 15:00 ➕ 2026-06-30 ^task-20260630-a1b2c3d4
+```
+
+在 `Capture AI task` 弹窗中，按 `Enter` 会直接解析并导入 Inbox；需要换行时按 `Shift+Enter`。
+
+循环任务示例：
+
+```text
+以后每天晚上提醒我复盘
+```
+
+生成：
+
+```markdown
+- [ ] 复盘 #task ⏰ 2026-07-06 20:00 🔁 every day ➕ 2026-07-06
 ```
 
 ## 快速语音任务
@@ -114,6 +129,8 @@ AI API key: 对方的 API Key
 ```
 
 插件会要求模型返回严格 JSON，再转换成 Tasks Markdown。AI 请求失败、返回格式错误或 API Key 为空时，会自动回退到离线规则解析，不会阻断任务录入。
+
+AI 解析会识别 `每天`、`每日`、`以后每天`、`天天` 等表达，并输出 `recurrence: "every day"`，最终生成 Obsidian Tasks 循环语法 `🔁 every day`。
 
 测试配置：
 

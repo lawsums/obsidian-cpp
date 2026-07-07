@@ -76,6 +76,16 @@ assert.equal(reportTask.priority, "high");
 const looseTask = sandbox.parseTaskText("下周找时间聊一下方案", now);
 assert.ok(looseTask.confidence < 0.55);
 
+const dailyTask = sandbox.parseTaskText("以后每天晚上八点提醒我复盘", now);
+assert.equal(dailyTask.title, "复盘");
+assert.equal(dailyTask.scheduledDate, "2026-06-30");
+assert.equal(dailyTask.reminderAt, "2026-06-30T20:00:00");
+assert.equal(dailyTask.recurrence, "every day");
+const dailyMarkdown = sandbox.taskDraftToMarkdown(dailyTask, settings);
+assert.match(dailyMarkdown, /⏳ 2026-06-30/);
+assert.match(dailyMarkdown, /⏰ 2026-06-30 20:00/);
+assert.match(dailyMarkdown, /🔁 every day/);
+
 const dashboard = sandbox.todayTaskDashboardMarkdown();
 assert.match(dashboard, /happens on today/);
 assert.match(dashboard, /due before today/);

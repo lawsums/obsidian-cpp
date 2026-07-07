@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "制作 ai 任务管家相关软件",
+      "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
+    },
+    {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "制作 ai 任务管家相关软件",
-      "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
     },
     {
       "basename": "挂机脚本",

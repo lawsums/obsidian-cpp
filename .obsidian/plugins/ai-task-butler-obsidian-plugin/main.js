@@ -267,6 +267,12 @@ class CaptureTaskModal extends Modal {
       this.draft = this.input.trim() ? parseTaskText(this.input) : null;
       this.renderPreview();
     });
+    textArea.addEventListener("keydown", (event) => {
+      if (event.key === "Enter" && !event.shiftKey && !event.isComposing) {
+        event.preventDefault();
+        this.submit();
+      }
+    });
 
     this.previewEl = contentEl.createDiv({ cls: "ai-task-butler-preview" });
     this.renderPreview();
@@ -288,23 +294,41 @@ class CaptureTaskModal extends Modal {
     const cancelButton = buttonRow.createEl("button", { text: "取消" });
     cancelButton.addEventListener("click", () => this.close());
 
-      const appendButton = buttonRow.createEl("button", {
+    this.appendButton = buttonRow.createEl("button", {
       text: "加入 Inbox",
       cls: "mod-cta"
     });
-    appendButton.addEventListener("click", async () => {
-      if (!this.input.trim()) {
-        new Notice("请输入任务内容。");
-        return;
-      }
-      appendButton.disabled = true;
-      appendButton.setText("解析中...");
+    this.appendButton.addEventListener("click", () => this.submit());
+
+    textArea.focus();
+  }
+
+  async submit() {
+    if (this.isSubmitting) return;
+    if (!this.input.trim()) {
+      new Notice("请输入任务内容。");
+      return;
+    }
+
+    this.isSubmitting = true;
+    if (this.appendButton) {
+      this.appendButton.disabled = true;
+      this.appendButton.setText("解析中...");
+    }
+
+    try {
       const draft = await this.plugin.parseTask(this.input);
       await this.plugin.appendTask(draft);
       this.close();
-    });
-
-    textArea.focus();
+    } catch (error) {
+      console.error("AI Task Butler: failed to capture task.", error);
+      new Notice(`导入失败：${error.message || "未知错误"}`, 10000);
+      this.isSubmitting = false;
+      if (this.appendButton) {
+        this.appendButton.disabled = false;
+        this.appendButton.setText("加入 Inbox");
+      }
+    }
   }
 
   startVoiceInput(textArea, voiceButton) {
@@ -1108,6 +1132,10 @@ function parseTaskText(rawText, now = new Date()) {
   const priority = inferPriority(original);
   const dateInfo = inferDateInfo(original, now);
   const timeInfo = inferTimeInfo(original);
+  const recurrence = inferRecurrence(original);
+  if (recurrence && !dateInfo.scheduledDate && !dateInfo.dueDate && !dateInfo.startDate) {
+    dateInfo.scheduledDate = nextOccurrenceDateForTime(now, timeInfo);
+  }
   const reminderAt = dateInfo.scheduledDate && timeInfo
     ? `${dateInfo.scheduledDate}T${timeInfo}:00`
     : undefined;
@@ -1126,6 +1154,7 @@ function parseTaskText(rawText, now = new Date()) {
     dueDate: dateInfo.dueDate,
     startDate: dateInfo.startDate,
     reminderAt,
+    recurrence,
     priority,
     confidence: Math.max(0.1, Math.min(confidence, 0.95)),
     sourceText: original
@@ -1235,7 +1264,7 @@ function taskParserSystemPrompt() {
     "你是一个面向 Obsidian Tasks 的中文任务转译器。",
     "你的任务是把用户随口说出的任务、提醒、截止日期、优先级和上下文，转换为严格 JSON。",
     "只输出 JSON，不要输出 Markdown、解释、代码块或多余文字。",
-    "JSON keys 必须包含：title, notes, project, tags, startDate, scheduledDate, dueDate, reminderAt, priority, estimatedMinutes, confidence, questions。",
+    "JSON keys 必须包含：title, notes, project, tags, startDate, scheduledDate, dueDate, reminderAt, recurrence, priority, estimatedMinutes, confidence, questions。",
     "字段规则：",
     "- title: 简洁可执行的任务标题，删除'提醒我'、日期、时间、优先级废话，但保留人名、对象和动作。",
     "- notes: 可选补充说明；没有则 null。",
@@ -1245,6 +1274,7 @@ function taskParserSystemPrompt() {
     "- scheduledDate: 计划执行日期，YYYY-MM-DD；来自'今天做'、'明天处理'、'周五安排'等语义。",
     "- dueDate: 截止日期，YYYY-MM-DD；来自'之前'、'前'、'截止'、'ddl'、'deadline'、'到期'等语义。",
     "- reminderAt: 提醒时间，格式 YYYY-MM-DDTHH:mm:ss；只有用户明确说提醒、叫我、到点通知，或给出具体执行时间时填写。",
+    "- recurrence: Obsidian Tasks 循环规则字符串；没有循环则 null。用户说'每天'、'每日'、'以后每天'、'天天'时返回 'every day'。",
     "- priority: highest/high/medium/none/low/lowest 之一。",
     "- estimatedMinutes: 如果用户表达了耗时，返回分钟数；否则 null。",
     "- confidence: 0 到 1。日期、时间、任务对象明确时更高；含糊表达如'找时间'、'有空'要降低。",
@@ -1254,6 +1284,7 @@ function taskParserSystemPrompt() {
     "- 不要编造不存在的日期。",
     "- '明天下午三点提醒我开会' => scheduledDate 为明天，reminderAt 为明天 15:00:00。",
     "- '周五前交报告' => dueDate 为最近合理的周五。",
+    "- '以后每天提醒我复盘' => recurrence 为 every day。",
     "- '有空整理书桌' => priority low，日期为空，confidence 较低。",
     "优先级理解：",
     "- 紧急、马上、必须今天、十万火急 => highest。",
@@ -1261,7 +1292,7 @@ function taskParserSystemPrompt() {
     "- 普通、一般 => medium。",
     "- 有空、不急、顺手、回头 => low。",
     "返回示例：",
-    "{\"title\":\"给张三发合同\",\"notes\":null,\"project\":\"工作\",\"tags\":[\"#work\"],\"startDate\":null,\"scheduledDate\":\"2026-07-01\",\"dueDate\":null,\"reminderAt\":\"2026-07-01T15:00:00\",\"priority\":\"high\",\"estimatedMinutes\":null,\"confidence\":0.9,\"questions\":[]}"
+    "{\"title\":\"给张三发合同\",\"notes\":null,\"project\":\"工作\",\"tags\":[\"#work\"],\"startDate\":null,\"scheduledDate\":\"2026-07-01\",\"dueDate\":null,\"reminderAt\":\"2026-07-01T15:00:00\",\"recurrence\":null,\"priority\":\"high\",\"estimatedMinutes\":null,\"confidence\":0.9,\"questions\":[]}"
   ].join("\\n");
 }
 
@@ -1280,6 +1311,7 @@ function normalizeAiDraft(aiDraft, fallbackDraft) {
     scheduledDate: validDateOrUndefined(aiDraft.scheduledDate) || fallbackDraft.scheduledDate,
     dueDate: validDateOrUndefined(aiDraft.dueDate) || fallbackDraft.dueDate,
     reminderAt: validReminderOrUndefined(aiDraft.reminderAt) || fallbackDraft.reminderAt,
+    recurrence: validRecurrenceOrUndefined(aiDraft.recurrence) || fallbackDraft.recurrence,
     priority,
     estimatedMinutes: Number.isFinite(Number(aiDraft.estimatedMinutes)) ? Number(aiDraft.estimatedMinutes) : undefined,
     confidence: clampConfidence(aiDraft.confidence, fallbackDraft.confidence),
@@ -1312,6 +1344,16 @@ function validReminderOrUndefined(value) {
   if (typeof value !== "string") return undefined;
   const trimmed = value.trim();
   return /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(:\d{2})?$/.test(trimmed) ? trimmed : undefined;
+}
+
+function validRecurrenceOrUndefined(value) {
+  if (typeof value !== "string") return undefined;
+  const trimmed = value.trim().toLowerCase();
+  if (!trimmed) return undefined;
+  if (/^every (day|week|month|year)$/.test(trimmed)) return trimmed;
+  if (/^every \d+ (days|weeks|months|years)$/.test(trimmed)) return trimmed;
+  if (/^every (monday|tuesday|wednesday|thursday|friday|saturday|sunday)$/.test(trimmed)) return trimmed;
+  return undefined;
 }
 
 function clampConfidence(value, fallback) {
@@ -1522,6 +1564,7 @@ function taskDraftToMarkdown(draft, settings) {
   if (draft.scheduledDate) parts.push(`⏳ ${draft.scheduledDate}`);
   if (draft.dueDate) parts.push(`📅 ${draft.dueDate}`);
   if (draft.reminderAt) parts.push(`⏰ ${formatReminderAt(draft.reminderAt)}`);
+  if (draft.recurrence) parts.push(`🔁 ${draft.recurrence}`);
   if (settings.appendCreatedDate) parts.push(`➕ ${formatDate(new Date())}`);
   if (settings.appendBlockId) parts.push(makeBlockId(draft));
 
@@ -1534,6 +1577,11 @@ function inferPriority(text) {
   if (/一般|正常|普通/.test(text)) return "medium";
   if (/有空|不急|顺手|回头|低优先级/.test(text)) return "low";
   return "none";
+}
+
+function inferRecurrence(text) {
+  if (/以后每天|从今以后每天|之后每天|每天|每日|天天|每一天/.test(text)) return "every day";
+  return undefined;
 }
 
 function inferDateInfo(text, now) {
@@ -1591,6 +1639,16 @@ function inferSingleDate(text, now) {
   return undefined;
 }
 
+function nextOccurrenceDateForTime(now, timeInfo) {
+  if (!timeInfo) return formatDate(now);
+  const [hour, minute] = timeInfo.split(":").map(Number);
+  const candidate = new Date(now.getFullYear(), now.getMonth(), now.getDate(), hour, minute, 0);
+  if (candidate.getTime() <= now.getTime()) {
+    candidate.setDate(candidate.getDate() + 1);
+  }
+  return formatDate(candidate);
+}
+
 function inferTimeInfo(text) {
   const match = text.match(/(?:(上午|早上|中午|下午|晚上|今晚|凌晨)\s*([零〇一二两三四五六七八九十\d]{1,3})(?:[:：点]([零〇一二两三四五六七八九十\d]{0,2})?)?|([零〇一二两三四五六七八九十\d]{1,3})[:：点]([零〇一二两三四五六七八九十\d]{0,2})?)/);
   if (!match) return undefined;
@@ -1612,6 +1670,7 @@ function cleanTitle(text) {
     .replace(/#[\p{L}\p{N}_/-]+/gu, "")
     .replace(/提醒我|记得提醒|到时候叫我?/g, "")
     .replace(/(今天|今日|明天|明日|后天|大后天)/g, "")
+    .replace(/(以后每天|从今以后每天|之后每天|每天|每日|天天|每一天)/g, "")
     .replace(/(上午|早上|中午|下午|晚上|今晚|凌晨)\s*[零〇一二两三四五六七八九十\d]{1,3}([:：点][零〇一二两三四五六七八九十\d]{0,2})?/g, "")
     .replace(/[零〇一二两三四五六七八九十\d]{1,3}[:：点][零〇一二两三四五六七八九十\d]{0,2}/g, "")
     .replace(/(这个|这周|本周|下周|下星期)?(周|星期)[一二三四五六日天1-7]/g, "")
