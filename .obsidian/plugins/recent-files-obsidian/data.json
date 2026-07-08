@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "第四章智能体经典范式构建",
+      "path": "项目/Agent开发/Hello-agents/第四章智能体经典范式构建.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
-      "basename": "第四章智能体经典范式构建",
-      "path": "项目/Agent开发/Hello-agents/第四章智能体经典范式构建.md"
     },
     {
       "basename": "227.基本计算器 II",
