@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "回 Sly 消息",
+      "path": "Templates/Homepage/回 Sly 消息.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "项目准备",
       "path": "项目/第二轮面试/异步日志/项目准备.md"
-    },
-    {
-      "basename": "Leetcode_problem_template",
-      "path": "Templates/Leetcode_problem_template.md"
     }
   ],
   "omittedPaths": [],
