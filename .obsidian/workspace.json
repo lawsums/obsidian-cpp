@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "79b93572101d80b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/回 Sly 消息.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "回 Sly 消息"
-            }
-          },
-          {
             "id": "d56db15e4c6ea154",
             "type": "leaf",
             "state": {
@@ -79,8 +55,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/回 Sly 消息.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "回 Sly 消息 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -355,13 +330,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "79b93572101d80b9",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/回 Sly 消息.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-07-08.md",
     "数据结构/计算器.md",
-    "Templates/Homepage/学习C++.md",
     "Software/代码网站爬虫.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "项目/Agent开发/Hello-agents/第四章智能体经典范式构建.md",
