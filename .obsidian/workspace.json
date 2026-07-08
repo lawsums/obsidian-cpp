@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "c0cf9bc8a10a2ed9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/代码网站爬虫.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "代码网站爬虫"
+            }
+          },
+          {
             "id": "093ce04a85392ea4",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
+                "file": "Software/代码网站爬虫.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习深度学习 的大纲"
+              "title": "代码网站爬虫 的大纲"
             }
           },
           {
@@ -377,10 +401,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "13b920d886013ab9",
+  "active": "c0cf9bc8a10a2ed9",
   "lastOpenFiles": [
-    "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习深度学习.md",
     "项目/Agent开发/Hello-agents/第四章智能体经典范式构建.md",
     "Software/代码网站爬虫.md",
     "Software/软件开发.md",
