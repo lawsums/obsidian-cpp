@@ -103,8 +103,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,13 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/代码网站爬虫.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "代码网站爬虫 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -377,11 +376,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "423a6cf195470c65",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Software/代码网站爬虫.md",
     "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/Homepage.md",
-    "Software/代码网站爬虫.md",
     "Software/软件开发.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/制作 ai 任务管家相关软件.md",
