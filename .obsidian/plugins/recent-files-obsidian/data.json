@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "代码网站爬虫",
+      "path": "Software/代码网站爬虫.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "软件开发",
+      "path": "Software/软件开发.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "制作 ai 任务管家相关软件",
+      "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
     },
     {
       "basename": "回 Sly 消息",
@@ -15,10 +31,6 @@
     {
       "basename": "计算器",
       "path": "数据结构/计算器.md"
-    },
-    {
-      "basename": "代码网站爬虫",
-      "path": "Software/代码网站爬虫.md"
     },
     {
       "basename": "和家长同步家教状况",
@@ -33,10 +45,6 @@
       "path": "Leetcode/227.基本计算器 II.md"
     },
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
       "basename": "Leetcode_no_anki_problem_template",
       "path": "Templates/Leetcode_no_anki_problem_template.md"
     },
@@ -45,16 +53,8 @@
       "path": "项目/Agent开发/Hello-agents/框架梳理.md"
     },
     {
-      "basename": "软件开发",
-      "path": "Software/软件开发.md"
-    },
-    {
       "basename": "框架梳理",
       "path": "项目/Agent开发/CppAI框架/框架梳理.md"
-    },
-    {
-      "basename": "制作 ai 任务管家相关软件",
-      "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
     },
     {
       "basename": "面试题系列",
