@@ -103,8 +103,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,13 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/Agent开发/Hello-agents/第五章基于低代码平台的智能体搭建.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第五章基于低代码平台的智能体搭建 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -377,10 +376,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "57d1910803ad6036",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "项目/Agent开发/Hello-agents/框架梳理.md",
     "项目/Agent开发/Hello-agents/第五章基于低代码平台的智能体搭建.md",
+    "项目/Agent开发/Hello-agents/框架梳理.md",
     "项目/Agent开发/Hello-agents/第四章智能体经典范式构建.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
