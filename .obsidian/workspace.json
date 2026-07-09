@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp/大四上考试时间.md",
+                "file": "Temp/研一课程.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "大四上考试时间"
+              "title": "研一课程"
             }
           },
           {
@@ -154,8 +154,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -316,8 +315,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -356,8 +354,9 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Temp/大四上考试时间.md",
+    "Temp/研一课程.md",
     "Templates/Homepage/Homepage.md",
+    "Temp/大四上考试时间.md",
     "Templates/Homepage/学习C++.md",
     "Dairies/2026-07-09.md",
     "Templates/Homepage/学习深度学习.md",
@@ -383,7 +382,6 @@
     "Templates/Homepage/和家长进行沟通.md",
     "Templates/Homepage/007_书籍.md",
     "Templates/Homepage/用ai产出创意内容.md",
-    "Dairies/2026-07-06.md",
     "Leetcode/2375.到达角落需要移除障碍物的最小数目.cpp",
     "Leetcode/images/2375_example1drawio.png",
     "Leetcode/images/2375_example1drawio-1.png",

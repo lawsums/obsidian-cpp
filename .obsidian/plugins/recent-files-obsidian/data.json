@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "研一课程",
+      "path": "Temp/研一课程.md"
+    },
+    {
       "basename": "大四上考试时间",
       "path": "Temp/大四上考试时间.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "大模型输出怎么约束",
       "path": "八股文/大模型输出怎么约束.md"
-    },
-    {
-      "basename": "知识星球项目",
-      "path": "项目/知识星球项目.md"
     }
   ],
   "omittedPaths": [],
