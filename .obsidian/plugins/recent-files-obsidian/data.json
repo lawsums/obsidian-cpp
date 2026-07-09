@@ -1,20 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "第五章基于低代码平台的智能体搭建",
+      "path": "项目/Agent开发/Hello-agents/第五章基于低代码平台的智能体搭建.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/Agent开发/Hello-agents/框架梳理.md"
+    },
+    {
+      "basename": "第四章智能体经典范式构建",
+      "path": "项目/Agent开发/Hello-agents/第四章智能体经典范式构建.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "研一课程",
       "path": "Temp/研一课程.md"
     },
     {
-      "basename": "大四上考试时间",
-      "path": "Temp/大四上考试时间.md"
+      "basename": "投下一单",
+      "path": "Templates/Homepage/投下一单.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
+      "basename": "大四上考试时间",
+      "path": "Temp/大四上考试时间.md"
     },
     {
       "basename": "学习深度学习",
@@ -23,10 +39,6 @@
     {
       "basename": "代码网站爬虫",
       "path": "Software/代码网站爬虫.md"
-    },
-    {
-      "basename": "第四章智能体经典范式构建",
-      "path": "项目/Agent开发/Hello-agents/第四章智能体经典范式构建.md"
     },
     {
       "basename": "软件开发",
@@ -55,10 +67,6 @@
     {
       "basename": "Leetcode_no_anki_problem_template",
       "path": "Templates/Leetcode_no_anki_problem_template.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/Agent开发/Hello-agents/框架梳理.md"
     },
     {
       "basename": "框架梳理",
@@ -191,14 +199,6 @@
     {
       "basename": "大模型怎么调用工具",
       "path": "八股文/大模型怎么调用工具.md"
-    },
-    {
-      "basename": "大模型",
-      "path": "八股文/大模型.md"
-    },
-    {
-      "basename": "大模型输出怎么约束",
-      "path": "八股文/大模型输出怎么约束.md"
     }
   ],
   "omittedPaths": [],
