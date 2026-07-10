@@ -127,8 +127,7 @@
               "title": "第六章框架开发实践"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,8 +181,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a1a3b64710b00c75",
@@ -268,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks/Inbox.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Inbox 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -402,12 +400,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "dbc194b76dc809de",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Tasks/Inbox.md",
     "Templates/Homepage/Homepage.md",
     "Templates/试课安排.md",
     "Templates/Tasks.md",
-    "Tasks/Inbox.md",
     "项目/Agent开发/Hello-agents/第六章框架开发实践.md",
     "Templates/Tasks",
     "项目/Agent开发/Hello-agents/框架梳理.md",
