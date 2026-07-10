@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "第六章框架开发实践",
+      "path": "项目/Agent开发/Hello-agents/第六章框架开发实践.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/Agent开发/Hello-agents/框架梳理.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "刷新文件夹",
       "path": "项目/第一轮面试/海同网盘/刷新文件夹.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "面试",
@@ -67,10 +75,6 @@
     {
       "basename": "Inbox",
       "path": "Tasks/Inbox.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/Agent开发/Hello-agents/框架梳理.md"
     },
     {
       "basename": "第四章智能体经典范式构建",
@@ -195,10 +199,6 @@
     {
       "basename": "pb_ds库",
       "path": "语言特性/trick/pb_ds库.md"
-    },
-    {
-      "basename": "002_稍后再看",
-      "path": "Templates/Homepage/002_稍后再看.md"
     }
   ],
   "omittedPaths": [],
