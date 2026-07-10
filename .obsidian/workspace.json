@@ -32,102 +32,6 @@
             }
           },
           {
-            "id": "cfa542a66b1445f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Tasks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tasks"
-            }
-          },
-          {
-            "id": "5af2a2a79cbad773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks/Inbox.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Inbox"
-            }
-          },
-          {
-            "id": "57d1910803ad6036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/Agent开发/Hello-agents/第五章基于低代码平台的智能体搭建.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "第五章基于低代码平台的智能体搭建"
-            }
-          },
-          {
-            "id": "3378c13c4dece06b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/投下一单.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "投下一单"
-            }
-          },
-          {
             "id": "d56db15e4c6ea154",
             "type": "leaf",
             "state": {
@@ -426,34 +330,34 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Tasks.md",
+    "Dairies/2026-07-10.md",
+    "项目/第二轮面试/异步日志/框架梳理.md",
+    "项目/第一轮面试/海同网盘/网盘功能设计.md",
+    "项目/第一轮面试/海同网盘/刷新文件夹.md",
+    "Templates/Homepage/学习C++.md",
+    "项目/第二轮面试/协程服务器/面试.md",
+    "项目/第二轮面试/协程服务器/框架梳理.md",
+    "Templates/Homepage/投下一单.md",
     "Templates/Homepage/Homepage.md",
-    "Tasks/Inbox.md",
+    "项目/第二轮面试/零声网盘/框架梳理.md",
     "项目/Agent开发/Hello-agents/第五章基于低代码平台的智能体搭建.md",
+    "项目/第二轮面试/高性能服务器/流程.md",
+    "项目/第一轮面试/海同网盘/001_海同网盘.md",
+    "项目/第一轮面试/海同网盘/登录、退出.md",
+    "论文/diffusion除图像修复相关论文.md",
+    "Dairies/寻找diffusion中用来图像修复的论文.md",
+    "Templates/Tasks.md",
+    "Tasks/Inbox.md",
     "项目/Agent开发/Hello-agents/框架梳理.md",
     "项目/Agent开发/Hello-agents/第四章智能体经典范式构建.md",
-    "Templates/Homepage/学习C++.md",
     "Temp/研一课程.md",
-    "Templates/Homepage/投下一单.md",
     "Temp/大四上考试时间.md",
     "Dairies/2026-07-09.md",
     "Templates/Homepage/学习深度学习.md",
     "Software/代码网站爬虫.md",
     "Software/软件开发.md",
-    "Templates/Homepage/制作 ai 任务管家相关软件.md",
-    "Templates/Homepage/回 Sly 消息.md",
-    "Dairies/2026-07-08.md",
-    "数据结构/计算器.md",
-    "Templates/Homepage/和家长同步家教状况.md",
-    "Leetcode/227.基本计算器 II.md",
-    "Templates/Leetcode_no_anki_problem_template.md",
     "项目/Agent开发/Hello-agents",
-    "项目/Agent开发/CppAI框架/框架梳理.md",
     "Tasks",
-    "Dairies/2026-07-07.md",
-    "Templates/Homepage/挂机脚本.md",
-    "Templates/Homepage/面试题系列.md",
-    "Templates/Homepage/复习面试题.md",
     "Leetcode/2375.到达角落需要移除障碍物的最小数目.cpp",
     "Leetcode/images/2375_example1drawio.png",
     "Leetcode/images/2375_example1drawio-1.png",
