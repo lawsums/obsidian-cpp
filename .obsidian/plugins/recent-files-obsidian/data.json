@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "试课安排",
+      "path": "Templates/试课安排.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
+      "basename": "Inbox",
+      "path": "Tasks/Inbox.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -67,14 +79,6 @@
     {
       "basename": "寻找diffusion中用来图像修复的论文",
       "path": "Dairies/寻找diffusion中用来图像修复的论文.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
-    },
-    {
-      "basename": "Inbox",
-      "path": "Tasks/Inbox.md"
     },
     {
       "basename": "第四章智能体经典范式构建",
@@ -195,10 +199,6 @@
     {
       "basename": "PRETTY_FUNCTION",
       "path": "语言特性/trick/PRETTY_FUNCTION.md"
-    },
-    {
-      "basename": "pb_ds库",
-      "path": "语言特性/trick/pb_ds库.md"
     }
   ],
   "omittedPaths": [],
