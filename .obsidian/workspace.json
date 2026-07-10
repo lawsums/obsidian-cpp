@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -268,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/试课安排.md",
+                "file": "Tasks/Inbox.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "试课安排 的大纲"
+              "title": "Inbox 的大纲"
             }
           },
           {
@@ -402,12 +402,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c2d6cec7f5138cc8",
+  "active": "dbc194b76dc809de",
   "lastOpenFiles": [
-    "Templates/Tasks.md",
-    "Templates/试课安排.md",
-    "Tasks/Inbox.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/试课安排.md",
+    "Templates/Tasks.md",
+    "Tasks/Inbox.md",
     "项目/Agent开发/Hello-agents/第六章框架开发实践.md",
     "Templates/Tasks",
     "项目/Agent开发/Hello-agents/框架梳理.md",

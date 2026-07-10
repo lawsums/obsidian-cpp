@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "试课安排",
-      "path": "Templates/试课安排.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
-    },
-    {
       "basename": "Inbox",
       "path": "Tasks/Inbox.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "试课安排",
+      "path": "Templates/试课安排.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
     },
     {
       "basename": "第六章框架开发实践",
