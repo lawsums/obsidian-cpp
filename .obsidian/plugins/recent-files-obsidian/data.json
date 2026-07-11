@@ -1,24 +1,36 @@
 {
   "recentFiles": [
     {
+      "basename": "一升二备课",
+      "path": "Templates/Homepage/一升二备课.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "软件开发",
-      "path": "Software/软件开发.md"
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
     },
     {
       "basename": "Inbox",
       "path": "Tasks/Inbox.md"
     },
     {
-      "basename": "试课安排",
-      "path": "Templates/试课安排.md"
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
+      "basename": "软件开发",
+      "path": "Software/软件开发.md"
+    },
+    {
+      "basename": "试课安排",
+      "path": "Templates/试课安排.md"
     },
     {
       "basename": "第六章框架开发实践",
@@ -27,10 +39,6 @@
     {
       "basename": "框架梳理",
       "path": "项目/Agent开发/Hello-agents/框架梳理.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "框架梳理",
@@ -153,10 +161,6 @@
       "path": "Templates/Homepage/007_书籍.md"
     },
     {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
-    },
-    {
       "basename": "AddTask",
       "path": "Templates/Homepage/AddTask.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "定时器",
       "path": "操作系统/定时器.md"
-    },
-    {
-      "basename": "PRETTY_FUNCTION",
-      "path": "语言特性/trick/PRETTY_FUNCTION.md"
     }
   ],
   "omittedPaths": [],
