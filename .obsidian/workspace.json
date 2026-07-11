@@ -79,8 +79,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/Agent开发/Hello-agents/第七章构建你的Agent框架.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第七章构建你的Agent框架 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -353,12 +352,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "f10e4e34fe454cf6",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Templates/Tasks.md",
-    "Templates/Homepage/制作 ai 任务管家相关软件.md",
     "项目/Agent开发/Hello-agents/第七章构建你的Agent框架.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/制作 ai 任务管家相关软件.md",
     "项目/Agent开发/Hello-agents/框架梳理.md",
     "项目/Agent开发/Hello-agents/第六章框架开发实践.md",
     "Templates/Homepage/一升二备课.md",
