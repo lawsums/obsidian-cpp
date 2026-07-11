@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "第七章构建你的Agent框架",
+      "path": "项目/Agent开发/Hello-agents/第七章构建你的Agent框架.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/Agent开发/Hello-agents/框架梳理.md"
+    },
+    {
       "basename": "一升二备课",
       "path": "Templates/Homepage/一升二备课.md"
     },
@@ -35,10 +43,6 @@
     {
       "basename": "第六章框架开发实践",
       "path": "项目/Agent开发/Hello-agents/第六章框架开发实践.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/Agent开发/Hello-agents/框架梳理.md"
     },
     {
       "basename": "框架梳理",
@@ -195,10 +199,6 @@
     {
       "basename": "看家教相关工作",
       "path": "Templates/Homepage/看家教相关工作.md"
-    },
-    {
-      "basename": "定时器",
-      "path": "操作系统/定时器.md"
     }
   ],
   "omittedPaths": [],
