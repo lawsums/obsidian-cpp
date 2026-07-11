@@ -1,5 +1,6 @@
 # 1 Inbox
-- [ ] [学习 hello agent 项目](https://hello-agents.datawhale.cc/#/./README) #task ⏫ 🔁 every day 🛫 2026-07-11 ⏳ 2026-07-11
+- [ ] [学习 hello agent 项目](https://hello-agents.datawhale.cc/#/./README) #task ⏫ 🔁 every day 🛫 2026-07-12 ⏳ 2026-07-12
+- [x] [学习 hello agent 项目](https://hello-agents.datawhale.cc/#/./README) #task ⏫ 🔁 every day 🛫 2026-07-11 ⏳ 2026-07-11 ✅ 2026-07-11
 - [x] [学习 hello agent 项目](https://hello-agents.datawhale.cc/#/./README) #task ⏫ 🔁 every day 🛫 2026-07-10 ⏳ 2026-07-10 ✅ 2026-07-10
 - [x] [学习 hello agent 项目](https://hello-agents.datawhale.cc/#/./README) #task ⏫ 🔁 every day 🛫 2026-07-09 ⏳ 2026-07-09 ✅ 2026-07-09
 - [x] 学习 hello agent 项目 #task 🔼 🔁 every day 🛫 2026-07-08 ⏳ 2026-07-08 ✅ 2026-07-08
@@ -13,4 +14,4 @@
 - [x] 回zmm消息 #task 🔼 ➕ 2026-07-08 ⏳ 2026-07-08 ✅ 2026-07-09 ^task-20260708-f2de5c54
 - [x] [[投下一单]] #task 🔼 ➕ 2026-07-09 ⏳ 2026-07-09 ✅ 2026-07-09 ^task-20260709-d18395fd
 - [ ] 制作AI短片《你做不到》 #ai #video 🔼 ⏳ 2026-07-10 ➕ 2026-07-09 ^task-20260709-680e604d
-- [ ] [[一升二备课]] #ai #video 🔼 ➕ 2026-07-09 ⏳ 2026-07-11 ^task-20260709-680e604d
+- [ ] [[一升二备课]] #ai #video 🔼 ➕ 2026-07-09 ⏳ 2026-07-12 ^task-20260709-680e604d

@@ -1,5 +1,5 @@
 {
-  "inboxPath": "Templates/Tasks",
+  "inboxPath": "Templates/Tasks.md",
   "defaultTag": "#task",
   "aiProvider": "alibaba",
   "aiEndpoint": "https://api.openai.com/v1/chat/completions",

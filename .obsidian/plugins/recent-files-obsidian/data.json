@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "制作 ai 任务管家相关软件",
+      "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
       "basename": "第七章构建你的Agent框架",
       "path": "项目/Agent开发/Hello-agents/第七章构建你的Agent框架.md"
     },
@@ -13,16 +25,8 @@
       "path": "Templates/Homepage/一升二备课.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "Inbox",
@@ -115,10 +119,6 @@
     {
       "basename": "代码网站爬虫",
       "path": "Software/代码网站爬虫.md"
-    },
-    {
-      "basename": "制作 ai 任务管家相关软件",
-      "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
     },
     {
       "basename": "回 Sly 消息",
