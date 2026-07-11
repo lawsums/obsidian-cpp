@@ -32,78 +32,6 @@
             }
           },
           {
-            "id": "96c7a49c4f98a076",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/制作 ai 任务管家相关软件.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "制作 ai 任务管家相关软件"
-            }
-          },
-          {
-            "id": "261ccc6bd08d20cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Tasks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tasks"
-            }
-          },
-          {
-            "id": "917ddbeeb52f3b2d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/一升二备课.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "一升二备课"
-            }
-          },
-          {
             "id": "f10e4e34fe454cf6",
             "type": "leaf",
             "state": {
@@ -291,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/制作 ai 任务管家相关软件.md",
+                "file": "项目/Agent开发/Hello-agents/第七章构建你的Agent框架.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "制作 ai 任务管家相关软件 的大纲"
+              "title": "第七章构建你的Agent框架 的大纲"
             }
           },
           {
@@ -425,11 +353,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "96c7a49c4f98a076",
+  "active": "f10e4e34fe454cf6",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/制作 ai 任务管家相关软件.md",
     "Templates/Tasks.md",
+    "Templates/Homepage/制作 ai 任务管家相关软件.md",
     "项目/Agent开发/Hello-agents/第七章构建你的Agent框架.md",
     "项目/Agent开发/Hello-agents/框架梳理.md",
     "项目/Agent开发/Hello-agents/第六章框架开发实践.md",
