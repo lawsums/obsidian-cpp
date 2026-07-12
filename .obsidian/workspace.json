@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "f10e4e34fe454cf6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/Agent开发/Hello-agents/第七章构建你的Agent框架.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "第七章构建你的Agent框架"
-            }
-          },
-          {
             "id": "d56db15e4c6ea154",
             "type": "leaf",
             "state": {
@@ -354,6 +330,7 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-07-12.md",
     "Templates/Tasks.md",
     "项目/Agent开发/Hello-agents/第七章构建你的Agent框架.md",
     "Templates/Homepage/Homepage.md",
@@ -380,7 +357,6 @@
     "项目/第一轮面试/海同网盘/001_海同网盘.md",
     "项目/第一轮面试/海同网盘/登录、退出.md",
     "论文/diffusion除图像修复相关论文.md",
-    "Dairies/寻找diffusion中用来图像修复的论文.md",
     "项目/Agent开发/Hello-agents",
     "Tasks",
     "Leetcode/2375.到达角落需要移除障碍物的最小数目.cpp",
