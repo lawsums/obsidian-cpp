@@ -17,15 +17,15 @@
 - [x] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-07-07 ✅ 2026-07-07
 - [x] [[和家长同步家教状况]] #task ⏫ 🔁 every day ➕ 2026-07-06 ⏳ 2026-07-06 ✅ 2026-07-06 ^task-20260706-a812f0f0
 - [x] 打印家教作业 #task ⏫ ➕ 2026-07-06 ⏳ 2026-07-06 ✅ 2026-07-06 ^task-20260706-7682f7de
-- [ ] 看C++面试速成18：计算机网络21-40 #study #c++ #network 🔼 ➕ 2026-07-06 ⏳ 2026-07-11 ^task-20260706-7b4b08a9
+- [ ] 看C++面试速成18：计算机网络21-40 #study #c++ #network 🔼 ➕ 2026-07-06 ⏳ 2026-07-13 ^task-20260706-7b4b08a9
 - [x] 冲话费 #task 🔼 ➕ 2026-07-06 ⏳ 2026-07-07 ✅ 2026-07-07 ^task-20260706-13441dfd
 - [x] 和小姐约练车时间 #task 🔼 ➕ 2026-07-06 ⏳ 2026-07-08 ✅ 2026-07-08 ^task-20260706-817a3287
 - [x] 研究agent.md实现Obsidian双链跳转与文档自动落地 #obsidian #agent 🔼 ➕ 2026-07-06 ⏳ 2026-07-08 ✅ 2026-07-09 ^task-20260706-9f664e6
 - [ ] 生成Claude相关的教程 #ai 🔼 ➕ 2026-07-06 ⏳ 2026-07-12 ^task-20260706-975e56ed
 - [x] 打印作业 #task ⏫ ➕ 2026-07-07 ⏳ 2026-07-07 ✅ 2026-07-07 ^task-20260707-d648621d
 - [x] [[试课安排]] #ai 🔼 ➕ 2026-07-10 ⏳ 2026-07-10 ✅ 2026-07-10 ^task-20260706-975e56ed
-- [ ] 了解工业软件微信 #task 🔼 ⏳ 2026-07-12 ➕ 2026-07-11 ^task-20260711-c37a8a79
+- [ ] 了解工业软件微信 #task 🔼 ➕ 2026-07-11 ⏳ 2026-07-13 ^task-20260711-c37a8a79
 - [ ] 调整opencode路径并优化运行速度 #opencode 🔼 ⏳ 2026-07-12 ➕ 2026-07-11 ^task-20260711-4e578ffc
-- [ ] 观看[工业软件开发最全学习路线，从小白学到年薪30W_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV16HWszmEmA/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) 与 [C++工业软件行业学习路线、推荐公司、薪资水平、工作内容科普 程序员老秦_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1B64y1V7R4/?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2589621-4d422.1783779479803.155&vd_source=cf6228c0b4a5c283905e22fd11934994) #learning #programming 🔼 ⏳ 2026-07-12 ➕ 2026-07-11 ^task-20260711-133f3abd
+- [ ] 观看[工业软件开发最全学习路线，从小白学到年薪30W_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV16HWszmEmA/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) 与 [C++工业软件行业学习路线、推荐公司、薪资水平、工作内容科普 程序员老秦_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1B64y1V7R4/?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2589621-4d422.1783779479803.155&vd_source=cf6228c0b4a5c283905e22fd11934994) #learning #programming 🔼 ➕ 2026-07-11 ⏳ 2026-07-13 ^task-20260711-133f3abd
 - [ ] 关空调 #task 🔼 ⏳ 2026-07-12 ➕ 2026-07-12 ^task-20260712-73a70013
 - [ ] 在嵌入式吧发帖询问Linux驱动学习路径 #linux #driver #embedded 🔼 ⏳ 2026-07-13 ⏰ 2026-07-13 00:00 ➕ 2026-07-12 ^task-20260712-da0a44d8
