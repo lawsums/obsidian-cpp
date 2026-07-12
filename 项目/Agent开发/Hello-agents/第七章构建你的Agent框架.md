@@ -10,7 +10,8 @@
     
     > **提示**：这是一道实践题，建议实际操作
     
-    - 参考7.2.1节的示例，尝试为 `HelloAgentsLLM` 添加一个新模型供应商的支持（如`Gemini`、`Anthropic`、`Kim`）。要求通过继承方式实现，并能够自动检测该提供商的环境变量。
+    - 参考7.2.1节的示例，尝试为 `HelloAgentsLLM` 添加一个新模型供应商的支持（如 `Gemini`、`Anthropic`、`Kim`）。要求通过继承方式实现，并能够自动检测该提供商的环境变量。
+		实现了，不过相对简单
     - 在7.2.3节中介绍了自动检测机制的三个优先级。请分析：如果同时设置了 `OPENAI_API_KEY` 和 `LLM_BASE_URL="http://localhost:11434/v1"`，框架最后会选择哪个提供商？这种优先级设计是否合理？
 		会选择 OpenAI，因为检测 OpenAI API Key 的优先级比检测 Base URL 里有没有 11434 这个词的优先级更高。这种优先级设计不一定合理，因为 OpenAI Key 可能是用户写的 open api OpenAI 这个格式的一种 AI。同理，Anthropic API Key 也是这个道理，就是可能会产生误解。
     - 除了本章介绍的 `VLLM` 和 `Ollama`，还有 `SGLang` 等其他本地模型部署方案。请先搜索并了解 `SGLang` 的基本信息和特点，然后对比 `VLLM`、`SGLang` 和 `Ollama` 这三者在易用性、资源占用、推理速度、推理精度等方面的优劣。
