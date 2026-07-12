@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "一升二备课",
+      "path": "Templates/Homepage/一升二备课.md"
+    },
+    {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "框架梳理",
       "path": "项目/Agent开发/Hello-agents/框架梳理.md"
-    },
-    {
-      "basename": "一升二备课",
-      "path": "Templates/Homepage/一升二备课.md"
     },
     {
       "basename": "学习C++",
