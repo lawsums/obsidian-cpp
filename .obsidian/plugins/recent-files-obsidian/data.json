@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "一升二备课",
+      "path": "Templates/Homepage/一升二备课.md"
+    },
+    {
       "basename": "在嵌入式吧发帖询问Linux驱动学习路径",
       "path": "Templates/Homepage/在嵌入式吧发帖询问Linux驱动学习路径.md"
     },
@@ -11,14 +19,6 @@
     {
       "basename": "用CLion写贪吃蛇Qt框架",
       "path": "Templates/用CLion写贪吃蛇Qt框架.md"
-    },
-    {
-      "basename": "一升二备课",
-      "path": "Templates/Homepage/一升二备课.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "查找嵌入式岗位需求",
