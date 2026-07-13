@@ -79,8 +79,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/查找嵌入式岗位需求.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "查找嵌入式岗位需求 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -353,11 +352,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "4a3e293baaee1776",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/查找嵌入式岗位需求.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/和家长同步家教状况.md",
-    "Templates/Homepage/查找嵌入式岗位需求.md",
     "Templates/Homepage/一升二备课.md",
     "Templates/Homepage/在嵌入式吧发帖询问Linux驱动学习路径.md",
     "Templates/Tasks.md",
