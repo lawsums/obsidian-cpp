@@ -5,20 +5,24 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "查找嵌入式岗位需求",
-      "path": "Templates/Homepage/查找嵌入式岗位需求.md"
+      "basename": "一升二备课",
+      "path": "Templates/Homepage/一升二备课.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
+      "basename": "用CLion写贪吃蛇Qt框架",
+      "path": "Templates/用CLion写贪吃蛇Qt框架.md"
+    },
+    {
+      "basename": "查找嵌入式岗位需求",
+      "path": "Templates/Homepage/查找嵌入式岗位需求.md"
     },
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
     {
-      "basename": "一升二备课",
-      "path": "Templates/Homepage/一升二备课.md"
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
     },
     {
       "basename": "第七章构建你的Agent框架",
@@ -195,10 +199,6 @@
     {
       "basename": "2026-07-03",
       "path": "Dairies/2026-07-03.md"
-    },
-    {
-      "basename": "把计时器加入面试题",
-      "path": "Templates/Homepage/把计时器加入面试题.md"
     }
   ],
   "omittedPaths": [],
