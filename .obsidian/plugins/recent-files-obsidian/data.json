@@ -5,8 +5,20 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "查找嵌入式岗位需求",
       "path": "Templates/Homepage/查找嵌入式岗位需求.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
+    },
+    {
+      "basename": "第七章构建你的Agent框架",
+      "path": "项目/Agent开发/Hello-agents/第七章构建你的Agent框架.md"
     },
     {
       "basename": "和家长同步家教状况",
@@ -21,20 +33,12 @@
       "path": "Templates/Homepage/在嵌入式吧发帖询问Linux驱动学习路径.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
       "basename": "用CLion写贪吃蛇Qt框架",
       "path": "Templates/用CLion写贪吃蛇Qt框架.md"
     },
     {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
-    },
-    {
-      "basename": "第七章构建你的Agent框架",
-      "path": "项目/Agent开发/Hello-agents/第七章构建你的Agent框架.md"
     },
     {
       "basename": "用ai产出创意内容",
@@ -195,10 +199,6 @@
     {
       "basename": "试课后进行反馈",
       "path": "Templates/Homepage/试课后进行反馈.md"
-    },
-    {
-      "basename": "003_不定期任务",
-      "path": "Templates/Homepage/003_不定期任务.md"
     }
   ],
   "omittedPaths": [],
