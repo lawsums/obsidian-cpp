@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "在嵌入式吧发帖询问Linux驱动学习路径",
+      "path": "Templates/Homepage/在嵌入式吧发帖询问Linux驱动学习路径.md"
     },
     {
-      "basename": "一升二备课",
-      "path": "Templates/Homepage/一升二备课.md"
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "用CLion写贪吃蛇Qt框架",
       "path": "Templates/用CLion写贪吃蛇Qt框架.md"
     },
     {
-      "basename": "查找嵌入式岗位需求",
-      "path": "Templates/Homepage/查找嵌入式岗位需求.md"
+      "basename": "一升二备课",
+      "path": "Templates/Homepage/一升二备课.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "查找嵌入式岗位需求",
+      "path": "Templates/Homepage/查找嵌入式岗位需求.md"
     },
     {
       "basename": "Tasks",
@@ -195,10 +199,6 @@
     {
       "basename": "003_不定期任务",
       "path": "Templates/Homepage/003_不定期任务.md"
-    },
-    {
-      "basename": "2026-07-03",
-      "path": "Dairies/2026-07-03.md"
     }
   ],
   "omittedPaths": [],
