@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "查找嵌入式岗位需求",
+      "path": "Templates/Homepage/查找嵌入式岗位需求.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "把计时器加入面试题",
       "path": "Templates/Homepage/把计时器加入面试题.md"
-    },
-    {
-      "basename": "看家教相关工作",
-      "path": "Templates/Homepage/看家教相关工作.md"
     }
   ],
   "omittedPaths": [],
