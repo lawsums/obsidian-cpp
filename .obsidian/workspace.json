@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "b5bd0a911b90e9e0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/软件版的onetab.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "软件版的onetab"
-            }
-          },
-          {
             "id": "1f6ed5339efab707",
             "type": "leaf",
             "state": {
@@ -101,30 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "框架梳理"
-            }
-          },
-          {
-            "id": "d56db15e4c6ea154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习C++"
             }
           }
         ]
@@ -402,13 +354,14 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
+    "Templates/Homepage/算法面试好题.md",
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/查找嵌入式岗位需求.md",
+    "Templates/Homepage/Homepage.md",
     "Software/软件版的onetab.md",
     "Software/软件开发.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/询问小孩的数学书到了没有.md",
-    "Templates/Homepage/查找嵌入式岗位需求.md",
-    "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/一升二备课.md",
     "Templates/Homepage/模型量化.md",
     "Attachments/Pasted image 20260714171517.png",
@@ -433,7 +386,6 @@
     "Templates/试课安排.md",
     "Templates/Tasks",
     "Dairies/2026-07-10.md",
-    "项目/第二轮面试/异步日志/框架梳理.md",
     "项目/Agent开发/Hello-agents",
     "Tasks",
     "Leetcode/2375.到达角落需要移除障碍物的最小数目.cpp",
