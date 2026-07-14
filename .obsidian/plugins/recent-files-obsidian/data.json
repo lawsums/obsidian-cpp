@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "25.K 个一组翻转链表",
+      "path": "Leetcode/25.K 个一组翻转链表.md"
+    },
+    {
+      "basename": "25.K 个一组翻转链表",
+      "path": "Leetcode/25.K 个一组翻转链表.cpp"
+    },
+    {
       "basename": "框架梳理",
       "path": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
     },
     {
       "basename": "3",
       "path": "Leetcode/3.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "算法面试好题",
@@ -191,14 +199,6 @@
     {
       "basename": "复习面试题",
       "path": "Templates/Homepage/复习面试题.md"
-    },
-    {
-      "basename": "和家长进行沟通",
-      "path": "Templates/Homepage/和家长进行沟通.md"
-    },
-    {
-      "basename": "007_书籍",
-      "path": "Templates/Homepage/007_书籍.md"
     }
   ],
   "omittedPaths": [],
