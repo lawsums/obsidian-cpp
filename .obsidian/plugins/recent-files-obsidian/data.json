@@ -9,12 +9,20 @@
       "path": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
     },
     {
-      "basename": "在嵌入式吧发帖询问Linux驱动学习路径",
-      "path": "Templates/Homepage/在嵌入式吧发帖询问Linux驱动学习路径.md"
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
+      "basename": "用CLion写贪吃蛇Qt框架",
+      "path": "Templates/用CLion写贪吃蛇Qt框架.md"
     },
     {
       "basename": "一升二备课",
       "path": "Templates/Homepage/一升二备课.md"
+    },
+    {
+      "basename": "在嵌入式吧发帖询问Linux驱动学习路径",
+      "path": "Templates/Homepage/在嵌入式吧发帖询问Linux驱动学习路径.md"
     },
     {
       "basename": "软件版的onetab",
@@ -39,14 +47,6 @@
     {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
-      "basename": "用CLion写贪吃蛇Qt框架",
-      "path": "Templates/用CLion写贪吃蛇Qt框架.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "用ai产出创意内容",

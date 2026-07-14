@@ -202,7 +202,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284
+    "width": 284,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -363,7 +364,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -403,10 +405,12 @@
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
-    "Attachments/Pasted image 20260714114130.png",
+    "Templates/Tasks.md",
+    "Templates/用CLion写贪吃蛇Qt框架.md",
     "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/在嵌入式吧发帖询问Linux驱动学习路径.md",
     "Templates/Homepage/一升二备课.md",
+    "Attachments/Pasted image 20260714114130.png",
+    "Templates/Homepage/在嵌入式吧发帖询问Linux驱动学习路径.md",
     "Software/软件开发.md",
     "Software/软件版的onetab.md",
     "Dairies/2026-07-14.md",
@@ -416,8 +420,6 @@
     "项目/嵌入式/FreeRTOS快速入门",
     "项目/嵌入式",
     "Templates/Homepage/和家长同步家教状况.md",
-    "Templates/Tasks.md",
-    "Templates/用CLion写贪吃蛇Qt框架.md",
     "Tasks/Inbox.md",
     "Dairies/2026-07-13.md",
     "Templates/Homepage/用ai产出创意内容.md",
