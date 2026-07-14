@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "模型量化",
-      "path": "Templates/Homepage/模型量化.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "一升二备课",
+      "path": "Templates/Homepage/一升二备课.md"
+    },
+    {
+      "basename": "查找嵌入式岗位需求",
+      "path": "Templates/Homepage/查找嵌入式岗位需求.md"
+    },
+    {
       "basename": "框架梳理",
       "path": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
+    },
+    {
+      "basename": "模型量化",
+      "path": "Templates/Homepage/模型量化.md"
     },
     {
       "basename": "Tasks",
@@ -19,10 +31,6 @@
     {
       "basename": "用CLion写贪吃蛇Qt框架",
       "path": "Templates/用CLion写贪吃蛇Qt框架.md"
-    },
-    {
-      "basename": "一升二备课",
-      "path": "Templates/Homepage/一升二备课.md"
     },
     {
       "basename": "在嵌入式吧发帖询问Linux驱动学习路径",
@@ -35,14 +43,6 @@
     {
       "basename": "软件开发",
       "path": "Software/软件开发.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "查找嵌入式岗位需求",
-      "path": "Templates/Homepage/查找嵌入式岗位需求.md"
     },
     {
       "basename": "第七章构建你的Agent框架",

@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "ac4799ffb53c76df",
+            "id": "1f6ed5339efab707",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/模型量化.md",
+                "file": "Templates/Homepage/查找嵌入式岗位需求.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "模型量化"
+              "title": "查找嵌入式岗位需求"
             }
           },
           {
@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "a225e33441ba4500",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/一升二备课.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "一升二备课"
-            }
-          },
-          {
             "id": "d56db15e4c6ea154",
             "type": "leaf",
             "state": {
@@ -127,8 +103,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,13 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/模型量化.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "模型量化 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -401,23 +376,24 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "ac4799ffb53c76df",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/一升二备课.md",
+    "Templates/Homepage/查找嵌入式岗位需求.md",
     "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/模型量化.md",
     "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
+    "Templates/Homepage/模型量化.md",
+    "Attachments/Pasted image 20260714171517.png",
     "Attachments/Pasted image 20260714163957.png",
     "Templates/Tasks.md",
     "Templates/用CLion写贪吃蛇Qt框架.md",
-    "Templates/Homepage/一升二备课.md",
     "Attachments/Pasted image 20260714114130.png",
     "Templates/Homepage/在嵌入式吧发帖询问Linux驱动学习路径.md",
     "Software/软件开发.md",
     "Software/软件版的onetab.md",
     "Dairies/2026-07-14.md",
-    "Templates/Homepage/学习C++.md",
     "项目/Agent开发/Hello-agents/第七章构建你的Agent框架.md",
-    "Templates/Homepage/查找嵌入式岗位需求.md",
     "项目/嵌入式/FreeRTOS快速入门",
     "项目/嵌入式",
     "Templates/Homepage/和家长同步家教状况.md",
@@ -433,7 +409,6 @@
     "Templates/Tasks",
     "Dairies/2026-07-10.md",
     "项目/第二轮面试/异步日志/框架梳理.md",
-    "项目/第一轮面试/海同网盘/网盘功能设计.md",
     "项目/Agent开发/Hello-agents",
     "Tasks",
     "Leetcode/2375.到达角落需要移除障碍物的最小数目.cpp",
@@ -449,7 +424,6 @@
     "Attachments/Pasted image 20260601171614.png",
     "Attachments/Pasted image 20260601171631.png",
     "Leetcode/images/1466_meta-chart.jpeg",
-    "Attachments/Pasted image 20260523010041.png",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
