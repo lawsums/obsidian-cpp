@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "询问小孩的数学书到了没有",
+      "path": "Templates/Homepage/询问小孩的数学书到了没有.md"
+    },
+    {
+      "basename": "软件开发",
+      "path": "Software/软件开发.md"
+    },
+    {
+      "basename": "查找嵌入式岗位需求",
+      "path": "Templates/Homepage/查找嵌入式岗位需求.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -9,20 +21,12 @@
       "path": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
     },
     {
-      "basename": "软件开发",
-      "path": "Software/软件开发.md"
-    },
-    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "一升二备课",
       "path": "Templates/Homepage/一升二备课.md"
-    },
-    {
-      "basename": "查找嵌入式岗位需求",
-      "path": "Templates/Homepage/查找嵌入式岗位需求.md"
     },
     {
       "basename": "模型量化",
@@ -195,10 +199,6 @@
     {
       "basename": "Art of programming",
       "path": "Templates/Homepage/Art of programming.md"
-    },
-    {
-      "basename": "算法面试好题",
-      "path": "Templates/Homepage/算法面试好题.md"
     }
   ],
   "omittedPaths": [],
