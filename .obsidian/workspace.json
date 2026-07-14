@@ -103,7 +103,8 @@
               "title": "学习C++"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -242,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "框架梳理 的大纲"
             }
           },
           {
@@ -376,12 +377,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "39c4c4f079acb490",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/一升二备课.md",
     "Templates/Homepage/查找嵌入式岗位需求.md",
-    "Templates/Homepage/Homepage.md",
     "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
     "Templates/Homepage/模型量化.md",
     "Attachments/Pasted image 20260714171517.png",
