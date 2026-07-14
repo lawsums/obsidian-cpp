@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "软件开发",
-      "path": "Software/软件开发.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "框架梳理",
       "path": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
+    },
+    {
+      "basename": "软件开发",
+      "path": "Software/软件开发.md"
     },
     {
       "basename": "学习C++",

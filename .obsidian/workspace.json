@@ -127,8 +127,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/软件开发.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "软件开发 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -401,10 +400,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b5bd0a911b90e9e0",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
+    "Software/软件开发.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/一升二备课.md",
     "Templates/Homepage/查找嵌入式岗位需求.md",
@@ -415,7 +415,6 @@
     "Templates/用CLion写贪吃蛇Qt框架.md",
     "Attachments/Pasted image 20260714114130.png",
     "Templates/Homepage/在嵌入式吧发帖询问Linux驱动学习路径.md",
-    "Software/软件开发.md",
     "Software/软件版的onetab.md",
     "Dairies/2026-07-14.md",
     "项目/Agent开发/Hello-agents/第七章构建你的Agent框架.md",
