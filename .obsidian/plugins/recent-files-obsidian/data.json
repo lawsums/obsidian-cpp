@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "框架梳理",
       "path": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
+    },
+    {
+      "basename": "3",
+      "path": "Leetcode/3.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "算法面试好题",
@@ -195,10 +199,6 @@
     {
       "basename": "007_书籍",
       "path": "Templates/Homepage/007_书籍.md"
-    },
-    {
-      "basename": "AddTask",
-      "path": "Templates/Homepage/AddTask.md"
     }
   ],
   "omittedPaths": [],

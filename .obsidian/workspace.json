@@ -79,7 +79,8 @@
               "title": "框架梳理"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -218,13 +219,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "框架梳理 的大纲"
             }
           },
           {
@@ -352,13 +353,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "39c4c4f079acb490",
   "lastOpenFiles": [
+    "Leetcode/3.md",
     "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/算法面试好题.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/查找嵌入式岗位需求.md",
-    "Templates/Homepage/Homepage.md",
     "Software/软件版的onetab.md",
     "Software/软件开发.md",
     "Templates/Homepage/询问小孩的数学书到了没有.md",
@@ -385,7 +387,6 @@
     "Dairies/2026-07-11.md",
     "Templates/试课安排.md",
     "Templates/Tasks",
-    "Dairies/2026-07-10.md",
     "项目/Agent开发/Hello-agents",
     "Tasks",
     "Leetcode/2375.到达角落需要移除障碍物的最小数目.cpp",
