@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "框架梳理",
+      "path": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
+    },
+    {
       "basename": "在嵌入式吧发帖询问Linux驱动学习路径",
       "path": "Templates/Homepage/在嵌入式吧发帖询问Linux驱动学习路径.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "查找嵌入式岗位需求",
       "path": "Templates/Homepage/查找嵌入式岗位需求.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
     },
     {
       "basename": "第七章构建你的Agent框架",

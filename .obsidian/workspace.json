@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "39c4c4f079acb490",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "框架梳理"
+            }
+          },
+          {
             "id": "10340ba27b30d670",
             "type": "leaf",
             "state": {
@@ -378,14 +402,15 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/在嵌入式吧发帖询问Linux驱动学习路径.md",
+    "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
+    "Attachments/Pasted image 20260714114130.png",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/在嵌入式吧发帖询问Linux驱动学习路径.md",
     "Templates/Homepage/一升二备课.md",
     "Software/软件开发.md",
     "Software/软件版的onetab.md",
     "Dairies/2026-07-14.md",
     "Templates/Homepage/学习C++.md",
-    "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
     "项目/Agent开发/Hello-agents/第七章构建你的Agent框架.md",
     "Templates/Homepage/查找嵌入式岗位需求.md",
     "项目/嵌入式/FreeRTOS快速入门",
@@ -406,7 +431,6 @@
     "Dairies/2026-07-10.md",
     "项目/第二轮面试/异步日志/框架梳理.md",
     "项目/第一轮面试/海同网盘/网盘功能设计.md",
-    "项目/第一轮面试/海同网盘/刷新文件夹.md",
     "项目/Agent开发/Hello-agents",
     "Tasks",
     "Leetcode/2375.到达角落需要移除障碍物的最小数目.cpp",
@@ -424,7 +448,6 @@
     "Leetcode/images/1466_meta-chart.jpeg",
     "Attachments/Pasted image 20260523010041.png",
     "Leetcode/images/4102_g5.png",
-    "Leetcode/images/4102_g3_f.png",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
