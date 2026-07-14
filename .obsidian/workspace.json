@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "b5bd0a911b90e9e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/软件开发.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "软件开发"
+            }
+          },
+          {
             "id": "1f6ed5339efab707",
             "type": "leaf",
             "state": {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -243,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
+                "file": "Software/软件开发.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "框架梳理 的大纲"
+              "title": "软件开发 的大纲"
             }
           },
           {
@@ -377,13 +401,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "39c4c4f079acb490",
+  "active": "b5bd0a911b90e9e0",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
+    "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/一升二备课.md",
     "Templates/Homepage/查找嵌入式岗位需求.md",
-    "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
     "Templates/Homepage/模型量化.md",
     "Attachments/Pasted image 20260714171517.png",
     "Attachments/Pasted image 20260714163957.png",
