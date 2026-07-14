@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "10340ba27b30d670",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/在嵌入式吧发帖询问Linux驱动学习路径.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "在嵌入式吧发帖询问Linux驱动学习路径"
-            }
-          },
-          {
             "id": "a225e33441ba4500",
             "type": "leaf",
             "state": {
@@ -127,7 +103,8 @@
               "title": "学习C++"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,13 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "框架梳理 的大纲"
             }
           },
           {
@@ -402,12 +379,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "39c4c4f079acb490",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
     "Templates/Tasks.md",
     "Templates/用CLion写贪吃蛇Qt框架.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/一升二备课.md",
     "Attachments/Pasted image 20260714114130.png",
     "Templates/Homepage/在嵌入式吧发帖询问Linux驱动学习路径.md",
