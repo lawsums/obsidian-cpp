@@ -26,6 +26,7 @@
   "enableReminderNotices": true,
   "notifiedReminders": {
     "Tasks/Inbox.md:3:2026-07-01T15:00:^task-20260630-f7549b7a": "2026-07-01T11:58:40.748Z",
-    "Templates/Tasks.md:31:2026-07-13T00:00:^task-20260712-da0a44d8": "2026-07-13T01:05:40.705Z"
+    "Templates/Tasks.md:31:2026-07-13T00:00:^task-20260712-da0a44d8": "2026-07-13T01:05:40.705Z",
+    "Templates/Tasks.md:43:2026-07-14T09:00:^task-20260713-b8f688a8": "2026-07-14T01:51:03.471Z"
   }
 }
