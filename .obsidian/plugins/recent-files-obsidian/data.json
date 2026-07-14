@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "询问小孩的数学书到了没有",
-      "path": "Templates/Homepage/询问小孩的数学书到了没有.md"
+      "basename": "软件版的onetab",
+      "path": "Software/软件版的onetab.md"
     },
     {
       "basename": "软件开发",
       "path": "Software/软件开发.md"
     },
     {
-      "basename": "查找嵌入式岗位需求",
-      "path": "Templates/Homepage/查找嵌入式岗位需求.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "询问小孩的数学书到了没有",
+      "path": "Templates/Homepage/询问小孩的数学书到了没有.md"
+    },
+    {
+      "basename": "查找嵌入式岗位需求",
+      "path": "Templates/Homepage/查找嵌入式岗位需求.md"
     },
     {
       "basename": "框架梳理",
@@ -43,10 +47,6 @@
     {
       "basename": "在嵌入式吧发帖询问Linux驱动学习路径",
       "path": "Templates/Homepage/在嵌入式吧发帖询问Linux驱动学习路径.md"
-    },
-    {
-      "basename": "软件版的onetab",
-      "path": "Software/软件版的onetab.md"
     },
     {
       "basename": "第七章构建你的Agent框架",
