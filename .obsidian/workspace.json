@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "ac4799ffb53c76df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/模型量化.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "模型量化"
+            }
+          },
+          {
             "id": "39c4c4f079acb490",
             "type": "leaf",
             "state": {
@@ -179,8 +203,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 284,
-    "collapsed": true
+    "width": 284
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -244,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
+                "file": "Templates/Homepage/模型量化.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "框架梳理 的大纲"
+              "title": "模型量化 的大纲"
             }
           },
           {
@@ -341,8 +364,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -379,10 +401,12 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "39c4c4f079acb490",
+  "active": "ac4799ffb53c76df",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/模型量化.md",
     "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
+    "Attachments/Pasted image 20260714163957.png",
     "Templates/Tasks.md",
     "Templates/用CLion写贪吃蛇Qt框架.md",
     "Templates/Homepage/一升二备课.md",
@@ -426,7 +450,6 @@
     "Attachments/Pasted image 20260601171631.png",
     "Leetcode/images/1466_meta-chart.jpeg",
     "Attachments/Pasted image 20260523010041.png",
-    "Leetcode/images/4102_g5.png",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]
