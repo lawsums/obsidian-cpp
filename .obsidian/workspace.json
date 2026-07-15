@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "a8ccc129b660fc36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
             "id": "1ae97b7fae3a0e37",
             "type": "leaf",
             "state": {
@@ -402,14 +426,14 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/和家长同步家教状况.md",
+    "Templates/Tasks.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/大厂岗位需求.md",
     "Templates/Homepage/查找嵌入式岗位需求.md",
     "Software/软件版的onetab.md",
     "Dairies/2026-07-15.md",
-    "Templates/Tasks.md",
     "Leetcode/25.K 个一组翻转链表.md",
     "Leetcode/25.K 个一组翻转链表.cpp",
     "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
