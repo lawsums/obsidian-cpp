@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "c9763cbbd01cc349",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/软件版的onetab.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "软件版的onetab"
+            }
+          },
+          {
+            "id": "0fae3817c90d4be9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "和家长同步家教状况"
+            }
+          },
+          {
             "id": "d56db15e4c6ea154",
             "type": "leaf",
             "state": {
@@ -55,7 +103,8 @@
               "title": "学习C++"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,13 +243,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Software/软件版的onetab.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "软件版的onetab 的大纲"
             }
           },
           {
@@ -328,9 +377,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "c9763cbbd01cc349",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/和家长同步家教状况.md",
+    "Dairies/2026-07-15.md",
     "Templates/Homepage/查找嵌入式岗位需求.md",
     "Templates/Tasks.md",
     "Leetcode/25.K 个一组翻转链表.md",
@@ -353,7 +404,6 @@
     "项目/Agent开发/Hello-agents/第七章构建你的Agent框架.md",
     "项目/嵌入式/FreeRTOS快速入门",
     "项目/嵌入式",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Tasks/Inbox.md",
     "Dairies/2026-07-13.md",
     "Templates/Homepage/用ai产出创意内容.md",
@@ -361,7 +411,6 @@
     "Templates/Homepage/制作 ai 任务管家相关软件.md",
     "项目/Agent开发/Hello-agents/框架梳理.md",
     "项目/Agent开发/Hello-agents/第六章框架开发实践.md",
-    "Dairies/2026-07-11.md",
     "Templates/Tasks",
     "项目/Agent开发/Hello-agents",
     "Tasks",
