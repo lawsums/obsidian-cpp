@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "1f6ed5339efab707",
+            "id": "d56db15e4c6ea154",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/查找嵌入式岗位需求.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,55 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "查找嵌入式岗位需求"
-            }
-          },
-          {
-            "id": "39c4c4f079acb490",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "框架梳理"
-            }
-          },
-          {
-            "id": "461dd93133e4f736",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/25.K 个一组翻转链表.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "25.K 个一组翻转链表"
+              "title": "学习C++"
             }
           }
         ]
@@ -378,14 +330,15 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/查找嵌入式岗位需求.md",
+    "Templates/Tasks.md",
     "Leetcode/25.K 个一组翻转链表.md",
     "Leetcode/25.K 个一组翻转链表.cpp",
     "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
     "Leetcode/3.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/算法面试好题.md",
     "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/查找嵌入式岗位需求.md",
     "Software/软件版的onetab.md",
     "Software/软件开发.md",
     "Templates/Homepage/询问小孩的数学书到了没有.md",
@@ -393,7 +346,6 @@
     "Templates/Homepage/模型量化.md",
     "Attachments/Pasted image 20260714171517.png",
     "Attachments/Pasted image 20260714163957.png",
-    "Templates/Tasks.md",
     "Templates/用CLion写贪吃蛇Qt框架.md",
     "Attachments/Pasted image 20260714114130.png",
     "Templates/Homepage/在嵌入式吧发帖询问Linux驱动学习路径.md",
