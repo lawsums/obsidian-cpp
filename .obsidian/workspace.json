@@ -127,8 +127,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,13 +266,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习深度学习 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -401,14 +400,14 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "1ae97b7fae3a0e37",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/大厂岗位需求.md",
     "Templates/Homepage/查找嵌入式岗位需求.md",
     "Templates/Homepage/Homepage.md",
     "Software/软件版的onetab.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Dairies/2026-07-15.md",
     "Templates/Tasks.md",
     "Leetcode/25.K 个一组翻转链表.md",

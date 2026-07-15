@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
     },
@@ -13,16 +21,8 @@
       "path": "Templates/Homepage/查找嵌入式岗位需求.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "软件版的onetab",
       "path": "Software/软件版的onetab.md"
-    },
-    {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "25.K 个一组翻转链表",
