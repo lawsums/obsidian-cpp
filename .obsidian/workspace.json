@@ -103,8 +103,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,13 +242,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/软件版的onetab.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "软件版的onetab 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -377,8 +376,9 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "c9763cbbd01cc349",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Software/软件版的onetab.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Dairies/2026-07-15.md",
@@ -390,7 +390,6 @@
     "Leetcode/3.md",
     "Templates/Homepage/算法面试好题.md",
     "Templates/Homepage/学习C++.md",
-    "Software/软件版的onetab.md",
     "Software/软件开发.md",
     "Templates/Homepage/询问小孩的数学书到了没有.md",
     "Templates/Homepage/一升二备课.md",
