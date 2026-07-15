@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "51c7228d209e1f87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/查找嵌入式岗位需求.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "查找嵌入式岗位需求"
+            }
+          },
+          {
             "id": "c9763cbbd01cc349",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               "title": "学习C++"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -242,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/查找嵌入式岗位需求.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "查找嵌入式岗位需求 的大纲"
             }
           },
           {
@@ -376,10 +401,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "51c7228d209e1f87",
   "lastOpenFiles": [
-    "Software/软件版的onetab.md",
     "Templates/Homepage/Homepage.md",
+    "Software/软件版的onetab.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Dairies/2026-07-15.md",
     "Templates/Homepage/查找嵌入式岗位需求.md",
