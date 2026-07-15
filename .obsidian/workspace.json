@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -267,13 +267,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/大厂岗位需求.md",
+                "file": "Templates/Homepage/学习深度学习.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大厂岗位需求 的大纲"
+              "title": "学习深度学习 的大纲"
             }
           },
           {
@@ -401,11 +401,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "51c7228d209e1f87",
+  "active": "1ae97b7fae3a0e37",
   "lastOpenFiles": [
-    "Templates/Homepage/查找嵌入式岗位需求.md",
-    "Templates/Homepage/大厂岗位需求.md",
     "Templates/Homepage/学习深度学习.md",
+    "Templates/Homepage/大厂岗位需求.md",
+    "Templates/Homepage/查找嵌入式岗位需求.md",
     "Templates/Homepage/Homepage.md",
     "Software/软件版的onetab.md",
     "Templates/Homepage/和家长同步家教状况.md",
