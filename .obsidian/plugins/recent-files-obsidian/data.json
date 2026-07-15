@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "大厂岗位需求",
+      "path": "Templates/Homepage/大厂岗位需求.md"
+    },
+    {
       "basename": "查找嵌入式岗位需求",
       "path": "Templates/Homepage/查找嵌入式岗位需求.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "Homepage",
@@ -161,10 +169,6 @@
       "path": "Temp/大四上考试时间.md"
     },
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
       "basename": "代码网站爬虫",
       "path": "Software/代码网站爬虫.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "挂机脚本",
       "path": "Templates/Homepage/挂机脚本.md"
-    },
-    {
-      "basename": "复习面试题",
-      "path": "Templates/Homepage/复习面试题.md"
     }
   ],
   "omittedPaths": [],
