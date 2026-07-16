@@ -30,30 +30,6 @@
               "icon": "lucide-file",
               "title": "Homepage"
             }
-          },
-          {
-            "id": "d56db15e4c6ea154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习C++"
-            }
           }
         ]
       }
@@ -330,12 +306,12 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Tasks.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/005_KTV歌单.md",
     "Dairies/2026-07-16.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/大厂岗位需求.md",
     "Templates/Homepage/查找嵌入式岗位需求.md",
