@@ -21,7 +21,7 @@
     "focusInputKey": "i"
   },
   "requireCommandOrControlEnterToSend": false,
-  "locale": "en",
+  "locale": "zh-CN",
   "providerConfigs": {
     "claude": {
       "safeMode": "acceptEdits",
@@ -51,15 +51,44 @@
     },
     "opencode": {
       "cliPath": "",
-      "cliPathsByHost": {},
-      "enabled": false,
+      "cliPathsByHost": {
+        "device:e000cf10-1112-4545-a268-238a4378e035": "G:\\MyPath\\Nodejs\\node_global\\node_modules\\opencode-ai\\bin\\opencode.exe"
+      },
+      "enabled": true,
       "environmentHash": "",
       "environmentVariables": "OPENCODE_ENABLE_EXA=1",
       "modelAliases": {},
-      "preferredThinkingByModel": {},
-      "selectedMode": "",
-      "thinkingOptionsByModel": {},
-      "visibleModels": []
+      "preferredThinkingByModel": {
+        "deepseek/deepseek-v4-pro": "high",
+        "deepseek/deepseek-v4-flash": "high"
+      },
+      "selectedMode": "claudian-yolo",
+      "thinkingOptionsByModel": {
+        "deepseek/deepseek-v4-pro": [
+          {
+            "label": "High",
+            "value": "high"
+          },
+          {
+            "label": "Max",
+            "value": "max"
+          }
+        ],
+        "deepseek/deepseek-v4-flash": [
+          {
+            "label": "High",
+            "value": "high"
+          },
+          {
+            "label": "Max",
+            "value": "max"
+          }
+        ]
+      },
+      "visibleModels": [
+        "deepseek/deepseek-v4-pro",
+        "deepseek/deepseek-v4-flash"
+      ]
     },
     "pi": {
       "cliPath": "",
@@ -76,15 +105,18 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "haiku"
+    "claude": "haiku",
+    "opencode": "opencode:deepseek/deepseek-v4-pro"
   },
   "savedProviderEffort": {
-    "claude": "high"
+    "claude": "high",
+    "opencode": "high"
   },
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {},
   "savedProviderPermissionMode": {
-    "claude": "yolo"
+    "claude": "yolo",
+    "opencode": "yolo"
   },
   "lastCustomModel": "",
   "maxTabs": 3,

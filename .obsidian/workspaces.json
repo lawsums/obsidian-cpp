@@ -34,12 +34,12 @@
                 }
               },
               {
-                "id": "d56db15e4c6ea154",
+                "id": "ffffe9398e10819f",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Templates/Homepage/学习C++.md",
+                    "file": "Templates/Homepage/学习深度学习.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": true,
@@ -54,7 +54,55 @@
                     }
                   },
                   "icon": "lucide-file",
-                  "title": "学习C++"
+                  "title": "学习深度学习"
+                }
+              },
+              {
+                "id": "b213e6ef768c507c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/Homepage/查找嵌入式岗位需求.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "查找嵌入式岗位需求"
+                }
+              },
+              {
+                "id": "d56db15e4c6ea154",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "练习题_代码实践操作题"
                 }
               }
             ]
@@ -141,7 +189,7 @@
           {
             "id": "720402d91614d85f",
             "type": "tabs",
-            "dimension": 41.91176470588235,
+            "dimension": 39.950980392156865,
             "children": [
               {
                 "id": "96da7d36b59c0c87",
@@ -188,7 +236,7 @@
           {
             "id": "a68226789a184a04",
             "type": "tabs",
-            "dimension": 58.08823529411765,
+            "dimension": 60.049019607843135,
             "children": [
               {
                 "id": "7ad080d1a7a76395",
@@ -203,6 +251,16 @@
                   },
                   "icon": "lucide-list",
                   "title": "Homepage 的大纲"
+                }
+              },
+              {
+                "id": "9dc770d0e0eb3520",
+                "type": "leaf",
+                "state": {
+                  "type": "claudian-view",
+                  "state": {},
+                  "icon": "bot",
+                  "title": "Claudian"
                 }
               },
               {
@@ -236,7 +294,7 @@
                 "state": {
                   "type": "backlink",
                   "state": {
-                    "file": "Templates/Homepage.md",
+                    "file": "Templates/Homepage/Homepage.md",
                     "collapseAll": false,
                     "extraContext": false,
                     "sortOrder": "alphabetical",
@@ -255,7 +313,7 @@
                 "state": {
                   "type": "outgoing-link",
                   "state": {
-                    "file": "Templates/Homepage.md",
+                    "file": "Templates/Homepage/Homepage.md",
                     "linksCollapsed": false,
                     "unlinkedCollapsed": true
                   },
@@ -269,7 +327,7 @@
                 "state": {
                   "type": "file-properties",
                   "state": {
-                    "file": "Templates/Homepage.md"
+                    "file": "Templates/Homepage/Homepage.md"
                   },
                   "icon": "lucide-info",
                   "title": "Homepage的笔记属性"
@@ -327,17 +385,362 @@
           "table-editor-obsidian:Advanced Tables Toolbar": false,
           "obsidian-day-and-night:Toggle Theme": false,
           "obsidian-shellcommands:Shell commands: Custom variables": false,
-          "homepage:Open homepage": false
+          "homepage:Open homepage": false,
+          "realclaudian:Open Claudian": false
         }
       },
       "active": "a8fa3bde95b82293",
-      "mtime": "2026-07-06T08:43:16+08:00",
+      "mtime": "2026-07-17T21:15:18+08:00",
       "workspaces-plus:settings-v1": {
-        "explorerFoldState": [],
+        "explorerFoldState": [
+          "项目",
+          "项目/嵌入式",
+          "项目/嵌入式/FreeRTOS快速入门"
+        ],
         "description": "",
         "mode": null
       }
+    },
+    "Homepage2": {
+      "main": {
+        "id": "508310054f00a9a3",
+        "type": "split",
+        "children": [
+          {
+            "id": "4696daa5c22224ab",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a8fa3bde95b82293",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/Homepage/Homepage.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Homepage"
+                }
+              },
+              {
+                "id": "ffffe9398e10819f",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/Homepage/学习深度学习.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "学习深度学习"
+                }
+              },
+              {
+                "id": "b213e6ef768c507c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Templates/Homepage/查找嵌入式岗位需求.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "查找嵌入式岗位需求"
+                }
+              },
+              {
+                "id": "d56db15e4c6ea154",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "练习题_代码实践操作题"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f9fe4eaa9f478e4c",
+        "type": "split",
+        "children": [
+          {
+            "id": "177fa92686b10f84",
+            "type": "tabs",
+            "dimension": 68.17593790426908,
+            "children": [
+              {
+                "id": "944cd14a7fae27b7",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "文件列表"
+                }
+              },
+              {
+                "id": "2109367872043c6a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "搜索"
+                }
+              },
+              {
+                "id": "a5ee81f658b4b66b",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "书签"
+                }
+              },
+              {
+                "id": "f33e270113041b3b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "Templates/Homepage/Homepage.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Homepage 的反向链接列表"
+                }
+              },
+              {
+                "id": "7847ce469944fea3",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "Templates/Homepage/Homepage.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Homepage 的出链列表"
+                }
+              }
+            ]
+          },
+          {
+            "id": "a1a3b64710b00c75",
+            "type": "tabs",
+            "dimension": 31.82406209573092,
+            "children": [
+              {
+                "id": "7ad080d1a7a76395",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "Templates/Homepage/Homepage.md",
+                    "followCursor": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Homepage 的大纲"
+                }
+              },
+              {
+                "id": "96da7d36b59c0c87",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              },
+              {
+                "id": "ab51d39c5fce48bc",
+                "type": "leaf",
+                "state": {
+                  "type": "recent-files",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Recent Files"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 298.5
+      },
+      "right": {
+        "id": "10b2f2cc90125c33",
+        "type": "split",
+        "children": [
+          {
+            "id": "720402d91614d85f",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9dc770d0e0eb3520",
+                "type": "leaf",
+                "state": {
+                  "type": "claudian-view",
+                  "state": {},
+                  "icon": "bot",
+                  "title": "Claudian"
+                }
+              },
+              {
+                "id": "823296351c3bd45e",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              },
+              {
+                "id": "4cb9d123a5756450",
+                "type": "leaf",
+                "state": {
+                  "type": "side-panel-control-view",
+                  "state": {},
+                  "icon": "viewIcon",
+                  "title": "Markdown-Autocomplete"
+                }
+              },
+              {
+                "id": "6c75ef171ad96609",
+                "type": "leaf",
+                "state": {
+                  "type": "advanced-tables-toolbar",
+                  "state": {},
+                  "icon": "spreadsheet",
+                  "title": "Advanced Tables"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 329.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-projects:打开项目": false,
+          "media-extended:Open media": false,
+          "ai-task-butler:AI Task Butler: capture task": false,
+          "open-vscode:VSCode": false,
+          "pexels-banner:🚩 Pixel Banner Menu": false,
+          "diagram-zoom-drag:Picker mode": false,
+          "bases:新建数据库": false,
+          "switcher:打开快速切换": false,
+          "graph:查看关系图谱": false,
+          "canvas:新建白板": false,
+          "daily-notes:打开/创建今天的日记": false,
+          "templates:插入模板": false,
+          "command-palette:打开命令面板": false,
+          "workspaces:管理工作区布局": false,
+          "obsidian-excalidraw-plugin:新建绘图文件": false,
+          "terminal:Open terminal": false,
+          "slides-extended:Show slide preview": false,
+          "pdf-plus:PDF++: Toggle auto-copy": false,
+          "pdf-plus:PDF++: Toggle auto-focus": false,
+          "pdf-plus:PDF++: Toggle auto-paste": false,
+          "pomodoro-timer:Toggle timer panel": false,
+          "quickadd:QuickAdd": false,
+          "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+          "obsidian-to-anki-plugin:Obsidian_to_Anki - Scan Vault": false,
+          "templater-obsidian:Templater": false,
+          "ace-code-editor:打开css片段管理器": false,
+          "obsidian-git:Open Git source control": false,
+          "table-editor-obsidian:Advanced Tables Toolbar": false,
+          "obsidian-day-and-night:Toggle Theme": false,
+          "obsidian-shellcommands:Shell commands: Custom variables": false,
+          "homepage:Open homepage": false,
+          "realclaudian:Open Claudian": false
+        }
+      },
+      "active": "9dc770d0e0eb3520",
+      "mtime": "2026-07-17T21:22:35+08:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": [
+          "项目",
+          "项目/嵌入式",
+          "项目/嵌入式/FreeRTOS快速入门"
+        ]
+      }
     }
   },
-  "active": "Homepage"
+  "active": "Homepage2"
 }

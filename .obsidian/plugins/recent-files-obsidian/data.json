@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "研一课程",
+      "path": "Temp/研一课程.md"
+    },
+    {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
     },
@@ -179,10 +183,6 @@
     {
       "basename": "第四章智能体经典范式构建",
       "path": "项目/Agent开发/Hello-agents/第四章智能体经典范式构建.md"
-    },
-    {
-      "basename": "研一课程",
-      "path": "Temp/研一课程.md"
     },
     {
       "basename": "大四上考试时间",
