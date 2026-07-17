@@ -55,7 +55,8 @@
               "title": "学习C++"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -194,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习C++ 的大纲"
             }
           },
           {
@@ -328,10 +329,10 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "d56db15e4c6ea154",
   "lastOpenFiles": [
-    "Dairies/2026-07-17.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-07-17.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Tasks.md",
