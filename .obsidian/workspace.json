@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "80cff0b081da6c7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习C++"
+            }
+          },
+          {
             "id": "d1a3132816bdd748",
             "type": "leaf",
             "state": {
@@ -354,8 +378,9 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Temp/研一课程.md",
+    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
+    "Temp/研一课程.md",
     "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/查找嵌入式岗位需求.md",
     "Templates/Homepage/用ai产出创意内容.md",
@@ -363,7 +388,6 @@
     "Dairies/2026-07-09.md",
     "Dairies/2026-07-17.md",
     "Dairies/2026-07-16.md",
-    "Templates/Homepage/学习C++.md",
     "项目/嵌入式/FreeRTOS快速入门/练习题_思考题.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Tasks.md",
