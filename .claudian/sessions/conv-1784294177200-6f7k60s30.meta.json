@@ -4,9 +4,9 @@
   "title": "你是谁？",
   "titleGenerationStatus": "failed",
   "createdAt": 1784294177202,
-  "updatedAt": 1784303342830,
-  "lastResponseAt": 1784303342830,
-  "sessionId": "ses_08fc77c64ffeRXEZNtFFp1C5VY",
+  "updatedAt": 1784305618692,
+  "lastResponseAt": 1784305618692,
+  "sessionId": "ses_08f2924dcffeACFJPGkHCjwDSA",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
@@ -14,11 +14,11 @@
   "currentNote": "Templates/Homepage/Homepage.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 30336,
-    "contextTokens": 32384,
+    "cacheReadInputTokens": 22144,
+    "contextTokens": 31531,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 2048,
+    "inputTokens": 9387,
     "model": "opencode:deepseek/deepseek-v4-pro",
     "percentage": 3
   }

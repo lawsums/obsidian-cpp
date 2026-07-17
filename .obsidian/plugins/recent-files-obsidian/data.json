@@ -1,16 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "查找嵌入式岗位需求",
+      "path": "Templates/Homepage/查找嵌入式岗位需求.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "438. 找到字符串中所有字母异位词",
+      "path": "Leetcode/438. 找到字符串中所有字母异位词.md"
+    },
+    {
+      "basename": "3. 无重复字符的最长子串",
+      "path": "Leetcode/3. 无重复字符的最长子串.md"
+    },
+    {
       "basename": "300. 最长递增子序列",
       "path": "Leetcode/300. 最长递增子序列.md"
     },
     {
       "basename": "67.二进制求和",
       "path": "Leetcode/67.二进制求和.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "6. Z 字形变换",
@@ -21,20 +45,8 @@
       "path": "Leetcode/146. LRU 缓存 - 力扣（LeetCode）.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "研一课程",
       "path": "Temp/研一课程.md"
-    },
-    {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
-      "basename": "查找嵌入式岗位需求",
-      "path": "Templates/Homepage/查找嵌入式岗位需求.md"
     },
     {
       "basename": "用ai产出创意内容",
@@ -187,18 +199,6 @@
     {
       "basename": "登录、退出",
       "path": "项目/第一轮面试/海同网盘/登录、退出.md"
-    },
-    {
-      "basename": "diffusion除图像修复相关论文",
-      "path": "论文/diffusion除图像修复相关论文.md"
-    },
-    {
-      "basename": "寻找diffusion中用来图像修复的论文",
-      "path": "Dairies/寻找diffusion中用来图像修复的论文.md"
-    },
-    {
-      "basename": "第四章智能体经典范式构建",
-      "path": "项目/Agent开发/Hello-agents/第四章智能体经典范式构建.md"
     }
   ],
   "omittedPaths": [],
