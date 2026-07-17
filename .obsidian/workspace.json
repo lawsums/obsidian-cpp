@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
+                "file": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "学习C++"
+              "title": "练习题_代码实践操作题"
             }
           }
         ],
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习C++.md",
+                "file": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习C++ 的大纲"
+              "title": "练习题_代码实践操作题 的大纲"
             }
           },
           {
@@ -331,9 +331,11 @@
   },
   "active": "d56db15e4c6ea154",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
+    "项目/嵌入式/FreeRTOS快速入门/练习题_思考题.md",
+    "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-07-17.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Tasks.md",
     "Templates/Homepage/005_KTV歌单.md",
@@ -361,8 +363,6 @@
     "项目/Agent开发/Hello-agents/第七章构建你的Agent框架.md",
     "项目/嵌入式/FreeRTOS快速入门",
     "项目/嵌入式",
-    "Tasks/Inbox.md",
-    "Dairies/2026-07-13.md",
     "Templates/Tasks",
     "项目/Agent开发/Hello-agents",
     "Tasks",
