@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "300. 最长递增子序列",
+      "path": "Leetcode/300. 最长递增子序列.md"
+    },
+    {
+      "basename": "67.二进制求和",
+      "path": "Leetcode/67.二进制求和.md"
     },
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "6. Z 字形变换",
+      "path": "Leetcode/6. Z 字形变换.md"
+    },
+    {
+      "basename": "146. LRU 缓存 - 力扣（LeetCode）",
+      "path": "Leetcode/146. LRU 缓存 - 力扣（LeetCode）.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "研一课程",
@@ -183,22 +199,6 @@
     {
       "basename": "第四章智能体经典范式构建",
       "path": "项目/Agent开发/Hello-agents/第四章智能体经典范式构建.md"
-    },
-    {
-      "basename": "大四上考试时间",
-      "path": "Temp/大四上考试时间.md"
-    },
-    {
-      "basename": "代码网站爬虫",
-      "path": "Software/代码网站爬虫.md"
-    },
-    {
-      "basename": "回 Sly 消息",
-      "path": "Templates/Homepage/回 Sly 消息.md"
-    },
-    {
-      "basename": "计算器",
-      "path": "数据结构/计算器.md"
     }
   ],
   "omittedPaths": [],

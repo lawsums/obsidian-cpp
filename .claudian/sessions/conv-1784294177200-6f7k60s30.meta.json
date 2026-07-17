@@ -4,8 +4,8 @@
   "title": "你是谁？",
   "titleGenerationStatus": "failed",
   "createdAt": 1784294177202,
-  "updatedAt": 1784294203421,
-  "lastResponseAt": 1784294203421,
+  "updatedAt": 1784303342830,
+  "lastResponseAt": 1784303342830,
   "sessionId": "ses_08fc77c64ffeRXEZNtFFp1C5VY",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Templates/Homepage/Homepage.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 7552,
-    "contextTokens": 17114,
+    "cacheReadInputTokens": 30336,
+    "contextTokens": 32384,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 9562,
+    "inputTokens": 2048,
     "model": "opencode:deepseek/deepseek-v4-pro",
-    "percentage": 2
+    "percentage": 3
   }
 }
