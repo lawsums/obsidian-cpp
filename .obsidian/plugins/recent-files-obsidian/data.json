@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "练习题_代码实践操作题",
       "path": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
+      "basename": "查找嵌入式岗位需求",
+      "path": "Templates/Homepage/查找嵌入式岗位需求.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "学习深度学习",
@@ -31,10 +35,6 @@
     {
       "basename": "大厂岗位需求",
       "path": "Templates/Homepage/大厂岗位需求.md"
-    },
-    {
-      "basename": "查找嵌入式岗位需求",
-      "path": "Templates/Homepage/查找嵌入式岗位需求.md"
     },
     {
       "basename": "软件版的onetab",

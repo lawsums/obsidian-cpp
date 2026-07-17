@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "b213e6ef768c507c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/查找嵌入式岗位需求.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "查找嵌入式岗位需求"
+            }
+          },
+          {
             "id": "d56db15e4c6ea154",
             "type": "leaf",
             "state": {
@@ -55,8 +79,7 @@
               "title": "练习题_代码实践操作题"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,13 +218,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "练习题_代码实践操作题 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -329,12 +352,13 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "d56db15e4c6ea154",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
+    "Templates/Homepage/查找嵌入式岗位需求.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "项目/嵌入式/FreeRTOS快速入门/练习题_思考题.md",
-    "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-07-17.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Tasks.md",
@@ -342,7 +366,6 @@
     "Dairies/2026-07-16.md",
     "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/大厂岗位需求.md",
-    "Templates/Homepage/查找嵌入式岗位需求.md",
     "Software/软件版的onetab.md",
     "Dairies/2026-07-15.md",
     "Leetcode/25.K 个一组翻转链表.md",
