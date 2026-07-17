@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
-      "basename": "练习题_代码实践操作题",
-      "path": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "查找嵌入式岗位需求",
       "path": "Templates/Homepage/查找嵌入式岗位需求.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
+      "basename": "练习题_代码实践操作题",
+      "path": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md"
+    },
+    {
+      "basename": "2026-07-09",
+      "path": "Dairies/2026-07-09.md"
+    },
+    {
+      "basename": "2026-07-17",
+      "path": "Dairies/2026-07-17.md"
+    },
+    {
+      "basename": "2026-07-16",
+      "path": "Dairies/2026-07-16.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "和家长同步家教状况",
@@ -87,10 +103,6 @@
     {
       "basename": "第七章构建你的Agent框架",
       "path": "项目/Agent开发/Hello-agents/第七章构建你的Agent框架.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "制作 ai 任务管家相关软件",
@@ -187,18 +199,6 @@
     {
       "basename": "计算器",
       "path": "数据结构/计算器.md"
-    },
-    {
-      "basename": "227.基本计算器 II",
-      "path": "Leetcode/227.基本计算器 II.md"
-    },
-    {
-      "basename": "Leetcode_no_anki_problem_template",
-      "path": "Templates/Leetcode_no_anki_problem_template.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/Agent开发/CppAI框架/框架梳理.md"
     }
   ],
   "omittedPaths": [],
