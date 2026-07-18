@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "练习题_代码实践操作题",
+      "path": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "005_KTV歌单",
+      "path": "Templates/Homepage/005_KTV歌单.md"
     },
     {
       "basename": "算法路线图",
@@ -57,10 +65,6 @@
       "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
-      "basename": "练习题_代码实践操作题",
-      "path": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md"
-    },
-    {
       "basename": "2026-07-09",
       "path": "Dairies/2026-07-09.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
-    },
-    {
-      "basename": "005_KTV歌单",
-      "path": "Templates/Homepage/005_KTV歌单.md"
     },
     {
       "basename": "大厂岗位需求",
