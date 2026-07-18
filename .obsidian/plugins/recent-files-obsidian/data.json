@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "练习题_代码实践操作题",
-      "path": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md"
-    },
-    {
       "basename": "算法路线图",
       "path": "Leetcode/算法路线图.md"
     },
     {
+      "basename": "备份并梳理仓库",
+      "path": "Templates/备份并梳理仓库.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "练习题_代码实践操作题",
+      "path": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md"
+    },
+    {
+      "basename": "运营商信息咨询",
+      "path": "Temp/运营商信息咨询.md"
     },
     {
       "basename": "4062.打家劫舍 V",
@@ -87,10 +99,6 @@
     {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "大厂岗位需求",
@@ -191,14 +199,6 @@
     {
       "basename": "投下一单",
       "path": "Templates/Homepage/投下一单.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/第二轮面试/零声网盘/框架梳理.md"
-    },
-    {
-      "basename": "第五章基于低代码平台的智能体搭建",
-      "path": "项目/Agent开发/Hello-agents/第五章基于低代码平台的智能体搭建.md"
     }
   ],
   "omittedPaths": [],

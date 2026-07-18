@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -273,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
+                "file": "Leetcode/算法路线图.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "练习题_代码实践操作题 的大纲"
+              "title": "算法路线图 的大纲"
             }
           },
           {
@@ -354,12 +354,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "15146e63fc219d2b",
+  "active": "02c335c035ea2a8d",
   "lastOpenFiles": [
-    "Leetcode/算法路线图.md",
+    "Templates/备份并梳理仓库.md",
+    "Templates/Tasks.md",
     "Templates/Homepage/Homepage.md",
-    "Leetcode/4062.打家劫舍 V.md",
     "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
+    "Leetcode/算法路线图.md",
+    "Temp/运营商信息咨询.md",
+    "Leetcode/4062.打家劫舍 V.md",
     "Leetcode/4062.打家劫舍 V.cpp",
     "Templates/Homepage/005_KTV歌单.md",
     "Templates/Homepage/学习C++.md",
@@ -379,9 +382,7 @@
     "Dairies/2026-07-16.md",
     "项目/嵌入式/FreeRTOS快速入门/练习题_思考题.md",
     "Templates/Homepage/和家长同步家教状况.md",
-    "Templates/Tasks.md",
     "Templates/Homepage/大厂岗位需求.md",
-    "Software/软件版的onetab.md",
     "Leetcode/25.K 个一组翻转链表.cpp",
     "Attachments/Pasted image 20260714171517.png",
     "Attachments/Pasted image 20260714163957.png",
