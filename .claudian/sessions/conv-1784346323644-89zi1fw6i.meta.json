@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784346323644-89zi1fw6i",
+  "providerId": "opencode",
+  "title": "帮我在 note 里面记一下这道题的思路也就是说，这道题跟之前的“打家劫舍”类似。只不过之前的“打家...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1784346323645,
+  "updatedAt": 1784346453027,
+  "lastResponseAt": 1784346453027,
+  "sessionId": "ses_08cabc6e1ffeSfgm9r5wfLvybK",
+  "selectedModel": "opencode:deepseek/deepseek-v4-pro",
+  "providerState": {
+    "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
+  },
+  "currentNote": "Leetcode/4062.打家劫舍 V.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 12416,
+    "contextTokens": 12515,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 99,
+    "model": "opencode:deepseek/deepseek-v4-pro",
+    "percentage": 1
+  }
+}

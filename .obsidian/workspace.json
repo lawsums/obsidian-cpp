@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "6b15c3e79accdccd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "练习题_代码实践操作题"
-            }
-          },
-          {
             "id": "02c335c035ea2a8d",
             "type": "leaf",
             "state": {
@@ -127,8 +103,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,7 +217,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -272,13 +248,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "练习题_代码实践操作题 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -353,11 +329,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Leetcode/4062.打家劫舍 V.md",
+    "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
     "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/005_KTV歌单.md",
     "Leetcode/算法路线图.md",
+    "Leetcode/4062.打家劫舍 V.cpp",
+    "Templates/Homepage/005_KTV歌单.md",
     "Templates/Homepage/学习C++.md",
     "Leetcode/309. 最佳买卖股票时机含冷冻期.md",
     "Templates/Homepage/查找嵌入式岗位需求.md",
@@ -370,7 +349,6 @@
     "Leetcode/146. LRU 缓存 - 力扣（LeetCode）.md",
     "Temp/研一课程.md",
     "Templates/Homepage/用ai产出创意内容.md",
-    "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
     "Dairies/2026-07-09.md",
     "Dairies/2026-07-17.md",
     "Dairies/2026-07-16.md",
@@ -379,8 +357,6 @@
     "Templates/Tasks.md",
     "Templates/Homepage/大厂岗位需求.md",
     "Software/软件版的onetab.md",
-    "Dairies/2026-07-15.md",
-    "Leetcode/25.K 个一组翻转链表.md",
     "Leetcode/25.K 个一组翻转链表.cpp",
     "Attachments/Pasted image 20260714171517.png",
     "Attachments/Pasted image 20260714163957.png",
@@ -397,7 +373,6 @@
     "项目/Agent开发/未命名.canvas",
     "语言特性/trick",
     "Attachments/Pasted image 20260627160829.png",
-    "项目/Agent开发/KamaClaude",
     "Attachments/Pasted image 20260622110148.png",
     "Attachments/Pasted image 20260601171614.png",
     "Attachments/Pasted image 20260601171631.png",
