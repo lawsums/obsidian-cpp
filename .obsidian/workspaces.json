@@ -505,57 +505,8 @@
                   "icon": "lucide-file",
                   "title": "学习深度学习"
                 }
-              },
-              {
-                "id": "b213e6ef768c507c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Templates/Homepage/查找嵌入式岗位需求.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "查找嵌入式岗位需求"
-                }
-              },
-              {
-                "id": "d56db15e4c6ea154",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "练习题_代码实践操作题"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical"
@@ -780,8 +731,8 @@
           "realclaudian:Open Claudian": false
         }
       },
-      "active": "02c335c035ea2a8d",
-      "mtime": "2026-07-18T00:14:59+08:00",
+      "active": "9dc770d0e0eb3520",
+      "mtime": "2026-07-18T09:55:11+08:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "项目",

@@ -102,57 +102,8 @@
               "icon": "lucide-file",
               "title": "学习深度学习"
             }
-          },
-          {
-            "id": "b213e6ef768c507c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/查找嵌入式岗位需求.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "查找嵌入式岗位需求"
-            }
-          },
-          {
-            "id": "d56db15e4c6ea154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "练习题_代码实践操作题"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法路线图 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,7 +286,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -377,13 +329,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "02c335c035ea2a8d",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Leetcode/算法路线图.md",
+    "Templates/Homepage/学习C++.md",
+    "Leetcode/309. 最佳买卖股票时机含冷冻期.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/查找嵌入式岗位需求.md",
     "Templates/Homepage/学习深度学习.md",
-    "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/Homepage.md",
-    "Leetcode/算法路线图.md",
     "Leetcode/438. 找到字符串中所有字母异位词.md",
     "Leetcode/3. 无重复字符的最长子串.md",
     "Leetcode/300. 最长递增子序列.md",
@@ -405,7 +358,6 @@
     "Dairies/2026-07-15.md",
     "Leetcode/25.K 个一组翻转链表.md",
     "Leetcode/25.K 个一组翻转链表.cpp",
-    "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
     "Attachments/Pasted image 20260714171517.png",
     "Attachments/Pasted image 20260714163957.png",
     "Attachments/Pasted image 20260714114130.png",
