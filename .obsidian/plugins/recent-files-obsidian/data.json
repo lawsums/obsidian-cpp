@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
       "basename": "算法路线图",
       "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "制作AI短片",
+      "path": "Templates/Homepage/制作AI短片.md"
     },
     {
       "basename": "备份并梳理仓库",
@@ -11,10 +23,6 @@
     {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "练习题_代码实践操作题",
@@ -47,10 +55,6 @@
     {
       "basename": "查找嵌入式岗位需求",
       "path": "Templates/Homepage/查找嵌入式岗位需求.md"
-    },
-    {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "438. 找到字符串中所有字母异位词",
@@ -195,10 +199,6 @@
     {
       "basename": "框架梳理",
       "path": "项目/第二轮面试/协程服务器/框架梳理.md"
-    },
-    {
-      "basename": "投下一单",
-      "path": "Templates/Homepage/投下一单.md"
     }
   ],
   "omittedPaths": [],
