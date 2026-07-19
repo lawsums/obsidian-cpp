@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
+      "basename": "3518.最高乘法得分",
+      "path": "Leetcode/3518.最高乘法得分.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "算法路线图",
@@ -195,10 +199,6 @@
     {
       "basename": "面试",
       "path": "项目/第二轮面试/协程服务器/面试.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/第二轮面试/协程服务器/框架梳理.md"
     }
   ],
   "omittedPaths": [],

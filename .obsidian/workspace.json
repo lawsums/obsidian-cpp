@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "6caef573496ae064",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/3518.最高乘法得分.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3518.最高乘法得分"
+            }
+          },
+          {
             "id": "02c335c035ea2a8d",
             "type": "leaf",
             "state": {
@@ -53,30 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "算法路线图"
-            }
-          },
-          {
-            "id": "15146e63fc219d2b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "练习题_代码实践操作题"
             }
           },
           {
@@ -127,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -272,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Leetcode/算法路线图.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "算法路线图 的大纲"
             }
           },
           {
@@ -353,11 +354,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "ffffe9398e10819f",
   "lastOpenFiles": [
+    "Leetcode/3518.最高乘法得分.md",
     "Templates/Homepage/学习深度学习.md",
-    "Leetcode/算法路线图.md",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/3518.最高乘法得分.cpp",
+    "Leetcode/算法路线图.md",
     "Templates/Homepage/制作AI短片.md",
     "Templates/备份并梳理仓库.md",
     "Templates/Tasks.md",
@@ -380,8 +383,6 @@
     "Dairies/2026-07-09.md",
     "Dairies/2026-07-17.md",
     "Dairies/2026-07-16.md",
-    "项目/嵌入式/FreeRTOS快速入门/练习题_思考题.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Leetcode/25.K 个一组翻转链表.cpp",
     "Attachments/Pasted image 20260714171517.png",
     "Attachments/Pasted image 20260714163957.png",
@@ -396,7 +397,6 @@
     "Leetcode/images/2375_example1drawio-1.png",
     "项目/Agent开发/CppAI框架",
     "项目/Agent开发/未命名.canvas",
-    "语言特性/trick",
     "Attachments/Pasted image 20260627160829.png",
     "Attachments/Pasted image 20260622110148.png",
     "Attachments/Pasted image 20260601171614.png",

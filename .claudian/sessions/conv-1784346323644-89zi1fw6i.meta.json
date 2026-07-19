@@ -1,24 +1,25 @@
 {
   "id": "conv-1784346323644-89zi1fw6i",
   "providerId": "opencode",
-  "title": "帮我在 note 里面记一下这道题的思路也就是说，这道题跟之前的“打家劫舍”类似。只不过之前的“打家...",
+  "title": "把思路记到 note 里面，解法记到 solution 里面，这个题类似于编辑距离，但 A 的元素个...",
   "titleGenerationStatus": "failed",
   "createdAt": 1784346323645,
-  "updatedAt": 1784420840102,
-  "lastResponseAt": 1784375883962,
-  "sessionId": "ses_08cabc6e1ffeSfgm9r5wfLvybK",
+  "updatedAt": 1784427889553,
+  "lastResponseAt": 1784427889553,
+  "sessionId": "ses_087d23e3cffe59JUQoaQa103XI",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
   },
+  "currentNote": "Leetcode/3518.最高乘法得分.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 19200,
-    "contextTokens": 19335,
+    "cacheReadInputTokens": 38528,
+    "contextTokens": 39207,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 135,
+    "inputTokens": 679,
     "model": "opencode:deepseek/deepseek-v4-pro",
-    "percentage": 2
+    "percentage": 4
   }
 }
