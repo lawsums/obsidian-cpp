@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -354,11 +353,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ffffe9398e10819f",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Leetcode/3518.最高乘法得分.md",
-    "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习深度学习.md",
     "Leetcode/3518.最高乘法得分.cpp",
     "Leetcode/算法路线图.md",
     "Templates/Homepage/制作AI短片.md",
