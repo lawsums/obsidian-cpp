@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
@@ -15,6 +11,14 @@
     {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "算法路线图",
@@ -195,10 +199,6 @@
     {
       "basename": "刷新文件夹",
       "path": "项目/第一轮面试/海同网盘/刷新文件夹.md"
-    },
-    {
-      "basename": "面试",
-      "path": "项目/第二轮面试/协程服务器/面试.md"
     }
   ],
   "omittedPaths": [],
