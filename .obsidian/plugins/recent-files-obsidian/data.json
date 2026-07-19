@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
       "basename": "算法路线图",
       "path": "Leetcode/算法路线图.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "备份并梳理仓库",
       "path": "Templates/备份并梳理仓库.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "练习题_代码实践操作题",
