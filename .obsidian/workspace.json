@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习深度学习 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -354,10 +353,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ffffe9398e10819f",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Leetcode/算法路线图.md",
     "Templates/Homepage/学习深度学习.md",
+    "Leetcode/算法路线图.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/制作AI短片.md",
     "Templates/备份并梳理仓库.md",
