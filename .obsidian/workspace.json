@@ -127,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -272,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习深度学习.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习深度学习 的大纲"
             }
           },
           {
@@ -353,10 +354,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "9dc770d0e0eb3520",
   "lastOpenFiles": [
-    "Templates/Tasks.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Tasks.md",
     "Leetcode/算法路线图.md",
     "Software/软件开发.md",
     "Leetcode/3518.最高乘法得分.md",
