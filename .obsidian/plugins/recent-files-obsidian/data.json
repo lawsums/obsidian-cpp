@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/学习深度学习.md"
     },
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "005_KTV歌单",
       "path": "Templates/Homepage/005_KTV歌单.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "309. 最佳买卖股票时机含冷冻期",

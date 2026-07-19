@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784470952482-txrq9mrya",
+  "providerId": "opencode",
+  "title": "## 3",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1784470952483,
+  "updatedAt": 1784471013461,
+  "lastResponseAt": 1784471013461,
+  "sessionId": "ses_0853e1b8cffe67nUILafby7Ww7",
+  "selectedModel": "opencode:deepseek/deepseek-v4-pro",
+  "providerState": {
+    "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
+  },
+  "currentNote": "Templates/Homepage/学习深度学习.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 14464,
+    "contextTokens": 14534,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 70,
+    "model": "opencode:deepseek/deepseek-v4-pro",
+    "percentage": 1
+  }
+}
