@@ -1,24 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "软件开发",
+      "path": "Software/软件开发.md"
     },
     {
       "basename": "3518.最高乘法得分",
       "path": "Leetcode/3518.最高乘法得分.md"
     },
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "制作AI短片",
@@ -93,10 +101,6 @@
       "path": "Temp/研一课程.md"
     },
     {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
-    },
-    {
       "basename": "2026-07-09",
       "path": "Dairies/2026-07-09.md"
     },
@@ -135,10 +139,6 @@
     {
       "basename": "算法面试好题",
       "path": "Templates/Homepage/算法面试好题.md"
-    },
-    {
-      "basename": "软件开发",
-      "path": "Software/软件开发.md"
     },
     {
       "basename": "询问小孩的数学书到了没有",
