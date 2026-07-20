@@ -103,7 +103,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -248,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习深度学习.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习深度学习 的大纲"
             }
           },
           {
@@ -330,18 +331,18 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "ffffe9398e10819f",
   "lastOpenFiles": [
-    "Leetcode/334.递增的三元子序列.md",
+    "Templates/Homepage/学习深度学习.md",
+    "Templates/Homepage/学习C++.md",
     "Leetcode/算法路线图.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/334.递增的三元子序列.md",
+    "Templates/Homepage/和家长同步家教状况.md",
     "Leetcode/334.递增的三元子序列.cpp",
     "Templates/Tasks.md",
     "Dairies/2026-07-20.md",
     "Templates/Homepage/面试题系列.md",
-    "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/学习深度学习.md",
     "Software/软件开发.md",
     "Leetcode/3518.最高乘法得分.md",
     "Templates/Homepage/用ai产出创意内容.md",
