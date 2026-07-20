@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "fd291342ae4182ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/334.递增的三元子序列.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "334.递增的三元子序列"
-            }
-          },
-          {
             "id": "400482552e03116b",
             "type": "leaf",
             "state": {
@@ -151,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,13 +271,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/334.递增的三元子序列.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "334.递增的三元子序列 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -335,7 +310,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -377,12 +353,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/和家长同步家教状况.md",
+    "Leetcode/334.递增的三元子序列.md",
     "Leetcode/334.递增的三元子序列.cpp",
     "Templates/Homepage/Homepage.md",
-    "Leetcode/334.递增的三元子序列.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Tasks.md",
     "Dairies/2026-07-20.md",
     "Templates/Homepage/面试题系列.md",
@@ -419,7 +395,6 @@
     "Leetcode/2375.到达角落需要移除障碍物的最小数目.cpp",
     "Leetcode/images/2375_example1drawio.png",
     "Leetcode/images/2375_example1drawio-1.png",
-    "项目/Agent开发/CppAI框架",
     "项目/Agent开发/未命名.canvas",
     "Attachments/Pasted image 20260627160829.png",
     "Attachments/Pasted image 20260622110148.png",
