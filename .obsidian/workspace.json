@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "fd291342ae4182ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/334.递增的三元子序列.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "334.递增的三元子序列"
+            }
+          },
+          {
             "id": "400482552e03116b",
             "type": "leaf",
             "state": {
@@ -272,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "file": "Leetcode/334.递增的三元子序列.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "和家长同步家教状况 的大纲"
+              "title": "334.递增的三元子序列 的大纲"
             }
           },
           {
@@ -311,8 +335,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -354,11 +377,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "400482552e03116b",
+  "active": "9dc770d0e0eb3520",
   "lastOpenFiles": [
+    "Leetcode/334.递增的三元子序列.cpp",
     "Templates/Homepage/Homepage.md",
-    "Dairies/2026-07-20.md",
+    "Leetcode/334.递增的三元子序列.md",
+    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Tasks.md",
+    "Dairies/2026-07-20.md",
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/学习深度学习.md",
@@ -366,7 +392,6 @@
     "Software/软件开发.md",
     "Leetcode/3518.最高乘法得分.md",
     "Templates/Homepage/用ai产出创意内容.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Leetcode/3518.最高乘法得分.cpp",
     "Templates/Homepage/制作AI短片.md",
     "Templates/备份并梳理仓库.md",
@@ -382,8 +407,6 @@
     "Leetcode/300. 最长递增子序列.md",
     "Leetcode/67.二进制求和.md",
     "Leetcode/6. Z 字形变换.md",
-    "Leetcode/146. LRU 缓存 - 力扣（LeetCode）.md",
-    "Temp/研一课程.md",
     "Leetcode/25.K 个一组翻转链表.cpp",
     "Attachments/Pasted image 20260714171517.png",
     "Attachments/Pasted image 20260714163957.png",

@@ -1,25 +1,25 @@
 {
   "id": "conv-1784470952482-txrq9mrya",
   "providerId": "opencode",
-  "title": "## 3",
+  "title": "帮我整理一下这道题的笔记，说明为什么它可以写成三个变量就可以表示。同时写一下相应的思考题。比如这道题...",
   "titleGenerationStatus": "failed",
   "createdAt": 1784470952483,
-  "updatedAt": 1784471013461,
-  "lastResponseAt": 1784471013461,
-  "sessionId": "ses_0853e1b8cffe67nUILafby7Ww7",
+  "updatedAt": 1784529195104,
+  "lastResponseAt": 1784529195104,
+  "sessionId": "ses_081c6da33ffeN3iw3sTFmVYsjC",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
   },
-  "currentNote": "Templates/Homepage/学习深度学习.md",
+  "currentNote": "Leetcode/334.递增的三元子序列.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 14464,
-    "contextTokens": 14534,
+    "cacheReadInputTokens": 17536,
+    "contextTokens": 17779,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 70,
+    "inputTokens": 243,
     "model": "opencode:deepseek/deepseek-v4-pro",
-    "percentage": 1
+    "percentage": 2
   }
 }

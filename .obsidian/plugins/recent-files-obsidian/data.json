@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
+      "basename": "334.递增的三元子序列",
+      "path": "Leetcode/334.递增的三元子序列.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "学习C++",
@@ -195,10 +199,6 @@
     {
       "basename": "网盘功能设计",
       "path": "项目/第一轮面试/海同网盘/网盘功能设计.md"
-    },
-    {
-      "basename": "刷新文件夹",
-      "path": "项目/第一轮面试/海同网盘/刷新文件夹.md"
     }
   ],
   "omittedPaths": [],
