@@ -4,14 +4,13 @@
   "title": "帮我整理一下这道题的笔记，说明为什么它可以写成三个变量就可以表示。同时写一下相应的思考题。比如这道题...",
   "titleGenerationStatus": "failed",
   "createdAt": 1784470952483,
-  "updatedAt": 1784529195104,
+  "updatedAt": 1784599611311,
   "lastResponseAt": 1784529195104,
   "sessionId": "ses_081c6da33ffeN3iw3sTFmVYsjC",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
   },
-  "currentNote": "Leetcode/334.递增的三元子序列.md",
   "usage": {
     "cacheCreationInputTokens": 0,
     "cacheReadInputTokens": 17536,

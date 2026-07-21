@@ -71,7 +71,6 @@ switch (weekday) {
 - [ ] 抹护肤品 + [提拉法令纹](https://www.bilibili.com/video/BV1mE411i7Li?vd_source=cf6228c0b4a5c283905e22fd11934994) 📅 <% titleDate %>
 - [ ] 抹药 🔼 📅 <% titleDate %>
 - [ ] [[实现自己的数据结构]] 📅 <% titleDate %>
-- [ ] [[学习深度学习]] 📅 <% titleDate %>
 - [ ] [学习项目](https://wx.zsxq.com/group/88511825151142) 📅 <% titleDate %>
 - [ ] 背面试题 📅 <% titleDate %>
 - [ ] [[学习C++]] 🔼 📅 <% titleDate %>

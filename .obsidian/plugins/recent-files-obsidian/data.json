@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
+      "basename": "3742.购买最多物品数目 I",
+      "path": "Leetcode/3742.购买最多物品数目 I.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -19,10 +31,6 @@
     {
       "basename": "334.递增的三元子序列",
       "path": "Leetcode/334.递增的三元子序列.md"
-    },
-    {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "Tasks",
@@ -191,14 +199,6 @@
     {
       "basename": "第六章框架开发实践",
       "path": "项目/Agent开发/Hello-agents/第六章框架开发实践.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/第二轮面试/异步日志/框架梳理.md"
-    },
-    {
-      "basename": "网盘功能设计",
-      "path": "项目/第一轮面试/海同网盘/网盘功能设计.md"
     }
   ],
   "omittedPaths": [],
