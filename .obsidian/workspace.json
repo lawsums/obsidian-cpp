@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,13 +295,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "和家长同步家教状况 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -377,10 +376,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "4043fb46cc1d5ac5",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Leetcode/3742.购买最多物品数目 I.md",
     "Templates/Homepage/和家长同步家教状况.md",
+    "Leetcode/3742.购买最多物品数目 I.md",
     "Templates/Daily_note_template.md",
     "Templates/Homepage/Homepage.md",
     "Leetcode/3742.购买最多物品数目 I.cpp",
