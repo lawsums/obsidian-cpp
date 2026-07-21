@@ -5,16 +5,40 @@
       "path": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md"
     },
     {
-      "basename": "4062.打家劫舍 V",
-      "path": "Leetcode/4062.打家劫舍 V.md"
+      "basename": "辉夜大小姐想让我告白 通往大人的阶梯",
+      "path": "Projects/anime/辉夜大小姐想让我告白 通往大人的阶梯.md"
+    },
+    {
+      "basename": "超时空辉夜姬！",
+      "path": "Projects/anime/超时空辉夜姬！.md"
+    },
+    {
+      "basename": "恋爱游戏世界对路人角色很不友好",
+      "path": "Projects/anime/恋爱游戏世界对路人角色很不友好.md"
+    },
+    {
+      "basename": "我是星际国家的恶德领主！",
+      "path": "Projects/anime/我是星际国家的恶德领主！.md"
+    },
+    {
+      "basename": "转生成自动贩卖机的我今天也在迷宫徘徊",
+      "path": "Projects/anime/转生成自动贩卖机的我今天也在迷宫徘徊.md"
+    },
+    {
+      "basename": "创建个人网站",
+      "path": "Templates/创建个人网站.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
+      "basename": "4062.打家劫舍 V",
+      "path": "Leetcode/4062.打家劫舍 V.md"
     },
     {
       "basename": "算法路线图",
@@ -175,30 +199,6 @@
     {
       "basename": "在嵌入式吧发帖询问Linux驱动学习路径",
       "path": "Templates/Homepage/在嵌入式吧发帖询问Linux驱动学习路径.md"
-    },
-    {
-      "basename": "第七章构建你的Agent框架",
-      "path": "项目/Agent开发/Hello-agents/第七章构建你的Agent框架.md"
-    },
-    {
-      "basename": "制作 ai 任务管家相关软件",
-      "path": "Templates/Homepage/制作 ai 任务管家相关软件.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/Agent开发/Hello-agents/框架梳理.md"
-    },
-    {
-      "basename": "Inbox",
-      "path": "Tasks/Inbox.md"
-    },
-    {
-      "basename": "试课安排",
-      "path": "Templates/试课安排.md"
-    },
-    {
-      "basename": "第六章框架开发实践",
-      "path": "项目/Agent开发/Hello-agents/第六章框架开发实践.md"
     }
   ],
   "omittedPaths": [],

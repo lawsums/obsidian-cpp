@@ -61,6 +61,54 @@
         },
         {
           "config": {
+            "coverField": "封面",
+            "fitStyle": "cover",
+            "includeFields": [
+              "Bangumi评分",
+              "标签",
+              "开播日期"
+            ],
+            "cardWidth": 120
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": [
+              {
+                "field": "观看状态",
+                "operator": "is",
+                "enabled": true,
+                "value": "已看📘"
+              }
+            ]
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": [
+              {
+                "field": "开播日期",
+                "order": "desc",
+                "enabled": false
+              },
+              {
+                "field": "Bangumi评分",
+                "order": "desc",
+                "enabled": false
+              },
+              {
+                "field": "name",
+                "order": "asc",
+                "enabled": false
+              }
+            ]
+          },
+          "id": "235b1174-943b-4f02-9fc7-e2475a086466",
+          "name": "最近看完的",
+          "type": "gallery"
+        },
+        {
+          "config": {
             "fieldConfig": {
               "导演": {
                 "width": 180
@@ -142,13 +190,19 @@
             ]
           },
           "filter": {
-            "conjunction": "and",
+            "conjunction": "or",
             "conditions": [
               {
                 "field": "观看状态",
                 "operator": "is",
                 "enabled": true,
                 "value": "想看⏰"
+              },
+              {
+                "field": "观看状态",
+                "operator": "is",
+                "enabled": true,
+                "value": "在看📖"
               }
             ]
           },
