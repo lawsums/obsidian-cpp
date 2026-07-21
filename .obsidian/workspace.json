@@ -151,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "练习题_代码实践操作题 的大纲"
             }
           },
           {
@@ -335,8 +336,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -378,17 +378,17 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "c86c3cc9a1382fbe",
   "lastOpenFiles": [
+    "Templates/Homepage/学习深度学习.md",
+    "Templates/Homepage/Homepage.md",
     "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
     "Templates/Homepage/和家长同步家教状况.md",
-    "Templates/Homepage/Homepage.md",
     "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
     "Leetcode/3742.购买最多物品数目 I.md",
     "Templates/Daily_note_template.md",
     "Leetcode/3742.购买最多物品数目 I.cpp",
     "Dairies/2026-07-21.md",
-    "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/学习C++.md",
     "Leetcode/算法路线图.md",
     "Leetcode/334.递增的三元子序列.md",
