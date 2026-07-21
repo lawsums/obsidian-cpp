@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "框架梳理",
+      "path": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
+    },
+    {
+      "basename": "练习题_代码实践操作题",
+      "path": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -59,10 +67,6 @@
     {
       "basename": "备份并梳理仓库",
       "path": "Templates/备份并梳理仓库.md"
-    },
-    {
-      "basename": "练习题_代码实践操作题",
-      "path": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md"
     },
     {
       "basename": "运营商信息咨询",
@@ -143,10 +147,6 @@
     {
       "basename": "25.K 个一组翻转链表",
       "path": "Leetcode/25.K 个一组翻转链表.cpp"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
     },
     {
       "basename": "3",

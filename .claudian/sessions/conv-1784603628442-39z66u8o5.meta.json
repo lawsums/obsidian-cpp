@@ -1,0 +1,10 @@
+{
+  "id": "conv-1784603628442-39z66u8o5",
+  "providerId": "opencode",
+  "title": "我想调整一下这个仓库的结构，但请先不要直接修改，因为直接改动可能会导致配置问题。",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1784603628445,
+  "updatedAt": 1784603628575,
+  "sessionId": null,
+  "selectedModel": "opencode:deepseek/deepseek-v4-pro"
+}
