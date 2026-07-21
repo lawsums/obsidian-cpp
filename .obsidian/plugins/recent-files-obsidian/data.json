@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "算法路线图",
       "path": "Leetcode/算法路线图.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "334.递增的三元子序列",

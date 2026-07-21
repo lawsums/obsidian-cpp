@@ -103,8 +103,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -218,8 +217,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -249,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
+                "file": "Leetcode/算法路线图.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习深度学习 的大纲"
+              "title": "算法路线图 的大纲"
             }
           },
           {
@@ -288,8 +286,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -331,7 +328,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ffffe9398e10819f",
+  "active": "9dc770d0e0eb3520",
   "lastOpenFiles": [
     "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/学习C++.md",
