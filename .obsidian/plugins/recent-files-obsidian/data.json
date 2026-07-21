@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "框架梳理",
-      "path": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
-    },
-    {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
-      "basename": "练习题_代码实践操作题",
-      "path": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md"
+      "basename": "框架梳理",
+      "path": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "练习题_代码实践操作题",
+      "path": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md"
     },
     {
       "basename": "3742.购买最多物品数目 I",
