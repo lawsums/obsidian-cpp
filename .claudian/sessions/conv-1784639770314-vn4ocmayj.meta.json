@@ -1,0 +1,25 @@
+{
+  "id": "conv-1784639770314-vn4ocmayj",
+  "providerId": "opencode",
+  "title": "freertos使用这个普通的 API 和 From ISR 的 API 有什么区别？",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1784639770328,
+  "updatedAt": 1784640261449,
+  "lastResponseAt": 1784640261449,
+  "sessionId": "ses_07b2e2708ffesUqgUJVBowMNe2",
+  "selectedModel": "opencode:deepseek/deepseek-v4-pro",
+  "providerState": {
+    "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
+  },
+  "currentNote": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24704,
+    "contextTokens": 25589,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 885,
+    "model": "opencode:deepseek/deepseek-v4-pro",
+    "percentage": 3
+  }
+}
