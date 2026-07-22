@@ -103,7 +103,8 @@
               "title": "学习C++"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -247,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习深度学习.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习深度学习 的大纲"
             }
           },
           {
@@ -291,7 +293,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -329,10 +332,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "55a6714d04955526",
   "lastOpenFiles": [
-    "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/学习C++.md",
     "Projects/anime/Re：从零开始的异世界生活 第二季.md",
     "Templates/Homepage/和家长同步家教状况.md",
