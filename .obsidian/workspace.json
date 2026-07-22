@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "55a6714d04955526",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习深度学习.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习深度学习"
+            }
+          },
+          {
             "id": "c682b4b35e2345fe",
             "type": "leaf",
             "state": {
@@ -78,33 +102,8 @@
               "icon": "lucide-file",
               "title": "学习C++"
             }
-          },
-          {
-            "id": "ffffe9398e10819f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习深度学习"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -248,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习深度学习 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -330,10 +329,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ffffe9398e10819f",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
+    "Projects/anime/Re：从零开始的异世界生活 第二季.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Templates/创建个人网站.md",
     "Leetcode/3804.操作后最大活跃区段数 II.md",
@@ -347,7 +348,6 @@
     "Templates/T-漫画.backup.md",
     "Templates/T-动画.backup.md",
     "Templates/ACGbangumiv2.1.backup.js",
-    "Templates/Homepage/学习深度学习.md",
     "Leetcode/算法路线图.md",
     "Leetcode/3804.操作后最大活跃区段数 II.cpp",
     "Templates/Homepage/Softmax的导数性质.md",
@@ -357,7 +357,6 @@
     "Projects/anime/尼古喵喵.md",
     "Projects/anime/转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿.md",
     "Projects/anime/无神世界的神明活动.md",
-    "Projects/anime/Re：从零开始的异世界生活 第二季.md",
     "Projects/anime/辉夜大小姐想让我告白 通往大人的阶梯.md",
     "Projects/anime/超时空辉夜姬！.md",
     "Projects/anime/在超市后门吸烟的二人.md",

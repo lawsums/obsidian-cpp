@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "Re：从零开始的异世界生活 第二季",
+      "path": "Projects/anime/Re：从零开始的异世界生活 第二季.md"
     },
     {
       "basename": "和家长同步家教状况",
@@ -195,10 +199,6 @@
     {
       "basename": "25.K 个一组翻转链表",
       "path": "Leetcode/25.K 个一组翻转链表.cpp"
-    },
-    {
-      "basename": "3",
-      "path": "Leetcode/3.md"
     }
   ],
   "omittedPaths": [],
