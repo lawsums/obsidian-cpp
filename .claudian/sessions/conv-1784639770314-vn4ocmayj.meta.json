@@ -4,8 +4,8 @@
   "title": "我对于这个做法主要有两个疑问,其他的细节我是大概明白的，所以你帮我解答一下这两个疑问，并记到这道题的...",
   "titleGenerationStatus": "failed",
   "createdAt": 1784639770328,
-  "updatedAt": 1784686429797,
-  "lastResponseAt": 1784686429797,
+  "updatedAt": 1784687941800,
+  "lastResponseAt": 1784687941800,
   "sessionId": "ses_0786a796effeowIv7KqFou0FXZ",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
@@ -14,11 +14,11 @@
   "currentNote": "Leetcode/3804.操作后最大活跃区段数 II.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 18944,
-    "contextTokens": 18970,
+    "cacheReadInputTokens": 24448,
+    "contextTokens": 24475,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 26,
+    "inputTokens": 27,
     "model": "opencode:deepseek/deepseek-v4-pro",
     "percentage": 2
   }

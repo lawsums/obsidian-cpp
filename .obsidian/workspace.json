@@ -127,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -271,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Templates/Homepage/学习深度学习.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法路线图 的大纲"
+              "title": "学习深度学习 的大纲"
             }
           },
           {
@@ -310,7 +311,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -352,13 +354,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "ffffe9398e10819f",
   "lastOpenFiles": [
+    "Templates/Homepage/学习深度学习.md",
+    "Templates/Homepage/Homepage.md",
     "Leetcode/3804.操作后最大活跃区段数 II.md",
     "Leetcode/3804.操作后最大活跃区段数 II.cpp",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/Softmax的导数性质.md",
-    "Templates/Homepage/学习深度学习.md",
     "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
     "Templates/创建个人网站.md",
     "Templates/Homepage/交叉熵求梯度.md",

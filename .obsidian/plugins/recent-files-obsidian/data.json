@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "3804.操作后最大活跃区段数 II",
       "path": "Leetcode/3804.操作后最大活跃区段数 II.md"
-    },
-    {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "Softmax的导数性质",
