@@ -56,16 +56,6 @@
             }
           },
           {
-            "id": "f811c138dc1d76a3",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
-            }
-          },
-          {
             "id": "c86c3cc9a1382fbe",
             "type": "leaf",
             "state": {
@@ -162,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -307,12 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/学习深度学习.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "学习深度学习 的大纲"
             }
           },
           {
@@ -387,36 +378,36 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f811c138dc1d76a3",
+  "active": "ffffe9398e10819f",
   "lastOpenFiles": [
+    "Templates/Homepage/Softmax的导数性质.md",
+    "Templates/Homepage/学习深度学习.md",
+    "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
+    "Templates/创建个人网站.md",
+    "Templates/Homepage/交叉熵求梯度.md",
     "Projects/anime/花织即使是转生也想打架.md",
     "Projects/anime/尼古喵喵.md",
     "Projects/anime/转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿.md",
     "Projects/anime/无神世界的神明活动.md",
     "Projects/anime/Re：从零开始的异世界生活 第二季.md",
-    "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
     "Projects/anime/辉夜大小姐想让我告白 通往大人的阶梯.md",
     "Projects/anime/超时空辉夜姬！.md",
     "Projects/anime/在超市后门吸烟的二人.md",
     "Projects/anime/恋爱游戏世界对路人角色很不友好.md",
     "Projects/anime/我是星际国家的恶德领主！.md",
     "Projects/anime/转生成自动贩卖机的我今天也在迷宫徘徊.md",
-    "Templates/创建个人网站.md",
     "Templates/Tasks.md",
     "Templates/Homepage/Homepage.md",
     "Leetcode/4062.打家劫舍 V.md",
     "Leetcode/算法路线图.md",
     "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
-    "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Leetcode/3742.购买最多物品数目 I.md",
     "Templates/Daily_note_template.md",
     "Leetcode/3742.购买最多物品数目 I.cpp",
     "Dairies/2026-07-21.md",
     "Templates/Homepage/学习C++.md",
-    "Leetcode/334.递增的三元子序列.md",
     "Leetcode/334.递增的三元子序列.cpp",
-    "Dairies/2026-07-20.md",
     "Leetcode/3518.最高乘法得分.cpp",
     "Leetcode/4062.打家劫舍 V.cpp",
     "Leetcode/25.K 个一组翻转链表.cpp",
