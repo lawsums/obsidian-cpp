@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "c682b4b35e2345fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/创建个人网站.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "创建个人网站"
+            }
+          },
+          {
             "id": "7ede330e9087d576",
             "type": "leaf",
             "state": {
@@ -53,30 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "和家长同步家教状况"
-            }
-          },
-          {
-            "id": "430c24f7f9505bf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/3804.操作后最大活跃区段数 II.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "3804.操作后最大活跃区段数 II"
             }
           },
           {
@@ -127,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/创建个人网站.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "创建个人网站 的大纲"
             }
           },
           {
@@ -352,14 +353,16 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "c682b4b35e2345fe",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
+    "Leetcode/3804.操作后最大活跃区段数 II.md",
+    "Templates/创建个人网站.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/用ai产出创意内容.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
     "Attachments/Pasted image 20260722141256.png",
-    "Leetcode/3804.操作后最大活跃区段数 II.md",
     "Dairies/2026-07-22.md",
     "Projects/anime/BanG Dream! YUME∞MITA.md",
     "Templates/漫画模板.backup.md",
@@ -368,12 +371,10 @@
     "Templates/T-动画.backup.md",
     "Templates/ACGbangumiv2.1.backup.js",
     "Templates/Homepage/学习深度学习.md",
-    "Templates/Homepage/学习C++.md",
     "Leetcode/算法路线图.md",
     "Leetcode/3804.操作后最大活跃区段数 II.cpp",
     "Templates/Homepage/Softmax的导数性质.md",
     "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
-    "Templates/创建个人网站.md",
     "Templates/Homepage/交叉熵求梯度.md",
     "Projects/anime/花织即使是转生也想打架.md",
     "Projects/anime/尼古喵喵.md",
