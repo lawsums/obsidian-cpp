@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "7ede330e9087d576",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "和家长同步家教状况"
+            }
+          },
+          {
             "id": "430c24f7f9505bf5",
             "type": "leaf",
             "state": {
@@ -330,9 +354,19 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/学习深度学习.md",
+    "Templates/Homepage/和家长同步家教状况.md",
+    "Templates/Homepage/每天给C盘文件夹建立软连接.md",
     "Templates/Homepage/Homepage.md",
+    "Attachments/Pasted image 20260722141256.png",
     "Leetcode/3804.操作后最大活跃区段数 II.md",
+    "Dairies/2026-07-22.md",
+    "Projects/anime/BanG Dream! YUME∞MITA.md",
+    "Templates/漫画模板.backup.md",
+    "Templates/游戏模板.backup.md",
+    "Templates/T-漫画.backup.md",
+    "Templates/T-动画.backup.md",
+    "Templates/ACGbangumiv2.1.backup.js",
+    "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/学习C++.md",
     "Leetcode/算法路线图.md",
     "Leetcode/3804.操作后最大活跃区段数 II.cpp",
@@ -348,15 +382,6 @@
     "Projects/anime/辉夜大小姐想让我告白 通往大人的阶梯.md",
     "Projects/anime/超时空辉夜姬！.md",
     "Projects/anime/在超市后门吸烟的二人.md",
-    "Projects/anime/恋爱游戏世界对路人角色很不友好.md",
-    "Projects/anime/我是星际国家的恶德领主！.md",
-    "Projects/anime/转生成自动贩卖机的我今天也在迷宫徘徊.md",
-    "Templates/Tasks.md",
-    "Leetcode/4062.打家劫舍 V.md",
-    "项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
-    "Templates/Homepage/和家长同步家教状况.md",
-    "Leetcode/3742.购买最多物品数目 I.md",
-    "Templates/Daily_note_template.md",
     "Leetcode/3742.购买最多物品数目 I.cpp",
     "Leetcode/334.递增的三元子序列.cpp",
     "Leetcode/3518.最高乘法得分.cpp",
@@ -368,7 +393,6 @@
     "项目/嵌入式/FreeRTOS快速入门",
     "项目/嵌入式",
     "Templates/Tasks",
-    "项目/Agent开发/Hello-agents",
     "Leetcode/images/2375_example1drawio.png",
     "Leetcode/images/2375_example1drawio-1.png",
     "项目/Agent开发/未命名.canvas",
@@ -376,7 +400,6 @@
     "Attachments/Pasted image 20260622110148.png",
     "Attachments/Pasted image 20260601171614.png",
     "Attachments/Pasted image 20260601171631.png",
-    "Leetcode/images/1466_meta-chart.jpeg",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]

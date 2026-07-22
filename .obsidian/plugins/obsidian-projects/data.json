@@ -76,7 +76,7 @@
               {
                 "field": "观看状态",
                 "operator": "is",
-                "enabled": true,
+                "enabled": false,
                 "value": "已看📘"
               }
             ]
@@ -97,9 +97,9 @@
                 "enabled": false
               },
               {
-                "field": "name",
-                "order": "asc",
-                "enabled": false
+                "field": "添加时间",
+                "order": "desc",
+                "enabled": true
               }
             ]
           },

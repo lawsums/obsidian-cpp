@@ -5,12 +5,28 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
+      "basename": "每天给C盘文件夹建立软连接",
+      "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
     },
     {
       "basename": "3804.操作后最大活跃区段数 II",
       "path": "Leetcode/3804.操作后最大活跃区段数 II.md"
+    },
+    {
+      "basename": "2026-07-22",
+      "path": "Dairies/2026-07-22.md"
+    },
+    {
+      "basename": "BanG Dream! YUME∞MITA",
+      "path": "Projects/anime/BanG Dream! YUME∞MITA.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "学习C++",
@@ -67,10 +83,6 @@
     {
       "basename": "框架梳理",
       "path": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
-    },
-    {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "3742.购买最多物品数目 I",
@@ -187,18 +199,6 @@
     {
       "basename": "3",
       "path": "Leetcode/3.md"
-    },
-    {
-      "basename": "算法面试好题",
-      "path": "Templates/Homepage/算法面试好题.md"
-    },
-    {
-      "basename": "询问小孩的数学书到了没有",
-      "path": "Templates/Homepage/询问小孩的数学书到了没有.md"
-    },
-    {
-      "basename": "一升二备课",
-      "path": "Templates/Homepage/一升二备课.md"
     }
   ],
   "omittedPaths": [],

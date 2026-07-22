@@ -319,10 +319,6 @@ async function bangumi(QuickAddInstance) {
     Info.score = await getValidScoreInput();
     Info.url = choice.link || " ";
 
-    // 添加时间：记录笔记创建日期（YYYY-MM-DD），便于按最近添加排序
-    const _now = new Date();
-    Info.addDate = `${_now.getFullYear()}-${String(_now.getMonth() + 1).padStart(2, '0')}-${String(_now.getDate()).padStart(2, '0')}`;
-
     // 生成笔记
     const TemplateName = `Bangumi${sourceName}`;
     await QuickAdd.quickAddApi.executeChoice(TemplateName, Info);

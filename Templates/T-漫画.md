@@ -12,6 +12,7 @@ let mediaInfo=tp.system.suggester(["是否本地保存？还没有","已保存"]
 中文名: "{{VALUE:CN}}"
 日文名: "{{VALUE:JP}}"
 封面: "({{VALUE:Poster}})"
+添加时间: "{{VALUE:addDate}}"
 Bangumi评分: " {{VALUE:rating}}"
 话数: "{{VALUE:episode}}"
 具体类型: "{{VALUE:type}}"

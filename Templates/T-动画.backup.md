@@ -17,7 +17,6 @@ let mediaInfo=tp.system.suggester(["在线","720P","BD 1080P","BDMV 1080P","BDMV
 开播日期: "{{VALUE:date}}"
 开播年份: " {{VALUE:year}}"
 开播月份: " {{VALUE:month}}"
-添加时间: "{{VALUE:addDate}}"
 Bangumi评分: " {{VALUE:rating}}"
 集数: "{{VALUE:episode}}"
 具体类型: "{{VALUE:type}}"

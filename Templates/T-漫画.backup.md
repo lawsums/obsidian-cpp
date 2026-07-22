@@ -1,40 +1,22 @@
 ---
-原作名: "{{VALUE:JP}}"
+<%*
+let state=tp.system.suggester(["想看","在看","已看"],["想看⏰","在看📖","已看📘"])
+let mediaInfo=tp.system.suggester(["是否本地保存？还没有","已保存"],["False","True"])
+-%>
+笔记ID: "{{DATE:YYYYMMDDHHmmss}}"
 别名: "{{VALUE:alias}}"
-tags:
-  - Manga
-出版社:
-  - "{{VALUE:Publish}}": 
-类别:
-  - "{{VALUE:type}}": 
-作者:
-  - "{{VALUE:author}}": 
-开坑日期: {{VALUE:Start}}
-添加时间: "{{VALUE:addDate}}"
-追至进度: 
-观看情况: 
-是否看完:
-  "{{VALUE:finish}}"
-看完日期: 
-推荐追漫:
-  "{{VALUE:chasing}}"
-推荐补漫:
-  "{{VALUE:candidate}}"
-作画评分:
-  "{{VALUE:art}}"
-演出评分:
-  "{{VALUE:show}}"
-人设评分:
-  "{{VALUE:character}}"
-剧情评分:
-  "{{VALUE:plot}}"
-分镜评分:
-  "{{VALUE:sound}}"
-内核评分:
-  "{{VALUE:core}}"
-RGN评分:
-  "{{VALUE:score}}"
-封面链接: "{{VALUE:Poster}}"
+标签: {{VALUE:tags}}
+观看状态: <% state %>
+连载状态：{{VALUE:status}}
+作品大类: Comic
+中文名: "{{VALUE:CN}}"
+日文名: "{{VALUE:JP}}"
+封面: "({{VALUE:Poster}})"
+Bangumi评分: " {{VALUE:rating}}"
+话数: "{{VALUE:episode}}"
+具体类型: "{{VALUE:type}}"
+出版社: "{{VALUE:Publish}}"
+保存状态: <% mediaInfo %>
 ---
 
 
@@ -46,14 +28,14 @@ RGN评分:
 | 日文名 | {{VALUE:JP}} |
 |:------: |:------------------------------------------: |
 | 开始 | {{VALUE:Start}} | 
-| 集数 | {{VALUE:status}} - {{VALUE:episode}} 话 |
-| 连载状态 | {{VALUE:status}} | 
+| 集数 | {{VALUE:status}} -{{VALUE:episode}}话 |
 | 杂志 | {{VALUE:Journal}} |
 | 作者 | {{VALUE:author}} |
 | 作画 | {{VALUE:staff}} |
 | 状态 |{{VALUE:status}}|
+|观看|<% state %>|S
 | 评分 | {{VALUE:score}}|
-| 观看地址 |   |
+| 存储 |  [点我查看本地漫画](file:///E:/luvian114/Pictures/漫画) |
 
 
 > [!abstract]+ **简介**
@@ -70,9 +52,9 @@ RGN评分:
 | **{{VALUE:character7}}**  |  **{{VALUE:character8}}**  | **{{VALUE:character9}}**  |
 | {{VALUE:characterPhoto7}}  |  {{VALUE:characterPhoto8}}  | {{VALUE:characterPhoto9}}  |
 
----
 
-## 实时观感
+
+
 
 
 
