@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "每天给C盘文件夹建立软连接",
@@ -107,10 +111,6 @@
     {
       "basename": "3518.最高乘法得分",
       "path": "Leetcode/3518.最高乘法得分.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "制作AI短片",
