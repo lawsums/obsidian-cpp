@@ -222,8 +222,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -288,13 +287,11 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -334,6 +331,7 @@
   },
   "active": "55a6714d04955526",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260722220637.png",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/学习C++.md",
@@ -362,7 +360,6 @@
     "Projects/anime/无神世界的神明活动.md",
     "Projects/anime/辉夜大小姐想让我告白 通往大人的阶梯.md",
     "Projects/anime/超时空辉夜姬！.md",
-    "Projects/anime/在超市后门吸烟的二人.md",
     "Leetcode/3742.购买最多物品数目 I.cpp",
     "Leetcode/334.递增的三元子序列.cpp",
     "Leetcode/3518.最高乘法得分.cpp",
