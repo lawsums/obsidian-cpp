@@ -1,25 +1,25 @@
 {
   "id": "conv-1784639770314-vn4ocmayj",
   "providerId": "opencode",
-  "title": "freertos使用这个普通的 API 和 From ISR 的 API 有什么区别？",
+  "title": "我对于这个做法主要有两个疑问,其他的细节我是大概明白的，所以你帮我解答一下这两个疑问，并记到这道题的...",
   "titleGenerationStatus": "failed",
   "createdAt": 1784639770328,
-  "updatedAt": 1784682560078,
-  "lastResponseAt": 1784640261449,
-  "sessionId": "ses_07b2e2708ffesUqgUJVBowMNe2",
+  "updatedAt": 1784686429797,
+  "lastResponseAt": 1784686429797,
+  "sessionId": "ses_0786a796effeowIv7KqFou0FXZ",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
   },
-  "currentNote": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md",
+  "currentNote": "Leetcode/3804.操作后最大活跃区段数 II.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 24704,
-    "contextTokens": 25589,
+    "cacheReadInputTokens": 18944,
+    "contextTokens": 18970,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 885,
+    "inputTokens": 26,
     "model": "opencode:deepseek/deepseek-v4-pro",
-    "percentage": 3
+    "percentage": 2
   }
 }
