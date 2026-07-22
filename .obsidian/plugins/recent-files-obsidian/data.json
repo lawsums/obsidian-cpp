@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
     },
@@ -9,16 +21,8 @@
       "path": "Templates/创建个人网站.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
       "basename": "3804.操作后最大活跃区段数 II",
       "path": "Leetcode/3804.操作后最大活跃区段数 II.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "用ai产出创意内容",
@@ -35,10 +39,6 @@
     {
       "basename": "BanG Dream! YUME∞MITA",
       "path": "Projects/anime/BanG Dream! YUME∞MITA.md"
-    },
-    {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "算法路线图",
