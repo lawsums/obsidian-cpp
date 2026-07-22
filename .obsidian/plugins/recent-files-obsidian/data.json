@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
+      "basename": "创建个人网站",
+      "path": "Templates/创建个人网站.md"
     },
     {
       "basename": "Re：从零开始的异世界生活 第二季",
@@ -19,10 +31,6 @@
     {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
-      "basename": "创建个人网站",
-      "path": "Templates/创建个人网站.md"
     },
     {
       "basename": "3804.操作后最大活跃区段数 II",
@@ -43,10 +51,6 @@
     {
       "basename": "BanG Dream! YUME∞MITA",
       "path": "Projects/anime/BanG Dream! YUME∞MITA.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "Softmax的导数性质",
@@ -79,10 +83,6 @@
     {
       "basename": "转生成自动贩卖机的我今天也在迷宫徘徊",
       "path": "Projects/anime/转生成自动贩卖机的我今天也在迷宫徘徊.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "4062.打家劫舍 V",

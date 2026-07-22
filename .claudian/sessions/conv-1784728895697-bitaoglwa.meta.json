@@ -1,25 +1,25 @@
 {
   "id": "conv-1784728895697-bitaoglwa",
   "providerId": "opencode",
-  "title": "这个图片什么意思",
+  "title": "``` tasks",
   "titleGenerationStatus": "failed",
   "createdAt": 1784728895698,
-  "updatedAt": 1784728907113,
-  "lastResponseAt": 1784728907113,
-  "sessionId": "ses_075de33d5ffepjTr8oVxk5sC6u",
+  "updatedAt": 1784731235967,
+  "lastResponseAt": 1784731235967,
+  "sessionId": "ses_075bfa21dffe44CwWeGMfrOeuc",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
   },
-  "currentNote": "Templates/Homepage/学习深度学习.md",
+  "currentNote": "Templates/Tasks.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 1536,
-    "contextTokens": 7504,
+    "cacheReadInputTokens": 17920,
+    "contextTokens": 18050,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 5968,
+    "inputTokens": 130,
     "model": "opencode:deepseek/deepseek-v4-pro",
-    "percentage": 1
+    "percentage": 2
   }
 }
