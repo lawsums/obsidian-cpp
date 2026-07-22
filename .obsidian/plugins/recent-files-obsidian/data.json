@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
       "basename": "3804.操作后最大活跃区段数 II",
       "path": "Leetcode/3804.操作后最大活跃区段数 II.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "Softmax的导数性质",
@@ -57,10 +65,6 @@
       "path": "Leetcode/4062.打家劫舍 V.md"
     },
     {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
-    },
-    {
       "basename": "框架梳理",
       "path": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
     },
@@ -75,10 +79,6 @@
     {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "334.递增的三元子序列",
