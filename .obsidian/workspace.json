@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -272,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/创建个人网站.md",
+                "file": "Templates/Homepage/和家长同步家教状况.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "创建个人网站 的大纲"
+              "title": "和家长同步家教状况 的大纲"
             }
           },
           {
@@ -353,11 +353,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "c682b4b35e2345fe",
+  "active": "7ede330e9087d576",
   "lastOpenFiles": [
+    "Templates/创建个人网站.md",
     "Templates/Homepage/学习C++.md",
     "Leetcode/3804.操作后最大活跃区段数 II.md",
-    "Templates/创建个人网站.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/用ai产出创意内容.md",
