@@ -10,7 +10,7 @@
 - [ ] C:\Users\Administrator\.workbuddy
 - [x] C:\Users\Administrator\.platformio ✅ 2026-07-22
 - [ ] C:\Users\Administrator\. cache
-- [ ] C:\Users\Administrator\.eide
+- [x] C:\Users\Administrator\.eide ✅ 2026-07-23
 - [ ] C:\Users\Administrator\.config
 - [ ] C:\Users\Administrator\.codex
 

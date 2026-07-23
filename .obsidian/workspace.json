@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "f4b2e8aba18a07d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/152.乘积最大子数组.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "152.乘积最大子数组"
-            }
-          },
-          {
             "id": "02c335c035ea2a8d",
             "type": "leaf",
             "state": {
@@ -127,7 +103,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -352,15 +329,16 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "ffffe9398e10819f",
   "lastOpenFiles": [
-    "Leetcode/152.乘积最大子数组.md",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/算法路线图.md",
+    "Templates/Homepage/每天给C盘文件夹建立软连接.md",
+    "Leetcode/152.乘积最大子数组.md",
     "Leetcode/152.乘积最大子数组.cpp",
     "Dairies/2026-07-23.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/学习深度学习.md",
-    "Leetcode/算法路线图.md",
     "Templates/Tasks.md",
     "Templates/创建个人网站.md",
     "Attachments/Pasted image 20260722220637.png",
@@ -368,7 +346,6 @@
     "Templates/Homepage/和家长同步家教状况.md",
     "Leetcode/3804.操作后最大活跃区段数 II.md",
     "Templates/Homepage/用ai产出创意内容.md",
-    "Templates/Homepage/每天给C盘文件夹建立软连接.md",
     "Attachments/Pasted image 20260722141256.png",
     "Dairies/2026-07-22.md",
     "Projects/anime/BanG Dream! YUME∞MITA.md",
