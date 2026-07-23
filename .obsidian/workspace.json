@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "1d30d4a0397abe0c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/嵌入式Agent.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "嵌入式Agent"
+            }
+          },
+          {
             "id": "a8fa3bde95b82293",
             "type": "leaf",
             "state": {
@@ -127,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,7 +266,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -352,10 +378,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "608f97273d97cd37",
+  "active": "1d30d4a0397abe0c",
   "lastOpenFiles": [
-    "Leetcode/算法路线图.md",
+    "Templates/嵌入式Agent.md",
+    "Templates/Tasks.md",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/算法路线图.md",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "项目/linux",
     "项目/嵌入式/Bootloader驱动开发",
@@ -366,7 +394,6 @@
     "Leetcode/152.乘积最大子数组.cpp",
     "Dairies/2026-07-23.md",
     "Templates/Homepage/学习C++.md",
-    "Templates/Tasks.md",
     "Templates/创建个人网站.md",
     "Attachments/Pasted image 20260722220637.png",
     "Projects/anime/Re：从零开始的异世界生活 第二季.md",
@@ -387,7 +414,6 @@
     "Templates/Homepage/交叉熵求梯度.md",
     "Projects/anime/花织即使是转生也想打架.md",
     "Projects/anime/尼古喵喵.md",
-    "Projects/anime/转学后班上的清纯可爱美少女，竟是小时候玩在一起的哥们儿.md",
     "Leetcode/3742.购买最多物品数目 I.cpp",
     "Leetcode/334.递增的三元子序列.cpp",
     "Leetcode/3518.最高乘法得分.cpp",
