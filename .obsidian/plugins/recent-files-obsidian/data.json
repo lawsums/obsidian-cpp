@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "算法路线图",
       "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "每天给C盘文件夹建立软连接",
@@ -195,10 +199,6 @@
     {
       "basename": "软件版的onetab",
       "path": "Software/软件版的onetab.md"
-    },
-    {
-      "basename": "25.K 个一组翻转链表",
-      "path": "Leetcode/25.K 个一组翻转链表.md"
     }
   ],
   "omittedPaths": [],
