@@ -4,7 +4,22 @@
   "title": "这题思路应该是：求最大子数组的乘积，需要同时维护最大子数组乘积和最小子数组乘积。有三种选择：",
   "titleGenerationStatus": "failed",
   "createdAt": 1784773959208,
-  "updatedAt": 1784773959300,
-  "sessionId": null,
-  "selectedModel": "opencode:deepseek/deepseek-v4-pro"
+  "updatedAt": 1784774902478,
+  "lastResponseAt": 1784774902478,
+  "sessionId": "ses_0732e97b9ffeA6H9uwTbV43iFV",
+  "selectedModel": "opencode:deepseek/deepseek-v4-pro",
+  "providerState": {
+    "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
+  },
+  "currentNote": "Leetcode/152.乘积最大子数组.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 11776,
+    "contextTokens": 13457,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 1681,
+    "model": "opencode:deepseek/deepseek-v4-pro",
+    "percentage": 1
+  }
 }
