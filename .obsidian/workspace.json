@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -378,7 +377,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "1d30d4a0397abe0c",
+  "active": "608f97273d97cd37",
   "lastOpenFiles": [
     "Templates/嵌入式Agent.md",
     "Templates/Tasks.md",
