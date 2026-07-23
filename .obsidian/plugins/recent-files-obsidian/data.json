@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
     },
     {
-      "basename": "框架梳理",
-      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+      "basename": "研一课程",
+      "path": "Temp/研一课程.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "框架梳理",
+      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "创建个人网站",
@@ -179,10 +183,6 @@
     {
       "basename": "146. LRU 缓存 - 力扣（LeetCode）",
       "path": "Leetcode/146. LRU 缓存 - 力扣（LeetCode）.md"
-    },
-    {
-      "basename": "研一课程",
-      "path": "Temp/研一课程.md"
     },
     {
       "basename": "2026-07-09",
