@@ -5,12 +5,12 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "嵌入式Agent",
-      "path": "Templates/嵌入式Agent.md"
+      "basename": "创建个人网站",
+      "path": "Templates/创建个人网站.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "算法路线图",
@@ -19,6 +19,14 @@
     {
       "basename": "框架梳理",
       "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+    },
+    {
+      "basename": "嵌入式Agent",
+      "path": "Templates/嵌入式Agent.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
     },
     {
       "basename": "学习深度学习",
@@ -31,14 +39,6 @@
     {
       "basename": "152.乘积最大子数组",
       "path": "Leetcode/152.乘积最大子数组.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "创建个人网站",
-      "path": "Templates/创建个人网站.md"
     },
     {
       "basename": "Re：从零开始的异世界生活 第二季",
