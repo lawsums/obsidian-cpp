@@ -151,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -270,7 +271,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -296,13 +298,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Templates/Homepage/学习深度学习.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法路线图 的大纲"
+              "title": "学习深度学习 的大纲"
             }
           },
           {
@@ -335,11 +337,13 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -377,19 +381,19 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "608f97273d97cd37",
+  "active": "ffffe9398e10819f",
   "lastOpenFiles": [
+    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+    "Templates/Homepage/学习深度学习.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/创建个人网站.md",
     "Templates/Homepage/学习C++.md",
     "Leetcode/算法路线图.md",
-    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/嵌入式Agent.md",
     "Templates/Tasks.md",
     "项目/linux",
     "项目/嵌入式/Bootloader驱动开发",
     "项目/嵌入式/FreeRTOS开发板入门",
-    "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
     "Leetcode/152.乘积最大子数组.md",
     "Leetcode/152.乘积最大子数组.cpp",
