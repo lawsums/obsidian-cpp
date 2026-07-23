@@ -1,0 +1,10 @@
+{
+  "id": "conv-1784773959207-xgqw1v0bh",
+  "providerId": "opencode",
+  "title": "这题思路应该是：求最大子数组的乘积，需要同时维护最大子数组乘积和最小子数组乘积。有三种选择：",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1784773959208,
+  "updatedAt": 1784773959300,
+  "sessionId": null,
+  "selectedModel": "opencode:deepseek/deepseek-v4-pro"
+}
