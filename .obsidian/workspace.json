@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -353,10 +352,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "975d0a543a1d4270",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Templates/嵌入式Agent.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/创建个人网站.md",
     "Templates/Homepage/学习深度学习.md",
     "Projects/manga/仆少女.md",
