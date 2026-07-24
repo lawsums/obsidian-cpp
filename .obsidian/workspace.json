@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -273,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习深度学习 的大纲"
+              "title": "学习C++ 的大纲"
             }
           },
           {
@@ -355,12 +355,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7ad080d1a7a76395",
+  "active": "80cff0b081da6c7b",
   "lastOpenFiles": [
-    "Templates/Homepage/学习深度学习.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/嵌入式Agent.md",
+    "Templates/Homepage/Homepage.md",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+    "Templates/Tasks.md",
+    "Templates/Homepage/学习深度学习.md",
     "Leetcode/4097.达到目标异或值的最少删除次数.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Templates/创建个人网站.md",
@@ -373,7 +374,6 @@
     "Temp/研一课程.md",
     "Attachments/Pasted image 20260723200707.png",
     "Leetcode/算法路线图.md",
-    "Templates/Tasks.md",
     "项目/linux",
     "项目/嵌入式/Bootloader驱动开发",
     "项目/嵌入式/FreeRTOS开发板入门",
