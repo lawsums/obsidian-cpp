@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/4097.达到目标异或值的最少删除次数.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "4097.达到目标异或值的最少删除次数 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -378,12 +377,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "48c2b2e995c19b5d",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/嵌入式Agent.md",
+    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/Homepage.md",
     "Leetcode/4097.达到目标异或值的最少删除次数.md",
-    "Templates/Homepage/和家长同步家教状况.md",
+    "Templates/嵌入式Agent.md",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/创建个人网站.md",
     "Templates/Homepage/学习深度学习.md",
