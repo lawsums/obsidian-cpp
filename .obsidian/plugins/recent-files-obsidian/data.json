@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "框架梳理",
-      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+      "basename": "4097.达到目标异或值的最少删除次数",
+      "path": "Leetcode/4097.达到目标异或值的最少删除次数.md"
+    },
+    {
+      "basename": "嵌入式Agent",
+      "path": "Templates/嵌入式Agent.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "嵌入式Agent",
-      "path": "Templates/嵌入式Agent.md"
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "创建个人网站",
@@ -31,10 +39,6 @@
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "4097.达到目标异或值的最少删除次数",
-      "path": "Leetcode/4097.达到目标异或值的最少删除次数.md"
     },
     {
       "basename": "每天给C盘文件夹建立软连接",
@@ -59,10 +63,6 @@
     {
       "basename": "Re：从零开始的异世界生活 第二季",
       "path": "Projects/anime/Re：从零开始的异世界生活 第二季.md"
-    },
-    {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "3804.操作后最大活跃区段数 II",

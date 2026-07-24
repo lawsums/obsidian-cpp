@@ -4,9 +4,9 @@
   "title": "这题是个 01 背包 DP 问题，但跟正常 DP 稍微有些不同。它的索引不是从前往后或从后往前遍历，...",
   "titleGenerationStatus": "failed",
   "createdAt": 1784773959208,
-  "updatedAt": 1784862738139,
-  "lastResponseAt": 1784860702544,
-  "sessionId": "ses_06e26c323ffeOBwiPqCxX7D3dD",
+  "updatedAt": 1784876911597,
+  "lastResponseAt": 1784876911597,
+  "sessionId": "ses_06d1ba5c6ffeJCRiLaMZIjAbMa",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
@@ -14,12 +14,12 @@
   "currentNote": "Leetcode/4097.达到目标异或值的最少删除次数.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 12160,
-    "contextTokens": 15109,
+    "cacheReadInputTokens": 12928,
+    "contextTokens": 14101,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 2949,
+    "inputTokens": 1173,
     "model": "opencode:deepseek/deepseek-v4-pro",
-    "percentage": 2
+    "percentage": 1
   }
 }

@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "48c2b2e995c19b5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/4097.达到目标异或值的最少删除次数.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "4097.达到目标异或值的最少删除次数"
+            }
+          },
+          {
             "id": "9aa06abd5471e5f5",
             "type": "leaf",
             "state": {
@@ -242,12 +266,12 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -273,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Leetcode/4097.达到目标异或值的最少删除次数.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法路线图 的大纲"
+              "title": "4097.达到目标异或值的最少删除次数 的大纲"
             }
           },
           {
@@ -316,8 +340,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -355,22 +378,23 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9aa06abd5471e5f5",
+  "active": "48c2b2e995c19b5d",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Templates/嵌入式Agent.md",
+    "Templates/Homepage/Homepage.md",
+    "Leetcode/4097.达到目标异或值的最少删除次数.md",
+    "Templates/Homepage/和家长同步家教状况.md",
+    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/创建个人网站.md",
     "Templates/Homepage/学习深度学习.md",
     "Projects/manga/仆少女.md",
     "Projects/game/Elden Ring.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
-    "Leetcode/4097.达到目标异或值的最少删除次数.md",
     "Leetcode/4097.达到目标异或值的最少删除次数.cpp",
     "Dairies/2026-07-24.md",
     "Temp/研一课程.md",
     "Attachments/Pasted image 20260723200707.png",
-    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Leetcode/算法路线图.md",
     "Templates/Tasks.md",
     "项目/linux",
@@ -381,7 +405,6 @@
     "Dairies/2026-07-23.md",
     "Attachments/Pasted image 20260722220637.png",
     "Projects/anime/Re：从零开始的异世界生活 第二季.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Leetcode/3804.操作后最大活跃区段数 II.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Attachments/Pasted image 20260722141256.png",
