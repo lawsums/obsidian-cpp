@@ -5,12 +5,16 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "每天给C盘文件夹建立软连接",
-      "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "4097.达到目标异或值的最少删除次数",
       "path": "Leetcode/4097.达到目标异或值的最少删除次数.md"
+    },
+    {
+      "basename": "每天给C盘文件夹建立软连接",
+      "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
     },
     {
       "basename": "学习深度学习",
@@ -27,10 +31,6 @@
     {
       "basename": "创建个人网站",
       "path": "Templates/创建个人网站.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "算法路线图",

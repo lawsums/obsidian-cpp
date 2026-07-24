@@ -6,7 +6,7 @@
 `mklink /J "C:\Users\Administrator\.platformio" "G:\MyPath\Dist\.platformio"`
 
 # 2 待处理
-- [ ] C:\Users\Administrator\.vscode
+- [x] C:\Users\Administrator\.vscode ✅ 2026-07-24
 - [ ] C:\Users\Administrator\.workbuddy
 - [x] C:\Users\Administrator\.platformio ✅ 2026-07-22
 - [ ] C:\Users\Administrator\. cache
