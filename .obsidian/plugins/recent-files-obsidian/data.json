@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "4097.达到目标异或值的最少删除次数",
+      "path": "Leetcode/4097.达到目标异或值的最少删除次数.md"
+    },
+    {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-07-16",
       "path": "Dairies/2026-07-16.md"
-    },
-    {
-      "basename": "大厂岗位需求",
-      "path": "Templates/Homepage/大厂岗位需求.md"
     }
   ],
   "omittedPaths": [],
