@@ -4,22 +4,22 @@
   "title": "这题是个 01 背包 DP 问题，但跟正常 DP 稍微有些不同。它的索引不是从前往后或从后往前遍历，...",
   "titleGenerationStatus": "failed",
   "createdAt": 1784773959208,
-  "updatedAt": 1784858358401,
-  "lastResponseAt": 1784775714753,
-  "sessionId": "ses_0732e97b9ffeA6H9uwTbV43iFV",
+  "updatedAt": 1784860702544,
+  "lastResponseAt": 1784860702544,
+  "sessionId": "ses_06e26c323ffeOBwiPqCxX7D3dD",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
   },
-  "currentNote": "Leetcode/152.乘积最大子数组.md",
+  "currentNote": "Leetcode/4097.达到目标异或值的最少删除次数.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 14208,
-    "contextTokens": 14297,
+    "cacheReadInputTokens": 12160,
+    "contextTokens": 15109,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 89,
+    "inputTokens": 2949,
     "model": "opencode:deepseek/deepseek-v4-pro",
-    "percentage": 1
+    "percentage": 2
   }
 }
