@@ -1,5 +1,7 @@
 # 1 Inbox
-- [ ] [学习 hello agent 项目](https://hello-agents.datawhale.cc/#/./README) #task ⏫ 🔁 every day 🛫 2026-07-23 ⏳ 2026-07-23
+- [ ] [学习 hello agent 项目](https://hello-agents.datawhale.cc/#/./README) #task ⏫ 🔁 every day 🛫 2026-07-25 ⏳ 2026-07-25
+- [x] [学习 hello agent 项目](https://hello-agents.datawhale.cc/#/./README) #task ⏫ 🔁 every day 🛫 2026-07-24 ⏳ 2026-07-24 ✅ 2026-07-24
+- [x] [学习 hello agent 项目](https://hello-agents.datawhale.cc/#/./README) #task ⏫ 🔁 every day 🛫 2026-07-23 ⏳ 2026-07-23 ✅ 2026-07-24
 - [x] [学习 hello agent 项目](https://hello-agents.datawhale.cc/#/./README) #task ⏫ 🔁 every day 🛫 2026-07-22 ⏳ 2026-07-22 ✅ 2026-07-23
 - [x] [学习 hello agent 项目](https://hello-agents.datawhale.cc/#/./README) #task ⏫ 🔁 every day 🛫 2026-07-21 ⏳ 2026-07-21 ✅ 2026-07-22
 - [x] [学习 hello agent 项目](https://hello-agents.datawhale.cc/#/./README) #task ⏫ 🔁 every day 🛫 2026-07-20 ⏳ 2026-07-20 ✅ 2026-07-20
