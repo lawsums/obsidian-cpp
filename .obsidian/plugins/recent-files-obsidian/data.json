@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "嵌入式Agent",
+      "path": "Templates/嵌入式Agent.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "创建个人网站",
+      "path": "Templates/创建个人网站.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
+      "basename": "仆少女",
+      "path": "Projects/manga/仆少女.md"
+    },
+    {
+      "basename": "Elden Ring",
+      "path": "Projects/game/Elden Ring.md"
     },
     {
       "basename": "学习C++",
@@ -17,10 +37,6 @@
       "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
     },
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
       "basename": "研一课程",
       "path": "Temp/研一课程.md"
     },
@@ -29,16 +45,8 @@
       "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
-      "basename": "创建个人网站",
-      "path": "Templates/创建个人网站.md"
-    },
-    {
       "basename": "算法路线图",
       "path": "Leetcode/算法路线图.md"
-    },
-    {
-      "basename": "嵌入式Agent",
-      "path": "Templates/嵌入式Agent.md"
     },
     {
       "basename": "Tasks",
@@ -191,14 +199,6 @@
     {
       "basename": "2026-07-09",
       "path": "Dairies/2026-07-09.md"
-    },
-    {
-      "basename": "2026-07-17",
-      "path": "Dairies/2026-07-17.md"
-    },
-    {
-      "basename": "2026-07-16",
-      "path": "Dairies/2026-07-16.md"
     }
   ],
   "omittedPaths": [],

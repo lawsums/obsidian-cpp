@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "975d0a543a1d4270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/嵌入式Agent.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "嵌入式Agent"
+            }
+          },
+          {
             "id": "02c335c035ea2a8d",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -328,19 +353,21 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "975d0a543a1d4270",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
+    "Templates/创建个人网站.md",
+    "Templates/Homepage/学习深度学习.md",
+    "Projects/manga/仆少女.md",
+    "Projects/game/Elden Ring.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
     "Leetcode/4097.达到目标异或值的最少删除次数.md",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/4097.达到目标异或值的最少删除次数.cpp",
     "Dairies/2026-07-24.md",
-    "Templates/Homepage/学习深度学习.md",
     "Temp/研一课程.md",
     "Attachments/Pasted image 20260723200707.png",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
-    "Templates/创建个人网站.md",
     "Leetcode/算法路线图.md",
     "Templates/嵌入式Agent.md",
     "Templates/Tasks.md",
@@ -364,7 +391,6 @@
     "Templates/T-动画.backup.md",
     "Templates/ACGbangumiv2.1.backup.js",
     "Leetcode/3804.操作后最大活跃区段数 II.cpp",
-    "Templates/Homepage/Softmax的导数性质.md",
     "Leetcode/3742.购买最多物品数目 I.cpp",
     "Leetcode/334.递增的三元子序列.cpp",
     "Leetcode/3518.最高乘法得分.cpp",

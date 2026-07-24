@@ -330,7 +330,10 @@
       "newNotesFolder": "",
       "views": [
         {
-          "config": {},
+          "config": {
+            "cardWidth": 180,
+            "coverField": "封面"
+          },
           "filter": {
             "conjunction": "and",
             "conditions": []
@@ -341,9 +344,9 @@
           "sort": {
             "criteria": []
           },
-          "id": "9b0d52c3-b172-4eeb-86dc-fbe935413898",
-          "name": "表格",
-          "type": "table"
+          "id": "1b6ed6fa-6edd-45c6-9d76-95d6190e05df",
+          "name": "画册",
+          "type": "gallery"
         }
       ],
       "id": "07910f33-cca6-46f2-b7bc-663a10d48944",
