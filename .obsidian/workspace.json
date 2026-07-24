@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "48c2b2e995c19b5d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/4097.达到目标异或值的最少删除次数.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "4097.达到目标异或值的最少删除次数"
-            }
-          },
-          {
             "id": "9aa06abd5471e5f5",
             "type": "leaf",
             "state": {
@@ -151,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -296,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习深度学习.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习深度学习 的大纲"
             }
           },
           {
@@ -335,7 +312,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -377,15 +355,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "7ad080d1a7a76395",
   "lastOpenFiles": [
-    "Templates/Homepage/和家长同步家教状况.md",
+    "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/Homepage.md",
-    "Leetcode/4097.达到目标异或值的最少删除次数.md",
     "Templates/嵌入式Agent.md",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+    "Leetcode/4097.达到目标异或值的最少删除次数.md",
+    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/创建个人网站.md",
-    "Templates/Homepage/学习深度学习.md",
     "Projects/manga/仆少女.md",
     "Projects/game/Elden Ring.md",
     "Templates/Homepage/学习C++.md",
