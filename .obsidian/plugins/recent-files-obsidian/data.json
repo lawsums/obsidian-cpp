@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "004_闪念",
+      "path": "Templates/Homepage/004_闪念.md"
+    },
+    {
       "basename": "框架梳理",
       "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "67.二进制求和",
       "path": "Leetcode/67.二进制求和.md"
-    },
-    {
-      "basename": "6. Z 字形变换",
-      "path": "Leetcode/6. Z 字形变换.md"
     }
   ],
   "omittedPaths": [],
