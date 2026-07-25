@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "004_闪念",
-      "path": "Templates/Homepage/004_闪念.md"
-    },
-    {
       "basename": "框架梳理",
       "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
@@ -15,6 +11,10 @@
     {
       "basename": "嵌入式Agent",
       "path": "Templates/嵌入式Agent.md"
+    },
+    {
+      "basename": "004_闪念",
+      "path": "Templates/Homepage/004_闪念.md"
     },
     {
       "basename": "学习C++",
