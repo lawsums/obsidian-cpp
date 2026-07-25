@@ -247,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法路线图 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -286,7 +286,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -328,7 +329,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "7ad080d1a7a76395",
   "lastOpenFiles": [
     "Leetcode/3442.执行操作可获得的最大总奖励 I.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
