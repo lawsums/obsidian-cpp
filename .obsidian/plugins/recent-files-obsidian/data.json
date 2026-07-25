@@ -1,12 +1,36 @@
 {
   "recentFiles": [
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
+      "basename": "框架梳理",
+      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "嵌入式Agent",
+      "path": "Templates/嵌入式Agent.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "写一个转盘",
+      "path": "Software/写一个转盘.md"
+    },
+    {
+      "basename": "软件开发",
+      "path": "Software/软件开发.md"
+    },
+    {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "3442.执行操作可获得的最大总奖励 I",
@@ -17,20 +41,8 @@
       "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
     },
     {
-      "basename": "框架梳理",
-      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
-    },
-    {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "嵌入式Agent",
-      "path": "Templates/嵌入式Agent.md"
     },
     {
       "basename": "4097.达到目标异或值的最少删除次数",
@@ -71,10 +83,6 @@
     {
       "basename": "3804.操作后最大活跃区段数 II",
       "path": "Leetcode/3804.操作后最大活跃区段数 II.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "2026-07-22",
@@ -141,10 +149,6 @@
       "path": "Templates/Homepage/面试题系列.md"
     },
     {
-      "basename": "软件开发",
-      "path": "Software/软件开发.md"
-    },
-    {
       "basename": "3518.最高乘法得分",
       "path": "Leetcode/3518.最高乘法得分.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "6. Z 字形变换",
       "path": "Leetcode/6. Z 字形变换.md"
-    },
-    {
-      "basename": "146. LRU 缓存 - 力扣（LeetCode）",
-      "path": "Leetcode/146. LRU 缓存 - 力扣（LeetCode）.md"
     }
   ],
   "omittedPaths": [],
