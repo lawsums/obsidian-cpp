@@ -103,7 +103,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -247,13 +248,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Leetcode/算法路线图.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "算法路线图 的大纲"
             }
           },
           {
@@ -286,8 +287,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -329,15 +329,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7ad080d1a7a76395",
+  "active": "ffffe9398e10819f",
   "lastOpenFiles": [
+    "Templates/Homepage/学习深度学习.md",
+    "Templates/Homepage/Homepage.md",
     "Leetcode/3442.执行操作可获得的最大总奖励 I.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/3442.执行操作可获得的最大总奖励 I.cpp",
     "Dairies/2026-07-25.md",
     "Templates/Tasks.md",
-    "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/学习C++.md",
     "Templates/嵌入式Agent.md",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
