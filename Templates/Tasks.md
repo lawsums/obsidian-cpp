@@ -19,7 +19,8 @@ sort by description
 - [x] 问问罗余娜成绩 #task 🔼 ➕ 2026-07-05 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260705-531e078f
 - [x] 充值梯子会员 #network 🔼 ➕ 2026-07-05 ⏳ 2026-07-06 ✅ 2026-07-06 ^task-20260705-985a9e6
 - [x] 给sly打电话 #task 🔼 ➕ 2026-07-05 ⏳ 2026-07-06 ✅ 2026-07-06 ^task-20260705-247bba30
-- [ ] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-07-25
+- [ ] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-07-26
+- [x] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-07-25 ✅ 2026-07-25
 - [x] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-07-24 ✅ 2026-07-24
 - [x] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-07-23 ✅ 2026-07-23
 - [x] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-07-22 ✅ 2026-07-22
@@ -88,7 +89,8 @@ sort by description
 - [x] 加牛客佬微信 #task 🔼 ➕ 2026-07-15 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260715-93cb29d3
 - [x] 给家长反馈 #task 🔼 ➕ 2026-07-16 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260716-36bc1ba4
 - [x] 去南图坐坐 #library 🔼 ➕ 2026-07-16 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260716-42dd28dc
-- [ ] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-07-25
+- [ ] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-07-26
+- [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-07-25 ✅ 2026-07-25
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-07-24 ✅ 2026-07-24
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-07-23 ✅ 2026-07-23
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-07-22 ✅ 2026-07-22
@@ -114,7 +116,8 @@ sort by description
 - [x] 拔充电器 #task 🔼 ⏳ 2026-07-21 ⏰ 2026-07-21 12:05 ➕ 2026-07-21 ✅ 2026-07-21 ^task-20260721-6280d2dd
 - [x] 洗澡 #task 🔼 ➕ 2026-07-21 ⏳ 2026-07-22 ✅ 2026-07-22 ^task-20260721-89592a2
 - [x] 为projects添加时间戳功能以支持排序 #dev 🔼 ➕ 2026-07-21 ⏳ 2026-07-22 ✅ 2026-07-22 ^task-20260721-b1d07cf
-- [ ] [[每天给C盘文件夹建立软连接]] #tech 🔼 🔁 every day ⏳ 2026-07-25
+- [ ] [[每天给C盘文件夹建立软连接]] #tech 🔼 🔁 every day ⏳ 2026-07-26
+- [x] [[每天给C盘文件夹建立软连接]] #tech 🔼 🔁 every day ⏳ 2026-07-25 ✅ 2026-07-25
 - [x] [[每天给C盘文件夹建立软连接]] #tech 🔼 🔁 every day ⏳ 2026-07-24 ✅ 2026-07-24
 - [x] [[每天给C盘文件夹建立软连接]] #tech 🔼 🔁 every day ⏳ 2026-07-23 ✅ 2026-07-23
 - [x] [[每天给C盘文件夹建立软连接]] #tech 🔼 🔁 every day ➕ 2026-07-22 ⏳ 2026-07-22 ✅ 2026-07-22 ^task-20260722-21b1e532

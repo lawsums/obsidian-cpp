@@ -4,7 +4,7 @@
   "title": "这题是个 01 背包 DP 问题，但跟正常 DP 稍微有些不同。它的索引不是从前往后或从后往前遍历，...",
   "titleGenerationStatus": "failed",
   "createdAt": 1784773959208,
-  "updatedAt": 1784876911597,
+  "updatedAt": 1784944023522,
   "lastResponseAt": 1784876911597,
   "sessionId": "ses_06d1ba5c6ffeJCRiLaMZIjAbMa",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "每天给C盘文件夹建立软连接",
+      "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "3442.执行操作可获得的最大总奖励 I",
+      "path": "Leetcode/3442.执行操作可获得的最大总奖励 I.md"
     },
     {
       "basename": "框架梳理",
@@ -43,10 +51,6 @@
     {
       "basename": "Elden Ring",
       "path": "Projects/game/Elden Ring.md"
-    },
-    {
-      "basename": "每天给C盘文件夹建立软连接",
-      "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
     },
     {
       "basename": "研一课程",
@@ -195,10 +199,6 @@
     {
       "basename": "146. LRU 缓存 - 力扣（LeetCode）",
       "path": "Leetcode/146. LRU 缓存 - 力扣（LeetCode）.md"
-    },
-    {
-      "basename": "2026-07-09",
-      "path": "Dairies/2026-07-09.md"
     }
   ],
   "omittedPaths": [],
