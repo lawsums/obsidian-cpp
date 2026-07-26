@@ -5,12 +5,24 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
+      "basename": "ACGbangumiv2.1",
+      "path": "Templates/ACGbangumiv2.1.js"
+    },
+    {
+      "basename": "创建个人网站",
+      "path": "Templates/创建个人网站.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "试用grill me检测想法合理性",
       "path": "Templates/试用grill me检测想法合理性.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
     },
     {
       "basename": "框架梳理",
@@ -23,10 +35,6 @@
     {
       "basename": "每天给C盘文件夹建立软连接",
       "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "3659.统计异或值为给定值的路径数目",
@@ -67,10 +75,6 @@
     {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
-      "basename": "创建个人网站",
-      "path": "Templates/创建个人网站.md"
     },
     {
       "basename": "仆少女",
@@ -195,10 +199,6 @@
     {
       "basename": "438. 找到字符串中所有字母异位词",
       "path": "Leetcode/438. 找到字符串中所有字母异位词.md"
-    },
-    {
-      "basename": "3. 无重复字符的最长子串",
-      "path": "Leetcode/3. 无重复字符的最长子串.md"
     }
   ],
   "omittedPaths": [],

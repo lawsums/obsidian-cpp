@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "93b956f173531071",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/创建个人网站.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "创建个人网站"
+            }
+          },
+          {
             "id": "eb0daf38de235d69",
             "type": "leaf",
             "state": {
@@ -53,30 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "Tasks"
-            }
-          },
-          {
-            "id": "cb60a56a50f54e05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/试用grill me检测想法合理性.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "试用grill me检测想法合理性"
             }
           },
           {
@@ -184,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "试用grill me检测想法合理性",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -377,15 +377,17 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "944cd14a7fae27b7",
   "lastOpenFiles": [
-    "Templates/Tasks.md",
-    "Templates/试用grill me检测想法合理性.md",
+    "Templates/ACGbangumiv2.1.js",
     "Templates/Homepage/Homepage.md",
+    "Templates/创建个人网站.md",
+    "Leetcode/算法路线图.md",
+    "Templates/试用grill me检测想法合理性.md",
+    "Templates/Tasks.md",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
-    "Leetcode/算法路线图.md",
     "Leetcode/3659.统计异或值为给定值的路径数目.md",
     "Leetcode/3659.统计异或值为给定值的路径数目.cpp",
     "Leetcode/3442.执行操作可获得的最大总奖励 I.md",
@@ -401,7 +403,6 @@
     "Dairies/2026-07-25.md",
     "Leetcode/4097.达到目标异或值的最少删除次数.md",
     "Templates/Homepage/和家长同步家教状况.md",
-    "Templates/创建个人网站.md",
     "Projects/manga/仆少女.md",
     "Projects/game/Elden Ring.md",
     "Leetcode/4097.达到目标异或值的最少删除次数.cpp",
@@ -413,12 +414,10 @@
     "项目/嵌入式/FreeRTOS开发板入门",
     "Leetcode/152.乘积最大子数组.md",
     "Leetcode/152.乘积最大子数组.cpp",
-    "Dairies/2026-07-23.md",
     "Attachments/Pasted image 20260722220637.png",
     "Attachments/Pasted image 20260722141256.png",
     "Templates/ACGbangumiv2.1.backup.js",
     "Leetcode/3804.操作后最大活跃区段数 II.cpp",
-    "Leetcode/3742.购买最多物品数目 I.cpp",
     "Attachments/Pasted image 20260714171517.png",
     "Attachments/Pasted image 20260714163957.png",
     "Attachments/Pasted image 20260714114130.png",
