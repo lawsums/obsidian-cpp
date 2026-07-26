@@ -32,54 +32,6 @@
             }
           },
           {
-            "id": "3f4f907c0ccb91a7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "框架梳理"
-            }
-          },
-          {
-            "id": "705fa901ee25a3b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/嵌入式Agent.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "嵌入式Agent"
-            }
-          },
-          {
             "id": "02c335c035ea2a8d",
             "type": "leaf",
             "state": {
@@ -126,9 +78,32 @@
               "icon": "lucide-file",
               "title": "学习C++"
             }
+          },
+          {
+            "id": "ffffe9398e10819f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习深度学习.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习深度学习"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -273,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+                "file": "Leetcode/算法路线图.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "框架梳理 的大纲"
+              "title": "算法路线图 的大纲"
             }
           },
           {
@@ -312,13 +286,11 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -356,8 +328,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "3f4f907c0ccb91a7",
+  "active": "9dc770d0e0eb3520",
   "lastOpenFiles": [
+    "Dairies/2026-07-26.md",
     "Templates/Homepage/Homepage.md",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Attachments/Pasted image 20260725215742.png",
