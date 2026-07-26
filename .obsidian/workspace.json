@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "da29e74403707dac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Tasks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tasks"
-            }
-          },
-          {
             "id": "cb60a56a50f54e05",
             "type": "leaf",
             "state": {
@@ -176,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,8 +271,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -365,8 +340,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -404,7 +378,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "cb60a56a50f54e05",
+  "active": "e84526544c0f1ccd",
   "lastOpenFiles": [
     "Templates/试用grill me检测想法合理性.md",
     "Templates/Tasks.md",
