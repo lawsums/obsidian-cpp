@@ -5,32 +5,52 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "ACGbangumiv2.1",
-      "path": "Templates/ACGbangumiv2.1.js"
+      "basename": "004_闪念",
+      "path": "Templates/Homepage/004_闪念.md"
     },
     {
-      "basename": "创建个人网站",
-      "path": "Templates/创建个人网站.md"
+      "basename": "复习面试题",
+      "path": "Templates/Homepage/复习面试题.md"
+    },
+    {
+      "basename": "做一个解谜缝合小游戏",
+      "path": "Templates/Homepage/做一个解谜缝合小游戏.md"
+    },
+    {
+      "basename": "写战斗小说的技巧",
+      "path": "Templates/Homepage/写战斗小说的技巧.md"
     },
     {
       "basename": "算法路线图",
       "path": "Leetcode/算法路线图.md"
     },
     {
-      "basename": "试用grill me检测想法合理性",
-      "path": "Templates/试用grill me检测想法合理性.md"
+      "basename": "创建个人网站",
+      "path": "Templates/创建个人网站.md"
+    },
+    {
+      "basename": "你画我猜+植物大战僵尸",
+      "path": "Templates/你画我猜+植物大战僵尸.md"
     },
     {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
     },
     {
-      "basename": "框架梳理",
-      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
-    },
-    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "ACGbangumiv2.1",
+      "path": "Templates/ACGbangumiv2.1.js"
+    },
+    {
+      "basename": "试用grill me检测想法合理性",
+      "path": "Templates/试用grill me检测想法合理性.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "每天给C盘文件夹建立软连接",
@@ -43,10 +63,6 @@
     {
       "basename": "嵌入式Agent",
       "path": "Templates/嵌入式Agent.md"
-    },
-    {
-      "basename": "004_闪念",
-      "path": "Templates/Homepage/004_闪念.md"
     },
     {
       "basename": "写一个转盘",
@@ -183,22 +199,6 @@
     {
       "basename": "4062.打家劫舍 V",
       "path": "Leetcode/4062.打家劫舍 V.cpp"
-    },
-    {
-      "basename": "005_KTV歌单",
-      "path": "Templates/Homepage/005_KTV歌单.md"
-    },
-    {
-      "basename": "309. 最佳买卖股票时机含冷冻期",
-      "path": "Leetcode/309. 最佳买卖股票时机含冷冻期.md"
-    },
-    {
-      "basename": "查找嵌入式岗位需求",
-      "path": "Templates/Homepage/查找嵌入式岗位需求.md"
-    },
-    {
-      "basename": "438. 找到字符串中所有字母异位词",
-      "path": "Leetcode/438. 找到字符串中所有字母异位词.md"
     }
   ],
   "omittedPaths": [],

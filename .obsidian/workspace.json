@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "93b956f173531071",
+            "id": "ba63ab7c212691d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/创建个人网站.md",
+                "file": "Templates/Homepage/复习面试题.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,17 +52,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "创建个人网站"
+              "title": "复习面试题"
             }
           },
           {
-            "id": "eb0daf38de235d69",
+            "id": "ad5c1de79579a8ee",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Tasks.md",
-                "mode": "preview",
+                "file": "Templates/Homepage/004_闪念.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "004_闪念"
             }
           },
           {
@@ -101,30 +101,6 @@
               },
               "icon": "lucide-file",
               "title": "算法路线图"
-            }
-          },
-          {
-            "id": "80cff0b081da6c7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习C++"
             }
           },
           {
@@ -377,16 +353,23 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "944cd14a7fae27b7",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/ACGbangumiv2.1.js",
-    "Templates/Homepage/Homepage.md",
-    "Templates/创建个人网站.md",
+    "Templates/Homepage/004_闪念.md",
+    "Templates/Homepage/复习面试题.md",
+    "Templates/Homepage/做一个解谜缝合小游戏.md",
+    "Templates/Homepage/写战斗小说的技巧.md",
     "Leetcode/算法路线图.md",
-    "Templates/试用grill me检测想法合理性.md",
+    "Projects/anime/少女乐队的呐喊.md",
+    "Templates/创建个人网站.md",
+    "Templates/你画我猜+植物大战僵尸.md",
     "Templates/Tasks.md",
-    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+    "Templates/ACGbangumi-cli.cjs",
     "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/ACGbangumiv2.1.js",
+    "Templates/试用grill me检测想法合理性.md",
+    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
     "Leetcode/3659.统计异或值为给定值的路径数目.md",
     "Leetcode/3659.统计异或值为给定值的路径数目.cpp",
@@ -394,7 +377,6 @@
     "Dairies/2026-07-26.md",
     "Attachments/Pasted image 20260725215742.png",
     "Templates/嵌入式Agent.md",
-    "Templates/Homepage/004_闪念.md",
     "Software/写一个转盘.md",
     "Software/软件开发.md",
     "Templates/Homepage/用ai产出创意内容.md",
@@ -404,20 +386,15 @@
     "Leetcode/4097.达到目标异或值的最少删除次数.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Projects/manga/仆少女.md",
-    "Projects/game/Elden Ring.md",
     "Leetcode/4097.达到目标异或值的最少删除次数.cpp",
-    "Dairies/2026-07-24.md",
-    "Temp/研一课程.md",
     "Attachments/Pasted image 20260723200707.png",
     "项目/linux",
     "项目/嵌入式/Bootloader驱动开发",
     "项目/嵌入式/FreeRTOS开发板入门",
-    "Leetcode/152.乘积最大子数组.md",
     "Leetcode/152.乘积最大子数组.cpp",
     "Attachments/Pasted image 20260722220637.png",
     "Attachments/Pasted image 20260722141256.png",
     "Templates/ACGbangumiv2.1.backup.js",
-    "Leetcode/3804.操作后最大活跃区段数 II.cpp",
     "Attachments/Pasted image 20260714171517.png",
     "Attachments/Pasted image 20260714163957.png",
     "Attachments/Pasted image 20260714114130.png",
