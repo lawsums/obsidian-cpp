@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "试用grill me检测想法合理性",
+      "path": "Templates/试用grill me检测想法合理性.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
       "basename": "框架梳理",
       "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
@@ -51,10 +59,6 @@
     {
       "basename": "3442.执行操作可获得的最大总奖励 I",
       "path": "Leetcode/3442.执行操作可获得的最大总奖励 I.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "4097.达到目标异或值的最少删除次数",
@@ -195,10 +199,6 @@
     {
       "basename": "3. 无重复字符的最长子串",
       "path": "Leetcode/3. 无重复字符的最长子串.md"
-    },
-    {
-      "basename": "300. 最长递增子序列",
-      "path": "Leetcode/300. 最长递增子序列.md"
     }
   ],
   "omittedPaths": [],
