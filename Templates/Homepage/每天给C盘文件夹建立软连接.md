@@ -7,7 +7,7 @@
 
 # 2 待处理
 - [x] C:\Users\Administrator\.vscode ✅ 2026-07-24
-- [ ] C:\Users\Administrator\.workbuddy
+- [x] C:\Users\Administrator\.workbuddy ✅ 2026-07-26
 - [x] C:\Users\Administrator\.platformio ✅ 2026-07-22
 - [ ] C:\Users\Administrator\. cache
 - [x] C:\Users\Administrator\.eide ✅ 2026-07-23

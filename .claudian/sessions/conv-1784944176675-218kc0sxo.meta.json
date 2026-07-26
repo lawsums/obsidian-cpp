@@ -1,25 +1,25 @@
 {
   "id": "conv-1784944176675-218kc0sxo",
   "providerId": "opencode",
-  "title": "帮我写一下",
+  "title": "这一题的异或 DP 思路比较经典。",
   "titleGenerationStatus": "failed",
   "createdAt": 1784944176677,
-  "updatedAt": 1784946247621,
-  "lastResponseAt": 1784944399568,
-  "sessionId": "ses_0690947e5ffeMa83JtIlHEYcUW",
+  "updatedAt": 1785031061028,
+  "lastResponseAt": 1785031061028,
+  "sessionId": "ses_063dc9158ffeajnC35bWKnYYqL",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
   },
-  "currentNote": "Leetcode/3442.执行操作可获得的最大总奖励 I.md",
+  "currentNote": "Leetcode/3659.统计异或值为给定值的路径数目.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 30592,
-    "contextTokens": 31547,
+    "cacheReadInputTokens": 13824,
+    "contextTokens": 17286,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 955,
+    "inputTokens": 3462,
     "model": "opencode:deepseek/deepseek-v4-pro",
-    "percentage": 3
+    "percentage": 2
   }
 }

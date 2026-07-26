@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "3659.统计异或值为给定值的路径数目",
+      "path": "Leetcode/3659.统计异或值为给定值的路径数目.md"
+    },
+    {
+      "basename": "每天给C盘文件夹建立软连接",
+      "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
     },
     {
       "basename": "框架梳理",
@@ -15,10 +31,6 @@
     {
       "basename": "004_闪念",
       "path": "Templates/Homepage/004_闪念.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "写一个转盘",
@@ -39,10 +51,6 @@
     {
       "basename": "3442.执行操作可获得的最大总奖励 I",
       "path": "Leetcode/3442.执行操作可获得的最大总奖励 I.md"
-    },
-    {
-      "basename": "每天给C盘文件夹建立软连接",
-      "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
     },
     {
       "basename": "Tasks",
@@ -71,10 +79,6 @@
     {
       "basename": "研一课程",
       "path": "Temp/研一课程.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "152.乘积最大子数组",
@@ -195,10 +199,6 @@
     {
       "basename": "300. 最长递增子序列",
       "path": "Leetcode/300. 最长递增子序列.md"
-    },
-    {
-      "basename": "67.二进制求和",
-      "path": "Leetcode/67.二进制求和.md"
     }
   ],
   "omittedPaths": [],
