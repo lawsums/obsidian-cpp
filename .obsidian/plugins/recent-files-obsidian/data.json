@@ -1,28 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
+      "basename": "框架梳理",
+      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "3659.统计异或值为给定值的路径数目",
-      "path": "Leetcode/3659.统计异或值为给定值的路径数目.md"
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "每天给C盘文件夹建立软连接",
       "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
     },
     {
-      "basename": "框架梳理",
-      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "3659.统计异或值为给定值的路径数目",
+      "path": "Leetcode/3659.统计异或值为给定值的路径数目.md"
     },
     {
       "basename": "嵌入式Agent",
