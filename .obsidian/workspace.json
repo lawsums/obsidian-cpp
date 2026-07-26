@@ -32,13 +32,13 @@
             }
           },
           {
-            "id": "e84526544c0f1ccd",
+            "id": "eb0daf38de235d69",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
-                "mode": "source",
+                "file": "Templates/Tasks.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "框架梳理"
+              "title": "Tasks"
             }
           },
           {
@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -378,12 +377,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "e84526544c0f1ccd",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/试用grill me检测想法合理性.md",
     "Templates/Tasks.md",
-    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+    "Templates/试用grill me检测想法合理性.md",
     "Templates/Homepage/Homepage.md",
+    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
     "Leetcode/算法路线图.md",
