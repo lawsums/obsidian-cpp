@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "b078e9bae577194f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "和家长同步家教状况"
-            }
-          },
-          {
             "id": "aca06822ddac8c49",
             "type": "leaf",
             "state": {
@@ -151,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "和家长同步家教状况 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -379,11 +354,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "b078e9bae577194f",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Tasks.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+    "Templates/Homepage/和家长同步家教状况.md",
+    "Templates/Tasks.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-07-27.md",
     "Templates/Homepage/004_闪念.md",
