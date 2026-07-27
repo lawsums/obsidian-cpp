@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "2f0d60478cf9edf2",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          },
+          {
             "id": "aca06822ddac8c49",
             "type": "leaf",
             "state": {
@@ -311,8 +321,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -354,12 +363,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "9dc770d0e0eb3520",
   "lastOpenFiles": [
+    "Temp/_test.bat",
+    "Temp/_run_search.bat",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Tasks.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-07-27.md",
     "Templates/Homepage/004_闪念.md",
     "Templates/Homepage/复习面试题.md",
@@ -386,7 +397,6 @@
     "Templates/Homepage/学习深度学习.md",
     "Leetcode/3442.执行操作可获得的最大总奖励 I.cpp",
     "Dairies/2026-07-25.md",
-    "Leetcode/4097.达到目标异或值的最少删除次数.md",
     "Leetcode/4097.达到目标异或值的最少删除次数.cpp",
     "Attachments/Pasted image 20260723200707.png",
     "项目/linux",
@@ -395,7 +405,6 @@
     "Leetcode/152.乘积最大子数组.cpp",
     "Attachments/Pasted image 20260722220637.png",
     "Attachments/Pasted image 20260722141256.png",
-    "Templates/ACGbangumiv2.1.backup.js",
     "Attachments/Pasted image 20260714171517.png",
     "Attachments/Pasted image 20260714163957.png",
     "Attachments/Pasted image 20260714114130.png",

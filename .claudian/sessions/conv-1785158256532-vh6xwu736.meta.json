@@ -1,24 +1,25 @@
 {
-  "id": "conv-1784944176675-218kc0sxo",
+  "id": "conv-1785158256532-vh6xwu736",
   "providerId": "opencode",
-  "title": "这一题的异或 DP 思路比较经典。",
+  "title": "Templates/ACGbangumi-cli",
   "titleGenerationStatus": "failed",
-  "createdAt": 1784944176677,
-  "updatedAt": 1785158160670,
-  "lastResponseAt": 1785031061028,
-  "sessionId": "ses_063dc9158ffeajnC35bWKnYYqL",
+  "createdAt": 1785158256537,
+  "updatedAt": 1785158636389,
+  "lastResponseAt": 1785158636389,
+  "sessionId": "ses_05c46a9e1ffefq9UC7gEBT9aAd",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
   },
+  "currentNote": "Templates/Homepage/Homepage.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 13824,
-    "contextTokens": 17286,
+    "cacheReadInputTokens": 37120,
+    "contextTokens": 37354,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 3462,
+    "inputTokens": 234,
     "model": "opencode:deepseek/deepseek-v4-pro",
-    "percentage": 2
+    "percentage": 4
   }
 }
