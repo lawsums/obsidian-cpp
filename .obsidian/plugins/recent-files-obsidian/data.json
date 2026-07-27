@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "框架梳理",
+      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+    },
+    {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "试用grill me检测想法合理性",
       "path": "Templates/试用grill me检测想法合理性.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "每天给C盘文件夹建立软连接",
