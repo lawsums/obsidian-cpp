@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,8 +271,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -298,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+                "file": "Templates/Homepage/和家长同步家教状况.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "框架梳理 的大纲"
+              "title": "和家长同步家教状况 的大纲"
             }
           },
           {
@@ -342,8 +341,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -381,11 +379,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "aca06822ddac8c49",
+  "active": "b078e9bae577194f",
   "lastOpenFiles": [
     "Templates/Tasks.md",
-    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/和家长同步家教状况.md",
+    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-07-27.md",
     "Templates/Homepage/004_闪念.md",
