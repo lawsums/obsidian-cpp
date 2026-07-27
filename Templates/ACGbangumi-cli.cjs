@@ -55,7 +55,15 @@ function loadLinkedom() {
     console.error('        或装到: %USERPROFILE%\\.workbuddy\\binaries\\node\\workspace');
     process.exit(2);
 }
-const { parseHTML } = loadLinkedom();
+// 懒加载：linkedom 只在真正需要解析 HTML 时才加载，这样 --help / 搜索命令不出错时无需依赖。
+let _parseHTML = null;
+function getParseHTML() {
+    if (!_parseHTML) {
+        const m = loadLinkedom();
+        _parseHTML = m.parseHTML;
+    }
+    return _parseHTML;
+}
 
 // -----------------------------------------------------------------------------
 // 常量 / 配置
@@ -293,9 +301,9 @@ function httpGet(urlStr, headers, maxRedirects = 5) {
 function parseHtmlToDom(html) {
     if (!html || typeof html !== 'string') {
         log('无效的HTML字符串，无法解析DOM');
-        return parseHTML('<html></html>').document;
+        return getParseHTML()('<html></html>').document;
     }
-    return parseHTML(html).document;
+    return getParseHTML()(html).document;
 }
 
 /**

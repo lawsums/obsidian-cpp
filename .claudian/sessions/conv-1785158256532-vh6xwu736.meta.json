@@ -4,9 +4,9 @@
   "title": "Templates/ACGbangumi-cli",
   "titleGenerationStatus": "failed",
   "createdAt": 1785158256537,
-  "updatedAt": 1785158636389,
-  "lastResponseAt": 1785158636389,
-  "sessionId": "ses_05c46a9e1ffefq9UC7gEBT9aAd",
+  "updatedAt": 1785160721627,
+  "lastResponseAt": 1785160721627,
+  "sessionId": "ses_05c22a6d7ffeXwWjO62fKAjfpV",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
@@ -14,12 +14,12 @@
   "currentNote": "Templates/Homepage/Homepage.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 37120,
-    "contextTokens": 37354,
+    "cacheReadInputTokens": 27904,
+    "contextTokens": 28108,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 234,
+    "inputTokens": 204,
     "model": "opencode:deepseek/deepseek-v4-pro",
-    "percentage": 4
+    "percentage": 3
   }
 }

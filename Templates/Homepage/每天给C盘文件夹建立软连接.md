@@ -12,6 +12,6 @@
 - [ ] C:\Users\Administrator\. cache
 - [x] C:\Users\Administrator\.eide ✅ 2026-07-23
 - [ ] C:\Users\Administrator\.config
-- [ ] C:\Users\Administrator\.codex
+- [x] C:\Users\Administrator\.codex ✅ 2026-07-27
 
 ![[Pasted image 20260722141256.png]]
