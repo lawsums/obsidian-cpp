@@ -90,7 +90,8 @@ sort by description
 - [x] 加牛客佬微信 #task 🔼 ➕ 2026-07-15 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260715-93cb29d3
 - [x] 给家长反馈 #task 🔼 ➕ 2026-07-16 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260716-36bc1ba4
 - [x] 去南图坐坐 #library 🔼 ➕ 2026-07-16 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260716-42dd28dc
-- [ ] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-07-27
+- [ ] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-07-28
+- [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-07-27 ✅ 2026-07-27
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-07-26 ✅ 2026-07-26
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-07-25 ✅ 2026-07-25
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-07-24 ✅ 2026-07-24
@@ -142,7 +143,7 @@ sort by description
 - [ ] 检测codex移动是否成功 #task 🔼 ⏳ 2026-07-27 ➕ 2026-07-26 ^task-20260726-18cf09d4
 - [x] 去小红书考察嵌入式Agent项目 #work 🔼 ➕ 2026-07-26 ⏳ 2026-07-26 ✅ 2026-07-26 ^task-20260726-a63fbf09
 - [ ] [[试用grill me检测想法合理性]] #task 🔼 ➕ 2026-07-26 ⏳ 2026-07-28 ^task-20260726-b086dcd
-- [ ] 学习 bootloader #task 🔼 ⏳ 2026-07-27 ➕ 2026-07-26 ^task-20260726-4110c564
+- [x] 学习 bootloader #task 🔼 ➕ 2026-07-26 ⏳ 2026-07-27 ✅ 2026-07-27 ^task-20260726-4110c564
 - [ ] 实现[[你画我猜+植物大战僵尸]]创意 #task 🔼 ➕ 2026-07-26 🛫 2026-07-29 ⏳ 2026-07-29 ^task-20260726-d4399088
 - [ ] 用GPT-5整理网盘中的OTA bootloader资料为笔记 #ai #embedded 🔼 ⏳ 2026-07-28 ➕ 2026-07-26 ^task-20260726-b208c186
 - [ ] 测试bangumi脚本 #script #testing 🔼 ⏳ 2026-07-27 ➕ 2026-07-26 ^task-20260726-bbee222a
