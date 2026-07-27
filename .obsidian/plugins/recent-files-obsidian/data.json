@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "框架梳理",
+      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "间谍过家家",
+      "path": "Projects/anime/间谍过家家.md"
     },
     {
       "basename": "ACGbangumi-API",
@@ -15,10 +23,6 @@
     {
       "basename": "每天给C盘文件夹建立软连接",
       "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "和家长同步家教状况",
@@ -195,10 +199,6 @@
     {
       "basename": "备份并梳理仓库",
       "path": "Templates/备份并梳理仓库.md"
-    },
-    {
-      "basename": "运营商信息咨询",
-      "path": "Temp/运营商信息咨询.md"
     }
   ],
   "omittedPaths": [],
