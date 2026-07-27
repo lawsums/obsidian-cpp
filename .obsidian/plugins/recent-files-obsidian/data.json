@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "框架梳理",
-      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+      "basename": "嵌入式Agent",
+      "path": "Templates/嵌入式Agent.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "间谍过家家",
@@ -71,10 +75,6 @@
     {
       "basename": "3659.统计异或值为给定值的路径数目",
       "path": "Leetcode/3659.统计异或值为给定值的路径数目.md"
-    },
-    {
-      "basename": "嵌入式Agent",
-      "path": "Templates/嵌入式Agent.md"
     },
     {
       "basename": "写一个转盘",

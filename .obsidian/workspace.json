@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "c612c7c823724f55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/嵌入式Agent.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "嵌入式Agent"
+            }
+          },
+          {
             "id": "0d284ff95fba9288",
             "type": "leaf",
             "state": {
@@ -364,7 +388,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0d284ff95fba9288",
+  "active": "c612c7c823724f55",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
