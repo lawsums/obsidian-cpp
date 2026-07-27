@@ -210,7 +210,13 @@
             "conditions": []
           },
           "sort": {
-            "criteria": []
+            "criteria": [
+              {
+                "field": "添加时间",
+                "order": "desc",
+                "enabled": true
+              }
+            ]
           },
           "id": "52fa4575-b7e9-442c-a7b3-fa58987b40be",
           "name": "待看的番",
