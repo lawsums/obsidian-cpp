@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "和家长同步家教状况 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -379,10 +378,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "433735bf0c8c8f36",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/和家长同步家教状况.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/004_闪念.md",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/试用grill me检测想法合理性.md",
