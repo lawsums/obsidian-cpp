@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "59c6093832fffefb",
+            "id": "ef0c40c9efc65c13",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Tasks.md",
+                "file": "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "框架梳理"
             }
           },
           {
@@ -357,11 +357,11 @@
   "lastOpenFiles": [
     "Templates/试用grill me检测想法合理性.md",
     "Templates/Homepage/Homepage.md",
+    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Tasks.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
     "Leetcode/算法路线图.md",
     "Templates/创建个人网站.md",
-    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/嵌入式Agent.md",
     "Projects/anime/骸骨骑士大人异世界冒险中 第二季.md",
     "Projects/anime/穹庐下的魔女.md",

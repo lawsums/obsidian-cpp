@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "试用grill me检测想法合理性",
+      "path": "Templates/试用grill me检测想法合理性.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+    },
+    {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "创建个人网站",
       "path": "Templates/创建个人网站.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "嵌入式Agent",
@@ -67,10 +71,6 @@
     {
       "basename": "ACGbangumiv2.1",
       "path": "Templates/ACGbangumiv2.1.js"
-    },
-    {
-      "basename": "试用grill me检测想法合理性",
-      "path": "Templates/试用grill me检测想法合理性.md"
     },
     {
       "basename": "3659.统计异或值为给定值的路径数目",
