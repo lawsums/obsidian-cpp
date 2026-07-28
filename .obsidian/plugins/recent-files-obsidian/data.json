@@ -5,6 +5,22 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
+      "basename": "每天给C盘文件夹建立软连接",
+      "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "创建个人网站",
+      "path": "Templates/创建个人网站.md"
+    },
+    {
       "basename": "框架梳理",
       "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
@@ -19,14 +35,6 @@
     {
       "basename": "ACGbangumi-API",
       "path": "Templates/ACGbangumi-API.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
-    },
-    {
-      "basename": "每天给C盘文件夹建立软连接",
-      "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
     },
     {
       "basename": "和家长同步家教状况",
@@ -49,16 +57,8 @@
       "path": "Templates/Homepage/写战斗小说的技巧.md"
     },
     {
-      "basename": "创建个人网站",
-      "path": "Templates/创建个人网站.md"
-    },
-    {
       "basename": "你画我猜+植物大战僵尸",
       "path": "Templates/你画我猜+植物大战僵尸.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "学习C++",

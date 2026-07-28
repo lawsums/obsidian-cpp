@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "02c335c035ea2a8d",
+            "id": "3c6b619cfb766143",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Templates/试用grill me检测想法合理性.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "算法路线图"
+              "title": "试用grill me检测想法合理性"
+            }
+          },
+          {
+            "id": "59c6093832fffefb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
             }
           },
           {
@@ -217,7 +241,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -328,9 +353,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/试用grill me检测想法合理性.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Tasks.md",
+    "Templates/Homepage/每天给C盘文件夹建立软连接.md",
+    "Leetcode/算法路线图.md",
+    "Templates/创建个人网站.md",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/嵌入式Agent.md",
     "Projects/anime/骸骨骑士大人异世界冒险中 第二季.md",
@@ -345,25 +375,20 @@
     "Templates/ACGbangumi-API.md",
     "Templates/ACGbangumi.cmd",
     "run_search.js",
-    "Leetcode/算法路线图.md",
-    "Templates/Homepage/每天给C盘文件夹建立软连接.md",
     "run_help.js",
     "Temp/_test.bat",
     "Temp/_run_search.bat",
     "Templates/Homepage/和家长同步家教状况.md",
-    "Templates/Tasks.md",
     "Dairies/2026-07-27.md",
     "Templates/Homepage/004_闪念.md",
     "Templates/Homepage/复习面试题.md",
     "Templates/Homepage/做一个解谜缝合小游戏.md",
     "Templates/Homepage/写战斗小说的技巧.md",
     "Projects/anime/少女乐队的呐喊.md",
-    "Templates/创建个人网站.md",
     "Templates/你画我猜+植物大战僵尸.md",
     "Templates/ACGbangumi-cli.cjs",
     "Templates/Homepage/学习C++.md",
     "Templates/ACGbangumiv2.1.js",
-    "Templates/试用grill me检测想法合理性.md",
     "Leetcode/3659.统计异或值为给定值的路径数目.cpp",
     "Attachments/Pasted image 20260725215742.png",
     "Leetcode/3442.执行操作可获得的最大总奖励 I.cpp",
