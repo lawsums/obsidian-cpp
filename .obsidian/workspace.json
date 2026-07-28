@@ -32,31 +32,7 @@
             }
           },
           {
-            "id": "0e329ffd6fa57beb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/004_闪念.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "004_闪念"
-            }
-          },
-          {
-            "id": "0184bd0f2df0309d",
+            "id": "433735bf0c8c8f36",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -320,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/和家长同步家教状况.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "和家长同步家教状况 的大纲"
             }
           },
           {
@@ -402,11 +379,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "433735bf0c8c8f36",
   "lastOpenFiles": [
-    "Templates/Homepage/004_闪念.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/和家长同步家教状况.md",
+    "Templates/Homepage/004_闪念.md",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/试用grill me检测想法合理性.md",
     "Templates/Tasks.md",
