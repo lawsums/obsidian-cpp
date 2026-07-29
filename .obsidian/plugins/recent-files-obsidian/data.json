@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "2409.网格图中递增路径的数目",
-      "path": "Leetcode/2409.网格图中递增路径的数目.md"
+      "basename": "框架梳理",
+      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "Homepage",
@@ -11,6 +11,10 @@
     {
       "basename": "你画我猜+植物大战僵尸",
       "path": "Templates/你画我猜+植物大战僵尸.md"
+    },
+    {
+      "basename": "2409.网格图中递增路径的数目",
+      "path": "Leetcode/2409.网格图中递增路径的数目.md"
     },
     {
       "basename": "试用grill me检测想法合理性",
@@ -23,10 +27,6 @@
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "和家长同步家教状况",
