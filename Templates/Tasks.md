@@ -144,7 +144,7 @@ sort by description
 - [x] 其他配置设置"editor. autoClosingOvertype": "always" #task 🔼 ➕ 2026-07-24 ⏳ 2026-07-25 ✅ 2026-07-25 ^task-20260724-eb6b156
 - [ ] 让老妈存学费 #task ⏫ ⏳ 2026-08-03 📅 2026-08-03 ➕ 2026-07-24 ^task-20260724-923ad4e2
 - [x] 测试转盘玩法 #task 🔼 ➕ 2026-07-24 ⏳ 2026-07-25 ✅ 2026-07-25 ^task-20260724-d8ac654b
-- [ ] 调参、调网络并提交 Kaggle 竞赛 #kaggle #ml ⏫ ➕ 2026-07-24 ⏳ 2026-07-29 ^task-20260724-94ee103a
+- [x] 调参、调网络并提交 Kaggle 竞赛 #kaggle #ml ⏫ ➕ 2026-07-24 ⏳ 2026-07-29 ✅ 2026-07-29 ^task-20260724-94ee103a
 - [ ] [学习 bootloader 开发](项目/嵌入式/Bootloader驱动开发/框架梳理) #task ⏫ 🔁 every day ⏳ 2026-07-30
 - [x] [学习 bootloader 开发](项目/嵌入式/Bootloader驱动开发/框架梳理) #task ⏫ 🔁 every day ⏳ 2026-07-29 ✅ 2026-07-29
 - [x] [学习 bootloader 开发](项目/嵌入式/Bootloader驱动开发/框架梳理) #task ⏫ 🔁 every day ⏳ 2026-07-28 ✅ 2026-07-28
