@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "428287a5e815dd0e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/2409.网格图中递增路径的数目.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2409.网格图中递增路径的数目"
+            }
+          },
+          {
+            "id": "c724376b4667caa1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/你画我猜+植物大战僵尸.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "你画我猜+植物大战僵尸"
+            }
+          },
+          {
             "id": "02c335c035ea2a8d",
             "type": "leaf",
             "state": {
@@ -103,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -328,12 +377,16 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "428287a5e815dd0e",
   "lastOpenFiles": [
+    "Leetcode/2409.网格图中递增路径的数目.cpp",
+    "Templates/Homepage/Homepage.md",
+    "Leetcode/images/2409_griddrawio-4.png",
+    "Leetcode/2409.网格图中递增路径的数目.md",
+    "Templates/你画我猜+植物大战僵尸.md",
     "Dairies/2026-07-29.md",
     "Templates/试用grill me检测想法合理性.md",
     "Templates/Homepage/学习深度学习.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/和家长同步家教状况.md",
@@ -359,9 +412,6 @@
     "Temp/_test.bat",
     "Temp/_run_search.bat",
     "Dairies/2026-07-27.md",
-    "Templates/Homepage/复习面试题.md",
-    "Templates/Homepage/做一个解谜缝合小游戏.md",
-    "Templates/Homepage/写战斗小说的技巧.md",
     "Templates/ACGbangumi-cli.cjs",
     "Templates/ACGbangumiv2.1.js",
     "Leetcode/3659.统计异或值为给定值的路径数目.cpp",
@@ -376,7 +426,6 @@
     "Leetcode/images/2375_example1drawio.png",
     "Leetcode/images/2375_example1drawio-1.png",
     "项目/Agent开发/未命名.canvas",
-    "Attachments/Pasted image 20260627160829.png",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
   ]

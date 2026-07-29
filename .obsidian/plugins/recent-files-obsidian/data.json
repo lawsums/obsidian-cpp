@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "2409.网格图中递增路径的数目",
+      "path": "Leetcode/2409.网格图中递增路径的数目.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "你画我猜+植物大战僵尸",
+      "path": "Templates/你画我猜+植物大战僵尸.md"
     },
     {
       "basename": "试用grill me检测想法合理性",
@@ -67,10 +75,6 @@
     {
       "basename": "写战斗小说的技巧",
       "path": "Templates/Homepage/写战斗小说的技巧.md"
-    },
-    {
-      "basename": "你画我猜+植物大战僵尸",
-      "path": "Templates/你画我猜+植物大战僵尸.md"
     },
     {
       "basename": "ACGbangumiv2.1",
@@ -195,10 +199,6 @@
     {
       "basename": "制作AI短片",
       "path": "Templates/Homepage/制作AI短片.md"
-    },
-    {
-      "basename": "备份并梳理仓库",
-      "path": "Templates/备份并梳理仓库.md"
     }
   ],
   "omittedPaths": [],
