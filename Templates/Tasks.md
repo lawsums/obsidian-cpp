@@ -144,7 +144,8 @@ sort by description
 - [ ] 让老妈存学费 #task ⏫ ⏳ 2026-08-03 📅 2026-08-03 ➕ 2026-07-24 ^task-20260724-923ad4e2
 - [x] 测试转盘玩法 #task 🔼 ➕ 2026-07-24 ⏳ 2026-07-25 ✅ 2026-07-25 ^task-20260724-d8ac654b
 - [ ] 调参、调网络并提交 Kaggle 竞赛 #kaggle #ml ⏫ ➕ 2026-07-24 ⏳ 2026-07-29 ^task-20260724-94ee103a
-- [ ] [学习 bootloader 开发](项目/嵌入式/Bootloader驱动开发/框架梳理) #task ⏫ 🔁 every day ⏳ 2026-07-29
+- [ ] [学习 bootloader 开发](项目/嵌入式/Bootloader驱动开发/框架梳理) #task ⏫ 🔁 every day ⏳ 2026-07-30
+- [x] [学习 bootloader 开发](项目/嵌入式/Bootloader驱动开发/框架梳理) #task ⏫ 🔁 every day ⏳ 2026-07-29 ✅ 2026-07-29
 - [x] [学习 bootloader 开发](项目/嵌入式/Bootloader驱动开发/框架梳理) #task ⏫ 🔁 every day ⏳ 2026-07-28 ✅ 2026-07-28
 - [x] [学习 bootloader 开发](项目/嵌入式/Bootloader驱动开发/框架梳理) #task ⏫ 🔁 every day ⏳ 2026-07-27 ✅ 2026-07-27
 - [x] [学习 bootloader 开发](项目/嵌入式/Bootloader驱动开发/框架梳理) #task ⏫ 🔁 every day ⏳ 2026-07-26 ✅ 2026-07-26
@@ -162,3 +163,4 @@ sort by description
 - [x] 洗澡 #task 🔼 ➕ 2026-07-27 ⏳ 2026-07-29 ✅ 2026-07-29 ^task-20260727-15abe926
 - [ ] 买GPT并写教程 #task 🔼 ⏳ 2026-07-31 📅 2026-07-31 ➕ 2026-07-28 ^task-20260728-d6f3d0bd
 - [ ] 买一个kaggle号 #task ⏫ ➕ 2026-07-28 ⏳ 2026-07-29 ^task-20260728-54bf755c
+- [ ] 学习 STM32CubeMX #task 🔼 ⏳ 2026-07-30 ➕ 2026-07-29 ^task-20260729-814a22ea
