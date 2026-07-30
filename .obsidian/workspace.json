@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -330,7 +330,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8180f88aab1e1ff",
+  "active": "ffffe9398e10819f",
   "lastOpenFiles": [
     "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/Homepage.md",
