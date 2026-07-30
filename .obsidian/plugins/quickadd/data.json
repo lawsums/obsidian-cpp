@@ -1128,7 +1128,7 @@
           "setFileExistsBehavior": false
         }
       ],
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "299c9921-5061-401b-ac2c-c54ced9a034e",
@@ -1296,7 +1296,7 @@
           "setFileExistsBehavior": false
         }
       ],
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "7f57eb57-bf43-4c5e-a47a-2a7d89d06701",
@@ -1424,8 +1424,8 @@
           {
             "name": "ACGbangumiv2.1",
             "type": "UserScript",
-            "id": "51ed159f-731a-48d6-8cae-903634da8279",
-            "path": "Templates/ACGbangumiv2.1.js",
+            "id": "1ca15eea-a540-49a1-bc04-57c6535567ee",
+            "path": "Templates/scripts/ACGbangumiv2.1.js",
             "settings": {}
           }
         ]

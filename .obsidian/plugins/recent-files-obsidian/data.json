@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
+      "basename": "仆少女",
+      "path": "Projects/manga/仆少女.md"
+    },
+    {
+      "basename": "战队红战士在异世界当冒险者",
+      "path": "Projects/manga/战队红战士在异世界当冒险者.md"
     },
     {
       "basename": "3903.硬币面值还原",
       "path": "Leetcode/3903.硬币面值还原.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "5",
@@ -121,10 +129,6 @@
       "path": "Leetcode/4097.达到目标异或值的最少删除次数.md"
     },
     {
-      "basename": "仆少女",
-      "path": "Projects/manga/仆少女.md"
-    },
-    {
       "basename": "Elden Ring",
       "path": "Projects/game/Elden Ring.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3742.购买最多物品数目 I",
       "path": "Leetcode/3742.购买最多物品数目 I.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     }
   ],
   "omittedPaths": [],
