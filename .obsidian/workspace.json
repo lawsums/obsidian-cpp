@@ -223,7 +223,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -249,13 +250,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Templates/Homepage/学习深度学习.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法路线图 的大纲"
+              "title": "学习深度学习 的大纲"
             }
           },
           {
@@ -288,11 +289,13 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -332,6 +335,7 @@
   },
   "active": "ffffe9398e10819f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260730171230.png",
     "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/Homepage.md",
     "Leetcode/3903.硬币面值还原.md",
