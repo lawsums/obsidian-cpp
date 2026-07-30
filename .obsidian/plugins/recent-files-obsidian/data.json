@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "学习C++",
@@ -49,20 +53,12 @@
       "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
     },
     {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
-    },
-    {
       "basename": "嵌入式Agent",
       "path": "Templates/嵌入式Agent.md"
     },
     {
       "basename": "间谍过家家",
       "path": "Projects/anime/间谍过家家.md"
-    },
-    {
-      "basename": "ACGbangumi-API",
-      "path": "Templates/ACGbangumi-API.md"
     },
     {
       "basename": "复习面试题",
@@ -78,7 +74,7 @@
     },
     {
       "basename": "ACGbangumiv2.1",
-      "path": "Templates/ACGbangumiv2.1.js"
+      "path": "Templates/scripts/ACGbangumiv2.1.js"
     },
     {
       "basename": "3659.统计异或值为给定值的路径数目",
@@ -195,10 +191,6 @@
     {
       "basename": "3518.最高乘法得分",
       "path": "Leetcode/3518.最高乘法得分.md"
-    },
-    {
-      "basename": "制作AI短片",
-      "path": "Templates/Homepage/制作AI短片.md"
     }
   ],
   "omittedPaths": [],
