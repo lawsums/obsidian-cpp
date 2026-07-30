@@ -89,8 +89,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -235,12 +234,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -316,13 +316,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "c1bc40bf5a4c0315",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Leetcode/3903.硬币面值还原.md",
+    "Templates/Tasks.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Projects/manga/仆少女.md",
     "Projects/manga/战队红战士在异世界当冒险者.md",
-    "Leetcode/3903.硬币面值还原.md",
-    "Templates/Homepage/Homepage.md",
     "Projects/anime/战队红战士在异世界当冒险者.md",
     "Templates/Homepage/学习深度学习.md",
     "Attachments/Pasted image 20260730175406.png",
@@ -344,7 +345,6 @@
     "Templates/scripts/ACGbangumiv2.1.backup.js",
     "Templates/scripts",
     "Dairies/2026-07-31.md",
-    "Templates/Tasks.md",
     "Templates/fetch-game-API.md",
     "Templates/fetch-game.cmd",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",

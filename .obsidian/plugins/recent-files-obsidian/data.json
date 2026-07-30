@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "3903.硬币面值还原",
+      "path": "Leetcode/3903.硬币面值还原.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
@@ -11,14 +23,6 @@
     {
       "basename": "战队红战士在异世界当冒险者",
       "path": "Projects/manga/战队红战士在异世界当冒险者.md"
-    },
-    {
-      "basename": "3903.硬币面值还原",
-      "path": "Leetcode/3903.硬币面值还原.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "学习深度学习",
@@ -71,10 +75,6 @@
     {
       "basename": "004_闪念",
       "path": "Templates/Homepage/004_闪念.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "每天给C盘文件夹建立软连接",
