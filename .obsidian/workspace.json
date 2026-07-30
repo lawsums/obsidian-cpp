@@ -78,33 +78,8 @@
               "icon": "lucide-file",
               "title": "学习C++"
             }
-          },
-          {
-            "id": "ffffe9398e10819f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习深度学习"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -223,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -250,13 +224,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习深度学习 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -294,8 +268,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -333,15 +306,17 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ffffe9398e10819f",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20260730171230.png",
+    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/学习深度学习.md",
+    "Attachments/Pasted image 20260730175406.png",
+    "Attachments/Pasted image 20260730174634.png",
+    "Attachments/Pasted image 20260730171230.png",
     "Templates/Homepage/Homepage.md",
     "Leetcode/3903.硬币面值还原.md",
     "Leetcode/3903.硬币面值还原.cpp",
     "Leetcode/5.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/scripts/embed_code.js",
     "Templates/Leetcode_problem_template.md",
     "Templates/Homepage/和家长同步家教状况.md",
@@ -378,9 +353,6 @@
     "Attachments/Pasted image 20260722141256.png",
     "Attachments/Pasted image 20260714171517.png",
     "Attachments/Pasted image 20260714163957.png",
-    "Attachments/Pasted image 20260714114130.png",
-    "Leetcode/images/2375_example1drawio.png",
-    "Leetcode/images/2375_example1drawio-1.png",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
