@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "3a1df6195871c5a1",
+            "id": "a8180f88aab1e1ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "file": "Leetcode/3903.硬币面值还原.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "和家长同步家教状况"
+              "title": "3903.硬币面值还原"
             }
           },
           {
@@ -103,7 +103,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -329,19 +330,24 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "a8180f88aab1e1ff",
   "lastOpenFiles": [
-    "Templates/Homepage/和家长同步家教状况.md",
-    "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/学习深度学习.md",
+    "Templates/Homepage/Homepage.md",
+    "Leetcode/3903.硬币面值还原.md",
+    "Leetcode/3903.硬币面值还原.cpp",
+    "Leetcode/5.md",
+    "Templates/Homepage/学习C++.md",
+    "Templates/scripts/embed_code.js",
+    "Templates/Leetcode_problem_template.md",
+    "Templates/Homepage/和家长同步家教状况.md",
+    "Leetcode/4.md",
     "Leetcode/算法路线图.md",
     "Dairies/2026-07-30.md",
     "Templates/scripts/ACGbangumi-API.md",
     "Templates/scripts/fetch-game-cli.cjs",
     "Templates/scripts/fetch-game-API.md",
     "Templates/scripts/fetch-game.cmd",
-    "Templates/scripts/embed_code.js",
     "Templates/scripts/AddWord.js",
     "Templates/scripts/ACGbangumiv2.1.backup.js",
     "Templates/scripts",
@@ -353,7 +359,6 @@
     "Templates/创建个人网站.md",
     "Templates/fetch-game-cli.cjs",
     "Templates/rawg-config.json",
-    "Templates/fetch-game.js",
     "Templates/你画我猜+植物大战僵尸.md",
     "Leetcode/2409.网格图中递增路径的数目.md",
     "Leetcode/images/2409_griddrawio-4.png",
@@ -363,11 +368,6 @@
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
     "Templates/嵌入式Agent.md",
     "Projects/anime/骸骨骑士大人异世界冒险中 第二季.md",
-    "Projects/anime/穹庐下的魔女.md",
-    "Projects/anime/超超超超超喜欢你的100个女朋友 第三季.md",
-    "Projects/anime/Re：从零开始的异世界生活 第四季 夺还篇.md",
-    "Projects/anime/攻壳机动队 THE GHOST IN THE SHELL.md",
-    "Projects/anime/恋爱游戏世界对路人角色很不友好 第二季.md",
     "Attachments/Pasted image 20260725215742.png",
     "Attachments/Pasted image 20260723200707.png",
     "Attachments/Pasted image 20260722220637.png",

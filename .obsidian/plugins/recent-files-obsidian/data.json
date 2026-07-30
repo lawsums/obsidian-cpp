@@ -1,20 +1,40 @@
 {
   "recentFiles": [
     {
+      "basename": "3903.硬币面值还原",
+      "path": "Leetcode/3903.硬币面值还原.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
+      "basename": "5",
+      "path": "Leetcode/5.md"
     },
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
+      "basename": "embed_code",
+      "path": "Templates/scripts/embed_code.js"
+    },
+    {
+      "basename": "Leetcode_problem_template",
+      "path": "Templates/Leetcode_problem_template.md"
+    },
+    {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
+      "basename": "4",
+      "path": "Leetcode/4.md"
     },
     {
       "basename": "算法路线图",
@@ -179,18 +199,6 @@
     {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
-    },
-    {
-      "basename": "334.递增的三元子序列",
-      "path": "Leetcode/334.递增的三元子序列.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "3518.最高乘法得分",
-      "path": "Leetcode/3518.最高乘法得分.md"
     }
   ],
   "omittedPaths": [],

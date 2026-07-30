@@ -1,25 +1,25 @@
 {
   "id": "conv-1785293316769-p5i6vibdb",
   "providerId": "opencode",
-  "title": "帮我把这道题的思路写到Note。这道题的思路比较简单，就是优先处理值比较大的单元格。因为这道题求单调...",
+  "title": "这道题的思路是利用完全背包，检测当前面值的硬币数是否能凑出这么多方案。如果凑不出，说明必须新加一个该...",
   "titleGenerationStatus": "failed",
   "createdAt": 1785293316769,
-  "updatedAt": 1785370085497,
-  "lastResponseAt": 1785293510736,
-  "sessionId": "ses_05439d382ffehqOwL80cga9N4D",
+  "updatedAt": 1785399357534,
+  "lastResponseAt": 1785399357534,
+  "sessionId": "ses_04defd12dffeKW4ieDDRE6r4ZX",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
   },
-  "currentNote": "Leetcode/2409.网格图中递增路径的数目.md",
+  "currentNote": "Leetcode/3903.硬币面值还原.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 9728,
-    "contextTokens": 10273,
+    "cacheReadInputTokens": 15360,
+    "contextTokens": 15428,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 545,
+    "inputTokens": 68,
     "model": "opencode:deepseek/deepseek-v4-pro",
-    "percentage": 1
+    "percentage": 2
   }
 }
