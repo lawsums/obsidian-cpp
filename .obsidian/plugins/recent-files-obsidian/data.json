@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "八股文",
       "path": "100-学习/120-嵌入式/八股文.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "复习面试题",
       "path": "Templates/Homepage/复习面试题.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "1545.数位成本和为目标值的最大数字",

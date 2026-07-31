@@ -127,8 +127,7 @@
               "title": "学习C++"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,7 +187,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +197,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "算法路线图 的反向链接列表"
+              "title": "Homepage 的反向链接列表"
             }
           },
           {
@@ -246,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -316,8 +314,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -355,13 +352,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "65cb03be79dae9d0",
+  "active": "2c68b711967fecc7",
   "lastOpenFiles": [
+    "100-学习/120-嵌入式/八股文.md",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/学习深度学习.md",
     "Templates/Tasks.md",
-    "100-学习/120-嵌入式/八股文.md",
     "Templates/Homepage/复习面试题.md",
     "100-学习/120-嵌入式",
     "100-学习/110-计算机/未命名",
