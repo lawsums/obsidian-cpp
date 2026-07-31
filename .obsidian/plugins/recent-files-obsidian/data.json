@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "1545.数位成本和为目标值的最大数字",
+      "path": "Leetcode/1545.数位成本和为目标值的最大数字.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+    },
+    {
+      "basename": "005_KTV歌单",
+      "path": "Templates/Homepage/005_KTV歌单.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -51,10 +63,6 @@
     {
       "basename": "算法路线图",
       "path": "Leetcode/算法路线图.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "创建个人网站",
@@ -191,14 +199,6 @@
     {
       "basename": "4062.打家劫舍 V",
       "path": "Leetcode/4062.打家劫舍 V.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
-    },
-    {
-      "basename": "3742.购买最多物品数目 I",
-      "path": "Leetcode/3742.购买最多物品数目 I.md"
     }
   ],
   "omittedPaths": [],
