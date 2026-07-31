@@ -4,7 +4,7 @@
   "title": "这道题的思路是利用完全背包，检测当前面值的硬币数是否能凑出这么多方案。如果凑不出，说明必须新加一个该...",
   "titleGenerationStatus": "failed",
   "createdAt": 1785293316769,
-  "updatedAt": 1785399357534,
+  "updatedAt": 1785467272928,
   "lastResponseAt": 1785399357534,
   "sessionId": "ses_04defd12dffeKW4ieDDRE6r4ZX",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",

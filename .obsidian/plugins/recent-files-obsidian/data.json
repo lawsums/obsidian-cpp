@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "1545.数位成本和为目标值的最大数字",
       "path": "Leetcode/1545.数位成本和为目标值的最大数字.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "005_KTV歌单",
       "path": "Templates/Homepage/005_KTV歌单.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "3903.硬币面值还原",
