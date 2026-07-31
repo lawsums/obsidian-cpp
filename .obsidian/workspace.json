@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8fa3bde95b82293",
+            "id": "2c68b711967fecc7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,6 +29,40 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
+            }
+          },
+          {
+            "id": "a8fa3bde95b82293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "项目/第二轮面试/车载终端/2026-07-31-anki.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-31-anki"
+            }
+          },
+          {
+            "id": "116f02803aa7d6d1",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           },
           {
@@ -127,7 +161,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +195,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "DECK 嵌入式",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -245,8 +280,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -315,8 +349,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -354,12 +387,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "116f02803aa7d6d1",
   "lastOpenFiles": [
+    "项目/第二轮面试/车载终端/2026-07-31-anki.md",
+    "Templates/Homepage/Homepage.md",
+    "项目/第二轮面试/车载终端/2026-05-21-anki.md",
+    "项目/第二轮面试/车载终端/2026-05-14-anki.md",
     "Projects/anime/平凡职业造就世界最强.md",
     "Projects/anime/其实我是.md",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/1545.数位成本和为目标值的最大数字.md",
     "Leetcode/1545.数位成本和为目标值的最大数字.cpp",
     "Templates/Homepage/005_KTV歌单.md",
@@ -391,10 +427,7 @@
     "Templates/scripts",
     "Templates/fetch-game-API.md",
     "Templates/fetch-game.cmd",
-    "Templates/创建个人网站.md",
     "Templates/fetch-game-cli.cjs",
-    "Templates/你画我猜+植物大战僵尸.md",
-    "Leetcode/2409.网格图中递增路径的数目.md",
     "Leetcode/images/2409_griddrawio-4.png",
     "Attachments/Pasted image 20260725215742.png",
     "Attachments/Pasted image 20260723200707.png",
