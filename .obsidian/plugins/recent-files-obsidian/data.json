@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -21,10 +29,6 @@
       "path": "项目/第二轮面试/车载终端/2026-05-21-anki.md"
     },
     {
-      "basename": "框架梳理",
-      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
-    },
-    {
       "basename": "005_KTV歌单",
       "path": "Templates/Homepage/005_KTV歌单.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "战队红战士在异世界当冒险者",
       "path": "Projects/manga/战队红战士在异世界当冒险者.md"
-    },
-    {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "5",

@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "116f02803aa7d6d1",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
-            }
-          },
-          {
             "id": "1f9dd0bad4f8667b",
             "type": "leaf",
             "state": {
@@ -113,7 +103,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -231,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -300,7 +292,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -338,17 +331,18 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "2c68b711967fecc7",
+  "active": "ffffe9398e10819f",
   "lastOpenFiles": [
+    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+    "Templates/Homepage/学习深度学习.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Leetcode/1545.数位成本和为目标值的最大数字.md",
-    "Templates/Homepage/Homepage.md",
     "项目/第二轮面试/车载终端/2026-07-31-anki.md",
     "项目/第二轮面试/车载终端/2026-05-21-anki.md",
     "项目/第二轮面试/车载终端/2026-05-14-anki.md",
     "Projects/anime/平凡职业造就世界最强.md",
     "Projects/anime/其实我是.md",
-    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Leetcode/1545.数位成本和为目标值的最大数字.cpp",
     "Templates/Homepage/005_KTV歌单.md",
     "Dairies/2026-07-31.md",
@@ -357,7 +351,6 @@
     "Projects/manga/仆少女.md",
     "Projects/manga/战队红战士在异世界当冒险者.md",
     "Projects/anime/战队红战士在异世界当冒险者.md",
-    "Templates/Homepage/学习深度学习.md",
     "Attachments/Pasted image 20260730175406.png",
     "Attachments/Pasted image 20260730174634.png",
     "Attachments/Pasted image 20260730171230.png",
