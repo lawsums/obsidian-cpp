@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -331,11 +331,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "1f9dd0bad4f8667b",
+  "active": "80cff0b081da6c7b",
   "lastOpenFiles": [
+    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+    "Projects/anime/穷神.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习深度学习.md",
-    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/学习C++.md",
     "Leetcode/1545.数位成本和为目标值的最大数字.md",
     "项目/第二轮面试/车载终端/2026-07-31-anki.md",
@@ -369,7 +370,6 @@
     "Templates/scripts/AddWord.js",
     "Templates/scripts/ACGbangumiv2.1.backup.js",
     "Templates/scripts",
-    "Templates/fetch-game-API.md",
     "Templates/fetch-game.cmd",
     "Templates/fetch-game-cli.cjs",
     "Leetcode/images/2409_griddrawio-4.png",
