@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "八股文",
+      "path": "100-学习/120-嵌入式/八股文.md"
+    },
+    {
       "basename": "复习面试题",
       "path": "Templates/Homepage/复习面试题.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "恋爱游戏世界对路人角色很不友好",
       "path": "Projects/anime/恋爱游戏世界对路人角色很不友好.md"
-    },
-    {
-      "basename": "我是星际国家的恶德领主！",
-      "path": "Projects/anime/我是星际国家的恶德领主！.md"
     }
   ],
   "omittedPaths": [],

@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/复习面试题.md",
+                "file": "100-学习/120-嵌入式/八股文.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "复习面试题"
+              "title": "八股文"
             }
           },
           {
@@ -381,6 +381,12 @@
   },
   "active": "65cb03be79dae9d0",
   "lastOpenFiles": [
+    "Templates/Homepage/复习面试题.md",
+    "100-学习/120-嵌入式/八股文.md",
+    "100-学习/120-嵌入式",
+    "100-学习/110-计算机/未命名",
+    "100-学习/110-计算机",
+    "100-学习",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Tasks.md",
@@ -411,15 +417,9 @@
     "Leetcode/4.md",
     "Leetcode/算法路线图.md",
     "Dairies/2026-07-30.md",
-    "Templates/scripts/ACGbangumi-API.md",
     "Templates/scripts/fetch-game-cli.cjs",
-    "Templates/scripts/fetch-game-API.md",
     "Templates/scripts/fetch-game.cmd",
     "Templates/scripts/AddWord.js",
-    "Templates/scripts/ACGbangumiv2.1.backup.js",
-    "Templates/scripts",
-    "Templates/fetch-game.cmd",
-    "Templates/fetch-game-cli.cjs",
     "Leetcode/images/2409_griddrawio-4.png",
     "Attachments/Pasted image 20260725215742.png",
     "Attachments/Pasted image 20260723200707.png",
