@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "65cb03be79dae9d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/复习面试题.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "复习面试题"
+            }
+          },
+          {
+            "id": "b02ae5f29731dafa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
             "id": "1f9dd0bad4f8667b",
             "type": "leaf",
             "state": {
@@ -103,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -330,12 +379,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "2c68b711967fecc7",
+  "active": "65cb03be79dae9d0",
   "lastOpenFiles": [
     "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Tasks.md",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Projects/anime/穷神.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习深度学习.md",
     "Leetcode/1545.数位成本和为目标值的最大数字.md",
     "项目/第二轮面试/车载终端/2026-07-31-anki.md",
@@ -347,7 +397,6 @@
     "Templates/Homepage/005_KTV歌单.md",
     "Dairies/2026-07-31.md",
     "Leetcode/3903.硬币面值还原.md",
-    "Templates/Tasks.md",
     "Projects/manga/仆少女.md",
     "Projects/manga/战队红战士在异世界当冒险者.md",
     "Projects/anime/战队红战士在异世界当冒险者.md",
