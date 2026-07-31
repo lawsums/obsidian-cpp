@@ -103,7 +103,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -330,11 +331,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "2c68b711967fecc7",
+  "active": "ffffe9398e10819f",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习深度学习.md",
     "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Leetcode/1545.数位成本和为目标值的最大数字.md",
     "项目/第二轮面试/车载终端/2026-07-31-anki.md",
