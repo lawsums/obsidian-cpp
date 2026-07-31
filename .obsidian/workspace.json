@@ -245,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -314,7 +315,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -354,11 +356,11 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+    "Templates/Homepage/Homepage.md",
     "Leetcode/1545.数位成本和为目标值的最大数字.md",
     "Leetcode/1545.数位成本和为目标值的最大数字.cpp",
-    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/005_KTV歌单.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-07-31.md",
     "Leetcode/3903.硬币面值还原.md",
     "Templates/Tasks.md",
