@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "34d437be617354d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "框架梳理"
+            }
+          },
+          {
             "id": "02c335c035ea2a8d",
             "type": "leaf",
             "state": {
@@ -78,32 +102,9 @@
               "icon": "lucide-file",
               "title": "学习C++"
             }
-          },
-          {
-            "id": "ffffe9398e10819f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习深度学习"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,13 +248,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法路线图 的大纲"
+              "title": "框架梳理 的大纲"
             }
           },
           {
@@ -286,7 +287,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -328,12 +330,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "34d437be617354d8",
   "lastOpenFiles": [
-    "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/学习深度学习.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+    "Templates/Tasks.md",
     "Templates/Homepage/和家长同步家教状况.md",
+    "Attachments/第二单元《习作：我的心爱之物》（分层作业）.docx",
     "Attachments/~$级上册期末作文备考指南-素材迁移法.docx",
     "Attachments/作文填空练习卷.docx",
     "Attachments/五年级上册期末作文备考指南-素材迁移法.docx",
@@ -346,8 +351,6 @@
     "Leetcode/4202.恰好 K 个下标对的最大得分.cpp",
     "Dairies/2026-08-01.md",
     "100-学习/120-嵌入式/八股文.md",
-    "Templates/Homepage/学习C++.md",
-    "Templates/Tasks.md",
     "Templates/Homepage/复习面试题.md",
     "100-学习/120-嵌入式",
     "100-学习/110-计算机/未命名",
@@ -360,7 +363,6 @@
     "300-项目/第二轮面试/车载终端/2026-05-14-anki.md",
     "Projects/anime/平凡职业造就世界最强.md",
     "Projects/anime/其实我是.md",
-    "Leetcode/1545.数位成本和为目标值的最大数字.cpp",
     "Templates/Homepage/005_KTV歌单.md",
     "Dairies/2026-07-31.md",
     "Leetcode/3903.硬币面值还原.md",
