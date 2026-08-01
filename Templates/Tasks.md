@@ -95,7 +95,8 @@ sort by description
 - [x] 加牛客佬微信 #task 🔼 ➕ 2026-07-15 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260715-93cb29d3
 - [x] 给家长反馈 #task 🔼 ➕ 2026-07-16 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260716-36bc1ba4
 - [x] 去南图坐坐 #library 🔼 ➕ 2026-07-16 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260716-42dd28dc
-- [ ] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-01
+- [ ] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-02
+- [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-01 ✅ 2026-08-01
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-07-31 ✅ 2026-07-31
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-07-30 ✅ 2026-07-30
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-07-29 ✅ 2026-07-29
@@ -171,7 +172,7 @@ sort by description
 - [ ] 巩固STM32外设知识 #study #stm32 🔼 ➕ 2026-07-26 ⏳ 2026-07-30 ^task-20260726-e27c7edb
 - [x] 安排阅读练习 #task 🔺 ➕ 2026-07-27 ⏳ 2026-07-28 ✅ 2026-07-28 ^task-20260727-54fa8d15
 - [x] 洗澡 #task 🔼 ➕ 2026-07-27 ⏳ 2026-07-29 ✅ 2026-07-29 ^task-20260727-15abe926
-- [ ] 买GPT并写教程 #task 🔼 ➕ 2026-07-28 ⏳ 2026-08-01 📅 2026-08-01 ^task-20260728-d6f3d0bd
+- [x] 买GPT并写教程 #task 🔼 ➕ 2026-07-28 ⏳ 2026-08-01 📅 2026-08-01 ✅ 2026-08-01 ^task-20260728-d6f3d0bd
 - [x] 买一个kaggle号 #task ⏫ ➕ 2026-07-28 ⏳ 2026-07-29 ✅ 2026-07-29 ^task-20260728-54bf755c
 - [x] 安装 STM32CubeMX #task 🔼 ➕ 2026-07-29 ⏳ 2026-07-30 ✅ 2026-07-30 ^task-20260729-814a22ea
 - [ ] 写进击的巨人mod #mod 🔼 ⏳ 2026-07-30 ➕ 2026-07-29 ^task-20260729-5b6781db
@@ -181,3 +182,4 @@ sort by description
 - [x] 整理嵌入式八股文 #task 🔼 ➕ 2026-07-30 ⏳ 2026-07-31 ✅ 2026-07-31 ^task-20260730-406fc350
 - [ ] 实现通讯协议并用STM32串口实验 #embedded #stm32 ⏫ 🛫 2026-07-31 ⏳ 2026-08-01 ➕ 2026-07-31 ^task-20260731-e36ec788
 - [ ] 备课表 #task 🔼 ⏳ 2026-08-01 ➕ 2026-07-31 ^task-20260731-5ebb1649
+- [ ] 写教程 #task 🔼 ⏳ 2026-08-01 ➕ 2026-08-01 ^task-20260801-30188a95

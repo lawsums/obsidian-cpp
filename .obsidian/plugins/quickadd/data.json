@@ -568,7 +568,7 @@
           }
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "c8743eec-3078-40fc-8fa5-7dcb910e1b8c",
@@ -1232,7 +1232,7 @@
           "type": "Capture",
           "command": true,
           "appendLink": false,
-          "captureTo": "数据结构/{{value}}",
+          "captureTo": "100-学习/110-计算机/数据结构/{{value}}",
           "captureToActiveFile": false,
           "createFileIfItDoesntExist": {
             "enabled": true,
@@ -1241,7 +1241,7 @@
           },
           "format": {
             "enabled": true,
-            "format": "\nDECK: 面试题-hot100\n\n## {{value}}\n\n\n## 思路\n\n\n## 标准解法\n\n<% await tp.user.embed_code(tp, \"数据结构/{{value}}.cpp\") %>\n\n## 我的解法\n\n\n## 相关题目\n\nEND\n"
+            "format": "\nDECK: 面试题-hot100\n\n## {{value}}\n\n\n## 思路\n\n\n## 标准解法\n\n<% await tp.user.embed_code(tp, \"100-学习/110-计算机/数据结构/{{value}}.cpp\") %>\n\n## 我的解法\n\n\n## 相关题目\n\nEND\n"
           },
           "insertAfter": {
             "enabled": false,
@@ -1278,7 +1278,7 @@
           "folder": {
             "enabled": true,
             "folders": [
-              "操作系统"
+              "100-学习/110-计算机/操作系统"
             ],
             "chooseWhenCreatingNote": false,
             "createInSameFolderAsActiveFile": false,
@@ -1296,7 +1296,7 @@
           "setFileExistsBehavior": false
         }
       ],
-      "collapsed": true
+      "collapsed": false
     },
     {
       "id": "7f57eb57-bf43-4c5e-a47a-2a7d89d06701",
