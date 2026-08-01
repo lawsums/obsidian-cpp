@@ -40,7 +40,6 @@
   "Templates": "LiLayoutTemplate",
   "Excalidraw": "LiPaintbrush",
   "Vocabulary": "LiWholeWord",
-  "项目": "LiAppWindow",
   "Software": "LiAppWindow",
   "Pandoc": "LiImport",
   "Clippings": "LiClipboardX",
@@ -48,7 +47,6 @@
   "Attachments": "LiImages",
   "Projects": "🈲",
   "Temp": "LiRecycle",
-  "项目/数据库": "LiDatabase",
   "论文": "LiNewspaper",
   "100-学习": "LiStars",
   "100-学习/110-计算机/八股文": "LiTextSearch",
@@ -57,5 +55,7 @@
   "100-学习/110-计算机/设计模式": "LiSidebarToggleButtonIcon",
   "100-学习/110-计算机/网络技术": "LiNetwork",
   "100-学习/110-计算机/语言特性": "LiTableProperties",
-  "100-学习/110-计算机/数据结构": "LiList"
+  "100-学习/110-计算机/数据结构": "LiList",
+  "300-项目": "LiAppWindow",
+  "300-项目/数据库": "LiDatabase"
 }

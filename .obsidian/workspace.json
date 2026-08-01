@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+                "file": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,13 +295,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "和家长同步家教状况 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -378,12 +377,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ec4c6c3db77aec19",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
-    "Templates/Homepage/和家长同步家教状况.md",
-    "Leetcode/算法路线图.md",
+    "Templates/备份并梳理仓库.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/和家长同步家教状况.md",
+    "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+    "Leetcode/算法路线图.md",
     "Leetcode/174.地下城游戏.md",
     "Leetcode/174.地下城游戏.cpp",
     "Leetcode/4202.恰好 K 个下标对的最大得分.md",
@@ -401,9 +401,9 @@
     "100-学习",
     "Projects/anime/穷神.md",
     "Leetcode/1545.数位成本和为目标值的最大数字.md",
-    "项目/第二轮面试/车载终端/2026-07-31-anki.md",
-    "项目/第二轮面试/车载终端/2026-05-21-anki.md",
-    "项目/第二轮面试/车载终端/2026-05-14-anki.md",
+    "300-项目/第二轮面试/车载终端/2026-07-31-anki.md",
+    "300-项目/第二轮面试/车载终端/2026-05-21-anki.md",
+    "300-项目/第二轮面试/车载终端/2026-05-14-anki.md",
     "Projects/anime/平凡职业造就世界最强.md",
     "Projects/anime/其实我是.md",
     "Leetcode/1545.数位成本和为目标值的最大数字.cpp",
@@ -417,7 +417,6 @@
     "Attachments/Pasted image 20260730174634.png",
     "Attachments/Pasted image 20260730171230.png",
     "Leetcode/3903.硬币面值还原.cpp",
-    "Leetcode/5.md",
     "Templates/scripts/embed_code.js",
     "Templates/scripts/fetch-game-cli.cjs",
     "Leetcode/images/2409_griddrawio-4.png",

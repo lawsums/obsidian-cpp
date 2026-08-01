@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "备份并梳理仓库",
+      "path": "Templates/备份并梳理仓库.md"
+    },
+    {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "框架梳理",
-      "path": "项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+      "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "算法路线图",
       "path": "Leetcode/算法路线图.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "174.地下城游戏",
@@ -50,11 +54,11 @@
     },
     {
       "basename": "2026-07-31-anki",
-      "path": "项目/第二轮面试/车载终端/2026-07-31-anki.md"
+      "path": "300-项目/第二轮面试/车载终端/2026-07-31-anki.md"
     },
     {
       "basename": "2026-05-21-anki",
-      "path": "项目/第二轮面试/车载终端/2026-05-21-anki.md"
+      "path": "300-项目/第二轮面试/车载终端/2026-05-21-anki.md"
     },
     {
       "basename": "005_KTV歌单",
@@ -190,15 +194,11 @@
     },
     {
       "basename": "练习题_代码实践操作题",
-      "path": "项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md"
+      "path": "300-项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md"
     },
     {
       "basename": "交叉熵求梯度",
       "path": "Templates/Homepage/交叉熵求梯度.md"
-    },
-    {
-      "basename": "辉夜大小姐想让我告白 通往大人的阶梯",
-      "path": "Projects/anime/辉夜大小姐想让我告白 通往大人的阶梯.md"
     }
   ],
   "omittedPaths": [],

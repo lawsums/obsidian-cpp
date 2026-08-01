@@ -117,7 +117,8 @@ sort by description
 - [x] 准备竖式教学内容 #task 🔼 ➕ 2026-07-16 🛫 2026-07-19 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260716-6b15c303
 - [x] 下午两点和牛客大佬聊聊嵌入式 #learning 🔼 ➕ 2026-07-17 ⏳ 2026-07-18 ✅ 2026-07-18 ^task-20260717-a254378e
 - [ ] 让AI统计已做题目的文件标题 #study 🔼 ⏳ 2026-07-23 ⏰ 2026-07-17 16:27 ➕ 2026-07-18 ^task-20260718-56b40c1b
-- [ ] 备份并梳理仓库 #task 🔼 ➕ 2026-07-18 ⏳ 2026-08-01 ^task-20260718-5073333b
+- [ ] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-08-02
+- [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ➕ 2026-07-18 ⏳ 2026-08-01 ✅ 2026-08-01 ^task-20260718-5073333b
 - [x] 给灵神的题单写一个目录插件 #coding ⏫ ➕ 2026-07-18 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260718-72efe0c9
 - [x] 买零食 #task 🔼 ➕ 2026-07-18 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260718-a4f8c1f7
 - [ ] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-01
@@ -153,14 +154,14 @@ sort by description
 - [ ] 让老妈存学费 #task ⏫ ⏳ 2026-08-03 📅 2026-08-03 ➕ 2026-07-24 ^task-20260724-923ad4e2
 - [x] 测试转盘玩法 #task 🔼 ➕ 2026-07-24 ⏳ 2026-07-25 ✅ 2026-07-25 ^task-20260724-d8ac654b
 - [x] 调参、调网络并提交 Kaggle 竞赛 #kaggle #ml ⏫ ➕ 2026-07-24 ⏳ 2026-07-29 ✅ 2026-07-29 ^task-20260724-94ee103a
-- [ ] [学习 bootloader 开发](项目/嵌入式/Bootloader驱动开发/框架梳理) #task ⏫ 🔁 every day ⏳ 2026-08-01
-- [x] [学习 bootloader 开发](项目/嵌入式/Bootloader驱动开发/框架梳理) #task ⏫ 🔁 every day ⏳ 2026-07-31 ✅ 2026-07-31
-- [x] [学习 bootloader 开发](项目/嵌入式/Bootloader驱动开发/框架梳理) #task ⏫ 🔁 every day ⏳ 2026-07-30 ✅ 2026-07-31
-- [x] [学习 bootloader 开发](项目/嵌入式/Bootloader驱动开发/框架梳理) #task ⏫ 🔁 every day ⏳ 2026-07-29 ✅ 2026-07-29
-- [x] [学习 bootloader 开发](项目/嵌入式/Bootloader驱动开发/框架梳理) #task ⏫ 🔁 every day ⏳ 2026-07-28 ✅ 2026-07-28
-- [x] [学习 bootloader 开发](项目/嵌入式/Bootloader驱动开发/框架梳理) #task ⏫ 🔁 every day ⏳ 2026-07-27 ✅ 2026-07-27
-- [x] [学习 bootloader 开发](项目/嵌入式/Bootloader驱动开发/框架梳理) #task ⏫ 🔁 every day ⏳ 2026-07-26 ✅ 2026-07-26
-- [x] [学习 bootloader 开发](项目/嵌入式/Bootloader驱动开发/框架梳理) #task 🔼 🔁 every day ➕ 2026-07-24 ⏳ 2026-07-25 ✅ 2026-07-25 ^task-20260724-d27ea99e
+- [ ] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) #task ⏫ 🔁 every day ⏳ 2026-08-01
+- [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) #task ⏫ 🔁 every day ⏳ 2026-07-31 ✅ 2026-07-31
+- [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) #task ⏫ 🔁 every day ⏳ 2026-07-30 ✅ 2026-07-31
+- [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) #task ⏫ 🔁 every day ⏳ 2026-07-29 ✅ 2026-07-29
+- [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) #task ⏫ 🔁 every day ⏳ 2026-07-28 ✅ 2026-07-28
+- [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) #task ⏫ 🔁 every day ⏳ 2026-07-27 ✅ 2026-07-27
+- [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) #task ⏫ 🔁 every day ⏳ 2026-07-26 ✅ 2026-07-26
+- [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) #task 🔼 🔁 every day ➕ 2026-07-24 ⏳ 2026-07-25 ✅ 2026-07-25 ^task-20260724-d27ea99e
 - [x] 验证 Kaggle 手机号 #task 🔼 ➕ 2026-07-25 ⏳ 2026-07-27 ✅ 2026-07-28 ^task-20260725-e128821d
 - [x] 检测codex移动是否成功 #task 🔼 ➕ 2026-07-26 ⏳ 2026-07-27 ✅ 2026-07-27 ^task-20260726-18cf09d4
 - [x] 去小红书考察嵌入式Agent项目 #work 🔼 ➕ 2026-07-26 ⏳ 2026-07-26 ✅ 2026-07-26 ^task-20260726-a63fbf09
