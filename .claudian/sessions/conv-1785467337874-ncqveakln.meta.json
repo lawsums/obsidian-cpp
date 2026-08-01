@@ -1,25 +1,25 @@
 {
   "id": "conv-1785467337874-ncqveakln",
   "providerId": "opencode",
-  "title": "#  从大到小倒着加，这样比较方便。因为倒着加的话，我们直接乘 10，把之前的数乘 10 再加上当前...",
+  "title": "整理一下这道题的两个解法到 notes 里面，顺便整理一下两个 solution。",
   "titleGenerationStatus": "failed",
   "createdAt": 1785467337875,
-  "updatedAt": 1785552728140,
-  "lastResponseAt": 1785467406645,
-  "sessionId": "ses_049da7976ffe8GtwYpiZ05oIqM",
+  "updatedAt": 1785553822610,
+  "lastResponseAt": 1785553788632,
+  "sessionId": "ses_044b488d1ffewc7ImXGwFDpZuF",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
   },
-  "currentNote": "Leetcode/1545.数位成本和为目标值的最大数字.md",
+  "currentNote": "Leetcode/4202.恰好 K 个下标对的最大得分.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 12032,
-    "contextTokens": 15035,
-    "contextWindow": 1000000,
-    "contextWindowIsAuthoritative": true,
-    "inputTokens": 3003,
+    "cacheReadInputTokens": 15872,
+    "contextTokens": 17220,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": false,
+    "inputTokens": 1348,
     "model": "opencode:deepseek/deepseek-v4-pro",
-    "percentage": 2
+    "percentage": 9
   }
 }

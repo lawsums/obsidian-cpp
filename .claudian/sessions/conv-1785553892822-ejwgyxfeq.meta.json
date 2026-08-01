@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785553892822-ejwgyxfeq",
+  "providerId": "opencode",
+  "title": "帮我整理一下这道题的解法。",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1785553892823,
+  "updatedAt": 1785554183500,
+  "lastResponseAt": 1785554183500,
+  "sessionId": "ses_044b1b9d2ffeBe7VTJ030gZdxk",
+  "selectedModel": "opencode:deepseek/deepseek-v4-pro",
+  "providerState": {
+    "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
+  },
+  "currentNote": "Leetcode/174.地下城游戏.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 25984,
+    "contextTokens": 26180,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 196,
+    "model": "opencode:deepseek/deepseek-v4-pro",
+    "percentage": 3
+  }
+}

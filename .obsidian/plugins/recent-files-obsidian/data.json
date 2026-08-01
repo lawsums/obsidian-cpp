@@ -5,6 +5,18 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "174.地下城游戏",
+      "path": "Leetcode/174.地下城游戏.md"
+    },
+    {
+      "basename": "4202.恰好 K 个下标对的最大得分",
+      "path": "Leetcode/4202.恰好 K 个下标对的最大得分.md"
+    },
+    {
       "basename": "八股文",
       "path": "100-学习/120-嵌入式/八股文.md"
     },
@@ -75,10 +87,6 @@
     {
       "basename": "4",
       "path": "Leetcode/4.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "创建个人网站",
@@ -191,14 +199,6 @@
     {
       "basename": "辉夜大小姐想让我告白 通往大人的阶梯",
       "path": "Projects/anime/辉夜大小姐想让我告白 通往大人的阶梯.md"
-    },
-    {
-      "basename": "超时空辉夜姬！",
-      "path": "Projects/anime/超时空辉夜姬！.md"
-    },
-    {
-      "basename": "恋爱游戏世界对路人角色很不友好",
-      "path": "Projects/anime/恋爱游戏世界对路人角色很不友好.md"
     }
   ],
   "omittedPaths": [],
