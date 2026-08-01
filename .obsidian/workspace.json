@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+                "file": "Templates/Homepage/和家长同步家教状况.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "框架梳理 的大纲"
+              "title": "和家长同步家教状况 的大纲"
             }
           },
           {
@@ -378,8 +378,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "950d43dc93a1fb21",
+  "active": "ec4c6c3db77aec19",
   "lastOpenFiles": [
+    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Leetcode/算法路线图.md",
     "Templates/Homepage/Homepage.md",
@@ -390,7 +391,6 @@
     "Leetcode/4202.恰好 K 个下标对的最大得分.cpp",
     "Dairies/2026-08-01.md",
     "100-学习/120-嵌入式/八股文.md",
-    "项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/学习深度学习.md",
     "Templates/Tasks.md",
