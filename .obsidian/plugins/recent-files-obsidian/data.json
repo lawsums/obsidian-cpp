@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "手表方案",
       "path": "Templates/手表方案.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
+      "basename": "3948.插入一个字母的最大子序列数",
+      "path": "Leetcode/3948.插入一个字母的最大子序列数.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "3927.交替方向的最小路径代价 II",
+      "path": "Leetcode/3927.交替方向的最小路径代价 II.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
     },
     {
       "basename": "创建个人网站",
@@ -191,14 +199,6 @@
     {
       "basename": "BanG Dream! YUME∞MITA",
       "path": "Projects/anime/BanG Dream! YUME∞MITA.md"
-    },
-    {
-      "basename": "Softmax的导数性质",
-      "path": "Templates/Homepage/Softmax的导数性质.md"
-    },
-    {
-      "basename": "练习题_代码实践操作题",
-      "path": "300-项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md"
     }
   ],
   "omittedPaths": [],

@@ -1,25 +1,25 @@
 {
   "id": "conv-1785553892822-ejwgyxfeq",
   "providerId": "opencode",
-  "title": "帮我整理一下这道题的解法。",
+  "title": "帮我把这两个Solution整理分开来，同时记到Notes里面，一个是记忆化搜索一个是递推，这题的思...",
   "titleGenerationStatus": "failed",
   "createdAt": 1785553892823,
-  "updatedAt": 1785554183500,
-  "lastResponseAt": 1785554183500,
-  "sessionId": "ses_044b1b9d2ffeBe7VTJ030gZdxk",
+  "updatedAt": 1785640542216,
+  "lastResponseAt": 1785640522507,
+  "sessionId": "ses_03f8e6c82ffe43RpC7XmEaev9Z",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
   },
-  "currentNote": "Leetcode/174.地下城游戏.md",
+  "currentNote": "Leetcode/3927.交替方向的最小路径代价 II.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 25984,
-    "contextTokens": 26180,
+    "cacheReadInputTokens": 15744,
+    "contextTokens": 15967,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 196,
+    "inputTokens": 223,
     "model": "opencode:deepseek/deepseek-v4-pro",
-    "percentage": 3
+    "percentage": 2
   }
 }

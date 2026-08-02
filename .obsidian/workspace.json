@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "e3314a8c8b66e6ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/3948.插入一个字母的最大子序列数.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3948.插入一个字母的最大子序列数"
+            }
+          },
+          {
             "id": "be64daa09c6ba6b6",
             "type": "leaf",
             "state": {
@@ -151,8 +175,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,8 +294,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -298,13 +320,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/手表方案.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "手表方案 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -337,13 +359,11 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -381,11 +401,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "4e3f35d57738dd8a",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Tasks.md",
     "Templates/手表方案.md",
+    "Leetcode/3948.插入一个字母的最大子序列数.md",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/3927.交替方向的最小路径代价 II.md",
+    "Leetcode/3948.插入一个字母的最大子序列数.cpp",
+    "Leetcode/3927.交替方向的最小路径代价 II.cpp",
+    "Templates/Tasks.md",
     "Templates/创建个人网站.md",
     "Templates/Homepage/学习深度学习.md",
     "Dairies/2026-08-02.md",
@@ -408,8 +432,6 @@
     "Templates/Homepage/复习面试题.md",
     "100-学习/120-嵌入式",
     "100-学习/110-计算机/未命名",
-    "100-学习/110-计算机",
-    "100-学习",
     "Projects/anime/穷神.md",
     "Leetcode/1545.数位成本和为目标值的最大数字.md",
     "300-项目/第二轮面试/车载终端/2026-07-31-anki.md",
@@ -417,9 +439,6 @@
     "300-项目/第二轮面试/车载终端/2026-05-14-anki.md",
     "Projects/anime/平凡职业造就世界最强.md",
     "Projects/anime/其实我是.md",
-    "Templates/Homepage/005_KTV歌单.md",
-    "Dairies/2026-07-31.md",
-    "Leetcode/3903.硬币面值还原.md",
     "Attachments/Pasted image 20260730175406.png",
     "Attachments/Pasted image 20260730174634.png",
     "Attachments/Pasted image 20260730171230.png",
