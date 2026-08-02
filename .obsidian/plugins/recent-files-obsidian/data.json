@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "Tasks",
@@ -27,10 +31,6 @@
     {
       "basename": "备份并梳理仓库",
       "path": "Templates/备份并梳理仓库.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "174.地下城游戏",
