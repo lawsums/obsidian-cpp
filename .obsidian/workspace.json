@@ -103,7 +103,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -328,9 +329,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "ffffe9398e10819f",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-08-02.md",
     "Leetcode/算法路线图.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/学习C++.md",
