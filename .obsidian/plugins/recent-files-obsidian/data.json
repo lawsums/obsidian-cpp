@@ -1,12 +1,32 @@
 {
   "recentFiles": [
     {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
     },
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
+      "basename": "备份并梳理仓库",
+      "path": "Templates/备份并梳理仓库.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "3948.插入一个字母的最大子序列数",
@@ -21,16 +41,8 @@
       "path": "300-项目/毕设/毕设规划.md"
     },
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
       "basename": "创建个人网站",
       "path": "Templates/创建个人网站.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "手表方案",
@@ -47,14 +59,6 @@
     {
       "basename": "算法路线图",
       "path": "Leetcode/算法路线图.md"
-    },
-    {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
-      "basename": "备份并梳理仓库",
-      "path": "Templates/备份并梳理仓库.md"
     },
     {
       "basename": "174.地下城游戏",
@@ -195,10 +199,6 @@
     {
       "basename": "Re：从零开始的异世界生活 第二季",
       "path": "Projects/anime/Re：从零开始的异世界生活 第二季.md"
-    },
-    {
-      "basename": "3804.操作后最大活跃区段数 II",
-      "path": "Leetcode/3804.操作后最大活跃区段数 II.md"
     }
   ],
   "omittedPaths": [],

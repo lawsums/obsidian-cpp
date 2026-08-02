@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "9f99d3eb7278a4cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "和家长同步家教状况"
+            }
+          },
+          {
             "id": "f5776d718ee5c025",
             "type": "leaf",
             "state": {
@@ -104,12 +128,12 @@
             }
           },
           {
-            "id": "ffffe9398e10819f",
+            "id": "33af631e7a025018",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
+                "file": "Templates/Homepage/面试题系列.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +148,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "学习深度学习"
+              "title": "面试题系列"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -273,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+                "file": "Templates/Homepage/面试题系列.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "框架梳理 的大纲"
+              "title": "面试题系列 的大纲"
             }
           },
           {
@@ -355,16 +379,18 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7ad080d1a7a76395",
+  "active": "33af631e7a025018",
   "lastOpenFiles": [
     "Templates/Homepage/学习C++.md",
-    "Leetcode/3948.插入一个字母的最大子序列数.md",
+    "Templates/Homepage/学习深度学习.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/和家长同步家教状况.md",
+    "Templates/备份并梳理仓库.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+    "Leetcode/3948.插入一个字母的最大子序列数.md",
     "300-项目/毕设/代码.md",
     "300-项目/毕设/毕设规划.md",
-    "Templates/Homepage/学习深度学习.md",
     "Templates/创建个人网站.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/手表方案.md",
     "Leetcode/3927.交替方向的最小路径代价 II.md",
     "Leetcode/3948.插入一个字母的最大子序列数.cpp",
@@ -372,12 +398,10 @@
     "Templates/Tasks.md",
     "Dairies/2026-08-02.md",
     "Leetcode/算法路线图.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Attachments/第二单元《习作：我的心爱之物》（分层作业）.docx",
     "Attachments/~$级上册期末作文备考指南-素材迁移法.docx",
     "Attachments/作文填空练习卷.docx",
     "Attachments/五年级上册期末作文备考指南-素材迁移法.docx",
-    "Templates/备份并梳理仓库.md",
     "Leetcode/174.地下城游戏.md",
     "Leetcode/174.地下城游戏.cpp",
     "Leetcode/4202.恰好 K 个下标对的最大得分.md",
