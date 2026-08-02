@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "f5776d718ee5c025",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "框架梳理"
+            }
+          },
+          {
             "id": "4e3f35d57738dd8a",
             "type": "leaf",
             "state": {
@@ -53,54 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "手表方案"
-            }
-          },
-          {
-            "id": "e3314a8c8b66e6ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/3948.插入一个字母的最大子序列数.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "3948.插入一个字母的最大子序列数"
-            }
-          },
-          {
-            "id": "be64daa09c6ba6b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/创建个人网站.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "创建个人网站"
             }
           },
           {
@@ -297,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/手表方案.md",
+                "file": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "手表方案 的大纲"
+              "title": "框架梳理 的大纲"
             }
           },
           {
@@ -336,7 +312,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -378,21 +355,23 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "4e3f35d57738dd8a",
+  "active": "7ad080d1a7a76395",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
+    "Leetcode/3948.插入一个字母的最大子序列数.md",
+    "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+    "300-项目/毕设/代码.md",
+    "300-项目/毕设/毕设规划.md",
+    "Templates/Homepage/学习深度学习.md",
     "Templates/创建个人网站.md",
     "Templates/Homepage/Homepage.md",
     "Templates/手表方案.md",
-    "Leetcode/3948.插入一个字母的最大子序列数.md",
     "Leetcode/3927.交替方向的最小路径代价 II.md",
     "Leetcode/3948.插入一个字母的最大子序列数.cpp",
     "Leetcode/3927.交替方向的最小路径代价 II.cpp",
     "Templates/Tasks.md",
-    "Templates/Homepage/学习深度学习.md",
     "Dairies/2026-08-02.md",
     "Leetcode/算法路线图.md",
-    "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Attachments/第二单元《习作：我的心爱之物》（分层作业）.docx",
     "Attachments/~$级上册期末作文备考指南-素材迁移法.docx",
@@ -415,7 +394,6 @@
     "300-项目/第二轮面试/车载终端/2026-05-21-anki.md",
     "300-项目/第二轮面试/车载终端/2026-05-14-anki.md",
     "Projects/anime/平凡职业造就世界最强.md",
-    "Projects/anime/其实我是.md",
     "Attachments/Pasted image 20260730175406.png",
     "Attachments/Pasted image 20260730174634.png",
     "Attachments/Pasted image 20260730171230.png",

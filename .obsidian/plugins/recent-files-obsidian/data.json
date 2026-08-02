@@ -1,8 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "手表方案",
-      "path": "Templates/手表方案.md"
+      "basename": "框架梳理",
+      "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "3948.插入一个字母的最大子序列数",
+      "path": "Leetcode/3948.插入一个字母的最大子序列数.md"
+    },
+    {
+      "basename": "代码",
+      "path": "300-项目/毕设/代码.md"
+    },
+    {
+      "basename": "毕设规划",
+      "path": "300-项目/毕设/毕设规划.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "创建个人网站",
@@ -13,8 +33,8 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "3948.插入一个字母的最大子序列数",
-      "path": "Leetcode/3948.插入一个字母的最大子序列数.md"
+      "basename": "手表方案",
+      "path": "Templates/手表方案.md"
     },
     {
       "basename": "3927.交替方向的最小路径代价 II",
@@ -25,20 +45,8 @@
       "path": "Templates/Tasks.md"
     },
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
       "basename": "算法路线图",
       "path": "Leetcode/算法路线图.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "和家长同步家教状况",
@@ -191,14 +199,6 @@
     {
       "basename": "3804.操作后最大活跃区段数 II",
       "path": "Leetcode/3804.操作后最大活跃区段数 II.md"
-    },
-    {
-      "basename": "2026-07-22",
-      "path": "Dairies/2026-07-22.md"
-    },
-    {
-      "basename": "BanG Dream! YUME∞MITA",
-      "path": "Projects/anime/BanG Dream! YUME∞MITA.md"
     }
   ],
   "omittedPaths": [],
