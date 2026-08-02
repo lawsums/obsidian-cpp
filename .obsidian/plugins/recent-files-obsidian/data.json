@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "框架梳理",
+      "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+    },
+    {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -21,16 +29,8 @@
       "path": "Templates/Homepage/学习深度学习.md"
     },
     {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
       "basename": "备份并梳理仓库",
       "path": "Templates/备份并梳理仓库.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "3948.插入一个字母的最大子序列数",

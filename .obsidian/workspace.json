@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "9f99d3eb7278a4cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "和家长同步家教状况"
-            }
-          },
-          {
             "id": "f5776d718ee5c025",
             "type": "leaf",
             "state": {
@@ -151,7 +127,8 @@
               "title": "八股文"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -296,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "框架梳理 的大纲"
             }
           },
           {
@@ -339,7 +317,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -377,14 +356,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "f5776d718ee5c025",
   "lastOpenFiles": [
+    "Templates/Homepage/和家长同步家教状况.md",
+    "Templates/Tasks.md",
+    "Templates/Homepage/Homepage.md",
     "100-学习/120-嵌入式/八股文.md",
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/学习深度学习.md",
-    "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/备份并梳理仓库.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Leetcode/3948.插入一个字母的最大子序列数.md",
@@ -395,7 +375,6 @@
     "Leetcode/3927.交替方向的最小路径代价 II.md",
     "Leetcode/3948.插入一个字母的最大子序列数.cpp",
     "Leetcode/3927.交替方向的最小路径代价 II.cpp",
-    "Templates/Tasks.md",
     "Dairies/2026-08-02.md",
     "Leetcode/算法路线图.md",
     "Attachments/第二单元《习作：我的心爱之物》（分层作业）.docx",
