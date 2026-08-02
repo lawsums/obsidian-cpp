@@ -4,9 +4,9 @@
   "title": "帮我看一下这个题目的解法，我目前给出了两个解法，你注意一下，一个是前后缀解法，一个是dp解法，这个d...",
   "titleGenerationStatus": "failed",
   "createdAt": 1785640544996,
-  "updatedAt": 1785640863199,
-  "lastResponseAt": 1785640863199,
-  "sessionId": "ses_03f878baeffeLDybPfUPcIawez",
+  "updatedAt": 1785645262001,
+  "lastResponseAt": 1785645262001,
+  "sessionId": "ses_03f4291e1ffei4LpPlkTRslVFz",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
@@ -14,12 +14,12 @@
   "currentNote": "Leetcode/3948.插入一个字母的最大子序列数.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 21760,
-    "contextTokens": 22018,
+    "cacheReadInputTokens": 10368,
+    "contextTokens": 13664,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 258,
+    "inputTokens": 3296,
     "model": "opencode:deepseek/deepseek-v4-pro",
-    "percentage": 2
+    "percentage": 1
   }
 }
