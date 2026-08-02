@@ -127,8 +127,7 @@
               "title": "八股文"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -274,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "框架梳理 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -356,8 +355,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f5776d718ee5c025",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Tasks.md",
     "Templates/Homepage/Homepage.md",
@@ -366,7 +366,6 @@
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/学习深度学习.md",
     "Templates/备份并梳理仓库.md",
-    "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Leetcode/3948.插入一个字母的最大子序列数.md",
     "300-项目/毕设/代码.md",
     "300-项目/毕设/毕设规划.md",
