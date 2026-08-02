@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "通信协议",
+      "path": "100-学习/120-嵌入式/通信协议.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "152.乘积最大子数组",
       "path": "Leetcode/152.乘积最大子数组.md"
-    },
-    {
-      "basename": "Re：从零开始的异世界生活 第二季",
-      "path": "Projects/anime/Re：从零开始的异世界生活 第二季.md"
     }
   ],
   "omittedPaths": [],
