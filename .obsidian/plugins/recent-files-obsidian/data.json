@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "八股文",
+      "path": "100-学习/120-嵌入式/八股文.md"
+    },
+    {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "和家长同步家教状况",
@@ -67,10 +71,6 @@
     {
       "basename": "4202.恰好 K 个下标对的最大得分",
       "path": "Leetcode/4202.恰好 K 个下标对的最大得分.md"
-    },
-    {
-      "basename": "八股文",
-      "path": "100-学习/120-嵌入式/八股文.md"
     },
     {
       "basename": "复习面试题",

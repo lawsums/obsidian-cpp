@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/面试题系列.md",
+                "file": "100-学习/120-嵌入式/八股文.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,11 +148,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "面试题系列"
+              "title": "八股文"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/面试题系列.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "面试题系列 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -336,8 +335,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -379,8 +377,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "33af631e7a025018",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "100-学习/120-嵌入式/八股文.md",
+    "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/Homepage.md",
@@ -408,7 +408,6 @@
     "Leetcode/images/174_dungeon-grid-1.jpg",
     "Leetcode/4202.恰好 K 个下标对的最大得分.cpp",
     "Dairies/2026-08-01.md",
-    "100-学习/120-嵌入式/八股文.md",
     "Templates/Homepage/复习面试题.md",
     "100-学习/120-嵌入式",
     "100-学习/110-计算机/未命名",
@@ -417,7 +416,6 @@
     "300-项目/第二轮面试/车载终端/2026-07-31-anki.md",
     "300-项目/第二轮面试/车载终端/2026-05-21-anki.md",
     "300-项目/第二轮面试/车载终端/2026-05-14-anki.md",
-    "Projects/anime/平凡职业造就世界最强.md",
     "Attachments/Pasted image 20260730175406.png",
     "Attachments/Pasted image 20260730174634.png",
     "Attachments/Pasted image 20260730171230.png",

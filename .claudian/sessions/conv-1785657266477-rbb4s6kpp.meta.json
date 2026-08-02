@@ -1,0 +1,25 @@
+{
+  "id": "conv-1785657266477-rbb4s6kpp",
+  "providerId": "opencode",
+  "title": "帮我把这里的题目整理一下，主要按照问题类型整理一下，因为我后续还会添加题目，加得越多越不好整理，索性...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1785657266478,
+  "updatedAt": 1785657410556,
+  "lastResponseAt": 1785657410556,
+  "sessionId": "ses_03e88626fffeKJZIwO7P2sHXWQ",
+  "selectedModel": "opencode:deepseek/deepseek-v4-pro",
+  "providerState": {
+    "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
+  },
+  "currentNote": "100-学习/120-嵌入式/八股文.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 14592,
+    "contextTokens": 14654,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 62,
+    "model": "opencode:deepseek/deepseek-v4-pro",
+    "percentage": 1
+  }
+}
