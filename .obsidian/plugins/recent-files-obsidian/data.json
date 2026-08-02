@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
+      "basename": "手表方案",
+      "path": "Templates/手表方案.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "创建个人网站",
+      "path": "Templates/创建个人网站.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "算法路线图",
@@ -19,10 +31,6 @@
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "和家长同步家教状况",
@@ -91,10 +99,6 @@
     {
       "basename": "4",
       "path": "Leetcode/4.md"
-    },
-    {
-      "basename": "创建个人网站",
-      "path": "Templates/创建个人网站.md"
     },
     {
       "basename": "你画我猜+植物大战僵尸",
@@ -195,10 +199,6 @@
     {
       "basename": "练习题_代码实践操作题",
       "path": "300-项目/嵌入式/FreeRTOS快速入门/练习题_代码实践操作题.md"
-    },
-    {
-      "basename": "交叉熵求梯度",
-      "path": "Templates/Homepage/交叉熵求梯度.md"
     }
   ],
   "omittedPaths": [],
