@@ -731,14 +731,10 @@
           "realclaudian:Open Claudian": false
         }
       },
-      "active": "9dc770d0e0eb3520",
-      "mtime": "2026-07-18T09:55:11+08:00",
+      "active": "a8fa3bde95b82293",
+      "mtime": "2026-08-03T09:57:50+08:00",
       "workspaces-plus:settings-v1": {
-        "explorerFoldState": [
-          "项目",
-          "项目/嵌入式/FreeRTOS快速入门",
-          "Leetcode"
-        ]
+        "explorerFoldState": []
       }
     }
   },

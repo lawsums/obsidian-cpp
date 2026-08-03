@@ -1,25 +1,25 @@
 {
   "id": "conv-1785683953476-6klz0erhk",
   "providerId": "opencode",
-  "title": "整理一下我自己设计的这个通信协议的接收方和发送方，以及接收方的状态机",
+  "title": "这题有一个很巧妙的技巧，在于 $f_i$ 永远代表当前玩家。也就是说，从坐标 $i$ 到末尾，如果是...",
   "titleGenerationStatus": "failed",
   "createdAt": 1785683953478,
-  "updatedAt": 1785721373841,
-  "lastResponseAt": 1785684121925,
-  "sessionId": "ses_03cf12b7effe1uOU3kQMNZBX62",
+  "updatedAt": 1785722663060,
+  "lastResponseAt": 1785722663060,
+  "sessionId": "ses_03aa33f80ffezWRbLPlD9kS7uH",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
   },
-  "currentNote": "100-学习/120-嵌入式/通信协议.md",
+  "currentNote": "Leetcode/1522.石子游戏 III.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 16128,
-    "contextTokens": 16161,
+    "cacheReadInputTokens": 11520,
+    "contextTokens": 11603,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 33,
+    "inputTokens": 83,
     "model": "opencode:deepseek/deepseek-v4-pro",
-    "percentage": 2
+    "percentage": 1
   }
 }

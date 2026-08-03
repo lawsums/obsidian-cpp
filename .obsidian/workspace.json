@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "117177ead4a997fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/创建个人网站.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "创建个人网站"
+            }
+          },
+          {
+            "id": "4d104c68aab816f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/1522.石子游戏 III.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1522.石子游戏 III"
+            }
+          },
+          {
             "id": "02c335c035ea2a8d",
             "type": "leaf",
             "state": {
@@ -103,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -328,9 +377,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "4d104c68aab816f7",
   "lastOpenFiles": [
+    "Leetcode/1522.石子游戏 III.cpp",
+    "Templates/创建个人网站.md",
+    "Leetcode/1522.石子游戏 III.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/备份并梳理仓库.md",
     "100-学习/120-嵌入式/通信协议.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/和家长同步家教状况.md",
@@ -339,11 +392,9 @@
     "Templates/Homepage/面试题系列.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/学习深度学习.md",
-    "Templates/备份并梳理仓库.md",
     "Leetcode/3948.插入一个字母的最大子序列数.md",
     "300-项目/毕设/代码.md",
     "300-项目/毕设/毕设规划.md",
-    "Templates/创建个人网站.md",
     "Templates/手表方案.md",
     "Leetcode/3927.交替方向的最小路径代价 II.md",
     "Leetcode/3948.插入一个字母的最大子序列数.cpp",
@@ -365,8 +416,6 @@
     "100-学习/110-计算机/未命名",
     "Projects/anime/穷神.md",
     "Leetcode/1545.数位成本和为目标值的最大数字.md",
-    "300-项目/第二轮面试/车载终端/2026-07-31-anki.md",
-    "300-项目/第二轮面试/车载终端/2026-05-21-anki.md",
     "Attachments/Pasted image 20260730175406.png",
     "Attachments/Pasted image 20260730174634.png",
     "Attachments/Pasted image 20260730171230.png",

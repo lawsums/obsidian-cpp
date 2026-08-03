@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "1522.石子游戏 III",
+      "path": "Leetcode/1522.石子游戏 III.md"
+    },
+    {
+      "basename": "创建个人网站",
+      "path": "Templates/创建个人网站.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -47,10 +55,6 @@
     {
       "basename": "毕设规划",
       "path": "300-项目/毕设/毕设规划.md"
-    },
-    {
-      "basename": "创建个人网站",
-      "path": "Templates/创建个人网站.md"
     },
     {
       "basename": "手表方案",
@@ -195,10 +199,6 @@
     {
       "basename": "研一课程",
       "path": "Temp/研一课程.md"
-    },
-    {
-      "basename": "152.乘积最大子数组",
-      "path": "Leetcode/152.乘积最大子数组.md"
     }
   ],
   "omittedPaths": [],

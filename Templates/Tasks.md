@@ -107,7 +107,8 @@ sort by description
 - [x] 加牛客佬微信 #task 🔼 ➕ 2026-07-15 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260715-93cb29d3
 - [x] 给家长反馈 #task 🔼 ➕ 2026-07-16 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260716-36bc1ba4
 - [x] 去南图坐坐 #library 🔼 ➕ 2026-07-16 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260716-42dd28dc
-- [ ] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-03
+- [ ] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-04
+- [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-03 ✅ 2026-08-03
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-02 ✅ 2026-08-02
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-01 ✅ 2026-08-01
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-07-31 ✅ 2026-07-31
@@ -130,7 +131,8 @@ sort by description
 - [x] 准备竖式教学内容 #task 🔼 ➕ 2026-07-16 🛫 2026-07-19 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260716-6b15c303
 - [x] 下午两点和牛客大佬聊聊嵌入式 #learning 🔼 ➕ 2026-07-17 ⏳ 2026-07-18 ✅ 2026-07-18 ^task-20260717-a254378e
 - [ ] 让AI统计已做题目的文件标题 #study 🔼 ⏳ 2026-07-23 ⏰ 2026-07-17 16:27 ➕ 2026-07-18 ^task-20260718-56b40c1b
-- [ ] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-08-03
+- [ ] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-08-04
+- [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-08-03 ✅ 2026-08-03
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-08-02 ✅ 2026-08-02
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ➕ 2026-07-18 ⏳ 2026-08-01 ✅ 2026-08-01 ^task-20260718-5073333b
 - [x] 给灵神的题单写一个目录插件 #coding ⏫ ➕ 2026-07-18 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260718-72efe0c9
