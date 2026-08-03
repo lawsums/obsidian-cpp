@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "676fee1b780ef617",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "和家长同步家教状况"
+            }
+          },
+          {
             "id": "117177ead4a997fe",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -221,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -248,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/和家长同步家教状况.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "和家长同步家教状况 的大纲"
             }
           },
           {
@@ -292,8 +316,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -331,14 +354,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "676fee1b780ef617",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/学习深度学习.md",
     "Templates/创建个人网站.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Attachments/~$单元《习作：我的心爱之物》（分层作业）.docx",
     "Attachments/~$文填空练习卷.docx",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/算法路线图.md",
     "Leetcode/1522.石子游戏 III.md",
     "Leetcode/1522.石子游戏 III.cpp",
