@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "676fee1b780ef617",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "和家长同步家教状况"
-            }
-          },
-          {
             "id": "117177ead4a997fe",
             "type": "leaf",
             "state": {
@@ -127,8 +103,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "和家长同步家教状况 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -354,10 +329,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "676fee1b780ef617",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/和家长同步家教状况.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习深度学习.md",
     "Templates/创建个人网站.md",
     "Attachments/~$单元《习作：我的心爱之物》（分层作业）.docx",
