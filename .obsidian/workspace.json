@@ -270,7 +270,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -340,7 +341,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -378,7 +380,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7ad080d1a7a76395",
+  "active": "ccf16199bcaae497",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
     "Leetcode/算法路线图.md",
