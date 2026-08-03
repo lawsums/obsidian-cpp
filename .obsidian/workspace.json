@@ -32,54 +32,6 @@
             }
           },
           {
-            "id": "f4c365eb8c59910f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "和家长同步家教状况"
-            }
-          },
-          {
-            "id": "ccf16199bcaae497",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习深度学习"
-            }
-          },
-          {
             "id": "117177ead4a997fe",
             "type": "leaf",
             "state": {
@@ -151,8 +103,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,13 +248,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "和家长同步家教状况 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -380,17 +331,17 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f4c365eb8c59910f",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习深度学习.md",
+    "Templates/创建个人网站.md",
+    "Templates/Homepage/和家长同步家教状况.md",
     "Attachments/~$单元《习作：我的心爱之物》（分层作业）.docx",
     "Attachments/~$文填空练习卷.docx",
     "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/和家长同步家教状况.md",
-    "Templates/Homepage/学习深度学习.md",
     "Leetcode/算法路线图.md",
     "Leetcode/1522.石子游戏 III.md",
     "Leetcode/1522.石子游戏 III.cpp",
-    "Templates/创建个人网站.md",
     "Templates/备份并梳理仓库.md",
     "100-学习/120-嵌入式/通信协议.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
@@ -414,7 +365,6 @@
     "Leetcode/174.地下城游戏.cpp",
     "Leetcode/4202.恰好 K 个下标对的最大得分.md",
     "Leetcode/images/174_dungeon-grid-1.jpg",
-    "Leetcode/4202.恰好 K 个下标对的最大得分.cpp",
     "Dairies/2026-08-01.md",
     "Templates/Homepage/复习面试题.md",
     "Projects/anime/穷神.md",

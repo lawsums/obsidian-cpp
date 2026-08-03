@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -13,16 +9,20 @@
       "path": "Templates/Homepage/学习深度学习.md"
     },
     {
+      "basename": "创建个人网站",
+      "path": "Templates/创建个人网站.md"
+    },
+    {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
       "basename": "算法路线图",
       "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "1522.石子游戏 III",
       "path": "Leetcode/1522.石子游戏 III.md"
-    },
-    {
-      "basename": "创建个人网站",
-      "path": "Templates/创建个人网站.md"
     },
     {
       "basename": "通信协议",
