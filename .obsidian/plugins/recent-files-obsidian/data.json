@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
+      "basename": "其实我是",
+      "path": "Projects/anime/其实我是.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "框架梳理",
       "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
-    },
-    {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "学习深度学习",
@@ -195,10 +199,6 @@
     {
       "basename": "Elden Ring",
       "path": "Projects/game/Elden Ring.md"
-    },
-    {
-      "basename": "研一课程",
-      "path": "Temp/研一课程.md"
     }
   ],
   "omittedPaths": [],
