@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "八股文",
-      "path": "100-学习/110-计算机/八股文/八股文.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
+      "basename": "八股文",
+      "path": "100-学习/110-计算机/八股文/八股文.md"
     },
     {
       "basename": "算法路线图",
@@ -29,10 +37,6 @@
       "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
       "basename": "1522.石子游戏 III",
       "path": "Leetcode/1522.石子游戏 III.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "备份并梳理仓库",

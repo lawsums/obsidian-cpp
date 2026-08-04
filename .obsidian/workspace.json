@@ -8,6 +8,30 @@
         "type": "tabs",
         "children": [
           {
+            "id": "415ebd4984f0fb6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/Homepage.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Homepage"
+            }
+          },
+          {
             "id": "a8fa3bde95b82293",
             "type": "leaf",
             "state": {
@@ -77,30 +101,6 @@
               },
               "icon": "lucide-file",
               "title": "学习C++"
-            }
-          },
-          {
-            "id": "ffffe9398e10819f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习深度学习"
             }
           }
         ]
@@ -247,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/110-计算机/八股文/八股文.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "八股文 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -329,8 +329,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "415ebd4984f0fb6f",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/Homepage.md",
     "100-学习/110-计算机/八股文/八股文.md",
     "Leetcode/算法路线图.md",
@@ -339,7 +341,6 @@
     "Dairies/2026-08-04.md",
     "Templates/创建个人网站.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
-    "Templates/Homepage/学习深度学习.md",
     "Attachments/~$单元《习作：我的心爱之物》（分层作业）.docx",
     "Attachments/~$文填空练习卷.docx",
     "Leetcode/1522.石子游戏 III.md",
@@ -349,7 +350,6 @@
     "Templates/Tasks.md",
     "100-学习/120-嵌入式/八股文.md",
     "Templates/Homepage/面试题系列.md",
-    "Templates/Homepage/学习C++.md",
     "Leetcode/3948.插入一个字母的最大子序列数.md",
     "300-项目/毕设/代码.md",
     "300-项目/毕设/毕设规划.md",
