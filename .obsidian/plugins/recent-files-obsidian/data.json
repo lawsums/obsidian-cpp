@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "八股文",
+      "path": "100-学习/110-计算机/八股文/八股文.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "和家长同步家教状况",
@@ -23,10 +31,6 @@
     {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "1522.石子游戏 III",
@@ -195,10 +199,6 @@
     {
       "basename": "4097.达到目标异或值的最少删除次数",
       "path": "Leetcode/4097.达到目标异或值的最少删除次数.md"
-    },
-    {
-      "basename": "Elden Ring",
-      "path": "Projects/game/Elden Ring.md"
     }
   ],
   "omittedPaths": [],
