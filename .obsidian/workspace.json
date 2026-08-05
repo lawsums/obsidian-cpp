@@ -103,7 +103,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -221,7 +222,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -247,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Templates/Homepage/学习深度学习.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法路线图 的大纲"
+              "title": "学习深度学习 的大纲"
             }
           },
           {
@@ -286,11 +288,13 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -328,12 +332,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "ffffe9398e10819f",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260805162617.png",
+    "Attachments/Pasted image 20260805161639.png",
+    "Templates/Homepage/Homepage.md",
     "Dairies/2026-08-05.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/学习深度学习.md",
-    "Templates/Homepage/Homepage.md",
     "100-学习/110-计算机/八股文/八股文.md",
     "Leetcode/算法路线图.md",
     "Templates/Homepage/和家长同步家教状况.md",
@@ -366,7 +372,6 @@
     "Leetcode/174.地下城游戏.cpp",
     "Leetcode/4202.恰好 K 个下标对的最大得分.md",
     "Leetcode/images/174_dungeon-grid-1.jpg",
-    "Dairies/2026-08-01.md",
     "Attachments/Pasted image 20260730175406.png",
     "Attachments/Pasted image 20260730174634.png",
     "Attachments/Pasted image 20260730171230.png",
@@ -375,7 +380,6 @@
     "Attachments/Pasted image 20260723200707.png",
     "Attachments/Pasted image 20260722220637.png",
     "Attachments/Pasted image 20260722141256.png",
-    "Attachments/Pasted image 20260714171517.png",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
