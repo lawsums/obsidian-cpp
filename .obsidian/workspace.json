@@ -127,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -272,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "100-学习/120-嵌入式/八股文.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "八股文 的大纲"
             }
           },
           {
@@ -355,10 +356,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "ab33862477d0611f",
   "lastOpenFiles": [
-    "100-学习/120-嵌入式/八股文.md",
     "Templates/Homepage/Homepage.md",
+    "100-学习/120-嵌入式/八股文.md",
     "Templates/Tasks.md",
     "Templates/Homepage/学习深度学习.md",
     "Attachments/Pasted image 20260805162617.png",
