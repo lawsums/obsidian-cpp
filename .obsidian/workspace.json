@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "31a0dae40899b828",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/自己画重口漫画.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "自己画重口漫画"
+            }
+          },
+          {
             "id": "ab33862477d0611f",
             "type": "leaf",
             "state": {
@@ -273,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/120-嵌入式/八股文.md",
+                "file": "Templates/Homepage/自己画重口漫画.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "八股文 的大纲"
+              "title": "自己画重口漫画 的大纲"
             }
           },
           {
@@ -356,12 +380,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ab33862477d0611f",
+  "active": "31a0dae40899b828",
   "lastOpenFiles": [
+    "Templates/Homepage/004_闪念.md",
+    "Templates/Homepage/自己画重口漫画.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习深度学习.md",
     "100-学习/120-嵌入式/八股文.md",
     "Templates/Tasks.md",
-    "Templates/Homepage/学习深度学习.md",
     "Attachments/Pasted image 20260805162617.png",
     "Attachments/Pasted image 20260805161639.png",
     "Dairies/2026-08-05.md",
@@ -394,7 +420,6 @@
     "Attachments/五年级上册期末作文备考指南-素材迁移法.docx",
     "Leetcode/174.地下城游戏.md",
     "Leetcode/174.地下城游戏.cpp",
-    "Leetcode/4202.恰好 K 个下标对的最大得分.md",
     "Leetcode/images/174_dungeon-grid-1.jpg",
     "Attachments/Pasted image 20260730175406.png",
     "Attachments/Pasted image 20260730174634.png",

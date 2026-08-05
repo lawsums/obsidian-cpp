@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "八股文",
-      "path": "100-学习/120-嵌入式/八股文.md"
+      "basename": "自己画重口漫画",
+      "path": "Templates/Homepage/自己画重口漫画.md"
+    },
+    {
+      "basename": "004_闪念",
+      "path": "Templates/Homepage/004_闪念.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
-    },
-    {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
+      "basename": "八股文",
+      "path": "100-学习/120-嵌入式/八股文.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
     },
     {
       "basename": "学习C++",
@@ -149,10 +157,6 @@
       "path": "Templates/试用grill me检测想法合理性.md"
     },
     {
-      "basename": "004_闪念",
-      "path": "Templates/Homepage/004_闪念.md"
-    },
-    {
       "basename": "每天给C盘文件夹建立软连接",
       "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3442.执行操作可获得的最大总奖励 I",
       "path": "Leetcode/3442.执行操作可获得的最大总奖励 I.md"
-    },
-    {
-      "basename": "4097.达到目标异或值的最少删除次数",
-      "path": "Leetcode/4097.达到目标异或值的最少删除次数.md"
     }
   ],
   "omittedPaths": [],
