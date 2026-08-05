@@ -103,8 +103,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,13 +248,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习深度学习 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -332,14 +331,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ffffe9398e10819f",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习深度学习.md",
     "Attachments/Pasted image 20260805162617.png",
     "Attachments/Pasted image 20260805161639.png",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-08-05.md",
     "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/学习深度学习.md",
     "100-学习/110-计算机/八股文/八股文.md",
     "Leetcode/算法路线图.md",
     "Templates/Homepage/和家长同步家教状况.md",
@@ -379,7 +378,6 @@
     "Attachments/Pasted image 20260725215742.png",
     "Attachments/Pasted image 20260723200707.png",
     "Attachments/Pasted image 20260722220637.png",
-    "Attachments/Pasted image 20260722141256.png",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
