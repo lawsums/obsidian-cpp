@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "八股文",
+      "path": "100-学习/120-嵌入式/八股文.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -47,10 +51,6 @@
     {
       "basename": "通信协议",
       "path": "100-学习/120-嵌入式/通信协议.md"
-    },
-    {
-      "basename": "八股文",
-      "path": "100-学习/120-嵌入式/八股文.md"
     },
     {
       "basename": "面试题系列",
