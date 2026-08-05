@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/120-嵌入式/八股文.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "八股文 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -356,8 +355,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ab33862477d0611f",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "100-学习/120-嵌入式/八股文.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Tasks.md",
     "Templates/Homepage/学习深度学习.md",
@@ -378,7 +378,6 @@
     "Leetcode/1522.石子游戏 III.cpp",
     "Templates/备份并梳理仓库.md",
     "100-学习/120-嵌入式/通信协议.md",
-    "100-学习/120-嵌入式/八股文.md",
     "Templates/Homepage/面试题系列.md",
     "Leetcode/3948.插入一个字母的最大子序列数.md",
     "300-项目/毕设/代码.md",
