@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8fa3bde95b82293",
+            "id": "99ba4ed6ea68e944",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "56ae89570ce8e209",
+            "id": "578ed698a483b679",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "100-学习/110-计算机/八股文/八股文.md",
+                "file": "Templates/Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "八股文"
+              "title": "Tasks"
             }
           },
           {
-            "id": "02c335c035ea2a8d",
+            "id": "2c84b4c542d8aaef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "算法路线图"
+              "title": "框架梳理"
             }
           },
           {
@@ -127,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -354,24 +355,27 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "2c84b4c542d8aaef",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
+    "100-学习/110-计算机/八股文/八股文.md",
+    "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+    "Templates/Tasks.md",
+    "Templates/Homepage/Homepage.md",
+    "Leetcode/1121.思维拓展_分隔数组最大和.md",
+    "Leetcode/1121.分隔数组以得到最大和.md",
+    "Templates/创建个人网站.md",
+    "Leetcode/1121.分隔数组以得到最大和.cpp",
     "Leetcode/算法路线图.md",
     "Templates/Homepage/和家长同步家教状况.md",
-    "100-学习/110-计算机/八股文/八股文.md",
-    "Templates/Homepage/Homepage.md",
-    "Templates/Tasks.md",
     "Dairies/2026-08-06.md",
-    "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/自己画重口漫画.md",
-    "Templates/创建个人网站.md",
     "Templates/Homepage/004_闪念.md",
     "Templates/Homepage/学习深度学习.md",
     "100-学习/120-嵌入式/八股文.md",
     "Attachments/Pasted image 20260805162617.png",
     "Attachments/Pasted image 20260805161639.png",
     "Dairies/2026-08-05.md",
-    "Templates/Homepage/学习C++.md",
     "Projects/anime/其实我是.md",
     "Dairies/2026-08-04.md",
     "Attachments/~$单元《习作：我的心爱之物》（分层作业）.docx",
@@ -385,15 +389,12 @@
     "300-项目/毕设/代码.md",
     "300-项目/毕设/毕设规划.md",
     "Templates/手表方案.md",
-    "Leetcode/3927.交替方向的最小路径代价 II.md",
     "Leetcode/3948.插入一个字母的最大子序列数.cpp",
     "Leetcode/3927.交替方向的最小路径代价 II.cpp",
-    "Dairies/2026-08-02.md",
     "Attachments/第二单元《习作：我的心爱之物》（分层作业）.docx",
     "Attachments/~$级上册期末作文备考指南-素材迁移法.docx",
     "Attachments/作文填空练习卷.docx",
     "Attachments/五年级上册期末作文备考指南-素材迁移法.docx",
-    "Leetcode/174.地下城游戏.cpp",
     "Leetcode/images/174_dungeon-grid-1.jpg",
     "Attachments/Pasted image 20260730175406.png",
     "Attachments/Pasted image 20260730174634.png",
