@@ -19,7 +19,8 @@ sort by description
 - [x] 问问罗余娜成绩 #task 🔼 ➕ 2026-07-05 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260705-531e078f
 - [x] 充值梯子会员 #network 🔼 ➕ 2026-07-05 ⏳ 2026-07-06 ✅ 2026-07-06 ^task-20260705-985a9e6
 - [x] 给sly打电话 #task 🔼 ➕ 2026-07-05 ⏳ 2026-07-06 ✅ 2026-07-06 ^task-20260705-247bba30
-- [ ] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-08-05
+- [ ] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-08-06
+- [x] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-08-05 ✅ 2026-08-05
 - [x] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-08-04 ✅ 2026-08-04
 - [x] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-08-03 ✅ 2026-08-03
 - [x] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-08-02 ✅ 2026-08-02
@@ -184,7 +185,9 @@ sort by description
 - [x] 让老妈存学费 #task ⏫ ➕ 2026-07-24 ⏳ 2026-08-09 📅 2026-08-09 ✅ 2026-08-05 ^task-20260724-923ad4e2
 - [x] 测试转盘玩法 #task 🔼 ➕ 2026-07-24 ⏳ 2026-07-25 ✅ 2026-07-25 ^task-20260724-d8ac654b
 - [x] 调参、调网络并提交 Kaggle 竞赛 #kaggle #ml ⏫ ➕ 2026-07-24 ⏳ 2026-07-29 ✅ 2026-07-29 ^task-20260724-94ee103a
-- [ ] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) #task ⏫ 🔁 every day ⏳ 2026-08-04
+- [ ] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) #task ⏫ 🔁 every day ⏳ 2026-08-06
+- [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) #task ⏫ 🔁 every day ⏳ 2026-08-05 ✅ 2026-08-05
+- [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) #task ⏫ 🔁 every day ⏳ 2026-08-04 ✅ 2026-08-05
 - [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) #task ⏫ 🔁 every day ⏳ 2026-08-03 ✅ 2026-08-04
 - [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) #task ⏫ 🔁 every day ⏳ 2026-08-02 ✅ 2026-08-02
 - [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) #task ⏫ 🔁 every day ⏳ 2026-08-01 ✅ 2026-08-01
