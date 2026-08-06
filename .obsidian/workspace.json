@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "56ae89570ce8e209",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/110-计算机/八股文/八股文.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "八股文"
+            }
+          },
+          {
             "id": "e462c1ea2079857e",
             "type": "leaf",
             "state": {
@@ -127,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -354,11 +379,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "56ae89570ce8e209",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Tasks.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-08-06.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/自己画重口漫画.md",

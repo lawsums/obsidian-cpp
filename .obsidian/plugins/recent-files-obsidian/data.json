@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "八股文",
+      "path": "100-学习/110-计算机/八股文/八股文.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -39,10 +43,6 @@
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "八股文",
-      "path": "100-学习/110-计算机/八股文/八股文.md"
     },
     {
       "basename": "算法路线图",
