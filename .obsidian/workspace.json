@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -379,10 +379,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "56ae89570ce8e209",
+  "active": "e462c1ea2079857e",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
+    "100-学习/110-计算机/八股文/八股文.md",
     "Templates/Homepage/和家长同步家教状况.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Tasks.md",
     "Dairies/2026-08-06.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
@@ -395,7 +396,6 @@
     "Attachments/Pasted image 20260805161639.png",
     "Dairies/2026-08-05.md",
     "Templates/Homepage/学习C++.md",
-    "100-学习/110-计算机/八股文/八股文.md",
     "Leetcode/算法路线图.md",
     "Projects/anime/其实我是.md",
     "Dairies/2026-08-04.md",

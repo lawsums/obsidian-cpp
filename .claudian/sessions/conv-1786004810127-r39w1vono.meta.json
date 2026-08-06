@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786004810127-r39w1vono",
+  "providerId": "opencode",
+  "title": "整理一下这里的阿文题目，还有就是我里面有个 InLine 的作用什么？我没有填答案，帮我写一下答案。",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786004810129,
+  "updatedAt": 1786004876206,
+  "lastResponseAt": 1786004876206,
+  "sessionId": "ses_029d14a99ffe8JUtgQnvO22yyR",
+  "selectedModel": "opencode:deepseek/deepseek-v4-pro",
+  "providerState": {
+    "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
+  },
+  "currentNote": "100-学习/110-计算机/八股文/八股文.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 10880,
+    "contextTokens": 10933,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 53,
+    "model": "opencode:deepseek/deepseek-v4-pro",
+    "percentage": 1
+  }
+}

@@ -4,7 +4,7 @@
   "title": "这题有一个很巧妙的技巧，在于 $f_i$ 永远代表当前玩家。也就是说，从坐标 $i$ 到末尾，如果是...",
   "titleGenerationStatus": "failed",
   "createdAt": 1785683953478,
-  "updatedAt": 1785722663060,
+  "updatedAt": 1786004792534,
   "lastResponseAt": 1785722663060,
   "sessionId": "ses_03aa33f80ffezWRbLPlD9kS7uH",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
