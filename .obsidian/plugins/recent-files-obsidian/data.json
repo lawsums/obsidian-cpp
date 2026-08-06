@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "八股文",
       "path": "100-学习/110-计算机/八股文/八股文.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "框架梳理",
@@ -43,10 +47,6 @@
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "其实我是",
