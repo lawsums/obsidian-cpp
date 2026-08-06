@@ -103,8 +103,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -222,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -292,8 +290,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -331,12 +328,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "2c84b4c542d8aaef",
+  "active": "99ba4ed6ea68e944",
   "lastOpenFiles": [
+    "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Attachments/Pasted image 20260806191201.png",
     "Attachments/Pasted image 20260806190557.png",
     "Templates/Homepage/Homepage.md",
-    "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/学习C++.md",
     "100-学习/110-计算机/八股文/八股文.md",
     "Templates/Tasks.md",
@@ -378,7 +375,6 @@
     "Attachments/Pasted image 20260730171230.png",
     "Leetcode/images/2409_griddrawio-4.png",
     "Attachments/Pasted image 20260725215742.png",
-    "Attachments/Pasted image 20260723200707.png",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
