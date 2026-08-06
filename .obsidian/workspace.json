@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -316,8 +314,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -355,10 +352,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "e462c1ea2079857e",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Tasks.md",
     "Templates/Homepage/和家长同步家教状况.md",
+    "Templates/Tasks.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-08-06.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
