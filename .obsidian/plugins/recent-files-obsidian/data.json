@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "其实我是",
+      "path": "Projects/anime/其实我是.md"
+    },
+    {
       "basename": "备份并梳理仓库",
       "path": "Templates/备份并梳理仓库.md"
     },
@@ -49,10 +57,6 @@
       "path": "Templates/创建个人网站.md"
     },
     {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
-    },
-    {
       "basename": "自己画重口漫画",
       "path": "Templates/Homepage/自己画重口漫画.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "八股文",
       "path": "100-学习/120-嵌入式/八股文.md"
-    },
-    {
-      "basename": "其实我是",
-      "path": "Projects/anime/其实我是.md"
     },
     {
       "basename": "1522.石子游戏 III",

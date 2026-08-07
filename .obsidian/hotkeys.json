@@ -143,14 +143,7 @@
       "key": "S"
     }
   ],
-  "obsidian-emoji-toolbar:emoji-picker:open-picker": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "E"
-    }
-  ],
+  "obsidian-emoji-toolbar:emoji-picker:open-picker": [],
   "app:toggle-right-sidebar": [
     {
       "modifiers": [
@@ -409,5 +402,6 @@
       ],
       "key": "F"
     }
-  ]
+  ],
+  "obsidian-markdown-formatting-assistant-plugin:open-command-selector": []
 }
