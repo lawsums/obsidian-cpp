@@ -44,6 +44,7 @@ sort by description
 // 按星期自动生成任务 SWITCH 版
 switch (weekday) {
   case "星期一":
+	 tR += `- [ ] [学习rust](https://beatai.org/rust-course/about-book) 📅 ${titleDate}\n`;
     break;
   case "星期二":
     break;
@@ -54,12 +55,14 @@ switch (weekday) {
 	 tR += `- [ ] [打字练习一篇文章](https://dazidazi.com/) 📅 ${titleDate}\n`;
     break;
   case "星期五":
+	 tR += `- [ ] [学习rust](https://beatai.org/rust-course/about-book) 📅 ${titleDate}\n`;
     break;
   case "星期六":
     tR += `- [ ] 打leetcode比赛 🔼 📅 ${titleDate}\n`;
     tR += `- [ ] [[用ai产出创意内容]] 🔼 📅 ${titleDate}\n`;
     break;
   case "星期日":
+	 tR += `- [ ] [学习rust](https://beatai.org/rust-course/about-book) 📅 ${titleDate}\n`;
     tR += `- [ ] [[用ai产出创意内容]] 🔼 📅 ${titleDate}\n`;
     break;
   default:
