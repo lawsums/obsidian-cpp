@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8fa3bde95b82293",
+            "id": "dff4a9626053c1b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
+            }
+          },
+          {
+            "id": "a8fa3bde95b82293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "框架梳理"
             }
           },
           {
@@ -127,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -352,13 +377,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "75f343b2646ab329",
   "lastOpenFiles": [
+    "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+    "Templates/Homepage/Homepage.md",
     "Leetcode/3635.最小可整除数位乘积 II.md",
     "Leetcode/3635.最小可整除数位乘积 II.cpp",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-08-07.md",
-    "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Attachments/Pasted image 20260806191201.png",
     "Attachments/Pasted image 20260806190557.png",
     "Templates/Homepage/学习C++.md",
