@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
+      "basename": "嵌入式Agent",
+      "path": "Templates/嵌入式Agent.md"
     },
     {
       "basename": "学习C++",
@@ -11,10 +19,6 @@
     {
       "basename": "3635.最小可整除数位乘积 II",
       "path": "Leetcode/3635.最小可整除数位乘积 II.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "框架梳理",
@@ -171,10 +175,6 @@
     {
       "basename": "每天给C盘文件夹建立软连接",
       "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
-    },
-    {
-      "basename": "嵌入式Agent",
-      "path": "Templates/嵌入式Agent.md"
     },
     {
       "basename": "间谍过家家",
