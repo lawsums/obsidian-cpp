@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "3635.最小可整除数位乘积 II",
+      "path": "Leetcode/3635.最小可整除数位乘积 II.md"
+    },
+    {
       "basename": "框架梳理",
       "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "写一个转盘",
       "path": "Software/写一个转盘.md"
-    },
-    {
-      "basename": "软件开发",
-      "path": "Software/软件开发.md"
     }
   ],
   "omittedPaths": [],
