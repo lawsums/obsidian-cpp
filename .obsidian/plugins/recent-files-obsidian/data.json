@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "备份并梳理仓库",
+      "path": "Templates/备份并梳理仓库.md"
+    },
+    {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "备份并梳理仓库",
-      "path": "Templates/备份并梳理仓库.md"
     },
     {
       "basename": "3948.插入一个字母的最大子序列数",
