@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -377,18 +377,19 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "75f343b2646ab329",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260807103800.png",
+    "Templates/Tasks.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/3635.最小可整除数位乘积 II.md",
+    "Templates/Homepage/Homepage.md",
     "Leetcode/3635.最小可整除数位乘积 II.cpp",
     "Dairies/2026-08-07.md",
     "Attachments/Pasted image 20260806191201.png",
     "Attachments/Pasted image 20260806190557.png",
     "Templates/Homepage/学习C++.md",
     "100-学习/110-计算机/八股文/八股文.md",
-    "Templates/Tasks.md",
     "Leetcode/1121.思维拓展_分隔数组最大和.md",
     "Leetcode/1121.分隔数组以得到最大和.md",
     "Templates/创建个人网站.md",
