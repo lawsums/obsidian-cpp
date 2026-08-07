@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -377,13 +376,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "dff4a9626053c1b0",
   "lastOpenFiles": [
+    "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Attachments/Pasted image 20260807105938.png",
     "Attachments/Pasted image 20260807105850.png",
     "Attachments/Pasted image 20260807103800.png",
     "Templates/Tasks.md",
-    "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Leetcode/3635.最小可整除数位乘积 II.md",
     "Templates/Homepage/Homepage.md",
     "Leetcode/3635.最小可整除数位乘积 II.cpp",
@@ -424,7 +423,6 @@
     "Leetcode/images/174_dungeon-grid-1.jpg",
     "Attachments/Pasted image 20260730175406.png",
     "Attachments/Pasted image 20260730174634.png",
-    "Attachments/Pasted image 20260730171230.png",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
