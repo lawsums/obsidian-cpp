@@ -113,7 +113,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -338,12 +339,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "bab0cea1c26a8232",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Projects/anime/无职转生 第三季 ～到了异世界就拿出真本事～.md",
     "Leetcode/算法路线图.md",
     "Projects/anime/其实我是.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/scripts/getLeetcodeProblem-en.js",
     "Temp/_search_runner.js",
     "Temp/run_search.js",
