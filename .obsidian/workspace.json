@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "7b234f1ceded2bc0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "和家长同步家教状况"
+            }
+          },
+          {
             "id": "a8fa3bde95b82293",
             "type": "leaf",
             "state": {
@@ -53,54 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "框架梳理"
-            }
-          },
-          {
-            "id": "75f343b2646ab329",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/3635.最小可整除数位乘积 II.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "3635.最小可整除数位乘积 II"
-            }
-          },
-          {
-            "id": "02c335c035ea2a8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/算法路线图.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "算法路线图"
             }
           },
           {
@@ -126,32 +102,9 @@
               "icon": "lucide-file",
               "title": "学习C++"
             }
-          },
-          {
-            "id": "ffffe9398e10819f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习深度学习"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,13 +248,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Templates/Homepage/和家长同步家教状况.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法路线图 的大纲"
+              "title": "和家长同步家教状况 的大纲"
             }
           },
           {
@@ -334,7 +287,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -376,27 +330,29 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "dff4a9626053c1b0",
+  "active": "7b234f1ceded2bc0",
   "lastOpenFiles": [
+    "Attachments/五年级上册期末作文备考指南-素材迁移法~5597E.tmp",
+    "Attachments/~$级上册期末作文备考指南-素材迁移法.docx",
+    "Templates/Homepage/学习C++.md",
+    "Leetcode/3635.最小可整除数位乘积 II.md",
+    "Templates/Homepage/和家长同步家教状况.md",
+    "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Attachments/Pasted image 20260807105938.png",
     "Attachments/Pasted image 20260807105850.png",
     "Attachments/Pasted image 20260807103800.png",
     "Templates/Tasks.md",
-    "Leetcode/3635.最小可整除数位乘积 II.md",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/3635.最小可整除数位乘积 II.cpp",
     "Dairies/2026-08-07.md",
     "Attachments/Pasted image 20260806191201.png",
     "Attachments/Pasted image 20260806190557.png",
-    "Templates/Homepage/学习C++.md",
     "100-学习/110-计算机/八股文/八股文.md",
     "Leetcode/1121.思维拓展_分隔数组最大和.md",
     "Leetcode/1121.分隔数组以得到最大和.md",
     "Templates/创建个人网站.md",
     "Leetcode/1121.分隔数组以得到最大和.cpp",
     "Leetcode/算法路线图.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Dairies/2026-08-06.md",
     "Templates/Homepage/自己画重口漫画.md",
     "Templates/Homepage/004_闪念.md",
@@ -418,7 +374,6 @@
     "Leetcode/3948.插入一个字母的最大子序列数.cpp",
     "Leetcode/3927.交替方向的最小路径代价 II.cpp",
     "Attachments/第二单元《习作：我的心爱之物》（分层作业）.docx",
-    "Attachments/~$级上册期末作文备考指南-素材迁移法.docx",
     "Attachments/作文填空练习卷.docx",
     "Leetcode/images/174_dungeon-grid-1.jpg",
     "Attachments/Pasted image 20260730175406.png",
