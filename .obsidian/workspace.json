@@ -32,16 +32,6 @@
             }
           },
           {
-            "id": "bab0cea1c26a8232",
-            "type": "leaf",
-            "state": {
-              "type": "obsidian-projects",
-              "state": {},
-              "icon": "projects-icon",
-              "title": "Projects"
-            }
-          },
-          {
             "id": "02c335c035ea2a8d",
             "type": "leaf",
             "state": {
@@ -340,6 +330,7 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-08-08.md",
     "Templates/Daily_note_template.md",
     "Templates/Homepage/Homepage.md",
     "Projects/anime/无职转生 第三季 ～到了异世界就拿出真本事～.md",
@@ -384,7 +375,6 @@
     "Leetcode/1121.思维拓展_分隔数组最大和.md",
     "Leetcode/1121.分隔数组以得到最大和.md",
     "Templates/创建个人网站.md",
-    "Dairies/2026-08-06.md",
     "Attachments/Pasted image 20260805162617.png",
     "Attachments/Pasted image 20260805161639.png",
     "项目/Agent开发/未命名.canvas",
