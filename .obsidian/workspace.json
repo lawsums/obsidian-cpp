@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "781c39351e7fe39e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习深度学习.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习深度学习"
+            }
+          },
+          {
             "id": "c5f8597b34ae1342",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -328,10 +353,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "b5303980b77a2446",
+  "active": "781c39351e7fe39e",
   "lastOpenFiles": [
-    "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习深度学习.md",
+    "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "Templates/创建个人网站.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
     "Templates/Homepage/学习C++.md",
@@ -373,7 +399,6 @@
     "Attachments/Pasted image 20260807105850.png",
     "Attachments/Pasted image 20260807103800.png",
     "Templates/Tasks.md",
-    "Dairies/2026-08-07.md",
     "Attachments/Pasted image 20260806191201.png",
     "Attachments/Pasted image 20260806190557.png",
     "Attachments/Pasted image 20260805162617.png",

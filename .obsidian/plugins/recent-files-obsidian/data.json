@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "004_闪念",
       "path": "Templates/Homepage/004_闪念.md"
-    },
-    {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "八股文",
