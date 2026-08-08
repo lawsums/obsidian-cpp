@@ -5,12 +5,16 @@
       "path": "100-学习/120-嵌入式/八股文.md"
     },
     {
-      "basename": "复习面试题",
-      "path": "Templates/Homepage/复习面试题.md"
+      "basename": "通信协议",
+      "path": "100-学习/120-嵌入式/通信协议.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "复习面试题",
+      "path": "Templates/Homepage/复习面试题.md"
     },
     {
       "basename": "学习C++",
@@ -99,10 +103,6 @@
     {
       "basename": "1522.石子游戏 III",
       "path": "Leetcode/1522.石子游戏 III.md"
-    },
-    {
-      "basename": "通信协议",
-      "path": "100-学习/120-嵌入式/通信协议.md"
     },
     {
       "basename": "3948.插入一个字母的最大子序列数",

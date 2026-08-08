@@ -297,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "100-学习/120-嵌入式/八股文.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法路线图 的大纲"
+              "title": "八股文 的大纲"
             }
           },
           {
@@ -380,9 +380,10 @@
   },
   "active": "f3e60970f40333c3",
   "lastOpenFiles": [
-    "Templates/Homepage/复习面试题.md",
-    "Templates/Homepage/Homepage.md",
+    "100-学习/120-嵌入式/通信协议.md",
     "100-学习/120-嵌入式/八股文.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/复习面试题.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/面试题系列.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
@@ -420,7 +421,6 @@
     "Leetcode/LeetCode模板草稿.md",
     "Leetcode/力扣 LeetCode.md",
     "Templates/备份并梳理仓库.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Attachments/Pasted image 20260807105938.png",
     "Attachments/Pasted image 20260807105850.png",
     "Attachments/Pasted image 20260807103800.png",
