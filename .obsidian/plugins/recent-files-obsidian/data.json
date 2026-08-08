@@ -1,8 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "八股文",
+      "path": "100-学习/120-嵌入式/八股文.md"
+    },
+    {
+      "basename": "复习面试题",
+      "path": "Templates/Homepage/复习面试题.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "面试题系列",
+      "path": "Templates/Homepage/面试题系列.md"
     },
     {
       "basename": "框架梳理",
@@ -23,10 +39,6 @@
     {
       "basename": "每天给C盘文件夹建立软连接",
       "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "手表方案",
@@ -85,20 +97,12 @@
       "path": "Templates/Homepage/004_闪念.md"
     },
     {
-      "basename": "八股文",
-      "path": "100-学习/120-嵌入式/八股文.md"
-    },
-    {
       "basename": "1522.石子游戏 III",
       "path": "Leetcode/1522.石子游戏 III.md"
     },
     {
       "basename": "通信协议",
       "path": "100-学习/120-嵌入式/通信协议.md"
-    },
-    {
-      "basename": "面试题系列",
-      "path": "Templates/Homepage/面试题系列.md"
     },
     {
       "basename": "3948.插入一个字母的最大子序列数",
@@ -123,10 +127,6 @@
     {
       "basename": "4202.恰好 K 个下标对的最大得分",
       "path": "Leetcode/4202.恰好 K 个下标对的最大得分.md"
-    },
-    {
-      "basename": "复习面试题",
-      "path": "Templates/Homepage/复习面试题.md"
     },
     {
       "basename": "1545.数位成本和为目标值的最大数字",
