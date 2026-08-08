@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "创建个人网站",
+      "path": "Templates/创建个人网站.md"
+    },
+    {
       "basename": "框架梳理",
       "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
     },
@@ -67,10 +71,6 @@
     {
       "basename": "1121.分隔数组以得到最大和",
       "path": "Leetcode/1121.分隔数组以得到最大和.md"
-    },
-    {
-      "basename": "创建个人网站",
-      "path": "Templates/创建个人网站.md"
     },
     {
       "basename": "自己画重口漫画",

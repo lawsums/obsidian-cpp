@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "c5f8597b34ae1342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/创建个人网站.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "创建个人网站"
+            }
+          },
+          {
             "id": "a8fa3bde95b82293",
             "type": "leaf",
             "state": {
@@ -330,9 +354,10 @@
   },
   "active": "b5303980b77a2446",
   "lastOpenFiles": [
+    "Templates/创建个人网站.md",
+    "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Templates/手表方案.md",
     "Attachments/Pasted image 20260808112622.png",
@@ -375,7 +400,6 @@
     "Dairies/2026-08-07.md",
     "Attachments/Pasted image 20260806191201.png",
     "Attachments/Pasted image 20260806190557.png",
-    "100-学习/110-计算机/八股文/八股文.md",
     "Attachments/Pasted image 20260805162617.png",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
