@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "合成天下",
+      "path": "Temp/合成天下.md"
+    },
+    {
+      "basename": "004_闪念",
+      "path": "Templates/Homepage/004_闪念.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "八股文",
       "path": "100-学习/120-嵌入式/八股文.md"
     },
     {
       "basename": "通信协议",
       "path": "100-学习/120-嵌入式/通信协议.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "复习面试题",
@@ -23,10 +35,6 @@
     {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "创建个人网站",
@@ -95,10 +103,6 @@
     {
       "basename": "自己画重口漫画",
       "path": "Templates/Homepage/自己画重口漫画.md"
-    },
-    {
-      "basename": "004_闪念",
-      "path": "Templates/Homepage/004_闪念.md"
     },
     {
       "basename": "1522.石子游戏 III",
@@ -195,10 +199,6 @@
     {
       "basename": "写战斗小说的技巧",
       "path": "Templates/Homepage/写战斗小说的技巧.md"
-    },
-    {
-      "basename": "ACGbangumiv2.1",
-      "path": "Templates/scripts/ACGbangumiv2.1.js"
     }
   ],
   "omittedPaths": [],
