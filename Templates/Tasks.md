@@ -19,7 +19,8 @@ sort by description
 - [x] 问问罗余娜成绩 #task 🔼 ➕ 2026-07-05 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260705-531e078f
 - [x] 充值梯子会员 #network 🔼 ➕ 2026-07-05 ⏳ 2026-07-06 ✅ 2026-07-06 ^task-20260705-985a9e6
 - [x] 给sly打电话 #task 🔼 ➕ 2026-07-05 ⏳ 2026-07-06 ✅ 2026-07-06 ^task-20260705-247bba30
-- [ ] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-08-08
+- [ ] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-08-09
+- [x] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-08-08 ✅ 2026-08-08
 - [x] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-08-07 ✅ 2026-08-07
 - [x] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-08-06 ✅ 2026-08-06
 - [x] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-08-05 ✅ 2026-08-05
@@ -117,7 +118,8 @@ sort by description
 - [x] 加牛客佬微信 #task 🔼 ➕ 2026-07-15 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260715-93cb29d3
 - [x] 给家长反馈 #task 🔼 ➕ 2026-07-16 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260716-36bc1ba4
 - [x] 去南图坐坐 #library 🔼 ➕ 2026-07-16 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260716-42dd28dc
-- [ ] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-08
+- [ ] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-09
+- [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-08 ✅ 2026-08-08
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-07 ✅ 2026-08-07
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-06 ✅ 2026-08-06
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-05 ✅ 2026-08-05
@@ -251,7 +253,7 @@ sort by description
 - [x] 告诉老爸用了16度的水 #task 🔼 ➕ 2026-08-06 ⏳ 2026-08-06 ✅ 2026-08-06 ^task-20260806-2e7c98aa
 - [x] 给耳机充电 #task 🔼 ➕ 2026-08-07 ⏳ 2026-08-07 ✅ 2026-08-07 ^task-20260807-964ca641
 - [x] 给k90修改熄屏配置 #task 🔼 ➕ 2026-08-07 ⏳ 2026-08-07 ✅ 2026-08-07 ^task-20260807-14627f2b
-- [ ] 洗澡 #task 🔼 ⏳ 2026-08-08 ➕ 2026-08-07 ^task-20260807-1e6486aa
+- [x] 洗澡 #task 🔼 ➕ 2026-08-07 ⏳ 2026-08-08 ✅ 2026-08-08 ^task-20260807-1e6486aa
 - [ ] 测试k90耳返功能用于唱歌 #task 🔼 ⏳ 2026-08-10 ➕ 2026-08-07 ^task-20260807-eb2dcdd0
 - [ ] 跑完frypi基础例程 #task 🔼 ⏳ 2026-08-08 ➕ 2026-08-07 ^task-20260807-35fea084
 - [ ] 跑FreeRTOS例程和手表例程 #embedded #freertos 🔼 ⏳ 2026-08-09 ➕ 2026-08-07 ^task-20260807-6431f8f9
