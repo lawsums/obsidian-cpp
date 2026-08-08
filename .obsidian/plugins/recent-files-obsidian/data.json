@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "框架梳理",
+      "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+    },
+    {
+      "basename": "创建个人网站",
+      "path": "Templates/创建个人网站.md"
+    },
+    {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
     },
@@ -11,10 +19,6 @@
     {
       "basename": "框架梳理",
       "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
-    },
-    {
-      "basename": "创建个人网站",
-      "path": "Templates/创建个人网站.md"
     },
     {
       "basename": "每天给C盘文件夹建立软连接",
@@ -55,10 +59,6 @@
     {
       "basename": "3635.最小可整除数位乘积 II",
       "path": "Leetcode/3635.最小可整除数位乘积 II.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "八股文",
