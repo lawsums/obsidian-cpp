@@ -1,16 +1,32 @@
 {
   "recentFiles": [
     {
+      "basename": "每天给C盘文件夹建立软连接",
+      "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
+      "basename": "框架梳理",
+      "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "手表方案",
+      "path": "Templates/手表方案.md"
     },
     {
       "basename": "算法路线图",
       "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "其实我是",
@@ -27,10 +43,6 @@
     {
       "basename": "嵌入式Agent",
       "path": "Templates/嵌入式Agent.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "3635.最小可整除数位乘积 II",
@@ -99,10 +111,6 @@
     {
       "basename": "毕设规划",
       "path": "300-项目/毕设/毕设规划.md"
-    },
-    {
-      "basename": "手表方案",
-      "path": "Templates/手表方案.md"
     },
     {
       "basename": "3927.交替方向的最小路径代价 II",
@@ -177,10 +185,6 @@
       "path": "Templates/试用grill me检测想法合理性.md"
     },
     {
-      "basename": "每天给C盘文件夹建立软连接",
-      "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
-    },
-    {
       "basename": "间谍过家家",
       "path": "Projects/anime/间谍过家家.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "ACGbangumiv2.1",
       "path": "Templates/scripts/ACGbangumiv2.1.js"
-    },
-    {
-      "basename": "3659.统计异或值为给定值的路径数目",
-      "path": "Leetcode/3659.统计异或值为给定值的路径数目.md"
     }
   ],
   "omittedPaths": [],

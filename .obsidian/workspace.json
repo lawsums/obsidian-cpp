@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8fa3bde95b82293",
+            "id": "b5303980b77a2446",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "02c335c035ea2a8d",
+            "id": "189d0cda4bfe8415",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Templates/Homepage/每天给C盘文件夹建立软连接.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "算法路线图"
+              "title": "每天给C盘文件夹建立软连接"
+            }
+          },
+          {
+            "id": "a8fa3bde95b82293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "框架梳理"
             }
           },
           {
@@ -103,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -328,13 +353,18 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "189d0cda4bfe8415",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
+    "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
+    "Templates/Homepage/学习C++.md",
+    "Templates/手表方案.md",
+    "Attachments/Pasted image 20260808112622.png",
+    "Leetcode/算法路线图.md",
+    "300-项目/嵌入式/Agent_RTOS_LVGL手表",
     "Dairies/2026-08-08.md",
     "Templates/Daily_note_template.md",
-    "Templates/Homepage/Homepage.md",
     "Projects/anime/无职转生 第三季 ～到了异世界就拿出真本事～.md",
-    "Leetcode/算法路线图.md",
     "Projects/anime/其实我是.md",
     "Templates/scripts/getLeetcodeProblem-en.js",
     "Temp/_search_runner.js",
@@ -345,7 +375,6 @@
     "Temp/MyQueue.exe",
     "Temp/My code file.exe",
     "Temp/My code file.cpp",
-    "Temp/hello.exe",
     "Temp/未命名 1.md",
     "Temp/未命名.md",
     "Temp/未命名.canvas",
@@ -361,7 +390,6 @@
     "Templates/备份并梳理仓库.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Templates/嵌入式Agent.md",
-    "Templates/Homepage/学习C++.md",
     "Leetcode/3635.最小可整除数位乘积 II.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Attachments/Pasted image 20260807105938.png",
@@ -373,10 +401,7 @@
     "Attachments/Pasted image 20260806190557.png",
     "100-学习/110-计算机/八股文/八股文.md",
     "Leetcode/1121.思维拓展_分隔数组最大和.md",
-    "Leetcode/1121.分隔数组以得到最大和.md",
-    "Templates/创建个人网站.md",
     "Attachments/Pasted image 20260805162617.png",
-    "Attachments/Pasted image 20260805161639.png",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
