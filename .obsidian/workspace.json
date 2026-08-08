@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -246,8 +245,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -316,8 +314,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -355,11 +352,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "c6f751a1784a04c3",
+  "active": "b5303980b77a2446",
   "lastOpenFiles": [
+    "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/创建个人网站.md",
     "Templates/Homepage/学习深度学习.md",
-    "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",

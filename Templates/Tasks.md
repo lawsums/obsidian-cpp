@@ -73,7 +73,8 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-08
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-09
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-08 ✅ 2026-08-08
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-07 ✅ 2026-08-07
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-06 ✅ 2026-08-06
 - [x] 学习牛客基础知识（Linux/C++/网络等）或者进行线上面试 #study 🔼 🔁 every day ⏳ 2026-08-05 ✅ 2026-08-05
@@ -158,7 +159,8 @@ sort by description
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ➕ 2026-07-18 ⏳ 2026-08-01 ✅ 2026-08-01 ^task-20260718-5073333b
 - [x] 给灵神的题单写一个目录插件 #coding ⏫ ➕ 2026-07-18 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260718-72efe0c9
 - [x] 买零食 #task 🔼 ➕ 2026-07-18 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260718-a4f8c1f7
-- [ ] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-08
+- [ ] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-09
+- [x] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-08 ✅ 2026-08-08
 - [x] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-07 ✅ 2026-08-07
 - [x] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-06 ✅ 2026-08-06
 - [x] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-05 ✅ 2026-08-05
@@ -262,4 +264,4 @@ sort by description
 - [x] 问老妈要不要烧饭 #task ⏫ ➕ 2026-08-08 ⏳ 2026-08-08 ✅ 2026-08-08 ^task-20260808-56ddd127
 - [x] 清理C盘 #system 🔼 ➕ 2026-08-08 ⏳ 2026-08-08 ✅ 2026-08-08 ^task-20260808-c1eec584
 - [ ] 清理C盘 #task 🔼 ⏳ 2026-08-09 ➕ 2026-08-08 ^task-20260808-83cc86
-- [ ] 带伞出门 #task 🔺 ➕ 2026-08-08 ⏳ 2026-08-08 ^task-20260808-558ba11f
+- [x] 带伞出门 #task 🔺 ➕ 2026-08-08 ⏳ 2026-08-08 ✅ 2026-08-08 ^task-20260808-558ba11f
