@@ -5,6 +5,18 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "框架梳理",
+      "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "2156.石子游戏 IX",
+      "path": "Leetcode/2156.石子游戏 IX.md"
+    },
+    {
       "basename": "1240.石子游戏 II",
       "path": "Leetcode/1240.石子游戏 II.md"
     },
@@ -17,16 +29,8 @@
       "path": "Templates/Daily_note_template.md"
     },
     {
-      "basename": "2156.石子游戏 IX",
-      "path": "Leetcode/2156.石子游戏 IX.md"
-    },
-    {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "2026-08-09",
@@ -67,10 +71,6 @@
     {
       "basename": "创建个人网站",
       "path": "Templates/创建个人网站.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
     },
     {
       "basename": "每天给C盘文件夹建立软连接",

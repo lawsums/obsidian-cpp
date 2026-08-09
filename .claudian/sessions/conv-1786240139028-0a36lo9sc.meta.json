@@ -4,7 +4,22 @@
   "title": "嗯，把这道题 notes 整理一下",
   "titleGenerationStatus": "failed",
   "createdAt": 1786240139028,
-  "updatedAt": 1786240139095,
-  "sessionId": null,
-  "selectedModel": "opencode:deepseek/deepseek-v4-pro"
+  "updatedAt": 1786247417502,
+  "lastResponseAt": 1786247417502,
+  "sessionId": "ses_01bca7780ffe8NIdzUH1qVfj7v",
+  "selectedModel": "opencode:deepseek/deepseek-v4-pro",
+  "providerState": {
+    "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
+  },
+  "currentNote": "Leetcode/1240.石子游戏 II.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 26752,
+    "contextTokens": 26934,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 182,
+    "model": "opencode:deepseek/deepseek-v4-pro",
+    "percentage": 3
+  }
 }
