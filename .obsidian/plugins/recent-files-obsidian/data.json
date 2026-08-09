@@ -5,6 +5,38 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "1240.石子游戏 II",
+      "path": "Leetcode/1240.石子游戏 II.md"
+    },
+    {
+      "basename": "学习rust",
+      "path": "Templates/Homepage/学习rust.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "2156.石子游戏 IX",
+      "path": "Leetcode/2156.石子游戏 IX.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "2026-08-09",
+      "path": "Dairies/2026-08-09.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
       "basename": "合成天下",
       "path": "Temp/合成天下.md"
     },
@@ -29,20 +61,12 @@
       "path": "Templates/Homepage/复习面试题.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
     },
     {
       "basename": "创建个人网站",
       "path": "Templates/创建个人网站.md"
-    },
-    {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "框架梳理",
@@ -55,14 +79,6 @@
     {
       "basename": "手表方案",
       "path": "Templates/手表方案.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "其实我是",
@@ -161,10 +177,6 @@
       "path": "Projects/manga/战队红战士在异世界当冒险者.md"
     },
     {
-      "basename": "5",
-      "path": "Leetcode/5.md"
-    },
-    {
       "basename": "embed_code",
       "path": "Templates/scripts/embed_code.js"
     },
@@ -173,32 +185,8 @@
       "path": "Templates/Leetcode_problem_template.md"
     },
     {
-      "basename": "4",
-      "path": "Leetcode/4.md"
-    },
-    {
       "basename": "你画我猜+植物大战僵尸",
       "path": "Templates/你画我猜+植物大战僵尸.md"
-    },
-    {
-      "basename": "2409.网格图中递增路径的数目",
-      "path": "Leetcode/2409.网格图中递增路径的数目.md"
-    },
-    {
-      "basename": "试用grill me检测想法合理性",
-      "path": "Templates/试用grill me检测想法合理性.md"
-    },
-    {
-      "basename": "间谍过家家",
-      "path": "Projects/anime/间谍过家家.md"
-    },
-    {
-      "basename": "做一个解谜缝合小游戏",
-      "path": "Templates/Homepage/做一个解谜缝合小游戏.md"
-    },
-    {
-      "basename": "写战斗小说的技巧",
-      "path": "Templates/Homepage/写战斗小说的技巧.md"
     }
   ],
   "omittedPaths": [],

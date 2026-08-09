@@ -1,25 +1,25 @@
 {
-  "id": "conv-1786067961147-iy7afx70c",
+  "id": "conv-1786239890025-urqcwxuut",
   "providerId": "opencode",
-  "title": "整理一下收件箱",
+  "title": "整理一下这道题的思路到Notes里面",
   "titleGenerationStatus": "failed",
-  "createdAt": 1786067961147,
-  "updatedAt": 1786239861437,
-  "lastResponseAt": 1786203098693,
-  "sessionId": "ses_01e043163ffeArCcO6g7DYa1HJ",
+  "createdAt": 1786239890027,
+  "updatedAt": 1786240129554,
+  "lastResponseAt": 1786240043031,
+  "sessionId": "ses_01bce4416ffe8mjgeOBs6ANEzh",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
   },
-  "currentNote": "100-学习/120-嵌入式/八股文.md",
+  "currentNote": "Leetcode/2156.石子游戏 IX.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 27008,
-    "contextTokens": 30760,
+    "cacheReadInputTokens": 16768,
+    "contextTokens": 18263,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 3752,
+    "inputTokens": 1495,
     "model": "opencode:deepseek/deepseek-v4-pro",
-    "percentage": 3
+    "percentage": 2
   }
 }

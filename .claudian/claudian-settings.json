@@ -59,7 +59,7 @@
       "environmentVariables": "OPENCODE_ENABLE_EXA=1",
       "modelAliases": {},
       "preferredThinkingByModel": {
-        "deepseek/deepseek-v4-pro": "high",
+        "deepseek/deepseek-v4-pro": "max",
         "deepseek/deepseek-v4-flash": "high"
       },
       "selectedMode": "claudian-yolo",
@@ -110,7 +110,7 @@
   },
   "savedProviderEffort": {
     "claude": "high",
-    "opencode": "high"
+    "opencode": "max"
   },
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {},

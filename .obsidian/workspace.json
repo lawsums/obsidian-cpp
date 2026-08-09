@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "02c335c035ea2a8d",
+            "id": "7153144b01577a58",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Leetcode/1240.石子游戏 II.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "算法路线图"
+              "title": "1240.石子游戏 II"
+            }
+          },
+          {
+            "id": "83ddc23b9b28cbdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/2156.石子游戏 IX.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2156.石子游戏 IX"
             }
           },
           {
@@ -221,7 +245,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -247,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法路线图 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -290,7 +315,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -330,25 +356,35 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Leetcode/1240.石子游戏 II.md",
+    "Templates/Homepage/学习rust.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Daily_note_template.md",
+    "Leetcode/2156.石子游戏 IX.md",
+    "Leetcode/3.md",
+    "Templates/Homepage/学习深度学习.md",
+    "Leetcode/7.md",
+    "Leetcode/7.cpp",
+    "Leetcode/2156.石子游戏 IX.cpp",
+    "Templates/Homepage/学习C++.md",
+    "Leetcode/6.md",
+    "Leetcode/1240.石子游戏 II.cpp",
+    "Dairies/2026-08-09.md",
+    "Leetcode/算法路线图.md",
     "Temp/合成天下.md",
     "Templates/Homepage/004_闪念.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
-    "Templates/Homepage/Homepage.md",
     "100-学习/120-嵌入式/八股文.md",
     "100-学习/120-嵌入式/通信协议.md",
     "Templates/Homepage/复习面试题.md",
-    "Templates/Homepage/学习C++.md",
     "Templates/Homepage/面试题系列.md",
     "Templates/创建个人网站.md",
-    "Templates/Homepage/学习深度学习.md",
     "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
     "Templates/手表方案.md",
     "Attachments/Pasted image 20260808112622.png",
-    "Leetcode/算法路线图.md",
     "300-项目/嵌入式/Agent_RTOS_LVGL手表",
     "Dairies/2026-08-08.md",
-    "Templates/Daily_note_template.md",
     "Projects/anime/无职转生 第三季 ～到了异世界就拿出真本事～.md",
     "Projects/anime/其实我是.md",
     "Templates/scripts/getLeetcodeProblem-en.js",
@@ -357,20 +393,10 @@
     "Temp/run_help.js",
     "300-项目/common_imports.py",
     "Temp/test.lua",
-    "Temp/MyQueue.exe",
-    "Temp/My code file.exe",
-    "Temp/My code file.cpp",
-    "Temp/未命名 1.md",
-    "Temp/未命名.md",
     "Temp/未命名.canvas",
-    "Dairies/草稿.md",
-    "100-学习/110-计算机/语言特性/SlicesReader.md",
-    "100-学习/110-计算机/语言特性/onehot.md",
     "Leetcode/算法讲解101【扩展】 KMP算法相关题目PT3.813S.webp",
     "Leetcode/算法讲解101【扩展】 KMP算法相关题目PT2M6.608S.webp",
     "Leetcode/算法讲解101【扩展】 KMP算法相关题目PT1M35.628S.webp",
-    "Leetcode/Media Note - 算法讲解101【扩展】 KMP算法相关题目.md",
-    "Leetcode/LeetCode模板草稿.md",
     "Attachments/Pasted image 20260807105938.png",
     "Attachments/Pasted image 20260807105850.png",
     "Attachments/Pasted image 20260807103800.png",
