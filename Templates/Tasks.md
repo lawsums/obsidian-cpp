@@ -205,7 +205,8 @@ sort by description
 - [x] 让老妈存学费 #task ⏫ ➕ 2026-07-24 ⏳ 2026-08-09 📅 2026-08-09 ✅ 2026-08-05 ^task-20260724-923ad4e2
 - [x] 测试转盘玩法 #task 🔼 ➕ 2026-07-24 ⏳ 2026-07-25 ✅ 2026-07-25 ^task-20260724-d8ac654b
 - [x] 调参、调网络并提交 Kaggle 竞赛 #kaggle #ml ⏫ ➕ 2026-07-24 ⏳ 2026-07-29 ✅ 2026-07-29 ^task-20260724-94ee103a
-- [ ] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) ⏫ 🔁 every day ⏳ 2026-08-09
+- [ ] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) ⏫ 🔁 every day ⏳ 2026-08-10
+- [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) ⏫ 🔁 every day ⏳ 2026-08-09 ✅ 2026-08-09
 - [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) ⏫ 🔁 every day ⏳ 2026-08-08 ✅ 2026-08-09
 - [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) ⏫ 🔁 every day ⏳ 2026-08-07 ✅ 2026-08-07
 - [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) ⏫ 🔁 every day ⏳ 2026-08-06 ✅ 2026-08-06
@@ -275,3 +276,4 @@ sort by description
 - [ ] 去拿充电器 #task 🔼 ⏳ 2026-08-10 ➕ 2026-08-09 ^task-20260809-fef93ee0
 - [ ] 了解 Cloudflare 建站 #task 🔼 ⏳ 2026-08-12 ➕ 2026-08-09 ^task-20260809-ae58af91
 - [x] 烧饭 #task 🔼 ➕ 2026-08-09 ⏳ 2026-08-09 ✅ 2026-08-09 ^task-20260809-dde28790
+- [ ] 移植shell #task 🔼 ⏳ 2026-08-10 ➕ 2026-08-09 ^task-20260809-f67ed771
