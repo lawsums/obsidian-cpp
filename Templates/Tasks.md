@@ -74,7 +74,8 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-09
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-10
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-09 ✅ 2026-08-09
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-08 ✅ 2026-08-08
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-07 ✅ 2026-08-07
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-06 ✅ 2026-08-06
@@ -204,7 +205,8 @@ sort by description
 - [x] 让老妈存学费 #task ⏫ ➕ 2026-07-24 ⏳ 2026-08-09 📅 2026-08-09 ✅ 2026-08-05 ^task-20260724-923ad4e2
 - [x] 测试转盘玩法 #task 🔼 ➕ 2026-07-24 ⏳ 2026-07-25 ✅ 2026-07-25 ^task-20260724-d8ac654b
 - [x] 调参、调网络并提交 Kaggle 竞赛 #kaggle #ml ⏫ ➕ 2026-07-24 ⏳ 2026-07-29 ✅ 2026-07-29 ^task-20260724-94ee103a
-- [ ] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) ⏫ 🔁 every day ⏳ 2026-08-08
+- [ ] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) ⏫ 🔁 every day ⏳ 2026-08-09
+- [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) ⏫ 🔁 every day ⏳ 2026-08-08 ✅ 2026-08-09
 - [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) ⏫ 🔁 every day ⏳ 2026-08-07 ✅ 2026-08-07
 - [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) ⏫ 🔁 every day ⏳ 2026-08-06 ✅ 2026-08-06
 - [x] [学习 bootloader 开发](300-项目/嵌入式/Bootloader驱动开发/框架梳理.md) #task ⏫ 🔁 every day ⏳ 2026-08-05 ✅ 2026-08-05
@@ -272,4 +274,4 @@ sort by description
 - [x] [[使用Claude生成一季度新番关系图]] #work 🔼 ➕ 2026-08-09 ⏳ 2026-08-09 ✅ 2026-08-09 ^task-20260809-7ccf24b
 - [ ] 去拿充电器 #task 🔼 ⏳ 2026-08-10 ➕ 2026-08-09 ^task-20260809-fef93ee0
 - [ ] 了解 Cloudflare 建站 #task 🔼 ⏳ 2026-08-12 ➕ 2026-08-09 ^task-20260809-ae58af91
-- [ ] 烧饭 #task 🔼 ⏳ 2026-08-09 ➕ 2026-08-09 ^task-20260809-dde28790
+- [x] 烧饭 #task 🔼 ➕ 2026-08-09 ⏳ 2026-08-09 ✅ 2026-08-09 ^task-20260809-dde28790
