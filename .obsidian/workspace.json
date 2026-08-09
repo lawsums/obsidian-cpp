@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "框架梳理 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -379,8 +378,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "4dcb1955b4677fc4",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "Templates/Homepage/004_闪念.md",
     "Templates/Homepage/用ai产出创意内容.md",
@@ -402,7 +402,6 @@
     "Dairies/2026-08-09.md",
     "Leetcode/算法路线图.md",
     "Temp/合成天下.md",
-    "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "100-学习/120-嵌入式/八股文.md",
     "100-学习/120-嵌入式/通信协议.md",
     "Templates/Homepage/复习面试题.md",
