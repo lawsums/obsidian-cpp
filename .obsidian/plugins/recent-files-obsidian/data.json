@@ -1,24 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "框架梳理",
+      "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
+      "basename": "框架梳理",
+      "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
     },
     {
       "basename": "004_闪念",
       "path": "Templates/Homepage/004_闪念.md"
     },
     {
-      "basename": "闪念_随心一念",
-      "path": "Dairies/闪念_随心一念.md"
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "闪念_随心一念",
+      "path": "Dairies/闪念_随心一念.md"
     },
     {
       "basename": "使用Claude生成一季度新番关系图",
@@ -59,10 +63,6 @@
     {
       "basename": "合成天下",
       "path": "Temp/合成天下.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "八股文",
