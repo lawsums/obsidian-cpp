@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "4c3313595c290c4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/创建个人网站.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "创建个人网站"
+            }
+          },
+          {
+            "id": "b7bb6f83853dcef0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/005_KTV歌单.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "005_KTV歌单"
+            }
+          },
+          {
             "id": "338c4477a0226c14",
             "type": "leaf",
             "state": {
@@ -152,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -296,13 +344,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+                "file": "Templates/Homepage/005_KTV歌单.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "框架梳理 的大纲"
+              "title": "005_KTV歌单 的大纲"
             }
           },
           {
@@ -378,8 +426,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "338c4477a0226c14",
+  "active": "b7bb6f83853dcef0",
   "lastOpenFiles": [
+    "Templates/创建个人网站.md",
     "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/和家长同步家教状况.md",
@@ -408,7 +457,6 @@
     "100-学习/120-嵌入式/通信协议.md",
     "Templates/Homepage/复习面试题.md",
     "Templates/Homepage/面试题系列.md",
-    "Templates/创建个人网站.md",
     "Attachments/Pasted image 20260808112622.png",
     "300-项目/嵌入式/Agent_RTOS_LVGL手表",
     "Templates/scripts/getLeetcodeProblem-en.js",

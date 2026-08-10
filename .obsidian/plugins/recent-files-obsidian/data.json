@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
+      "basename": "005_KTV歌单",
+      "path": "Templates/Homepage/005_KTV歌单.md"
+    },
+    {
+      "basename": "创建个人网站",
+      "path": "Templates/创建个人网站.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
     {
       "basename": "和家长同步家教状况",
@@ -83,10 +91,6 @@
     {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "创建个人网站",
-      "path": "Templates/创建个人网站.md"
     },
     {
       "basename": "每天给C盘文件夹建立软连接",
@@ -171,10 +175,6 @@
     {
       "basename": "2026-05-21-anki",
       "path": "300-项目/第二轮面试/车载终端/2026-05-21-anki.md"
-    },
-    {
-      "basename": "005_KTV歌单",
-      "path": "Templates/Homepage/005_KTV歌单.md"
     },
     {
       "basename": "3903.硬币面值还原",
