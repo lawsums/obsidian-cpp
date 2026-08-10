@@ -355,8 +355,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7ad080d1a7a76395",
+  "active": "338c4477a0226c14",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260810222551.png",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习rust.md",
     "Templates/Homepage/学习C++.md",
@@ -385,7 +386,6 @@
     "Leetcode/2156.石子游戏 IX.cpp",
     "Leetcode/6.md",
     "Leetcode/1240.石子游戏 II.cpp",
-    "Dairies/2026-08-09.md",
     "Attachments/Pasted image 20260808112622.png",
     "300-项目/嵌入式/Agent_RTOS_LVGL手表",
     "Templates/scripts/getLeetcodeProblem-en.js",
