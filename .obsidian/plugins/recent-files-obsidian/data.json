@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "八股文-anki",
+      "path": "100-学习/120-嵌入式/八股文-anki.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Leetcode_problem_template",
       "path": "Templates/Leetcode_problem_template.md"
-    },
-    {
-      "basename": "你画我猜+植物大战僵尸",
-      "path": "Templates/你画我猜+植物大战僵尸.md"
     }
   ],
   "omittedPaths": [],

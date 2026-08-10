@@ -75,7 +75,8 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-10
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-11
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-10 ✅ 2026-08-10
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-09 ✅ 2026-08-09
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-08 ✅ 2026-08-08
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-07 ✅ 2026-08-07
@@ -153,7 +154,8 @@ sort by description
 - [x] 准备竖式教学内容 #task 🔼 ➕ 2026-07-16 🛫 2026-07-19 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260716-6b15c303
 - [x] 下午两点和牛客大佬聊聊嵌入式 #learning 🔼 ➕ 2026-07-17 ⏳ 2026-07-18 ✅ 2026-07-18 ^task-20260717-a254378e
 - [x] 让AI统计已做题目的文件标题 #study 🔼 ➕ 2026-07-18 ⏳ 2026-07-23 ✅ 2026-08-06 ^task-20260718-56b40c1b
-- [ ] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-08-10
+- [ ] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-08-11
+- [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-08-10 ✅ 2026-08-10
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-08-09 ✅ 2026-08-09
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-08-08 ✅ 2026-08-08
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-08-07 ✅ 2026-08-07
@@ -165,7 +167,8 @@ sort by description
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ➕ 2026-07-18 ⏳ 2026-08-01 ✅ 2026-08-01 ^task-20260718-5073333b
 - [x] 给灵神的题单写一个目录插件 #coding ⏫ ➕ 2026-07-18 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260718-72efe0c9
 - [x] 买零食 #task 🔼 ➕ 2026-07-18 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260718-a4f8c1f7
-- [ ] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-10
+- [ ] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-11
+- [x] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-10 ✅ 2026-08-10
 - [x] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-09 ✅ 2026-08-09
 - [x] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-08 ✅ 2026-08-08
 - [x] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-07 ✅ 2026-08-07
@@ -285,4 +288,4 @@ sort by description
 - [x] 回小姐消息 #task 🔺 ➕ 2026-08-10 ⏳ 2026-08-10 ✅ 2026-08-10 ^task-20260810-edc0cb8d
 - [ ] 下载小红车 #task 🔼 ⏳ 2026-08-11 ➕ 2026-08-10 ^task-20260810-8dc9ffa5
 - [x] 收钱 #task 🔼 ➕ 2026-08-10 ⏳ 2026-08-10 ✅ 2026-08-10 ^task-20260810-47f8cc60
-- [ ] 转移电话谱 #task 🔼 ⏳ 2026-08-10 ➕ 2026-08-10 ^task-20260810-962d5336
+- [x] 转移电话谱 #task 🔼 ➕ 2026-08-10 ⏳ 2026-08-10 ✅ 2026-08-10 ^task-20260810-962d5336
