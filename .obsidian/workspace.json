@@ -312,7 +312,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -354,7 +355,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "338c4477a0226c14",
+  "active": "7ad080d1a7a76395",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习rust.md",
