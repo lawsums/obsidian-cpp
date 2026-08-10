@@ -127,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -272,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "框架梳理 的大纲"
             }
           },
           {
@@ -353,12 +354,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "8d7758a37dc51c42",
+  "active": "338c4477a0226c14",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习rust.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/复习面试题.md",
-    "Templates/Homepage/Homepage.md",
     "100-学习/120-嵌入式/八股文-anki.md",
     "100-学习/120-嵌入式/八股文.md",
     "Projects/anime/恶女不才，请多关照 ～雏宫蝶鼠换身传～.md",
