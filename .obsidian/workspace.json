@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "4c3313595c290c4d",
+            "id": "d1d63fb56747eb12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/创建个人网站.md",
+                "file": "Templates/Homepage/学习rust.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "创建个人网站"
-            }
-          },
-          {
-            "id": "b7bb6f83853dcef0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/005_KTV歌单.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "005_KTV歌单"
+              "title": "学习rust"
             }
           },
           {
@@ -200,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -314,7 +290,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -344,13 +321,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/005_KTV歌单.md",
+                "file": "Templates/Homepage/学习rust.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "005_KTV歌单 的大纲"
+              "title": "学习rust 的大纲"
             }
           },
           {
@@ -426,11 +403,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "b7bb6f83853dcef0",
+  "active": "d1d63fb56747eb12",
   "lastOpenFiles": [
-    "Templates/创建个人网站.md",
-    "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
+    "Templates/Homepage/学习rust.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/创建个人网站.md",
+    "Templates/Homepage/005_KTV歌单.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Dairies/2026-08-10.md",
     "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
@@ -441,7 +420,6 @@
     "Templates/Homepage/使用Claude生成一季度新番关系图.md",
     "Leetcode/2156.石子游戏 IX.md",
     "Leetcode/1240.石子游戏 II.md",
-    "Templates/Homepage/学习rust.md",
     "Templates/Daily_note_template.md",
     "Leetcode/3.md",
     "Templates/Homepage/学习深度学习.md",
@@ -456,7 +434,6 @@
     "100-学习/120-嵌入式/八股文.md",
     "100-学习/120-嵌入式/通信协议.md",
     "Templates/Homepage/复习面试题.md",
-    "Templates/Homepage/面试题系列.md",
     "Attachments/Pasted image 20260808112622.png",
     "300-项目/嵌入式/Agent_RTOS_LVGL手表",
     "Templates/scripts/getLeetcodeProblem-en.js",
