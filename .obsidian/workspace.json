@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习rust.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习rust 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -381,12 +380,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d1d63fb56747eb12",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习rust.md",
     "100-学习/120-嵌入式/八股文.md",
     "Projects/anime/恶女不才，请多关照 ～雏宫蝶鼠换身传～.md",
     "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/学习rust.md",
     "Leetcode/算法路线图.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
