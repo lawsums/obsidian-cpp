@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "备份并梳理仓库",
       "path": "Templates/备份并梳理仓库.md"
-    },
-    {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "嵌入式Agent",
