@@ -19,7 +19,8 @@ sort by description
 - [x] 问问罗余娜成绩 #task 🔼 ➕ 2026-07-05 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260705-531e078f
 - [x] 充值梯子会员 #network 🔼 ➕ 2026-07-05 ⏳ 2026-07-06 ✅ 2026-07-06 ^task-20260705-985a9e6
 - [x] 给sly打电话 #task 🔼 ➕ 2026-07-05 ⏳ 2026-07-06 ✅ 2026-07-06 ^task-20260705-247bba30
-- [ ] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-11
+- [ ] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-12
+- [x] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-11 ✅ 2026-08-11
 - [x] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-10 ✅ 2026-08-10
 - [x] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-08-09 ✅ 2026-08-09
 - [x] [[和家长同步家教状况]] #task ⏫ 🔁 every day ⏳ 2026-08-08 ✅ 2026-08-08
@@ -75,7 +76,8 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-11
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-12
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-11 ✅ 2026-08-11
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-10 ✅ 2026-08-10
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-09 ✅ 2026-08-09
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-08 ✅ 2026-08-08
@@ -155,7 +157,8 @@ sort by description
 - [x] 准备竖式教学内容 #task 🔼 ➕ 2026-07-16 🛫 2026-07-19 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260716-6b15c303
 - [x] 下午两点和牛客大佬聊聊嵌入式 #learning 🔼 ➕ 2026-07-17 ⏳ 2026-07-18 ✅ 2026-07-18 ^task-20260717-a254378e
 - [x] 让AI统计已做题目的文件标题 #study 🔼 ➕ 2026-07-18 ⏳ 2026-07-23 ✅ 2026-08-06 ^task-20260718-56b40c1b
-- [ ] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-08-11
+- [ ] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-08-12
+- [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-08-11 ✅ 2026-08-11
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-08-10 ✅ 2026-08-10
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-08-09 ✅ 2026-08-09
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-08-08 ✅ 2026-08-08
@@ -291,6 +294,6 @@ sort by description
 - [x] 下载小红车 #task 🔼 ➕ 2026-08-10 ⏳ 2026-08-11 ✅ 2026-08-11 ^task-20260810-8dc9ffa5
 - [x] 收钱 #task 🔼 ➕ 2026-08-10 ⏳ 2026-08-10 ✅ 2026-08-10 ^task-20260810-47f8cc60
 - [x] 转移电话谱 #task 🔼 ➕ 2026-08-10 ⏳ 2026-08-10 ✅ 2026-08-10 ^task-20260810-962d5336
-- [ ] 洗澡 #task 🔼 ⏳ 2026-08-11 ➕ 2026-08-10 ^task-20260810-956d052
+- [x] 洗澡 #task 🔼 ➕ 2026-08-10 ⏳ 2026-08-11 ✅ 2026-08-11 ^task-20260810-956d052
 - [ ] 结束 bootloader 软件部分 #task ⏫ ⏳ 2026-08-11 📅 2026-08-11 ➕ 2026-08-10 ^task-20260810-19eaebe6
 - [ ] 挪电话卡 #task 🔼 ⏳ 2026-08-12 ➕ 2026-08-11 ^task-20260811-b04f12e7

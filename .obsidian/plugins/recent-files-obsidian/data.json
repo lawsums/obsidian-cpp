@@ -1,10 +1,6 @@
 {
   "recentFiles": [
     {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -15,6 +11,14 @@
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "八股文-anki",
+      "path": "100-学习/120-嵌入式/八股文-anki.md"
+    },
+    {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "算法路线图",
@@ -35,10 +39,6 @@
     {
       "basename": "复习面试题",
       "path": "Templates/Homepage/复习面试题.md"
-    },
-    {
-      "basename": "八股文-anki",
-      "path": "100-学习/120-嵌入式/八股文-anki.md"
     },
     {
       "basename": "八股文",
