@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786413549746-wzdprhzr6",
+  "providerId": "opencode",
+  "title": "帮我把这道题的两个解法整理一下，然后思路写到 Notes 里面。这题的思路就是向前分割，然后向前分割...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786413549747,
+  "updatedAt": 1786413605065,
+  "lastResponseAt": 1786413605065,
+  "sessionId": "ses_011746d41ffecxf56x7A80j21d",
+  "selectedModel": "opencode:deepseek/deepseek-v4-pro",
+  "providerState": {
+    "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
+  },
+  "currentNote": "Leetcode/1517.恢复数组.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 12032,
+    "contextTokens": 14283,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 2251,
+    "model": "opencode:deepseek/deepseek-v4-pro",
+    "percentage": 1
+  }
+}

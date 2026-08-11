@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "100325.解密数字",
+      "path": "Leetcode/100325.解密数字.md"
+    },
+    {
+      "basename": "1517.恢复数组",
+      "path": "Leetcode/1517.恢复数组.md"
+    },
+    {
       "basename": "框架梳理",
       "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "战队红战士在异世界当冒险者",
       "path": "Projects/manga/战队红战士在异世界当冒险者.md"
-    },
-    {
-      "basename": "embed_code",
-      "path": "Templates/scripts/embed_code.js"
-    },
-    {
-      "basename": "Leetcode_problem_template",
-      "path": "Templates/Leetcode_problem_template.md"
     }
   ],
   "omittedPaths": [],

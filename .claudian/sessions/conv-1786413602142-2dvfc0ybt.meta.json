@@ -1,24 +1,24 @@
 {
-  "id": "conv-1786240139028-0a36lo9sc",
+  "id": "conv-1786413602142-2dvfc0ybt",
   "providerId": "opencode",
-  "title": "\\{Q\\}([\\s\\S]+",
+  "title": "帮我把这道题的解法整理一下，整理到 Notes 里面。",
   "titleGenerationStatus": "failed",
-  "createdAt": 1786240139028,
-  "updatedAt": 1786413513629,
-  "lastResponseAt": 1786364907846,
-  "sessionId": "ses_0145b967effeI229iyRNZyr9qy",
+  "createdAt": 1786413602142,
+  "updatedAt": 1786413650629,
+  "lastResponseAt": 1786413650629,
+  "sessionId": "ses_011739fafffeF8erwz4pmWLtYa",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
   },
-  "currentNote": "100-学习/120-嵌入式/八股文-anki.md",
+  "currentNote": "Leetcode/100325.解密数字.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 13824,
-    "contextTokens": 13909,
+    "cacheReadInputTokens": 10496,
+    "contextTokens": 10569,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 85,
+    "inputTokens": 73,
     "model": "opencode:deepseek/deepseek-v4-pro",
     "percentage": 1
   }
