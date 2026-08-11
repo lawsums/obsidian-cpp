@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "cdd7d95711a02ab9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300-项目/嵌入式/FreeRTOS开发板入门/框架梳理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "框架梳理"
+            }
+          },
+          {
             "id": "1bf3fd67fc9e7fdf",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "300-项目/嵌入式/FreeRTOS开发板入门/框架梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "框架梳理 的大纲"
             }
           },
           {
@@ -331,11 +356,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "cdd7d95711a02ab9",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260811223717.png",
+    "300-项目/嵌入式/FreeRTOS快速入门/框架梳理.md",
+    "300-项目/嵌入式/FreeRTOS开发板入门/框架梳理.md",
+    "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/Homepage.md",
     "100-学习/120-嵌入式/八股文-anki.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Attachments/Pasted image 20260811110613.png",
@@ -360,8 +388,6 @@
     "Templates/Homepage/使用Claude生成一季度新番关系图.md",
     "Leetcode/2156.石子游戏 IX.md",
     "Leetcode/1240.石子游戏 II.md",
-    "Templates/Daily_note_template.md",
-    "Leetcode/3.md",
     "Leetcode/7.cpp",
     "Leetcode/2156.石子游戏 IX.cpp",
     "Leetcode/1240.石子游戏 II.cpp",

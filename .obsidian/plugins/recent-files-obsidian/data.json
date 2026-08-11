@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "框架梳理",
+      "path": "300-项目/嵌入式/FreeRTOS开发板入门/框架梳理.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "300-项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "3903.硬币面值还原",
       "path": "Leetcode/3903.硬币面值还原.md"
-    },
-    {
-      "basename": "仆少女",
-      "path": "Projects/manga/仆少女.md"
-    },
-    {
-      "basename": "战队红战士在异世界当冒险者",
-      "path": "Projects/manga/战队红战士在异世界当冒险者.md"
     }
   ],
   "omittedPaths": [],
