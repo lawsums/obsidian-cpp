@@ -123,7 +123,8 @@ sort by description
 - [x] 加牛客佬微信 #task 🔼 ➕ 2026-07-15 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260715-93cb29d3
 - [x] 给家长反馈 #task 🔼 ➕ 2026-07-16 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260716-36bc1ba4
 - [x] 去南图坐坐 #library 🔼 ➕ 2026-07-16 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260716-42dd28dc
-- [ ] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-11
+- [ ] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-12
+- [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-11 ✅ 2026-08-11
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-10 ✅ 2026-08-10
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-09 ✅ 2026-08-09
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-08 ✅ 2026-08-08
@@ -286,7 +287,7 @@ sort by description
 - [ ] 学习ZModem #task 🔼 ⏳ 2026-08-11 ➕ 2026-08-10 ^task-20260810-5a5d6590
 - [ ] 退手机壳 #task 🔼 ⏳ 2026-08-11 ➕ 2026-08-10 ^task-20260810-267ddf5d
 - [x] 回小姐消息 #task 🔺 ➕ 2026-08-10 ⏳ 2026-08-10 ✅ 2026-08-10 ^task-20260810-edc0cb8d
-- [ ] 下载小红车 #task 🔼 ⏳ 2026-08-11 ➕ 2026-08-10 ^task-20260810-8dc9ffa5
+- [x] 下载小红车 #task 🔼 ➕ 2026-08-10 ⏳ 2026-08-11 ✅ 2026-08-11 ^task-20260810-8dc9ffa5
 - [x] 收钱 #task 🔼 ➕ 2026-08-10 ⏳ 2026-08-10 ✅ 2026-08-10 ^task-20260810-47f8cc60
 - [x] 转移电话谱 #task 🔼 ➕ 2026-08-10 ⏳ 2026-08-10 ✅ 2026-08-10 ^task-20260810-962d5336
 - [ ] 洗澡 #task 🔼 ⏳ 2026-08-11 ➕ 2026-08-10 ^task-20260810-956d052
