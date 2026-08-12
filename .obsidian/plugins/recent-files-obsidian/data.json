@@ -9,6 +9,10 @@
       "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
+    },
+    {
       "basename": "框架梳理",
       "path": "300-项目/嵌入式/FreeRTOS开发板入门/框架梳理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-05-21-anki",
       "path": "300-项目/第二轮面试/车载终端/2026-05-21-anki.md"
-    },
-    {
-      "basename": "3903.硬币面值还原",
-      "path": "Leetcode/3903.硬币面值还原.md"
     }
   ],
   "omittedPaths": [],
