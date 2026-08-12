@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,13 +295,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "和家长同步家教状况 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -378,10 +377,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7ad080d1a7a76395",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/和家长同步家教状况.md",
+    "Templates/Homepage/Homepage.md",
     "Dairies/2026-08-12.md",
     "300-项目/嵌入式/FreeRTOS开发板入门/框架梳理.md",
     "Attachments/Pasted image 20260811223717.png",
