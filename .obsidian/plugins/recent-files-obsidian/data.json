@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
       "basename": "八股文",
       "path": "100-学习/110-计算机/八股文/八股文.md"
     },
@@ -15,10 +23,6 @@
     {
       "basename": "309.买卖股票的最佳时机含冷冻期",
       "path": "Leetcode/309.买卖股票的最佳时机含冷冻期.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "003_不定期任务",
@@ -147,10 +151,6 @@
     {
       "basename": "3635.最小可整除数位乘积 II",
       "path": "Leetcode/3635.最小可整除数位乘积 II.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "1121.思维拓展_分隔数组最大和",
