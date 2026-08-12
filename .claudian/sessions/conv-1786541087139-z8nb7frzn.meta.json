@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786541087139-z8nb7frzn",
+  "providerId": "opencode",
+  "title": "帮我整理一下这几个题目，有几个题目是我直接从刷题网站拉过来的，帮我整理成可以背诵的的形式。",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786541087140,
+  "updatedAt": 1786541131976,
+  "lastResponseAt": 1786541131976,
+  "sessionId": "ses_009da5987ffezZv3e30bWBkbRX",
+  "selectedModel": "opencode:deepseek/deepseek-v4-pro",
+  "providerState": {
+    "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
+  },
+  "currentNote": "100-学习/110-计算机/八股文/八股文.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 12928,
+    "contextTokens": 12945,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 17,
+    "model": "opencode:deepseek/deepseek-v4-pro",
+    "percentage": 1
+  }
+}

@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "八股文",
+      "path": "100-学习/110-计算机/八股文/八股文.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
+      "basename": "309.买卖股票的最佳时机含冷冻期",
+      "path": "Leetcode/309.买卖股票的最佳时机含冷冻期.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "003_不定期任务",
@@ -31,10 +43,6 @@
     {
       "basename": "八股文-anki",
       "path": "100-学习/120-嵌入式/八股文-anki.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "1517.恢复数组",
@@ -141,10 +149,6 @@
       "path": "Leetcode/3635.最小可整除数位乘积 II.md"
     },
     {
-      "basename": "八股文",
-      "path": "100-学习/110-计算机/八股文/八股文.md"
-    },
-    {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-07-31-anki",
       "path": "300-项目/第二轮面试/车载终端/2026-07-31-anki.md"
-    },
-    {
-      "basename": "2026-05-21-anki",
-      "path": "300-项目/第二轮面试/车载终端/2026-05-21-anki.md"
     }
   ],
   "omittedPaths": [],

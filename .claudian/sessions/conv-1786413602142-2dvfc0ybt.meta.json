@@ -1,24 +1,24 @@
 {
   "id": "conv-1786413602142-2dvfc0ybt",
   "providerId": "opencode",
-  "title": "帮我把这道题的解法整理一下，整理到 Notes 里面。",
+  "title": "这题思路是：因为卖出后有冷却期，所以下一次从“未持有”到“持有”（即买入）的状态转移时，只能从 i-...",
   "titleGenerationStatus": "failed",
   "createdAt": 1786413602142,
-  "updatedAt": 1786413650629,
-  "lastResponseAt": 1786413650629,
-  "sessionId": "ses_011739fafffeF8erwz4pmWLtYa",
+  "updatedAt": 1786541058738,
+  "lastResponseAt": 1786540181423,
+  "sessionId": "ses_009e8cd14ffeiRQyWm4LoVcT1o",
   "selectedModel": "opencode:deepseek/deepseek-v4-pro",
   "providerState": {
     "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
   },
-  "currentNote": "Leetcode/100325.解密数字.md",
+  "currentNote": "Leetcode/309.买卖股票的最佳时机含冷冻期.md",
   "usage": {
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 10496,
-    "contextTokens": 10569,
+    "cacheReadInputTokens": 10112,
+    "contextTokens": 10187,
     "contextWindow": 1000000,
     "contextWindowIsAuthoritative": true,
-    "inputTokens": 73,
+    "inputTokens": 75,
     "model": "opencode:deepseek/deepseek-v4-pro",
     "percentage": 1
   }

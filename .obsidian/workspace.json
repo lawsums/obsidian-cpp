@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "49d735f5aa45d5d6",
+            "id": "124ff20481830c67",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "file": "100-学习/110-计算机/八股文/八股文.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "和家长同步家教状况"
-            }
-          },
-          {
-            "id": "21662281a14259f6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "和家长同步家教状况"
+              "title": "八股文"
             }
           },
           {
@@ -151,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "100-学习/110-计算机/八股文/八股文.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "八股文 的大纲"
             }
           },
           {
@@ -334,8 +311,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -377,11 +353,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "9dc770d0e0eb3520",
   "lastOpenFiles": [
+    "Leetcode/算法路线图.md",
     "Templates/Homepage/和家长同步家教状况.md",
-    "Templates/Homepage/003_不定期任务.md",
+    "Leetcode/309.买卖股票的最佳时机含冷冻期.md",
+    "100-学习/110-计算机/八股文/八股文.md",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/309.买卖股票的最佳时机含冷冻期.cpp",
+    "Templates/Homepage/003_不定期任务.md",
     "Dairies/2026-08-12.md",
     "300-项目/嵌入式/FreeRTOS开发板入门/框架梳理.md",
     "Attachments/Pasted image 20260811223717.png",
@@ -390,7 +370,6 @@
     "Templates/Homepage/学习C++.md",
     "100-学习/120-嵌入式/八股文-anki.md",
     "Attachments/Pasted image 20260811110613.png",
-    "Leetcode/算法路线图.md",
     "Leetcode/1517.恢复数组.md",
     "Leetcode/100325.解密数字.md",
     "Leetcode/1517.恢复数组.cpp",
@@ -408,8 +387,6 @@
     "Templates/Homepage/004_闪念.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Dairies/闪念_随心一念.md",
-    "Templates/Homepage/使用Claude生成一季度新番关系图.md",
-    "Leetcode/2156.石子游戏 IX.md",
     "Leetcode/7.cpp",
     "Leetcode/2156.石子游戏 IX.cpp",
     "Leetcode/1240.石子游戏 II.cpp",
@@ -418,7 +395,6 @@
     "Templates/scripts/getLeetcodeProblem-en.js",
     "Temp/_search_runner.js",
     "Temp/run_search.js",
-    "Temp/run_help.js",
     "Temp/未命名.canvas",
     "Leetcode/算法讲解101【扩展】 KMP算法相关题目PT3.813S.webp",
     "Leetcode/算法讲解101【扩展】 KMP算法相关题目PT2M6.608S.webp",
