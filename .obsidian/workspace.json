@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -353,8 +352,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "21662281a14259f6",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-08-12.md",
     "300-项目/嵌入式/FreeRTOS开发板入门/框架梳理.md",
@@ -363,7 +363,6 @@
     "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md",
     "Templates/Homepage/学习C++.md",
     "100-学习/120-嵌入式/八股文-anki.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Attachments/Pasted image 20260811110613.png",
     "Leetcode/算法路线图.md",
     "Leetcode/1517.恢复数组.md",
