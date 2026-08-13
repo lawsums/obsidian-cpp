@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "框架梳理",
+      "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "Bootloader-anki",
       "path": "100-学习/120-嵌入式/anki/Bootloader-anki.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
     },
     {
       "basename": "八股文-anki",
