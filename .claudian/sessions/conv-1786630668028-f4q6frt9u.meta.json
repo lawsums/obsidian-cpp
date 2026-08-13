@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786630668028-f4q6frt9u",
+  "providerId": "opencode",
+  "title": "这是我使用线段树模板正式写的第一个题，帮我整理一下几个要点到 notes 里面：",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786630668029,
+  "updatedAt": 1786630838775,
+  "lastResponseAt": 1786630838775,
+  "sessionId": "ses_0048372a8ffeyqbDSmmxTI8wH8",
+  "selectedModel": "opencode:deepseek/deepseek-v4-pro",
+  "providerState": {
+    "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
+  },
+  "currentNote": "Leetcode/2319.由单个字符重复的最长子字符串.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 34816,
+    "contextTokens": 36490,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 1674,
+    "model": "opencode:deepseek/deepseek-v4-pro",
+    "percentage": 4
+  }
+}
