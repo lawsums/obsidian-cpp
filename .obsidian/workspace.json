@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -298,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "框架梳理 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -381,13 +380,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ad69a6be9f13d1a3",
+  "active": "a8f14ed99db8f4a3",
   "lastOpenFiles": [
+    "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "Templates/Homepage/Homepage.md",
     "100-学习/120-嵌入式/anki/Bootloader-anki2.md",
     "100-学习/120-嵌入式/anki/Bootloader-anki.md",
     "100-学习/120-嵌入式/anki/Bootloader-anki1.md",
-    "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "100-学习/120-嵌入式/anki/八股文-anki.md",
     "300-项目/第二轮面试/车载终端/2026-07-31-anki.md",
     "100-学习/120-嵌入式/anki",
