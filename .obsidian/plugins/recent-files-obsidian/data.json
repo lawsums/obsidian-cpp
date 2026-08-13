@@ -5,16 +5,40 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
-    },
-    {
-      "basename": "八股文",
-      "path": "100-学习/110-计算机/八股文/八股文.md"
+      "basename": "框架梳理",
+      "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
     },
     {
       "basename": "算法路线图",
       "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "Diet_template_v2",
+      "path": "Templates/Diet_template_v2.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
+      "basename": "Diet_template",
+      "path": "Templates/Diet_template.md"
+    },
+    {
+      "basename": "nvim-tree",
+      "path": "Software/nvim-tree.md"
+    },
+    {
+      "basename": "安装插件",
+      "path": "Software/安装插件.md"
+    },
+    {
+      "basename": "nvim",
+      "path": "Software/nvim.md"
+    },
+    {
+      "basename": "八股文",
+      "path": "100-学习/110-计算机/八股文/八股文.md"
     },
     {
       "basename": "和家长同步家教状况",
@@ -75,10 +99,6 @@
     {
       "basename": "005_KTV歌单",
       "path": "Templates/Homepage/005_KTV歌单.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
     },
     {
       "basename": "004_闪念",
@@ -179,26 +199,6 @@
     {
       "basename": "毕设规划",
       "path": "300-项目/毕设/毕设规划.md"
-    },
-    {
-      "basename": "3927.交替方向的最小路径代价 II",
-      "path": "Leetcode/3927.交替方向的最小路径代价 II.md"
-    },
-    {
-      "basename": "174.地下城游戏",
-      "path": "Leetcode/174.地下城游戏.md"
-    },
-    {
-      "basename": "4202.恰好 K 个下标对的最大得分",
-      "path": "Leetcode/4202.恰好 K 个下标对的最大得分.md"
-    },
-    {
-      "basename": "1545.数位成本和为目标值的最大数字",
-      "path": "Leetcode/1545.数位成本和为目标值的最大数字.md"
-    },
-    {
-      "basename": "2026-07-31-anki",
-      "path": "300-项目/第二轮面试/车载终端/2026-07-31-anki.md"
     }
   ],
   "omittedPaths": [],

@@ -19,7 +19,8 @@ sort by description
 - [x] 问问罗余娜成绩 #task 🔼 ➕ 2026-07-05 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260705-531e078f
 - [x] 充值梯子会员 #network 🔼 ➕ 2026-07-05 ⏳ 2026-07-06 ✅ 2026-07-06 ^task-20260705-985a9e6
 - [x] 给sly打电话 #task 🔼 ➕ 2026-07-05 ⏳ 2026-07-06 ✅ 2026-07-06 ^task-20260705-247bba30
-- [ ] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-13
+- [ ] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-14
+- [x] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-13 ✅ 2026-08-13
 - [x] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-12 ✅ 2026-08-12
 - [x] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-11 ✅ 2026-08-11
 - [x] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-10 ✅ 2026-08-10
@@ -127,7 +128,8 @@ sort by description
 - [x] 加牛客佬微信 #task 🔼 ➕ 2026-07-15 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260715-93cb29d3
 - [x] 给家长反馈 #task 🔼 ➕ 2026-07-16 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260716-36bc1ba4
 - [x] 去南图坐坐 #library 🔼 ➕ 2026-07-16 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260716-42dd28dc
-- [ ] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-13
+- [ ] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-14
+- [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-13 ✅ 2026-08-13
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-12 ✅ 2026-08-12
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-11 ✅ 2026-08-11
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-10 ✅ 2026-08-10
@@ -307,16 +309,19 @@ sort by description
 - [ ] 开通钱包里的公交卡 #task 🔼 ⏳ 2026-08-14 ➕ 2026-08-11 ^task-20260811-e6ae2558
 - [x] 学习 Bootloader 教程并完成面试题整理 #bootloader #interview ⏫ ➕ 2026-08-11 ⏳ 2026-08-12 ✅ 2026-08-12 ^task-20260811-16a31689
 - [x] 写完 bootloader 几个测试 #task ⏫ ➕ 2026-08-11 ⏳ 2026-08-12 📅 2026-08-12 ✅ 2026-08-12 ^task-20260811-9c055aa2
-- [ ] 修复 nvim-tree #vim 🔼 ⏳ 2026-08-13 ➕ 2026-08-12 ^task-20260812-55654c93
+- [x] 修复 nvim-tree #vim 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-55654c93
 - [ ] 修复恢复页面脚本的问题 #task ⏫ ⏳ 2026-08-14 📅 2026-08-14 ➕ 2026-08-12 ^task-20260812-5068713e
 - [ ] 备课 #task 🔼 ⏳ 2026-08-13 ➕ 2026-08-12 ^task-20260812-9f3e6aef
 - [ ] 让老妈买纸 #task 🔼 ⏳ 2026-08-15 ➕ 2026-08-12 ^task-20260812-50c81cd2
-- [ ] 获取 [workbuddy 蓝皮书](https://docs.qq.com/doc/DSFFMTFhFQ1hZZ096?nlc=1) #work 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ^task-20260812-2dacb169
+- [x] 获取 [workbuddy 蓝皮书](https://docs.qq.com/doc/DSFFMTFhFQ1hZZ096?nlc=1) #work 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-2dacb169
 - [ ] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-14
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-13 ✅ 2026-08-13
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ➕ 2026-08-12 ⏳ 2026-08-12 ✅ 2026-08-12 ^task-20260812-b13f0a8f
 - [ ] 将bootloader题目加入Anki #anki #bootloader 🔼 ⏳ 2026-08-13 ➕ 2026-08-12 ^task-20260812-bb4f9a4a
 - [ ] 学习 FreeRTOS #task 🔼 ⏳ 2026-08-13 ➕ 2026-08-12 ^task-20260812-f179f79b
 - [ ] 学习LVGL #task 🔼 ⏳ 2026-08-14 ➕ 2026-08-12 ^task-20260812-a8b32450
-- [ ] 用skill生成手表课程 #task 🔼 ⏳ 2026-08-13 ➕ 2026-08-12 ^task-20260812-2fcbba85
+- [x] 用skill生成手表课程 #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-2fcbba85
 - [ ] 拿快递 #task 🔼 ⏳ 2026-08-13 ➕ 2026-08-13 ^task-20260813-7158fa33
+- [ ] 让AI搜索并备份所有配置文件 #task 🔼 ⏳ 2026-08-16 ➕ 2026-08-13 ^task-20260813-15984ae4
+- [ ] 让AI创建任务：每周备份Obsidian插件和共用文件夹仓库 #obsidian #backup 🔼 🛫 2026-08-17 ⏳ 2026-08-17 ➕ 2026-08-13 ^task-20260813-b5513e27
+- [ ] 修改 AI Capture 插件的闹钟功能 #plugin #ai-capture 🔼 ⏳ 2026-08-14 ➕ 2026-08-13 ^task-20260813-18a0144b
