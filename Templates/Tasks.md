@@ -318,7 +318,7 @@ sort by description
 - [ ] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-14
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-13 ✅ 2026-08-13
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ➕ 2026-08-12 ⏳ 2026-08-12 ✅ 2026-08-12 ^task-20260812-b13f0a8f
-- [ ] 将bootloader题目加入Anki #anki #bootloader 🔼 ⏳ 2026-08-13 ➕ 2026-08-12 ^task-20260812-bb4f9a4a
+- [x] 将bootloader题目加入Anki #anki #bootloader 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-bb4f9a4a
 - [ ] 学习 FreeRTOS #task 🔼 ⏳ 2026-08-13 ➕ 2026-08-12 ^task-20260812-f179f79b
 - [ ] 学习LVGL #task 🔼 ⏳ 2026-08-14 ➕ 2026-08-12 ^task-20260812-a8b32450
 - [x] 用skill生成手表课程 #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-2fcbba85

@@ -1,24 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "3438.数组中的峰值",
-      "path": "Leetcode/3438.数组中的峰值.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
+      "basename": "Bootloader-anki2",
+      "path": "100-学习/120-嵌入式/anki/Bootloader-anki2.md"
+    },
+    {
+      "basename": "Bootloader-anki",
+      "path": "100-学习/120-嵌入式/anki/Bootloader-anki.md"
+    },
+    {
+      "basename": "框架梳理",
+      "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
+    },
+    {
+      "basename": "八股文-anki",
+      "path": "100-学习/120-嵌入式/anki/八股文-anki.md"
+    },
+    {
+      "basename": "2026-07-31-anki",
+      "path": "300-项目/第二轮面试/车载终端/2026-07-31-anki.md"
     },
     {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
+      "basename": "3438.数组中的峰值",
+      "path": "Leetcode/3438.数组中的峰值.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
     },
     {
       "basename": "算法路线图",
@@ -71,10 +87,6 @@
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "八股文-anki",
-      "path": "100-学习/120-嵌入式/八股文-anki.md"
     },
     {
       "basename": "1517.恢复数组",
@@ -183,22 +195,6 @@
     {
       "basename": "1121.分隔数组以得到最大和",
       "path": "Leetcode/1121.分隔数组以得到最大和.md"
-    },
-    {
-      "basename": "自己画重口漫画",
-      "path": "Templates/Homepage/自己画重口漫画.md"
-    },
-    {
-      "basename": "1522.石子游戏 III",
-      "path": "Leetcode/1522.石子游戏 III.md"
-    },
-    {
-      "basename": "3948.插入一个字母的最大子序列数",
-      "path": "Leetcode/3948.插入一个字母的最大子序列数.md"
-    },
-    {
-      "basename": "代码",
-      "path": "300-项目/毕设/代码.md"
     }
   ],
   "omittedPaths": [],
