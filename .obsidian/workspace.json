@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "和家长同步家教状况 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -379,8 +378,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7ad080d1a7a76395",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "Leetcode/算法路线图.md",
@@ -392,7 +392,6 @@
     "Software/安装插件.md",
     "Software/nvim.md",
     "100-学习/110-计算机/八股文/八股文.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Leetcode/309.买卖股票的最佳时机含冷冻期.md",
     "Leetcode/309.买卖股票的最佳时机含冷冻期.cpp",
     "Templates/Homepage/003_不定期任务.md",
