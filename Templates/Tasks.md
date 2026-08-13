@@ -312,9 +312,11 @@ sort by description
 - [ ] 备课 #task 🔼 ⏳ 2026-08-13 ➕ 2026-08-12 ^task-20260812-9f3e6aef
 - [ ] 让老妈买纸 #task 🔼 ⏳ 2026-08-15 ➕ 2026-08-12 ^task-20260812-50c81cd2
 - [ ] 获取 [workbuddy 蓝皮书](https://docs.qq.com/doc/DSFFMTFhFQ1hZZ096?nlc=1) #work 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ^task-20260812-2dacb169
-- [ ] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-13
+- [ ] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-14
+- [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-13 ✅ 2026-08-13
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ➕ 2026-08-12 ⏳ 2026-08-12 ✅ 2026-08-12 ^task-20260812-b13f0a8f
 - [ ] 将bootloader题目加入Anki #anki #bootloader 🔼 ⏳ 2026-08-13 ➕ 2026-08-12 ^task-20260812-bb4f9a4a
 - [ ] 学习 FreeRTOS #task 🔼 ⏳ 2026-08-13 ➕ 2026-08-12 ^task-20260812-f179f79b
 - [ ] 学习LVGL #task 🔼 ⏳ 2026-08-14 ➕ 2026-08-12 ^task-20260812-a8b32450
 - [ ] 用skill生成手表课程 #task 🔼 ⏳ 2026-08-13 ➕ 2026-08-12 ^task-20260812-2fcbba85
+- [ ] 拿快递 #task 🔼 ⏳ 2026-08-13 ➕ 2026-08-13 ^task-20260813-7158fa33
