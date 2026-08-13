@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "3438.数组中的峰值",
+      "path": "Leetcode/3438.数组中的峰值.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
     },
     {
       "basename": "和家长同步家教状况",
@@ -19,10 +27,6 @@
     {
       "basename": "Diet_template_v2",
       "path": "Templates/Diet_template_v2.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "Diet_template",
@@ -195,10 +199,6 @@
     {
       "basename": "代码",
       "path": "300-项目/毕设/代码.md"
-    },
-    {
-      "basename": "毕设规划",
-      "path": "300-项目/毕设/毕设规划.md"
     }
   ],
   "omittedPaths": [],

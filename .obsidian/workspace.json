@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "194bc5b62f617797",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/3438.数组中的峰值.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "3438.数组中的峰值"
+            }
+          },
+          {
             "id": "0144021e63bfca42",
             "type": "leaf",
             "state": {
@@ -151,7 +175,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,13 +321,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Leetcode/3438.数组中的峰值.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "3438.数组中的峰值 的大纲"
             }
           },
           {
@@ -335,8 +360,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -378,14 +402,16 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "194bc5b62f617797",
   "lastOpenFiles": [
-    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/3438.数组中的峰值.md",
+    "Leetcode/3438.数组中的峰值.cpp",
+    "Templates/Tasks.md",
+    "Templates/Homepage/和家长同步家教状况.md",
     "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "Leetcode/算法路线图.md",
     "Templates/Diet_template_v2.md",
-    "Templates/Tasks.md",
     "Templates/Diet_template.md",
     "Software/nvim-tree.md",
     "Attachments/Pasted image 20260813111500.png",
@@ -411,8 +437,6 @@
     "Attachments/Pasted image 20260810222551.png",
     "Templates/Homepage/学习rust.md",
     "Templates/Homepage/复习面试题.md",
-    "100-学习/120-嵌入式/八股文.md",
-    "Projects/anime/恶女不才，请多关照 ～雏宫蝶鼠换身传～.md",
     "Leetcode/7.cpp",
     "Leetcode/2156.石子游戏 IX.cpp",
     "Leetcode/1240.石子游戏 II.cpp",
@@ -420,7 +444,6 @@
     "300-项目/嵌入式/Agent_RTOS_LVGL手表",
     "Templates/scripts/getLeetcodeProblem-en.js",
     "Temp/_search_runner.js",
-    "Temp/run_search.js",
     "Temp/未命名.canvas",
     "Leetcode/算法讲解101【扩展】 KMP算法相关题目PT3.813S.webp",
     "Leetcode/算法讲解101【扩展】 KMP算法相关题目PT2M6.608S.webp",

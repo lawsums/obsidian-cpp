@@ -129,7 +129,7 @@ sort by description
 - [x] 加牛客佬微信 #task 🔼 ➕ 2026-07-15 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260715-93cb29d3
 - [x] 给家长反馈 #task 🔼 ➕ 2026-07-16 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260716-36bc1ba4
 - [x] 去南图坐坐 #library 🔼 ➕ 2026-07-16 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260716-42dd28dc
-- [ ] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-14
+- [ ] 写一个[dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) 🔼 🔁 every day ⏳ 2026-08-14
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-13 ✅ 2026-08-13
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-12 ✅ 2026-08-12
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-11 ✅ 2026-08-11
@@ -322,7 +322,7 @@ sort by description
 - [ ] 学习 FreeRTOS #task 🔼 ⏳ 2026-08-13 ➕ 2026-08-12 ^task-20260812-f179f79b
 - [ ] 学习LVGL #task 🔼 ⏳ 2026-08-14 ➕ 2026-08-12 ^task-20260812-a8b32450
 - [x] 用skill生成手表课程 #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-2fcbba85
-- [ ] 拿快递 #task 🔼 ⏳ 2026-08-13 ➕ 2026-08-13 ^task-20260813-7158fa33
+- [x] 拿快递 #task 🔼 ➕ 2026-08-13 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260813-7158fa33
 - [ ] 让AI搜索并备份所有配置文件 #task 🔼 ⏳ 2026-08-16 ➕ 2026-08-13 ^task-20260813-15984ae4
 - [ ] 让AI创建任务：每周备份Obsidian插件和共用文件夹仓库 #obsidian #backup 🔼 🛫 2026-08-17 ⏳ 2026-08-17 ➕ 2026-08-13 ^task-20260813-b5513e27
 - [ ] 修改 AI Capture 插件的闹钟功能 #plugin #ai-capture 🔼 ⏳ 2026-08-14 ➕ 2026-08-13 ^task-20260813-18a0144b
