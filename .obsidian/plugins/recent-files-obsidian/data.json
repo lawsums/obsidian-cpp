@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "学习rust",
+      "path": "Templates/Homepage/学习rust.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "框架梳理",
       "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
-    },
-    {
-      "basename": "学习rust",
-      "path": "Templates/Homepage/学习rust.md"
     },
     {
       "basename": "和家长同步家教状况",
