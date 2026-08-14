@@ -5,16 +5,16 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
       "basename": "学习rust",
       "path": "Templates/Homepage/学习rust.md"
     },
     {
       "basename": "框架梳理",
       "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
-    },
-    {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "3350.将元素分配到两个数组中 II",

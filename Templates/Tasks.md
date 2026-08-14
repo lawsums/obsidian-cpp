@@ -333,7 +333,7 @@ sort by description
 - [ ] 让AI搜索并备份所有配置文件 #task 🔼 ⏳ 2026-08-16 ➕ 2026-08-13 ^task-20260813-15984ae4
 - [ ] 让AI创建任务：每周备份Obsidian插件和共用文件夹仓库 #obsidian #backup 🔼 🛫 2026-08-17 ⏳ 2026-08-17 ➕ 2026-08-13 ^task-20260813-b5513e27
 - [ ] 修改 AI Capture 插件的闹钟功能 #plugin #ai-capture 🔼 ⏳ 2026-08-14 ➕ 2026-08-13 ^task-20260813-18a0144b
-- [ ] 研究闲鱼上的 ObsidianXworkbuddy 工作流 #obsidian #workflow 🔼 ⏳ 2026-08-14 ➕ 2026-08-13 ^task-20260813-1f8b3545
+- [x] 研究闲鱼上的 ObsidianXworkbuddy 工作流 #obsidian #workflow 🔼 ➕ 2026-08-13 ⏳ 2026-08-14 ✅ 2026-08-14 ^task-20260813-1f8b3545
 - [ ] 处理[[Eide]]任务 #task 🔼 ➕ 2026-08-13 ⏳ 2026-08-16 ^task-20260813-49cb1804
 - [x] 洗澡 #task 🔼 ➕ 2026-08-13 ⏳ 2026-08-14 ✅ 2026-08-14 ^task-20260813-6c8a551e
 - [x] 把神知添加到Bangumi #anime 🔼 ➕ 2026-08-13 ⏳ 2026-08-14 ✅ 2026-08-14 ^task-20260813-bd401672
