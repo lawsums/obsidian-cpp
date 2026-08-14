@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "ef4dfa24af42d1f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "eed5dc9d43685ab5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/学习LVGL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习LVGL"
+            }
+          },
+          {
             "id": "4861d2370b2e246c",
             "type": "leaf",
             "state": {
@@ -103,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/学习LVGL.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习LVGL 的大纲"
             }
           },
           {
@@ -329,17 +378,18 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "eed5dc9d43685ab5",
   "lastOpenFiles": [
-    "Templates/Homepage/和家长同步家教状况.md",
+    "Templates/学习LVGL.md",
+    "Templates/Tasks.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/学习rust.md",
     "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "Attachments/Pasted image 20260814113846.png",
     "Attachments/Pasted image 20260814113612.png",
     "Leetcode/3350.将元素分配到两个数组中 II.md",
     "Leetcode/3350.将元素分配到两个数组中 II.cpp",
-    "Templates/Tasks.md",
     "Projects/anime/只有神知道的世界 女神篇.md",
     "Projects/anime/只有神知道的世界.md",
     "Dairies/2026-08-14.md",
@@ -363,7 +413,6 @@
     "Leetcode/3438.数组中的峰值.md",
     "Leetcode/3438.数组中的峰值.cpp",
     "Templates/Diet_template_v2.md",
-    "Templates/Diet_template.md",
     "Attachments/Pasted image 20260813111500.png",
     "Leetcode/309.买卖股票的最佳时机含冷冻期.cpp",
     "Attachments/Pasted image 20260811223717.png",
