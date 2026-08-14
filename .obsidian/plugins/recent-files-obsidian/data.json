@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "框架梳理",
+      "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
+    },
+    {
       "basename": "学习LVGL",
       "path": "Templates/学习LVGL.md"
+    },
+    {
+      "basename": "C++嵌入式",
+      "path": "100-学习/120-嵌入式/C++嵌入式.md"
+    },
+    {
+      "basename": "Rust嵌入式",
+      "path": "100-学习/120-嵌入式/Rust嵌入式.md"
     },
     {
       "basename": "Tasks",
@@ -19,10 +31,6 @@
     {
       "basename": "学习rust",
       "path": "Templates/Homepage/学习rust.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
     },
     {
       "basename": "3350.将元素分配到两个数组中 II",
@@ -191,14 +199,6 @@
     {
       "basename": "面试题系列",
       "path": "Templates/Homepage/面试题系列.md"
-    },
-    {
-      "basename": "每天给C盘文件夹建立软连接",
-      "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
-    },
-    {
-      "basename": "手表方案",
-      "path": "Templates/手表方案.md"
     }
   ],
   "omittedPaths": [],

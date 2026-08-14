@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "ef4dfa24af42d1f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Tasks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tasks"
-            }
-          },
-          {
             "id": "eed5dc9d43685ab5",
             "type": "leaf",
             "state": {
@@ -77,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "学习LVGL"
+            }
+          },
+          {
+            "id": "4e08ab4dde347c6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "框架梳理"
             }
           },
           {
@@ -296,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/学习LVGL.md",
+                "file": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习LVGL 的大纲"
+              "title": "框架梳理 的大纲"
             }
           },
           {
@@ -378,9 +378,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "eed5dc9d43685ab5",
+  "active": "4e08ab4dde347c6b",
   "lastOpenFiles": [
     "Templates/学习LVGL.md",
+    "100-学习/120-嵌入式/C++嵌入式.md",
+    "100-学习/120-嵌入式/Rust嵌入式.md",
     "Templates/Tasks.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/和家长同步家教状况.md",
@@ -410,9 +412,7 @@
     "100-学习/120-嵌入式/anki/八股文-anki.md",
     "300-项目/第二轮面试/车载终端/2026-07-31-anki.md",
     "100-学习/120-嵌入式/anki",
-    "Leetcode/3438.数组中的峰值.md",
     "Leetcode/3438.数组中的峰值.cpp",
-    "Templates/Diet_template_v2.md",
     "Attachments/Pasted image 20260813111500.png",
     "Leetcode/309.买卖股票的最佳时机含冷冻期.cpp",
     "Attachments/Pasted image 20260811223717.png",
