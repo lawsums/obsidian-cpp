@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -272,13 +271,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习rust.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习rust 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -354,11 +353,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "2aeda4a269068e58",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习rust.md",
     "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
-    "Templates/Homepage/学习rust.md",
     "Attachments/Pasted image 20260814113846.png",
     "Attachments/Pasted image 20260814113612.png",
     "Templates/Homepage/和家长同步家教状况.md",
