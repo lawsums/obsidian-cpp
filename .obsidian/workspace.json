@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,13 +295,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "框架梳理 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -378,8 +377,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "4e08ab4dde347c6b",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "Templates/学习LVGL.md",
     "100-学习/120-嵌入式/C++嵌入式.md",
     "100-学习/120-嵌入式/Rust嵌入式.md",
@@ -387,7 +387,6 @@
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/学习rust.md",
-    "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "Attachments/Pasted image 20260814113846.png",
     "Attachments/Pasted image 20260814113612.png",
     "Leetcode/3350.将元素分配到两个数组中 II.md",
