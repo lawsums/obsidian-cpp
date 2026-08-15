@@ -347,3 +347,4 @@ sort by description
 - [ ] 清理G盘 #task 🔼 ⏳ 2026-08-15 ➕ 2026-08-14 ^task-20260814-6965e688
 - [ ] 重新安上插件 #task 🔼 ⏳ 2026-08-15 ➕ 2026-08-14 ^task-20260814-f9e95368
 - [ ] 了解[C++嵌入式课程](https://www.coursera.org/learn/packt-embedded-systems-object-oriented-programming-in-c-and-c-gjdxd) #task 🔼 ➕ 2026-08-14 🛫 2026-08-16 ⏳ 2026-08-16 ^task-20260814-9af7cfa7
+- [ ] 回东哥消息 #task 🔼 ⏳ 2026-08-15 ➕ 2026-08-15 ^task-20260815-b6f69bc1
