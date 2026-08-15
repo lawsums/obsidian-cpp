@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/2333.统计包含每个点的矩形数目.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2333.统计包含每个点的矩形数目 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -378,13 +377,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a106c513b70802a9",
+  "active": "ff0b37b76d8afbe3",
   "lastOpenFiles": [
+    "Leetcode/2333.统计包含每个点的矩形数目.md",
     "Leetcode/2333.统计包含每个点的矩形数目.cpp",
     "Templates/Homepage/Homepage.md",
     "Leetcode/images/2333_example2.png",
     "Leetcode/images/2333_example1.png",
-    "Leetcode/2333.统计包含每个点的矩形数目.md",
     "100-学习/120-嵌入式/Bootloader.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/学习C++.md",
@@ -424,7 +423,6 @@
     "Attachments/Pasted image 20260811223717.png",
     "Attachments/Pasted image 20260811110613.png",
     "Leetcode/1517.恢复数组.cpp",
-    "Leetcode/100325.解密数字.cpp",
     "Attachments/Pasted image 20260810222551.png",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
