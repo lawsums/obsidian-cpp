@@ -128,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -274,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "file": "100-学习/120-嵌入式/Bootloader.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "用ai产出创意内容 的大纲"
+              "title": "Bootloader 的大纲"
             }
           },
           {
@@ -357,10 +357,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "4430dff5ca7b09d0",
+  "active": "02c335c035ea2a8d",
   "lastOpenFiles": [
-    "100-学习/120-嵌入式/Bootloader.md",
     "Templates/Homepage/用ai产出创意内容.md",
+    "100-学习/120-嵌入式/Bootloader.md",
     "Templates/Homepage/学习C++.md",
     "Leetcode/算法路线图.md",
     "100-学习/110-计算机/设计模式/Example-硬件适配层.md",
