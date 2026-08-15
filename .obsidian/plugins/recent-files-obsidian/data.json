@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Example-硬件适配层",
+      "path": "100-学习/110-计算机/设计模式/Example-硬件适配层.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2026-08-09",
       "path": "Dairies/2026-08-09.md"
-    },
-    {
-      "basename": "合成天下",
-      "path": "Temp/合成天下.md"
     }
   ],
   "omittedPaths": [],
