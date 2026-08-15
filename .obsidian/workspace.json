@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "94c53af148a7bbc4",
+            "id": "a1d12d2dd260784e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -354,12 +354,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "94c53af148a7bbc4",
+  "active": "a1d12d2dd260784e",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Templates/学习LVGL.md",
     "Leetcode/算法路线图.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
-    "Templates/Homepage/Homepage.md",
     "Configs/move_dir.bat",
     "Configs/新建 文本文档.txt",
     "Dairies/2026-08-15.md",
