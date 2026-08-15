@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "学习LVGL",
-      "path": "Templates/学习LVGL.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习LVGL",
+      "path": "Templates/学习LVGL.md"
     },
     {
       "basename": "Example-硬件适配层",

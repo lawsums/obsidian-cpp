@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/学习LVGL.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习LVGL 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -379,12 +378,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a1d12d2dd260784e",
+  "active": "ff0b37b76d8afbe3",
   "lastOpenFiles": [
+    "Templates/学习LVGL.md",
     "Attachments/Pasted image 20260815170721.png",
     "Attachments/Pasted image 20260815170204.png",
     "Templates/Homepage/Homepage.md",
-    "Templates/学习LVGL.md",
     "100-学习/110-计算机/设计模式/Example-硬件适配层.md",
     "Leetcode/算法路线图.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
@@ -427,7 +426,6 @@
     "Attachments/Pasted image 20260808112622.png",
     "Temp/未命名.canvas",
     "Leetcode/算法讲解101【扩展】 KMP算法相关题目PT3.813S.webp",
-    "Leetcode/算法讲解101【扩展】 KMP算法相关题目PT2M6.608S.webp",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
