@@ -19,7 +19,8 @@ sort by description
 - [x] 问问罗余娜成绩 #task 🔼 ➕ 2026-07-05 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260705-531e078f
 - [x] 充值梯子会员 #network 🔼 ➕ 2026-07-05 ⏳ 2026-07-06 ✅ 2026-07-06 ^task-20260705-985a9e6
 - [x] 给sly打电话 #task 🔼 ➕ 2026-07-05 ⏳ 2026-07-06 ✅ 2026-07-06 ^task-20260705-247bba30
-- [ ] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-15
+- [ ] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-16
+- [x] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-15 ✅ 2026-08-15
 - [x] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-14 ✅ 2026-08-14
 - [x] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-13 ✅ 2026-08-13
 - [x] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-12 ✅ 2026-08-12
@@ -79,7 +80,8 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-15
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-16
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-15 ✅ 2026-08-15
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-14 ✅ 2026-08-14
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-13 ✅ 2026-08-13
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-12 ✅ 2026-08-12
@@ -317,7 +319,7 @@ sort by description
 - [x] 洗澡 #task 🔼 ➕ 2026-08-10 ⏳ 2026-08-11 ✅ 2026-08-11 ^task-20260810-956d052
 - [x] 结束 bootloader 软件部分 #task ⏫ ➕ 2026-08-10 ⏳ 2026-08-11 📅 2026-08-11 ✅ 2026-08-11 ^task-20260810-19eaebe6
 - [x] 挪电话卡 #task 🔼 ➕ 2026-08-11 ⏳ 2026-08-12 ✅ 2026-08-12 ^task-20260811-b04f12e7
-- [ ] 开通钱包里的公交卡 #task 🔼 ➕ 2026-08-11 ⏳ 2026-08-15 ^task-20260811-e6ae2558
+- [x] 开通钱包里的公交卡 #task 🔼 ➕ 2026-08-11 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260811-e6ae2558
 - [x] 学习 Bootloader 教程并完成面试题整理 #bootloader #interview ⏫ ➕ 2026-08-11 ⏳ 2026-08-12 ✅ 2026-08-12 ^task-20260811-16a31689
 - [x] 写完 bootloader 几个测试 #task ⏫ ➕ 2026-08-11 ⏳ 2026-08-12 📅 2026-08-12 ✅ 2026-08-12 ^task-20260811-9c055aa2
 - [x] 修复 nvim-tree #vim 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-55654c93
@@ -346,7 +348,9 @@ sort by description
 - [x] 安装大侠立志传 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-14 ✅ 2026-08-14 ^task-20260814-3f608386
 - [x] 拿快递 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-14 ✅ 2026-08-14 ^task-20260814-9fa627c3
 - [x] 清理C盘 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260814-6def903c
-- [ ] 清理G盘 #task 🔼 ⏳ 2026-08-15 ➕ 2026-08-14 ^task-20260814-6965e688
-- [ ] 重新安上插件 #task 🔼 ⏳ 2026-08-15 ➕ 2026-08-14 ^task-20260814-f9e95368
+- [x] 清理G盘 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260814-6965e688
+- [x] 重新安上插件 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260814-f9e95368
 - [ ] 了解[C++嵌入式课程](https://www.coursera.org/learn/packt-embedded-systems-object-oriented-programming-in-c-and-c-gjdxd) #task 🔼 ➕ 2026-08-14 🛫 2026-08-16 ⏳ 2026-08-16 ^task-20260814-9af7cfa7
 - [ ] 回东哥消息 #task 🔼 ⏳ 2026-08-15 ➕ 2026-08-15 ^task-20260815-b6f69bc1
+- [x] test #task ➕ 2026-08-15 🛫 2026-08-15 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260815-2874f68b
+- [x] 洗澡 #日常 ➕ 2026-08-15 🛫 2026-08-15 ⏳ 2026-08-15 📅 2026-08-15 ✅ 2026-08-15 ^task-20260815-544132e1

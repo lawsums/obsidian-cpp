@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "学习LVGL",
+      "path": "Templates/学习LVGL.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "每天给C盘文件夹建立软连接",
+      "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -15,10 +27,6 @@
     {
       "basename": "八股文",
       "path": "100-学习/120-嵌入式/八股文.md"
-    },
-    {
-      "basename": "学习LVGL",
-      "path": "Templates/学习LVGL.md"
     },
     {
       "basename": "C++嵌入式",
@@ -59,10 +67,6 @@
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "Bootloader-anki2",
@@ -195,10 +199,6 @@
     {
       "basename": "合成天下",
       "path": "Temp/合成天下.md"
-    },
-    {
-      "basename": "通信协议",
-      "path": "100-学习/120-嵌入式/通信协议.md"
     }
   ],
   "omittedPaths": [],

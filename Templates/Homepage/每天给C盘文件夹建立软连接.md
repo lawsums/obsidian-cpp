@@ -1,9 +1,6 @@
 # 1 步骤
-### 1.1.1 移动文件夹到 G 盘
-`move "C:\Users\Administrator\.platformio" "G:\MyPath\Dist\.platformio"`
-
-### 1.1.2 在原位置创建软链接
-`mklink /J "C:\Users\Administrator\.platformio" "G:\MyPath\Dist\.platformio"`
+去 `Configs` 目录下面有一个 move_dir. bat，运行即可, 用法得
+`move_dir.bat "源文件夹" "目标文件夹"`
 
 # 2 待处理
 - [x] C:\Users\Administrator\.vscode ✅ 2026-07-24
