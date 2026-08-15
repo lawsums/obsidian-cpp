@@ -20,9 +20,7 @@ AI Task Butler 是一个 Obsidian Tasks 辅助插件原型。它把自然语言�
   - `🔁 every day` 每日循环
   - `🔺 ⏫ 🔼 🔽 ⏬` 优先级
 - 支持稳定块 ID：`^task-*`
-- 支持轻量提醒：任务行包含 `⏰ YYYY-MM-DD HH:mm` 时，Obsidian 打开期间会弹出提醒
-- 命令面板：`AI Task Butler: Scan due reminders now`
-- 命令面板：`AI Task Butler: Test reminder notification`
+- 只输出 Obsidian Tasks 可识别的任务元数据；不再写入私有闹铃标记
 
 ## 安装
 
@@ -46,7 +44,7 @@ AI Task Butler 是一个 Obsidian Tasks 辅助插件原型。它把自然语言�
 生成：
 
 ```markdown
-- [ ] 给张三发合同 #work ⏫ ⏳ 2026-07-01 ⏰ 2026-07-01 15:00 ➕ 2026-06-30 ^task-20260630-a1b2c3d4
+- [ ] 给张三发合同 #work ⏫ ⏳ 2026-07-01 ➕ 2026-06-30 ^task-20260630-a1b2c3d4
 ```
 
 在 `Capture AI task` 弹窗中，按 `Enter` 会直接解析并导入 Inbox；需要换行时按 `Shift+Enter`。
@@ -60,7 +58,7 @@ AI Task Butler 是一个 Obsidian Tasks 辅助插件原型。它把自然语言�
 生成：
 
 ```markdown
-- [ ] 复盘 #task ⏰ 2026-07-06 20:00 🔁 every day ➕ 2026-07-06
+- [ ] 复盘 #task ⏳ 2026-07-06 🔁 every day ➕ 2026-07-06
 ```
 
 ## 快速语音任务
@@ -193,31 +191,11 @@ OpenAI 如果出现 400，优先检查 endpoint 是否是 `/v1/audio/transcripti
 
 DeepSeek 可以继续负责“把文字解析成任务”，但它本身不负责语音转文字。
 
-## 提醒说明
+## Tasks 兼容性
 
-当前版本的提醒是插件内轻量实现：
+当前版本不会写入插件私有的 `⏰ YYYY-MM-DD HH:mm` 闹铃标记，也不会扫描或修改已有任务。新建任务只使用 Obsidian Tasks 的日期、循环、优先级、标签与完成状态格式，因此可以继续被 Tasks 插件查询和展示。
 
-- `⏰ YYYY-MM-DD HH:mm` 不是 Obsidian Tasks 原生闹铃语法，而是 AI Task Butler 自己识别的提醒标记
-- 只扫描设置里的 Inbox 文件，默认是 `Tasks/Inbox.md`
-- 你可以在插件设置里把 `Inbox path` 改成任意 Markdown 文件，例如 `Daily/Task Inbox.md`
-- 只提醒未完成任务：`- [ ]`
-- 只在 Obsidian 打开时运行
-- 会弹出 Obsidian Notice，并尽量调用系统 Notification
-- 未来可以替换成本地后台服务，实现 Obsidian 关闭后仍提醒
-
-如果想测试提醒是否工作：
-
-1. 运行命令 `AI Task Butler: Test reminder notification`
-2. 或创建一条当前时间之前、24 小时内的未完成任务：
-
-```markdown
-- [ ] 测试提醒 #task ⏰ 2026-06-30 15:00
-```
-
-3. 确认这条任务在设置里的 Inbox 文件中
-4. 运行命令 `AI Task Butler: Scan due reminders now`
-
-如果任务时间还没到，例如 `⏰ 2026-07-01 15:00`，插件不会提前提醒。
+历史笔记中已有的 `⏰` 文本不会被本版本自动修改；如需清理，请先备份后再单独处理。
 
 ## 语音输入故障排查
 
@@ -265,6 +243,6 @@ sort by due
 
 ## 下一步
 
-- 加桌面通知调度服务。
+- 如需提醒，优先评估读取 Tasks 标准字段、但把提醒计划保存在插件数据中的方案，避免改写任务正文。
 - 加 MCP adapter，让其他 AI 客户端也能调用捕获、查询、改期和完成任务。
 - 支持语音输入。

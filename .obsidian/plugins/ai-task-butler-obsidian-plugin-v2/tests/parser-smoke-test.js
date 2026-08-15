@@ -23,11 +23,6 @@ const sandbox = {
   console,
   Intl,
   Date,
-  Notification: undefined,
-  window: {
-    setInterval() { return 1; },
-    setTimeout() { return 1; }
-  },
   require(name) {
     if (name !== "obsidian") throw new Error(`Unexpected require: ${name}`);
     return {
@@ -62,11 +57,12 @@ const settings = {
 const contractTask = sandbox.parseTaskText("明天下午三点提醒我给张三发合同，很重要 #work", now);
 assert.equal(contractTask.title, "给张三发合同");
 assert.equal(contractTask.scheduledDate, "2026-07-01");
-assert.equal(contractTask.reminderAt, "2026-07-01T15:00:00");
 assert.equal(contractTask.priority, "high");
+assert.equal(contractTask.reminderAt, undefined);
 
 const contractMarkdown = sandbox.taskDraftToMarkdown(contractTask, settings);
-assert.match(contractMarkdown, /^- \[ \] 给张三发合同 #work ⏫ ⏳ 2026-07-01 ⏰ 2026-07-01 15:00 ➕ \d{4}-\d{2}-\d{2}$/);
+assert.match(contractMarkdown, /^- \[ \] 给张三发合同 #work ⏫ ⏳ 2026-07-01 ➕ \d{4}-\d{2}-\d{2}$/);
+assert.doesNotMatch(contractMarkdown, /⏰/);
 
 const reportTask = sandbox.parseTaskText("这个周五前交报告，很重要", now);
 assert.equal(reportTask.title, "交报告");
@@ -79,11 +75,11 @@ assert.ok(looseTask.confidence < 0.55);
 const dailyTask = sandbox.parseTaskText("以后每天晚上八点提醒我复盘", now);
 assert.equal(dailyTask.title, "复盘");
 assert.equal(dailyTask.scheduledDate, "2026-06-30");
-assert.equal(dailyTask.reminderAt, "2026-06-30T20:00:00");
+assert.equal(dailyTask.reminderAt, undefined);
 assert.equal(dailyTask.recurrence, "every day");
 const dailyMarkdown = sandbox.taskDraftToMarkdown(dailyTask, settings);
 assert.match(dailyMarkdown, /⏳ 2026-06-30/);
-assert.match(dailyMarkdown, /⏰ 2026-06-30 20:00/);
+assert.doesNotMatch(dailyMarkdown, /⏰/);
 assert.match(dailyMarkdown, /🔁 every day/);
 
 const dashboard = sandbox.todayTaskDashboardMarkdown();

@@ -34,9 +34,7 @@ const DEFAULT_SETTINGS = {
   appendCreatedDate: true,
   appendBlockId: true,
   openInboxAfterCapture: false,
-  lowConfidenceThreshold: 0.55,
-  enableReminderNotices: true,
-  notifiedReminders: {}
+  lowConfidenceThreshold: 0.55
 };
 
 const PRIORITY_MARKS = {
@@ -69,6 +67,15 @@ const WEEKDAY = {
 module.exports = class AiTaskButlerPlugin extends Plugin {
   async onload() {
     this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData());
+    const removedLegacySettings = ["enableReminderNotices", "notifiedReminders"];
+    const didMigrateSettings = removedLegacySettings.some((key) => {
+      if (!Object.prototype.hasOwnProperty.call(this.settings, key)) return false;
+      delete this.settings[key];
+      return true;
+    });
+    if (didMigrateSettings) {
+      await this.saveSettings();
+    }
 
     this.addRibbonIcon("list-plus", "AI Task Butler: capture task", () => {
       new CaptureTaskModal(this.app, this).open();
@@ -119,30 +126,7 @@ module.exports = class AiTaskButlerPlugin extends Plugin {
       }
     });
 
-    this.addCommand({
-      id: "scan-due-reminders-now",
-      name: "Scan due reminders now",
-      callback: async () => {
-        const count = await this.scanDueReminders();
-        new Notice(`Reminder scan complete. Triggered ${count} reminder(s).`);
-      }
-    });
-
-    this.addCommand({
-      id: "test-reminder-notification",
-      name: "Test reminder notification",
-      callback: () => {
-        new Notice("AI Task Butler reminder test.", 10000);
-        maybeSendSystemNotification("AI Task Butler", "Reminder notification test.");
-      }
-    });
-
     this.addSettingTab(new AiTaskButlerSettingTab(this.app, this));
-
-    if (this.settings.enableReminderNotices) {
-      this.registerInterval(window.setInterval(() => this.scanDueReminders(), 60 * 1000));
-      window.setTimeout(() => this.scanDueReminders(), 3000);
-    }
   }
 
   async saveSettings() {
@@ -184,53 +168,6 @@ module.exports = class AiTaskButlerPlugin extends Plugin {
     }
   }
 
-  async scanDueReminders() {
-    const now = new Date();
-    const staleBefore = now.getTime() - 24 * 60 * 60 * 1000;
-    const files = this.getReminderScanFiles();
-    let changed = false;
-    let triggered = 0;
-
-    for (const file of files) {
-      const content = await this.app.vault.read(file);
-      const lines = content.split(/\r?\n/);
-      const path = file.path;
-
-      for (let index = 0; index < lines.length; index += 1) {
-        const line = lines[index];
-        if (!/^- \[ \]/.test(line)) continue;
-
-        const match = line.match(/⏰\s*(\d{4}-\d{2}-\d{2})[ T](\d{2}:\d{2})/);
-        if (!match) continue;
-
-        const due = new Date(`${match[1]}T${match[2]}:00`);
-        const key = `${path}:${index + 1}:${match[1]}T${match[2]}:${extractBlockId(line) || stableHash(line)}`;
-        if (this.settings.notifiedReminders[key]) continue;
-        if (Number.isNaN(due.getTime())) continue;
-        if (due.getTime() > now.getTime()) continue;
-        if (due.getTime() < staleBefore) continue;
-
-        const title = notificationTitleFromTaskLine(line);
-        new Notice(`该处理：${title}`, 10000);
-        maybeSendSystemNotification("该处理", `${title}\n${path}:${index + 1}`);
-        this.settings.notifiedReminders[key] = new Date().toISOString();
-        changed = true;
-        triggered += 1;
-      }
-    }
-
-    if (changed) {
-      await this.saveSettings();
-    }
-
-    return triggered;
-  }
-
-  getReminderScanFiles() {
-    const path = normalizePath(this.settings.inboxPath || DEFAULT_SETTINGS.inboxPath);
-    const file = this.app.vault.getAbstractFileByPath(path);
-    return file instanceof TFile ? [file] : [];
-  }
 };
 
 class CaptureTaskModal extends Modal {
@@ -835,7 +772,7 @@ class AiTaskButlerSettingTab extends PluginSettingTab {
 
     new Setting(containerEl)
       .setName("Inbox path")
-      .setDesc("Captured tasks are appended here, and reminders are scanned only from this Markdown file.")
+      .setDesc("Captured tasks are appended to this Markdown file.")
       .addText((text) => text
         .setPlaceholder("Tasks/Inbox.md")
         .setValue(this.plugin.settings.inboxPath)
@@ -1077,7 +1014,7 @@ class AiTaskButlerSettingTab extends PluginSettingTab {
 
     new Setting(containerEl)
       .setName("Append block ID")
-      .setDesc("Adds a stable ^task-* ID so future reminder/MCP layers can find the task after it moves.")
+      .setDesc("Adds a stable ^task-* ID for direct links and future integrations.")
       .addToggle((toggle) => toggle
         .setValue(this.plugin.settings.appendBlockId)
         .onChange(async (value) => {
@@ -1095,15 +1032,6 @@ class AiTaskButlerSettingTab extends PluginSettingTab {
           await this.plugin.saveSettings();
         }));
 
-    new Setting(containerEl)
-      .setName("Reminder notices")
-      .setDesc("While Obsidian is open, scan the configured Inbox file for due ⏰ reminders and show notifications.")
-      .addToggle((toggle) => toggle
-        .setValue(this.plugin.settings.enableReminderNotices)
-        .onChange(async (value) => {
-          this.plugin.settings.enableReminderNotices = value;
-          await this.plugin.saveSettings();
-        }));
 
   }
 }
@@ -1136,9 +1064,6 @@ function parseTaskText(rawText, now = new Date()) {
   if (recurrence && !dateInfo.scheduledDate && !dateInfo.dueDate && !dateInfo.startDate) {
     dateInfo.scheduledDate = nextOccurrenceDateForTime(now, timeInfo);
   }
-  const reminderAt = dateInfo.scheduledDate && timeInfo
-    ? `${dateInfo.scheduledDate}T${timeInfo}:00`
-    : undefined;
   const title = cleanTitle(original);
 
   let confidence = 0.72;
@@ -1153,7 +1078,6 @@ function parseTaskText(rawText, now = new Date()) {
     scheduledDate: dateInfo.scheduledDate,
     dueDate: dateInfo.dueDate,
     startDate: dateInfo.startDate,
-    reminderAt,
     recurrence,
     priority,
     confidence: Math.max(0.1, Math.min(confidence, 0.95)),
@@ -1262,37 +1186,14 @@ async function parseTaskWithChatCompletions(rawText, settings, now) {
 function taskParserSystemPrompt() {
   return [
     "你是一个面向 Obsidian Tasks 的中文任务转译器。",
-    "你的任务是把用户随口说出的任务、提醒、截止日期、优先级和上下文，转换为严格 JSON。",
+    "把自然语言任务转换为严格 JSON。",
     "只输出 JSON，不要输出 Markdown、解释、代码块或多余文字。",
-    "JSON keys 必须包含：title, notes, project, tags, startDate, scheduledDate, dueDate, reminderAt, recurrence, priority, estimatedMinutes, confidence, questions。",
-    "字段规则：",
-    "- title: 简洁可执行的任务标题，删除'提醒我'、日期、时间、优先级废话，但保留人名、对象和动作。",
-    "- notes: 可选补充说明；没有则 null。",
-    "- project: 工作/家庭/学习/健康/财务等领域；不确定则 null。",
-    "- tags: Obsidian 标签数组，必须以 # 开头；用户已给标签要保留；没有明确标签可返回 []。",
-    "- startDate: 开始日期，YYYY-MM-DD；来自'从...开始'、'开始准备'等语义。",
-    "- scheduledDate: 计划执行日期，YYYY-MM-DD；来自'今天做'、'明天处理'、'周五安排'等语义。",
-    "- dueDate: 截止日期，YYYY-MM-DD；来自'之前'、'前'、'截止'、'ddl'、'deadline'、'到期'等语义。",
-    "- reminderAt: 提醒时间，格式 YYYY-MM-DDTHH:mm:ss；只有用户明确说提醒、叫我、到点通知，或给出具体执行时间时填写。",
-    "- recurrence: Obsidian Tasks 循环规则字符串；没有循环则 null。用户说'每天'、'每日'、'以后每天'、'天天'时返回 'every day'。",
-    "- priority: highest/high/medium/none/low/lowest 之一。",
-    "- estimatedMinutes: 如果用户表达了耗时，返回分钟数；否则 null。",
-    "- confidence: 0 到 1。日期、时间、任务对象明确时更高；含糊表达如'找时间'、'有空'要降低。",
-    "- questions: 如果需要用户确认，返回简短问题数组；否则 []。",
-    "日期理解：",
-    "- 所有日期都以 user.now 和 user.timezoneHint 为基准。",
-    "- 不要编造不存在的日期。",
-    "- '明天下午三点提醒我开会' => scheduledDate 为明天，reminderAt 为明天 15:00:00。",
-    "- '周五前交报告' => dueDate 为最近合理的周五。",
-    "- '以后每天提醒我复盘' => recurrence 为 every day。",
-    "- '有空整理书桌' => priority low，日期为空，confidence 较低。",
-    "优先级理解：",
-    "- 紧急、马上、必须今天、十万火急 => highest。",
-    "- 重要、尽快、客户、老板、截止、必须 => high。",
-    "- 普通、一般 => medium。",
-    "- 有空、不急、顺手、回头 => low。",
-    "返回示例：",
-    "{\"title\":\"给张三发合同\",\"notes\":null,\"project\":\"工作\",\"tags\":[\"#work\"],\"startDate\":null,\"scheduledDate\":\"2026-07-01\",\"dueDate\":null,\"reminderAt\":\"2026-07-01T15:00:00\",\"recurrence\":null,\"priority\":\"high\",\"estimatedMinutes\":null,\"confidence\":0.9,\"questions\":[]}"
+    "JSON keys 必须包含：title, notes, project, tags, startDate, scheduledDate, dueDate, recurrence, priority, estimatedMinutes, confidence, questions。",
+    "title 必须是单行可执行任务标题，不含 Markdown 任务前缀、提醒词、日期、时间或优先级废话。",
+    "tags 必须是以 # 开头的数组；日期字段格式为 YYYY-MM-DD；没有值时使用 null。",
+    "recurrence 是 Obsidian Tasks 循环规则；每天对应 every day。",
+    "不要返回具体提醒时间或 reminderAt 字段。",
+    "示例：title 为任务标题，scheduledDate 为计划日期，priority 为优先级。",
   ].join("\\n");
 }
 
@@ -1303,14 +1204,13 @@ function normalizeAiDraft(aiDraft, fallbackDraft) {
     : fallbackDraft.tags;
 
   const normalized = {
-    title: safeString(aiDraft.title) || fallbackDraft.title,
+    title: sanitizeTaskTitle(safeString(aiDraft.title)) || fallbackDraft.title,
     notes: safeString(aiDraft.notes) || undefined,
     project: safeString(aiDraft.project) || undefined,
     tags,
     startDate: validDateOrUndefined(aiDraft.startDate) || fallbackDraft.startDate,
     scheduledDate: validDateOrUndefined(aiDraft.scheduledDate) || fallbackDraft.scheduledDate,
     dueDate: validDateOrUndefined(aiDraft.dueDate) || fallbackDraft.dueDate,
-    reminderAt: validReminderOrUndefined(aiDraft.reminderAt) || fallbackDraft.reminderAt,
     recurrence: validRecurrenceOrUndefined(aiDraft.recurrence) || fallbackDraft.recurrence,
     priority,
     estimatedMinutes: Number.isFinite(Number(aiDraft.estimatedMinutes)) ? Number(aiDraft.estimatedMinutes) : undefined,
@@ -1319,15 +1219,20 @@ function normalizeAiDraft(aiDraft, fallbackDraft) {
     sourceText: fallbackDraft.sourceText
   };
 
-  if (!normalized.scheduledDate && normalized.reminderAt) {
-    normalized.scheduledDate = normalized.reminderAt.slice(0, 10);
-  }
 
   return normalized;
 }
 
 function safeString(value) {
   return typeof value === "string" ? value.trim() : "";
+}
+
+function sanitizeTaskTitle(value) {
+  return value
+    .replace(/[\r\n]+/g, " ")
+    .replace(/^[-*+]\s+\[[ xX]\]\s*/, "")
+    .replace(/\s+/g, " ")
+    .trim();
 }
 
 function isValidPriority(value) {
@@ -1340,11 +1245,6 @@ function validDateOrUndefined(value) {
   return /^\d{4}-\d{2}-\d{2}$/.test(trimmed) ? trimmed : undefined;
 }
 
-function validReminderOrUndefined(value) {
-  if (typeof value !== "string") return undefined;
-  const trimmed = value.trim();
-  return /^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}(:\d{2})?$/.test(trimmed) ? trimmed : undefined;
-}
 
 function validRecurrenceOrUndefined(value) {
   if (typeof value !== "string") return undefined;
@@ -1563,7 +1463,6 @@ function taskDraftToMarkdown(draft, settings) {
   if (draft.startDate) parts.push(`🛫 ${draft.startDate}`);
   if (draft.scheduledDate) parts.push(`⏳ ${draft.scheduledDate}`);
   if (draft.dueDate) parts.push(`📅 ${draft.dueDate}`);
-  if (draft.reminderAt) parts.push(`⏰ ${formatReminderAt(draft.reminderAt)}`);
   if (draft.recurrence) parts.push(`🔁 ${draft.recurrence}`);
   if (settings.appendCreatedDate) parts.push(`➕ ${formatDate(new Date())}`);
   if (settings.appendBlockId) parts.push(makeBlockId(draft));
@@ -1711,9 +1610,6 @@ function formatDate(date) {
   ].join("-");
 }
 
-function formatReminderAt(value) {
-  return value.replace("T", " ").slice(0, 16);
-}
 
 function parseChineseNumber(value) {
   if (!value) return 0;
@@ -1758,39 +1654,6 @@ function stableHash(value) {
   return (hash >>> 0).toString(16).slice(0, 8);
 }
 
-function extractBlockId(line) {
-  const match = line.match(/\^task-[\w-]+/);
-  return match ? match[0] : "";
-}
-
-function notificationTitleFromTaskLine(line) {
-  return line
-    .replace(/^- \[ \]\s*/, "")
-    .replace(/#[\p{L}\p{N}_/-]+/gu, "")
-    .replace(/[🔺⏫🔼🔽⏬]/g, "")
-    .replace(/[🛫⏳📅➕]\s*\d{4}-\d{2}-\d{2}/g, "")
-    .replace(/⏰\s*\d{4}-\d{2}-\d{2}[ T]\d{2}:\d{2}/g, "")
-    .replace(/\^task-[\w-]+/g, "")
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-function maybeSendSystemNotification(title, body) {
-  if (typeof Notification === "undefined") return;
-
-  if (Notification.permission === "granted") {
-    new Notification(title, { body });
-    return;
-  }
-
-  if (Notification.permission !== "denied") {
-    Notification.requestPermission().then((permission) => {
-      if (permission === "granted") {
-        new Notification(title, { body });
-      }
-    });
-  }
-}
 
 function dictationErrorMessage(errorCode) {
   const messages = {
