@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -354,10 +353,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a1d12d2dd260784e",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Templates/学习LVGL.md",
+    "Templates/Homepage/Homepage.md",
     "Leetcode/算法路线图.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
     "Configs/move_dir.bat",

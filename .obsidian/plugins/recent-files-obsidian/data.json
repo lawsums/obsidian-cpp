@@ -1,12 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "学习LVGL",
-      "path": "Templates/学习LVGL.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习LVGL",
+      "path": "Templates/学习LVGL.md"
     },
     {
       "basename": "算法路线图",
