@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8fa3bde95b82293",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100-学习/110-计算机/设计模式/Example-硬件适配层.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Example-硬件适配层"
-            }
-          },
-          {
             "id": "ff0b37b76d8afbe3",
             "type": "leaf",
             "state": {
@@ -53,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
+            }
+          },
+          {
+            "id": "a8fa3bde95b82293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/110-计算机/设计模式/Example-硬件适配层.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Example-硬件适配层"
             }
           },
           {
@@ -151,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -296,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/110-计算机/设计模式/Example-硬件适配层.md",
+                "file": "Templates/学习LVGL.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Example-硬件适配层 的大纲"
+              "title": "学习LVGL 的大纲"
             }
           },
           {
@@ -378,11 +379,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7ad080d1a7a76395",
+  "active": "a1d12d2dd260784e",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260815170721.png",
+    "Attachments/Pasted image 20260815170204.png",
     "Templates/Homepage/Homepage.md",
-    "100-学习/110-计算机/设计模式/Example-硬件适配层.md",
     "Templates/学习LVGL.md",
+    "100-学习/110-计算机/设计模式/Example-硬件适配层.md",
     "Leetcode/算法路线图.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
     "Configs/move_dir.bat",
@@ -412,7 +415,6 @@
     "300-项目/嵌入式/FreeRTOS开发板入门/框架梳理.md",
     "300-项目/嵌入式/韦东山课程",
     "Software/Eide.md",
-    "Software/Vscode插件.md",
     "100-学习/120-嵌入式/anki",
     "Leetcode/3438.数组中的峰值.cpp",
     "Attachments/Pasted image 20260813111500.png",
@@ -426,7 +428,6 @@
     "Temp/未命名.canvas",
     "Leetcode/算法讲解101【扩展】 KMP算法相关题目PT3.813S.webp",
     "Leetcode/算法讲解101【扩展】 KMP算法相关题目PT2M6.608S.webp",
-    "Leetcode/算法讲解101【扩展】 KMP算法相关题目PT1M35.628S.webp",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
     "Leetcode/2300. 咒语和药水的成功对数.canvas"
