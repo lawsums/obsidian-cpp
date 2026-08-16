@@ -19,7 +19,8 @@ sort by description
 - [x] 问问罗余娜成绩 #task 🔼 ➕ 2026-07-05 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260705-531e078f
 - [x] 充值梯子会员 #network 🔼 ➕ 2026-07-05 ⏳ 2026-07-06 ✅ 2026-07-06 ^task-20260705-985a9e6
 - [x] 给sly打电话 #task 🔼 ➕ 2026-07-05 ⏳ 2026-07-06 ✅ 2026-07-06 ^task-20260705-247bba30
-- [ ] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-16
+- [ ] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-17
+- [x] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-16 ✅ 2026-08-16
 - [x] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-15 ✅ 2026-08-15
 - [x] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-14 ✅ 2026-08-14
 - [x] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-13 ✅ 2026-08-13
@@ -133,7 +134,8 @@ sort by description
 - [x] 加牛客佬微信 #task 🔼 ➕ 2026-07-15 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260715-93cb29d3
 - [x] 给家长反馈 #task 🔼 ➕ 2026-07-16 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260716-36bc1ba4
 - [x] 去南图坐坐 #library 🔼 ➕ 2026-07-16 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260716-42dd28dc
-- [ ] 写一个[dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) 🔼 🔁 every day ⏳ 2026-08-16
+- [ ] 写一个[dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) 🔼 🔁 every day ⏳ 2026-08-17
+- [x] 写一个[dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) 🔼 🔁 every day ⏳ 2026-08-16 ✅ 2026-08-16
 - [x] 写一个[dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) 🔼 🔁 every day ⏳ 2026-08-15 ✅ 2026-08-15
 - [x] 写一个[dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) 🔼 🔁 every day ⏳ 2026-08-14 ✅ 2026-08-14
 - [x] [写一个dp题目或者线段树题目](https://leetcode.cn/discuss/post/tXLS3i/) #algorithm 🔼 🔁 every day ⏳ 2026-08-13 ✅ 2026-08-13
@@ -187,7 +189,8 @@ sort by description
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ➕ 2026-07-18 ⏳ 2026-08-01 ✅ 2026-08-01 ^task-20260718-5073333b
 - [x] 给灵神的题单写一个目录插件 #coding ⏫ ➕ 2026-07-18 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260718-72efe0c9
 - [x] 买零食 #task 🔼 ➕ 2026-07-18 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260718-a4f8c1f7
-- [ ] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-16
+- [ ] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-17
+- [x] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-16 ✅ 2026-08-16
 - [x] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-15 ✅ 2026-08-15
 - [x] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-14 ✅ 2026-08-14
 - [x] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-08-13 ✅ 2026-08-13
@@ -359,4 +362,4 @@ sort by description
 - [x] 洗澡 #日常 ➕ 2026-08-15 🛫 2026-08-15 ⏳ 2026-08-15 📅 2026-08-15 ✅ 2026-08-15 ^task-20260815-544132e1
 - [x] 把饭菜放起来 #家务 ➕ 2026-08-15 🛫 2026-08-15 ⏳ 2026-08-15 📅 2026-08-15 ✅ 2026-08-15 ^task-20260815-a2a66bfe
 - [ ] 给小姐打钱 #财务 #转账 🛫 2026-08-18 ⏳ 2026-08-18 📅 2026-08-18 ➕ 2026-08-15 ^task-20260815-8b3a83b
-- [ ] 学习韦东山UART #嵌入式 #UART 🛫 2026-08-16 ⏳ 2026-08-16 📅 2026-08-16 ➕ 2026-08-15 ^task-20260815-e195cffa
+- [ ] 学习韦东山UART #嵌入式 #UART ⏫ ➕ 2026-08-15 🛫 2026-08-16 ⏳ 2026-08-16 📅 2026-08-16 ^task-20260815-e195cffa

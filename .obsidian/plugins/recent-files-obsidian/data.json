@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "Eide",
+      "path": "Software/Eide.md"
+    },
+    {
       "basename": "2333.统计包含每个点的矩形数目",
       "path": "Leetcode/2333.统计包含每个点的矩形数目.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "Example-硬件适配层",
@@ -87,10 +91,6 @@
     {
       "basename": "框架梳理",
       "path": "300-项目/嵌入式/FreeRTOS开发板入门/框架梳理.md"
-    },
-    {
-      "basename": "Eide",
-      "path": "Software/Eide.md"
     },
     {
       "basename": "Vscode插件",
