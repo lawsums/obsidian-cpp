@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Vscode-vim",
+      "path": "Software/Vscode-vim.md"
+    },
+    {
       "basename": "FreeRTOS下UART的封装源码",
       "path": "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "2156.石子游戏 IX",
       "path": "Leetcode/2156.石子游戏 IX.md"
-    },
-    {
-      "basename": "1240.石子游戏 II",
-      "path": "Leetcode/1240.石子游戏 II.md"
     }
   ],
   "omittedPaths": [],
