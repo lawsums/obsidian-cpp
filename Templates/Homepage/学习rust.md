@@ -128,7 +128,95 @@
 let v = vec![1, 2, 3];
 ```
 
+### 2.1.3 struct 结构体
+使用 `#[derive(Debug)]` 来打印结构体的信息
+#### 2.1.3.1 元组结构体(Tuple Struct)
 
+结构体必须要有名称，但是结构体的字段可以没有名称，这种结构体长得很像元组，因此被称为元组结构体，例如：
+
+```rust
+    struct Color(i32, i32, i32);
+    struct Point(i32, i32, i32);
+
+    let black = Color(0, 0, 0);
+    let origin = Point(0, 0, 0);
+```
+
+元组结构体在你希望有一个整体名称，但是又不关心里面字段的名称时将非常有用。例如上面的 `Point` 元组结构体，众所周知 3D 点是 `(x, y, z)` 形式的坐标点，因此我们无需再为内部的字段逐一命名为：`x`, `y`, `z`。
+
+#### 2.1.3.2 单元结构体(Unit-like Struct)
+
+还记得之前讲过的基本没啥用的[单元类型](https://beatai.org/rust-course/basic/base-type/char-bool#%E5%8D%95%E5%85%83%E7%B1%BB%E5%9E%8B)吧？单元结构体就跟它很像，没有任何字段和属性，但是好在，它还挺有用。
+
+如果你定义一个类型，但是不关心该类型的内容，只关心它的行为时，就可以使用 `单元结构体`：
+
+```rust
+struct AlwaysEqual;
+
+let subject = AlwaysEqual;
+
+// 我们不关心 AlwaysEqual 的字段数据，只关心它的行为，因此将它声明为单元结构体，然后再为它实现某个特征
+impl SomeTrait for AlwaysEqual {
+
+}
+```
+
+
+#### 2.1.3.3 结构体数据的所有权
+
+在之前的 `User` 结构体的定义中，有一处细节：我们使用了自身拥有所有权的 `String` 类型而不是基于引用的 `&str` 字符串切片类型。这是一个有意而为之的选择：因为我们想要这个结构体拥有它所有的数据，而不是从其它地方借用数据。
+
+你也可以让 `User` 结构体从其它对象借用数据，不过这么做，就需要引入[生命周期(lifetimes)](https://beatai.org/rust-course/basic/lifetime) 这个新概念（也是一个复杂的概念），简而言之，生命周期能确保结构体的作用范围要比它所借用的数据的作用范围要小。
+
+
+总之，如果你想在结构体中使用一个引用，就必须加上生命周期，否则就会报错：
+
+```rust
+struct User {
+    username: &str,
+    email: &str,
+    sign_in_count: u64,
+    active: bool,
+}
+
+fn main() {
+    let user1 = User {
+        email: "someone@example.com",
+        username: "someusername123",
+        active: true,
+        sign_in_count: 1,
+    };
+}
+```
+编译器会抱怨它需要生命周期标识符：
+```rust
+error[E0106]: missing lifetime specifier
+ --> src/main.rs:2:15
+  |
+2 |     username: &str,
+  |               ^ expected named lifetime parameter // 需要一个生命周期
+  |
+help: consider introducing a named lifetime parameter // 考虑像下面的代码这样引入一个生命周期
+  |
+1 ~ struct User<'a> {
+2 ~     username: &'a str,
+  |
+
+error[E0106]: missing lifetime specifier
+ --> src/main.rs:3:12
+  |
+3 |     email: &str,
+  |            ^ expected named lifetime parameter
+  |
+help: consider introducing a named lifetime parameter
+  |
+1 ~ struct User<'a> {
+2 |     username: &str,
+3 ~     email: &'a str,
+  |
+```
+
+未来在[生命周期](https://beatai.org/rust-course/basic/lifetime)中会讲到如何修复这个问题以便在结构体中存储引用，不过在那之前，我们会避免在结构体中使用引用类型。
 
 ## 2.2 流程控制
 ### 2.2.1 for

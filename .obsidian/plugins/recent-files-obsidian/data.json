@@ -1,12 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "学习rust",
-      "path": "Templates/Homepage/学习rust.md"
+      "basename": "FreeRTOS下UART的封装源码",
+      "path": "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md"
+    },
+    {
+      "basename": "C++嵌入式",
+      "path": "100-学习/120-嵌入式/C++嵌入式.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "Eide",
+      "path": "Software/Eide.md"
+    },
+    {
+      "basename": "学习rust",
+      "path": "Templates/Homepage/学习rust.md"
     },
     {
       "basename": "试着用ai去维护一个知识库比如说科研文档or深度学习架构or嵌入式架构orlinux架构",
@@ -17,16 +33,8 @@
       "path": "Templates/Homepage/003_不定期任务.md"
     },
     {
-      "basename": "Eide",
-      "path": "Software/Eide.md"
-    },
-    {
       "basename": "用ai产出创意内容",
       "path": "Templates/Homepage/用ai产出创意内容.md"
-    },
-    {
-      "basename": "FreeRTOS下UART的封装源码",
-      "path": "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md"
     },
     {
       "basename": "Vscode-vim",
@@ -35,10 +43,6 @@
     {
       "basename": "路线梳理",
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "2333.统计包含每个点的矩形数目",
@@ -71,10 +75,6 @@
     {
       "basename": "八股文",
       "path": "100-学习/120-嵌入式/八股文.md"
-    },
-    {
-      "basename": "C++嵌入式",
-      "path": "100-学习/120-嵌入式/C++嵌入式.md"
     },
     {
       "basename": "Rust嵌入式",

@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "0707eba12028079c",
+            "id": "d4153e0fb9dafa5e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/学习rust.md",
+                "file": "100-学习/120-嵌入式/C++嵌入式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "学习rust"
+              "title": "C++嵌入式"
             }
           },
           {
@@ -77,30 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "FreeRTOS下UART的封装源码"
-            }
-          },
-          {
-            "id": "0574e393b147e8ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/Eide.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Eide"
             }
           },
           {
@@ -176,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -321,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习rust.md",
+                "file": "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习rust 的大纲"
+              "title": "FreeRTOS下UART的封装源码 的大纲"
             }
           },
           {
@@ -403,19 +379,20 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0707eba12028079c",
+  "active": "35cdbef97dfe31e2",
   "lastOpenFiles": [
+    "100-学习/120-嵌入式/C++嵌入式.md",
+    "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/算法路线图.md",
+    "Software/Eide.md",
     "Templates/Homepage/学习rust.md",
     "Templates/Homepage/试着用ai去维护一个知识库比如说科研文档or深度学习架构or嵌入式架构orlinux架构.md",
     "Templates/Homepage/003_不定期任务.md",
-    "Software/Eide.md",
     "Templates/Homepage/用ai产出创意内容.md",
-    "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md",
     "Software/Vscode-vim.md",
     "Attachments/Pasted image 20260816145841.png",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
-    "Leetcode/算法路线图.md",
     "Leetcode/2333.统计包含每个点的矩形数目.md",
     "Leetcode/2333.统计包含每个点的矩形数目.cpp",
     "Leetcode/images/2333_example2.png",
@@ -432,7 +409,6 @@
     "Dairies/2026-08-15.md",
     "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "100-学习/120-嵌入式/八股文.md",
-    "100-学习/120-嵌入式/C++嵌入式.md",
     "100-学习/120-嵌入式/Rust嵌入式.md",
     "Templates/Tasks.md",
     "Templates/Homepage/和家长同步家教状况.md",
