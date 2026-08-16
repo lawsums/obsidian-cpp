@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "0574e393b147e8ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/Eide.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Eide"
+            }
+          },
+          {
             "id": "02c335c035ea2a8d",
             "type": "leaf",
             "state": {
@@ -330,9 +354,9 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Leetcode/算法路线图.md",
     "Software/Eide.md",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/算法路线图.md",
     "Leetcode/2333.统计包含每个点的矩形数目.md",
     "Leetcode/2333.统计包含每个点的矩形数目.cpp",
     "Leetcode/images/2333_example2.png",

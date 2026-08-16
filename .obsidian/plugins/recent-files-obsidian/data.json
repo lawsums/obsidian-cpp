@@ -5,12 +5,12 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
-    },
-    {
       "basename": "Eide",
       "path": "Software/Eide.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "2333.统计包含每个点的矩形数目",
