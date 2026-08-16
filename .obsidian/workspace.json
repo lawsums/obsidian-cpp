@@ -199,8 +199,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -345,13 +344,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Software/Vscode-vim.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Vscode-vim 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -427,8 +426,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "fb4940839c63c573",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Software/Vscode-vim.md",
     "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Attachments/Pasted image 20260816145841.png",
