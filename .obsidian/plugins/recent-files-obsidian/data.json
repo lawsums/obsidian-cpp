@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "FreeRTOS下UART的封装源码",
+      "path": "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md"
+    },
+    {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -71,10 +79,6 @@
     {
       "basename": "3350.将元素分配到两个数组中 II",
       "path": "Leetcode/3350.将元素分配到两个数组中 II.md"
-    },
-    {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "2319.由单个字符重复的最长子字符串",
@@ -195,10 +199,6 @@
     {
       "basename": "1240.石子游戏 II",
       "path": "Leetcode/1240.石子游戏 II.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     }
   ],
   "omittedPaths": [],
