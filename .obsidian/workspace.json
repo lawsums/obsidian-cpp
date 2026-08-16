@@ -199,7 +199,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -344,13 +345,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "FreeRTOS下UART的封装源码 的大纲"
             }
           },
           {
@@ -426,14 +427,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "35cdbef97dfe31e2",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Software/Vscode-vim.md",
     "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Attachments/Pasted image 20260816145841.png",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
-    "Templates/Homepage/Homepage.md",
     "Software/Eide.md",
     "Leetcode/算法路线图.md",
     "Leetcode/2333.统计包含每个点的矩形数目.md",
