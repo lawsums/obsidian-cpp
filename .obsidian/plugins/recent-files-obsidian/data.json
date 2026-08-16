@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "004_闪念",
+      "path": "Templates/Homepage/004_闪念.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
       "basename": "FreeRTOS下UART的封装源码",
       "path": "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md"
     },
     {
       "basename": "C++嵌入式",
       "path": "100-学习/120-嵌入式/C++嵌入式.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "算法路线图",
@@ -79,10 +87,6 @@
     {
       "basename": "Rust嵌入式",
       "path": "100-学习/120-嵌入式/Rust嵌入式.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "和家长同步家教状况",
@@ -187,10 +191,6 @@
     {
       "basename": "005_KTV歌单",
       "path": "Templates/Homepage/005_KTV歌单.md"
-    },
-    {
-      "basename": "004_闪念",
-      "path": "Templates/Homepage/004_闪念.md"
     },
     {
       "basename": "闪念_随心一念",
