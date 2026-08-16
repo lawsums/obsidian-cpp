@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "0707eba12028079c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习rust.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习rust"
+            }
+          },
+          {
             "id": "35cdbef97dfe31e2",
             "type": "leaf",
             "state": {
@@ -53,30 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "FreeRTOS下UART的封装源码"
-            }
-          },
-          {
-            "id": "fb4940839c63c573",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Software/Vscode-vim.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Vscode-vim"
             }
           },
           {
@@ -345,13 +345,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md",
+                "file": "Templates/Homepage/学习rust.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "FreeRTOS下UART的封装源码 的大纲"
+              "title": "学习rust 的大纲"
             }
           },
           {
@@ -427,11 +427,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "35cdbef97dfe31e2",
+  "active": "0707eba12028079c",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
-    "Software/Vscode-vim.md",
     "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md",
+    "Software/Vscode-vim.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Attachments/Pasted image 20260816145841.png",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",

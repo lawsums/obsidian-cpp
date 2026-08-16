@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "FreeRTOS下UART的封装源码",
-      "path": "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md"
+      "basename": "学习rust",
+      "path": "Templates/Homepage/学习rust.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "FreeRTOS下UART的封装源码",
+      "path": "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md"
     },
     {
       "basename": "Vscode-vim",
@@ -75,10 +79,6 @@
     {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
-      "basename": "学习rust",
-      "path": "Templates/Homepage/学习rust.md"
     },
     {
       "basename": "3350.将元素分配到两个数组中 II",
