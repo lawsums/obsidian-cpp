@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
-    },
-    {
       "basename": "学习rust",
       "path": "Templates/Homepage/学习rust.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "试着用ai去维护一个知识库比如说科研文档or深度学习架构or嵌入式架构orlinux架构",
+      "path": "Templates/Homepage/试着用ai去维护一个知识库比如说科研文档or深度学习架构or嵌入式架构orlinux架构.md"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
+    },
+    {
+      "basename": "Eide",
+      "path": "Software/Eide.md"
+    },
+    {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "FreeRTOS下UART的封装源码",
@@ -23,10 +35,6 @@
     {
       "basename": "路线梳理",
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
-    },
-    {
-      "basename": "Eide",
-      "path": "Software/Eide.md"
     },
     {
       "basename": "算法路线图",
@@ -153,10 +161,6 @@
       "path": "Leetcode/309.买卖股票的最佳时机含冷冻期.md"
     },
     {
-      "basename": "003_不定期任务",
-      "path": "Templates/Homepage/003_不定期任务.md"
-    },
-    {
       "basename": "框架梳理",
       "path": "300-项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "使用Claude生成一季度新番关系图",
       "path": "Templates/Homepage/使用Claude生成一季度新番关系图.md"
-    },
-    {
-      "basename": "2156.石子游戏 IX",
-      "path": "Leetcode/2156.石子游戏 IX.md"
     }
   ],
   "omittedPaths": [],

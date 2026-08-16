@@ -1,0 +1,2 @@
+
+[Hermes+Obsidian+LLM wkii，构建AI知识库_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV16hZFB5ERM/?spm_id_from=333.788.recommend_more_video.1&trackid=web_related_0.router-related-2589621-49mtn.1786702655002.119&vd_source=cf6228c0b4a5c283905e22fd11934994)
