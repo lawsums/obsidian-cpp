@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -345,13 +345,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习rust.md",
+                "file": "Templates/Homepage/用ai产出创意内容.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习rust 的大纲"
+              "title": "用ai产出创意内容 的大纲"
             }
           },
           {
@@ -427,8 +427,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0707eba12028079c",
+  "active": "b8436433584d1857",
   "lastOpenFiles": [
+    "Templates/Homepage/学习rust.md",
     "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md",
     "Software/Vscode-vim.md",
@@ -457,7 +458,6 @@
     "100-学习/120-嵌入式/Rust嵌入式.md",
     "Templates/Tasks.md",
     "Templates/Homepage/和家长同步家教状况.md",
-    "Templates/Homepage/学习rust.md",
     "Attachments/Pasted image 20260814113846.png",
     "Attachments/Pasted image 20260814113612.png",
     "Leetcode/3350.将元素分配到两个数组中 II.md",

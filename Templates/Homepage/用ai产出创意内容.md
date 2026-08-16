@@ -19,6 +19,9 @@
 - [ ] [0基础，纯小白也能利用AI制作独立游戏！(下篇)_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1PH796zELi/?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2589621-48s8n.1781343780513.638&vd_source=cf6228c0b4a5c283905e22fd11934994)
 
 ## 3.1 游戏开发之旅 1 
+[C++游戏开发 | 从入门到精通](https://cppgamedev.top/courses/sdl-space-shooter/parts/cmake-setup)
+
+
 1. [x] 【C++游戏开发之旅】0 开篇-SDL2与... ✅ 2026-07-05
 2. [x] 【C++游戏开发之旅】01环境配置说明 ✅ 2026-07-05
 3. [x] 【C++游戏开发之旅】02 VSCode安装... ✅ 2026-07-05
