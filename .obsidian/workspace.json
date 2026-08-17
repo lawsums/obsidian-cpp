@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -297,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习rust.md",
+                "file": "Templates/Homepage/和家长同步家教状况.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习rust 的大纲"
+              "title": "和家长同步家教状况 的大纲"
             }
           },
           {
@@ -379,9 +379,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "2015f9010a7036f8",
+  "active": "6a589190af9e05c2",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学习rust.md",
     "100-学习/120-嵌入式/八股文.md",
     "300-项目/第二轮面试/车载终端/2026-05-14-anki.md",
     "Templates/Homepage/和家长同步家教状况.md",
@@ -392,7 +393,6 @@
     "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md",
     "Leetcode/算法路线图.md",
     "Software/Eide.md",
-    "Templates/Homepage/学习rust.md",
     "Templates/Homepage/试着用ai去维护一个知识库比如说科研文档or深度学习架构or嵌入式架构orlinux架构.md",
     "Templates/Homepage/003_不定期任务.md",
     "Templates/Homepage/用ai产出创意内容.md",
