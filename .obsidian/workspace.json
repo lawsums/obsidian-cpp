@@ -127,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -273,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习rust.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习rust 的大纲"
             }
           },
           {
@@ -356,11 +357,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "2015f9010a7036f8",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260817210129.png",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/和家长同步家教状况.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习rust.md",
     "100-学习/120-嵌入式/八股文.md",
     "300-项目/第二轮面试/车载终端/2026-05-14-anki.md",
@@ -391,7 +393,6 @@
     "Configs/新建 文本文档.txt",
     "Dairies/2026-08-15.md",
     "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
-    "100-学习/120-嵌入式/Rust嵌入式.md",
     "Attachments/Pasted image 20260814113846.png",
     "Attachments/Pasted image 20260814113612.png",
     "Leetcode/3350.将元素分配到两个数组中 II.cpp",
