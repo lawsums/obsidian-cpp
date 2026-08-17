@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "C++嵌入式",
+      "path": "100-学习/120-嵌入式/C++嵌入式.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "004_闪念",
@@ -15,10 +23,6 @@
     {
       "basename": "FreeRTOS下UART的封装源码",
       "path": "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md"
-    },
-    {
-      "basename": "C++嵌入式",
-      "path": "100-学习/120-嵌入式/C++嵌入式.md"
     },
     {
       "basename": "算法路线图",
@@ -87,10 +91,6 @@
     {
       "basename": "Rust嵌入式",
       "path": "100-学习/120-嵌入式/Rust嵌入式.md"
-    },
-    {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "3350.将元素分配到两个数组中 II",
