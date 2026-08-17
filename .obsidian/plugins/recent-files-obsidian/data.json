@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "2839.最大和查询",
-      "path": "Leetcode/2839.最大和查询.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "八股文",
+      "path": "100-学习/120-嵌入式/八股文.md"
+    },
+    {
+      "basename": "2839.最大和查询",
+      "path": "Leetcode/2839.最大和查询.md"
     },
     {
       "basename": "学习rust",
@@ -19,10 +23,6 @@
     {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
-      "basename": "八股文",
-      "path": "100-学习/120-嵌入式/八股文.md"
     },
     {
       "basename": "C++嵌入式",

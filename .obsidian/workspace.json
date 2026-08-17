@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "64ea3858cc54e643",
+            "id": "02c335c035ea2a8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/2839.最大和查询.md",
+                "file": "Leetcode/算法路线图.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,31 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2839.最大和查询"
-            }
-          },
-          {
-            "id": "0498ba7ab770e248",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100-学习/120-嵌入式/八股文.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "八股文"
+              "title": "算法路线图"
             }
           },
           {
@@ -127,8 +103,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +136,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "通信协议",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,8 +217,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -273,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/2839.最大和查询.md",
+                "file": "Leetcode/算法路线图.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2839.最大和查询 的大纲"
+              "title": "算法路线图 的大纲"
             }
           },
           {
@@ -354,16 +328,16 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "64ea3858cc54e643",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "100-学习/120-嵌入式/八股文.md",
+    "Leetcode/2839.最大和查询.md",
     "Leetcode/2839.最大和查询.cpp",
     "Templates/Homepage/Homepage.md",
-    "Leetcode/2839.最大和查询.md",
     "Templates/Homepage/学习rust.md",
     "Attachments/Pasted image 20260817210129.png",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/和家长同步家教状况.md",
-    "100-学习/120-嵌入式/八股文.md",
     "300-项目/第二轮面试/车载终端/2026-05-14-anki.md",
     "100-学习/120-嵌入式/C++嵌入式.md",
     "Dairies/2026-08-17.md",
@@ -401,7 +375,6 @@
     "Attachments/Pasted image 20260813111500.png",
     "Leetcode/309.买卖股票的最佳时机含冷冻期.cpp",
     "Attachments/Pasted image 20260811223717.png",
-    "Leetcode/1517.恢复数组.cpp",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
