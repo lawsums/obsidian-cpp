@@ -1,0 +1,25 @@
+{
+  "id": "conv-1786975478338-x1dhphpq2",
+  "providerId": "opencode",
+  "title": "解释一下这道题的原理，并放到这个 notes 里面。我知道这道题的思路是降序排序加树状数组，但是树状...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1786975478340,
+  "updatedAt": 1786975586281,
+  "lastResponseAt": 1786975568914,
+  "sessionId": "ses_feff60effffeGBDp4XfKhhi3EG",
+  "selectedModel": "opencode:deepseek/deepseek-v4-pro",
+  "providerState": {
+    "databasePath": "C:\\Users\\Administrator\\AppData\\Roaming\\opencode\\opencode.db"
+  },
+  "currentNote": "Leetcode/2839.最大和查询.md",
+  "usage": {
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 15872,
+    "contextTokens": 15912,
+    "contextWindow": 1000000,
+    "contextWindowIsAuthoritative": true,
+    "inputTokens": 40,
+    "model": "opencode:deepseek/deepseek-v4-pro",
+    "percentage": 2
+  }
+}

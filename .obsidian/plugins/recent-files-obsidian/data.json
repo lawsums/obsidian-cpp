@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "学习rust",
-      "path": "Templates/Homepage/学习rust.md"
+      "basename": "2839.最大和查询",
+      "path": "Leetcode/2839.最大和查询.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习rust",
+      "path": "Templates/Homepage/学习rust.md"
     },
     {
       "basename": "学习C++",
@@ -195,10 +199,6 @@
     {
       "basename": "闪念_随心一念",
       "path": "Dairies/闪念_随心一念.md"
-    },
-    {
-      "basename": "使用Claude生成一季度新番关系图",
-      "path": "Templates/Homepage/使用Claude生成一季度新番关系图.md"
     }
   ],
   "omittedPaths": [],

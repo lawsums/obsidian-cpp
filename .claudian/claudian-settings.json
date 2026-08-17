@@ -24,9 +24,11 @@
   "locale": "zh-CN",
   "providerConfigs": {
     "claude": {
-      "safeMode": "acceptEdits",
+      "safeMode": "auto",
       "cliPath": "",
-      "cliPathsByHost": {},
+      "cliPathsByHost": {
+        "device:e000cf10-1112-4545-a268-238a4378e035": "G:\\MyPath\\Nodejs\\node_global\\node_modules\\@anthropic-ai\\claude-code\\bin\\claude.exe"
+      },
       "loadUserSettings": true,
       "enableChrome": false,
       "enableBangBash": false,
@@ -54,7 +56,7 @@
       "cliPathsByHost": {
         "device:e000cf10-1112-4545-a268-238a4378e035": "G:\\MyPath\\Nodejs\\node_global\\node_modules\\opencode-ai\\bin\\opencode.exe"
       },
-      "enabled": true,
+      "enabled": false,
       "environmentHash": "",
       "environmentVariables": "OPENCODE_ENABLE_EXA=1",
       "modelAliases": {},
@@ -119,7 +121,7 @@
     "opencode": "yolo"
   },
   "lastCustomModel": "",
-  "maxTabs": 3,
+  "maxTabs": 4,
   "enableAutoScroll": true,
   "deferMathRenderingDuringStreaming": true,
   "expandFileEditsByDefault": false,

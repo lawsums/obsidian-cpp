@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "2015f9010a7036f8",
+            "id": "64ea3858cc54e643",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/学习rust.md",
+                "file": "Leetcode/2839.最大和查询.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "学习rust"
+              "title": "2839.最大和查询"
             }
           },
           {
@@ -247,8 +247,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -274,13 +273,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习rust.md",
+                "file": "Leetcode/2839.最大和查询.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习rust 的大纲"
+              "title": "2839.最大和查询 的大纲"
             }
           },
           {
@@ -313,13 +312,11 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -357,13 +354,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "2015f9010a7036f8",
+  "active": "64ea3858cc54e643",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20260817210129.png",
+    "Leetcode/2839.最大和查询.cpp",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/2839.最大和查询.md",
+    "Templates/Homepage/学习rust.md",
+    "Attachments/Pasted image 20260817210129.png",
     "Templates/Homepage/学习C++.md",
     "Templates/Homepage/和家长同步家教状况.md",
-    "Templates/Homepage/学习rust.md",
     "100-学习/120-嵌入式/八股文.md",
     "300-项目/第二轮面试/车载终端/2026-05-14-anki.md",
     "100-学习/120-嵌入式/C++嵌入式.md",
@@ -392,7 +391,6 @@
     "Configs/move_dir.bat",
     "Configs/新建 文本文档.txt",
     "Dairies/2026-08-15.md",
-    "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "Attachments/Pasted image 20260814113846.png",
     "Attachments/Pasted image 20260814113612.png",
     "Leetcode/3350.将元素分配到两个数组中 II.cpp",
@@ -403,7 +401,6 @@
     "Attachments/Pasted image 20260813111500.png",
     "Leetcode/309.买卖股票的最佳时机含冷冻期.cpp",
     "Attachments/Pasted image 20260811223717.png",
-    "Attachments/Pasted image 20260811110613.png",
     "Leetcode/1517.恢复数组.cpp",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
