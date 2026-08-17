@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "学习rust",
@@ -67,10 +71,6 @@
     {
       "basename": "Bootloader",
       "path": "100-学习/120-嵌入式/Bootloader.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "Example-硬件适配层",

@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "6a589190af9e05c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "和家长同步家教状况"
-            }
-          },
-          {
             "id": "80cff0b081da6c7b",
             "type": "leaf",
             "state": {
@@ -151,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "和家长同步家教状况 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -379,13 +354,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "6a589190af9e05c2",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习rust.md",
     "100-学习/120-嵌入式/八股文.md",
     "300-项目/第二轮面试/车载终端/2026-05-14-anki.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "100-学习/120-嵌入式/C++嵌入式.md",
     "Dairies/2026-08-17.md",
     "Templates/Homepage/004_闪念.md",
@@ -404,7 +380,6 @@
     "Leetcode/images/2333_example2.png",
     "Leetcode/images/2333_example1.png",
     "100-学习/120-嵌入式/Bootloader.md",
-    "Templates/Homepage/学习C++.md",
     "100-学习/110-计算机/设计模式/Example-硬件适配层.md",
     "Templates/学习LVGL.md",
     "Attachments/Pasted image 20260815170721.png",
