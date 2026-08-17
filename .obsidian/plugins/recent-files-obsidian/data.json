@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学习rust",
+      "path": "Templates/Homepage/学习rust.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -35,10 +39,6 @@
     {
       "basename": "Eide",
       "path": "Software/Eide.md"
-    },
-    {
-      "basename": "学习rust",
-      "path": "Templates/Homepage/学习rust.md"
     },
     {
       "basename": "试着用ai去维护一个知识库比如说科研文档or深度学习架构or嵌入式架构orlinux架构",
