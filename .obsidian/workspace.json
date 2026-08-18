@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "95bba0e2cd76edb0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/1772.通过指令创建有序数组.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1772.通过指令创建有序数组"
-            }
-          },
-          {
             "id": "80cff0b081da6c7b",
             "type": "leaf",
             "state": {
@@ -151,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -295,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习C++.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习C++ 的大纲"
             }
           },
           {
@@ -376,13 +353,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "80cff0b081da6c7b",
   "lastOpenFiles": [
     "Leetcode/1772.通过指令创建有序数组.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/研究 VSCode 维护公共配置部分.md",
     "100-学习/120-嵌入式/Bootloader.md",
     "100-学习/120-嵌入式/C++嵌入式.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习C++.md",
     "Leetcode/1772.通过指令创建有序数组.cpp",
     "Templates/Homepage/和家长同步家教状况.md",
