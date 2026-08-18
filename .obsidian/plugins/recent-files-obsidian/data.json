@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "研究 VSCode 维护公共配置部分",
+      "path": "Templates/Homepage/研究 VSCode 维护公共配置部分.md"
+    },
+    {
+      "basename": "1772.通过指令创建有序数组",
+      "path": "Leetcode/1772.通过指令创建有序数组.md"
+    },
+    {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "创建个人网站",
       "path": "Templates/创建个人网站.md"
-    },
-    {
-      "basename": "005_KTV歌单",
-      "path": "Templates/Homepage/005_KTV歌单.md"
-    },
-    {
-      "basename": "闪念_随心一念",
-      "path": "Dairies/闪念_随心一念.md"
     }
   ],
   "omittedPaths": [],

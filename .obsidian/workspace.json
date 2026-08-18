@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "669e3610a17998b0",
+            "id": "f0e1dc6d2acb9eb9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "file": "Templates/Homepage/研究 VSCode 维护公共配置部分.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "和家长同步家教状况"
+              "title": "研究 VSCode 维护公共配置部分"
             }
           },
           {
-            "id": "02c335c035ea2a8d",
+            "id": "95bba0e2cd76edb0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Leetcode/1772.通过指令创建有序数组.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "算法路线图"
+              "title": "1772.通过指令创建有序数组"
             }
           },
           {
@@ -310,8 +310,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -355,8 +354,11 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/和家长同步家教状况.md",
+    "Templates/Homepage/研究 VSCode 维护公共配置部分.md",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/1772.通过指令创建有序数组.md",
+    "Leetcode/1772.通过指令创建有序数组.cpp",
+    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Tasks.md",
     "Leetcode/算法路线图.md",
     "Templates/Homepage/试着用ai去维护一个知识库比如说科研文档or深度学习架构or嵌入式架构orlinux架构.md",
@@ -386,10 +388,8 @@
     "Templates/学习LVGL.md",
     "Attachments/Pasted image 20260815170721.png",
     "Attachments/Pasted image 20260815170204.png",
-    "Templates/Homepage/每天给C盘文件夹建立软连接.md",
     "Configs/move_dir.bat",
     "Configs/新建 文本文档.txt",
-    "Dairies/2026-08-15.md",
     "Attachments/Pasted image 20260814113846.png",
     "Attachments/Pasted image 20260814113612.png",
     "Leetcode/3350.将元素分配到两个数组中 II.cpp",
@@ -398,7 +398,6 @@
     "100-学习/120-嵌入式/anki",
     "Leetcode/3438.数组中的峰值.cpp",
     "Attachments/Pasted image 20260813111500.png",
-    "Leetcode/309.买卖股票的最佳时机含冷冻期.cpp",
     "Attachments/Pasted image 20260811223717.png",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",

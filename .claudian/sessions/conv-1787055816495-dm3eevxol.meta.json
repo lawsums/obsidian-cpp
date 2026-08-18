@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787055816495-dm3eevxol",
+  "providerId": "claude",
+  "title": "Explain Fenwick tree solution principles",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787055816495,
+  "updatedAt": 1787055860654,
+  "lastResponseAt": 1787055860654,
+  "sessionId": "5085ffc7-39b4-407f-aae5-f627eb2918d4",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "5085ffc7-39b4-407f-aae5-f627eb2918d4"
+  },
+  "currentNote": "Leetcode/1772.通过指令创建有序数组.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1314,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33152,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 34466,
+    "percentage": 17
+  }
+}
