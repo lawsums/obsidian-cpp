@@ -389,5 +389,5 @@ sort by description
 - [x] 给厨房打药 #家务 #消杀 ➕ 2026-08-16 🛫 2026-08-17 ⏳ 2026-08-17 📅 2026-08-17 ✅ 2026-08-17 ^task-20260816-130bb473
 - [ ] 购买 ST-Link V2.1 调试器 #hardware #embedded ⏳ 2026-08-19 📅 2026-08-19 ➕ 2026-08-17 ^task-20260817-1affd79e
 - [ ] [获取朱紫](https://www.bilibili.com/video/BV1cocYz7Ea4/?vd_source=cf6228c0b4a5c283905e22fd11934994) #待办 🛫 2026-08-18 ⏳ 2026-08-18 📅 2026-08-18 ➕ 2026-08-17 ^task-20260817-29a05a0f
-- [ ] 切换 Obsidian 模型为 Claude 并研究权限直授 AI 的配置方法 #obsidian #ai-integration #automation ⏫ 🛫 2026-08-18 ⏳ 2026-08-18 📅 2026-08-18 ➕ 2026-08-17 ^task-20260817-c327b883
-- [ ] 下载虚拟机 #devops #setup 🛫 2026-08-18 ⏳ 2026-08-18 ➕ 2026-08-18 ^task-20260818-cef8db27
+- [x] 切换 Obsidian 模型为 Claude 并研究权限直授 AI 的配置方法 #obsidian #ai-integration #automation ⏫ ➕ 2026-08-17 🛫 2026-08-18 ⏳ 2026-08-18 📅 2026-08-18 ✅ 2026-08-18 ^task-20260817-c327b883
+- [ ] 下载虚拟机 #devops #setup 🔺 ➕ 2026-08-18 🛫 2026-08-18 ⏳ 2026-08-18 ^task-20260818-cef8db27
