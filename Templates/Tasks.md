@@ -82,7 +82,8 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-17
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-18
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-17 ✅ 2026-08-17
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-16 ✅ 2026-08-16
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-15 ✅ 2026-08-15
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-14 ✅ 2026-08-14
@@ -383,3 +384,5 @@ sort by description
 - [x] 清理H盘内存，必要时迁移部分文件至G盘 #disk #maintenance ➕ 2026-08-16 🛫 2026-08-17 ⏳ 2026-08-17 📅 2026-08-17 ✅ 2026-08-17 ^task-20260816-4174403d
 - [x] 给厨房打药 #家务 #消杀 ➕ 2026-08-16 🛫 2026-08-17 ⏳ 2026-08-17 📅 2026-08-17 ✅ 2026-08-17 ^task-20260816-130bb473
 - [ ] 购买 ST-Link V2.1 调试器 #hardware #embedded ⏳ 2026-08-19 📅 2026-08-19 ➕ 2026-08-17 ^task-20260817-1affd79e
+- [ ] [获取朱紫](https://www.bilibili.com/video/BV1cocYz7Ea4/?vd_source=cf6228c0b4a5c283905e22fd11934994) #待办 🛫 2026-08-18 ⏳ 2026-08-18 📅 2026-08-18 ➕ 2026-08-17 ^task-20260817-29a05a0f
+- [ ] 切换 Obsidian 模型为 Claude 并研究权限直授 AI 的配置方法 #obsidian #ai-integration #automation ⏫ 🛫 2026-08-18 ⏳ 2026-08-18 📅 2026-08-18 ➕ 2026-08-17 ^task-20260817-c327b883

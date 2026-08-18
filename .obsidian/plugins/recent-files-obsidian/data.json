@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
       "basename": "八股文",
       "path": "100-学习/120-嵌入式/八股文.md"
     },
@@ -33,10 +41,6 @@
       "path": "Templates/Homepage/004_闪念.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
-    },
-    {
       "basename": "FreeRTOS下UART的封装源码",
       "path": "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md"
     },
@@ -55,10 +59,6 @@
     {
       "basename": "003_不定期任务",
       "path": "Templates/Homepage/003_不定期任务.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "Vscode-vim",

@@ -12,6 +12,8 @@
 
 # 2 工作流
 - [x] 写教程工作流
+[Hermes+Obsidian+LLM wkii，构建AI知识库_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV16hZFB5ERM/?spm_id_from=333.1391.0.0&vd_source=cf6228c0b4a5c283905e22fd11934994)
+[WorkBuddy 使用手册与实战指南｜27 章完整目录](https://workbuddy.homes/bluebook/)
 
 ---
 # 3 开发游戏 
