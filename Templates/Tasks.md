@@ -83,7 +83,8 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-18
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-19
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-18 ✅ 2026-08-18
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-17 ✅ 2026-08-17
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-16 ✅ 2026-08-16
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-15 ✅ 2026-08-15
@@ -355,7 +356,8 @@ sort by description
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ➕ 2026-08-12 ⏳ 2026-08-12 ✅ 2026-08-12 ^task-20260812-b13f0a8f
 - [x] 将bootloader题目加入Anki #anki #bootloader 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-bb4f9a4a
 - [x] 学习 FreeRTOS #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-f179f79b
-- [ ] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-18
+- [ ] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-19
+- [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-18 ✅ 2026-08-18
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-17 ✅ 2026-08-17
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ➕ 2026-08-12 ⏳ 2026-08-16 ✅ 2026-08-16 ^task-20260812-a8b32450
 - [x] 用skill生成手表课程 #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-2fcbba85
@@ -373,7 +375,8 @@ sort by description
 - [x] 清理C盘 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260814-6def903c
 - [x] 清理G盘 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260814-6965e688
 - [x] 重新安上插件 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260814-f9e95368
-- [ ] 了解[[C++嵌入式]] 🔼 🔁 every day ➕ 2026-08-14 🛫 2026-08-16 ⏳ 2026-08-18 ^task-20260814-9af7cfa7
+- [ ] 了解[[C++嵌入式]] 🔼 🔁 every day 🛫 2026-08-17 ⏳ 2026-08-19
+- [x] 了解[[C++嵌入式]] 🔼 🔁 every day ➕ 2026-08-14 🛫 2026-08-16 ⏳ 2026-08-18 ✅ 2026-08-18 ^task-20260814-9af7cfa7
 - [x] 回东哥消息 #task 🔼 ➕ 2026-08-15 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260815-b6f69bc1
 - [x] test #task ➕ 2026-08-15 🛫 2026-08-15 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260815-2874f68b
 - [x] 洗澡 #日常 ➕ 2026-08-15 🛫 2026-08-15 ⏳ 2026-08-15 📅 2026-08-15 ✅ 2026-08-15 ^task-20260815-544132e1
@@ -394,5 +397,5 @@ sort by description
 - [x] 下载虚拟机 #devops #setup 🔺 ➕ 2026-08-18 🛫 2026-08-18 ⏳ 2026-08-18 ✅ 2026-08-18 ^task-20260818-cef8db27
 - [ ] 交学费 #财务 #教育 ⏫ ⏳ 2026-08-19 📅 2026-08-19 ➕ 2026-08-18 ^task-20260818-7963d86a
 - [ ] 学习基本 i.MX6ULL 操作 #imx6ull #嵌入式 🛫 2026-08-21 ⏳ 2026-08-21 ➕ 2026-08-18 ^task-20260818-257dbd4d
-- [ ] 拔掉充电器 #日常 🔺 ➕ 2026-08-18 🛫 2026-08-18 ⏳ 2026-08-18 ^task-20260818-ff5b5d62
+- [x] 拔掉充电器 #日常 🔺 ➕ 2026-08-18 🛫 2026-08-18 ⏳ 2026-08-18 ✅ 2026-08-18 ^task-20260818-ff5b5d62
 - [ ] 备课 #教学 🔼 🛫 2026-08-19 ⏳ 2026-08-19 ➕ 2026-08-18 ^task-20260818-c146b217

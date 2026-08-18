@@ -4,8 +4,11 @@
 [C 和 C++语言在嵌入式系统中的面向对象编程 | Coursera --- Embedded Systems Object-Oriented Programming in C and C++ | Coursera](https://www.coursera.org/learn/packt-embedded-systems-object-oriented-programming-in-c-and-c-gjdxd)
 
 - [ ] 试试 C++嵌入式
+	- [ ] 换成 platfromio 平台
 	- [ ] 获取 C++/C 混编仓库
 	- [ ] 试一试各种容器
+		- [x] string ✅ 2026-08-18
+		- [x] vector ✅ 2026-08-18
 	- [ ] 试试模板
 	- [ ] 试试 cout
 - [ ] 学习书籍
