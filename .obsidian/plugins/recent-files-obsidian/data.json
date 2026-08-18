@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Bootloader",
+      "path": "100-学习/120-嵌入式/Bootloader.md"
+    },
+    {
       "basename": "C++嵌入式",
       "path": "100-学习/120-嵌入式/C++嵌入式.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "2333.统计包含每个点的矩形数目",
       "path": "Leetcode/2333.统计包含每个点的矩形数目.md"
-    },
-    {
-      "basename": "Bootloader",
-      "path": "100-学习/120-嵌入式/Bootloader.md"
     },
     {
       "basename": "Example-硬件适配层",

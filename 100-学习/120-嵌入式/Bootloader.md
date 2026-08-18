@@ -74,4 +74,3 @@ _(注：此时实际波特率为 8,000,000 / (16 × 4.3125) ≈ 115942 bps，与
 ### 0.1.12 Cortex-M3 向量表前几个表项是什么？
 向量表第 0 项是初始 MSP，第 1 项是 Reset_Handler；随后依次包括 NMI、HardFault、MemManage、BusFault、UsageFault，保留项后是 SVC、DebugMon、PendSV、SysTick，之后才是外部中断。每项 4 字节，内容是栈顶地址或处理函数地址。
 
-### 0.1.13 
