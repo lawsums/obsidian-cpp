@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "1772.通过指令创建有序数组",
+      "path": "Leetcode/1772.通过指令创建有序数组.md"
+    },
+    {
+      "basename": "研究 VSCode 维护公共配置部分",
+      "path": "Templates/Homepage/研究 VSCode 维护公共配置部分.md"
+    },
+    {
       "basename": "Bootloader",
       "path": "100-学习/120-嵌入式/Bootloader.md"
     },
@@ -9,20 +21,8 @@
       "path": "100-学习/120-嵌入式/C++嵌入式.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "研究 VSCode 维护公共配置部分",
-      "path": "Templates/Homepage/研究 VSCode 维护公共配置部分.md"
-    },
-    {
-      "basename": "1772.通过指令创建有序数组",
-      "path": "Leetcode/1772.通过指令创建有序数组.md"
     },
     {
       "basename": "和家长同步家教状况",
