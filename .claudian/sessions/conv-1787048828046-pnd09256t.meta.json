@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787048828046-pnd09256t",
+  "providerId": "claude",
+  "title": "Identify current AI model",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787048828049,
+  "updatedAt": 1787049155845,
+  "lastResponseAt": 1787049155845,
+  "sessionId": "64f42c7c-a982-45f9-a020-0d48c7d9195d",
+  "selectedModel": "claude-code/deepseek-v4-pro",
+  "providerState": {
+    "providerSessionId": "64f42c7c-a982-45f9-a020-0d48c7d9195d"
+  },
+  "currentNote": "Templates/Homepage/和家长同步家教状况.md",
+  "usage": {
+    "model": "deepseek-v4-pro",
+    "inputTokens": 126,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 41856,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 41982,
+    "percentage": 21
+  }
+}

@@ -1,6 +1,6 @@
 {
   "userName": "",
-  "permissionMode": "yolo",
+  "permissionMode": "normal",
   "model": "haiku",
   "thinkingBudget": "off",
   "effortLevel": "high",
@@ -32,7 +32,7 @@
       "loadUserSettings": true,
       "enableChrome": false,
       "enableBangBash": false,
-      "customModels": "",
+      "customModels": "deepseek-v4-pro\ndeepseek-v4-flash",
       "lastModel": "haiku",
       "environmentVariables": "",
       "environmentHash": ""
@@ -117,7 +117,7 @@
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {},
   "savedProviderPermissionMode": {
-    "claude": "yolo",
+    "claude": "normal",
     "opencode": "yolo"
   },
   "lastCustomModel": "",
