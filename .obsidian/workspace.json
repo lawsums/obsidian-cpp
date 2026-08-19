@@ -217,7 +217,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -286,7 +287,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -330,9 +332,12 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/思考状压DP.md",
+    "Templates/Tasks.md",
+    "Templates/Homepage/Homepage.md",
+    "Clippings/分享｜从集合论到位运算，常见位运算技巧分类总结！ - 讨论 - 力扣（LeetCode）.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/和家长同步家教状况.md",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/1525.查询带键的排列.md",
     "Leetcode/1525.查询带键的排列.cpp",
     "Templates/Homepage/004_闪念.md",
@@ -348,7 +353,6 @@
     "Leetcode/1772.通过指令创建有序数组.md",
     "Templates/Homepage/研究 VSCode 维护公共配置部分.md",
     "Leetcode/1772.通过指令创建有序数组.cpp",
-    "Templates/Tasks.md",
     "Templates/Homepage/试着用ai去维护一个知识库比如说科研文档or深度学习架构or嵌入式架构orlinux架构.md",
     "100-学习/120-嵌入式/八股文.md",
     "Leetcode/2839.最大和查询.md",
@@ -362,7 +366,6 @@
     "Templates/Homepage/003_不定期任务.md",
     "Software/Vscode-vim.md",
     "Attachments/Pasted image 20260816145841.png",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Leetcode/2333.统计包含每个点的矩形数目.cpp",
     "Leetcode/images/2333_example2.png",
     "Leetcode/images/2333_example1.png",
