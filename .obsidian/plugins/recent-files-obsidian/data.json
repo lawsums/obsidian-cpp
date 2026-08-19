@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
+      "basename": "1487.安排电影院座位",
+      "path": "Leetcode/1487.安排电影院座位.md"
     },
     {
       "basename": "Bootloader",
@@ -195,10 +199,6 @@
     {
       "basename": "复习面试题",
       "path": "Templates/Homepage/复习面试题.md"
-    },
-    {
-      "basename": "创建个人网站",
-      "path": "Templates/创建个人网站.md"
     }
   ],
   "omittedPaths": [],

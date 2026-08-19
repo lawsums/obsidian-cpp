@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787108208275-t32mcinmo",
+  "providerId": "claude",
+  "title": "整理位运算解题笔记以节省空间",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787108208275,
+  "updatedAt": 1787108313695,
+  "lastResponseAt": 1787108313695,
+  "sessionId": "95f0d874-14d2-4423-b6fa-902bec496993",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "95f0d874-14d2-4423-b6fa-902bec496993"
+  },
+  "currentNote": "Leetcode/1487.安排电影院座位.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 5656,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 41472,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 47128,
+    "percentage": 24
+  }
+}
