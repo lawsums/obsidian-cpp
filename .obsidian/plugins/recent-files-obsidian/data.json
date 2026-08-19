@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
       "basename": "Bootloader",
       "path": "100-学习/120-嵌入式/Bootloader.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "研究 VSCode 维护公共配置部分",
       "path": "Templates/Homepage/研究 VSCode 维护公共配置部分.md"
-    },
-    {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "算法路线图",
