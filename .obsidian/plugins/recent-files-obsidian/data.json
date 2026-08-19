@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
+      "basename": "004_闪念",
+      "path": "Templates/Homepage/004_闪念.md"
+    },
+    {
+      "basename": "闪念_随心一念",
+      "path": "Dairies/闪念_随心一念.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "1487.安排电影院座位",
@@ -55,10 +63,6 @@
     {
       "basename": "学习rust",
       "path": "Templates/Homepage/学习rust.md"
-    },
-    {
-      "basename": "004_闪念",
-      "path": "Templates/Homepage/004_闪念.md"
     },
     {
       "basename": "FreeRTOS下UART的封装源码",
@@ -195,10 +199,6 @@
     {
       "basename": "100325.解密数字",
       "path": "Leetcode/100325.解密数字.md"
-    },
-    {
-      "basename": "复习面试题",
-      "path": "Templates/Homepage/复习面试题.md"
     }
   ],
   "omittedPaths": [],

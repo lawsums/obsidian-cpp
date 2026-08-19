@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787134488524-8ydngan08",
+  "providerId": "claude",
+  "title": "Write English learning feedback report",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787134488525,
+  "updatedAt": 1787134547048,
+  "lastResponseAt": 1787134547048,
+  "sessionId": "71133490-14f5-4e1d-82cc-0f526da4c7e0",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "71133490-14f5-4e1d-82cc-0f526da4c7e0"
+  },
+  "currentNote": "Templates/Homepage/和家长同步家教状况.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1483,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35456,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 36939,
+    "percentage": 18
+  }
+}
