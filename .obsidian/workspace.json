@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "0daddc621f97dfc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/1525.查询带键的排列.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1525.查询带键的排列"
+            }
+          },
+          {
             "id": "2e7963b1451e1408",
             "type": "leaf",
             "state": {
@@ -151,7 +175,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -295,13 +320,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Leetcode/1525.查询带键的排列.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "1525.查询带键的排列 的大纲"
             }
           },
           {
@@ -376,10 +401,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "0daddc621f97dfc8",
   "lastOpenFiles": [
-    "Templates/Homepage/和家长同步家教状况.md",
+    "Leetcode/1525.查询带键的排列.cpp",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/1525.查询带键的排列.md",
+    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/004_闪念.md",
     "Dairies/闪念_随心一念.md",
@@ -409,11 +436,9 @@
     "Software/Vscode-vim.md",
     "Attachments/Pasted image 20260816145841.png",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
-    "Leetcode/2333.统计包含每个点的矩形数目.md",
     "Leetcode/2333.统计包含每个点的矩形数目.cpp",
     "Leetcode/images/2333_example2.png",
     "Leetcode/images/2333_example1.png",
-    "100-学习/110-计算机/设计模式/Example-硬件适配层.md",
     "Attachments/Pasted image 20260815170721.png",
     "Attachments/Pasted image 20260815170204.png",
     "Configs/move_dir.bat",

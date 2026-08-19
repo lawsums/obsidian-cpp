@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787141364596-rfeleime0",
+  "providerId": "claude",
+  "title": "Organize Fenwick tree note with practice questions",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787141364597,
+  "updatedAt": 1787141509345,
+  "lastResponseAt": 1787141509345,
+  "sessionId": "4fd7fd6e-9c6a-4bc4-9b00-0e7682133054",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4fd7fd6e-9c6a-4bc4-9b00-0e7682133054"
+  },
+  "currentNote": "Leetcode/1525.查询带键的排列.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 161,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 50944,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 51105,
+    "percentage": 26
+  }
+}

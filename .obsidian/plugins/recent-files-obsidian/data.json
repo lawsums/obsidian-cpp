@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "1525.查询带键的排列",
+      "path": "Leetcode/1525.查询带键的排列.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1517.恢复数组",
       "path": "Leetcode/1517.恢复数组.md"
-    },
-    {
-      "basename": "100325.解密数字",
-      "path": "Leetcode/100325.解密数字.md"
     }
   ],
   "omittedPaths": [],
