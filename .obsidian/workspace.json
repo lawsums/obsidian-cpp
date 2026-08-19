@@ -103,7 +103,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -248,13 +249,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/用ai产出创意内容.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "用ai产出创意内容 的大纲"
             }
           },
           {
@@ -330,11 +331,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "efec5b520167b4b4",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Templates/思考状压DP.md",
     "Templates/Tasks.md",
-    "Templates/Homepage/Homepage.md",
     "Clippings/分享｜从集合论到位运算，常见位运算技巧分类总结！ - 讨论 - 力扣（LeetCode）.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/和家长同步家教状况.md",

@@ -11,6 +11,13 @@
 做修改器
 
 # 2 工作流
+## 2.1 游戏工作流（必看）
+1. 给 ai 找好工具
+   好马配好鞍，harness 就是好马，skill 和 mcp 就是好鞍
+2. 启用 grill-me 首先商量好
+3. 制作 mcp 验证可行性，不可行直接毙掉这个项目
+4. 可行之后分模块逐步推进
+
 - [x] 写教程工作流
 [Hermes+Obsidian+LLM wkii，构建AI知识库_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV16hZFB5ERM/?spm_id_from=333.1391.0.0&vd_source=cf6228c0b4a5c283905e22fd11934994)
 [WorkBuddy 使用手册与实战指南｜27 章完整目录](https://workbuddy.homes/bluebook/)
@@ -60,6 +67,9 @@
 
 ---
 ## 3.2 进程
+- [ ] 灭门轮回
+	- [ ] 字幕应该单独制作一个对话框显示，现在太丑陋
+	- [ ] 选项应该显示在屏幕中间，ui风格和对话框一样
 - [ ] 2048
 	- [x] 提升手感
 		- [x] 增加震动
