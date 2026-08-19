@@ -84,7 +84,8 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-19
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-20
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-19 ✅ 2026-08-19
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-18 ✅ 2026-08-18
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-17 ✅ 2026-08-17
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-16 ✅ 2026-08-16
@@ -410,7 +411,7 @@ sort by description
 - [ ] 给新手机安装 Obsidian #mobile #obsidian 🛫 2026-08-20 ⏳ 2026-08-20 📅 2026-08-20 ➕ 2026-08-18 ^task-20260818-78c7e89d
 - [ ] 给新手机安装 Notion 并对比 #notion #手机 🔼 🛫 2026-08-20 ⏳ 2026-08-20 📅 2026-08-20 ➕ 2026-08-18 ^task-20260818-a45c817e
 - [ ] 转账3000元至工行卡用于缴纳学费 #财务 #学费 #银行 ⏫ 🛫 2026-08-20 ⏳ 2026-08-20 📅 2026-08-20 ➕ 2026-08-19 ^task-20260819-98aaa565
-- [ ] 洗澡 #日常 🔺 ➕ 2026-08-19 🛫 2026-08-19 ⏳ 2026-08-19 ^task-20260819-ff4e03a1
+- [x] 洗澡 #日常 🔺 ➕ 2026-08-19 🛫 2026-08-19 ⏳ 2026-08-19 ✅ 2026-08-19 ^task-20260819-ff4e03a1
 - [x] 帮老妈拿快递 #家庭 ⏫ ➕ 2026-08-19 🛫 2026-08-19 ⏳ 2026-08-19 📅 2026-08-19 ✅ 2026-08-19 ^task-20260819-7af72179
 - [x] 烧饭 #生活 ⏫ ➕ 2026-08-19 🛫 2026-08-19 ⏳ 2026-08-19 📅 2026-08-19 ✅ 2026-08-19 ^task-20260819-343c9145
 - [ ] 下载 Google Play 商店 #app 🛫 2026-08-20 ⏳ 2026-08-20 📅 2026-08-20 ➕ 2026-08-19 ^task-20260819-a498f363
