@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "309.买卖股票的最佳时机含冷冻期",
       "path": "Leetcode/309.买卖股票的最佳时机含冷冻期.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
     }
   ],
   "omittedPaths": [],
