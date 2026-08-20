@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "研究直接对小智AI做二次开发",
+      "path": "Templates/研究直接对小智AI做二次开发.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "思考状压DP",
@@ -45,20 +57,12 @@
       "path": "100-学习/120-嵌入式/C++嵌入式.md"
     },
     {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
       "basename": "1772.通过指令创建有序数组",
       "path": "Leetcode/1772.通过指令创建有序数组.md"
     },
     {
       "basename": "研究 VSCode 维护公共配置部分",
       "path": "Templates/Homepage/研究 VSCode 维护公共配置部分.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "八股文",
@@ -195,10 +199,6 @@
     {
       "basename": "框架梳理",
       "path": "300-项目/嵌入式/FreeRTOS快速入门/框架梳理.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/Bootloader驱动开发/框架梳理.md"
     }
   ],
   "omittedPaths": [],
