@@ -142,7 +142,8 @@ sort by description
 - [x] 加牛客佬微信 #task 🔼 ➕ 2026-07-15 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260715-93cb29d3
 - [x] 给家长反馈 #task 🔼 ➕ 2026-07-16 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260716-36bc1ba4
 - [x] 去南图坐坐 #library 🔼 ➕ 2026-07-16 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260716-42dd28dc
-- [ ] 写一个[dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) 🔼 🔁 every day ⏳ 2026-08-20
+- [ ] 写一个[dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) 🔼 🔁 every day ⏳ 2026-08-21
+- [x] 写一个[dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) 🔼 🔁 every day ⏳ 2026-08-20 ✅ 2026-08-20
 - [x] 写一个[dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) 🔼 🔁 every day ⏳ 2026-08-19 ✅ 2026-08-19
 - [x] 写一个[dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) 🔼 🔁 every day ⏳ 2026-08-18 ✅ 2026-08-18
 - [x] 写一个[dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) 🔼 🔁 every day ⏳ 2026-08-17 ✅ 2026-08-17
@@ -352,7 +353,8 @@ sort by description
 - [x] 备课 #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-9f3e6aef
 - [x] 让老妈买纸 #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260812-50c81cd2
 - [x] 获取 [workbuddy 蓝皮书](https://docs.qq.com/doc/DSFFMTFhFQ1hZZ096?nlc=1) #work 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-2dacb169
-- [ ] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-20
+- [ ] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-21
+- [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-20 ✅ 2026-08-20
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-19 ✅ 2026-08-19
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-18 ✅ 2026-08-18
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-17 ✅ 2026-08-17
@@ -363,7 +365,8 @@ sort by description
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ➕ 2026-08-12 ⏳ 2026-08-12 ✅ 2026-08-12 ^task-20260812-b13f0a8f
 - [x] 将bootloader题目加入Anki #anki #bootloader 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-bb4f9a4a
 - [x] 学习 FreeRTOS #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-f179f79b
-- [ ] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-20
+- [ ] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-21
+- [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-20 ✅ 2026-08-20
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-19 ✅ 2026-08-19
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-18 ✅ 2026-08-18
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-17 ✅ 2026-08-17
@@ -383,7 +386,8 @@ sort by description
 - [x] 清理C盘 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260814-6def903c
 - [x] 清理G盘 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260814-6965e688
 - [x] 重新安上插件 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260814-f9e95368
-- [ ] 了解[[C++嵌入式]] 🔼 🔁 every day 🛫 2026-08-18 ⏳ 2026-08-20
+- [ ] 了解[[C++嵌入式]] 🔼 🔁 every day 🛫 2026-08-19 ⏳ 2026-08-21
+- [x] 了解[[C++嵌入式]] 🔼 🔁 every day 🛫 2026-08-18 ⏳ 2026-08-20 ✅ 2026-08-20
 - [x] 了解[[C++嵌入式]] 🔼 🔁 every day 🛫 2026-08-17 ⏳ 2026-08-19 ✅ 2026-08-19
 - [x] 了解[[C++嵌入式]] 🔼 🔁 every day ➕ 2026-08-14 🛫 2026-08-16 ⏳ 2026-08-18 ✅ 2026-08-18 ^task-20260814-9af7cfa7
 - [x] 回东哥消息 #task 🔼 ➕ 2026-08-15 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260815-b6f69bc1
@@ -411,7 +415,7 @@ sort by description
 - [x] 测试 deepseek harness #ai #testing ➕ 2026-08-18 🛫 2026-08-19 ⏳ 2026-08-19 📅 2026-08-19 ✅ 2026-08-19 ^task-20260818-4dcada73
 - [x] 给新手机安装 Anki #app #anki #mobile ➕ 2026-08-18 🛫 2026-08-19 ⏳ 2026-08-19 📅 2026-08-19 ✅ 2026-08-19 ^task-20260818-efb0e02a
 - [x] 给新手机安装 Obsidian #mobile #obsidian ➕ 2026-08-18 🛫 2026-08-20 ⏳ 2026-08-20 📅 2026-08-20 ✅ 2026-08-20 ^task-20260818-78c7e89d
-- [ ] 给新手机安装 Notion 并对比 #notion #手机 🔼 ➕ 2026-08-18 🛫 2026-08-20 ⏳ 2026-08-20 📅 2026-08-21 ^task-20260818-a45c817e
+- [ ] 给新手机安装 Notion 并对比 #notion #手机 🔼 ➕ 2026-08-18 🛫 2026-08-20 📅 2026-08-21 ^task-20260818-a45c817e
 - [x] 转账3000元至工行卡用于缴纳学费 #财务 #学费 #银行 ⏫ ➕ 2026-08-19 🛫 2026-08-20 ⏳ 2026-08-20 📅 2026-08-20 ✅ 2026-08-20 ^task-20260819-98aaa565
 - [x] 洗澡 #日常 🔺 ➕ 2026-08-19 🛫 2026-08-19 ⏳ 2026-08-19 ✅ 2026-08-19 ^task-20260819-ff4e03a1
 - [x] 帮老妈拿快递 #家庭 ⏫ ➕ 2026-08-19 🛫 2026-08-19 ⏳ 2026-08-19 📅 2026-08-19 ✅ 2026-08-19 ^task-20260819-7af72179
@@ -420,8 +424,8 @@ sort by description
 - [ ] 研究 Obsidian 同步 #obsidian 🔺 ➕ 2026-08-19 🛫 2026-08-20 ⏳ 2026-08-20 ^task-20260819-c440491e
 - [ ] 看完 ov-watch 教程 #ov-watch #教程 ⏫ ➕ 2026-08-19 🛫 2026-08-19 ⏳ 2026-08-21 ^task-20260819-646eea58
 - [ ] 清理G盘至90GB，迁移7-Zip临时文件夹至G盘，并解压虚拟机到H盘 #disk #7z #vm ⏫ 🛫 2026-08-20 ⏳ 2026-08-20 📅 2026-08-20 ➕ 2026-08-19 ^task-20260819-3e8d504e
-- [ ] [[思考状压DP]] #algorithm #dp 🛫 2026-08-20 ⏳ 2026-08-20 ➕ 2026-08-19 ^task-20260819-7d7f683f
+- [ ] [[思考状压DP]] #algorithm #dp 🔺 ➕ 2026-08-19 🛫 2026-08-20 ⏳ 2026-08-20 ^task-20260819-7d7f683f
 - [x] 提醒小姐收钱 #财务 #提醒 ➕ 2026-08-19 🛫 2026-08-20 ⏳ 2026-08-20 ✅ 2026-08-20 ^task-20260819-419dd275
 - [ ] [[研究直接对小智AI做二次开发]]（ESP32-Agent掌机方向） #ai #esp32 #嵌入式 #二次开发 🛫 2026-08-21 ⏳ 2026-08-21 ➕ 2026-08-19 ^task-20260819-5dc5ffa3
 - [ ] 通过 Google Play 下载 Google 语音并测试 Anki TTS 调用 #anki #tts #android ⏫ 🛫 2026-08-21 ⏳ 2026-08-21 📅 2026-08-21 ➕ 2026-08-20 ^task-20260820-a0947f51
-- [ ] 尝试调用 mimo 模型 #ai #mimo #实验 🛫 2026-08-20 ⏳ 2026-08-20 ➕ 2026-08-20 ^task-20260820-ed7cf0f5
+- [x] 尝试调用 mimo 模型 #ai #mimo #实验 ➕ 2026-08-20 🛫 2026-08-20 ⏳ 2026-08-20 ✅ 2026-08-20 ^task-20260820-ed7cf0f5
