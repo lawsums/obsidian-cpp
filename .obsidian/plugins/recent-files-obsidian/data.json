@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "1525.查询带键的排列",
+      "path": "Leetcode/1525.查询带键的排列.md"
     },
     {
       "basename": "实现自己的数据结构",
@@ -27,14 +35,6 @@
     {
       "basename": "思考状压DP",
       "path": "Templates/思考状压DP.md"
-    },
-    {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
-      "basename": "1525.查询带键的排列",
-      "path": "Leetcode/1525.查询带键的排列.md"
     },
     {
       "basename": "004_闪念",
