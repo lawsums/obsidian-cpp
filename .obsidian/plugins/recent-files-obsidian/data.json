@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Rust嵌入式",
-      "path": "100-学习/120-嵌入式/Rust嵌入式.md"
+      "basename": "学习rust",
+      "path": "Templates/Homepage/学习rust.md"
     },
     {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
+      "basename": "Rust嵌入式",
+      "path": "100-学习/120-嵌入式/Rust嵌入式.md"
     },
     {
       "basename": "Homepage",
@@ -87,10 +91,6 @@
     {
       "basename": "2839.最大和查询",
       "path": "Leetcode/2839.最大和查询.md"
-    },
-    {
-      "basename": "学习rust",
-      "path": "Templates/Homepage/学习rust.md"
     },
     {
       "basename": "FreeRTOS下UART的封装源码",
