@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "004_闪念",
       "path": "Templates/Homepage/004_闪念.md"
+    },
+    {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
     },
     {
       "basename": "算法路线图",
@@ -35,10 +39,6 @@
     {
       "basename": "1525.查询带键的排列",
       "path": "Leetcode/1525.查询带键的排列.md"
-    },
-    {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "实现自己的数据结构",

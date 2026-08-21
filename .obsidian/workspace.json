@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "f94e90364a640a55",
+            "id": "327a39c9c0bc1847",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
+                "file": "Templates/Homepage/和家长同步家教状况.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "路线梳理"
+              "title": "和家长同步家教状况"
             }
           },
           {
@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "路线梳理 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -380,20 +379,22 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f94e90364a640a55",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20260821103115.png",
+    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/004_闪念.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Attachments/Pasted image 20260821113930.png",
+    "Attachments/Pasted image 20260821103115.png",
     "Templates/思考状压DP.md",
     "Templates/Tasks.md",
-    "Templates/Homepage/004_闪念.md",
     "Leetcode/算法路线图.md",
     "100-学习/110-计算机/代码模版/小知识/容斥原理.md",
     "100-学习/120-嵌入式/C++嵌入式.md",
     "Dairies/2026-08-21.md",
     "100-学习/120-嵌入式/Rust嵌入式.md",
     "Leetcode/1525.查询带键的排列.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/2026-08-20.md",
     "Templates/Homepage/学习C++.md",
@@ -423,8 +424,6 @@
     "Attachments/Pasted image 20260815170204.png",
     "Configs/move_dir.bat",
     "Configs/新建 文本文档.txt",
-    "Attachments/Pasted image 20260814113846.png",
-    "Attachments/Pasted image 20260814113612.png",
     "Leetcode/3350.将元素分配到两个数组中 II.cpp",
     "Leetcode/2319.由单个字符重复的最长子字符串.cpp",
     "300-项目/嵌入式/韦东山课程",
