@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -379,16 +378,16 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "2148a396936e65ac",
+  "active": "944cd14a7fae27b7",
   "lastOpenFiles": [
+    "Templates/思考状压DP.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Tasks.md",
     "Templates/Homepage/004_闪念.md",
     "Leetcode/算法路线图.md",
-    "Templates/Tasks.md",
     "100-学习/110-计算机/代码模版/小知识/容斥原理.md",
     "100-学习/120-嵌入式/C++嵌入式.md",
     "Dairies/2026-08-21.md",
-    "Templates/思考状压DP.md",
     "100-学习/120-嵌入式/Rust嵌入式.md",
     "Leetcode/1525.查询带键的排列.md",
     "Templates/Homepage/和家长同步家教状况.md",
