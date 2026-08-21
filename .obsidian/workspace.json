@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "框架梳理 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -312,7 +311,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -355,10 +355,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "10e1947767399a6e",
+  "active": "170ca7f1d5ef7d93",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
+    "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "Templates/Homepage/004_闪念.md",
+    "Templates/Homepage/Homepage.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "100-学习/110-计算机/语言/Rust",
     "Templates/Homepage/和家长同步家教状况.md",
