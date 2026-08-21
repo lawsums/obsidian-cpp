@@ -217,7 +217,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -331,11 +332,15 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Leetcode/算法路线图.md",
+    "Templates/Tasks.md",
     "Templates/Homepage/Homepage.md",
+    "100-学习/110-计算机/代码模版/小知识/容斥原理.md",
+    "100-学习/120-嵌入式/C++嵌入式.md",
+    "Dairies/2026-08-21.md",
     "Templates/思考状压DP.md",
     "Templates/Homepage/004_闪念.md",
     "100-学习/120-嵌入式/Rust嵌入式.md",
-    "Templates/Tasks.md",
     "Leetcode/1525.查询带键的排列.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Dairies/实现自己的数据结构.md",
@@ -346,13 +351,11 @@
     "Clippings/分享｜从集合论到位运算，常见位运算技巧分类总结！ - 讨论 - 力扣（LeetCode）.md",
     "Leetcode/1525.查询带键的排列.cpp",
     "Dairies/闪念_随心一念.md",
-    "Leetcode/算法路线图.md",
     "Leetcode/1487.安排电影院座位.md",
     "Leetcode/1487.安排电影院座位.cpp",
     "Leetcode/images/1487_cinema_seats_3.png",
     "Leetcode/images/1487_cinema_seats_1.png",
     "100-学习/120-嵌入式/Bootloader.md",
-    "100-学习/120-嵌入式/C++嵌入式.md",
     "Leetcode/1772.通过指令创建有序数组.md",
     "Templates/Homepage/研究 VSCode 维护公共配置部分.md",
     "Leetcode/1772.通过指令创建有序数组.cpp",
@@ -362,8 +365,6 @@
     "Leetcode/2839.最大和查询.cpp",
     "Templates/Homepage/学习rust.md",
     "Attachments/Pasted image 20260817210129.png",
-    "300-项目/第二轮面试/车载终端/2026-05-14-anki.md",
-    "Dairies/2026-08-17.md",
     "Attachments/Pasted image 20260816145841.png",
     "Leetcode/2333.统计包含每个点的矩形数目.cpp",
     "Leetcode/images/2333_example2.png",

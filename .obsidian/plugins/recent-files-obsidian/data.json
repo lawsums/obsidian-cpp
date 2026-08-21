@@ -5,8 +5,16 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
+    },
+    {
+      "basename": "容斥原理",
+      "path": "100-学习/110-计算机/代码模版/小知识/容斥原理.md"
     },
     {
       "basename": "思考状压DP",
@@ -47,10 +55,6 @@
     {
       "basename": "闪念_随心一念",
       "path": "Dairies/闪念_随心一念.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "1487.安排电影院座位",
@@ -195,10 +199,6 @@
     {
       "basename": "八股文",
       "path": "100-学习/110-计算机/八股文/八股文.md"
-    },
-    {
-      "basename": "309.买卖股票的最佳时机含冷冻期",
-      "path": "Leetcode/309.买卖股票的最佳时机含冷冻期.md"
     }
   ],
   "omittedPaths": [],
