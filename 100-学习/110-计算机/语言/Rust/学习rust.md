@@ -22,11 +22,13 @@
 	- [x] 结构体 ✅ 2026-08-16
 	- [ ] 枚举
 	- [ ] 数组
-- [ ] 流程控制
+- [x] 流程控制 ✅ 2026-08-21
 - [ ] 模式匹配
 - [x] 方法 Method ✅ 2026-08-21
 - [ ] 泛型和特征
 - [ ] 集合类型
+	- [x] Vector ✅ 2026-08-21
+	- [ ] HashMap
 - [ ] 认识生命周期
 - [ ] 返回值和错误处理
 - [ ] 包和模块
@@ -441,11 +443,306 @@ fn main() {
 }
 ```
 
-## 2.4 格式化输出
+## 2.4 集合类型
+### 2.4.1 Vector
+#### 2.4.1.1 申请方式
+
+有两种方式创建动态数组：
+
+```rust
+// 方式一：使用 vec![] 宏，在初始化的同时完成赋值
+let v = vec![1, 2, 3];
+
+// 方式二：使用 Vec::new()，创建空的动态数组
+let mut v: Vec<i32> = Vec::new();
+```
+
+> 注意：`Vec::new()` 创建的是空数组，元素类型通常需要由后续操作（如 `push`）推断；如果编译器无法推断，就需要手动添加类型标注，例如 `let mut v: Vec<i32> = Vec::new();`。
+
+#### 2.4.1.2 推入元素
+
+使用 `push` 方法在数组尾部追加元素，需要 `v` 声明为可变的（`mut`）：
+
+```rust
+let mut v = Vec::new();
+v.push(1);
+v.push(2);
+v.push(3);
+```
+
+#### 2.4.1.3 读取元素
+
+读取元素有两种方式：
+
+1. `&v[index]`：直接使用索引访问，**越界会直接 panic（程序崩溃）**
+2. `v.get(index)`：返回 `Option<&T>`，越界时返回 `None`，**不会 panic**，需要自己处理 `None` 的情况
+
+```rust
+let v = vec![1, 2, 3, 4, 5];
+
+// 方式一：&v[index]，越界会 panic
+let third: &i32 = &v[2];
+println!("第三个元素是 {third}");
+
+// 方式二：v.get(index)，越界返回 None，更安全
+match v.get(2) {
+    Some(third) => println!("第三个元素是 {third}"),
+    None => println!("没有第三个元素"),
+}
+
+// 越界访问对比（下面两行是两种方式，分别运行观察结果）
+let does_not_exist = &v[100];      // panic: index out of bounds
+let does_not_exist = v.get(100);   // 返回 None，不会 panic
+```
+
+> 类比 C++：`&v[index]` 与 C++ 的 `v.at(index)` 类似——越界都会报错（C++ 抛异常，Rust 直接 panic）；`v.get(index)` 则相当于更安全的版本，把「越界」变成了可处理的 `None`。注意 C++ 的 `v[i]` 越界是未定义行为，而 Rust 中 `&v[index]` 越界会明确 panic，不存在未定义行为。
+
+#### 2.4.1.4 同时借用多个数组元素
+
+先看下面的代码，它试图同时进行不可变借用和可变借用：
+
+```rust
+let mut v = vec![1, 2, 3, 4, 5];
+
+let first = &v[0];   // 对 v 的不可变借用
+
+v.push(6);           // 对 v 的可变借用 —— 报错！
+
+println!("The first element is: {first}");
+```
+
+编译时会报错：
+
+```text
+error[E0502]: cannot borrow `v` as mutable because it is also borrowed as immutable
+```
+
+原因：`first` 是对数组第一个元素的**不可变借用**，而 `v.push(6)` 需要的是对 `v` 的**可变借用**，两者不能同时存在（借用规则：同一时刻只能有一个可变借用，或多个不可变借用，但两者不能混用）。
+
+更深层的原因是：动态数组的大小是可变的，当容量不足时，Rust 会重新申请一块更大的内存并把旧元素拷贝过去。此时旧的引用 `first` 会指向被释放的内存，成为悬垂指针。因此 Rust 编译器在编译期就拦截了这种写法，保证内存安全。
+
+#### 2.4.1.5 迭代遍历 Vector 中的元素
+
+如果想要依次访问数组中的元素，可以使用迭代的方式去遍历数组，这种方式比用下标的方式去遍历数组更安全也更高效（每次下标访问都会触发数组边界检查）：
+
+```rust
+let v = vec![1, 2, 3];
+for i in &v {
+    println!("{i}");
+}
+```
+
+也可以在迭代过程中，修改 Vector 中的元素：
+
+```rust
+let mut v = vec![1, 2, 3];
+for i in &mut v {
+    *i += 10;
+}
+```
+
+#### 2.4.1.6 存储不同类型对象
+
+可以通过使用[[枚举类型]]和[[特征对象]]来实现不同类型元素的存储。
+
+以枚举方式为例：先把所有可能出现的类型统一到一个枚举中，再存入 `Vec`：
+
+```rust
+#[derive(Debug)]
+enum IpAddr {
+    V4(String),
+    V6(String),
+}
+
+fn main() {
+    let v = vec![
+        IpAddr::V4("127.0.0.1".to_string()),
+        IpAddr::V6("::1".to_string()),
+    ];
+
+    for ip in v {
+        show_addr(ip);
+    }
+}
+
+fn show_addr(ip: IpAddr) {
+    println!("{:?}", ip);
+}
+```
+
+特征对象（`Box<dyn Trait>`）的方式更灵活，但需要先掌握[[特征对象]]。
+
+#### 2.4.1.7 排序
+
+**整数数组排序** — 整数类型实现了 `Ord`（全序比较），可以直接调用 `sort_unstable()`：
+
+```rust
+fn main() {
+    let mut vec = vec![1, 5, 10, 2, 15];
+    vec.sort_unstable();
+    assert_eq!(vec, vec![1, 2, 5, 10, 15]);
+}
+```
+
+**浮点数数组排序** — 我们尝试使用同样的方法来对浮点数进行排序：
+
+```rust
+fn main() {
+    let mut vec = vec![1.0, 5.6, 10.3, 2.0, 15f32];
+    vec.sort_unstable();
+    assert_eq!(vec, vec![1.0, 2.0, 5.6, 10.3, 15f32]);
+}
+```
+
+结果，居然报错了：
+
+```text
+error[E0277]: the trait bound `f32: Ord` is not satisfied
+    --> src/main.rs:29:13
+     |
+29   |         vec.sort_unstable();
+     |             ^^^^^^^^^^^^^ the trait `Ord` is not implemented for `f32`
+     |
+     = help: the following other types implement trait `Ord`:
+               i128
+               i16
+               i32
+               i64
+               i8
+               isize
+               u128
+               u16
+               ...
+note: required by a bound in `core::slice::sort_unstable`
+    --> .../library/core/src/slice/mod.rs:2635:12
+     |
+2635 |         T: Ord,
+     |            ^^^ required by this bound in `core::slice::sort_unstable`
+
+For more information about this error, try `rustc --explain E0277`.
+```
+
+原因：浮点数中存在 `NaN`（Not a Number），它无法与其它浮点数进行大小比较，因此浮点类型没有实现全序比较 `Ord`，只实现了部分比较 `PartialOrd`。
+
+如果确定数组中不包含 `NaN` 值，就可以使用 `partial_cmp` 作为大小比较的依据：
+
+```rust
+fn main() {
+    let mut vec = vec![1.0, 5.6, 10.3, 2.0, 15f32];
+    vec.sort_unstable_by(|a, b| a.partial_cmp(b).unwrap());
+    assert_eq!(vec, vec![1.0, 2.0, 5.6, 10.3, 15f32]);
+}
+```
+
+现在可以正确执行了。
+
+**结构体数组排序** — 结构体默认没有实现 `Ord`，可以像浮点数一样，通过 `sort_unstable_by` 自定义比较函数。例如按照年龄倒序排序：
+
+```rust
+#[derive(Debug)]
+struct Person {
+    name: String,
+    age: u32,
+}
+
+impl Person {
+    fn new(name: String, age: u32) -> Person {
+        Person { name, age }
+    }
+}
+
+fn main() {
+    let mut people = vec![
+        Person::new("Zoe".to_string(), 25),
+        Person::new("Al".to_string(), 60),
+        Person::new("John".to_string(), 1),
+    ];
+    // 定义一个按照年龄倒序排序的对比函数
+    people.sort_unstable_by(|a, b| b.age.cmp(&a.age));
+
+    println!("{:?}", people);
+}
+```
+
+执行后输出：
+
+```text
+[Person { name: "Al", age: 60 }, Person { name: "Zoe", age: 25 }, Person { name: "John", age: 1 }]
+```
+
+结果正确。
+
+> 总结：`sort_unstable()` / `sort()` 要求元素实现 `Ord`（全序比较）。整数满足；浮点数因为 `NaN` 的存在只实现了 `PartialOrd`；结构体默认不实现——后两者都需要借助 `sort_unstable_by()` / `sort_by()` 传入自定义比较函数。
+
+#### 2.4.1.8 Vector 常用方法
+
+**初始化 vec 的更多方式：**
+
+```rust
+fn main() {
+    let v = vec![0; 3];   // 默认值为 0，初始长度为 3
+    let v_from = Vec::from([0, 0, 0]);
+    assert_eq!(v, v_from);
+}
+```
+**容量管理（扩容机制）** — 动态数组在增加元素时，如果容量不足就会扩容（目前策略是重新申请一块 2 倍大小的内存，再将所有元素拷贝到新的内存位置，同时更新指针数据）。频繁扩容或元素较多时，大量的内存拷贝会降低程序性能。
+
+可以考虑在初始化时就指定一个实际的预估容量，尽量减少内存拷贝：
+
+```rust
+fn main() {
+    let mut v = Vec::with_capacity(10);
+    v.extend([1, 2, 3]);    // 附加数据到 v
+    println!("Vector 长度是: {}, 容量是: {}", v.len(), v.capacity());
+
+    v.reserve(100);        // 调整 v 的容量，至少要有 100 的容量
+    println!("Vector（reserve） 长度是: {}, 容量是: {}", v.len(), v.capacity());
+
+    v.shrink_to_fit();     // 释放剩余的容量，一般情况下，不会主动去释放容量
+    println!("Vector（shrink_to_fit） 长度是: {}, 容量是: {}", v.len(), v.capacity());
+}
+```
+**常见方法示例：**
+
+```rust
+let mut v = vec![1, 2];
+assert!(!v.is_empty());         // 检查 v 是否为空
+
+v.insert(2, 3);                 // 在指定索引插入数据，索引值不能大于 v 的长度，v: [1, 2, 3]
+assert_eq!(v.remove(1), 2);     // 移除指定位置的元素并返回, v: [1, 3]
+assert_eq!(v.pop(), Some(3));   // 删除并返回 v 尾部的元素，v: [1]
+assert_eq!(v.pop(), Some(1));   // v: []
+assert_eq!(v.pop(), None);      // 记得 pop 方法返回的是 Option 枚举值
+v.clear();                      // 清空 v, v: []
+
+let mut v1 = [11, 22].to_vec(); // append 操作会导致 v1 清空数据，需要可变声明
+v.append(&mut v1);              // 将 v1 中的所有元素附加到 v 中, v1: []
+v.truncate(1);                  // 截断到指定长度，多余的元素被删除, v: [11]
+v.retain(|x| *x > 10);          // 保留满足条件的元素，即删除不满足条件的元素
+
+let mut v = vec![11, 22, 33, 44, 55];
+// 删除指定范围的元素，同时获取被删除元素的迭代器, v: [11, 55], m: [22, 33, 44]
+let mut m: Vec<_> = v.drain(1..=3).collect();
+
+let v2 = m.split_off(1);        // 指定索引处切分成两个 vec, m: [22], v2: [33, 44]
+```
+当然也可以像数组切片的方式获取 vec 的部分元素：
+
+```rust
+fn main() {
+    let v = vec![11, 22, 33, 44, 55];
+    let slice = &v[1..=3];
+    assert_eq!(slice, &[22, 33, 44]);
+}
+```
+
+更多细节，阅读 [Vector 的标准库文档](https://doc.rust-lang.org/std/vec/struct.Vec.html)。
+
+## 2.5 格式化输出
 格式化输出主要使用 println! 和 print!，还有 format! 这个函数。
 打印错误的话主要有 eprint! 和 eprintln!
 
-### 2.4.1 `{}` 与 `{:?}`
+### 2.5.1 `{}` 与 `{:?}`
 
 与其它语言常用的 `%d`，`%s` 不同，Rust 特立独行地选择了 `{}` 作为格式化占位符（说到这个，有点想吐槽下，Rust 中自创的概念其实还挺多的，真不知道该夸奖还是该吐槽-,-），事实证明，这种选择非常正确，它帮助用户减少了很多使用成本，你无需再为特定的类型选择特定的占位符，统一用 `{}` 来替代即可，剩下的类型推导等细节只要交给 Rust 去做。
 
@@ -458,7 +755,7 @@ fn main() {
 
 `{:#?}` 与 `{:?}` 几乎一样，唯一的区别在于它能更优美地输出内容：
 
-### 2.4.2 位置参数和格式化参数
+### 2.5.2 位置参数和格式化参数
 Rust 在打印的时候，大括号中间有一个冒号。冒号前面放的是位置参数，用于把格式化字符串之后的所有输入当做参数列表，然后从 0 开始。所以位置参数填 0 的话，就会调用 0 位置的那个参数，而与这个大括号的位置无关。可能有很多个大括号，但是你在最后一个大括号填 0 的话，它还是获取位置为 0 的参数，这个就是位置参数。
 
 然后我们其实不一定一定要使用位置参数，我们还可以使用命名参数，就是给后面的参数起个名，写一个 a=什么什么，然后就可以在前面位置参数的地方填 a。

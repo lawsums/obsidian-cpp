@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "004_闪念",
+      "path": "Templates/Homepage/004_闪念.md"
+    },
+    {
       "basename": "学习rust",
-      "path": "Templates/Homepage/学习rust.md"
+      "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
     },
     {
       "basename": "和家长同步家教状况",
@@ -11,14 +19,6 @@
     {
       "basename": "Rust嵌入式",
       "path": "100-学习/120-嵌入式/Rust嵌入式.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
-      "basename": "004_闪念",
-      "path": "Templates/Homepage/004_闪念.md"
     },
     {
       "basename": "路线梳理",

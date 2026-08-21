@@ -53,8 +53,8 @@
   "100-学习/110-计算机/代码模版": "LiClipboardEdit",
   "100-学习/110-计算机/设计模式": "LiSidebarToggleButtonIcon",
   "100-学习/110-计算机/网络技术": "LiNetwork",
-  "100-学习/110-计算机/语言特性": "LiTableProperties",
   "100-学习/110-计算机/数据结构": "LiList",
   "300-项目": "LiAppWindow",
-  "300-项目/数据库": "LiDatabase"
+  "300-项目/数据库": "LiDatabase",
+  "100-学习/110-计算机/语言": "LiTableProperties"
 }

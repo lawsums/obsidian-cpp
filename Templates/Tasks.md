@@ -19,7 +19,8 @@ sort by description
 - [x] 问问罗余娜成绩 #task 🔼 ➕ 2026-07-05 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260705-531e078f
 - [x] 充值梯子会员 #network 🔼 ➕ 2026-07-05 ⏳ 2026-07-06 ✅ 2026-07-06 ^task-20260705-985a9e6
 - [x] 给sly打电话 #task 🔼 ➕ 2026-07-05 ⏳ 2026-07-06 ✅ 2026-07-06 ^task-20260705-247bba30
-- [ ] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-21
+- [ ] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-22
+- [x] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-21 ✅ 2026-08-21
 - [x] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-20 ✅ 2026-08-20
 - [x] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-19 ✅ 2026-08-19
 - [x] [[和家长同步家教状况]] #task 🔺 🔁 every day ⏳ 2026-08-18 ✅ 2026-08-18
@@ -85,7 +86,8 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-21
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-22
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-21 ✅ 2026-08-21
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-20 ✅ 2026-08-20
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-19 ✅ 2026-08-19
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-18 ✅ 2026-08-18
@@ -444,3 +446,4 @@ sort by description
 - [ ] 继续芯片走路项目 #项目/#芯片走路 ➕ 2026-08-20 🛫 2026-08-21 ⏳ 2026-08-23 ^task-20260820-704bd151
 - [ ] 去看昨天的 deepseek 学习[[容斥原理]] #数学 #组合数学 🛫 2026-08-22 ⏳ 2026-08-22 ➕ 2026-08-21 ^task-20260821-24e913a5
 - [ ] 测试自动记账功能是否生效 #finance #testing 🔼 🛫 2026-08-22 ⏳ 2026-08-22 📅 2026-08-22 ➕ 2026-08-21 ^task-20260821-ecf856ff
+- [ ] 在网易云给《月牙湾》唱几句 #音乐 #网易云 🛫 2026-08-22 ⏳ 2026-08-22 📅 2026-08-22 ➕ 2026-08-21 ^task-20260821-22875817

@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787316260185-8bitfdmzw",
+  "providerId": "claude",
+  "title": "Format Vector section notes and fix code blocks",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787316260185,
+  "updatedAt": 1787316597265,
+  "lastResponseAt": 1787316597265,
+  "sessionId": "084d22bd-15c9-48af-a431-27c336e852f8",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "084d22bd-15c9-48af-a431-27c336e852f8"
+  },
+  "currentNote": "100-学习/110-计算机/语言/Rust/学习rust.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 54,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 96640,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 96694,
+    "percentage": 48
+  }
+}
