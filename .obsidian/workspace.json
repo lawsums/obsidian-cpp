@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "72c11a86aa2e55e8",
+            "id": "68cf7b0aaef0c71e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "file": "Templates/Homepage/004_闪念.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "和家长同步家教状况"
+              "title": "004_闪念"
             }
           },
           {
@@ -358,9 +358,10 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/和家长同步家教状况.md",
+    "Templates/Homepage/004_闪念.md",
     "Templates/Homepage/Homepage.md",
     "Templates/研究直接对小智AI做二次开发.md",
+    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/学习C++.md",
     "Leetcode/3649.破解锁的最少时间 I.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
@@ -373,7 +374,6 @@
     "Leetcode/3649.破解锁的最少时间 I.cpp",
     "Dairies/2026-08-22.md",
     "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
-    "Templates/Homepage/004_闪念.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "100-学习/110-计算机/语言/Rust",
     "100-学习/120-嵌入式/Rust嵌入式.md",

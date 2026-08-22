@@ -377,7 +377,8 @@ sort by description
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ➕ 2026-08-12 ⏳ 2026-08-12 ✅ 2026-08-12 ^task-20260812-b13f0a8f
 - [x] 将bootloader题目加入Anki #anki #bootloader 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-bb4f9a4a
 - [x] 学习 FreeRTOS #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-f179f79b
-- [ ] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-22
+- [ ] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-23
+- [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-22 ✅ 2026-08-22
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-21 ✅ 2026-08-21
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-20 ✅ 2026-08-20
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-19 ✅ 2026-08-19
@@ -463,3 +464,4 @@ sort by description
 - [x] 手机上同步 Obsidian #obsidian #sync ➕ 2026-08-22 🛫 2026-08-22 ⏳ 2026-08-22 📅 2026-08-22 ✅ 2026-08-22 ^task-20260822-d979a14c
 - [ ] 手机 Obsidian 同步插件 #obsidian #同步 ⏫ ⏳ 2026-08-23 📅 2026-08-23 ➕ 2026-08-22 ^task-20260822-6f229e16
 - [ ] 使用 Xshell 学习 Linux #linux #xshell #学习 🛫 2026-08-23 ⏳ 2026-08-23 ➕ 2026-08-22 ^task-20260822-1c195f09
+- [ ] 帮叮当找应用题 #叮当 #学习 ⏫ 🛫 2026-08-24 ⏳ 2026-08-24 📅 2026-08-24 ➕ 2026-08-22 ^task-20260822-f9e2c9fc

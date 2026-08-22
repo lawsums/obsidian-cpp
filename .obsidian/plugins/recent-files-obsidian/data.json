@@ -5,12 +5,16 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
+      "basename": "004_闪念",
+      "path": "Templates/Homepage/004_闪念.md"
     },
     {
       "basename": "研究直接对小智AI做二次开发",
       "path": "Templates/研究直接对小智AI做二次开发.md"
+    },
+    {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "学习C++",
@@ -27,10 +31,6 @@
     {
       "basename": "框架梳理",
       "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
-    },
-    {
-      "basename": "004_闪念",
-      "path": "Templates/Homepage/004_闪念.md"
     },
     {
       "basename": "学习rust",
