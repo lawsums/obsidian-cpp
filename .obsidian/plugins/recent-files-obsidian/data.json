@@ -5,6 +5,18 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "容斥原理",
+      "path": "100-学习/110-计算机/代码模版/小知识/容斥原理.md"
+    },
+    {
+      "basename": "蔚来面试-anki",
+      "path": "100-学习/120-嵌入式/anki/蔚来面试-anki.md"
+    },
+    {
+      "basename": "八股文",
+      "path": "100-学习/120-嵌入式/八股文.md"
+    },
+    {
       "basename": "004_闪念",
       "path": "Templates/Homepage/004_闪念.md"
     },
@@ -49,10 +61,6 @@
       "path": "Leetcode/算法路线图.md"
     },
     {
-      "basename": "容斥原理",
-      "path": "100-学习/110-计算机/代码模版/小知识/容斥原理.md"
-    },
-    {
       "basename": "思考状压DP",
       "path": "Templates/思考状压DP.md"
     },
@@ -91,10 +99,6 @@
     {
       "basename": "研究 VSCode 维护公共配置部分",
       "path": "Templates/Homepage/研究 VSCode 维护公共配置部分.md"
-    },
-    {
-      "basename": "八股文",
-      "path": "100-学习/120-嵌入式/八股文.md"
     },
     {
       "basename": "2839.最大和查询",
@@ -195,10 +199,6 @@
     {
       "basename": "安装插件",
       "path": "Software/安装插件.md"
-    },
-    {
-      "basename": "nvim",
-      "path": "Software/nvim.md"
     }
   ],
   "omittedPaths": [],

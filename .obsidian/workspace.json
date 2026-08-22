@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8fa3bde95b82293",
+            "id": "605d41dfe5fae2d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,36 @@
             }
           },
           {
-            "id": "68cf7b0aaef0c71e",
+            "id": "a8fa3bde95b82293",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/004_闪念.md",
+                "file": "100-学习/110-计算机/代码模版/小知识/容斥原理.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "容斥原理"
+            }
+          },
+          {
+            "id": "6ed197c13b42ae64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/120-嵌入式/anki/蔚来面试-anki.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "004_闪念"
+              "title": "蔚来面试-anki"
             }
           },
           {
@@ -356,10 +380,13 @@
       "nutstore-sync:打开 Chatbox": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "605d41dfe5fae2d5",
   "lastOpenFiles": [
-    "Templates/Homepage/004_闪念.md",
+    "100-学习/110-计算机/代码模版/小知识/容斥原理.md",
     "Templates/Homepage/Homepage.md",
+    "100-学习/120-嵌入式/anki/蔚来面试-anki.md",
+    "100-学习/120-嵌入式/八股文.md",
+    "Templates/Homepage/004_闪念.md",
     "Templates/研究直接对小智AI做二次开发.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/学习C++.md",
@@ -382,7 +409,6 @@
     "Templates/思考状压DP.md",
     "Templates/Tasks.md",
     "Leetcode/算法路线图.md",
-    "100-学习/110-计算机/代码模版/小知识/容斥原理.md",
     "100-学习/120-嵌入式/C++嵌入式.md",
     "Dairies/2026-08-21.md",
     "Leetcode/1525.查询带键的排列.md",
@@ -396,7 +422,6 @@
     "Leetcode/1487.安排电影院座位.cpp",
     "Leetcode/images/1487_cinema_seats_3.png",
     "Leetcode/images/1487_cinema_seats_1.png",
-    "100-学习/120-嵌入式/Bootloader.md",
     "Leetcode/1772.通过指令创建有序数组.cpp",
     "Leetcode/2839.最大和查询.cpp",
     "Leetcode/2333.统计包含每个点的矩形数目.cpp",

@@ -87,7 +87,8 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-22
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-23
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-22 ✅ 2026-08-22
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-21 ✅ 2026-08-21
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-20 ✅ 2026-08-20
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-19 ✅ 2026-08-19
@@ -387,7 +388,7 @@ sort by description
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ➕ 2026-08-12 ⏳ 2026-08-16 ✅ 2026-08-16 ^task-20260812-a8b32450
 - [x] 用skill生成手表课程 #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-2fcbba85
 - [x] 拿快递 #task 🔼 ➕ 2026-08-13 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260813-7158fa33
-- [ ] [[让AI搜索并备份所有配置文件]] #task 🔼 ➕ 2026-08-13 ⏳ 2026-08-21 ^task-20260813-15984ae4
+- [ ] [[让AI搜索并备份所有配置文件]] #task 🔼 ➕ 2026-08-13 ⏳ 2026-08-25 ^task-20260813-15984ae4
 - [x] 让AI创建任务：每周备份Obsidian插件和共用文件夹仓库 #obsidian #backup 🔼 ➕ 2026-08-13 🛫 2026-08-17 ⏳ 2026-08-17 ✅ 2026-08-17 ^task-20260813-b5513e27
 - [x] 修改 AI Capture 插件的闹钟功能 #plugin #ai-capture 🔼 ➕ 2026-08-13 ⏳ 2026-08-14 ✅ 2026-08-14 ^task-20260813-18a0144b
 - [x] 研究闲鱼上的 ObsidianXworkbuddy 工作流 #obsidian #workflow 🔼 ➕ 2026-08-13 ⏳ 2026-08-14 ✅ 2026-08-14 ^task-20260813-1f8b3545
@@ -451,7 +452,7 @@ sort by description
 - [x] 了解 Omnisearch #omnisearch ➕ 2026-08-20 🛫 2026-08-22 ⏳ 2026-08-22 ✅ 2026-08-22 ^task-20260820-9bfb96c5
 - [x] 做一题状压dp #算法 #动态规划 ➕ 2026-08-20 🛫 2026-08-21 ⏳ 2026-08-21 📅 2026-08-21 ✅ 2026-08-21 ^task-20260820-7df6ca0f
 - [ ] 继续芯片走路项目 #项目/#芯片走路 ➕ 2026-08-20 🛫 2026-08-21 ⏳ 2026-08-23 ^task-20260820-704bd151
-- [ ] 去看昨天的 deepseek 学习[[容斥原理]] #数学 #组合数学 ➕ 2026-08-21 🛫 2026-08-22 ⏳ 2026-08-22 ^task-20260821-24e913a5
+- [x] 去看昨天的 deepseek 学习[[容斥原理]] #数学 #组合数学 ➕ 2026-08-21 🛫 2026-08-22 ⏳ 2026-08-22 ✅ 2026-08-22 ^task-20260821-24e913a5
 - [x] 测试自动记账功能是否生效 #finance #testing 🔼 ➕ 2026-08-21 🛫 2026-08-22 ⏳ 2026-08-22 📅 2026-08-22 ✅ 2026-08-22 ^task-20260821-ecf856ff
 - [x] 在网易云给《月牙湾》唱几句 #音乐 #网易云 ➕ 2026-08-21 🛫 2026-08-22 ⏳ 2026-08-22 📅 2026-08-22 ✅ 2026-08-22 ^task-20260821-22875817
 - [ ] 研究 Anki 卡片自动播放功能（需先完成一轮背诵） #anki #复习策略 #自动化 🔼 🛫 2026-08-23 ⏳ 2026-08-23 ➕ 2026-08-21 ^task-20260821-5dd3ec66
@@ -465,3 +466,4 @@ sort by description
 - [ ] 手机 Obsidian 同步插件 #obsidian #同步 ⏫ ⏳ 2026-08-23 📅 2026-08-23 ➕ 2026-08-22 ^task-20260822-6f229e16
 - [ ] 使用 Xshell 学习 Linux #linux #xshell #学习 🛫 2026-08-23 ⏳ 2026-08-23 ➕ 2026-08-22 ^task-20260822-1c195f09
 - [ ] 帮叮当找应用题 #叮当 #学习 ⏫ 🛫 2026-08-24 ⏳ 2026-08-24 📅 2026-08-24 ➕ 2026-08-22 ^task-20260822-f9e2c9fc
+- [ ] 创建面试题模板/插件 #面试 #模板 #插件 ⏫ 🛫 2026-08-24 ⏳ 2026-08-24 📅 2026-08-24 ➕ 2026-08-22 ^task-20260822-dc61941c
