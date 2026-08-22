@@ -1,9 +1,14 @@
 {
-  "activeSessionId": "session_alee-put-mund",
+  "activeSessionId": "session_hurt-angers-quila",
   "orderedSessionIds": [
-    "session_alee-put-mund"
+    "session_hurt-angers-quila"
   ],
   "sessions": {
+    "session_hurt-angers-quila": {
+      "title": "新对话",
+      "createdAt": 1787391221559,
+      "updatedAt": 1787391221559
+    },
     "session_alee-put-mund": {
       "title": "新对话",
       "createdAt": 1787365960039,
