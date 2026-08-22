@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787404610004-jzkr56y0t",
+  "providerId": "claude",
+  "title": "Organize IMX6ULL Pro kernel/DT/driver docs",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787404610005,
+  "updatedAt": 1787405378616,
+  "lastResponseAt": 1787405378616,
+  "sessionId": "7956fc12-3a5d-41e4-9842-1ca05e6017de",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "7956fc12-3a5d-41e4-9842-1ca05e6017de"
+  },
+  "currentNote": "300-项目/嵌入式/韦东山课程/路线梳理.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 284,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 103808,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 104092,
+    "percentage": 52
+  }
+}

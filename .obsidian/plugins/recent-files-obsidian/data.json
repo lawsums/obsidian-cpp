@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
+      "basename": "研究直接对小智AI做二次开发",
+      "path": "Templates/研究直接对小智AI做二次开发.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "3649.破解锁的最少时间 I",
       "path": "Leetcode/3649.破解锁的最少时间 I.md"
+    },
+    {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "框架梳理",
@@ -23,10 +35,6 @@
     {
       "basename": "学习rust",
       "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
-    },
-    {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "Rust嵌入式",
@@ -55,14 +63,6 @@
     {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "研究直接对小智AI做二次开发",
-      "path": "Templates/研究直接对小智AI做二次开发.md"
     },
     {
       "basename": "用ai产出创意内容",
