@@ -3,7 +3,6 @@
   "vim-yank-highlight",
   "obsidian-excalidraw-plugin",
   "calendar",
-  "terminal",
   "obsidian-hider",
   "link-favicon",
   "obsidian-better-command-palette",
@@ -61,5 +60,6 @@
   "media-extended",
   "obsidian-tasks-plugin",
   "ai-task-butler",
-  "realclaudian"
+  "realclaudian",
+  "nutstore-sync"
 ]

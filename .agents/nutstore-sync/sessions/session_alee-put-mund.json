@@ -1,0 +1,21 @@
+{
+  "session": {
+    "schemaVersion": 2,
+    "id": "session_alee-put-mund",
+    "createdAt": 1787365960039,
+    "updatedAt": 1787365960039,
+    "subagents": {
+      "master": {
+        "id": "master",
+        "type": "master",
+        "status": "idle",
+        "createdAt": 1787365960039,
+        "timeline": [],
+        "pendingInputs": [],
+        "operations": {},
+        "toolTimings": {},
+        "subagents": {}
+      }
+    }
+  }
+}

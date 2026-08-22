@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787367688425-et6sioyaz",
+  "providerId": "claude",
+  "title": "Organize bitmask DP study notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787367688434,
+  "updatedAt": 1787367789756,
+  "lastResponseAt": 1787367789756,
+  "sessionId": "18c4ce59-87ec-4f69-ac58-57092d07e506",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "18c4ce59-87ec-4f69-ac58-57092d07e506"
+  },
+  "currentNote": "Leetcode/3649.破解锁的最少时间 I.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 7341,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 38912,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 46253,
+    "percentage": 23
+  }
+}

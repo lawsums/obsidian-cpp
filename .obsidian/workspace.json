@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "02c335c035ea2a8d",
+            "id": "2784870ca1fe9c38",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Leetcode/3649.破解锁的最少时间 I.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "算法路线图"
+              "title": "3649.破解锁的最少时间 I"
             }
           },
           {
@@ -221,8 +221,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -291,8 +290,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -327,13 +325,18 @@
       "obsidian-day-and-night:Toggle Theme": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
       "homepage:Open homepage": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "nutstore-sync:开始同步": false,
+      "nutstore-sync:停止同步": false,
+      "nutstore-sync:打开 Chatbox": false
     }
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Dairies/2026-08-22.md",
+    "Leetcode/3649.破解锁的最少时间 I.md",
+    "Leetcode/3649.破解锁的最少时间 I.cpp",
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-08-22.md",
     "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "Templates/Homepage/004_闪念.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
@@ -363,8 +366,6 @@
     "Leetcode/images/1487_cinema_seats_3.png",
     "Leetcode/images/1487_cinema_seats_1.png",
     "100-学习/120-嵌入式/Bootloader.md",
-    "Leetcode/1772.通过指令创建有序数组.md",
-    "Templates/Homepage/研究 VSCode 维护公共配置部分.md",
     "Leetcode/1772.通过指令创建有序数组.cpp",
     "Leetcode/2839.最大和查询.cpp",
     "Attachments/Pasted image 20260817210129.png",
@@ -377,7 +378,6 @@
     "Configs/move_dir.bat",
     "Configs/新建 文本文档.txt",
     "Leetcode/3350.将元素分配到两个数组中 II.cpp",
-    "Leetcode/2319.由单个字符重复的最长子字符串.cpp",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
