@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -297,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "file": "Templates/研究对小智AI做二次开发.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "用ai产出创意内容 的大纲"
+              "title": "研究对小智AI做二次开发 的大纲"
             }
           },
           {
@@ -381,8 +381,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "8f2d620fd31ae7a5",
+  "active": "25f306d0280130ed",
   "lastOpenFiles": [
+    "Templates/Homepage/用ai产出创意内容.md",
     "Attachments/xiaozhi-esp32-main (1).zip",
     "Templates/Homepage/Homepage.md",
     "Templates/研究对小智AI做二次开发.md",
@@ -419,7 +420,6 @@
     "Leetcode/1525.查询带键的排列.md",
     "Dairies/实现自己的数据结构.md",
     "Dairies/2026-08-20.md",
-    "Templates/Homepage/用ai产出创意内容.md",
     "Leetcode/1525.查询带键的排列.cpp",
     "Leetcode/1487.安排电影院座位.cpp",
     "Leetcode/images/1487_cinema_seats_3.png",
@@ -428,7 +428,6 @@
     "Leetcode/2839.最大和查询.cpp",
     "Leetcode/2333.统计包含每个点的矩形数目.cpp",
     "Configs/move_dir.bat",
-    "Configs/新建 文本文档.txt",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
