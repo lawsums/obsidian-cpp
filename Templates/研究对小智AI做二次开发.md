@@ -35,6 +35,9 @@
 # 2 笔记
 ## 2.1 IDF 安装
 - [x] 安装环境 [ESP-IDF Installation Manager Downloads](https://dl.espressif.com/dl/eim/?tab=offline)，安装的时候路径不要有中文 ✅ 2026-08-23
-- [ ] 安装驱动程序
-- [ ] 安装 vscode 拓展
-- [ ] 
+- [x] 安装驱动程序 ✅ 2026-08-23
+- [x] 安装 vscode 拓展 ✅ 2026-08-23
+
+### 2.1.1 学习资源
+[ESP32-IDF 使用说明 | 微雪文档平台](https://docs.waveshare.net/RGB-Matrix-Px-96x48/ESP32/ESP-IDF/#esp-idf-tutorial)
+
