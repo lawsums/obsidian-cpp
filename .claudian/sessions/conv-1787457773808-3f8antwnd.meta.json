@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787457773808-3f8antwnd",
+  "providerId": "claude",
+  "title": "Organize and explain String indexing via LeetCode",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787457773809,
+  "updatedAt": 1787457917668,
+  "lastResponseAt": 1787457917668,
+  "sessionId": "413bebe2-157a-4ff1-973e-15d2166c8aff",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "413bebe2-157a-4ff1-973e-15d2166c8aff"
+  },
+  "currentNote": "100-学习/110-计算机/语言/Rust/字符串String.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 121,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 55808,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 55929,
+    "percentage": 28
+  }
+}

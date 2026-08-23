@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "学习rust",
-      "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "字符串String",
+      "path": "100-学习/110-计算机/语言/Rust/字符串String.md"
+    },
+    {
+      "basename": "学习rust",
+      "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
     },
     {
       "basename": "研究直接对小智AI做二次开发",
@@ -195,10 +199,6 @@
     {
       "basename": "nvim-tree",
       "path": "Software/nvim-tree.md"
-    },
-    {
-      "basename": "安装插件",
-      "path": "Software/安装插件.md"
     }
   ],
   "omittedPaths": [],
