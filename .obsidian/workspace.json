@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/研究直接对小智AI做二次开发.md",
+                "file": "Templates/研究对小智AI做二次开发.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "研究直接对小智AI做二次开发"
+              "title": "研究对小智AI做二次开发"
             }
           },
           {
@@ -127,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/研究对小智AI做二次开发.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "研究对小智AI做二次开发 的大纲"
             }
           },
           {
@@ -354,13 +355,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "25f306d0280130ed",
   "lastOpenFiles": [
-    "Leetcode/1906.N 次操作后的最大分数和.md",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/1906.N 次操作后的最大分数和.md",
     "Leetcode/1906.N 次操作后的最大分数和.cpp",
     "Templates/Homepage/学习C++.md",
-    "Templates/研究直接对小智AI做二次开发.md",
+    "Templates/研究对小智AI做二次开发.md",
     "100-学习/110-计算机/语言/Rust/字符串String.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "100-学习/110-计算机/代码模版/小知识/容斥原理.md",
