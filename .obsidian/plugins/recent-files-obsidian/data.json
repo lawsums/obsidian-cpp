@@ -5,16 +5,24 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "1906.N 次操作后的最大分数和",
+      "path": "Leetcode/1906.N 次操作后的最大分数和.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "研究直接对小智AI做二次开发",
+      "path": "Templates/研究直接对小智AI做二次开发.md"
+    },
+    {
       "basename": "字符串String",
       "path": "100-学习/110-计算机/语言/Rust/字符串String.md"
     },
     {
       "basename": "学习rust",
       "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
-    },
-    {
-      "basename": "研究直接对小智AI做二次开发",
-      "path": "Templates/研究直接对小智AI做二次开发.md"
     },
     {
       "basename": "容斥原理",
@@ -35,10 +43,6 @@
     {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "3649.破解锁的最少时间 I",
@@ -195,10 +199,6 @@
     {
       "basename": "Diet_template",
       "path": "Templates/Diet_template.md"
-    },
-    {
-      "basename": "nvim-tree",
-      "path": "Software/nvim-tree.md"
     }
   ],
   "omittedPaths": [],

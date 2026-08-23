@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787470534823-fjw1e5nq4",
+  "providerId": "claude",
+  "title": "整理状压DP解题笔记到Notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787470534823,
+  "updatedAt": 1787470633470,
+  "lastResponseAt": 1787470633470,
+  "sessionId": "bec4c833-c58a-4897-b6d3-d6c286459189",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "bec4c833-c58a-4897-b6d3-d6c286459189"
+  },
+  "currentNote": "Leetcode/1906.N 次操作后的最大分数和.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 3384,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 40832,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 44216,
+    "percentage": 22
+  }
+}
