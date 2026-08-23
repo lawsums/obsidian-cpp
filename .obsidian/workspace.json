@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "8f2d620fd31ae7a5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/用ai产出创意内容.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "用ai产出创意内容"
-            }
-          },
-          {
             "id": "25f306d0280130ed",
             "type": "leaf",
             "state": {
@@ -77,6 +53,30 @@
               },
               "icon": "lucide-file",
               "title": "研究对小智AI做二次开发"
+            }
+          },
+          {
+            "id": "17e09417fca8e39e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "框架梳理"
             }
           },
           {
@@ -381,10 +381,11 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/用ai产出创意内容.md",
+    "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "Templates/研究对小智AI做二次开发.md",
-    "Attachments/xiaozhi-esp32-main (1).zip",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/用ai产出创意内容.md",
+    "Attachments/xiaozhi-esp32-main (1).zip",
     "Templates/Tasks.md",
     "Leetcode/1906.N 次操作后的最大分数和.md",
     "Leetcode/1906.N 次操作后的最大分数和.cpp",
@@ -406,7 +407,6 @@
     "Attachments/Pasted image 20260822202518.png",
     "Leetcode/3649.破解锁的最少时间 I.cpp",
     "Dairies/2026-08-22.md",
-    "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "100-学习/110-计算机/语言/Rust",
     "100-学习/120-嵌入式/Rust嵌入式.md",
     "Attachments/Pasted image 20260821113930.png",
