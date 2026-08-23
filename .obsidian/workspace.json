@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/研究对小智AI做二次开发.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "研究对小智AI做二次开发 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -336,8 +335,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -381,12 +379,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "25f306d0280130ed",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/用ai产出创意内容.md",
+    "Templates/研究对小智AI做二次开发.md",
     "Attachments/xiaozhi-esp32-main (1).zip",
     "Templates/Homepage/Homepage.md",
-    "Templates/研究对小智AI做二次开发.md",
     "Templates/Tasks.md",
     "Leetcode/1906.N 次操作后的最大分数和.md",
     "Leetcode/1906.N 次操作后的最大分数和.cpp",

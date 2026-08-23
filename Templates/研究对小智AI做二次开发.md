@@ -42,7 +42,96 @@
 [ESP32-IDF 使用说明 | 微雪文档平台](https://docs.waveshare.net/RGB-Matrix-Px-96x48/ESP32/ESP-IDF/#esp-idf-tutorial)
 
 ## 2.2 烧录
+#### 2.2.1.1 第1步：获取源代码
 
+1. **下载源码**：
+    
+    - 访问项目主页：[https://github.com/78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32)
+        
+    - 点击 **Code** 按钮，选择 **Download ZIP** 下载压缩包并解压到任意目录。
+        
+    - **（推荐）** 如果电脑已安装Git，建议使用命令行克隆，以避免ZIP下载可能出现的文件不完整问题：
+        
+        ```bash
+        git clone https://github.com/78/xiaozhi-esp32
+        ```
+        
+2. **打开ESP-IDF终端**：
+    
+    - 进入解压后的项目目录。
+        
+    - 打开命令终端，或双击桌面的 **ESP-IDF 5.5 PowerShell** 快捷方式。
+        
+3. **进入项目目录**（请将路径替换为你自己的实际解压路径）：
+    
+    ```bash
+    cd J:\xiaozhi-esp32-main_2\xiaozhi-esp32-main
+    ```
+    
+
+---
+
+#### 2.2.1.2 第2步：设置芯片类型
+
+**重要：** 默认目标芯片是 **ESP32**。如果你的开发板是其他型号，**必须先**执行对应命令。
+
+- **若芯片为 ESP32-S3**：
+    
+    ```bash
+    idf.py set-target esp32s3
+    ```
+    
+- **若芯片为 ESP32-C3**：
+    
+    ```bash
+    idf.py set-target esp32c3
+    ```
+    
+    _（注意：设置完C3后，后续在menuconfig中需选择对应的C3板型）_
+    
+
+---
+
+#### 2.2.1.3 第3步：选择开发板型号
+
+1. 打开配置菜单：
+    
+    ```bash
+    idf.py menuconfig
+    ```
+    
+2. 在图形化界面中，进入 **Xiaozhi Assistant** 选项。
+    
+3. 进入 **Board Type** 子菜单，从列表中选择与你硬件匹配的开发板型号。
+    
+    - **关键点**：务必根据实际硬件选择。若为ESP32-C3板，需在此选择C3对应型号（且之前已执行`set-target`命令）。
+        
+4. 保存并退出：
+    
+    - 按键盘 **`S`** 键保存配置。
+        
+    - 按 **`Esc`** 键退出menuconfig界面。
+        
+
+---
+
+#### 2.2.1.4 第4步：编译与烧录
+
+1. **开始编译**：
+    
+    ```bash
+    idf.py build
+    ```
+
+2. **编译并烧录固件，同时开启日志监控**（一条命令完成）：
+    
+    ```bash
+    idf.py build flash monitor
+    ```
+    
+    - 执行此命令后，固件将烧录到开发板，并自动打开串口监视器显示运行日志。
+        
+    - **退出监视器**：按 **`Ctrl + ]`** 组合键。
 
 
 * 2026-08-23 - 1

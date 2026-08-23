@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787488616004-tfof5mxk0",
+  "providerId": "claude",
+  "title": "Reformat copied code blocks in flashing section",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787488616005,
+  "updatedAt": 1787488733874,
+  "lastResponseAt": 1787488733874,
+  "sessionId": "aff18fc3-0777-40d8-89d2-adcad930c573",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "aff18fc3-0777-40d8-89d2-adcad930c573"
+  },
+  "currentNote": "Templates/研究对小智AI做二次开发.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 974,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 42496,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 43470,
+    "percentage": 22
+  }
+}
