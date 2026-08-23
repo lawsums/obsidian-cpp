@@ -41,3 +41,6 @@
 ### 2.1.1 学习资源
 [ESP32-IDF 使用说明 | 微雪文档平台](https://docs.waveshare.net/RGB-Matrix-Px-96x48/ESP32/ESP-IDF/#esp-idf-tutorial)
 
+
+
+* 2026-08-23 - 1

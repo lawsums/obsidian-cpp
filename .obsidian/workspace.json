@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,7 +241,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -272,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/研究对小智AI做二次开发.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "研究对小智AI做二次开发 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -355,13 +355,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "25f306d0280130ed",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/研究对小智AI做二次开发.md",
+    "Templates/Tasks.md",
     "Templates/Homepage/Homepage.md",
     "Leetcode/1906.N 次操作后的最大分数和.md",
     "Leetcode/1906.N 次操作后的最大分数和.cpp",
     "Templates/Homepage/学习C++.md",
-    "Templates/研究对小智AI做二次开发.md",
     "100-学习/110-计算机/语言/Rust/字符串String.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "100-学习/110-计算机/代码模版/小知识/容斥原理.md",
@@ -385,7 +386,6 @@
     "Attachments/Pasted image 20260821113930.png",
     "Attachments/Pasted image 20260821103115.png",
     "Templates/思考状压DP.md",
-    "Templates/Tasks.md",
     "Leetcode/算法路线图.md",
     "100-学习/120-嵌入式/C++嵌入式.md",
     "Dairies/2026-08-21.md",
