@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "28299fa42b35e98b",
+            "id": "d78fa2cde51a6915",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Tasks.md",
+                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "路线梳理"
             }
           },
           {
@@ -151,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "路线梳理 的大纲"
             }
           },
           {
@@ -380,11 +381,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "d78fa2cde51a6915",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260824114521.png",
+    "Attachments/Pasted image 20260824114438.png",
+    "Templates/Homepage/Homepage.md",
     "Templates/Tasks.md",
     "Templates/Daily_note_template.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Attachments/二上数学表内除法常考易错应用题（共6页含答案）.pdf",
     "Attachments/二年级（上）数学 表内乘法常考易错题.pdf",
@@ -424,7 +427,6 @@
     "Leetcode/1525.查询带键的排列.cpp",
     "Leetcode/1487.安排电影院座位.cpp",
     "Leetcode/images/1487_cinema_seats_3.png",
-    "Leetcode/images/1487_cinema_seats_1.png",
     "Leetcode/1772.通过指令创建有序数组.cpp",
     "Leetcode/2839.最大和查询.cpp",
     "Temp/未命名.canvas",
