@@ -148,7 +148,8 @@ sort by description
 - [x] 加牛客佬微信 #task 🔼 ➕ 2026-07-15 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260715-93cb29d3
 - [x] 给家长反馈 #task 🔼 ➕ 2026-07-16 ⏳ 2026-07-16 ✅ 2026-07-16 ^task-20260716-36bc1ba4
 - [x] 去南图坐坐 #library 🔼 ➕ 2026-07-16 ⏳ 2026-07-17 ✅ 2026-07-17 ^task-20260716-42dd28dc
-- [ ] 写一个[dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) 🔼 🔁 every day ⏳ 2026-08-24
+- [x] 写一个[dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) 🔼 ⏳ 2026-08-25 ✅ 2026-08-24
+- [x] 写一个[dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) 🔼 🔁 every day ⏳ 2026-08-24 ✅ 2026-08-24
 - [x] 写一个[dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) 🔼 🔁 every day ⏳ 2026-08-23 ✅ 2026-08-23
 - [x] 写一个[dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) 🔼 🔁 every day ⏳ 2026-08-22 ✅ 2026-08-22
 - [x] 写一个[dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) 🔼 🔁 every day ⏳ 2026-08-21 ✅ 2026-08-21
@@ -368,7 +369,8 @@ sort by description
 - [x] 备课 #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-9f3e6aef
 - [x] 让老妈买纸 #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260812-50c81cd2
 - [x] 获取 [workbuddy 蓝皮书](https://docs.qq.com/doc/DSFFMTFhFQ1hZZ096?nlc=1) #work 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-2dacb169
-- [ ] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-24
+- [ ] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-25
+- [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-24 ✅ 2026-08-24
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-23 ✅ 2026-08-23
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-22 ✅ 2026-08-22
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-21 ✅ 2026-08-21
@@ -472,10 +474,10 @@ sort by description
 - [x] 手机上同步 Obsidian #obsidian #sync ➕ 2026-08-22 🛫 2026-08-22 ⏳ 2026-08-22 📅 2026-08-22 ✅ 2026-08-22 ^task-20260822-d979a14c
 - [x] 手机 Obsidian 同步插件 #obsidian #同步 ⏫ ➕ 2026-08-22 ⏳ 2026-08-23 📅 2026-08-23 ✅ 2026-08-23 ^task-20260822-6f229e16
 - [ ] 使用 Xshell 学习 Linux #linux #xshell #学习 🛫 2026-08-23 ⏳ 2026-08-23 ➕ 2026-08-22 ^task-20260822-1c195f09
-- [ ] 帮叮当找应用题 #叮当 #学习 ⏫ 🛫 2026-08-24 ⏳ 2026-08-24 📅 2026-08-24 ➕ 2026-08-22 ^task-20260822-f9e2c9fc
+- [x] 帮叮当找应用题 #叮当 #学习 ⏫ ➕ 2026-08-22 🛫 2026-08-24 ⏳ 2026-08-24 📅 2026-08-24 ✅ 2026-08-24 ^task-20260822-f9e2c9fc
 - [ ] 创建面试题模板/插件 #面试 #模板 #插件 ⏫ 🛫 2026-08-24 ⏳ 2026-08-24 📅 2026-08-24 ➕ 2026-08-22 ^task-20260822-dc61941c
 - [ ] 看ov-watch #task 🔺 ➕ 2026-08-23 ⏳ 2026-08-23 ^task-20260823-aa26a5d
 - [x] 充值 #task ➕ 2026-08-23 ⏳ 2026-08-23 ✅ 2026-08-23 ^task-20260823-ccecab43
 - [ ] 去downloads里面把工作流导入云服务器里面 然后总结一个部署笔记 #task ⏫ ➕ 2026-08-23 ⏳ 2026-08-24 ^task-20260823-ad5b7574
 - [x] 今天1 #task ➕ 2026-08-23 🛫 2026-08-23 ⏳ 2026-08-23 ✅ 2026-08-23 ^task-20260823-70e9b89c
-- [ ] 检测手表项目进度 #手表 #项目管理 🛫 2026-08-24 ⏳ 2026-08-24 📅 2026-08-24 ➕ 2026-08-23 ^task-20260823-760a02b9
+- [x] 检测手表项目进度 #手表 #项目管理 ➕ 2026-08-23 🛫 2026-08-24 ⏳ 2026-08-24 📅 2026-08-24 ✅ 2026-08-24 ^task-20260823-760a02b9

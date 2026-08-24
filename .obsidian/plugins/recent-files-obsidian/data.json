@@ -5,20 +5,28 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
     },
     {
       "basename": "研究对小智AI做二次开发",
       "path": "Templates/研究对小智AI做二次开发.md"
     },
     {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
+      "basename": "框架梳理",
+      "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "1906.N 次操作后的最大分数和",
@@ -51,10 +59,6 @@
     {
       "basename": "004_闪念",
       "path": "Templates/Homepage/004_闪念.md"
-    },
-    {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "3649.破解锁的最少时间 I",
@@ -195,10 +199,6 @@
     {
       "basename": "Diet_template_v2",
       "path": "Templates/Diet_template_v2.md"
-    },
-    {
-      "basename": "Diet_template",
-      "path": "Templates/Diet_template.md"
     }
   ],
   "omittedPaths": [],

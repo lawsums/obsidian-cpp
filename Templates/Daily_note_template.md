@@ -47,12 +47,14 @@ switch (weekday) {
 	 tR += `- [ ] [[学习rust]] ⏫ 📅 ${titleDate}\n`;
     break;
   case "星期二":
+	 tR += `- [ ] 写一个 [dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) ⏫ 📅 ${titleDate}\n`;
     break;
   case "星期三":
     tR += `- [ ] [[用ai产出创意内容]] 🔼 📅 ${titleDate}\n`;
     break;
   case "星期四":
 	 tR += `- [ ] [打字练习一篇文章](https://dazidazi.com/) 📅 ${titleDate}\n`;
+	 tR += `- [ ] 写一个 [dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) ⏫ 📅 ${titleDate}\n`;
     break;
   case "星期五":
 	 tR += `- [ ] [[学习rust]] ⏫ 📅 ${titleDate}\n`;
@@ -62,6 +64,7 @@ switch (weekday) {
     tR += `- [ ] [[用ai产出创意内容]] 🔼 📅 ${titleDate}\n`;
     break;
   case "星期日":
+	 tR += `- [ ] 写一个 [dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) ⏫ 📅 ${titleDate}\n`;
 	 tR += `- [ ] [[学习rust]] ⏫ 📅 ${titleDate}\n`;
     tR += `- [ ] [[用ai产出创意内容]] 🔼 📅 ${titleDate}\n`;
     break;
