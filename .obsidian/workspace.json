@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -357,14 +356,14 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "35195ed5fbcee5cd",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/Homepage.md",
     "Leetcode/算法路线图.md",
     "Templates/配置 VSCode 阅读 Linux 源码环境.md",
     "Templates/Tasks.md",
     "Templates/Homepage/和家长同步家教状况.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Daily_note_template.md",
     "Leetcode/3649.破解锁的最少时间 I.md",
     "Attachments/Pasted image 20260824120742.png",
