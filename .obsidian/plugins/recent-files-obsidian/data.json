@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "配置 VSCode 阅读 Linux 源码环境",
+      "path": "Templates/配置 VSCode 阅读 Linux 源码环境.md"
     },
     {
       "basename": "Tasks",
@@ -11,10 +23,6 @@
     {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "Daily_note_template",
@@ -71,10 +79,6 @@
     {
       "basename": "Rust嵌入式",
       "path": "100-学习/120-嵌入式/Rust嵌入式.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "思考状压DP",
@@ -195,10 +199,6 @@
     {
       "basename": "3438.数组中的峰值",
       "path": "Leetcode/3438.数组中的峰值.md"
-    },
-    {
-      "basename": "Diet_template_v2",
-      "path": "Templates/Diet_template_v2.md"
     }
   ],
   "omittedPaths": [],
