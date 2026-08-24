@@ -336,8 +336,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -383,13 +382,14 @@
   },
   "active": "d78fa2cde51a6915",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Templates/Homepage/和家长同步家教状况.md",
     "Attachments/Pasted image 20260824120742.png",
     "Attachments/Pasted image 20260824114521.png",
     "Attachments/Pasted image 20260824114438.png",
-    "Templates/Homepage/Homepage.md",
     "Templates/Tasks.md",
     "Templates/Daily_note_template.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Attachments/二上数学表内除法常考易错应用题（共6页含答案）.pdf",
     "Attachments/二年级（上）数学 表内乘法常考易错题.pdf",
     "Templates/研究对小智AI做二次开发.md",
@@ -407,7 +407,6 @@
     "100-学习/120-嵌入式/八股文.md",
     "Templates/Homepage/004_闪念.md",
     "Leetcode/3649.破解锁的最少时间 I.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Attachments/1_1787402271504.jpg",
     "Attachments/1_1787401970805.jpg",
     "Attachments/1_1787401733338.jpg",
@@ -419,7 +418,6 @@
     "100-学习/110-计算机/语言/Rust",
     "100-学习/120-嵌入式/Rust嵌入式.md",
     "Attachments/Pasted image 20260821113930.png",
-    "Attachments/Pasted image 20260821103115.png",
     "Templates/思考状压DP.md",
     "Leetcode/算法路线图.md",
     "100-学习/120-嵌入式/C++嵌入式.md",

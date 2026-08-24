@@ -9,16 +9,16 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
     },
     {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
-    },
-    {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "研究对小智AI做二次开发",

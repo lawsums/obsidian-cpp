@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787566233053-a7ud8c2wl",
+  "providerId": "claude",
+  "title": "Summarize English lesson and student feedback",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787566233055,
+  "updatedAt": 1787566481854,
+  "lastResponseAt": 1787566481854,
+  "sessionId": "05f97d82-3916-4f62-8a9d-3702eab586a1",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "05f97d82-3916-4f62-8a9d-3702eab586a1"
+  },
+  "currentNote": "Templates/Homepage/和家长同步家教状况.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2804,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 42112,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 44916,
+    "percentage": 22
+  }
+}
