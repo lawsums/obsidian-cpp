@@ -32,54 +32,6 @@
             }
           },
           {
-            "id": "d78fa2cde51a6915",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "路线梳理"
-            }
-          },
-          {
-            "id": "bb610f846d456f55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/研究对小智AI做二次开发.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "研究对小智AI做二次开发"
-            }
-          },
-          {
             "id": "02c335c035ea2a8d",
             "type": "leaf",
             "state": {
@@ -151,8 +103,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -266,8 +217,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -297,13 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
+                "file": "Leetcode/算法路线图.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "路线梳理 的大纲"
+              "title": "算法路线图 的大纲"
             }
           },
           {
@@ -380,16 +330,17 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d78fa2cde51a6915",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Tasks.md",
+    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
-    "Templates/Homepage/和家长同步家教状况.md",
+    "Templates/Daily_note_template.md",
+    "Leetcode/3649.破解锁的最少时间 I.md",
     "Attachments/Pasted image 20260824120742.png",
     "Attachments/Pasted image 20260824114521.png",
     "Attachments/Pasted image 20260824114438.png",
-    "Templates/Tasks.md",
-    "Templates/Daily_note_template.md",
     "Attachments/二上数学表内除法常考易错应用题（共6页含答案）.pdf",
     "Attachments/二年级（上）数学 表内乘法常考易错题.pdf",
     "Templates/研究对小智AI做二次开发.md",
@@ -406,7 +357,6 @@
     "100-学习/120-嵌入式/anki/蔚来面试-anki.md",
     "100-学习/120-嵌入式/八股文.md",
     "Templates/Homepage/004_闪念.md",
-    "Leetcode/3649.破解锁的最少时间 I.md",
     "Attachments/1_1787402271504.jpg",
     "Attachments/1_1787401970805.jpg",
     "Attachments/1_1787401733338.jpg",

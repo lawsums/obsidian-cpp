@@ -189,7 +189,7 @@ class CaptureTaskModal extends Modal {
 
     contentEl.createEl("h2", { text: "AI Task Butler" });
     contentEl.createEl("p", {
-      text: "输入一句自然语言任务，例如：明天下午三点提醒我给张三发合同，很重要。"
+      text: "Enter 按 AI 解析创建；Ctrl+U/H/M/L 分别按最高、高、中、低优先级创建。"
     });
 
     const textArea = contentEl.createEl("textarea", {
@@ -205,7 +205,16 @@ class CaptureTaskModal extends Modal {
       this.renderPreview();
     });
     textArea.addEventListener("keydown", (event) => {
-      if (event.key === "Enter" && !event.shiftKey && !event.isComposing) {
+      if (event.isComposing) return;
+
+      const shortcutPriority = priorityFromShortcutEvent(event);
+      if (shortcutPriority) {
+        event.preventDefault();
+        this.submit(shortcutPriority);
+        return;
+      }
+
+      if (event.key === "Enter" && !event.shiftKey) {
         event.preventDefault();
         this.submit();
       }
@@ -240,7 +249,7 @@ class CaptureTaskModal extends Modal {
     textArea.focus();
   }
 
-  async submit() {
+  async submit(priorityOverride) {
     if (this.isSubmitting) return;
     if (!this.input.trim()) {
       new Notice("请输入任务内容。");
@@ -255,6 +264,7 @@ class CaptureTaskModal extends Modal {
 
     try {
       const draft = await this.plugin.parseTask(this.input);
+      if (priorityOverride) draft.priority = priorityOverride;
       await this.plugin.appendTask(draft);
       this.close();
     } catch (error) {
@@ -1014,7 +1024,7 @@ class AiTaskButlerSettingTab extends PluginSettingTab {
 
     new Setting(containerEl)
       .setName("Append block ID")
-      .setDesc("Adds a stable ^task-* ID for direct links and future integrations.")
+      .setDesc("Adds a stable ^task-* ID so future reminder/MCP layers can find the task after it moves.")
       .addToggle((toggle) => toggle
         .setValue(this.plugin.settings.appendBlockId)
         .onChange(async (value) => {
@@ -1054,6 +1064,19 @@ async function ensureMarkdownFile(app, path) {
   return await app.vault.create(path, "# Inbox\n\n");
 }
 
+function priorityFromShortcutEvent(event) {
+  if (!event.ctrlKey || event.altKey || event.metaKey || event.shiftKey) return undefined;
+
+  const key = String(event.key || "").toLowerCase();
+  const priorityByKey = {
+    u: "highest",
+    h: "high",
+    m: "medium",
+    l: "low"
+  };
+  return priorityByKey[key];
+}
+
 function parseTaskText(rawText, now = new Date()) {
   const original = rawText.trim().replace(/\s+/g, " ");
   const extractedTags = [...original.matchAll(/#[\p{L}\p{N}_/-]+/gu)].map((match) => match[0]);
@@ -1061,13 +1084,13 @@ function parseTaskText(rawText, now = new Date()) {
   const dateInfo = inferDateInfo(original, now);
   const timeInfo = inferTimeInfo(original);
   const recurrence = inferRecurrence(original);
-  if (recurrence && !dateInfo.scheduledDate && !dateInfo.dueDate && !dateInfo.startDate) {
+  if (recurrence && !dateInfo.scheduledDate && !dateInfo.startDate) {
     dateInfo.scheduledDate = nextOccurrenceDateForTime(now, timeInfo);
   }
   const title = cleanTitle(original);
 
   let confidence = 0.72;
-  if (dateInfo.scheduledDate || dateInfo.dueDate) confidence += 0.1;
+  if (dateInfo.scheduledDate) confidence += 0.1;
   if (priority !== "none") confidence += 0.05;
   if (/找时间|有空|哪天|抽空|回头|之后/.test(original)) confidence -= 0.28;
   if (title.length < 3) confidence -= 0.2;
@@ -1076,7 +1099,6 @@ function parseTaskText(rawText, now = new Date()) {
     title: title || original,
     tags: extractedTags,
     scheduledDate: dateInfo.scheduledDate,
-    dueDate: dateInfo.dueDate,
     startDate: dateInfo.startDate,
     recurrence,
     priority,
@@ -1186,15 +1208,17 @@ async function parseTaskWithChatCompletions(rawText, settings, now) {
 function taskParserSystemPrompt() {
   return [
     "你是一个面向 Obsidian Tasks 的中文任务转译器。",
-    "把自然语言任务转换为严格 JSON。",
-    "只输出 JSON，不要输出 Markdown、解释、代码块或多余文字。",
-    "JSON keys 必须包含：title, notes, project, tags, startDate, scheduledDate, dueDate, recurrence, priority, estimatedMinutes, confidence, questions。",
-    "title 必须是单行可执行任务标题，不含 Markdown 任务前缀、提醒词、日期、时间或优先级废话。",
-    "tags 必须是以 # 开头的数组；日期字段格式为 YYYY-MM-DD；没有值时使用 null。",
+    "将用户自然语言中的任务、开始日期、计划日期、优先级和上下文转换为严格 JSON。",
+    "只输出 JSON，不要输出 Markdown、解释、代码块或其他文字。",
+    "JSON keys 必须包含：title, notes, project, tags, startDate, scheduledDate, recurrence, priority, estimatedMinutes, confidence, questions。",
+    "title 必须为单行、可执行的任务标题；不要包含 Markdown 任务前缀、提醒词、日期、时间或优先级描述。",
+    "tags 必须是以 # 开头的数组；日期字段格式为 YYYY-MM-DD；没有值时用 null。",
     "recurrence 是 Obsidian Tasks 循环规则；每天对应 every day。",
-    "不要返回具体提醒时间或 reminderAt 字段。",
-    "示例：title 为任务标题，scheduledDate 为计划日期，priority 为优先级。",
-  ].join("\\n");
+    "不要输出 dueDate、reminderAt 或其他自定义提醒字段。",
+    "截止、ddl、deadline、某日前等表达中的日期必须写入 scheduledDate，不能写入截止日期字段。",
+    "所有日期以 user.now 和 user.timezoneHint 为基准，不能编造日期。",
+    "紧急、马上、必须今天对应 highest；重要、尽快、截止对应 high；普通对应 medium；有空、不急对应 low。"
+  ].join("\n");
 }
 
 function normalizeAiDraft(aiDraft, fallbackDraft) {
@@ -1204,13 +1228,12 @@ function normalizeAiDraft(aiDraft, fallbackDraft) {
     : fallbackDraft.tags;
 
   const normalized = {
-    title: sanitizeTaskTitle(safeString(aiDraft.title)) || fallbackDraft.title,
+    title: safeString(aiDraft.title) || fallbackDraft.title,
     notes: safeString(aiDraft.notes) || undefined,
     project: safeString(aiDraft.project) || undefined,
     tags,
     startDate: validDateOrUndefined(aiDraft.startDate) || fallbackDraft.startDate,
     scheduledDate: validDateOrUndefined(aiDraft.scheduledDate) || fallbackDraft.scheduledDate,
-    dueDate: validDateOrUndefined(aiDraft.dueDate) || fallbackDraft.dueDate,
     recurrence: validRecurrenceOrUndefined(aiDraft.recurrence) || fallbackDraft.recurrence,
     priority,
     estimatedMinutes: Number.isFinite(Number(aiDraft.estimatedMinutes)) ? Number(aiDraft.estimatedMinutes) : undefined,
@@ -1225,14 +1248,6 @@ function normalizeAiDraft(aiDraft, fallbackDraft) {
 
 function safeString(value) {
   return typeof value === "string" ? value.trim() : "";
-}
-
-function sanitizeTaskTitle(value) {
-  return value
-    .replace(/[\r\n]+/g, " ")
-    .replace(/^[-*+]\s+\[[ xX]\]\s*/, "")
-    .replace(/\s+/g, " ")
-    .trim();
 }
 
 function isValidPriority(value) {
@@ -1462,7 +1477,6 @@ function taskDraftToMarkdown(draft, settings) {
   if (priorityMark) parts.push(priorityMark);
   if (draft.startDate) parts.push(`🛫 ${draft.startDate}`);
   if (draft.scheduledDate) parts.push(`⏳ ${draft.scheduledDate}`);
-  if (draft.dueDate) parts.push(`📅 ${draft.dueDate}`);
   if (draft.recurrence) parts.push(`🔁 ${draft.recurrence}`);
   if (settings.appendCreatedDate) parts.push(`➕ ${formatDate(new Date())}`);
   if (settings.appendBlockId) parts.push(makeBlockId(draft));
@@ -1491,11 +1505,7 @@ function inferDateInfo(text, now) {
     result.startDate = inferSingleDate(text, now);
   }
 
-  if (/截止|之前|前|到期|due|ddl|deadline/.test(lower)) {
-    result.dueDate = inferSingleDate(text, now);
-  } else {
-    result.scheduledDate = inferSingleDate(text, now);
-  }
+  result.scheduledDate = inferSingleDate(text, now);
 
   if (/提醒我|记得提醒|到时候叫/.test(text) && !result.scheduledDate) {
     result.scheduledDate = inferSingleDate(text, now);

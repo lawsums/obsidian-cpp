@@ -44,51 +44,51 @@ sort by description
 // 按星期自动生成任务 SWITCH 版
 switch (weekday) {
   case "星期一":
-	 tR += `- [ ] [[学习rust]] ⏫ 📅 ${titleDate}\n`;
+	 tR += `- [ ] [[学习rust]] ⏫ ⏳ ${titleDate}\n`;
     break;
   case "星期二":
-	 tR += `- [ ] 写一个 [dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) ⏫ 📅 ${titleDate}\n`;
+	 tR += `- [ ] 写一个 [dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) ⏫ ⏳ ${titleDate}\n`;
     break;
   case "星期三":
-    tR += `- [ ] [[用ai产出创意内容]] 🔼 📅 ${titleDate}\n`;
+    tR += `- [ ] [[用ai产出创意内容]] 🔼 ⏳ ${titleDate}\n`;
     break;
   case "星期四":
-	 tR += `- [ ] [打字练习一篇文章](https://dazidazi.com/) 📅 ${titleDate}\n`;
-	 tR += `- [ ] 写一个 [dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) ⏫ 📅 ${titleDate}\n`;
+	 tR += `- [ ] [打字练习一篇文章](https://dazidazi.com/) ⏳ ${titleDate}\n`;
+	 tR += `- [ ] 写一个 [dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) ⏫ ⏳ ${titleDate}\n`;
     break;
   case "星期五":
-	 tR += `- [ ] [[学习rust]] ⏫ 📅 ${titleDate}\n`;
+	 tR += `- [ ] [[学习rust]] ⏫ ⏳ ${titleDate}\n`;
     break;
   case "星期六":
-    tR += `- [ ] 打leetcode比赛 🔼 📅 ${titleDate}\n`;
-    tR += `- [ ] [[用ai产出创意内容]] 🔼 📅 ${titleDate}\n`;
+    tR += `- [ ] 打leetcode比赛 🔼 ⏳ ${titleDate}\n`;
+    tR += `- [ ] [[用ai产出创意内容]] 🔼 ⏳ ${titleDate}\n`;
     break;
   case "星期日":
-	 tR += `- [ ] 写一个 [dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) ⏫ 📅 ${titleDate}\n`;
-	 tR += `- [ ] [[学习rust]] ⏫ 📅 ${titleDate}\n`;
-    tR += `- [ ] [[用ai产出创意内容]] 🔼 📅 ${titleDate}\n`;
+	 tR += `- [ ] 写一个 [dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) ⏫ ⏳ ${titleDate}\n`;
+	 tR += `- [ ] [[学习rust]] ⏫ ⏳ ${titleDate}\n`;
+    tR += `- [ ] [[用ai产出创意内容]] 🔼 ⏳ ${titleDate}\n`;
     break;
   default:
     break;
 }
 %>
-- [ ] [多邻国练习](https://www.duolingo.cn/learn) 📅 <% titleDate %>
-- [ ] 晚上刷牙 📅 <% titleDate %>
-- [ ] 抹护肤品 + [提拉法令纹](https://www.bilibili.com/video/BV1mE411i7Li?vd_source=cf6228c0b4a5c283905e22fd11934994) 📅 <% titleDate %>
-- [ ] 抹药 🔼 📅 <% titleDate %>
-- [ ] [[实现自己的数据结构]] 📅 <% titleDate %>
-- [ ] [学习项目](https://wx.zsxq.com/group/88511825151142) 📅 <% titleDate %>
-- [ ] 背面试题 📅 <% titleDate %>
-- [ ] [[学习C++]] 🔼 📅 <% titleDate %>
-- [ ] 做俯卧撑 20 个 🔼 📅 <% titleDate %>
-- [ ] 举哑铃 20 个 📅 <% titleDate %>
-- [ ] [面试题目每日一题, 写的时候用gdb调试一下, 同时记录到anki](https://docs.qq.com/sheet/DWGFoRGVZRmxNaXFz?tab=BB08J2&_t=1778035302469&nlc=1) 📅 <% titleDate %>
-- [ ] [每日任务excel](F:\桌面\每日任务1.xlsm) 📅 <% titleDate %>
-- [ ] 11 点睡觉 🔼 📅 <% titleDate %>
-- [ ] [拆分学习 | 小鹤音形](https://flypy.cc/if/) 📅 <% titleDate %>
-- [ ] [没事就用 go/algorithm 写一题 leetcode](https://leetcode.cn/) 📅 <% titleDate %>
-- [ ] 给老妈烧饭 📅 <% titleDate %>
-- [ ] 看一看 boss 直聘 📅 <% titleDate %>
+- [ ] [多邻国练习](https://www.duolingo.cn/learn) ⏳ <% titleDate %>
+- [ ] 晚上刷牙 ⏳ <% titleDate %>
+- [ ] 抹护肤品 + [提拉法令纹](https://www.bilibili.com/video/BV1mE411i7Li?vd_source=cf6228c0b4a5c283905e22fd11934994) ⏳ <% titleDate %>
+- [ ] 抹药 🔼 ⏳ <% titleDate %>
+- [ ] [[实现自己的数据结构]] ⏳ <% titleDate %>
+- [ ] [学习项目](https://wx.zsxq.com/group/88511825151142) ⏳ <% titleDate %>
+- [ ] 背面试题 ⏳ <% titleDate %>
+- [ ] [[学习C++]] 🔼 ⏳ <% titleDate %>
+- [ ] 做俯卧撑 20 个 🔼 ⏳ <% titleDate %>
+- [ ] 举哑铃 20 个 ⏳ <% titleDate %>
+- [ ] [面试题目每日一题, 写的时候用gdb调试一下, 同时记录到anki](https://docs.qq.com/sheet/DWGFoRGVZRmxNaXFz?tab=BB08J2&_t=1778035302469&nlc=1) ⏳ <% titleDate %>
+- [ ] [每日任务excel](F:\桌面\每日任务1.xlsm) ⏳ <% titleDate %>
+- [ ] 11 点睡觉 🔼 ⏳ <% titleDate %>
+- [ ] [拆分学习 | 小鹤音形](https://flypy.cc/if/) ⏳ <% titleDate %>
+- [ ] [没事就用 go/algorithm 写一题 leetcode](https://leetcode.cn/) ⏳ <% titleDate %>
+- [ ] 给老妈烧饭 ⏳ <% titleDate %>
+- [ ] 看一看 boss 直聘 ⏳ <% titleDate %>
 
 ## 想法
 
