@@ -4,6 +4,39 @@
   resize: vertical;
 }
 
+.ai-task-butler-draft-status {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px 16px;
+  align-items: center;
+  margin-top: 10px;
+  padding: 8px 10px;
+  border: 1px solid var(--background-modifier-border);
+  border-radius: 6px;
+  background: var(--background-secondary);
+  color: var(--text-muted);
+  font-size: 0.9em;
+}
+
+.ai-task-butler-draft-item {
+  white-space: nowrap;
+}
+
+.ai-task-butler-date-control {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+}
+
+.ai-task-butler-date-picker {
+  max-width: 145px;
+}
+
+.ai-task-butler-clear-date {
+  padding: 2px 7px;
+  font-size: 0.85em;
+}
+
 .ai-task-butler-preview {
   margin-top: 12px;
   padding: 10px;

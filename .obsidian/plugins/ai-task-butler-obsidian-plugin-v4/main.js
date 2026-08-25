@@ -176,6 +176,10 @@ class CaptureTaskModal extends Modal {
     this.plugin = plugin;
     this.input = "";
     this.draft = null;
+    this.manualOverrides = {
+      priority: undefined,
+      scheduledDate: undefined
+    };
   }
 
   onOpen() {
@@ -189,20 +193,19 @@ class CaptureTaskModal extends Modal {
 
     contentEl.createEl("h2", { text: "AI Task Butler" });
     contentEl.createEl("p", {
-      text: "Enter 按 AI 解析创建；Ctrl+U/H/M/L 分别按最高、高、中、低优先级创建。"
+      text: "Enter 创建任务；Ctrl+U/H/M/L 选择优先级；Ctrl+Y/T/R 选择今天/明天/后天；Ctrl+1~7 选择最近的周一至周日；Ctrl+D 选择其他计划日期。反引号内内容会原样保留。"
     });
 
     const textArea = contentEl.createEl("textarea", {
       cls: "ai-task-butler-input",
       attr: {
-        placeholder: "写下或粘贴任务..."
+        placeholder: "写下或粘贴任务；用 `内容` 原样保留双链、网址、命令或专有文本..."
       }
     });
     textArea.value = this.input;
     textArea.addEventListener("input", () => {
       this.input = textArea.value;
-      this.draft = this.input.trim() ? parseTaskText(this.input) : null;
-      this.renderPreview();
+      this.refreshDraft();
     });
     textArea.addEventListener("keydown", (event) => {
       if (event.isComposing) return;
@@ -210,7 +213,20 @@ class CaptureTaskModal extends Modal {
       const shortcutPriority = priorityFromShortcutEvent(event);
       if (shortcutPriority) {
         event.preventDefault();
-        this.submit(shortcutPriority);
+        this.setPriorityOverride(shortcutPriority);
+        return;
+      }
+
+      const shortcutDate = dateFromShortcutEvent(event);
+      if (shortcutDate) {
+        event.preventDefault();
+        this.setScheduledDateOverride(shortcutDate);
+        return;
+      }
+
+      if (isDatePickerShortcutEvent(event)) {
+        event.preventDefault();
+        this.openDatePicker();
         return;
       }
 
@@ -220,8 +236,22 @@ class CaptureTaskModal extends Modal {
       }
     });
 
+    this.draftStatusEl = contentEl.createDiv({ cls: "ai-task-butler-draft-status" });
+    this.priorityStatusEl = this.draftStatusEl.createDiv({ cls: "ai-task-butler-draft-item" });
+    const dateControl = this.draftStatusEl.createDiv({ cls: "ai-task-butler-date-control" });
+    this.dateStatusEl = dateControl.createEl("span", { cls: "ai-task-butler-draft-item" });
+    this.dateInput = dateControl.createEl("input", {
+      cls: "ai-task-butler-date-picker",
+      attr: { type: "date", "aria-label": "计划日期" }
+    });
+    this.dateInput.addEventListener("change", () => {
+      this.setScheduledDateOverride(this.dateInput.value || undefined);
+    });
+    this.clearDateButton = dateControl.createEl("button", { text: "清除", cls: "ai-task-butler-clear-date" });
+    this.clearDateButton.addEventListener("click", () => this.setScheduledDateOverride(undefined));
+
     this.previewEl = contentEl.createDiv({ cls: "ai-task-butler-preview" });
-    this.renderPreview();
+    this.refreshDraft();
 
     const buttonRow = contentEl.createDiv({ cls: "ai-task-butler-actions" });
     const voiceButton = buttonRow.createEl("button", { text: "语音输入" });
@@ -249,7 +279,51 @@ class CaptureTaskModal extends Modal {
     textArea.focus();
   }
 
-  async submit(priorityOverride) {
+  refreshDraft() {
+    const parsedDraft = this.input.trim() ? parseTaskText(this.input) : null;
+    this.draft = parsedDraft ? applyTaskDraftOverrides(parsedDraft, this.manualOverrides) : null;
+    this.renderDraftStatus();
+    this.renderPreview();
+  }
+
+  setPriorityOverride(priority) {
+    this.manualOverrides.priority = this.manualOverrides.priority === priority ? undefined : priority;
+    this.refreshDraft();
+  }
+
+  setScheduledDateOverride(scheduledDate) {
+    this.manualOverrides.scheduledDate = validDateOrUndefined(scheduledDate);
+    this.refreshDraft();
+  }
+
+  openDatePicker() {
+    if (!this.dateInput) return;
+    this.dateInput.focus();
+    if (typeof this.dateInput.showPicker === "function") {
+      try {
+        this.dateInput.showPicker();
+      } catch (error) {
+        console.warn("AI Task Butler: could not open date picker.", error);
+      }
+    }
+  }
+
+  renderDraftStatus() {
+    if (!this.priorityStatusEl || !this.dateStatusEl || !this.dateInput) return;
+
+    const priority = this.draft?.priority || "none";
+    const priorityLabel = priorityDisplayName(priority);
+    const prioritySource = this.manualOverrides.priority ? "手动" : "自动";
+    this.priorityStatusEl.setText(`优先级：${priorityLabel}（${prioritySource}）`);
+
+    const scheduledDate = this.draft?.scheduledDate;
+    const dateSource = this.manualOverrides.scheduledDate ? "手动" : "自动";
+    this.dateStatusEl.setText(scheduledDate ? `计划日期：${scheduledDate}（${dateSource}）` : "计划日期：未指定（自动）");
+    this.dateInput.value = this.manualOverrides.scheduledDate || "";
+    this.clearDateButton.style.display = this.manualOverrides.scheduledDate ? "" : "none";
+  }
+
+  async submit() {
     if (this.isSubmitting) return;
     if (!this.input.trim()) {
       new Notice("请输入任务内容。");
@@ -263,8 +337,8 @@ class CaptureTaskModal extends Modal {
     }
 
     try {
-      const draft = await this.plugin.parseTask(this.input);
-      if (priorityOverride) draft.priority = priorityOverride;
+      const parsedDraft = await this.plugin.parseTask(this.input);
+      const draft = applyTaskDraftOverrides(parsedDraft, this.manualOverrides);
       await this.plugin.appendTask(draft);
       this.close();
     } catch (error) {
@@ -374,8 +448,7 @@ class CaptureTaskModal extends Modal {
     const prefix = textArea.value.trim() ? `${textArea.value.trim()} ` : "";
     textArea.value = `${prefix}${cleanTranscript}`;
     this.input = textArea.value;
-    this.draft = parseTaskText(this.input);
-    this.renderPreview();
+    this.refreshDraft();
   }
 
   startDictation(textArea, voiceButton) {
@@ -428,8 +501,7 @@ class CaptureTaskModal extends Modal {
 
       textArea.value = [baseText, combined].filter(Boolean).join(" ");
       this.input = textArea.value;
-      this.draft = parseTaskText(this.input);
-      this.renderPreview();
+      this.refreshDraft();
     };
 
     recognition.onnomatch = () => {
@@ -1065,7 +1137,7 @@ async function ensureMarkdownFile(app, path) {
 }
 
 function priorityFromShortcutEvent(event) {
-  if (!event.ctrlKey || event.altKey || event.metaKey || event.shiftKey) return undefined;
+  if (!isPlainCtrlShortcutEvent(event)) return undefined;
 
   const key = String(event.key || "").toLowerCase();
   const priorityByKey = {
@@ -1077,8 +1149,81 @@ function priorityFromShortcutEvent(event) {
   return priorityByKey[key];
 }
 
+function dateFromShortcutEvent(event, now = new Date()) {
+  if (!isPlainCtrlShortcutEvent(event)) return undefined;
+
+  const key = String(event.key || "").toLowerCase();
+  if (key === "y") return formatDate(now);
+  if (key === "t") return formatDate(addDays(now, 1));
+  if (key === "r") return formatDate(addDays(now, 2));
+  if (!/^[1-7]$/.test(key)) return undefined;
+
+  const targetDay = Number(key) === 7 ? 0 : Number(key);
+  const today = startOfDay(now);
+  const delta = (targetDay - today.getDay() + 7) % 7;
+  return formatDate(addDays(today, delta));
+}
+
+function isDatePickerShortcutEvent(event) {
+  return isPlainCtrlShortcutEvent(event) && String(event.key || "").toLowerCase() === "d";
+}
+
+function isPlainCtrlShortcutEvent(event) {
+  return Boolean(event.ctrlKey) && !event.altKey && !event.metaKey && !event.shiftKey;
+}
+
+function priorityDisplayName(priority) {
+  return {
+    highest: "最高",
+    high: "高",
+    medium: "中",
+    low: "低",
+    lowest: "最低",
+    none: "未指定"
+  }[priority] || "未指定";
+}
+
+function applyTaskDraftOverrides(draft, overrides = {}) {
+  return {
+    ...draft,
+    ...(overrides.priority !== undefined ? { priority: overrides.priority } : {}),
+    ...(overrides.scheduledDate !== undefined ? { scheduledDate: overrides.scheduledDate } : {})
+  };
+}
+
+function protectRawSegments(rawText) {
+  const segments = [];
+  const protectedText = String(rawText || "").replace(/`([^`]*)`/g, (_match, content) => {
+    const token = `__ATBRAW${segments.length}__`;
+    segments.push({ token, content });
+    return token;
+  });
+  return { protectedText, segments };
+}
+
+function restoreRawSegments(text, segments) {
+  let restored = String(text || "");
+  for (const segment of segments) {
+    restored = restored.split(segment.token).join(segment.content);
+  }
+  return restored;
+}
+
+function normalizeOutsideRawSegments(text, segments) {
+  return String(text || "")
+    .trim()
+    .replace(/\s+/g, " ")
+    .replace(/(__ATBRAW\d+__)/g, "$1")
+    .trim();
+}
+
+function containsAllRawTokens(text, segments) {
+  return segments.every((segment) => String(text || "").includes(segment.token));
+}
+
 function parseTaskText(rawText, now = new Date()) {
-  const original = rawText.trim().replace(/\s+/g, " ");
+  const protection = protectRawSegments(rawText);
+  const original = normalizeOutsideRawSegments(protection.protectedText, protection.segments);
   const extractedTags = [...original.matchAll(/#[\p{L}\p{N}_/-]+/gu)].map((match) => match[0]);
   const priority = inferPriority(original);
   const dateInfo = inferDateInfo(original, now);
@@ -1087,7 +1232,9 @@ function parseTaskText(rawText, now = new Date()) {
   if (recurrence && !dateInfo.scheduledDate && !dateInfo.startDate) {
     dateInfo.scheduledDate = nextOccurrenceDateForTime(now, timeInfo);
   }
-  const title = cleanTitle(original);
+  const protectedTitle = cleanTitle(original);
+  const title = restoreRawSegments(protectedTitle, protection.segments);
+  const sourceText = restoreRawSegments(original, protection.segments);
 
   let confidence = 0.72;
   if (dateInfo.scheduledDate) confidence += 0.1;
@@ -1096,14 +1243,14 @@ function parseTaskText(rawText, now = new Date()) {
   if (title.length < 3) confidence -= 0.2;
 
   return {
-    title: title || original,
+    title: title || sourceText,
     tags: extractedTags,
     scheduledDate: dateInfo.scheduledDate,
     startDate: dateInfo.startDate,
     recurrence,
     priority,
     confidence: Math.max(0.1, Math.min(confidence, 0.95)),
-    sourceText: original
+    sourceText
   };
 }
 
@@ -1114,8 +1261,9 @@ async function parseTaskWithAiFallback(rawText, settings, now = new Date()) {
   }
 
   try {
-    const aiDraft = await parseTaskWithChatCompletions(rawText, settings, now);
-    return normalizeAiDraft(aiDraft, localDraft);
+    const protection = protectRawSegments(rawText);
+    const aiDraft = await parseTaskWithChatCompletions(protection.protectedText, settings, now);
+    return normalizeAiDraft(aiDraft, localDraft, protection.segments);
   } catch (error) {
     console.warn("AI Task Butler: AI parsing failed, using offline parser.", error);
     new Notice(`AI task parsing failed; used offline parser instead. ${error.message || ""}`, 10000);
@@ -1215,20 +1363,25 @@ function taskParserSystemPrompt() {
     "tags 必须是以 # 开头的数组；日期字段格式为 YYYY-MM-DD；没有值时用 null。",
     "recurrence 是 Obsidian Tasks 循环规则；每天对应 every day。",
     "不要输出 dueDate、reminderAt 或其他自定义提醒字段。",
+    "输入可能包含 __ATBRAW0__ 这类原样内容占位符；它们代表用户要求原样保留的文本，必须在 title 中逐字原样保留，不能删除、改写、拆分或解释。",
     "截止、ddl、deadline、某日前等表达中的日期必须写入 scheduledDate，不能写入截止日期字段。",
     "所有日期以 user.now 和 user.timezoneHint 为基准，不能编造日期。",
     "紧急、马上、必须今天对应 highest；重要、尽快、截止对应 high；普通对应 medium；有空、不急对应 low。"
   ].join("\n");
 }
 
-function normalizeAiDraft(aiDraft, fallbackDraft) {
+function normalizeAiDraft(aiDraft, fallbackDraft, rawSegments = []) {
   const priority = isValidPriority(aiDraft.priority) ? aiDraft.priority : fallbackDraft.priority;
   const tags = Array.isArray(aiDraft.tags)
     ? aiDraft.tags.filter(Boolean).map(String).map(normalizeTag)
     : fallbackDraft.tags;
+  const aiTitle = safeString(aiDraft.title);
+  const protectedAiTitle = rawSegments.length > 0 && !containsAllRawTokens(aiTitle, rawSegments)
+    ? fallbackDraft.title
+    : restoreRawSegments(aiTitle, rawSegments);
 
   const normalized = {
-    title: safeString(aiDraft.title) || fallbackDraft.title,
+    title: protectedAiTitle || fallbackDraft.title,
     notes: safeString(aiDraft.notes) || undefined,
     project: safeString(aiDraft.project) || undefined,
     tags,
@@ -1241,7 +1394,6 @@ function normalizeAiDraft(aiDraft, fallbackDraft) {
     questions: Array.isArray(aiDraft.questions) ? aiDraft.questions.filter(Boolean).map(String) : [],
     sourceText: fallbackDraft.sourceText
   };
-
 
   return normalized;
 }

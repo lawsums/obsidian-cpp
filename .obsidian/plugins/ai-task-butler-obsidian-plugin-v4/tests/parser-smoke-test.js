@@ -54,6 +54,14 @@ assert.equal(sandbox.priorityFromShortcutEvent({ ctrlKey: true, altKey: false, m
 assert.equal(sandbox.priorityFromShortcutEvent({ ctrlKey: true, altKey: false, metaKey: false, shiftKey: false, key: "l" }), "low");
 assert.equal(sandbox.priorityFromShortcutEvent({ ctrlKey: false, altKey: false, metaKey: false, shiftKey: false, key: "h" }), undefined);
 assert.equal(sandbox.priorityFromShortcutEvent({ ctrlKey: true, altKey: false, metaKey: false, shiftKey: true, key: "h" }), undefined);
+assert.equal(sandbox.dateFromShortcutEvent({ ctrlKey: true, altKey: false, metaKey: false, shiftKey: false, key: "y" }, now), "2026-06-30");
+assert.equal(sandbox.dateFromShortcutEvent({ ctrlKey: true, altKey: false, metaKey: false, shiftKey: false, key: "t" }, now), "2026-07-01");
+assert.equal(sandbox.dateFromShortcutEvent({ ctrlKey: true, altKey: false, metaKey: false, shiftKey: false, key: "r" }, now), "2026-07-02");
+assert.equal(sandbox.dateFromShortcutEvent({ ctrlKey: true, altKey: false, metaKey: false, shiftKey: false, key: "1" }, now), "2026-07-06");
+assert.equal(sandbox.dateFromShortcutEvent({ ctrlKey: true, altKey: false, metaKey: false, shiftKey: false, key: "2" }, now), "2026-06-30");
+assert.equal(sandbox.dateFromShortcutEvent({ ctrlKey: true, altKey: false, metaKey: false, shiftKey: false, key: "7" }, now), "2026-07-05");
+assert.equal(sandbox.isDatePickerShortcutEvent({ ctrlKey: true, altKey: false, metaKey: false, shiftKey: false, key: "d" }), true);
+assert.equal(sandbox.isDatePickerShortcutEvent({ ctrlKey: true, altKey: false, metaKey: false, shiftKey: true, key: "d" }), false);
 
 const settings = {
   aiProvider: "off",
@@ -97,6 +105,34 @@ assert.equal(aiNormalizedTask.scheduledDate, "2026-07-03");
 assert.equal(aiNormalizedTask.dueDate, undefined);
 assert.equal(aiNormalizedTask.reminderAt, undefined);
 assert.doesNotMatch(sandbox.taskDraftToMarkdown(aiNormalizedTask, settings), /(?:⏰|📅)/u);
+
+const rawPreservedTask = sandbox.parseTaskText("明天整理 `[[项目文档]] https://example.com/a?id=123 #keep deadline 2026-07-10 很重要`", now);
+assert.equal(rawPreservedTask.scheduledDate, "2026-07-01");
+assert.equal(rawPreservedTask.priority, "none");
+assert.equal(rawPreservedTask.tags.length, 0);
+assert.equal(rawPreservedTask.title, "整理 [[项目文档]] https://example.com/a?id=123 #keep deadline 2026-07-10 很重要");
+assert.match(sandbox.taskDraftToMarkdown(rawPreservedTask, settings), /\[\[项目文档\]\] https:\/\/example\.com\/a\?id=123 #keep deadline 2026-07-10 很重要/);
+
+const rawSpacedTask = sandbox.parseTaskText("处理 `保留  两个空格` 明天", now);
+assert.match(rawSpacedTask.title, /保留  两个空格/);
+
+const mergedOverrides = sandbox.applyTaskDraftOverrides(contractTask, {
+  priority: "low",
+  scheduledDate: "2026-07-09"
+});
+assert.equal(mergedOverrides.priority, "low");
+assert.equal(mergedOverrides.scheduledDate, "2026-07-09");
+assert.equal(contractTask.priority, "high");
+assert.equal(contractTask.scheduledDate, "2026-07-01");
+
+const aiRawFallback = sandbox.normalizeAiDraft({
+  title: "整理链接",
+  tags: [],
+  priority: "medium",
+  confidence: 0.9,
+  questions: []
+}, rawPreservedTask, [{ token: "__ATBRAW0__", content: "[[项目文档]] https://example.com/a?id=123 #keep deadline 2026-07-10 很重要" }]);
+assert.equal(aiRawFallback.title, rawPreservedTask.title);
 
 const looseTask = sandbox.parseTaskText("下周找时间聊一下方案", now);
 assert.ok(looseTask.confidence < 0.55);
