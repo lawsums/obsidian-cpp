@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787650644213-x7n55n6hw",
+  "providerId": "claude",
+  "title": "总结柄尧英语课堂学习反馈",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787650644218,
+  "updatedAt": 1787651833853,
+  "lastResponseAt": 1787651833853,
+  "sessionId": "456256f4-0733-4356-8d3f-4f1b824c0e42",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "456256f4-0733-4356-8d3f-4f1b824c0e42"
+  },
+  "currentNote": "Templates/Homepage/和家长同步家教状况.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 195,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 58112,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 58307,
+    "percentage": 29
+  }
+}

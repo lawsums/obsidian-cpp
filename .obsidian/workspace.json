@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "02c335c035ea2a8d",
+            "id": "e0e08e7adc589b12",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Templates/Homepage/安全视频往后刷.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "算法路线图"
+              "title": "安全视频往后刷"
+            }
+          },
+          {
+            "id": "7e343fab355365c8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/和家长同步家教状况.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "和家长同步家教状况"
             }
           },
           {
@@ -103,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -247,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Templates/Homepage/和家长同步家教状况.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法路线图 的大纲"
+              "title": "和家长同步家教状况 的大纲"
             }
           },
           {
@@ -331,14 +356,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "7e343fab355365c8",
   "lastOpenFiles": [
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Templates/Homepage/安全视频往后刷.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/和家长同步家教状况.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Leetcode/算法路线图.md",
     "Templates/配置 VSCode 阅读 Linux 源码环境.md",
     "Templates/Tasks.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Daily_note_template.md",
     "Leetcode/3649.破解锁的最少时间 I.md",
     "Attachments/Pasted image 20260824120742.png",
@@ -374,7 +400,6 @@
     "Templates/思考状压DP.md",
     "100-学习/120-嵌入式/C++嵌入式.md",
     "Dairies/2026-08-21.md",
-    "Leetcode/1525.查询带键的排列.md",
     "Leetcode/1525.查询带键的排列.cpp",
     "Leetcode/1487.安排电影院座位.cpp",
     "Leetcode/1772.通过指令创建有序数组.cpp",
