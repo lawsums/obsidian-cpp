@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8fa3bde95b82293",
+            "id": "bbaa3f9d45ffda68",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
+            }
+          },
+          {
+            "id": "2afd71fca56689db",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/120-嵌入式/anki/嵌入式interview-anki.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "嵌入式interview-anki"
             }
           },
           {
@@ -355,10 +379,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "bbaa3f9d45ffda68",
   "lastOpenFiles": [
     "Templates/Homepage/安全视频往后刷.md",
     "Templates/Homepage/Homepage.md",
+    "100-学习/120-嵌入式/anki/嵌入式interview-anki.md",
+    "100-学习/120-嵌入式/未命名.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Leetcode/算法路线图.md",
@@ -397,8 +423,6 @@
     "100-学习/120-嵌入式/Rust嵌入式.md",
     "Attachments/Pasted image 20260821113930.png",
     "Templates/思考状压DP.md",
-    "100-学习/120-嵌入式/C++嵌入式.md",
-    "Dairies/2026-08-21.md",
     "Leetcode/1525.查询带键的排列.cpp",
     "Leetcode/1487.安排电影院座位.cpp",
     "Leetcode/1772.通过指令创建有序数组.cpp",
