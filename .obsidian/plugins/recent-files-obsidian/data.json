@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "让AI搜索并备份所有配置文件",
+      "path": "Templates/Homepage/让AI搜索并备份所有配置文件.md"
+    },
+    {
       "basename": "嵌入式interview-anki",
       "path": "100-学习/120-嵌入式/anki/嵌入式interview-anki.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Vscode",
       "path": "Software/Vscode.md"
-    },
-    {
-      "basename": "Bootloader-anki",
-      "path": "100-学习/120-嵌入式/anki/Bootloader-anki.md"
     }
   ],
   "omittedPaths": [],

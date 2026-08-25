@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "e7aeb9326c2e4bde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/让AI搜索并备份所有配置文件.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "让AI搜索并备份所有配置文件"
+            }
+          },
+          {
             "id": "2afd71fca56689db",
             "type": "leaf",
             "state": {
@@ -357,9 +381,10 @@
   },
   "active": "dbcca0a050917017",
   "lastOpenFiles": [
+    "Templates/Homepage/让AI搜索并备份所有配置文件.md",
+    "Templates/Homepage/Homepage.md",
     "100-学习/120-嵌入式/anki/嵌入式interview-anki.md",
     "Templates/Tasks.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/安全视频往后刷.md",
     "Templates/Homepage/研究 VSCode 维护公共配置部分.md",
     "100-学习/120-嵌入式/手写驱动/模拟I2C.md",
@@ -397,7 +422,6 @@
     "Attachments/1_1787391646634.jpg",
     "Attachments/Pasted image 20260822202518.png",
     "Leetcode/3649.破解锁的最少时间 I.cpp",
-    "Dairies/2026-08-22.md",
     "100-学习/110-计算机/语言/Rust",
     "Attachments/Pasted image 20260821113930.png",
     "Leetcode/1525.查询带键的排列.cpp",
