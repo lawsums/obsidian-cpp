@@ -5,16 +5,28 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
+      "basename": "嵌入式C造轮子",
+      "path": "Templates/Homepage/嵌入式C造轮子.md"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
+    },
+    {
+      "basename": "配置 VSCode 阅读 Linux 源码环境",
+      "path": "Templates/配置 VSCode 阅读 Linux 源码环境.md"
+    },
+    {
+      "basename": "让AI搜索并备份所有配置文件",
+      "path": "Templates/Homepage/让AI搜索并备份所有配置文件.md"
     },
     {
       "basename": "路线梳理",
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
-      "basename": "让AI搜索并备份所有配置文件",
-      "path": "Templates/Homepage/让AI搜索并备份所有配置文件.md"
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "算法路线图",
@@ -23,14 +35,6 @@
     {
       "basename": "安全视频往后刷",
       "path": "Templates/Homepage/安全视频往后刷.md"
-    },
-    {
-      "basename": "配置 VSCode 阅读 Linux 源码环境",
-      "path": "Templates/配置 VSCode 阅读 Linux 源码环境.md"
-    },
-    {
-      "basename": "003_不定期任务",
-      "path": "Templates/Homepage/003_不定期任务.md"
     },
     {
       "basename": "嵌入式interview-anki",
@@ -195,10 +199,6 @@
     {
       "basename": "Vscode插件",
       "path": "Software/Vscode插件.md"
-    },
-    {
-      "basename": "Vscode",
-      "path": "Software/Vscode.md"
     }
   ],
   "omittedPaths": [],
