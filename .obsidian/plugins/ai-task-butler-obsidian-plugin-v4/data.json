@@ -22,19 +22,5 @@
   "appendCreatedDate": true,
   "appendBlockId": true,
   "openInboxAfterCapture": false,
-  "lowConfidenceThreshold": 0.55,
-  "notifiedReminders": {
-    "Tasks/Inbox.md:3:2026-07-01T15:00:^task-20260630-f7549b7a": "2026-07-01T11:58:40.748Z",
-    "Templates/Tasks.md:31:2026-07-13T00:00:^task-20260712-da0a44d8": "2026-07-13T01:05:40.705Z",
-    "Templates/Tasks.md:43:2026-07-14T09:00:^task-20260713-b8f688a8": "2026-07-14T01:51:03.471Z",
-    "Templates/Tasks.md:44:2026-07-14T09:00:^task-20260713-b8f688a8": "2026-07-14T05:21:51.957Z",
-    "Templates/Tasks.md:73:2026-07-17T16:27:^task-20260718-56b40c1b": "2026-07-18T01:37:31.194Z",
-    "Templates/Tasks.md:74:2026-07-17T16:27:^task-20260718-56b40c1b": "2026-07-18T02:16:47.693Z",
-    "Templates/Tasks.md:90:2026-07-21T12:05:^task-20260721-6280d2dd": "2026-07-21T12:06:16.746Z",
-    "Templates/Tasks.md:91:2026-07-21T12:05:^task-20260721-6280d2dd": "2026-07-21T12:40:16.487Z",
-    "Templates/Tasks.md:92:2026-07-21T12:05:^task-20260721-6280d2dd": "2026-07-21T13:14:16.132Z",
-    "Templates/Tasks.md:243:2026-08-06T10:53:^task-20260806-757a0d4a": "2026-08-06T10:54:03.875Z",
-    "Templates/Tasks.md:244:2026-08-06T10:53:^task-20260806-757a0d4a": "2026-08-06T14:40:04.079Z",
-    "Templates/Tasks.md:245:2026-08-06T10:53:^task-20260806-757a0d4a": "2026-08-07T01:56:03.496Z"
-  }
+  "lowConfidenceThreshold": 0.55
 }

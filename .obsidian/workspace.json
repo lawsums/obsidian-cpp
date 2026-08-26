@@ -175,8 +175,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -405,8 +404,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "b8bcde97e43afcea",
+  "active": "dbcca0a050917017",
   "lastOpenFiles": [
+    "Templates/Homepage/003_不定期任务.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/让AI搜索并备份所有配置文件.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
@@ -440,7 +440,6 @@
     "100-学习/110-计算机/代码模版/小知识/容斥原理.md",
     "100-学习/120-嵌入式/anki/蔚来面试-anki.md",
     "100-学习/120-嵌入式/八股文.md",
-    "Templates/Homepage/004_闪念.md",
     "Attachments/1_1787402271504.jpg",
     "Attachments/1_1787401970805.jpg",
     "Attachments/1_1787401733338.jpg",
