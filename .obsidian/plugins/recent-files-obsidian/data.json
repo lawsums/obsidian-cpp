@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
+      "basename": "研究对小智AI做二次开发",
+      "path": "Templates/研究对小智AI做二次开发.md"
+    },
+    {
       "basename": "嵌入式C造轮子",
       "path": "Templates/Homepage/嵌入式C造轮子.md"
     },
@@ -41,10 +49,6 @@
       "path": "100-学习/120-嵌入式/anki/嵌入式interview-anki.md"
     },
     {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
-    },
-    {
       "basename": "研究 VSCode 维护公共配置部分",
       "path": "Templates/Homepage/研究 VSCode 维护公共配置部分.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "3649.破解锁的最少时间 I",
       "path": "Leetcode/3649.破解锁的最少时间 I.md"
-    },
-    {
-      "basename": "研究对小智AI做二次开发",
-      "path": "Templates/研究对小智AI做二次开发.md"
     },
     {
       "basename": "框架梳理",

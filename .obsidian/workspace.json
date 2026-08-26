@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "3389992738d142bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "01446b587caba3e2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/研究对小智AI做二次开发.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "研究对小智AI做二次开发"
+            }
+          },
+          {
             "id": "a5cc6b2a03f70421",
             "type": "leaf",
             "state": {
@@ -265,7 +313,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -381,8 +430,10 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/嵌入式C造轮子.md",
+    "Templates/Tasks.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/研究对小智AI做二次开发.md",
+    "Templates/Homepage/嵌入式C造轮子.md",
     "Templates/Homepage/003_不定期任务.md",
     "Templates/配置 VSCode 阅读 Linux 源码环境.md",
     "Templates/Homepage/让AI搜索并备份所有配置文件.md",
@@ -393,7 +444,6 @@
     "Leetcode/算法路线图.md",
     "Templates/Homepage/安全视频往后刷.md",
     "100-学习/120-嵌入式/anki/嵌入式interview-anki.md",
-    "Templates/Tasks.md",
     "Templates/Homepage/研究 VSCode 维护公共配置部分.md",
     "100-学习/120-嵌入式/手写驱动/模拟I2C.md",
     "100-学习/120-嵌入式/手写驱动",
@@ -405,7 +455,6 @@
     "Attachments/Pasted image 20260824114438.png",
     "Attachments/二上数学表内除法常考易错应用题（共6页含答案）.pdf",
     "Attachments/二年级（上）数学 表内乘法常考易错题.pdf",
-    "Templates/研究对小智AI做二次开发.md",
     "Dairies/2026-08-24.md",
     "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md",
     "Templates/Homepage/用ai产出创意内容.md",
