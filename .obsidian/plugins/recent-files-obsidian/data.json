@@ -5,8 +5,16 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
       "basename": "安全视频往后刷",
       "path": "Templates/Homepage/安全视频往后刷.md"
+    },
+    {
+      "basename": "配置 VSCode 阅读 Linux 源码环境",
+      "path": "Templates/配置 VSCode 阅读 Linux 源码环境.md"
     },
     {
       "basename": "003_不定期任务",
@@ -39,14 +47,6 @@
     {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
-    },
-    {
-      "basename": "配置 VSCode 阅读 Linux 源码环境",
-      "path": "Templates/配置 VSCode 阅读 Linux 源码环境.md"
     },
     {
       "basename": "Daily_note_template",
