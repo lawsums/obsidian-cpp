@@ -4,8 +4,8 @@
   "title": "总结柄尧英语课堂学习反馈",
   "titleGenerationStatus": "success",
   "createdAt": 1787650644218,
-  "updatedAt": 1787706925922,
-  "lastResponseAt": 1787651833853,
+  "updatedAt": 1787738815879,
+  "lastResponseAt": 1787738815879,
   "sessionId": "456256f4-0733-4356-8d3f-4f1b824c0e42",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Templates/Homepage/和家长同步家教状况.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 195,
+    "inputTokens": 186,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 58112,
+    "cacheReadInputTokens": 69888,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 58307,
-    "percentage": 29
+    "contextTokens": 70074,
+    "percentage": 35
   }
 }
