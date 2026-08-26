@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "让AI搜索并备份所有配置文件",
+      "path": "Templates/Homepage/让AI搜索并备份所有配置文件.md"
     },
     {
       "basename": "算法路线图",
@@ -19,14 +27,6 @@
     {
       "basename": "003_不定期任务",
       "path": "Templates/Homepage/003_不定期任务.md"
-    },
-    {
-      "basename": "让AI搜索并备份所有配置文件",
-      "path": "Templates/Homepage/让AI搜索并备份所有配置文件.md"
-    },
-    {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "嵌入式interview-anki",
