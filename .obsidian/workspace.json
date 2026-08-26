@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dbcca0a050917017",
+            "id": "a8fa3bde95b82293",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "b8bcde97e43afcea",
+            "id": "eac5d71192749dfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/003_不定期任务.md",
+                "file": "Templates/Homepage/安全视频往后刷.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "003_不定期任务"
+              "title": "安全视频往后刷"
             }
           },
           {
-            "id": "9f87af29f34aac1f",
+            "id": "02c335c035ea2a8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
+                "file": "Leetcode/算法路线图.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,55 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "路线梳理"
-            }
-          },
-          {
-            "id": "e7aeb9326c2e4bde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/让AI搜索并备份所有配置文件.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "让AI搜索并备份所有配置文件"
-            }
-          },
-          {
-            "id": "2afd71fca56689db",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100-学习/120-嵌入式/anki/嵌入式interview-anki.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "嵌入式interview-anki"
+              "title": "算法路线图"
             }
           },
           {
@@ -289,8 +241,7 @@
               "title": "Recent Files"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -404,15 +355,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "dbcca0a050917017",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/003_不定期任务.md",
+    "Templates/Homepage/安全视频往后刷.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/003_不定期任务.md",
     "Templates/Homepage/让AI搜索并备份所有配置文件.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "100-学习/120-嵌入式/anki/嵌入式interview-anki.md",
     "Templates/Tasks.md",
-    "Templates/Homepage/安全视频往后刷.md",
     "Templates/Homepage/研究 VSCode 维护公共配置部分.md",
     "100-学习/120-嵌入式/手写驱动/模拟I2C.md",
     "100-学习/120-嵌入式/手写驱动",

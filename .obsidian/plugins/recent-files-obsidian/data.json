@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "安全视频往后刷",
+      "path": "Templates/Homepage/安全视频往后刷.md"
+    },
+    {
       "basename": "003_不定期任务",
       "path": "Templates/Homepage/003_不定期任务.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
-    },
-    {
-      "basename": "安全视频往后刷",
-      "path": "Templates/Homepage/安全视频往后刷.md"
     },
     {
       "basename": "研究 VSCode 维护公共配置部分",
