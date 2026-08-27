@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787837771541-ni11dfjuu",
+  "providerId": "claude",
+  "title": "Explain Python bitmask DP for Min XOR Sum",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787837771544,
+  "updatedAt": 1787837804769,
+  "lastResponseAt": 1787837804769,
+  "sessionId": "4766ba1e-f988-4a44-89c8-ba0c3e8801ad",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4766ba1e-f988-4a44-89c8-ba0c3e8801ad"
+  },
+  "currentNote": "Leetcode/1989.两个数组最小的异或值之和.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2958,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30464,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 33422,
+    "percentage": 17
+  }
+}

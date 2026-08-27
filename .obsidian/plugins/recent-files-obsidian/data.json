@@ -5,6 +5,22 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "创建面试题模板_插件",
+      "path": "Templates/Homepage/创建面试题模板_插件.md"
+    },
+    {
+      "basename": "1989.两个数组最小的异或值之和",
+      "path": "Leetcode/1989.两个数组最小的异或值之和.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
     },
@@ -35,10 +51,6 @@
     {
       "basename": "路线梳理",
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "安全视频往后刷",
@@ -75,10 +87,6 @@
     {
       "basename": "1906.N 次操作后的最大分数和",
       "path": "Leetcode/1906.N 次操作后的最大分数和.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "字符串String",
@@ -191,14 +199,6 @@
     {
       "basename": "Bootloader-anki2",
       "path": "100-学习/120-嵌入式/anki/Bootloader-anki2.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/FreeRTOS开发板入门/框架梳理.md"
-    },
-    {
-      "basename": "Vscode插件",
-      "path": "Software/Vscode插件.md"
     }
   ],
   "omittedPaths": [],
