@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
+      "basename": "配置 VSCode 阅读 Linux 源码环境",
+      "path": "Templates/配置 VSCode 阅读 Linux 源码环境.md"
+    },
+    {
       "basename": "创建面试题模板_插件",
       "path": "Templates/Homepage/创建面试题模板_插件.md"
     },
@@ -41,10 +49,6 @@
       "path": "Templates/Homepage/003_不定期任务.md"
     },
     {
-      "basename": "配置 VSCode 阅读 Linux 源码环境",
-      "path": "Templates/配置 VSCode 阅读 Linux 源码环境.md"
-    },
-    {
       "basename": "让AI搜索并备份所有配置文件",
       "path": "Templates/Homepage/让AI搜索并备份所有配置文件.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "框架梳理",
       "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "1906.N 次操作后的最大分数和",
