@@ -5,10 +5,6 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
-    },
-    {
       "basename": "配置 VSCode 阅读 Linux 源码环境",
       "path": "Templates/配置 VSCode 阅读 Linux 源码环境.md"
     },
@@ -17,12 +13,28 @@
       "path": "Templates/Homepage/创建面试题模板_插件.md"
     },
     {
-      "basename": "1989.两个数组最小的异或值之和",
-      "path": "Leetcode/1989.两个数组最小的异或值之和.md"
+      "basename": "anki-科目三",
+      "path": "Temp/anki-科目三.md"
+    },
+    {
+      "basename": "Anki-科目三",
+      "path": "Vocabulary/Anki-科目三.md"
+    },
+    {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
+      "basename": "1989.两个数组最小的异或值之和",
+      "path": "Leetcode/1989.两个数组最小的异或值之和.md"
     },
     {
       "basename": "算法路线图",
@@ -31,10 +43,6 @@
     {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "研究对小智AI做二次开发",
@@ -191,14 +199,6 @@
     {
       "basename": "2319.由单个字符重复的最长子字符串",
       "path": "Leetcode/2319.由单个字符重复的最长子字符串.md"
-    },
-    {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
-      "basename": "Bootloader-anki2",
-      "path": "100-学习/120-嵌入式/anki/Bootloader-anki2.md"
     }
   ],
   "omittedPaths": [],

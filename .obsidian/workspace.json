@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "fec84441c9848556",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/创建面试题模板_插件.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "创建面试题模板_插件"
-            }
-          },
-          {
             "id": "80cff0b081da6c7b",
             "type": "leaf",
             "state": {
@@ -393,16 +369,18 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/配置 VSCode 阅读 Linux 源码环境.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/创建面试题模板_插件.md",
-    "Leetcode/1989.两个数组最小的异或值之和.md",
+    "Templates/Homepage/Homepage.md",
+    "Temp/anki-科目三.md",
+    "Vocabulary/Anki-科目三.md",
+    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/学习C++.md",
+    "Templates/Tasks.md",
+    "Leetcode/1989.两个数组最小的异或值之和.md",
     "Leetcode/算法路线图.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Leetcode/1989.两个数组最小的异或值之和.cpp",
-    "Templates/Tasks.md",
     "Templates/研究对小智AI做二次开发.md",
     "Templates/Homepage/嵌入式C造轮子.md",
     "Templates/Homepage/003_不定期任务.md",
@@ -428,8 +406,6 @@
     "Attachments/xiaozhi-esp32-main (1).zip",
     "Leetcode/1906.N 次操作后的最大分数和.md",
     "Leetcode/1906.N 次操作后的最大分数和.cpp",
-    "100-学习/110-计算机/语言/Rust/字符串String.md",
-    "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Attachments/1_1787402271504.jpg",
     "Attachments/1_1787401970805.jpg",
     "Attachments/1_1787401733338.jpg",
