@@ -217,7 +217,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -333,9 +334,9 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Dairies/2026-08-28.md",
     "Templates/Tasks.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-08-28.md",
     "Templates/配置 VSCode 阅读 Linux 源码环境.md",
     "Templates/Homepage/创建面试题模板_插件.md",
     "Temp/anki-科目三.md",
