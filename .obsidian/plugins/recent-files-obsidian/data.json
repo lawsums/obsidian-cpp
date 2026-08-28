@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "配置 VSCode 阅读 Linux 源码环境",
+      "path": "Templates/配置 VSCode 阅读 Linux 源码环境.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -9,8 +13,12 @@
       "path": "Templates/Tasks.md"
     },
     {
-      "basename": "配置 VSCode 阅读 Linux 源码环境",
-      "path": "Templates/配置 VSCode 阅读 Linux 源码环境.md"
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
     },
     {
       "basename": "创建面试题模板_插件",
@@ -37,10 +45,6 @@
       "path": "Leetcode/1989.两个数组最小的异或值之和.md"
     },
     {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
-    },
-    {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
     },
@@ -51,10 +55,6 @@
     {
       "basename": "嵌入式C造轮子",
       "path": "Templates/Homepage/嵌入式C造轮子.md"
-    },
-    {
-      "basename": "003_不定期任务",
-      "path": "Templates/Homepage/003_不定期任务.md"
     },
     {
       "basename": "让AI搜索并备份所有配置文件",

@@ -92,7 +92,8 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-27
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-28
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-27 ✅ 2026-08-28
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-26 ✅ 2026-08-27
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-25 ✅ 2026-08-25
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-24 ✅ 2026-08-25
@@ -407,7 +408,8 @@ sort by description
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ➕ 2026-08-12 ⏳ 2026-08-12 ✅ 2026-08-12 ^task-20260812-b13f0a8f
 - [x] 将bootloader题目加入Anki #anki #bootloader 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-bb4f9a4a
 - [x] 学习 FreeRTOS #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-f179f79b
-- [ ] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-27
+- [ ] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-28
+- [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-27 ✅ 2026-08-28
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-26 ✅ 2026-08-27
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-25 ✅ 2026-08-25
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-24 ✅ 2026-08-24
@@ -437,7 +439,8 @@ sort by description
 - [x] 清理C盘 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260814-6def903c
 - [x] 清理G盘 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260814-6965e688
 - [x] 重新安上插件 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260814-f9e95368
-- [ ] 了解[[C++嵌入式]] 🔼 🔁 every day 🛫 2026-08-25 ⏳ 2026-08-27
+- [ ] 了解[[C++嵌入式]] 🔼 🔁 every day 🛫 2026-08-26 ⏳ 2026-08-28
+- [x] 了解[[C++嵌入式]] 🔼 🔁 every day 🛫 2026-08-25 ⏳ 2026-08-27 ✅ 2026-08-28
 - [x] 了解[[C++嵌入式]] 🔼 🔁 every day 🛫 2026-08-24 ⏳ 2026-08-26 ✅ 2026-08-27
 - [x] 了解[[C++嵌入式]] 🔼 🔁 every day 🛫 2026-08-23 ⏳ 2026-08-25 ✅ 2026-08-27
 - [x] 了解[[C++嵌入式]] 🔼 🔁 every day 🛫 2026-08-22 ⏳ 2026-08-24 ✅ 2026-08-25
@@ -542,4 +545,6 @@ sort by description
 - [x] 洗澡 #task ⏫ ➕ 2026-08-27 ⏳ 2026-08-28 ✅ 2026-08-28 ^task-20260827-a6acd95c
 - [ ] 剪头 #生活 🔺 ➕ 2026-08-27 🛫 2026-08-27 ⏳ 2026-08-29 ^task-20260827-e5594bcb
 - [ ] 整理[2741. 特别的排列 - 力扣（LeetCode）](https://leetcode.cn/problems/special-permutations/description/)和[847. 访问所有节点的最短路径 - 力扣（LeetCode）](https://leetcode.cn/problems/shortest-path-visiting-all-nodes/)这两道题 #task ⏫ 🛫 2026-08-27 ⏳ 2026-08-28 ➕ 2026-08-27 ^task-20260827-9a88dfa
-- [ ] 更新 anki 并安装费曼学习法 #task ⏫ 🛫 2026-08-27 ⏳ 2026-08-28 ➕ 2026-08-27 ^task-20260827-8840c6f7
+- [x] 更新 anki 并安装费曼学习法 #task ⏫ ➕ 2026-08-27 🛫 2026-08-27 ⏳ 2026-08-28 ✅ 2026-08-28 ^task-20260827-8840c6f7
+- [ ] 晒衣服 #task 🔺 ⏳ 2026-08-28 ➕ 2026-08-28 ^task-20260828-a3d08928
+- [ ] 测试[费曼学习法anki](https://www.bilibili.com/video/BV1Q9cve2EwC/?spm_id_from=333.337.search-card.all.click&amp;vd_source=cf6228c0b4a5c283905e22fd11934994) #学习方法 #anki ⏫ ➕ 2026-08-28 🛫 2026-08-28 ⏳ 2026-08-29 ^task-20260828-cde2e9a7
