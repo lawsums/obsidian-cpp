@@ -5,12 +5,12 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "研一课程",
-      "path": "Temp/研一课程.md"
-    },
-    {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
+      "basename": "研一课程",
+      "path": "Temp/研一课程.md"
     },
     {
       "basename": "Eide",

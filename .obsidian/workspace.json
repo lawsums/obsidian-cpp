@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "49d76c1f9e3c2455",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/研一课程.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "研一课程"
-            }
-          },
-          {
             "id": "fc7cf4fa4807ef15",
             "type": "leaf",
             "state": {
@@ -383,9 +359,9 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/和家长同步家教状况.md",
     "Temp/研一课程.md",
     "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Software/Eide.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Templates/配置 VSCode 阅读 Linux 源码环境.md",
