@@ -5,7 +5,7 @@
 - [x] 1.安装arm交叉编译工具链 ✅ 2026-08-28
 - [x] 2.linux内核编译 ✅ 2026-08-28
 - [x] 3.clangd和bear的安装 ✅ 2026-08-28
-- [ ] 4.bear跟踪linux内核编译
+- [x] 4.bear跟踪linux内核编译 ✅ 2026-08-28
 - [ ] 5.vscode安装remote工具和clangd插件实现精准跳转
 
 
@@ -52,3 +52,8 @@ sudo cp -r lib/* /usr/local/lib/
 ```
 
 ### 1.3.2 bear
+#### 1.3.2.1 安装 rustup
+
+#### 1.3.2.2 通过 github 源码安装 bear
+
+

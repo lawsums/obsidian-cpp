@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -357,11 +356,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a05982b97c461a31",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/配置 VSCode 阅读 Linux 源码环境.md",
     "Attachments/Pasted image 20260828170413.png",
     "Templates/Tasks.md",
-    "Templates/配置 VSCode 阅读 Linux 源码环境.md",
     "Templates/Homepage/Homepage.md",
     "Leetcode/算法路线图.md",
     "Templates/Homepage/003_不定期任务.md",
@@ -400,7 +399,6 @@
     "Attachments/1_1787401970805.jpg",
     "Attachments/1_1787401733338.jpg",
     "Attachments/1_1787401470246.jpg",
-    "Attachments/1_1787391646634.jpg",
     "Leetcode/3649.破解锁的最少时间 I.cpp",
     "100-学习/110-计算机/语言/Rust",
     "Leetcode/1525.查询带键的排列.cpp",
