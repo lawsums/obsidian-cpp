@@ -21,3 +21,14 @@
 
 ## 1.2 内核编译
 `make menuconfig`, 进行图形化配置
+
+以三星系列为例，生成配置文件
+`make exynos_defconfig ARCH=arm CROSS_COMPILE=arm-none-eabi-`
+
+编译内核zImage
+`make ARCH=arm CROSS_COMPILE=arm-none-eabi- zImage -j8`
+
+
+## 1.3 clangd 和 bear 的安装
+![[Pasted image 20260828170413.png]]
+
