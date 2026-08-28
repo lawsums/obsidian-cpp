@@ -548,3 +548,4 @@ sort by description
 - [x] 更新 anki 并安装费曼学习法 #task ⏫ ➕ 2026-08-27 🛫 2026-08-27 ⏳ 2026-08-28 ✅ 2026-08-28 ^task-20260827-8840c6f7
 - [ ] 晒衣服 #task 🔺 ⏳ 2026-08-28 ➕ 2026-08-28 ^task-20260828-a3d08928
 - [ ] 测试[费曼学习法anki](https://www.bilibili.com/video/BV1Q9cve2EwC/?spm_id_from=333.337.search-card.all.click&amp;vd_source=cf6228c0b4a5c283905e22fd11934994) #学习方法 #anki ⏫ ➕ 2026-08-28 🛫 2026-08-28 ⏳ 2026-08-29 ^task-20260828-cde2e9a7
+- [ ] 固定linux ip #linux #network ⏫ 🛫 2026-08-28 ⏳ 2026-08-29 ➕ 2026-08-28 ^task-20260828-74247eba
