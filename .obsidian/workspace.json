@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -297,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/研一课程.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "研一课程 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -382,8 +381,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "49d76c1f9e3c2455",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Temp/研一课程.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Software/Eide.md",
@@ -414,7 +414,6 @@
     "100-学习/120-嵌入式/手写驱动/模拟I2C.md",
     "100-学习/120-嵌入式/手写驱动",
     "100-学习/120-嵌入式/未命名.md",
-    "Templates/Daily_note_template.md",
     "Attachments/Pasted image 20260824120742.png",
     "Attachments/Pasted image 20260824114521.png",
     "Attachments/Pasted image 20260824114438.png",
