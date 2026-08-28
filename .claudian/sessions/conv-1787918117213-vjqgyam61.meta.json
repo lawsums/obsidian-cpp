@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787918117213-vjqgyam61",
+  "providerId": "claude",
+  "title": "整理英语结课学习反馈",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787918117216,
+  "updatedAt": 1787918151194,
+  "lastResponseAt": 1787918151194,
+  "sessionId": "033a591a-0f9e-4adf-ab61-9b79902bc01f",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "033a591a-0f9e-4adf-ab61-9b79902bc01f"
+  },
+  "currentNote": "Templates/Homepage/和家长同步家教状况.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2368,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35456,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 37824,
+    "percentage": 19
+  }
+}

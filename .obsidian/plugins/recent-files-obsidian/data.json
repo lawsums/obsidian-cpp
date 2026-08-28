@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "配置 VSCode 阅读 Linux 源码环境",
       "path": "Templates/配置 VSCode 阅读 Linux 源码环境.md"
+    },
+    {
+      "basename": "和家长同步家教状况",
+      "path": "Templates/Homepage/和家长同步家教状况.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "Tasks",
@@ -43,10 +47,6 @@
     {
       "basename": "1989.两个数组最小的异或值之和",
       "path": "Leetcode/1989.两个数组最小的异或值之和.md"
-    },
-    {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
       "basename": "研究对小智AI做二次开发",
