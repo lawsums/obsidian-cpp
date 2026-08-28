@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
       "basename": "配置 VSCode 阅读 Linux 源码环境",
       "path": "Templates/配置 VSCode 阅读 Linux 源码环境.md"
     },
@@ -27,10 +31,6 @@
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "1989.两个数组最小的异或值之和",

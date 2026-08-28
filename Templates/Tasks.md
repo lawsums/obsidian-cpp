@@ -92,7 +92,8 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-26
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-27
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-26 ✅ 2026-08-27
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-25 ✅ 2026-08-25
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-24 ✅ 2026-08-25
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-08-23 ✅ 2026-08-24
@@ -405,7 +406,8 @@ sort by description
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ➕ 2026-08-12 ⏳ 2026-08-12 ✅ 2026-08-12 ^task-20260812-b13f0a8f
 - [x] 将bootloader题目加入Anki #anki #bootloader 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-bb4f9a4a
 - [x] 学习 FreeRTOS #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-f179f79b
-- [ ] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-26
+- [ ] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-27
+- [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-26 ✅ 2026-08-27
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-25 ✅ 2026-08-25
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-24 ✅ 2026-08-24
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-23 ✅ 2026-08-23
@@ -434,7 +436,8 @@ sort by description
 - [x] 清理C盘 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260814-6def903c
 - [x] 清理G盘 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260814-6965e688
 - [x] 重新安上插件 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260814-f9e95368
-- [ ] 了解[[C++嵌入式]] 🔼 🔁 every day 🛫 2026-08-24 ⏳ 2026-08-26
+- [ ] 了解[[C++嵌入式]] 🔼 🔁 every day 🛫 2026-08-25 ⏳ 2026-08-27
+- [x] 了解[[C++嵌入式]] 🔼 🔁 every day 🛫 2026-08-24 ⏳ 2026-08-26 ✅ 2026-08-27
 - [x] 了解[[C++嵌入式]] 🔼 🔁 every day 🛫 2026-08-23 ⏳ 2026-08-25 ✅ 2026-08-27
 - [x] 了解[[C++嵌入式]] 🔼 🔁 every day 🛫 2026-08-22 ⏳ 2026-08-24 ✅ 2026-08-25
 - [x] 了解[[C++嵌入式]] 🔼 🔁 every day 🛫 2026-08-21 ⏳ 2026-08-23 ✅ 2026-08-23
@@ -479,7 +482,7 @@ sort by description
 - [x] 清理G盘至90GB，迁移7-Zip临时文件夹至G盘，并解压虚拟机到H盘 #disk #7z #vm ⏫ ➕ 2026-08-19 🛫 2026-08-20 ⏳ 2026-08-20 📅 2026-08-20 ✅ 2026-08-20 ^task-20260819-3e8d504e
 - [x] [[思考状压DP]] #algorithm #dp 🔺 ➕ 2026-08-19 🛫 2026-08-20 ⏳ 2026-08-20 ✅ 2026-08-20 ^task-20260819-7d7f683f
 - [x] 提醒小姐收钱 #财务 #提醒 ➕ 2026-08-19 🛫 2026-08-20 ⏳ 2026-08-20 ✅ 2026-08-20 ^task-20260819-419dd275
-- [ ] [[研究对小智AI做二次开发]]（ESP32-Agent掌机方向） #ai #esp32 #嵌入式 #二次开发 🔺 ➕ 2026-08-19 🛫 2026-08-21 ⏳ 2026-08-26 ^task-20260819-5dc5ffa3
+- [ ] [[研究对小智AI做二次开发]]（ESP32-Agent掌机方向） #ai #esp32 #嵌入式 #二次开发 🔺 ➕ 2026-08-19 🛫 2026-08-21 ⏳ 2026-08-28 ^task-20260819-5dc5ffa3
 - [x] 通过 Google Play 下载 Google 语音并测试 Anki TTS 调用 #anki #tts #android ⏫ ➕ 2026-08-20 🛫 2026-08-21 ⏳ 2026-08-21 📅 2026-08-21 ✅ 2026-08-21 ^task-20260820-a0947f51
 - [x] 尝试调用 mimo 模型 #ai #mimo #实验 ➕ 2026-08-20 🛫 2026-08-20 ⏳ 2026-08-20 ✅ 2026-08-20 ^task-20260820-ed7cf0f5
 - [x] 提交给 Harness 实现 #剧本 #Harness #交付 🔼 ➕ 2026-08-20 🛫 2026-08-21 ⏳ 2026-08-21 📅 2026-08-21 ✅ 2026-08-22 ^task-20260820-d251813
@@ -487,12 +490,12 @@ sort by description
 - [x] 完成[[Rust嵌入式]]测试 #rust #嵌入式 ➕ 2026-08-20 🛫 2026-08-21 ⏳ 2026-08-21 📅 2026-08-21 ✅ 2026-08-21 ^task-20260820-8c15da2e
 - [x] 了解 Omnisearch #omnisearch ➕ 2026-08-20 🛫 2026-08-22 ⏳ 2026-08-22 ✅ 2026-08-22 ^task-20260820-9bfb96c5
 - [x] 做一题状压dp #算法 #动态规划 ➕ 2026-08-20 🛫 2026-08-21 ⏳ 2026-08-21 📅 2026-08-21 ✅ 2026-08-21 ^task-20260820-7df6ca0f
-- [ ] 继续芯片走路项目 #项目/#芯片走路 ➕ 2026-08-20 🛫 2026-08-21 ⏳ 2026-08-26 ^task-20260820-704bd151
+- [x] 继续芯片走路项目 #项目/#芯片走路 ➕ 2026-08-20 🛫 2026-08-21 ⏳ 2026-08-26 ✅ 2026-08-27 ^task-20260820-704bd151
 - [x] 去看昨天的 deepseek 学习[[容斥原理]] #数学 #组合数学 ➕ 2026-08-21 🛫 2026-08-22 ⏳ 2026-08-22 ✅ 2026-08-22 ^task-20260821-24e913a5
 - [x] 测试自动记账功能是否生效 #finance #testing 🔼 ➕ 2026-08-21 🛫 2026-08-22 ⏳ 2026-08-22 📅 2026-08-22 ✅ 2026-08-22 ^task-20260821-ecf856ff
 - [x] 在网易云给《月牙湾》唱几句 #音乐 #网易云 ➕ 2026-08-21 🛫 2026-08-22 ⏳ 2026-08-22 📅 2026-08-22 ✅ 2026-08-22 ^task-20260821-22875817
 - [ ] 研究 Anki 卡片自动播放功能（需先完成一轮背诵） #anki #复习策略 #自动化 🔼 ➕ 2026-08-21 🛫 2026-08-23 ⏳ 2026-08-30 ^task-20260821-5dd3ec66
-- [ ] [[模拟I2C]] #嵌入式 #I2C ⏫ ➕ 2026-08-21 🛫 2026-08-22 ⏳ 2026-08-26 ^task-20260821-c77e7691
+- [ ] [[模拟I2C]] #嵌入式 #I2C ⏫ ➕ 2026-08-21 🛫 2026-08-22 ⏳ 2026-08-27 ^task-20260821-c77e7691
 - [x] 体验 paper_to_galgame #tool #galgame ➕ 2026-08-21 🛫 2026-08-23 ⏳ 2026-08-23 ✅ 2026-08-23 ^task-20260821-5bb5e365
 - [x] 完成imx6ull测试 #嵌入式 #硬件测试 ➕ 2026-08-21 ⏳ 2026-08-22 📅 2026-08-22 ✅ 2026-08-22 ^task-20260821-898c9ace
 - [x] 用C++写一道状压DP题 #cpp #dp #状压 ⏫ ➕ 2026-08-22 🛫 2026-08-24 ⏳ 2026-08-24 📅 2026-08-24 ✅ 2026-08-24 ^task-20260822-53f881e0
@@ -517,7 +520,7 @@ sort by description
 - [x] 问候 #task ⏫ ➕ 2026-08-24 🛫 2026-08-24 ⏳ 2026-08-24 ✅ 2026-08-24 ^task-20260824-1804615c
 - [x] 问候他人 #task 🔺 ➕ 2026-08-24 🛫 2026-08-24 ⏳ 2026-08-24 ✅ 2026-08-24 ^task-20260824-c307bc7e
 - [x] 为任务插件添加日期快捷键功能和日历选择页面 #obsidian #plugin #feature ⏫ ➕ 2026-08-24 🛫 2026-08-25 ⏳ 2026-08-25 ✅ 2026-08-25 ^task-20260824-3e171e9c
-- [ ] [[配置 VSCode 阅读 Linux 源码环境]] #dev #linux #vscode ⏫ ➕ 2026-08-24 🛫 2026-08-25 ⏳ 2026-08-26 ^task-20260824-5d2a997a
+- [ ] [[配置 VSCode 阅读 Linux 源码环境]] #dev #linux #vscode ⏫ ➕ 2026-08-24 🛫 2026-08-25 ⏳ 2026-08-27 ^task-20260824-5d2a997a
 - [x] [[安全视频往后刷]] #诈骗防范 ⏫ ➕ 2026-08-24 🛫 2026-08-25 ⏳ 2026-08-25 ✅ 2026-08-25 ^task-20260824-6c8b0402
 - [x] 备课 #task ⏫ ➕ 2026-08-25 ⏳ 2026-08-26 ✅ 2026-08-26 ^task-20260825-6f7948e9
 - [x] [[安全视频往后刷]] #task ⏫ ➕ 2026-08-25 ⏳ 2026-08-26 ✅ 2026-08-26 ^task-20260825-b4a75f28
@@ -538,3 +541,4 @@ sort by description
 - [ ] 洗澡 #task ⏫ ⏳ 2026-08-28 ➕ 2026-08-27 ^task-20260827-a6acd95c
 - [ ] 剪头 #生活 🔺 🛫 2026-08-27 ⏳ 2026-08-28 ➕ 2026-08-27 ^task-20260827-e5594bcb
 - [ ] 整理[2741. 特别的排列 - 力扣（LeetCode）](https://leetcode.cn/problems/special-permutations/description/)和[847. 访问所有节点的最短路径 - 力扣（LeetCode）](https://leetcode.cn/problems/shortest-path-visiting-all-nodes/)这两道题 #task ⏫ 🛫 2026-08-27 ⏳ 2026-08-28 ➕ 2026-08-27 ^task-20260827-9a88dfa
+- [ ] 更新 anki 并安装费曼学习法 #task ⏫ 🛫 2026-08-27 ⏳ 2026-08-28 ➕ 2026-08-27 ^task-20260827-8840c6f7

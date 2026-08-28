@@ -160,7 +160,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "费曼",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -369,14 +369,14 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Tasks.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/配置 VSCode 阅读 Linux 源码环境.md",
     "Templates/Homepage/创建面试题模板_插件.md",
-    "Templates/Homepage/Homepage.md",
     "Temp/anki-科目三.md",
     "Vocabulary/Anki-科目三.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/学习C++.md",
-    "Templates/Tasks.md",
     "Leetcode/1989.两个数组最小的异或值之和.md",
     "Leetcode/算法路线图.md",
     "Templates/Homepage/和家长同步家教状况.md",
