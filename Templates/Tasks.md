@@ -539,6 +539,6 @@ sort by description
 - [ ] 备课 #task 🔺 🛫 2026-08-27 ⏳ 2026-08-28 ➕ 2026-08-27 ^task-20260827-8d4d42a5
 - [ ] 反馈叮当的作业 #task 🔺 ⏳ 2026-08-28 ➕ 2026-08-27 ^task-20260827-54a5774a
 - [ ] 洗澡 #task ⏫ ⏳ 2026-08-28 ➕ 2026-08-27 ^task-20260827-a6acd95c
-- [ ] 剪头 #生活 🔺 🛫 2026-08-27 ⏳ 2026-08-28 ➕ 2026-08-27 ^task-20260827-e5594bcb
+- [ ] 剪头 #生活 🔺 ➕ 2026-08-27 🛫 2026-08-27 ⏳ 2026-08-29 ^task-20260827-e5594bcb
 - [ ] 整理[2741. 特别的排列 - 力扣（LeetCode）](https://leetcode.cn/problems/special-permutations/description/)和[847. 访问所有节点的最短路径 - 力扣（LeetCode）](https://leetcode.cn/problems/shortest-path-visiting-all-nodes/)这两道题 #task ⏫ 🛫 2026-08-27 ⏳ 2026-08-28 ➕ 2026-08-27 ^task-20260827-9a88dfa
 - [ ] 更新 anki 并安装费曼学习法 #task ⏫ 🛫 2026-08-27 ⏳ 2026-08-28 ➕ 2026-08-27 ^task-20260827-8840c6f7
