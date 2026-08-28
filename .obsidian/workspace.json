@@ -127,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -356,10 +357,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "a05982b97c461a31",
   "lastOpenFiles": [
-    "Templates/配置 VSCode 阅读 Linux 源码环境.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/配置 VSCode 阅读 Linux 源码环境.md",
     "Templates/Tasks.md",
     "Leetcode/算法路线图.md",
     "Templates/Homepage/003_不定期任务.md",
