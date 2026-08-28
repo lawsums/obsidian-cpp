@@ -60,3 +60,15 @@ sudo cp -r lib/* /usr/local/lib/
 
 ## 1.5 vscode 安装 remote 工具和 clangd 插件实现精准跳转
 我们发现 11.2 的版本依旧太高，所以我们要安装 7.5 的版本。安装 7.5 版本时，需要将该环境变量继续加入此目录。
+
+
+```bash
+# 1. 先清理残留
+make distclean
+
+# 2. 生成配置文件（不需要加 bear）
+make imx_v6_v7_defconfig ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf-
+
+# 3. 真正编译，并生成代码索引（加 bear）
+bear -- make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf- zImage -j4
+```

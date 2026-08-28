@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
-      "basename": "配置 VSCode 阅读 Linux 源码环境",
-      "path": "Templates/配置 VSCode 阅读 Linux 源码环境.md"
+      "basename": "研一课程",
+      "path": "Temp/研一课程.md"
     },
     {
-      "basename": "bear 追踪内核编译",
-      "path": "Templates/bear 追踪内核编译.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "Eide",
+      "path": "Software/Eide.md"
+    },
+    {
+      "basename": "配置 VSCode 阅读 Linux 源码环境",
+      "path": "Templates/配置 VSCode 阅读 Linux 源码环境.md"
+    },
+    {
+      "basename": "bear 追踪内核编译",
+      "path": "Templates/bear 追踪内核编译.md"
     },
     {
       "basename": "Tasks",
@@ -169,10 +177,6 @@
       "path": "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md"
     },
     {
-      "basename": "Eide",
-      "path": "Software/Eide.md"
-    },
-    {
       "basename": "试着用ai去维护一个知识库比如说科研文档or深度学习架构or嵌入式架构orlinux架构",
       "path": "Templates/Homepage/试着用ai去维护一个知识库比如说科研文档or深度学习架构or嵌入式架构orlinux架构.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "每天给C盘文件夹建立软连接",
       "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
-    },
-    {
-      "basename": "3350.将元素分配到两个数组中 II",
-      "path": "Leetcode/3350.将元素分配到两个数组中 II.md"
     }
   ],
   "omittedPaths": [],

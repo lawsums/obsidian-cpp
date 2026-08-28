@@ -5,7 +5,7 @@
 
 ---
 
-### ✅ 根据你的真实环境，一步步这样操作：
+### 0.1.1 ✅ 根据你的真实环境，一步步这样操作：
 
 **第 1 步：设置环境变量（** 直接把教程里那个 /home/book/tools 的路径，替换成你真实存在的路径 **）**
 ```bash
@@ -35,7 +35,7 @@ bear -- make ARCH=arm CROSS_COMPILE=arm-linux-gnueabihf- zImage -j4
 
 ---
 
-### 💡 动手前先确认一句（非常关键！）
+### 0.1.2 💡 动手前先确认一句（非常关键！）
 
 你 `ls /usr/arm/` 看到了 `gcc-arm-linux-gnueabihf` 文件夹。里面到底有没有 `arm-linux-gnueabihf-gcc` 这个文件？为了万无一失，请先在终端里敲：
 ```bash

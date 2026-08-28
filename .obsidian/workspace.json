@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "49d76c1f9e3c2455",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/研一课程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "研一课程"
+            }
+          },
+          {
             "id": "fc7cf4fa4807ef15",
             "type": "leaf",
             "state": {
@@ -128,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -273,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/配置 VSCode 阅读 Linux 源码环境.md",
+                "file": "Temp/研一课程.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "配置 VSCode 阅读 Linux 源码环境 的大纲"
+              "title": "研一课程 的大纲"
             }
           },
           {
@@ -358,12 +382,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a05982b97c461a31",
+  "active": "49d76c1f9e3c2455",
   "lastOpenFiles": [
-    "Templates/bear 追踪内核编译.md",
-    "Templates/配置 VSCode 阅读 Linux 源码环境.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/和家长同步家教状况.md",
+    "Software/Eide.md",
+    "100-学习/110-计算机/语言/Rust/学习rust.md",
+    "Templates/配置 VSCode 阅读 Linux 源码环境.md",
+    "Templates/bear 追踪内核编译.md",
     "Attachments/Pasted image 20260828170413.png",
     "Templates/Tasks.md",
     "Leetcode/算法路线图.md",
@@ -389,13 +415,11 @@
     "100-学习/120-嵌入式/手写驱动",
     "100-学习/120-嵌入式/未命名.md",
     "Templates/Daily_note_template.md",
-    "Leetcode/3649.破解锁的最少时间 I.md",
     "Attachments/Pasted image 20260824120742.png",
     "Attachments/Pasted image 20260824114521.png",
     "Attachments/Pasted image 20260824114438.png",
     "Attachments/二上数学表内除法常考易错应用题（共6页含答案）.pdf",
     "Attachments/二年级（上）数学 表内乘法常考易错题.pdf",
-    "Dairies/2026-08-24.md",
     "Attachments/xiaozhi-esp32-main (1).zip",
     "Leetcode/1906.N 次操作后的最大分数和.cpp",
     "Attachments/1_1787402271504.jpg",

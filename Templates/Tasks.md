@@ -430,7 +430,7 @@ sort by description
 - [x] 让AI创建任务：每周备份Obsidian插件和共用文件夹仓库 #obsidian #backup 🔼 ➕ 2026-08-13 🛫 2026-08-17 ⏳ 2026-08-17 ✅ 2026-08-17 ^task-20260813-b5513e27
 - [x] 修改 AI Capture 插件的闹钟功能 #plugin #ai-capture 🔼 ➕ 2026-08-13 ⏳ 2026-08-14 ✅ 2026-08-14 ^task-20260813-18a0144b
 - [x] 研究闲鱼上的 ObsidianXworkbuddy 工作流 #obsidian #workflow 🔼 ➕ 2026-08-13 ⏳ 2026-08-14 ✅ 2026-08-14 ^task-20260813-1f8b3545
-- [ ] 处理[[Eide]]任务 #task 🔼 ➕ 2026-08-13 ⏳ 2026-08-27 ^task-20260813-49cb1804
+- [x] 处理[[Eide]]任务 #task 🔼 ➕ 2026-08-13 ⏳ 2026-08-27 ✅ 2026-08-28 ^task-20260813-49cb1804
 - [x] 洗澡 #task 🔼 ➕ 2026-08-13 ⏳ 2026-08-14 ✅ 2026-08-14 ^task-20260813-6c8a551e
 - [x] 把神知添加到Bangumi #anime 🔼 ➕ 2026-08-13 ⏳ 2026-08-14 ✅ 2026-08-14 ^task-20260813-bd401672
 - [x] 让璐姐发工资 #task 🔼 ➕ 2026-08-13 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260813-6379154e
@@ -534,7 +534,8 @@ sort by description
 - [x] 烧饭 #task 🔺 ➕ 2026-08-26 ⏳ 2026-08-26 ✅ 2026-08-26 ^task-20260826-602d3f8d
 - [x] 晚上录一期C++动态规划视频 #coding #cpp #video ⏫ ➕ 2026-08-26 🛫 2026-08-26 ⏳ 2026-08-26 ✅ 2026-08-26 ^task-20260826-f828148d
 - [x] 研究一下录视频的方法 #学习 #视频 ⏫ ➕ 2026-08-26 🛫 2026-08-26 ⏳ 2026-08-26 ✅ 2026-08-26 ^task-20260826-d1a15c39
-- [ ] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-08-28 ⏳ 2026-08-28
+- [ ] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-08-29 ⏳ 2026-08-29
+- [x] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-08-28 ⏳ 2026-08-28 ✅ 2026-08-28
 - [x] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-08-27 ⏳ 2026-08-27 ✅ 2026-08-27
 - [x] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day ➕ 2026-08-26 🛫 2026-08-26 ⏳ 2026-08-26 ✅ 2026-08-26 ^task-20260826-ff37424d
 - [x] 收钱 #task 🔺 ➕ 2026-08-26 ⏳ 2026-08-26 ✅ 2026-08-26 ^task-20260826-32c46757
@@ -546,6 +547,6 @@ sort by description
 - [ ] 剪头 #生活 🔺 ➕ 2026-08-27 🛫 2026-08-27 ⏳ 2026-08-29 ^task-20260827-e5594bcb
 - [ ] 整理[2741. 特别的排列 - 力扣（LeetCode）](https://leetcode.cn/problems/special-permutations/description/)和[847. 访问所有节点的最短路径 - 力扣（LeetCode）](https://leetcode.cn/problems/shortest-path-visiting-all-nodes/)这两道题 #task ⏫ 🛫 2026-08-27 ⏳ 2026-08-28 ➕ 2026-08-27 ^task-20260827-9a88dfa
 - [x] 更新 anki 并安装费曼学习法 #task ⏫ ➕ 2026-08-27 🛫 2026-08-27 ⏳ 2026-08-28 ✅ 2026-08-28 ^task-20260827-8840c6f7
-- [ ] 晒衣服 #task 🔺 ⏳ 2026-08-28 ➕ 2026-08-28 ^task-20260828-a3d08928
+- [x] 晒衣服 #task 🔺 ➕ 2026-08-28 ⏳ 2026-08-28 ✅ 2026-08-28 ^task-20260828-a3d08928
 - [ ] 测试[费曼学习法anki](https://www.bilibili.com/video/BV1Q9cve2EwC/?spm_id_from=333.337.search-card.all.click&amp;vd_source=cf6228c0b4a5c283905e22fd11934994) #学习方法 #anki ⏫ ➕ 2026-08-28 🛫 2026-08-28 ⏳ 2026-08-29 ^task-20260828-cde2e9a7
 - [ ] 固定linux ip #linux #network ⏫ 🛫 2026-08-28 ⏳ 2026-08-29 ➕ 2026-08-28 ^task-20260828-74247eba
