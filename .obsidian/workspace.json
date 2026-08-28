@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -317,8 +315,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -359,13 +356,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a05982b97c461a31",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/配置 VSCode 阅读 Linux 源码环境.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Tasks.md",
     "Leetcode/算法路线图.md",
     "Templates/Homepage/003_不定期任务.md",
-    "Templates/配置 VSCode 阅读 Linux 源码环境.md",
     "Dairies/2026-08-28.md",
     "Templates/Homepage/创建面试题模板_插件.md",
     "Temp/anki-科目三.md",

@@ -7,3 +7,16 @@
 - [ ] 3.clangd和bear的安装
 - [ ] 4.bear跟踪linux内核编译
 - [ ] 5.vscode安装remote工具和clangd插件实现精准跳转
+
+
+
+# 1 笔记
+## 1.1 安装 arm 交叉编译工具链
+[工具/用于 ARM 平台的 gnu-toolchains · GitLab --- Tooling / gnu-toolchains-for-arm · GitLab](https://gitlab.arm.com/tooling/gnu-toolchains-for-arm/-/tree/releases/11.2-2022.02?ref_type=heads#linux)
+
+
+通过 `sudo vim /etc/profile` 来修改环境变量配置
+添加了一行 `export PATH=$PATH:/usr/arm/gcc-arm-none-eabi-linux/bin`
+
+
+## 1.2 内核编译
