@@ -56,6 +56,7 @@ sudo cp -r lib/* /usr/local/lib/
 
 #### 1.3.2.2 通过 github 源码安装 bear
 
+## 1.4 ![[bear 追踪内核编译]]
 
-## 1.4 vscode 安装 remote 工具和 clangd 插件实现精准跳转
+## 1.5 vscode 安装 remote 工具和 clangd 插件实现精准跳转
 我们发现 11.2 的版本依旧太高，所以我们要安装 7.5 的版本。安装 7.5 版本时，需要将该环境变量继续加入此目录。

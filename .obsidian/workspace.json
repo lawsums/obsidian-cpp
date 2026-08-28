@@ -312,7 +312,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -359,9 +360,10 @@
   },
   "active": "a05982b97c461a31",
   "lastOpenFiles": [
+    "Templates/bear 追踪内核编译.md",
+    "Templates/配置 VSCode 阅读 Linux 源码环境.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "Templates/Homepage/Homepage.md",
-    "Templates/配置 VSCode 阅读 Linux 源码环境.md",
     "Attachments/Pasted image 20260828170413.png",
     "Templates/Tasks.md",
     "Leetcode/算法路线图.md",

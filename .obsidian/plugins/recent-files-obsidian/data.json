@@ -5,6 +5,10 @@
       "path": "Templates/配置 VSCode 阅读 Linux 源码环境.md"
     },
     {
+      "basename": "bear 追踪内核编译",
+      "path": "Templates/bear 追踪内核编译.md"
+    },
+    {
       "basename": "和家长同步家教状况",
       "path": "Templates/Homepage/和家长同步家教状况.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "3350.将元素分配到两个数组中 II",
       "path": "Leetcode/3350.将元素分配到两个数组中 II.md"
-    },
-    {
-      "basename": "2319.由单个字符重复的最长子字符串",
-      "path": "Leetcode/2319.由单个字符重复的最长子字符串.md"
     }
   ],
   "omittedPaths": [],
