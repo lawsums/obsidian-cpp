@@ -553,3 +553,4 @@ sort by description
 - [ ] 测试[费曼学习法anki](https://www.bilibili.com/video/BV1Q9cve2EwC/?spm_id_from=333.337.search-card.all.click&amp;vd_source=cf6228c0b4a5c283905e22fd11934994) #学习方法 #anki ⏫ ➕ 2026-08-28 🛫 2026-08-28 ⏳ 2026-08-29 ^task-20260828-cde2e9a7
 - [ ] 固定linux ip #linux #network ⏫ 🛫 2026-08-28 ⏳ 2026-08-29 ➕ 2026-08-28 ^task-20260828-74247eba
 - [ ] 实现container和log #task ⏫ 🛫 2026-08-28 ⏳ 2026-08-30 ➕ 2026-08-28 ^task-20260828-ab40fe01
+- [ ] 给周老师回消息 #沟通 ⏫ 🛫 2026-08-29 ⏳ 2026-08-29 ➕ 2026-08-29 ^task-20260829-2cbd4c61
