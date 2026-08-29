@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787988948272-x2zp653m9",
+  "providerId": "claude",
+  "title": "整理位掩码 DP 状态设计与复杂度分析",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787988948273,
+  "updatedAt": 1787989314298,
+  "lastResponseAt": 1787989003904,
+  "sessionId": "4d356bc7-585f-4001-b0a3-a91598324556",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4d356bc7-585f-4001-b0a3-a91598324556"
+  },
+  "currentNote": "Leetcode/2848.特别的排列.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 3987,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 35840,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 39827,
+    "percentage": 20
+  }
+}

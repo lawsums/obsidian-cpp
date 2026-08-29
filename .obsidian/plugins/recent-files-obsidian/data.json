@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "877.访问所有节点的最短路径",
+      "path": "Leetcode/877.访问所有节点的最短路径.md"
+    },
+    {
+      "basename": "2848.特别的排列",
+      "path": "Leetcode/2848.特别的排列.md"
+    },
+    {
       "basename": "学习rust",
       "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "1",
+      "path": "Leetcode/1.md"
     },
     {
       "basename": "研一课程",
@@ -187,18 +199,6 @@
     {
       "basename": "2333.统计包含每个点的矩形数目",
       "path": "Leetcode/2333.统计包含每个点的矩形数目.md"
-    },
-    {
-      "basename": "Example-硬件适配层",
-      "path": "100-学习/110-计算机/设计模式/Example-硬件适配层.md"
-    },
-    {
-      "basename": "学习LVGL",
-      "path": "Templates/学习LVGL.md"
-    },
-    {
-      "basename": "每天给C盘文件夹建立软连接",
-      "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
     }
   ],
   "omittedPaths": [],

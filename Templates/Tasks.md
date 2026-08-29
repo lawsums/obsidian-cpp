@@ -390,7 +390,8 @@ sort by description
 - [x] 备课 #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-9f3e6aef
 - [x] 让老妈买纸 #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260812-50c81cd2
 - [x] 获取 [workbuddy 蓝皮书](https://docs.qq.com/doc/DSFFMTFhFQ1hZZ096?nlc=1) #work 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-2dacb169
-- [ ] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-29
+- [ ] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-30
+- [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-29 ✅ 2026-08-29
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-28 ✅ 2026-08-28
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-27 ✅ 2026-08-27
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-08-26 ✅ 2026-08-26
@@ -410,7 +411,8 @@ sort by description
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ➕ 2026-08-12 ⏳ 2026-08-12 ✅ 2026-08-12 ^task-20260812-b13f0a8f
 - [x] 将bootloader题目加入Anki #anki #bootloader 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-bb4f9a4a
 - [x] 学习 FreeRTOS #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-f179f79b
-- [ ] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-28
+- [ ] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-29
+- [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-28 ✅ 2026-08-29
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-27 ✅ 2026-08-28
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-26 ✅ 2026-08-27
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-08-25 ✅ 2026-08-25
@@ -536,7 +538,8 @@ sort by description
 - [x] 烧饭 #task 🔺 ➕ 2026-08-26 ⏳ 2026-08-26 ✅ 2026-08-26 ^task-20260826-602d3f8d
 - [x] 晚上录一期C++动态规划视频 #coding #cpp #video ⏫ ➕ 2026-08-26 🛫 2026-08-26 ⏳ 2026-08-26 ✅ 2026-08-26 ^task-20260826-f828148d
 - [x] 研究一下录视频的方法 #学习 #视频 ⏫ ➕ 2026-08-26 🛫 2026-08-26 ⏳ 2026-08-26 ✅ 2026-08-26 ^task-20260826-d1a15c39
-- [ ] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-08-29 ⏳ 2026-08-29
+- [ ] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-08-30 ⏳ 2026-08-30
+- [x] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-08-29 ⏳ 2026-08-29 ✅ 2026-08-29
 - [x] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-08-28 ⏳ 2026-08-28 ✅ 2026-08-28
 - [x] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-08-27 ⏳ 2026-08-27 ✅ 2026-08-27
 - [x] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day ➕ 2026-08-26 🛫 2026-08-26 ⏳ 2026-08-26 ✅ 2026-08-26 ^task-20260826-ff37424d
@@ -547,7 +550,7 @@ sort by description
 - [x] 反馈叮当的作业 #task 🔺 ➕ 2026-08-27 ⏳ 2026-08-28 ✅ 2026-08-28 ^task-20260827-54a5774a
 - [x] 洗澡 #task ⏫ ➕ 2026-08-27 ⏳ 2026-08-28 ✅ 2026-08-28 ^task-20260827-a6acd95c
 - [ ] 剪头 #生活 🔺 ➕ 2026-08-27 🛫 2026-08-27 ⏳ 2026-08-29 ^task-20260827-e5594bcb
-- [ ] 整理[2741. 特别的排列 - 力扣（LeetCode）](https://leetcode.cn/problems/special-permutations/description/)和[847. 访问所有节点的最短路径 - 力扣（LeetCode）](https://leetcode.cn/problems/shortest-path-visiting-all-nodes/)这两道题 #task ⏫ 🛫 2026-08-27 ⏳ 2026-08-28 ➕ 2026-08-27 ^task-20260827-9a88dfa
+- [x] 整理[2741. 特别的排列 - 力扣（LeetCode）](https://leetcode.cn/problems/special-permutations/description/)和[847. 访问所有节点的最短路径 - 力扣（LeetCode）](https://leetcode.cn/problems/shortest-path-visiting-all-nodes/)这两道题 #task ⏫ ➕ 2026-08-27 🛫 2026-08-27 ⏳ 2026-08-28 ✅ 2026-08-29 ^task-20260827-9a88dfa
 - [x] 更新 anki 并安装费曼学习法 #task ⏫ ➕ 2026-08-27 🛫 2026-08-27 ⏳ 2026-08-28 ✅ 2026-08-28 ^task-20260827-8840c6f7
 - [x] 晒衣服 #task 🔺 ➕ 2026-08-28 ⏳ 2026-08-28 ✅ 2026-08-28 ^task-20260828-a3d08928
 - [ ] 测试[费曼学习法anki](https://www.bilibili.com/video/BV1Q9cve2EwC/?spm_id_from=333.337.search-card.all.click&amp;vd_source=cf6228c0b4a5c283905e22fd11934994) #学习方法 #anki ⏫ ➕ 2026-08-28 🛫 2026-08-28 ⏳ 2026-08-29 ^task-20260828-cde2e9a7
@@ -555,3 +558,4 @@ sort by description
 - [ ] 实现container和log #task ⏫ 🛫 2026-08-28 ⏳ 2026-08-30 ➕ 2026-08-28 ^task-20260828-ab40fe01
 - [x] 给周老师回消息 #沟通 ⏫ ➕ 2026-08-29 🛫 2026-08-29 ⏳ 2026-08-29 ✅ 2026-08-29 ^task-20260829-2cbd4c61
 - [ ] 下次看rust包和模块 #rust ⏫ 🛫 2026-08-29 ⏳ 2026-08-30 ➕ 2026-08-29 ^task-20260829-5800a165
+- [ ] 看一下[4_4-7_文件IO系统调用内部机制_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1w4411B7a4?spm_id_from=333.788.videopod.episodes&amp;vd_source=cf6228c0b4a5c283905e22fd11934994&amp;p=46) #task ⏫ ⏳ 2026-08-31 ➕ 2026-08-29 ^task-20260829-c627b7bb

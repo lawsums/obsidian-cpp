@@ -1,0 +1,25 @@
+{
+  "id": "conv-1787989542766-um7fa5nho",
+  "providerId": "claude",
+  "title": "Organize BFS state compression problem notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787989542766,
+  "updatedAt": 1787989615607,
+  "lastResponseAt": 1787989615607,
+  "sessionId": "be2717fa-687a-40fa-8d4a-a46a52e00dca",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "be2717fa-687a-40fa-8d4a-a46a52e00dca"
+  },
+  "currentNote": "Leetcode/877.访问所有节点的最短路径.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 4922,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 33664,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 38586,
+    "percentage": 19
+  }
+}
