@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
+      "basename": "Vscode-vim",
+      "path": "Software/Vscode-vim.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -87,10 +95,6 @@
     {
       "basename": "让AI搜索并备份所有配置文件",
       "path": "Templates/Homepage/让AI搜索并备份所有配置文件.md"
-    },
-    {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "安全视频往后刷",
@@ -191,10 +195,6 @@
     {
       "basename": "试着用ai去维护一个知识库比如说科研文档or深度学习架构or嵌入式架构orlinux架构",
       "path": "Templates/Homepage/试着用ai去维护一个知识库比如说科研文档or深度学习架构or嵌入式架构orlinux架构.md"
-    },
-    {
-      "basename": "Vscode-vim",
-      "path": "Software/Vscode-vim.md"
     },
     {
       "basename": "2333.统计包含每个点的矩形数目",
