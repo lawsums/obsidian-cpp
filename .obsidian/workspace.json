@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "20f85b56ed6414e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/研一课程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "研一课程"
+            }
+          },
+          {
             "id": "f654fd188cee5780",
             "type": "leaf",
             "state": {
@@ -334,6 +358,7 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Temp/研一课程.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/固定linux_ip.md",
@@ -347,7 +372,6 @@
     "Leetcode/2848.特别的排列.cpp",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Leetcode/1.md",
-    "Temp/研一课程.md",
     "Leetcode/算法路线图.md",
     "Dairies/2026-08-29.md",
     "Templates/Homepage/和家长同步家教状况.md",
