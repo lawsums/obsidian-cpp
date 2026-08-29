@@ -554,8 +554,8 @@ sort by description
 - [x] 整理[2741. 特别的排列 - 力扣（LeetCode）](https://leetcode.cn/problems/special-permutations/description/)和[847. 访问所有节点的最短路径 - 力扣（LeetCode）](https://leetcode.cn/problems/shortest-path-visiting-all-nodes/)这两道题 #task ⏫ ➕ 2026-08-27 🛫 2026-08-27 ⏳ 2026-08-28 ✅ 2026-08-29 ^task-20260827-9a88dfa
 - [x] 更新 anki 并安装费曼学习法 #task ⏫ ➕ 2026-08-27 🛫 2026-08-27 ⏳ 2026-08-28 ✅ 2026-08-28 ^task-20260827-8840c6f7
 - [x] 晒衣服 #task 🔺 ➕ 2026-08-28 ⏳ 2026-08-28 ✅ 2026-08-28 ^task-20260828-a3d08928
-- [ ] 测试[费曼学习法anki](https://www.bilibili.com/video/BV1Q9cve2EwC/?spm_id_from=333.337.search-card.all.click&amp;vd_source=cf6228c0b4a5c283905e22fd11934994) #学习方法 #anki ⏫ ➕ 2026-08-28 🛫 2026-08-28 ⏳ 2026-08-29 ^task-20260828-cde2e9a7
-- [ ] [[固定linux_ip]] #linux #network ⏫ ➕ 2026-08-28 🛫 2026-08-28 ⏳ 2026-08-29 ^task-20260828-74247eba
+- [x] 测试[费曼学习法anki](https://www.bilibili.com/video/BV1Q9cve2EwC/?spm_id_from=333.337.search-card.all.click&amp;vd_source=cf6228c0b4a5c283905e22fd11934994) #学习方法 #anki ⏫ ➕ 2026-08-28 🛫 2026-08-28 ⏳ 2026-08-29 ✅ 2026-08-29 ^task-20260828-cde2e9a7
+- [x] [[固定linux_ip]] #linux #network ⏫ ➕ 2026-08-28 🛫 2026-08-28 ⏳ 2026-08-29 ✅ 2026-08-29 ^task-20260828-74247eba
 - [ ] 实现container和log #task ⏫ 🛫 2026-08-28 ⏳ 2026-08-30 ➕ 2026-08-28 ^task-20260828-ab40fe01
 - [x] 给周老师回消息 #沟通 ⏫ ➕ 2026-08-29 🛫 2026-08-29 ⏳ 2026-08-29 ✅ 2026-08-29 ^task-20260829-2cbd4c61
 - [ ] 下次看rust包和模块 #rust ⏫ 🛫 2026-08-29 ⏳ 2026-08-30 ➕ 2026-08-29 ^task-20260829-5800a165
