@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学习rust",
+      "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "字符串String",
       "path": "100-学习/110-计算机/语言/Rust/字符串String.md"
-    },
-    {
-      "basename": "学习rust",
-      "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
     },
     {
       "basename": "容斥原理",
