@@ -4,8 +4,8 @@
   "title": "整理科大讯飞嵌入式笔试编程题到笔记",
   "titleGenerationStatus": "success",
   "createdAt": 1788078277210,
-  "updatedAt": 1788080412957,
-  "lastResponseAt": 1788080412957,
+  "updatedAt": 1788081035438,
+  "lastResponseAt": 1788081035438,
   "sessionId": "a0b1bd14-324a-4f21-b9fb-eada1c60c441",
   "selectedModel": "haiku",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 335,
+    "inputTokens": 3351,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 123520,
+    "cacheReadInputTokens": 130304,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 123855,
-    "percentage": 62
+    "contextTokens": 133655,
+    "percentage": 67
   }
 }

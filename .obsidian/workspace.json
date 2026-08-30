@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -320,13 +320,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/120-嵌入式/面试八股文/八股文.md",
+                "file": "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "八股文 的大纲"
+              "title": "Linux系统编程 的大纲"
             }
           },
           {
@@ -404,10 +404,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f527674bc4e8762e",
+  "active": "9dc770d0e0eb3520",
   "lastOpenFiles": [
-    "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "100-学习/120-嵌入式/面试八股文/八股文.md",
+    "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "100-学习/120-嵌入式/面试八股文",
     "100-学习/120-嵌入式/未命名.md",
     "Templates/Homepage/Homepage.md",
