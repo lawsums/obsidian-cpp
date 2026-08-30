@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "研究对小智AI做二次开发",
+      "path": "Templates/研究对小智AI做二次开发.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -107,10 +111,6 @@
     {
       "basename": "1989.两个数组最小的异或值之和",
       "path": "Leetcode/1989.两个数组最小的异或值之和.md"
-    },
-    {
-      "basename": "研究对小智AI做二次开发",
-      "path": "Templates/研究对小智AI做二次开发.md"
     },
     {
       "basename": "嵌入式C造轮子",
