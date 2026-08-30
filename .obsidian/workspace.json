@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "d1b12ae57e69b4ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/研究对小智AI做二次开发.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "研究对小智AI做二次开发"
-            }
-          },
-          {
             "id": "f527674bc4e8762e",
             "type": "leaf",
             "state": {
@@ -175,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -320,13 +295,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/研究对小智AI做二次开发.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "研究对小智AI做二次开发 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -404,17 +379,17 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d1b12ae57e69b4ce",
+  "active": "ada19ff6fdd90aee",
   "lastOpenFiles": [
+    "100-学习/120-嵌入式/面试八股文/八股文.md",
+    "Templates/研究对小智AI做二次开发.md",
     "Templates/Homepage/Homepage.md",
     "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
-    "100-学习/120-嵌入式/面试八股文/八股文.md",
     "100-学习/120-嵌入式/面试八股文",
     "100-学习/120-嵌入式/未命名.md",
     "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
     "Templates/Tasks.md",
     "100-学习/120-嵌入式/面试算法题",
-    "Templates/研究对小智AI做二次开发.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/创建面试题模板_插件.md",
     "Templates/Homepage/003_不定期任务.md",
