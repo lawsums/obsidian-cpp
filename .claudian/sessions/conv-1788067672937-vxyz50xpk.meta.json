@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788067672937-vxyz50xpk",
+  "providerId": "claude",
+  "title": "Fix code blocks in Packages and Modules section",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788067672938,
+  "updatedAt": 1788067779946,
+  "lastResponseAt": 1788067779946,
+  "sessionId": "af35e49e-664e-4a0d-ba2b-ecebf3719b34",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "af35e49e-664e-4a0d-ba2b-ecebf3719b34"
+  },
+  "currentNote": "100-学习/110-计算机/语言/Rust/学习rust.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 167,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 54400,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 54567,
+    "percentage": 27
+  }
+}

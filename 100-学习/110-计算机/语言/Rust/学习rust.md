@@ -762,6 +762,121 @@ Rust 在打印的时候，大括号中间有一个冒号。冒号前面放的是
 
 格式化参数在冒号之后填，包括指定宽度、指定对齐、指定精度、指定进制、指定指数、指定指针地址以及转义。格式化参数其实不需要记，想用的时候去看一下就行了。同时 Rust 现在还支持类似 Python 的 f-string。
 
+## 2.6 包和模块
+
+### 2.6.1 避免同名引用
+
+根据上一章节的内容，我们只要保证同一个模块中不存在同名项就行，模块之间、包之间的同名，谁管得着谁啊，话虽如此，一起看看，如果遇到同名的情况该如何处理。
+
+使用 `模块::函数` 的方式即可避免同名冲突：
+
+```rust
+use std::fmt;
+use std::io;
+
+fn function1() -> fmt::Result {
+    // --snip--
+}
+
+fn function2() -> io::Result<()> {
+    // --snip--
+}
+```
+
+上面的例子给出了很好的解决方案，使用模块引入的方式，具体的 `Result` 通过 `模块::Result` 的方式进行调用。
+
+可以看出，避免同名冲突的关键，就是使用父模块的方式来调用，除此之外，还可以给引入的项起一个别名。
+
+#### 2.6.1.1 as 别名引用
+
+对于同名冲突问题，还可以使用 `as` 关键字来解决，它可以赋予引入项一个全新的名称：
+
+```rust
+use std::fmt::Result;
+use std::io::Result as IoResult;
+
+fn function1() -> Result {
+    // --snip--
+}
+
+fn function2() -> IoResult<()> {
+    // --snip--
+}
+```
+
+如上所示，首先通过 `use std::fmt::Result` 将 `Result` 引入到作用域，然后使用 `as` 给予它一个全新的名称 `IoResult`，这样就不会再产生冲突：
+
+- `Result` 代表 `std::fmt::Result`
+- `IoResult` 代表 `std::io::Result`
+
+### 2.6.2 使用 {} 简化引入方式
+
+对于以下一行一行的引入方式：
+
+```rust
+use std::collections::HashMap;
+use std::collections::BTreeMap;
+use std::collections::HashSet;
+
+use std::cmp::Ordering;
+use std::io;
+```
+
+可以使用 `{}` 来一起引入进来，在大型项目中，使用这种方式来引入，可以减少大量 `use` 的使用：
+
+```rust
+use std::collections::{HashMap, BTreeMap, HashSet};
+use std::{cmp::Ordering, io};
+```
+
+对于下面的同时引入模块和模块中的项：
+
+```rust
+use std::io;
+use std::io::Write;
+```
+
+可以使用 `{}` 的方式进行简化：
+
+```rust
+use std::io::{self, Write};
+```
+
+#### 2.6.2.1 self 关键字
+
+上面使用到了模块章节提到的 `self` 关键字，用来替代模块自身，结合上一节中的 `self`，可以得出它在模块中的两个用途：
+
+- `use self::xxx`：表示加载当前模块中的 `xxx`，此时 `self` 可省略
+- `use xxx::{self, yyy}`：表示加载当前路径下模块 `xxx` 本身，以及模块 `xxx` 下的 `yyy`
+
+### 2.6.3 使用 * 引入模块下的所有项
+
+对于之前一行一行引入 `std::collections` 的方式，我们还可以使用：
+
+```rust
+use std::collections::*;
+```
+
+以上这种方式来引入 `std::collections` 模块下的所有公共项，这些公共项自然包含了 `HashMap`、`HashSet` 等想手动引入的集合类型。
+
+当使用 `*` 来引入的时候要格外小心，因为你很难知道到底哪些被引入到了当前作用域中，有哪些会和你自己程序中的名称相冲突：
+
+```rust
+use std::collections::*;
+
+struct HashMap;
+
+fn main() {
+    let mut v = HashMap::new();
+    v.insert("a", 1);
+}
+```
+
+以上代码中，`std::collections::HashMap` 被 `*` 引入到当前作用域，但是由于存在另一个同名的结构体，因此 `HashMap::new` 根本不存在，因为对于编译器来说，本地同名类型的优先级更高。
+
+在实际项目中，这种引用方式往往用于快速写测试代码，它可以把所有东西一次性引入到 `tests` 模块中。
+
+
 ---
 * 2026-08-09 - 1
 * 2026-08-10 - 1
@@ -771,3 +886,4 @@ Rust 在打印的时候，大括号中间有一个冒号。冒号前面放的是
 * 2026-08-21 - 1
 * 2026-08-23 - 1
 * 2026-08-29 - 1
+* 2026-08-30 - 1

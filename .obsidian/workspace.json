@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "e4652c50e8e9fbbd",
+            "id": "3bf37038e714dc0b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp/研一课程.md",
+                "file": "Templates/Homepage/003_不定期任务.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,16 +52,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "研一课程"
+              "title": "003_不定期任务"
             }
           },
           {
-            "id": "1d5989e8656d9ccd",
+            "id": "5a2ba7dd2f5b8613",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Temp/研一课程.md",
+                "file": "100-学习/120-嵌入式/C++嵌入式.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "研一课程"
+              "title": "C++嵌入式"
             }
           },
           {
@@ -271,13 +271,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法路线图 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -357,21 +357,24 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/003_不定期任务.md",
+    "Templates/Homepage/Homepage.md",
+    "100-学习/120-嵌入式/C++嵌入式.md",
+    "100-学习/110-计算机/语言/Rust/学习rust.md",
+    "Templates/Homepage/学习C++.md",
+    "Leetcode/2848.特别的排列.md",
     "Temp/大四上考试时间.md",
     "Temp/研一课程.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-08-30.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/固定linux_ip.md",
     "Attachments/Pasted image 20260829175746.png",
     "Software/Vscode-vim.md",
     "Leetcode/877.访问所有节点的最短路径.md",
-    "Leetcode/2848.特别的排列.md",
     "Leetcode/877.访问所有节点的最短路径.cpp",
     "Leetcode/images/877_shortest2-graph.jpg",
     "Leetcode/images/877_shortest1-graph.jpg",
     "Leetcode/2848.特别的排列.cpp",
-    "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Leetcode/1.md",
     "Leetcode/算法路线图.md",
     "Dairies/2026-08-29.md",
@@ -381,14 +384,11 @@
     "Templates/bear 追踪内核编译.md",
     "Attachments/Pasted image 20260828170413.png",
     "Templates/Tasks.md",
-    "Templates/Homepage/003_不定期任务.md",
     "Dairies/2026-08-28.md",
     "Templates/Homepage/创建面试题模板_插件.md",
     "Temp/anki-科目三.md",
     "Vocabulary/Anki-科目三.md",
     "Templates/Homepage/用ai产出创意内容.md",
-    "Templates/Homepage/学习C++.md",
-    "Leetcode/1989.两个数组最小的异或值之和.md",
     "Leetcode/1989.两个数组最小的异或值之和.cpp",
     "Attachments/Pasted image 20260826113024.png",
     "Attachments/Pasted image 20260826104937.png",

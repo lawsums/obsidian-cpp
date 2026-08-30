@@ -5,6 +5,26 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
+    },
+    {
+      "basename": "C++嵌入式",
+      "path": "100-学习/120-嵌入式/C++嵌入式.md"
+    },
+    {
+      "basename": "学习rust",
+      "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
+      "basename": "2848.特别的排列",
+      "path": "Leetcode/2848.特别的排列.md"
+    },
+    {
       "basename": "大四上考试时间",
       "path": "Temp/大四上考试时间.md"
     },
@@ -27,14 +47,6 @@
     {
       "basename": "877.访问所有节点的最短路径",
       "path": "Leetcode/877.访问所有节点的最短路径.md"
-    },
-    {
-      "basename": "2848.特别的排列",
-      "path": "Leetcode/2848.特别的排列.md"
-    },
-    {
-      "basename": "学习rust",
-      "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
     },
     {
       "basename": "1",
@@ -65,10 +77,6 @@
       "path": "Templates/Tasks.md"
     },
     {
-      "basename": "003_不定期任务",
-      "path": "Templates/Homepage/003_不定期任务.md"
-    },
-    {
       "basename": "创建面试题模板_插件",
       "path": "Templates/Homepage/创建面试题模板_插件.md"
     },
@@ -83,10 +91,6 @@
     {
       "basename": "用ai产出创意内容",
       "path": "Templates/Homepage/用ai产出创意内容.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "1989.两个数组最小的异或值之和",
@@ -183,10 +187,6 @@
     {
       "basename": "Bootloader",
       "path": "100-学习/120-嵌入式/Bootloader.md"
-    },
-    {
-      "basename": "C++嵌入式",
-      "path": "100-学习/120-嵌入式/C++嵌入式.md"
     },
     {
       "basename": "1772.通过指令创建有序数组",
