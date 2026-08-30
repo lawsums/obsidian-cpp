@@ -1,16 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "八股文",
+      "path": "100-学习/120-嵌入式/面试八股文/八股文.md"
+    },
+    {
+      "basename": "Linux系统编程",
+      "path": "100-学习/120-嵌入式/面试八股文/Linux系统编程.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "笔试—科大讯飞嵌入式软件开发笔试",
       "path": "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md"
     },
     {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "用ai产出创意内容",
@@ -157,10 +165,6 @@
       "path": "100-学习/120-嵌入式/anki/蔚来面试-anki.md"
     },
     {
-      "basename": "八股文",
-      "path": "100-学习/120-嵌入式/八股文.md"
-    },
-    {
       "basename": "004_闪念",
       "path": "Templates/Homepage/004_闪念.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1772.通过指令创建有序数组",
       "path": "Leetcode/1772.通过指令创建有序数组.md"
-    },
-    {
-      "basename": "2839.最大和查询",
-      "path": "Leetcode/2839.最大和查询.md"
     }
   ],
   "omittedPaths": [],
