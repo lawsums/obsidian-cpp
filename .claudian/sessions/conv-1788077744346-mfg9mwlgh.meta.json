@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788077744346-mfg9mwlgh",
+  "providerId": "claude",
+  "title": "Invoke command in Obsidian",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788077744346,
+  "updatedAt": 1788078254931,
+  "lastResponseAt": 1788077791029,
+  "sessionId": "ce4bd277-2267-48d8-95b2-4487640744d0",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "ce4bd277-2267-48d8-95b2-4487640744d0"
+  },
+  "currentNote": "Templates/Homepage/Homepage.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 714,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 42880,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 43594,
+    "percentage": 22
+  }
+}

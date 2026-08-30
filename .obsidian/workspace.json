@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8fa3bde95b82293",
+            "id": "ada19ff6fdd90aee",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,6 +29,54 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
+            }
+          },
+          {
+            "id": "a8fa3bde95b82293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "笔试—科大讯飞嵌入式软件开发笔试"
+            }
+          },
+          {
+            "id": "2e779865a4c01331",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
             }
           },
           {
@@ -127,7 +175,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,13 +320,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "笔试—科大讯飞嵌入式软件开发笔试 的大纲"
             }
           },
           {
@@ -355,10 +404,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "944cd14a7fae27b7",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/研究对小智AI做二次开发.md",
+    "Templates/Tasks.md",
+    "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
     "Templates/Homepage/Homepage.md",
+    "100-学习/120-嵌入式/面试算法题",
+    "Templates/研究对小智AI做二次开发.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/创建面试题模板_插件.md",
     "Templates/Homepage/003_不定期任务.md",
@@ -386,9 +438,7 @@
     "Templates/配置 VSCode 阅读 Linux 源码环境.md",
     "Templates/bear 追踪内核编译.md",
     "Attachments/Pasted image 20260828170413.png",
-    "Templates/Tasks.md",
     "Dairies/2026-08-28.md",
-    "Temp/anki-科目三.md",
     "Leetcode/1989.两个数组最小的异或值之和.cpp",
     "Attachments/Pasted image 20260826113024.png",
     "Attachments/Pasted image 20260826104937.png",
@@ -402,7 +452,6 @@
     "Leetcode/1906.N 次操作后的最大分数和.cpp",
     "Attachments/1_1787402271504.jpg",
     "Leetcode/3649.破解锁的最少时间 I.cpp",
-    "100-学习/110-计算机/语言/Rust",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
