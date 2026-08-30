@@ -9,6 +9,10 @@
       "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
+      "basename": "创建面试题模板_插件",
+      "path": "Templates/Homepage/创建面试题模板_插件.md"
+    },
+    {
       "basename": "003_不定期任务",
       "path": "Templates/Homepage/003_不定期任务.md"
     },
@@ -79,10 +83,6 @@
     {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
-    },
-    {
-      "basename": "创建面试题模板_插件",
-      "path": "Templates/Homepage/创建面试题模板_插件.md"
     },
     {
       "basename": "anki-科目三",
