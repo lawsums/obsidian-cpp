@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
       "basename": "003_不定期任务",
       "path": "Templates/Homepage/003_不定期任务.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "Anki-科目三",
       "path": "Vocabulary/Anki-科目三.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "1989.两个数组最小的异或值之和",
