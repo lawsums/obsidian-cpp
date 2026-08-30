@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "研一课程",
-      "path": "Temp/研一课程.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "大四上考试时间",
+      "path": "Temp/大四上考试时间.md"
+    },
+    {
+      "basename": "研一课程",
+      "path": "Temp/研一课程.md"
     },
     {
       "basename": "路线梳理",
@@ -195,10 +199,6 @@
     {
       "basename": "FreeRTOS下UART的封装源码",
       "path": "300-项目/嵌入式/韦东山课程/FreeRTOS下UART的封装源码.md"
-    },
-    {
-      "basename": "试着用ai去维护一个知识库比如说科研文档or深度学习架构or嵌入式架构orlinux架构",
-      "path": "Templates/Homepage/试着用ai去维护一个知识库比如说科研文档or深度学习架构or嵌入式架构orlinux架构.md"
     }
   ],
   "omittedPaths": [],
