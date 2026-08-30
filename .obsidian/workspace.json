@@ -56,30 +56,6 @@
             }
           },
           {
-            "id": "2889e43e9364b75e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Linux系统编程"
-            }
-          },
-          {
             "id": "25a9e22db24b8566",
             "type": "leaf",
             "state": {
@@ -175,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -320,13 +295,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Linux系统编程 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -404,10 +379,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "ada19ff6fdd90aee",
   "lastOpenFiles": [
-    "100-学习/120-嵌入式/面试八股文/八股文.md",
     "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
+    "100-学习/120-嵌入式/面试八股文/八股文.md",
     "100-学习/120-嵌入式/面试八股文",
     "100-学习/120-嵌入式/未命名.md",
     "Templates/Homepage/Homepage.md",
