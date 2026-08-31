@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -273,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/110-计算机/语言/Rust/学习rust.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习rust 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -357,8 +356,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "5b8aae32fcb9dbb6",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Templates/Homepage/Homepage.md",
     "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "Projects/anime/乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录.md",
@@ -395,7 +395,6 @@
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/创建面试题模板_插件.md",
     "Templates/Homepage/003_不定期任务.md",
-    "100-学习/120-嵌入式/C++嵌入式.md",
     "Attachments/Pasted image 20260829175746.png",
     "Leetcode/images/877_shortest2-graph.jpg",
     "Leetcode/images/877_shortest1-graph.jpg",
