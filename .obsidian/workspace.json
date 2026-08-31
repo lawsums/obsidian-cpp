@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "c8677ec5ed04cc05",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Temp/研一课程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "研一课程"
+            }
+          },
+          {
             "id": "5fc23b0e050269c6",
             "type": "leaf",
             "state": {
@@ -151,8 +175,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -381,8 +404,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "30e25248bfacf554",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Temp/研一课程.md",
+    "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "Templates/Homepage/Homepage.md",
     "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
     "Templates/Homepage/学习深度学习.md",
@@ -400,7 +425,6 @@
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/README.md",
     "100-学习/120-嵌入式/面试八股文/八股文.md",
     "Templates/研究对小智AI做二次开发.md",
-    "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "100-学习/120-嵌入式/未命名.md",
     "Templates/Tasks.md",
     "Templates/Homepage/用ai产出创意内容.md",
@@ -411,7 +435,6 @@
     "Templates/Homepage/学习C++.md",
     "Leetcode/2848.特别的排列.md",
     "Temp/大四上考试时间.md",
-    "Temp/研一课程.md",
     "Dairies/2026-08-30.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/固定linux_ip.md",
