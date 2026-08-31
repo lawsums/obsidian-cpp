@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "Linux系统编程",
       "path": "100-学习/120-嵌入式/面试八股文/Linux系统编程.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "研一课程",
@@ -67,10 +71,6 @@
     {
       "basename": "大四上考试时间",
       "path": "Temp/大四上考试时间.md"
-    },
-    {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "固定linux_ip",
