@@ -297,13 +297,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法路线图 的大纲"
+              "title": "路线梳理 的大纲"
             }
           },
           {
@@ -336,7 +336,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -381,10 +382,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d038aeea44d281ed",
+  "active": "7ad080d1a7a76395",
   "lastOpenFiles": [
-    "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
+    "Attachments/Pasted image 20260831142242.png",
     "Templates/Homepage/Homepage.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "Temp/研一课程.md",
     "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
     "Templates/Homepage/学习深度学习.md",
@@ -413,7 +416,6 @@
     "Leetcode/2848.特别的排列.md",
     "Temp/大四上考试时间.md",
     "Dairies/2026-08-30.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/固定linux_ip.md",
     "Attachments/Pasted image 20260829175746.png",
     "Software/Vscode-vim.md",
@@ -421,7 +423,6 @@
     "Leetcode/images/877_shortest2-graph.jpg",
     "Leetcode/images/877_shortest1-graph.jpg",
     "Leetcode/1.md",
-    "Dairies/2026-08-29.md",
     "Attachments/Pasted image 20260828170413.png",
     "Attachments/Pasted image 20260826113024.png",
     "Attachments/Pasted image 20260826104937.png",
