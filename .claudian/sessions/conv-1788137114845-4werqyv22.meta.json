@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788137114845-4werqyv22",
+  "providerId": "claude",
+  "title": "Write test files for self-checking problem set",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788137114847,
+  "updatedAt": 1788137553943,
+  "lastResponseAt": 1788137553943,
+  "sessionId": "27d0d576-e2fb-4c76-99c1-3afc1580677d",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "27d0d576-e2fb-4c76-99c1-3afc1580677d"
+  },
+  "currentNote": "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2020,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 85632,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 87652,
+    "percentage": 44
+  }
+}
