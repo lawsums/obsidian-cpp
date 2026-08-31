@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788182092003-qz9or70z7",
+  "providerId": "claude",
+  "title": "Check internet connectivity",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788182092004,
+  "updatedAt": 1788182114369,
+  "lastResponseAt": 1788182114368,
+  "sessionId": "976b1deb-78db-4d28-997a-7a2462afeb14",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "976b1deb-78db-4d28-997a-7a2462afeb14"
+  },
+  "currentNote": "Templates/Homepage/Homepage.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1408,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28672,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 30080,
+    "percentage": 15
+  }
+}
