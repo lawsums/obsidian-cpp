@@ -335,8 +335,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -381,7 +380,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "9dc770d0e0eb3520",
   "lastOpenFiles": [
     "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "300-项目/嵌入式/韦东山课程/关闭GUI.md",
