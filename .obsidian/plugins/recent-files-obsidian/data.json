@@ -5,12 +5,12 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "研一课程",
-      "path": "Temp/研一课程.md"
-    },
-    {
       "basename": "Linux系统编程",
       "path": "100-学习/120-嵌入式/面试八股文/Linux系统编程.md"
+    },
+    {
+      "basename": "研一课程",
+      "path": "Temp/研一课程.md"
     },
     {
       "basename": "笔试—科大讯飞嵌入式软件开发笔试",
