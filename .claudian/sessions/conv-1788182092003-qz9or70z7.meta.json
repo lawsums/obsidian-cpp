@@ -4,21 +4,44 @@
   "title": "Check internet connectivity",
   "titleGenerationStatus": "success",
   "createdAt": 1788182092004,
-  "updatedAt": 1788183164554,
-  "lastResponseAt": 1788183164554,
+  "updatedAt": 1788186210010,
+  "lastResponseAt": 1788186210010,
   "sessionId": "976b1deb-78db-4d28-997a-7a2462afeb14",
   "selectedModel": "haiku",
   "providerState": {
-    "providerSessionId": "976b1deb-78db-4d28-997a-7a2462afeb14"
+    "providerSessionId": "976b1deb-78db-4d28-997a-7a2462afeb14",
+    "subagentData": {
+      "call_00_ByYQv1YpNdZzpJwsJoXG4677": {
+        "id": "call_00_ByYQv1YpNdZzpJwsJoXG4677",
+        "description": "Run ACGbangumi search test",
+        "prompt": "用 PowerShell 工具执行下面这条命令（不要改动任何参数）。如果 PowerShell 工具报错 \"spawn C:\\WINDOWS\\system32\\pwsh.bat EINVAL\"，请原样报告该错误。如果成功，把命令的完整输出原样返回给我。\n\n命令：\n$env:NODE_PATH = \"C:/Users/Administrator/.workbuddy/binaries/node/workspace/node_modules\"; & \"C:/Users/Administrator/.workbuddy/binaries/node/versions/22.22.2/node.exe\" \"E:/Documents/Obsidian/Templates/scripts/ACGbangumi-cli.cjs\" search --name \"葬送的芙莉莲\" --type anime --json\n\n只需要执行这一条并汇报结果，不要做其它事情。",
+        "status": "completed",
+        "toolCalls": [
+          {
+            "id": "call_00_riYzFNVTBIQZvW8i0oVp1762",
+            "name": "PowerShell",
+            "input": {
+              "command": "$env:NODE_PATH = \"C:/Users/Administrator/.workbuddy/binaries/node/workspace/node_modules\"; & \"C:/Users/Administrator/.workbuddy/binaries/node/versions/22.22.2/node.exe\" \"E:/Documents/Obsidian/Templates/scripts/ACGbangumi-cli.cjs\" search --name \"葬送的芙莉莲\" --type anime --json",
+              "description": "Run ACGbangumi-cli search for anime 葬送的芙莉莲"
+            },
+            "status": "error",
+            "isExpanded": false,
+            "result": "spawn C:\\WINDOWS\\system32\\pwsh.bat EINVAL"
+          }
+        ],
+        "isExpanded": false,
+        "result": "PowerShell 工具报错了：\n\n```\nspawn C:\\WINDOWS\\system32\\pwsh.bat EINVAL\n```\n\n这是你提到的那个错误原样返回，命令没有执行成功。"
+      }
+    }
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 0,
+    "inputTokens": 3527,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 0,
+    "cacheReadInputTokens": 80768,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 0,
-    "percentage": 0
+    "contextTokens": 84295,
+    "percentage": 42
   }
 }
