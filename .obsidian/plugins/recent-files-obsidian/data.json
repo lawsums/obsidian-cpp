@@ -5,6 +5,10 @@
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
+      "basename": "关闭GUI",
+      "path": "300-项目/嵌入式/韦东山课程/关闭GUI.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1487.安排电影院座位",
       "path": "Leetcode/1487.安排电影院座位.md"
-    },
-    {
-      "basename": "Bootloader",
-      "path": "100-学习/120-嵌入式/Bootloader.md"
     }
   ],
   "omittedPaths": [],

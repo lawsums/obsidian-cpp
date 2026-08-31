@@ -80,6 +80,30 @@
             }
           },
           {
+            "id": "428bb0304a57b26d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300-项目/嵌入式/韦东山课程/关闭GUI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "关闭GUI"
+            }
+          },
+          {
             "id": "dde6414216f2b83e",
             "type": "leaf",
             "state": {
@@ -382,11 +406,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7ad080d1a7a76395",
+  "active": "d038aeea44d281ed",
   "lastOpenFiles": [
+    "300-项目/嵌入式/韦东山课程/关闭GUI.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Attachments/Pasted image 20260831142242.png",
     "Templates/Homepage/Homepage.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "Temp/研一课程.md",
     "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
@@ -429,7 +454,6 @@
     "Attachments/Pasted image 20260824120742.png",
     "Attachments/Pasted image 20260824114521.png",
     "Attachments/Pasted image 20260824114438.png",
-    "Attachments/1_1787402271504.jpg",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
