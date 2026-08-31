@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "学习rust",
+      "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "笔试—科大讯飞嵌入式软件开发笔试",
-      "path": "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md"
-    },
-    {
       "basename": "Linux系统编程",
       "path": "100-学习/120-嵌入式/面试八股文/Linux系统编程.md"
+    },
+    {
+      "basename": "笔试—科大讯飞嵌入式软件开发笔试",
+      "path": "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md"
     },
     {
       "basename": "关闭GUI",
@@ -59,10 +63,6 @@
     {
       "basename": "C++嵌入式",
       "path": "100-学习/120-嵌入式/C++嵌入式.md"
-    },
-    {
-      "basename": "学习rust",
-      "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
     },
     {
       "basename": "学习C++",
