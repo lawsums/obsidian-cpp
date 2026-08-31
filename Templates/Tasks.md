@@ -579,7 +579,7 @@ sort by description
 - [ ] 实现container和log #task ⏫ 🛫 2026-08-28 ⏳ 2026-08-30 ➕ 2026-08-28 ^task-20260828-ab40fe01
 - [x] 给周老师回消息 #沟通 ⏫ ➕ 2026-08-29 🛫 2026-08-29 ⏳ 2026-08-29 ✅ 2026-08-29 ^task-20260829-2cbd4c61
 - [x] 下次看rust包和模块 #rust ⏫ ➕ 2026-08-29 🛫 2026-08-29 ⏳ 2026-08-30 ✅ 2026-08-30 ^task-20260829-5800a165
-- [ ] 看一下[4_4-7_文件IO系统调用内部机制_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1w4411B7a4?spm_id_from=333.788.videopod.episodes&amp;vd_source=cf6228c0b4a5c283905e22fd11934994&amp;p=46) #task ⏫ ⏳ 2026-08-31 ➕ 2026-08-29 ^task-20260829-c627b7bb
+- [ ] 看一下[4_4-7_文件IO系统调用内部机制_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1w4411B7a4?spm_id_from=333.788.videopod.episodes&amp;vd_source=cf6228c0b4a5c283905e22fd11934994&amp;p=46) #task ⏫ ➕ 2026-08-29 ⏳ 2026-09-01 ^task-20260829-c627b7bb
 - [ ] 买床垫 #task 🔺 ⏳ 2026-09-02 ➕ 2026-08-29 ^task-20260829-481beab4
 - [ ] 和二姐预约一下送我到学校 #家庭 #交通 🔺 🛫 2026-08-29 ⏳ 2026-09-02 ➕ 2026-08-29 ^task-20260829-6ea1c37f
 - [x] 收拾床单、枕头、被子和毯子 #家务 🔺 ➕ 2026-08-29 🛫 2026-08-29 ⏳ 2026-08-30 ✅ 2026-08-30 ^task-20260829-e6b01318
