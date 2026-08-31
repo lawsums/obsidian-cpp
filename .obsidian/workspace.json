@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -274,13 +272,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "笔试—科大讯飞嵌入式软件开发笔试 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -317,8 +315,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -359,8 +356,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "471720a4a444ee2f",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q1.cpp~",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3.cpp~",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q2.cpp",
@@ -372,7 +370,6 @@
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Attachments/Pasted image 20260831142242.png",
     "Temp/研一课程.md",
-    "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
     "Templates/Homepage/学习深度学习.md",
     "Leetcode/算法路线图.md",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3-max-region/test11.out",
@@ -380,7 +377,6 @@
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3-max-region/test10.out",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3-max-region/test10.in",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3-max-region/test9.out",
-    "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3-max-region/test9.in",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/README.md",
     "100-学习/120-嵌入式/面试八股文/八股文.md",
     "Templates/研究对小智AI做二次开发.md",
