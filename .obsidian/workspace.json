@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "471720a4a444ee2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "笔试—科大讯飞嵌入式软件开发笔试"
+            }
+          },
+          {
             "id": "49740e8d85f678ee",
             "type": "leaf",
             "state": {
@@ -53,54 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "Linux系统编程"
-            }
-          },
-          {
-            "id": "428bb0304a57b26d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "300-项目/嵌入式/韦东山课程/关闭GUI.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "关闭GUI"
-            }
-          },
-          {
-            "id": "dde6414216f2b83e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/研一课程.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "研一课程"
             }
           },
           {
@@ -151,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,7 +247,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -296,13 +274,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "笔试—科大讯飞嵌入式软件开发笔试 的大纲"
             }
           },
           {
@@ -339,7 +317,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -380,13 +359,18 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "471720a4a444ee2f",
   "lastOpenFiles": [
+    "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q1.cpp~",
+    "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3.cpp~",
+    "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q2.cpp",
+    "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q1.cpp",
+    "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3.cpp",
+    "Templates/Homepage/Homepage.md",
     "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "300-项目/嵌入式/韦东山课程/关闭GUI.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Attachments/Pasted image 20260831142242.png",
-    "Templates/Homepage/Homepage.md",
     "Temp/研一课程.md",
     "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
     "Templates/Homepage/学习深度学习.md",
@@ -397,10 +381,6 @@
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3-max-region/test10.in",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3-max-region/test9.out",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3-max-region/test9.in",
-    "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3-max-region/test8.out",
-    "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3-max-region/test8.in",
-    "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3-max-region/test7.out",
-    "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3-max-region/test7.in",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/README.md",
     "100-学习/120-嵌入式/面试八股文/八股文.md",
     "Templates/研究对小智AI做二次开发.md",
@@ -421,7 +401,6 @@
     "Leetcode/877.访问所有节点的最短路径.md",
     "Leetcode/images/877_shortest2-graph.jpg",
     "Leetcode/images/877_shortest1-graph.jpg",
-    "Leetcode/1.md",
     "Attachments/Pasted image 20260828170413.png",
     "Attachments/Pasted image 20260826113024.png",
     "Attachments/Pasted image 20260826104937.png",

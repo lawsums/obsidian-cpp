@@ -558,7 +558,8 @@ sort by description
 - [x] 烧饭 #task 🔺 ➕ 2026-08-26 ⏳ 2026-08-26 ✅ 2026-08-26 ^task-20260826-602d3f8d
 - [x] 晚上录一期C++动态规划视频 #coding #cpp #video ⏫ ➕ 2026-08-26 🛫 2026-08-26 ⏳ 2026-08-26 ✅ 2026-08-26 ^task-20260826-f828148d
 - [x] 研究一下录视频的方法 #学习 #视频 ⏫ ➕ 2026-08-26 🛫 2026-08-26 ⏳ 2026-08-26 ✅ 2026-08-26 ^task-20260826-d1a15c39
-- [ ] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-08-31 ⏳ 2026-08-31
+- [ ] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-09-01 ⏳ 2026-09-01
+- [x] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-08-31 ⏳ 2026-08-31 ✅ 2026-08-31
 - [x] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-08-30 ⏳ 2026-08-30 ✅ 2026-08-30
 - [x] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-08-29 ⏳ 2026-08-29 ✅ 2026-08-29
 - [x] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-08-28 ⏳ 2026-08-28 ✅ 2026-08-28
