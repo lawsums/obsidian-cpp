@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "b9b645b80a3903a6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "路线梳理"
+            }
+          },
+          {
             "id": "855159903c2b1e2d",
             "type": "leaf",
             "state": {
@@ -113,7 +137,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "路线梳理 的大纲"
             }
           },
           {
@@ -341,10 +366,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "b9b645b80a3903a6",
   "lastOpenFiles": [
-    "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
     "Templates/Homepage/Homepage.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3.cpp~",
     "Projects/anime/银魂.md",
     "Dairies/2026-09-01.md",
@@ -364,7 +390,6 @@
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q1.cpp",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3.cpp",
     "300-项目/嵌入式/韦东山课程/关闭GUI.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Attachments/Pasted image 20260831142242.png",
     "Temp/研一课程.md",
     "Templates/Homepage/学习深度学习.md",
