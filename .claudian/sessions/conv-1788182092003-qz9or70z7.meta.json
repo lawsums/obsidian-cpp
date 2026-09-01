@@ -4,7 +4,7 @@
   "title": "Check internet connectivity",
   "titleGenerationStatus": "success",
   "createdAt": 1788182092004,
-  "updatedAt": 1788186210010,
+  "updatedAt": 1788228431602,
   "lastResponseAt": 1788186210010,
   "sessionId": "976b1deb-78db-4d28-997a-7a2462afeb14",
   "selectedModel": "haiku",
@@ -30,7 +30,7 @@
           }
         ],
         "isExpanded": false,
-        "result": "PowerShell 工具报错了：\n\n```\nspawn C:\\WINDOWS\\system32\\pwsh.bat EINVAL\n```\n\n这是你提到的那个错误原样返回，命令没有执行成功。"
+        "result": "PowerShell 工具报错了：\n\n```\nspawn C:\\WINDOWS\\system32\\pwsh.bat EINVAL\n```\n\n这是你提到的那个错误原样返回，命令没有执行成功。\nagentId: a600e5125fb762c13 (use SendMessage with to: 'a600e5125fb762c13', summary: '<5-10 word recap>' to continue this agent)\n<usage>subagent_tokens: 19785\ntool_uses: 1\nduration_ms: 5871</usage>"
       }
     }
   },
