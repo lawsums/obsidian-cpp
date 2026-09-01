@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788265229160-volzt49vk",
+  "providerId": "claude",
+  "title": "Organize Fenwick tree problem notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788265229161,
+  "updatedAt": 1788265527899,
+  "lastResponseAt": 1788265527899,
+  "sessionId": "dbed146a-a2b7-4ea0-bdd9-4d0b28041333",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "dbed146a-a2b7-4ea0-bdd9-4d0b28041333"
+  },
+  "currentNote": "Leetcode/1511.统计作战单位数.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 448,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 75008,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 75456,
+    "percentage": 38
+  }
+}
