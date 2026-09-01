@@ -602,3 +602,4 @@ sort by description
 - [x] 学习一大节韦东山的课 #学习 #韦东山 🔺 ➕ 2026-08-31 🛫 2026-08-31 ⏳ 2026-09-01 ✅ 2026-09-01 ^task-20260831-beeb55f0
 - [ ] 整理多版本多线程网络编程区别及TCP编程中signal的作用 #network #concurrency #tcp #signal ⏫ 🛫 2026-09-01 ⏳ 2026-09-02 ➕ 2026-09-01 ^task-20260901-fec0a765
 - [ ] 迁移 Espressif 到 H 盘 #task 🔺 🛫 2026-09-01 ⏳ 2026-09-02 ➕ 2026-09-01 ^task-20260901-4ff6bfe5
+- [ ] 做[实验室安全教育](https://mp.weixin.qq.com/s/Xw-EvGx4BjFonSNB4B3hMQ) #task 🔺 🛫 2026-09-01 ⏳ 2026-09-02 ➕ 2026-09-01 ^task-20260901-b3eb1605
