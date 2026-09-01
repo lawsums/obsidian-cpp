@@ -4,8 +4,8 @@
   "title": "Check internet connectivity",
   "titleGenerationStatus": "success",
   "createdAt": 1788182092004,
-  "updatedAt": 1788228431602,
-  "lastResponseAt": 1788186210010,
+  "updatedAt": 1788231044221,
+  "lastResponseAt": 1788231044221,
   "sessionId": "976b1deb-78db-4d28-997a-7a2462afeb14",
   "selectedModel": "haiku",
   "providerState": {
@@ -36,12 +36,12 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 3527,
+    "inputTokens": 740,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 80768,
+    "cacheReadInputTokens": 96384,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 84295,
-    "percentage": 42
+    "contextTokens": 97124,
+    "percentage": 49
   }
 }

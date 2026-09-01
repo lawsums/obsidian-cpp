@@ -41,7 +41,8 @@ NODE_PATH="C:/Users/Administrator/.workbuddy/binaries/node/workspace/node_module
 - 写文件到 `E:/Documents/Obsidian/Projects/anime/`（工作区之外），会被 sandbox 拦截，**必须用 `dangerouslyDisableSandbox` 执行 add**（search 不需要）。
 - `--type` 只支持 `anime`（动画）/`book`·`manga`（漫画）/`game`（游戏）。新番默认 `anime`。
 - 状态默认就是「想看⏰」（模板内置），无需传 `--state`，除非用户指定其它状态（如在看📖、看过🎉、搁置等）。
-- 脚本 HTTP 层零依赖，自动走本机代理 `127.0.0.1:7890`；如失败可用 `--proxy` 显式指定。
+- 脚本 HTTP 层零依赖，会自动读环境变量代理；但实测本机自动检测会命中坏节点（ETIMEDOUT 到 31.13.69.169:443），**推荐每条命令都显式加 `--proxy "http://127.0.0.1:7890"`**，稳定可用。
+- 调试/预览建议先跑 `--dry-run`（不写文件）确认内容无误，再正式 add。
 
 ## 工作流
 
