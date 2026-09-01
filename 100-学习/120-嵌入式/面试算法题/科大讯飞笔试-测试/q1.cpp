@@ -28,7 +28,7 @@ int main() {
     cin >> n >> m >> k >> l;
 
     auto matrix = vvi(n, vi(m, 0));
-    auto kernal = vvi(n, vi(m, 0));
+    auto kernal = vvi(k, vi(l, 0));
     auto input_data = [&](int rows, int cols, vvi& vec) {
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < cols; j++) {

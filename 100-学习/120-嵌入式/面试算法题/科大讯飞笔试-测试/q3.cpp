@@ -15,13 +15,13 @@ int main() {
     cin.tie(nullptr);
 
     int n, m;
+    cin >> n >> m;
     auto vec = vector<vector<int>>(n, vector<int>(m, 0));
 
     // 为什么这里输入图片像素值初始化要初始化为全零？因为全零的话，方便我们用异或来代替读入。用两次异或，如果结果还是零，就说明这个像素未被修改。然后我们对零进行 DFS，这就是这道题。
     
     // 正常使用 cin/cout，注意不要混用 scanf/printf
     int num;
-    cin >> n >> m;
 
     for (int i = 0; i < n; i++) {
         for (int j = 0; j < m; j++) {
@@ -37,14 +37,14 @@ int main() {
         }
     }
 
-    deque<int> dq;
     auto legal = [=](int r, int c) {
         return 0 <= r && r < n && 0 <= c && c < m;
     };
 
     auto bfs = [&](int i0, int j0) {
+        deque<int> dq;
         // 这里等于-1，就相当于表示它已经被访问过
-        int res = 0;
+        int res = 1;
         vec[i0][j0] = -1;
         dq.push_back(i0 * m + j0);     
         while (!dq.empty()) {

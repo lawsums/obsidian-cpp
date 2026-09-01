@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "855159903c2b1e2d",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          },
+          {
             "id": "02c335c035ea2a8d",
             "type": "leaf",
             "state": {
@@ -247,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法路线图 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -286,7 +296,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -332,10 +343,12 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
+    "Templates/Homepage/Homepage.md",
+    "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3.cpp~",
     "Projects/anime/银魂.md",
     "Dairies/2026-09-01.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
-    "Templates/Homepage/Homepage.md",
     "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "Projects/anime/乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录.md",
     "Projects/anime/愚者之夜.md",
@@ -346,9 +359,7 @@
     "Projects/anime/弹珠汽水瓶里的千岁同学 第2部分.md",
     "Projects/anime/药屋少女的呢喃 第三季.md",
     "Projects/anime/学生会也有洞！.md",
-    "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q1.cpp~",
-    "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3.cpp~",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q2.cpp",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q1.cpp",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3.cpp",
@@ -368,7 +379,6 @@
     "Templates/研究对小智AI做二次开发.md",
     "100-学习/120-嵌入式/未命名.md",
     "Templates/Tasks.md",
-    "Templates/Homepage/用ai产出创意内容.md",
     "Attachments/Pasted image 20260829175746.png",
     "Leetcode/images/877_shortest2-graph.jpg",
     "Leetcode/images/877_shortest1-graph.jpg",
