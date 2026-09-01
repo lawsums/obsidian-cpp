@@ -137,8 +137,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -282,13 +281,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "路线梳理 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -366,11 +365,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "b9b645b80a3903a6",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20260901152813.png",
     "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Attachments/Pasted image 20260901152813.png",
     "100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3.cpp~",
     "Projects/anime/银魂.md",
@@ -413,7 +412,6 @@
     "Attachments/Pasted image 20260826104937.png",
     "Attachments/Pasted image 20260824120742.png",
     "Attachments/Pasted image 20260824114521.png",
-    "Attachments/Pasted image 20260824114438.png",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
