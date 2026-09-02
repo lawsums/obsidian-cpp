@@ -175,7 +175,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -319,13 +320,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "100-学习/120-嵌入式/面试八股文/八股文.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "八股文 的大纲"
             }
           },
           {
@@ -402,10 +403,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "430675a66a31fe13",
   "lastOpenFiles": [
-    "100-学习/120-嵌入式/面试八股文/八股文.md",
+    "100-学习/120-嵌入式/面试算法题/笔试—中兴软件开发笔试.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Tasks.md.tmp.16064.76999f4919aa",
+    "100-学习/120-嵌入式/面试八股文/八股文.md",
     "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "Templates/Homepage/每天给C盘文件夹建立软连接.md",
     "Templates/Homepage/买开学用的东西.md",
@@ -436,12 +439,9 @@
     "Attachments/Pasted image 20260831142242.png",
     "Temp/研一课程.md",
     "Templates/Homepage/学习深度学习.md",
-    "Leetcode/算法路线图.md",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3-max-region/test11.out",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3-max-region/test11.in",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3-max-region/test10.out",
-    "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q3-max-region/test10.in",
-    "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/README.md",
     "Attachments/Pasted image 20260829175746.png",
     "Leetcode/images/877_shortest2-graph.jpg",
     "Leetcode/images/877_shortest1-graph.jpg",

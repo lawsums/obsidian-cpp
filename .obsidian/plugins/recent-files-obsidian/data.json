@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
       "basename": "八股文",
       "path": "100-学习/120-嵌入式/面试八股文/八股文.md"
+    },
+    {
+      "basename": "笔试—中兴软件开发笔试",
+      "path": "100-学习/120-嵌入式/面试算法题/笔试—中兴软件开发笔试.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "Linux系统编程",
@@ -195,10 +199,6 @@
     {
       "basename": "思考状压DP",
       "path": "Templates/思考状压DP.md"
-    },
-    {
-      "basename": "1525.查询带键的排列",
-      "path": "Leetcode/1525.查询带键的排列.md"
     }
   ],
   "omittedPaths": [],
