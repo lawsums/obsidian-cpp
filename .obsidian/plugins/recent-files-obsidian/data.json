@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "每天给C盘文件夹建立软连接",
+      "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
+    },
+    {
+      "basename": "买开学用的东西",
+      "path": "Templates/Homepage/买开学用的东西.md"
+    },
+    {
       "basename": "路线梳理",
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "1525.查询带键的排列",
       "path": "Leetcode/1525.查询带键的排列.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
-      "basename": "闪念_随心一念",
-      "path": "Dairies/闪念_随心一念.md"
     }
   ],
   "omittedPaths": [],
