@@ -4,8 +4,8 @@
   "title": "解答FreeRTOS任务创建面试题",
   "titleGenerationStatus": "success",
   "createdAt": 1788321515155,
-  "updatedAt": 1788321539717,
-  "lastResponseAt": 1788321539717,
+  "updatedAt": 1788323408971,
+  "lastResponseAt": 1788323408971,
   "sessionId": "fce1ae30-d301-4e5c-9a82-d57e1dcab52c",
   "selectedModel": "haiku",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 2489,
+    "inputTokens": 175,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 33536,
+    "cacheReadInputTokens": 44032,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 36025,
-    "percentage": 18
+    "contextTokens": 44207,
+    "percentage": 22
   }
 }
