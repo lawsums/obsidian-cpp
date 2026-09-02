@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "研究对小智AI做二次开发",
+      "path": "Templates/研究对小智AI做二次开发.md"
+    },
+    {
+      "basename": "Templates_研究对小智AI做二次开发_步骤",
+      "path": "Templates/Templates_研究对小智AI做二次开发_步骤.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
       "basename": "八股文",
       "path": "100-学习/120-嵌入式/面试八股文/八股文.md"
     },
     {
       "basename": "笔试—中兴软件开发笔试",
       "path": "100-学习/120-嵌入式/面试算法题/笔试—中兴软件开发笔试.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "Linux系统编程",
@@ -55,14 +67,6 @@
     {
       "basename": "算法路线图",
       "path": "Leetcode/算法路线图.md"
-    },
-    {
-      "basename": "研究对小智AI做二次开发",
-      "path": "Templates/研究对小智AI做二次开发.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "用ai产出创意内容",
@@ -195,10 +199,6 @@
     {
       "basename": "Rust嵌入式",
       "path": "100-学习/120-嵌入式/Rust嵌入式.md"
-    },
-    {
-      "basename": "思考状压DP",
-      "path": "Templates/思考状压DP.md"
     }
   ],
   "omittedPaths": [],

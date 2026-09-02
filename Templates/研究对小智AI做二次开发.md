@@ -18,6 +18,7 @@
 	- [ ] 生成面试题
 	- [ ] 过一遍
 	- [ ] 掌握一般的、掌握不好的、没答出来的、不知道的，全都整理到 anki 里
+- [ ] 
 
 - [ ] 用 deepseek harness 了解新增的嵌入式岗位目前对于 ai 技能的需求
 - [ ] 了解立芯以及多个培训班新增的嵌入式方向（不是说你要去羡慕或者去上这个培训班，而是说了解他们的方向，预判他们的方向，提前走他们的方向。）
@@ -30,6 +31,9 @@
 [ai嵌入式开发ai小智，有手就会_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Vp9SBFE1S/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994)
 [［开源］一个ESP32多功能掌机|FreeRTOS+LVGL_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1afCLBgEsR/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994)
 [4-3.SquareLine如何使用_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1pfRCBPEdC?spm_id_from=333.788.videopod.sections&vd_source=cf6228c0b4a5c283905e22fd11934994&p=19)
+
+## 1.1 智能药箱助手
+
 
 ---
 # 2 笔记
@@ -132,6 +136,10 @@
     - 执行此命令后，固件将烧录到开发板，并自动打开串口监视器显示运行日志。
         
     - **退出监视器**：按 **`Ctrl + ]`** 组合键。
+
+## 2.3 智能药箱助手
+
+![[Templates_研究对小智AI做二次开发_步骤|步骤]]
 
 
 * 2026-08-23 - 1
