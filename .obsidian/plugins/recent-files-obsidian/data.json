@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "收拾开学用的东西",
+      "path": "Templates/Homepage/收拾开学用的东西.md"
+    },
+    {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
     },
@@ -19,10 +23,6 @@
     {
       "basename": "算法路线图",
       "path": "Leetcode/算法路线图.md"
-    },
-    {
-      "basename": "收拾开学用的东西",
-      "path": "Templates/Homepage/收拾开学用的东西.md"
     },
     {
       "basename": "研究对小智AI做二次开发",
