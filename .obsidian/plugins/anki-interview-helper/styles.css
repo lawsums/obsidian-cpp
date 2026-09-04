@@ -1,0 +1,173 @@
+/* Anki Interview Helper - modal styles */
+
+.anki-interview-modal .anki-section {
+	margin-bottom: 18px;
+}
+
+.anki-interview-modal .anki-section > label {
+	display: block;
+	font-weight: 500;
+	margin-bottom: 6px;
+}
+
+.anki-interview-modal .anki-deck-input-wrap {
+	position: relative;
+}
+
+.anki-interview-modal .anki-deck-input {
+	width: 100%;
+}
+
+.anki-interview-modal .anki-deck-suggestions {
+	position: absolute;
+	top: calc(100% + 2px);
+	left: 0;
+	right: 0;
+	z-index: 20;
+	max-height: 220px;
+	overflow-y: auto;
+	background: var(--background-primary);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 6px;
+}
+
+.anki-interview-modal .anki-deck-item {
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+	gap: 8px;
+	padding: 6px 10px;
+	cursor: pointer;
+	border-bottom: 1px solid var(--background-modifier-border-hover);
+}
+
+.anki-interview-modal .anki-deck-item:last-child {
+	border-bottom: none;
+}
+
+.anki-interview-modal .anki-deck-item:hover {
+	background: var(--background-modifier-hover);
+}
+
+/* 键盘 ↑/↓ 导航时的高亮态 */
+.anki-interview-modal .anki-deck-item.is-active {
+	background: var(--background-modifier-hover);
+	box-shadow: inset 2px 0 0 var(--interactive-accent);
+}
+
+.anki-interview-modal .anki-deck-left {
+	flex: 1;
+	min-width: 0;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.anki-interview-modal .anki-deck-item.is-archived .anki-deck-name {
+	color: var(--text-faint);
+}
+
+.anki-interview-modal .anki-deck-badge {
+	margin-left: 8px;
+	font-size: 11px;
+	color: var(--text-faint);
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 4px;
+	padding: 0 4px;
+}
+
+.anki-interview-modal .anki-deck-meta {
+	color: var(--text-muted);
+	font-size: 11px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	max-width: 45%;
+	flex-shrink: 0;
+}
+
+.anki-interview-modal .anki-file-hint {
+	color: var(--text-muted);
+	font-size: 12px;
+	margin: 6px 0 0;
+}
+
+/* 原始题目输入区：标签行 + 来源按钮 + 已读文件标签 */
+.anki-interview-modal .anki-question-label-row {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	gap: 8px;
+	margin-bottom: 6px;
+}
+
+.anki-interview-modal .anki-question-label-row label {
+	margin-bottom: 0;
+}
+
+.anki-interview-modal .anki-source-buttons {
+	display: flex;
+	gap: 6px;
+	flex-shrink: 0;
+}
+
+.anki-interview-modal .anki-source-chips {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 6px;
+	margin-bottom: 8px;
+}
+
+.anki-interview-modal .anki-source-chip {
+	display: inline-flex;
+	align-items: center;
+	gap: 5px;
+	font-size: 12px;
+	padding: 2px 8px;
+	border: 1px solid var(--background-modifier-border);
+	border-radius: 10px;
+	color: var(--text-muted);
+	max-width: 100%;
+}
+
+.anki-interview-modal .anki-source-chip > span:first-child {
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	max-width: 200px;
+}
+
+.anki-interview-modal .anki-source-chip-x {
+	cursor: pointer;
+	color: var(--text-faint);
+	font-size: 11px;
+}
+
+.anki-interview-modal .anki-source-chip-x:hover {
+	color: var(--text-error);
+}
+
+.anki-interview-modal .anki-question-input,
+.anki-interview-modal .anki-preview-input {
+	width: 100%;
+	resize: vertical;
+}
+
+.anki-interview-modal .anki-preview-input {
+	font-family: var(--font-monospace);
+	font-size: 13px;
+}
+
+.anki-interview-modal .anki-modal-footer {
+	display: flex;
+	justify-content: flex-end;
+	gap: 8px;
+	margin-top: 4px;
+}
+
+.anki-settings-textarea {
+	width: 100%;
+	font-family: var(--font-monospace);
+	font-size: 12px;
+	resize: vertical;
+}

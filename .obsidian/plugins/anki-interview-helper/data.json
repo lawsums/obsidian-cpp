@@ -1,0 +1,21 @@
+{
+  "rootDir": "Anki",
+  "archiveDir": "Anki/Archive",
+  "autoLoadActiveFile": false,
+  "llm": {
+    "baseUrl": "https://api.deepseek.com/v1",
+    "apiKey": "sk-d59c786fde724c499369236b53f2f03b",
+    "model": "deepseek-v4-flash",
+    "systemPrompt": "你是面试题整理助手，负责将原始面试题转换为 Anki 知识卡片。\n\n输出格式（必须严格遵守）：\n{Q}题面{A}答案{E}\n\n规则：\n1. 每张卡片是一个 {Q}...{A}...{E} 块，卡片之间用一个空行分隔\n2. {Q} 为题面：一句话、明确、可以直接自测的问句\n3. {A} 为答案：使用 Markdown 格式（可加粗关键词、使用列表、行内代码、代码块等），比纯文本更易读\n4. 短答案（几个并列要点）用顿号或逗号串联成一行；长答案分点列出\n5. 原始材料包含多个独立知识点时，拆分为多张卡片\n6. 只输出卡片内容本身：不要解释、不要前言、不要用代码块包裹输出"
+  },
+  "decks": [
+    {
+      "name": "linux指令",
+      "filePath": "Anki/linux指令.md",
+      "lastUsed": 1788157840287,
+      "useCount": 1,
+      "archived": false,
+      "source": "created"
+    }
+  ]
+}

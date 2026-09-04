@@ -1,0 +1,10 @@
+{
+	"id": "anki-interview-helper",
+	"name": "Anki Interview Helper",
+	"version": "1.1.1",
+	"minAppVersion": "0.15.0",
+	"description": "Streamline interview Q&A Anki card creation for use with Obsidian to Anki.",
+	"author": "lawsam",
+	"authorUrl": "",
+	"isDesktopOnly": false
+}

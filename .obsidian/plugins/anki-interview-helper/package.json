@@ -1,0 +1,27 @@
+{
+	"name": "anki-interview-helper",
+	"version": "1.1.1",
+	"description": "Obsidian plugin for streamlined interview Anki card creation (works with Obsidian to Anki)",
+	"main": "main.js",
+	"scripts": {
+		"dev": "node esbuild.config.mjs",
+		"build": "tsc -noEmit -skipLibCheck && node esbuild.config.mjs production",
+		"typecheck": "tsc -noEmit -skipLibCheck"
+	},
+	"keywords": [
+		"obsidian",
+		"anki",
+		"interview",
+		"flashcard"
+	],
+	"author": "lawsam",
+	"license": "MIT",
+	"devDependencies": {
+		"@types/node": "^22.10.0",
+		"builtin-modules": "3.3.0",
+		"esbuild": "0.23.0",
+		"obsidian": "latest",
+		"tslib": "2.6.3",
+		"typescript": "5.6.2"
+	}
+}

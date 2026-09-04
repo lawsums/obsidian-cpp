@@ -1,16 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "Linux系统编程",
       "path": "100-学习/120-嵌入式/面试八股文/Linux系统编程.md"
     },
     {
       "basename": "anki",
       "path": "100-学习/120-嵌入式/面试八股文/anki.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "简单过一下手表板子上的深度学习例程",
