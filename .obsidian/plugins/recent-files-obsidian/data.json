@@ -1,8 +1,12 @@
 {
   "recentFiles": [
     {
-      "basename": "收拾开学用的东西",
-      "path": "Templates/Homepage/收拾开学用的东西.md"
+      "basename": "Linux系统编程",
+      "path": "100-学习/120-嵌入式/面试八股文/Linux系统编程.md"
+    },
+    {
+      "basename": "anki",
+      "path": "100-学习/120-嵌入式/面试八股文/anki.md"
     },
     {
       "basename": "Homepage",
@@ -11,6 +15,10 @@
     {
       "basename": "简单过一下手表板子上的深度学习例程",
       "path": "Templates/Homepage/简单过一下手表板子上的深度学习例程.md"
+    },
+    {
+      "basename": "收拾开学用的东西",
+      "path": "Templates/Homepage/收拾开学用的东西.md"
     },
     {
       "basename": "学习rust",
@@ -55,10 +63,6 @@
     {
       "basename": "八股文",
       "path": "100-学习/120-嵌入式/面试八股文/八股文.md"
-    },
-    {
-      "basename": "Linux系统编程",
-      "path": "100-学习/120-嵌入式/面试八股文/Linux系统编程.md"
     },
     {
       "basename": "每天给C盘文件夹建立软连接",
@@ -195,10 +199,6 @@
     {
       "basename": "容斥原理",
       "path": "100-学习/110-计算机/代码模版/小知识/容斥原理.md"
-    },
-    {
-      "basename": "蔚来面试-anki",
-      "path": "100-学习/120-嵌入式/anki/蔚来面试-anki.md"
     }
   ],
   "omittedPaths": [],
