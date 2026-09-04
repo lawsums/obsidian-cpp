@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
       "basename": "笔试—中兴软件开发笔试",
       "path": "100-学习/120-嵌入式/面试算法题/笔试—中兴软件开发笔试.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "研究对小智AI做二次开发",
       "path": "Templates/研究对小智AI做二次开发.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "模拟I2C",
