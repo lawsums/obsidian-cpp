@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "3ca3654bbc744168",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/简单过一下手表板子上的深度学习例程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "简单过一下手表板子上的深度学习例程"
+            }
+          },
+          {
             "id": "f2c48492803e70f1",
             "type": "leaf",
             "state": {
@@ -127,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/简单过一下手表板子上的深度学习例程.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "简单过一下手表板子上的深度学习例程 的大纲"
             }
           },
           {
@@ -355,12 +380,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "3ca3654bbc744168",
   "lastOpenFiles": [
+    "Templates/Homepage/简单过一下手表板子上的深度学习例程.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/收拾开学用的东西.md",
     "100-学习/120-嵌入式/面试算法题/笔试—文远知行嵌入式软件笔试.md",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q4.cpp",
-    "Templates/Homepage/Homepage.md",
     "Templates/Tasks.md",
     "100-学习/120-嵌入式/面试算法题/笔试—中兴软件开发笔试.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",

@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "简单过一下手表板子上的深度学习例程",
+      "path": "Templates/Homepage/简单过一下手表板子上的深度学习例程.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "蔚来面试-anki",
       "path": "100-学习/120-嵌入式/anki/蔚来面试-anki.md"
-    },
-    {
-      "basename": "004_闪念",
-      "path": "Templates/Homepage/004_闪念.md"
     }
   ],
   "omittedPaths": [],
