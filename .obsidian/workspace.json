@@ -103,7 +103,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -330,12 +331,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "02c335c035ea2a8d",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "100-学习/120-嵌入式/面试八股文/anki.md",
     "100-学习/120-嵌入式/anki/嵌入式interview-anki.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Tasks.md",
     "Templates/Homepage/简单过一下手表板子上的深度学习例程.md",
     "Templates/Homepage/收拾开学用的东西.md",

@@ -650,3 +650,4 @@ sort by description
 - [ ] 晒衣服 #task 🔺 🛫 2026-09-04 ➕ 2026-09-04 ^task-20260904-22f240cf
 - [ ] 学习旅行商问题的编程 #学习 #算法 ⏫ 🛫 2026-09-04 ⏳ 2026-09-05 ➕ 2026-09-04 ^task-20260904-a5b56ae1
 - [ ] 实现一个整理代码模板的skill #skill #code 🔺 🛫 2026-09-04 ⏳ 2026-09-05 ➕ 2026-09-04 ^task-20260904-a0d96163
+- [ ] 看一下[把自己当做游戏人物，用《人生指南手册》闯关。_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ls4y1H7rf/?spm_id_from=333.337.search-card.all.click&amp;vd_source=cf6228c0b4a5c283905e22fd11934994) #task 🔼 ➕ 2026-09-04 ^task-20260904-29c3a1b0
