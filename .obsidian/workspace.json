@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -296,13 +295,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/简单过一下手表板子上的深度学习例程.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "简单过一下手表板子上的深度学习例程 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -380,7 +379,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "3ca3654bbc744168",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/简单过一下手表板子上的深度学习例程.md",
     "Templates/Homepage/Homepage.md",
