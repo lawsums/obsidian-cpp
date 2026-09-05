@@ -414,7 +414,8 @@ sort by description
 - [x] 备课 #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-9f3e6aef
 - [x] 让老妈买纸 #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260812-50c81cd2
 - [x] 获取 [workbuddy 蓝皮书](https://docs.qq.com/doc/DSFFMTFhFQ1hZZ096?nlc=1) #work 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-2dacb169
-- [ ] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-09-05
+- [ ] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-09-06
+- [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-09-05 ✅ 2026-09-05
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-09-04 ✅ 2026-09-04
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-09-03 ✅ 2026-09-03
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-09-02 ✅ 2026-09-02
@@ -651,5 +652,5 @@ sort by description
 - [ ] 学习旅行商问题的编程 #学习 #算法 ⏫ 🛫 2026-09-04 ⏳ 2026-09-05 ➕ 2026-09-04 ^task-20260904-a5b56ae1
 - [ ] 实现一个整理代码模板的skill #skill #code 🔺 🛫 2026-09-04 ⏳ 2026-09-05 ➕ 2026-09-04 ^task-20260904-a0d96163
 - [ ] 看一下[把自己当做游戏人物，用《人生指南手册》闯关。_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1Ls4y1H7rf/?spm_id_from=333.337.search-card.all.click&amp;vd_source=cf6228c0b4a5c283905e22fd11934994) #task 🔼 ➕ 2026-09-04 ^task-20260904-29c3a1b0
-- [ ] 洗澡 #task 🔺 ⏳ 2026-09-05 ➕ 2026-09-04 ^task-20260904-672a3daa
+- [x] 洗澡 #task 🔺 ➕ 2026-09-04 ⏳ 2026-09-05 ✅ 2026-09-05 ^task-20260904-672a3daa
 - [ ] 买条裤子 #task ⏫ ⏳ 2026-09-06 ➕ 2026-09-05 ^task-20260905-c3046bf9

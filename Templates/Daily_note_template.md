@@ -62,6 +62,7 @@ switch (weekday) {
   case "星期六":
     tR += `- [ ] 打leetcode比赛 🔼 ⏳ ${titleDate}\n`;
     tR += `- [ ] [[用ai产出创意内容]] 🔼 ⏳ ${titleDate}\n`;
+    tR += `- [ ] [[给老妈烧饭]] 🔼 ⏳ ${titleDate}\n`;
     break;
   case "星期日":
 	 tR += `- [ ] 写一个 [dp题目](https://leetcode.cn/discuss/post/tXLS3i/)或者[树状数组或者线段树题目](https://leetcode.cn/discuss/post/3583665/fen-xiang-gun-ti-dan-chang-yong-shu-ju-j-bvmv/) ⏫ ⏳ ${titleDate}\n`;
@@ -87,7 +88,6 @@ switch (weekday) {
 - [ ] 11 点睡觉 🔼 ⏳ <% titleDate %>
 - [ ] [拆分学习 | 小鹤音形](https://flypy.cc/if/) ⏳ <% titleDate %>
 - [ ] [没事就用 go/algorithm 写一题 leetcode](https://leetcode.cn/) ⏳ <% titleDate %>
-- [ ] 给老妈烧饭 ⏳ <% titleDate %>
 - [ ] 看一看 boss 直聘 ⏳ <% titleDate %>
 
 ## 想法
