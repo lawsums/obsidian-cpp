@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788609178893-2syukirdv",
+  "providerId": "claude",
+  "title": "实现代码模板整理Skill并优化MD组织",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788609178895,
+  "updatedAt": 1788609193289,
+  "lastResponseAt": 1788609193289,
+  "sessionId": "8bc50ee4-f4c0-4b37-9741-41d720e377c7",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "8bc50ee4-f4c0-4b37-9741-41d720e377c7"
+  },
+  "currentNote": "Templates/Homepage/Homepage.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 6228,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 32768,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 38996,
+    "percentage": 19
+  }
+}
