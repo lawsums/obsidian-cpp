@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "队列板子",
+      "path": "100-学习/110-计算机/代码模版/02-数据结构/队列板子.md"
+    },
+    {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "002_稍后再看",
+      "path": "Templates/Homepage/002_稍后再看.md"
     },
     {
       "basename": "Daily_note_template",
@@ -187,18 +199,6 @@
     {
       "basename": "研究 VSCode 维护公共配置部分",
       "path": "Templates/Homepage/研究 VSCode 维护公共配置部分.md"
-    },
-    {
-      "basename": "3649.破解锁的最少时间 I",
-      "path": "Leetcode/3649.破解锁的最少时间 I.md"
-    },
-    {
-      "basename": "框架梳理",
-      "path": "300-项目/嵌入式/Agent_RTOS_LVGL手表/框架梳理.md"
-    },
-    {
-      "basename": "1906.N 次操作后的最大分数和",
-      "path": "Leetcode/1906.N 次操作后的最大分数和.md"
     }
   ],
   "omittedPaths": [],
