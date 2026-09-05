@@ -95,7 +95,8 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-04
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-05
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-04 ✅ 2026-09-05
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-03 ✅ 2026-09-03
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-02 ✅ 2026-09-02
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-01 ✅ 2026-09-01
@@ -394,7 +395,7 @@ sort by description
 - [x] 带伞出门 #task 🔺 ➕ 2026-08-08 ⏳ 2026-08-08 ✅ 2026-08-08 ^task-20260808-558ba11f
 - [x] [[使用Claude生成一季度新番关系图]] #work 🔼 ➕ 2026-08-09 ⏳ 2026-08-09 ✅ 2026-08-09 ^task-20260809-7ccf24b
 - [x] 去拿充电器 #task 🔺 ➕ 2026-08-09 ⏳ 2026-08-10 ✅ 2026-08-10 ^task-20260809-fef93ee0
-- [ ] 了解 Cloudflare 建站 #task 🔼 ➕ 2026-08-09 ⏳ 2026-09-04 ^task-20260809-ae58af91
+- [ ] 了解 Cloudflare 建站 #task 🔼 ➕ 2026-08-09 ⏳ 2026-09-06 ^task-20260809-ae58af91
 - [x] 烧饭 #task 🔼 ➕ 2026-08-09 ⏳ 2026-08-09 ✅ 2026-08-09 ^task-20260809-dde28790
 - [x] 移植shell #task 🔼 ➕ 2026-08-09 ⏳ 2026-08-10 ✅ 2026-08-10 ^task-20260809-f67ed771
 - [x] 学习ZModem #task 🔼 ➕ 2026-08-10 ⏳ 2026-08-11 ✅ 2026-08-11 ^task-20260810-5a5d6590
@@ -442,7 +443,8 @@ sort by description
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ➕ 2026-08-12 ⏳ 2026-08-12 ✅ 2026-08-12 ^task-20260812-b13f0a8f
 - [x] 将bootloader题目加入Anki #anki #bootloader 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-bb4f9a4a
 - [x] 学习 FreeRTOS #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-f179f79b
-- [ ] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-09-04
+- [ ] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-09-05
+- [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-09-04 ✅ 2026-09-05
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-09-03 ✅ 2026-09-04
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-09-02 ✅ 2026-09-03
 - [x] [[学习LVGL]] #task 🔼 🔁 every day ⏳ 2026-09-01 ✅ 2026-09-01
@@ -567,7 +569,7 @@ sort by description
 - [x] 使用 Xshell 学习 Linux #linux #xshell #学习 ➕ 2026-08-22 🛫 2026-08-23 ⏳ 2026-08-25 ✅ 2026-08-25 ^task-20260822-1c195f09
 - [x] 帮叮当找应用题 #叮当 #学习 ⏫ ➕ 2026-08-22 🛫 2026-08-24 ⏳ 2026-08-24 📅 2026-08-24 ✅ 2026-08-24 ^task-20260822-f9e2c9fc
 - [ ] [[创建面试题模板_插件]] #面试 #模板 #插件 ⏫ ➕ 2026-08-22 🛫 2026-08-24 📅 2026-08-28 ^task-20260822-dc61941c
-- [ ] 看ov-watch的功能开发和bsp驱动 #task 🔺 ➕ 2026-08-23 ⏳ 2026-09-04 ^task-20260823-aa26a5d
+- [ ] 看ov-watch的功能开发和bsp驱动 #task 🔺 ➕ 2026-08-23 ⏳ 2026-09-06 ^task-20260823-aa26a5d
 - [x] 充值 #task ➕ 2026-08-23 ⏳ 2026-08-23 ✅ 2026-08-23 ^task-20260823-ccecab43
 - [x] 去downloads里面把工作流导入云服务器里面 然后总结一个部署笔记 #task ⏫ ➕ 2026-08-23 ⏳ 2026-08-24 ✅ 2026-08-24 ^task-20260823-ad5b7574
 - [x] 今天1 #task ➕ 2026-08-23 🛫 2026-08-23 ⏳ 2026-08-23 ✅ 2026-08-23 ^task-20260823-70e9b89c
@@ -591,7 +593,8 @@ sort by description
 - [x] 烧饭 #task 🔺 ➕ 2026-08-26 ⏳ 2026-08-26 ✅ 2026-08-26 ^task-20260826-602d3f8d
 - [x] 晚上录一期C++动态规划视频 #coding #cpp #video ⏫ ➕ 2026-08-26 🛫 2026-08-26 ⏳ 2026-08-26 ✅ 2026-08-26 ^task-20260826-f828148d
 - [x] 研究一下录视频的方法 #学习 #视频 ⏫ ➕ 2026-08-26 🛫 2026-08-26 ⏳ 2026-08-26 ✅ 2026-08-26 ^task-20260826-d1a15c39
-- [ ] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-09-05 ⏳ 2026-09-05
+- [ ] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-09-06 ⏳ 2026-09-06
+- [x] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-09-05 ⏳ 2026-09-05 ✅ 2026-09-05
 - [x] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-09-04 ⏳ 2026-09-04 ✅ 2026-09-04
 - [x] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-09-03 ⏳ 2026-09-03 ✅ 2026-09-04
 - [x] 每天打开直播或者obs录制自己的学习视频 #daily #learning #recording 🔺 🔁 every day 🛫 2026-09-02 ⏳ 2026-09-02 ✅ 2026-09-03
@@ -645,7 +648,7 @@ sort by description
 - [ ] 早上体检 #health 🔺 🛫 2026-09-03 ⏳ 2026-09-08 ➕ 2026-09-03 ^task-20260903-c98958d3
 - [x] 去打印复印件和证件照 #生活 🔺 ➕ 2026-09-03 🛫 2026-09-04 ⏳ 2026-09-05 ✅ 2026-09-05 ^task-20260903-c0b135b1
 - [x] 走之前再看一下[[收拾开学用的东西]] #task 🔺 ➕ 2026-09-03 🛫 2026-09-03 ⏳ 2026-09-05 ✅ 2026-09-05 ^task-20260903-5325c6b6
-- [ ] 仔细看看嵌入式linux完全自学指南、研究生自救指南、确定副方向 #学习 #嵌入式 #Linux 🔺 ➕ 2026-09-03 🛫 2026-09-03 ⏳ 2026-09-04 ^task-20260903-5d3608bd
+- [ ] 仔细看看嵌入式linux完全自学指南、研究生自救指南、确定副方向 #学习 #嵌入式 #Linux 🔺 ➕ 2026-09-03 🛫 2026-09-03 ⏳ 2026-09-06 ^task-20260903-5d3608bd
 - [x] [[简单过一下手表板子上的深度学习例程]] #task ⏫ ➕ 2026-09-03 🛫 2026-09-03 ⏳ 2026-09-04 ✅ 2026-09-04 ^task-20260903-4aed4f9f
 - [x] 收拾鞋子 #task 🔺 ➕ 2026-09-04 ⏳ 2026-09-04 ✅ 2026-09-04 ^task-20260904-13efee9c
 - [ ] 晒衣服 #task 🔺 🛫 2026-09-04 ➕ 2026-09-04 ^task-20260904-22f240cf
@@ -659,3 +662,4 @@ sort by description
 - [ ] 加辅导员好友 #沟通 #社交 🔺 🛫 2026-09-05 ⏳ 2026-09-06 ➕ 2026-09-05 ^task-20260905-ebc87462
 - [ ] 早上去工位看看 #task 🔺 🛫 2026-09-05 ⏳ 2026-09-06 ➕ 2026-09-05 ^task-20260905-93187b40
 - [ ] 打印证件照 #task ⏫ 🛫 2026-09-05 ⏳ 2026-09-06 ➕ 2026-09-05 ^task-20260905-3c97158b
+- [ ] 问老妈要生活费 #生活费 ⏫ 🛫 2026-09-05 ⏳ 2026-09-06 ➕ 2026-09-05 ^task-20260905-47ceda6b

@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "0d430d8ee62783ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "用ai产出创意内容"
+            }
+          },
+          {
             "id": "5e76d854a5f3b5d3",
             "type": "leaf",
             "state": {
@@ -151,8 +175,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -379,11 +402,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "5e76d854a5f3b5d3",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Dairies/实现自己的数据结构.md",
+    "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Homepage/Homepage.md",
     "100-学习/110-计算机/代码模版/02-数据结构/队列板子.md",
+    "Dairies/实现自己的数据结构.md",
     "Templates/Homepage/002_稍后再看.md",
     "100-学习/110-计算机/代码模版/00-索引.md",
     "100-学习/110-计算机/代码模版/03-字符串/KMP板子.md",
@@ -413,7 +437,6 @@
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "100-学习/120-嵌入式/面试算法题/笔试—文远知行嵌入式软件笔试.md",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q4.cpp",
-    "100-学习/120-嵌入式/面试算法题/笔试—中兴软件开发笔试.md",
     "Templates/Task",
     "Templates/Tasks.md.tmp.16064.76999f4919aa",
     "Leetcode/1511.统计作战单位数.cpp",

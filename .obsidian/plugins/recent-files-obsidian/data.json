@@ -1,16 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
       "basename": "队列板子",
       "path": "100-学习/110-计算机/代码模版/02-数据结构/队列板子.md"
     },
     {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "002_稍后再看",
@@ -111,10 +115,6 @@
     {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "创建面试题模板_插件",
