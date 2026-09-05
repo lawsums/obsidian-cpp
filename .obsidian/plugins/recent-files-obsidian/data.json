@@ -1,6 +1,22 @@
 {
   "recentFiles": [
     {
+      "basename": "收拾开学用的东西",
+      "path": "Templates/Homepage/收拾开学用的东西.md"
+    },
+    {
+      "basename": "linux路线",
+      "path": "100-学习/120-嵌入式/linux路线.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "300-项目/嵌入式/未命名.md"
+    },
+    {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -21,10 +37,6 @@
       "path": "Templates/Homepage/简单过一下手表板子上的深度学习例程.md"
     },
     {
-      "basename": "收拾开学用的东西",
-      "path": "Templates/Homepage/收拾开学用的东西.md"
-    },
-    {
       "basename": "学习rust",
       "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
     },
@@ -39,10 +51,6 @@
     {
       "basename": "笔试—中兴软件开发笔试",
       "path": "100-学习/120-嵌入式/面试算法题/笔试—中兴软件开发笔试.md"
-    },
-    {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "研究对小智AI做二次开发",
@@ -191,14 +199,6 @@
     {
       "basename": "1906.N 次操作后的最大分数和",
       "path": "Leetcode/1906.N 次操作后的最大分数和.md"
-    },
-    {
-      "basename": "字符串String",
-      "path": "100-学习/110-计算机/语言/Rust/字符串String.md"
-    },
-    {
-      "basename": "容斥原理",
-      "path": "100-学习/110-计算机/代码模版/小知识/容斥原理.md"
     }
   ],
   "omittedPaths": [],
