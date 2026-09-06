@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "实现自己的数据结构",
+      "path": "Dairies/实现自己的数据结构.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "学习rust",
       "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
+    },
+    {
+      "basename": "嵌入式C造轮子",
+      "path": "Templates/Homepage/嵌入式C造轮子.md"
     },
     {
       "basename": "学习深度学习",
@@ -19,10 +27,6 @@
     {
       "basename": "队列板子",
       "path": "100-学习/110-计算机/代码模版/02-数据结构/队列板子.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "002_稍后再看",
@@ -179,10 +183,6 @@
     {
       "basename": "1989.两个数组最小的异或值之和",
       "path": "Leetcode/1989.两个数组最小的异或值之和.md"
-    },
-    {
-      "basename": "嵌入式C造轮子",
-      "path": "Templates/Homepage/嵌入式C造轮子.md"
     },
     {
       "basename": "让AI搜索并备份所有配置文件",

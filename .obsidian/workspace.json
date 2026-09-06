@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "dcfccd8aac6fdbc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/实现自己的数据结构.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "实现自己的数据结构"
+            }
+          },
+          {
             "id": "9c8a730ca4413337",
             "type": "leaf",
             "state": {
@@ -127,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -271,13 +296,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "Dairies/实现自己的数据结构.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "算法路线图 的大纲"
+              "title": "实现自己的数据结构 的大纲"
             }
           },
           {
@@ -310,7 +335,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -354,10 +380,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "7ad080d1a7a76395",
   "lastOpenFiles": [
-    "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Templates/Homepage/Homepage.md",
+    "100-学习/110-计算机/语言/Rust/学习rust.md",
+    "Templates/Homepage/嵌入式C造轮子.md",
     "100-学习/110-计算机/代码模版/02-数据结构/栈板子.md",
     "Templates/Homepage/学习深度学习.md",
     "100-学习/110-计算机/代码模版/06-工具/调试板子.md",
@@ -388,7 +415,6 @@
     "Leetcode/算法路线图.md",
     "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "100-学习/120-嵌入式/面试八股文/anki.md",
-    "100-学习/120-嵌入式/anki/嵌入式interview-anki.md",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q4.cpp",
     "Templates/Task",
     "Templates/Tasks.md.tmp.16064.76999f4919aa",
