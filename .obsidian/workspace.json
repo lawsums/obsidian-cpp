@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -355,14 +354,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9c8a730ca4413337",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Templates/Homepage/Homepage.md",
     "100-学习/110-计算机/代码模版/02-数据结构/栈板子.md",
     "Templates/Homepage/学习深度学习.md",
     "100-学习/110-计算机/代码模版/06-工具/调试板子.md",
     "100-学习/110-计算机/代码模版/06-工具",
-    "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "100-学习/110-计算机/代码模版/02-数据结构/队列板子.md",
     "Dairies/实现自己的数据结构.md",
