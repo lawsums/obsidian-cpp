@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
+      "basename": "Daily_note_md",
+      "path": "Templates/Daily_note_md.md"
     },
     {
       "basename": "学习rust",
@@ -31,10 +43,6 @@
     {
       "basename": "002_稍后再看",
       "path": "Templates/Homepage/002_稍后再看.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "收拾开学用的东西",
@@ -71,10 +79,6 @@
     {
       "basename": "笔试—文远知行嵌入式软件笔试",
       "path": "100-学习/120-嵌入式/面试算法题/笔试—文远知行嵌入式软件笔试.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "笔试—中兴软件开发笔试",
@@ -195,10 +199,6 @@
     {
       "basename": "嵌入式interview-anki",
       "path": "100-学习/120-嵌入式/anki/嵌入式interview-anki.md"
-    },
-    {
-      "basename": "研究 VSCode 维护公共配置部分",
-      "path": "Templates/Homepage/研究 VSCode 维护公共配置部分.md"
     }
   ],
   "omittedPaths": [],
