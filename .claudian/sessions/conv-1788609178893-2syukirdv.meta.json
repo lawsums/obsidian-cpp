@@ -4,8 +4,8 @@
   "title": "实现代码模板整理Skill并优化MD组织",
   "titleGenerationStatus": "success",
   "createdAt": 1788609178895,
-  "updatedAt": 1788670199359,
-  "lastResponseAt": 1788670199359,
+  "updatedAt": 1788681793653,
+  "lastResponseAt": 1788681793653,
   "sessionId": "8bc50ee4-f4c0-4b37-9741-41d720e377c7",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Templates/Homepage/Homepage.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 151,
+    "inputTokens": 175,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 148608,
+    "cacheReadInputTokens": 154112,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 148759,
-    "percentage": 74
+    "contextTokens": 154287,
+    "percentage": 77
   }
 }
