@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "研一课程",
       "path": "Temp/研一课程.md"
-    },
-    {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "创建面试题模板_插件",
