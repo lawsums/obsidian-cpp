@@ -5,16 +5,20 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
+      "basename": "慢跑1000米",
+      "path": "Templates/Homepage/慢跑1000米.md"
+    },
+    {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
     },
     {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "Daily_note_md",
@@ -195,10 +199,6 @@
     {
       "basename": "安全视频往后刷",
       "path": "Templates/Homepage/安全视频往后刷.md"
-    },
-    {
-      "basename": "嵌入式interview-anki",
-      "path": "100-学习/120-嵌入式/anki/嵌入式interview-anki.md"
     }
   ],
   "omittedPaths": [],
