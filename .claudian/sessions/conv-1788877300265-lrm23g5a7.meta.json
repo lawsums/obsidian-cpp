@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788877300265-lrm23g5a7",
+  "providerId": "claude",
+  "title": "Explain Python LeetCode tree infection code",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788877300268,
+  "updatedAt": 1788877384536,
+  "lastResponseAt": 1788877384536,
+  "sessionId": "3bd30ae5-ff53-4545-bd6f-d3d072817a80",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "3bd30ae5-ff53-4545-bd6f-d3d072817a80"
+  },
+  "currentNote": "Leetcode/2461.感染二叉树需要的总时间.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1388,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 46080,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 47468,
+    "percentage": 24
+  }
+}

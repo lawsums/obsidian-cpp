@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -380,13 +379,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "5633284466fa7087",
   "lastOpenFiles": [
+    "Leetcode/2461.感染二叉树需要的总时间.md",
     "Leetcode/2461.感染二叉树需要的总时间.cpp",
     "Templates/Homepage/Homepage.md",
     "Leetcode/images/2461_image-20220625231812-2.png",
     "Leetcode/images/2461_image-20220625231744-1.png",
-    "Leetcode/2461.感染二叉树需要的总时间.md",
     "Templates/Homepage/帮老师干活.md",
     "Templates/Tasks.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
@@ -420,7 +419,6 @@
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q4.cpp",
     "Templates/Task",
     "Templates/Tasks.md.tmp.16064.76999f4919aa",
-    "Leetcode/1511.统计作战单位数.cpp",
     "Attachments/Pasted image 20260901152813.png",
     "Attachments/Pasted image 20260831142242.png",
     "Attachments/Pasted image 20260829175746.png",
