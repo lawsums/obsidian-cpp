@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "3b6808a8bc9219f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
             "id": "ae4f195567b78fea",
             "type": "leaf",
             "state": {
@@ -53,30 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "路线梳理"
-            }
-          },
-          {
-            "id": "ec1588b348099fb4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Tasks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tasks"
             }
           },
           {
@@ -381,9 +381,9 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Tasks.md",
+    "Templates/Homepage/Homepage.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/慢跑1000米.md",
     "Dairies/2026-09-07.md",
     "Dairies/实现自己的数据结构.md",
