@@ -241,7 +241,8 @@
               "title": "Recent Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -354,11 +355,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "944cd14a7fae27b7",
+  "active": "5633284466fa7087",
   "lastOpenFiles": [
     "Templates/Homepage/帮老师干活.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Tasks.md",
+    "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/慢跑1000米.md",
     "Dairies/2026-09-07.md",
