@@ -9,6 +9,9 @@ AI Task Butler 是一个 Obsidian Tasks 辅助插件原型。它把自然语言�
 - 编辑器命令：把选中文本或当前行捕获为任务
 - 命令面板：`AI Task Butler: Insert today task dashboard`
 - 命令面板：`AI Task Butler: Test AI task parser`
+- 右侧边栏：`AI Task Butler: Open Task Butler navigation`，默认只显示今天任务
+- 导航栏支持自定义起止日期、前后移动日期范围、未来 7 天、显示已完成任务
+- 导航栏内可勾选完成；右键任务行可推迟计划日期、调用 Tasks 插件编辑、跳转原文、复制任务内容或切换完成
 - 捕获弹窗内支持 `语音输入` 按钮；可使用 Web Speech、OpenAI 转写或阿里云 Qwen-ASR
 - 可选 OpenAI-compatible AI 解析；未配置或失败时自动使用离线规则解析
 - 默认写入：`Tasks/Inbox.md`
@@ -32,6 +35,23 @@ AI Task Butler 是一个 Obsidian Tasks 辅助插件原型。它把自然语言�
    - `styles.css`
 3. 重启 Obsidian，或在 Community plugins 页面刷新插件列表。
 4. 启用 `AI Task Butler`。
+
+## 任务导航栏
+
+点击左侧功能区新增的任务列表图标，或在命令面板运行 `AI Task Butler: Open Task Butler navigation`，即可在右侧打开可停靠的 Task Butler 导航栏。
+
+- **默认范围**：今天至今天；避免一次读取整个任务历史造成侧边栏卡顿。
+- **指定天数**：直接选择开始和结束日期；也可使用 `‹`、`›` 前后平移当前范围，或一键切换为“今天”“未来 7 天”。
+- **筛选规则**：显示计划日期 `⏳` 或开始日期 `🛫` 落在范围内的任务；每日循环任务从其起始计划日期开始，后续日期范围也会出现。
+- **修改任务**：勾选复选框即可切换完成状态。其他编辑功能集中在右键菜单中：
+  - **推迟计划日期**：把任务直接调度到今天 / 明天 / 下周，或相对当前日期推迟 1 天 / 1 周，或一键清除计划日期。改写走的是 updateTask({ scheduledDate })，与 Tasks 插件的 `⏳` 字段一致。如果你已经在使用 Obsidian Tasks 的 `Tasks: Postpone` 按钮，它会看到一样的字段。
+  - **用 Tasks 插件编辑**：把光标选到任务行（用 setSelection 全选整行以确保 activeEditor 同步），然后调用 `Tasks: Create or edit task` 命令，享受 Obsidian Tasks 的日期、循环、标签等富编辑能力。**如果当前激活的编辑器已经在任务所在文件上，插件不会重复打开它**，不会新开 split，也不会切换 leaf；只有在当前视图不是该文件时，才会在当前活动 leaf 中覆盖打开（仍不会新开分栏）。插件会按顺序尝试 `obsidian-tasks-plugin:edit-task`（Tasks ≥ 7）和 `tasks:edit-task`（旧版兼容）这两个命令 ID，并在命令未找到时扫描 `app.commands.listCommands()` 给出提示。如果 activeEditor 仍未切换到目标视图，会提示用户先手动点击目标笔记。需要先安装 [Obsidian Tasks](https://github.com/obsidian-tasks-group/obsidian-tasks) 插件；若仍未找到命令，菜单项会显示为禁用。
+  - **打开原文**：在主编辑区打开任务所在笔记，并把光标定位到任务行（也会触发 setActiveLeaf）。
+  - **复制任务内容**：把整行任务原文写入系统剪贴板，方便贴到其他地方再改。
+  - **标记为完成 / 取消完成**：等价于复选框切换，可在不点击 checkbox 的情境下使用。
+- **刷新机制**：任务文件被创建、修改、删除、重命名后，导航栏会自动延迟刷新；也可点击“刷新”。
+
+> 导航栏扫描 vault 内所有 Markdown 任务，而不局限于 `Tasks/Inbox.md`。为了避免误写，更新时优先使用 `^task-*` 块 ID 定位；没有块 ID 时会校验原始任务行，若任务已经被其他编辑操作移动或修改，会提示先刷新后重试。
 
 ## 使用示例
 

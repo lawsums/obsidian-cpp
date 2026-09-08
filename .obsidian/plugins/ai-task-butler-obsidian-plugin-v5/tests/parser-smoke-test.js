@@ -16,6 +16,24 @@ class Plugin {
 }
 
 class Modal {}
+class MarkdownView {}
+class Menu {
+  addItem(callback) {
+    const item = {
+      setTitle() { return this; },
+      setIcon() { return this; },
+      setDisabled() { return this; },
+      setChecked() { return this; },
+      onClick() { return this; },
+      setSubmenu() { return new Menu(); }
+    };
+    callback(item);
+    return this;
+  }
+  addSeparator() { return this; }
+  showAtMouseEvent() {}
+}
+class ItemView {}
 class PluginSettingTab {}
 class TFile {}
 
@@ -27,8 +45,11 @@ const sandbox = {
     if (name !== "obsidian") throw new Error(`Unexpected require: ${name}`);
     return {
       App: class {},
+      MarkdownView,
+      Menu,
       Modal,
       Notice: class {},
+      ItemView,
       Plugin,
       PluginSettingTab,
       requestUrl: async () => {
@@ -151,5 +172,52 @@ const dashboard = sandbox.todayTaskDashboardMarkdown();
 assert.match(dashboard, /happens on today/);
 assert.match(dashboard, /due before today/);
 assert.match(dashboard, /priority is above medium/);
+
+const taskLine = "  - [ ] 整理项目文档 #work ⏫ 🛫 2026-06-30 ⏳ 2026-07-01 🔁 every day ➕ 2026-06-30 ^task-demo";
+const parsedTaskLine = sandbox.parseMarkdownTaskLine(taskLine, "Tasks/Inbox.md", 8);
+assert.equal(parsedTaskLine.title, "整理项目文档");
+assert.equal(parsedTaskLine.filePath, "Tasks/Inbox.md");
+assert.equal(parsedTaskLine.lineNumber, 8);
+assert.equal(parsedTaskLine.completed, false);
+assert.equal(parsedTaskLine.priority, "high");
+assert.equal(parsedTaskLine.startDate, "2026-06-30");
+assert.equal(parsedTaskLine.scheduledDate, "2026-07-01");
+assert.equal(parsedTaskLine.recurrence, "every day");
+assert.equal(parsedTaskLine.blockId, "task-demo");
+assert.equal(sandbox.taskMatchesDateRange(parsedTaskLine, "2026-07-07", "2026-07-07"), true);
+
+const editedTaskLine = sandbox.patchMarkdownTaskLine(taskLine, {
+  completed: true,
+  title: "更新项目文档",
+  scheduledDate: "2026-07-02"
+});
+assert.match(editedTaskLine, /^  - \[x\] 更新项目文档 #work ⏫ 🛫 2026-06-30 ⏳ 2026-07-02 🔁 every day ➕ 2026-06-30 \^task-demo$/);
+assert.equal(sandbox.patchMarkdownTaskLine(editedTaskLine, { scheduledDate: undefined }).includes("⏳"), false);
+assert.equal(sandbox.replaceTaskTitle("- [ ] 原标题 无元数据", "新标题"), "- [ ] 新标题");
+assert.equal(sandbox.replaceTaskDate("- [ ] 无日期任务 ^task-x", "⏳", "2026-07-03"), "- [ ] 无日期任务 ⏳ 2026-07-03 ^task-x");
+assert.equal(sandbox.findTaskLineIndex(["x", taskLine], parsedTaskLine), 1);
+
+const taskCommandResult = sandbox.findTasksEditCommandId({
+  commands: {
+    findCommand(id) {
+      return id === "obsidian-tasks-plugin:edit-task" ? { id, name: "Create or edit task" } : null;
+    }
+  }
+});
+assert.equal(taskCommandResult, "obsidian-tasks-plugin:edit-task");
+
+const legacyCommandResult = sandbox.findTasksEditCommandId({
+  commands: {
+    findCommand(id) {
+      return id === "tasks:edit-task" ? { id, name: "Create or edit task" } : null;
+    }
+  }
+});
+assert.equal(legacyCommandResult, "tasks:edit-task");
+
+assert.equal(
+  sandbox.findTasksEditCommandId({ commands: { findCommand: () => null } }),
+  null
+);
 
 console.log("parser smoke tests passed");

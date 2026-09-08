@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
       "basename": "2461.感染二叉树需要的总时间",
       "path": "Leetcode/2461.感染二叉树需要的总时间.md"
     },
@@ -71,10 +75,6 @@
     {
       "basename": "未命名",
       "path": "300-项目/嵌入式/未命名.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "Linux系统编程",

@@ -95,7 +95,9 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-07
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-09
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-08 ✅ 2026-09-08
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-07 ✅ 2026-09-08
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-06 ✅ 2026-09-07
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-05 ✅ 2026-09-06
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-04 ✅ 2026-09-05
@@ -509,7 +511,8 @@ sort by description
 - [x] 清理C盘 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260814-6def903c
 - [x] 清理G盘 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260814-6965e688
 - [x] 重新安上插件 #task 🔼 ➕ 2026-08-14 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260814-f9e95368
-- [ ] 了解[[Rust嵌入式]] 🔼 🔁 every day 🛫 2026-09-06 ⏳ 2026-09-08
+- [ ] 了解[[Rust嵌入式]] 🔼 🔁 every day 🛫 2026-09-07 ⏳ 2026-09-09
+- [x] 了解[[Rust嵌入式]] 🔼 🔁 every day 🛫 2026-09-06 ⏳ 2026-09-08 ✅ 2026-09-08
 - [x] 了解[[Rust嵌入式]] 🔼 🔁 every day 🛫 2026-09-05 ⏳ 2026-09-07 ✅ 2026-09-08
 - [x] 了解[[Rust嵌入式]] 🔼 🔁 every day 🛫 2026-09-04 ⏳ 2026-09-06 ✅ 2026-09-06
 - [x] 了解[[Rust嵌入式]] 🔼 🔁 every day 🛫 2026-09-03 ⏳ 2026-09-05 ✅ 2026-09-06
@@ -665,7 +668,7 @@ sort by description
 - [ ] 看一下中科大的linux实习 #linux #实习 #中科大 ⏫ 🛫 2026-09-01 ⏳ 2026-09-01 ➕ 2026-09-01 ^task-20260901-29c0b3eb
 - [x] 洗澡 #task ⏫ ➕ 2026-09-01 🛫 2026-09-01 ⏳ 2026-09-02 ✅ 2026-09-02 ^task-20260901-268eac9d
 - [x] 回小姐消息 #task 🔺 ➕ 2026-09-02 ⏳ 2026-09-02 ✅ 2026-09-02 ^task-20260902-a8a5239
-- [ ] 学习这个智能药箱助手的整体脉络 ⏫ ➕ 2026-09-02 🛫 2026-09-02 ⏳ 2026-09-07 ^task-20260902-1a0be9e
+- [ ] 学习这个智能药箱助手的整体脉络 ⏫ ➕ 2026-09-02 🛫 2026-09-02 ⏳ 2026-09-09 ^task-20260902-1a0be9e
 - [x] 选班 #选课 🔺 ➕ 2026-09-02 🛫 2026-09-02 ⏳ 2026-09-03 ✅ 2026-09-03 ^task-20260902-21512bd0
 - [x] 训练lora #task ⏫ ➕ 2026-09-02 ⏳ 2026-09-03 ✅ 2026-09-03 ^task-20260902-56f65288
 - [x] [下载图片](https://www.pixiv.net/users/33288271/artworks?p=2) #task ⏫ ➕ 2026-09-02 ⏳ 2026-09-03 ✅ 2026-09-03 ^task-20260902-8cf7d542
@@ -688,9 +691,9 @@ sort by description
 - [ ] p一下白衣服蓝底证件照并打印证件照 #task ⏫ ➕ 2026-09-05 🛫 2026-09-05 ⏳ 2026-09-09 ^task-20260905-3c97158b
 - [x] 问老妈要生活费 #生活费 ⏫ ➕ 2026-09-05 🛫 2026-09-05 ⏳ 2026-09-06 ✅ 2026-09-06 ^task-20260905-47ceda6b
 - [x] 买牙膏 #task ⏫ ➕ 2026-09-05 ⏳ 2026-09-06 ✅ 2026-09-06 ^task-20260905-268d8441
-- [ ] 按照deepseek说的破除虚无主义 #哲学 #虚无主义 🔺 🛫 2026-09-06 ⏳ 2026-09-07 ➕ 2026-09-06 ^task-20260906-9ef72adc
+- [ ] 按照deepseek说的破除虚无主义 #哲学 #虚无主义 🔺 ➕ 2026-09-06 🛫 2026-09-06 ⏳ 2026-09-09 ^task-20260906-9ef72adc
 - [x] 中午去找周老师 #meeting #teacher 🔺 ➕ 2026-09-06 🛫 2026-09-08 ⏳ 2026-09-08 ✅ 2026-09-08 ^task-20260906-7f0541e0
-- [ ] 每天通过非虚无方式学习Linux #linux #daily 🔺 🔁 every day 🛫 2026-09-07 ⏳ 2026-09-07
+- [ ] 每天通过非虚无方式学习Linux #linux #daily 🔺 🔁 every day 🛫 2026-09-07 ⏳ 2026-09-09
 - [x] 每天通过非虚无方式学习Linux #linux #daily 🔺 🔁 every day ➕ 2026-09-06 🛫 2026-09-06 ⏳ 2026-09-06 ✅ 2026-09-06 ^task-20260906-8ec80965
 - [ ] 做epoll和poll查看设备操作驱动的实验 #linux #驱动开发 #epoll #poll ⏫ 🛫 2026-09-06 ⏳ 2026-09-07 ➕ 2026-09-06 ^task-20260906-7d7f2986
 - [x] 晚上和fgy吃饭 #meeting 🔺 ➕ 2026-09-06 🛫 2026-09-06 ⏳ 2026-09-07 ✅ 2026-09-07 ^task-20260906-f09e2f6b

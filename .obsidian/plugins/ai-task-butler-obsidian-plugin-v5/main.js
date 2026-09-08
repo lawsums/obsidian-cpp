@@ -1,7 +1,10 @@
 const {
   App,
+  MarkdownView,
+  Menu,
   Modal,
   Notice,
+  ItemView,
   Plugin,
   PluginSettingTab,
   requestUrl,
@@ -9,6 +12,21 @@ const {
   TFile,
   normalizePath
 } = require("obsidian");
+
+const TASK_BUTLER_NAVIGATION_VIEW_TYPE = "ai-task-butler-navigation";
+
+// 候选 Tasks 插件 "Create or edit task" 命令 ID，按版本/插件 ID 排序。
+const TASKS_EDIT_COMMAND_IDS = [
+  "obsidian-tasks-plugin:edit-task",
+  "tasks:edit-task"
+];
+
+function findTasksEditCommandId(app) {
+  for (const id of TASKS_EDIT_COMMAND_IDS) {
+    if (app.commands.findCommand(id)) return id;
+  }
+  return null;
+}
 
 const DEFAULT_SETTINGS = {
   inboxPath: "Tasks/Inbox.md",
@@ -80,6 +98,24 @@ module.exports = class AiTaskButlerPlugin extends Plugin {
     this.addRibbonIcon("list-plus", "AI Task Butler: capture task", () => {
       new CaptureTaskModal(this.app, this).open();
     });
+    this.addRibbonIcon("list-checks", "AI Task Butler: open task navigator", () => {
+      this.activateTaskButlerNavigation();
+    });
+
+    this.registerView(
+      TASK_BUTLER_NAVIGATION_VIEW_TYPE,
+      (leaf) => new TaskButlerNavigationView(leaf, this)
+    );
+    this.registerEvent(this.app.vault.on("modify", () => this.requestTaskNavigationRefresh()));
+    this.registerEvent(this.app.vault.on("create", () => this.requestTaskNavigationRefresh()));
+    this.registerEvent(this.app.vault.on("delete", () => this.requestTaskNavigationRefresh()));
+    this.registerEvent(this.app.vault.on("rename", () => this.requestTaskNavigationRefresh()));
+
+    this.addCommand({
+      id: "open-task-butler-navigation",
+      name: "Open Task Butler navigation",
+      callback: () => this.activateTaskButlerNavigation()
+    });
 
     this.addCommand({
       id: "capture-ai-task",
@@ -129,6 +165,177 @@ module.exports = class AiTaskButlerPlugin extends Plugin {
     this.addSettingTab(new AiTaskButlerSettingTab(this.app, this));
   }
 
+  async onunload() {
+    this.app.workspace.detachLeavesOfType(TASK_BUTLER_NAVIGATION_VIEW_TYPE);
+  }
+
+  async activateTaskButlerNavigation() {
+    let leaf = this.app.workspace.getLeavesOfType(TASK_BUTLER_NAVIGATION_VIEW_TYPE)[0];
+    if (!leaf) {
+      leaf = this.app.workspace.getRightLeaf(false);
+      await leaf.setViewState({ type: TASK_BUTLER_NAVIGATION_VIEW_TYPE, active: true });
+    }
+    await this.app.workspace.revealLeaf(leaf);
+  }
+
+  requestTaskNavigationRefresh() {
+    if (this.taskNavigationRefreshTimer) window.clearTimeout(this.taskNavigationRefreshTimer);
+    this.taskNavigationRefreshTimer = window.setTimeout(() => {
+      for (const leaf of this.app.workspace.getLeavesOfType(TASK_BUTLER_NAVIGATION_VIEW_TYPE)) {
+        leaf.view?.refresh?.();
+      }
+    }, 200);
+  }
+
+  async listTasksInDateRange(startDate, endDate) {
+    const markdownFiles = this.app.vault.getMarkdownFiles();
+    const tasks = [];
+    for (const file of markdownFiles) {
+      const content = await this.app.vault.read(file);
+      const lines = content.split(/\r?\n/);
+      for (let lineNumber = 0; lineNumber < lines.length; lineNumber += 1) {
+        const task = parseMarkdownTaskLine(lines[lineNumber], file.path, lineNumber);
+        if (task && taskMatchesDateRange(task, startDate, endDate)) tasks.push(task);
+      }
+    }
+    return sortTaskNavigationItems(tasks, startDate);
+  }
+
+  async updateTask(task, patch) {
+    const file = this.app.vault.getAbstractFileByPath(task.filePath);
+    if (!(file instanceof TFile)) throw new Error("任务所在文件不存在或已被移动。");
+
+    let updated = false;
+    await this.app.vault.process(file, (content) => {
+      const lines = content.split(/\r?\n/);
+      const index = findTaskLineIndex(lines, task);
+      if (index < 0) throw new Error("任务已被修改或移动，请刷新导航栏后重试。");
+      lines[index] = patchMarkdownTaskLine(lines[index], patch);
+      updated = true;
+      return lines.join("\n");
+    });
+
+    if (!updated) throw new Error("未能定位任务。");
+    this.requestTaskNavigationRefresh();
+  }
+
+  async openTaskSource(task, { activateCursor = false } = {}) {
+    const file = this.app.vault.getAbstractFileByPath(task.filePath);
+    if (!(file instanceof TFile)) {
+      new Notice("任务所在文件不存在或已被移动。");
+      return null;
+    }
+    const leaf = this.app.workspace.getLeaf("split");
+    await leaf.openFile(file);
+    if (activateCursor) {
+      const ready = await this.waitForTaskEditor(leaf, task.lineNumber, 3000);
+      if (!ready) {
+        new Notice("已打开笔记，但编辑器视图未就绪，无法把光标定位到任务行。");
+        return leaf.view || null;
+      }
+      this.app.workspace.setActiveLeaf(leaf, { focus: true });
+      await new Promise((resolve) => window.setTimeout(resolve, 120));
+    }
+    return leaf.view || null;
+  }
+
+  async waitForTaskEditor(leaf, lineNumber, timeoutMs) {
+    const deadline = Date.now() + timeoutMs;
+    while (Date.now() < deadline) {
+      const view = leaf && leaf.view;
+      if (view instanceof MarkdownView && view.editor) {
+        try {
+          const lineText = view.editor.getLine(lineNumber) || "";
+          view.editor.setSelection({ line: lineNumber, ch: 0 }, { line: lineNumber, ch: lineText.length });
+          view.editor.focus();
+          return true;
+        } catch (error) {
+          console.warn("AI Task Butler: failed to focus task line.", error);
+          return false;
+        }
+      }
+      await new Promise((resolve) => window.setTimeout(resolve, 30));
+    }
+    return false;
+  }
+
+  async editTaskInTasksPlugin(task) {
+    const tasksCommandId = findTasksEditCommandId(this.app);
+    if (!tasksCommandId) {
+      const available = this.app.commands
+        .listCommands()
+        .filter((command) => /edit[- ]?task|create or edit/i.test(`${command.id} ${command.name}`))
+        .map((command) => `\`${command.id}\``)
+        .join(", ");
+      const hint = available
+        ? `检测到可能的命令：${available}。请把对应 ID 写入 AI Task Butler 设置中的 "Tasks 编辑命令 ID"，或升级 Tasks 插件。`
+        : "未找到 Tasks 插件的 `Tasks: Create or edit task` 命令，请确认 Tasks 插件已启用并升级到最新版本。";
+      new Notice(hint, 8000);
+      return;
+    }
+
+    const file = this.app.vault.getAbstractFileByPath(task.filePath);
+    if (!(file instanceof TFile)) {
+      new Notice("任务所在文件不存在或已被移动。");
+      return;
+    }
+
+    // 仅当当前激活的 Markdown 编辑器不是该任务所在文件时，才打开；
+    // 否则直接复用当前视图，不开 split、不切换 leaf，避免"打开 tasks 文件"。
+    const leaf = await this.resolveEditorLeafForTask(file);
+    if (!leaf) {
+      new Notice("编辑器视图未就绪，无法定位任务行。");
+      return;
+    }
+
+    const ready = await this.waitForTaskEditor(leaf, task.lineNumber, 3000);
+    if (!ready) {
+      new Notice("编辑器视图未就绪，无法把光标定位到任务行。");
+      return;
+    }
+    this.app.workspace.setActiveLeaf(leaf, { focus: true });
+    await new Promise((resolve) => window.setTimeout(resolve, 120));
+
+    const activeEditor = this.app.workspace.activeEditor;
+    if (!activeEditor || !activeEditor.editor) {
+      new Notice("activeEditor 未指向任务所在文件，Tasks 命令无法定位任务。");
+      return;
+    }
+
+    try {
+      this.app.commands.executeCommandById(tasksCommandId);
+    } catch (error) {
+      new Notice(`调用 Tasks 编辑命令失败：${error.message || "未知错误"}`);
+    }
+  }
+
+  // 寻找一个适合编辑该任务的 MarkdownView leaf：
+  //  1. 当前活动编辑器已经在该文件中 → 直接复用（不打开任何文件）
+  //  2. 否则在当前活动 leaf（不创建 split）中打开任务所在文件
+  // 这避免了之前 "总在右侧新开一个 split 打开 tasks 文件" 的行为。
+  async resolveEditorLeafForTask(file) {
+    const activeFile = this.app.workspace.getActiveFile();
+    if (activeFile && activeFile.path === file.path) {
+      const activeView = this.app.workspace.getActiveViewOfType(MarkdownView);
+      if (activeView && activeView.editor && activeView.leaf) {
+        return activeView.leaf;
+      }
+    }
+    const leaf = this.app.workspace.getLeaf(false);
+    await leaf.openFile(file);
+    return leaf;
+  }
+
+  async rescheduleTask(task, scheduledDate) {
+    await this.updateTask(task, { scheduledDate });
+  }
+
+  async shiftScheduledDate(task, days) {
+    const baseDate = validDateOrUndefined(task.scheduledDate) || task.startDate || formatDate(new Date());
+    const targetDate = formatDate(addDays(dateFromIso(baseDate), days));
+    await this.updateTask(task, { scheduledDate: targetDate });
+  }
+
   async saveSettings() {
     await this.saveData(this.settings);
   }
@@ -169,6 +376,261 @@ module.exports = class AiTaskButlerPlugin extends Plugin {
   }
 
 };
+
+class TaskButlerNavigationView extends ItemView {
+  constructor(leaf, plugin) {
+    super(leaf);
+    this.plugin = plugin;
+    const today = formatDate(new Date());
+    this.startDate = today;
+    this.endDate = today;
+    this.showCompleted = false;
+    this.refreshTimer = null;
+  }
+
+  getViewType() {
+    return TASK_BUTLER_NAVIGATION_VIEW_TYPE;
+  }
+
+  getDisplayText() {
+    return "Task Butler";
+  }
+
+  getIcon() {
+    return "list-checks";
+  }
+
+  async onOpen() {
+    await this.render();
+  }
+
+  async onClose() {
+    if (this.refreshTimer) window.clearTimeout(this.refreshTimer);
+    this.contentEl.empty();
+  }
+
+  refresh() {
+    if (this.refreshTimer) window.clearTimeout(this.refreshTimer);
+    this.refreshTimer = window.setTimeout(() => this.render(), 120);
+  }
+
+  async render() {
+    const { contentEl } = this;
+    contentEl.empty();
+    contentEl.addClass("ai-task-butler-navigation");
+
+    const header = contentEl.createDiv({ cls: "ai-task-butler-navigation-header" });
+    header.createEl("h4", { text: "Task Butler" });
+    const actions = header.createDiv({ cls: "ai-task-butler-navigation-actions" });
+    const captureButton = actions.createEl("button", { text: "新增", attr: { "aria-label": "新增任务" } });
+    captureButton.addEventListener("click", () => new CaptureTaskModal(this.app, this.plugin).open());
+    const refreshButton = actions.createEl("button", { text: "刷新", attr: { "aria-label": "刷新任务" } });
+    refreshButton.addEventListener("click", () => this.refresh());
+
+    const range = contentEl.createDiv({ cls: "ai-task-butler-range" });
+    const previousButton = range.createEl("button", { text: "‹", attr: { "aria-label": "前一天" } });
+    previousButton.addEventListener("click", () => this.shiftRange(-1));
+    this.startInput = range.createEl("input", { attr: { type: "date", "aria-label": "开始日期" } });
+    this.startInput.value = this.startDate;
+    this.startInput.addEventListener("change", () => this.setRange(this.startInput.value, this.endDate));
+    const separator = range.createEl("span", { text: "至" });
+    separator.addClass("ai-task-butler-range-separator");
+    this.endInput = range.createEl("input", { attr: { type: "date", "aria-label": "结束日期" } });
+    this.endInput.value = this.endDate;
+    this.endInput.addEventListener("change", () => this.setRange(this.startDate, this.endInput.value));
+    const nextButton = range.createEl("button", { text: "›", attr: { "aria-label": "后一天" } });
+    nextButton.addEventListener("click", () => this.shiftRange(1));
+
+    const filters = contentEl.createDiv({ cls: "ai-task-butler-navigation-filters" });
+    const todayButton = filters.createEl("button", { text: "今天" });
+    todayButton.addEventListener("click", () => {
+      const today = formatDate(new Date());
+      this.setRange(today, today);
+    });
+    const nextWeekButton = filters.createEl("button", { text: "未来 7 天" });
+    nextWeekButton.addEventListener("click", () => {
+      const today = new Date();
+      this.setRange(formatDate(today), formatDate(addDays(today, 6)));
+    });
+    const completedLabel = filters.createEl("label", { cls: "ai-task-butler-completed-filter" });
+    const completedToggle = completedLabel.createEl("input", { attr: { type: "checkbox" } });
+    completedToggle.checked = this.showCompleted;
+    completedToggle.addEventListener("change", () => {
+      this.showCompleted = completedToggle.checked;
+      this.refresh();
+    });
+    completedLabel.appendText("显示已完成");
+
+    const list = contentEl.createDiv({ cls: "ai-task-butler-task-list" });
+    const loading = list.createDiv({ cls: "ai-task-butler-empty", text: "正在读取任务..." });
+    try {
+      const allTasks = await this.plugin.listTasksInDateRange(this.startDate, this.endDate);
+      const tasks = this.showCompleted ? allTasks : allTasks.filter((task) => !task.completed);
+      if (!list.isConnected) return;
+      loading.remove();
+      contentEl.querySelector(".ai-task-butler-task-count")?.remove();
+      header.createEl("span", { cls: "ai-task-butler-task-count", text: `${tasks.length} 项` });
+
+      if (tasks.length === 0) {
+        list.createDiv({
+          cls: "ai-task-butler-empty",
+          text: "这个日期范围内没有匹配的任务。"
+        });
+        return;
+      }
+      for (const task of tasks) this.renderTaskRow(list, task);
+    } catch (error) {
+      console.error("AI Task Butler: failed to load navigation tasks.", error);
+      loading.setText(`读取任务失败：${error.message || "未知错误"}`);
+    }
+  }
+
+  setRange(startDate, endDate) {
+    const validStart = validDateOrUndefined(startDate) || this.startDate;
+    const validEnd = validDateOrUndefined(endDate) || validStart;
+    this.startDate = validStart <= validEnd ? validStart : validEnd;
+    this.endDate = validStart <= validEnd ? validEnd : validStart;
+    this.refresh();
+  }
+
+  shiftRange(days) {
+    this.setRange(
+      formatDate(addDays(dateFromIso(this.startDate), days)),
+      formatDate(addDays(dateFromIso(this.endDate), days))
+    );
+  }
+
+  renderTaskRow(list, task) {
+    const row = list.createDiv({ cls: "ai-task-butler-task-row" });
+    if (task.completed) row.addClass("is-completed");
+    if (task.scheduledDate && task.scheduledDate < formatDate(new Date()) && !task.completed) row.addClass("is-overdue");
+
+    const doneToggle = row.createEl("input", { cls: "ai-task-butler-task-done", attr: { type: "checkbox", "aria-label": "切换任务完成状态" } });
+    doneToggle.checked = task.completed;
+    doneToggle.addEventListener("change", async () => {
+      doneToggle.disabled = true;
+      try {
+        await this.plugin.updateTask(task, { completed: doneToggle.checked });
+      } catch (error) {
+        doneToggle.checked = !doneToggle.checked;
+        new Notice(`更新任务失败：${error.message || "未知错误"}`);
+      } finally {
+        doneToggle.disabled = false;
+      }
+    });
+
+    const body = row.createDiv({ cls: "ai-task-butler-task-body" });
+    const title = body.createDiv({ cls: "ai-task-butler-task-title", text: task.title });
+    title.setAttribute("title", "右键获取更多操作");
+
+    const meta = body.createDiv({ cls: "ai-task-butler-task-meta" });
+    const priority = task.priority === "none" ? "" : `${PRIORITY_MARKS[task.priority] || ""} ${priorityDisplayName(task.priority)}`;
+    const schedule = task.scheduledDate ? `计划 ${task.scheduledDate}` : task.startDate ? `开始 ${task.startDate}` : "未排期";
+    meta.setText([priority, schedule, task.filePath].filter(Boolean).join(" · "));
+
+    const tasksCommandId = findTasksEditCommandId(this.app);
+    const hasTasksPlugin = Boolean(tasksCommandId);
+
+    row.addEventListener("contextmenu", (event) => {
+      event.preventDefault();
+      const menu = new Menu();
+      menu.addItem((item) => item
+        .setTitle(task.completed ? "取消完成" : "标记为完成")
+        .setIcon("check")
+        .onClick(async () => {
+          try {
+            await this.plugin.updateTask(task, { completed: !task.completed });
+          } catch (error) {
+            new Notice(`更新任务失败：${error.message || "未知错误"}`);
+          }
+        }));
+      menu.addItem((item) => {
+        item.setTitle("推迟计划日期").setIcon("calendar-clock");
+        const submenu = item.setSubmenu();
+        const todayDate = formatDate(new Date());
+        const tomorrowDate = formatDate(addDays(new Date(), 1));
+        const nextWeekDate = formatDate(addDays(new Date(), 7));
+        const current = validDateOrUndefined(task.scheduledDate);
+        const runReschedule = async (targetDate) => {
+          try {
+            await this.plugin.rescheduleTask(task, targetDate);
+          } catch (error) {
+            new Notice(`更新日期失败：${error.message || "未知错误"}`);
+          }
+        };
+        submenu.addItem((sub) => sub
+          .setTitle(`今天 · ${todayDate}${current === todayDate ? "（当前）" : ""}`)
+          .setIcon("calendar-check")
+          .onClick(() => runReschedule(todayDate)));
+        submenu.addItem((sub) => sub
+          .setTitle(`明天 · ${tomorrowDate}${current === tomorrowDate ? "（当前）" : ""}`)
+          .setIcon("sun")
+          .onClick(() => runReschedule(tomorrowDate)));
+        submenu.addItem((sub) => sub
+          .setTitle(`下周 · ${nextWeekDate}${current === nextWeekDate ? "（当前）" : ""}`)
+          .setIcon("calendar")
+          .onClick(() => runReschedule(nextWeekDate)));
+        submenu.addSeparator();
+        submenu.addItem((sub) => sub
+          .setTitle("推迟 1 天")
+          .setIcon("chevron-right")
+          .onClick(async () => {
+            try {
+              await this.plugin.shiftScheduledDate(task, 1);
+            } catch (error) {
+              new Notice(`推迟日期失败：${error.message || "未知错误"}`);
+            }
+          }));
+        submenu.addItem((sub) => sub
+          .setTitle("推迟 1 周")
+          .setIcon("chevrons-right")
+          .onClick(async () => {
+            try {
+              await this.plugin.shiftScheduledDate(task, 7);
+            } catch (error) {
+              new Notice(`推迟日期失败：${error.message || "未知错误"}`);
+            }
+          }));
+        submenu.addSeparator();
+        submenu.addItem((sub) => sub
+          .setTitle("清除计划日期")
+          .setIcon("x-circle")
+          .onClick(async () => {
+            try {
+              await this.plugin.rescheduleTask(task, undefined);
+            } catch (error) {
+              new Notice(`清除日期失败：${error.message || "未知错误"}`);
+            }
+          }));
+      });
+      menu.addItem((item) => item
+        .setTitle("用 Tasks 插件编辑")
+        .setIcon("pencil")
+        .setDisabled(!hasTasksPlugin)
+        .onClick(async () => {
+          await this.plugin.editTaskInTasksPlugin(task);
+        }));
+      menu.addItem((item) => item
+        .setTitle("打开原文")
+        .setIcon("file-text")
+        .onClick(async () => {
+          await this.plugin.openTaskSource(task, { activateCursor: true });
+        }));
+      menu.addItem((item) => item
+        .setTitle("复制任务内容")
+        .setIcon("copy")
+        .onClick(async () => {
+          try {
+            await navigator.clipboard.writeText(task.originalLine.trim());
+            new Notice("已复制任务内容到剪贴板。");
+          } catch (error) {
+            new Notice(`复制失败：${error.message || "剪贴板不可用"}`);
+          }
+        }));
+      menu.showAtMouseEvent(event);
+    });
+  }
+}
 
 class CaptureTaskModal extends Modal {
   constructor(app, plugin) {
@@ -556,7 +1018,12 @@ class CaptureTaskModal extends Modal {
     this.previewEl.createEl("div", { text: "将写入：" });
     this.previewEl.createEl("pre", { text: markdown });
 
-    if (this.draft.confidence < this.plugin.settings.lowConfidenceThreshold) {
+    const hasManualPriority = this.manualOverrides.priority !== undefined;
+    const hasManualScheduledDate = this.manualOverrides.scheduledDate !== undefined;
+    if (
+      this.draft.confidence < this.plugin.settings.lowConfidenceThreshold &&
+      !(hasManualPriority && hasManualScheduledDate)
+    ) {
       this.previewEl.createEl("div", {
         cls: "ai-task-butler-warning",
         text: "解析置信度较低，建议确认日期、优先级或任务标题。"
@@ -1116,6 +1583,131 @@ class AiTaskButlerSettingTab extends PluginSettingTab {
 
 
   }
+}
+
+function parseMarkdownTaskLine(line, filePath, lineNumber) {
+  const match = String(line || "").match(/^(\s*)[-*+]\s+\[([ xX])\]\s+(.*)$/);
+  if (!match) return null;
+
+  const rawBody = match[3];
+  const scheduledDate = extractTaskDate(rawBody, "⏳");
+  const startDate = extractTaskDate(rawBody, "🛫");
+  const recurrence = rawBody.match(/🔁\s+(.+?)(?=\s+(?:➕|⏳|🛫|📅|\^\S+)|$)/)?.[1]?.trim();
+  const blockId = rawBody.match(/\s+\^([A-Za-z0-9_-]+)\s*$/)?.[1];
+  const priority = priorityFromTaskMarkdown(rawBody);
+  const title = taskTitleFromMarkdown(rawBody);
+  if (!title) return null;
+
+  return {
+    filePath,
+    lineNumber,
+    originalLine: line,
+    rawBody,
+    title,
+    completed: match[2].toLowerCase() === "x",
+    scheduledDate,
+    startDate,
+    recurrence,
+    priority,
+    blockId
+  };
+}
+
+function extractTaskDate(text, marker) {
+  const escapedMarker = marker.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  return text.match(new RegExp(`${escapedMarker}\\s+(\\d{4}-\\d{2}-\\d{2})`))?.[1];
+}
+
+function priorityFromTaskMarkdown(text) {
+  for (const [priority, mark] of Object.entries(PRIORITY_MARKS)) {
+    if (mark && text.includes(mark)) return priority;
+  }
+  return "none";
+}
+
+function taskTitleFromMarkdown(rawBody) {
+  return String(rawBody || "")
+    .replace(/\s+\^([A-Za-z0-9_-]+)\s*$/, "")
+    .replace(/\s+(?:🔺|⏫|🔼|🔽|⏬)(?=\s|$)/g, "")
+    .replace(/\s+(?:🛫|⏳|📅|➕)\s+\d{4}-\d{2}-\d{2}/g, "")
+    .replace(/\s+🔁\s+(.+?)(?=\s+(?:➕|⏳|🛫|📅)|$)/g, "")
+    .replace(/\s+#[\p{L}\p{N}_/-]+/gu, "")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function taskMatchesDateRange(task, startDate, endDate) {
+  const date = task.scheduledDate || task.startDate;
+  if (!date) return false;
+  if (task.recurrence && /^every day$/i.test(task.recurrence)) return date <= endDate;
+  return date >= startDate && date <= endDate;
+}
+
+function sortTaskNavigationItems(tasks, rangeStart) {
+  const priorityRank = { highest: 0, high: 1, medium: 2, none: 3, low: 4, lowest: 5 };
+  return [...tasks].sort((left, right) => {
+    const leftDate = left.scheduledDate || left.startDate || rangeStart;
+    const rightDate = right.scheduledDate || right.startDate || rangeStart;
+    if (leftDate !== rightDate) return leftDate.localeCompare(rightDate);
+    const leftPriority = priorityRank[left.priority] ?? 3;
+    const rightPriority = priorityRank[right.priority] ?? 3;
+    if (leftPriority !== rightPriority) return leftPriority - rightPriority;
+    return left.title.localeCompare(right.title, "zh-CN");
+  });
+}
+
+function findTaskLineIndex(lines, task) {
+  if (task.blockId) {
+    const blockPattern = new RegExp(`\\^${escapeRegExp(task.blockId)}\\s*$`);
+    const byBlockId = lines.findIndex((line) => blockPattern.test(line));
+    if (byBlockId >= 0) return byBlockId;
+  }
+  if (lines[task.lineNumber] === task.originalLine) return task.lineNumber;
+  return lines.findIndex((line) => line === task.originalLine);
+}
+
+function patchMarkdownTaskLine(line, patch) {
+  let updated = String(line || "");
+  if (typeof patch.completed === "boolean") {
+    updated = updated.replace(/\[([ xX])\]/, patch.completed ? "[x]" : "[ ]");
+  }
+  if (typeof patch.title === "string" && patch.title.trim()) {
+    updated = replaceTaskTitle(updated, patch.title.trim());
+  }
+  if (Object.prototype.hasOwnProperty.call(patch, "scheduledDate")) {
+    updated = replaceTaskDate(updated, "⏳", patch.scheduledDate);
+  }
+  return updated;
+}
+
+function replaceTaskTitle(line, title) {
+  const match = line.match(/^(\s*[-*+]\s+\[[ xX]\]\s+)(.*)$/);
+  if (!match) return line;
+  const body = match[2];
+  const metadataMatch = body.match(/\s+(?=(?:#[\p{L}\p{N}_/-]+|🔺|⏫|🔼|🔽|⏬|🛫|⏳|📅|🔁|➕|\^)[\s\S]*$)/u);
+  const suffix = metadataMatch ? body.slice(metadataMatch.index) : "";
+  return `${match[1]}${title}${suffix}`;
+}
+
+function replaceTaskDate(line, marker, date) {
+  const escapedMarker = marker.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+  const markerPattern = new RegExp(`\\s+${escapedMarker}\\s+\\d{4}-\\d{2}-\\d{2}`);
+  if (validDateOrUndefined(date)) {
+    if (markerPattern.test(line)) return line.replace(markerPattern, ` ${marker} ${date}`);
+    const blockIdMatch = line.match(/\s+\^[A-Za-z0-9_-]+\s*$/);
+    if (!blockIdMatch) return `${line} ${marker} ${date}`;
+    return `${line.slice(0, blockIdMatch.index)} ${marker} ${date}${line.slice(blockIdMatch.index)}`;
+  }
+  return line.replace(markerPattern, "");
+}
+
+function dateFromIso(date) {
+  const [year, month, day] = String(date).split("-").map(Number);
+  return new Date(year, month - 1, day);
+}
+
+function escapeRegExp(value) {
+  return String(value).replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
 }
 
 async function ensureMarkdownFile(app, path) {
