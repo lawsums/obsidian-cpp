@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "帮老师干活",
+      "path": "Templates/Homepage/帮老师干活.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "让AI搜索并备份所有配置文件",
       "path": "Templates/Homepage/让AI搜索并备份所有配置文件.md"
-    },
-    {
-      "basename": "安全视频往后刷",
-      "path": "Templates/Homepage/安全视频往后刷.md"
     }
   ],
   "omittedPaths": [],

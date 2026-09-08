@@ -13,6 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Templates/Homepage/帮老师干活.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "帮老师干活"
+            }
+          },
+          {
+            "id": "5633284466fa7087",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Templates/Homepage/Homepage.md",
                 "mode": "preview",
                 "source": false,
@@ -332,8 +356,9 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Tasks.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/帮老师干活.md",
+    "Templates/Tasks.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/慢跑1000米.md",
     "Dairies/2026-09-07.md",
@@ -363,7 +388,6 @@
     "100-学习/110-计算机/代码模版/02-数据结构",
     "100-学习/110-计算机/代码模版/01-排序",
     "Templates/Homepage/收拾开学用的东西.md",
-    "100-学习/120-嵌入式/linux路线.md",
     "Attachments/Pasted image 20260905103636.png",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q4.cpp",
     "Templates/Task",
