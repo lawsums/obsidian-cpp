@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2461.感染二叉树需要的总时间",
+      "path": "Leetcode/2461.感染二叉树需要的总时间.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "1989.两个数组最小的异或值之和",
       "path": "Leetcode/1989.两个数组最小的异或值之和.md"
-    },
-    {
-      "basename": "让AI搜索并备份所有配置文件",
-      "path": "Templates/Homepage/让AI搜索并备份所有配置文件.md"
     }
   ],
   "omittedPaths": [],
