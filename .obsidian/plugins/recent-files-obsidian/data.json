@@ -1,12 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "随机过程",
+      "path": "Temp/随机过程.md"
+    },
+    {
+      "basename": "研一课程",
+      "path": "Temp/研一课程.md"
+    },
+    {
+      "basename": "中国特色社会主义理论与实践研究",
+      "path": "Temp/中国特色社会主义理论与实践研究.md"
+    },
+    {
+      "basename": "计算机视觉",
+      "path": "Temp/计算机视觉.md"
+    },
+    {
+      "basename": "大数据",
+      "path": "Temp/大数据.md"
+    },
+    {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "学习Linux_岗位",
       "path": "Templates/Homepage/学习Linux_岗位.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "002_稍后再看",
+      "path": "Templates/Homepage/002_稍后再看.md"
     },
     {
       "basename": "学习LVGL",
@@ -27,10 +55,6 @@
     {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
-    },
-    {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "算法路线图",
@@ -79,10 +103,6 @@
     {
       "basename": "队列板子",
       "path": "100-学习/110-计算机/代码模版/02-数据结构/队列板子.md"
-    },
-    {
-      "basename": "002_稍后再看",
-      "path": "Templates/Homepage/002_稍后再看.md"
     },
     {
       "basename": "收拾开学用的东西",
@@ -153,10 +173,6 @@
       "path": "300-项目/嵌入式/韦东山课程/关闭GUI.md"
     },
     {
-      "basename": "研一课程",
-      "path": "Temp/研一课程.md"
-    },
-    {
       "basename": "创建面试题模板_插件",
       "path": "Templates/Homepage/创建面试题模板_插件.md"
     },
@@ -183,22 +199,6 @@
     {
       "basename": "Vscode-vim",
       "path": "Software/Vscode-vim.md"
-    },
-    {
-      "basename": "877.访问所有节点的最短路径",
-      "path": "Leetcode/877.访问所有节点的最短路径.md"
-    },
-    {
-      "basename": "1",
-      "path": "Leetcode/1.md"
-    },
-    {
-      "basename": "和家长同步家教状况",
-      "path": "Templates/Homepage/和家长同步家教状况.md"
-    },
-    {
-      "basename": "Eide",
-      "path": "Software/Eide.md"
     }
   ],
   "omittedPaths": [],
