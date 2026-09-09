@@ -200,7 +200,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -355,13 +355,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习Linux_岗位.md",
+                "file": "Templates/Homepage/学习Linux_公司.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习Linux_岗位 的大纲"
+              "title": "学习Linux_公司 的大纲"
             }
           },
           {
@@ -439,10 +439,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9665c51e47572251",
+  "active": "d2be650601325d61",
   "lastOpenFiles": [
-    "Templates/Homepage/学习Linux_公司.md",
     "Templates/Homepage/学习Linux_岗位.md",
+    "Templates/Homepage/学习Linux_公司.md",
     "Templates/Homepage/学习Linux.md",
     "Attachments/Pasted image 20260909161553.png",
     "Templates/Homepage/Homepage.md",
