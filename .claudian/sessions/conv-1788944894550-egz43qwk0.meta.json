@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788944894550-egz43qwk0",
+  "providerId": "claude",
+  "title": "Organize companies by industry",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788944894551,
+  "updatedAt": 1788945021664,
+  "lastResponseAt": 1788945021664,
+  "sessionId": "4962694a-ce7e-4f9b-a628-5c062246cd32",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4962694a-ce7e-4f9b-a628-5c062246cd32"
+  },
+  "currentNote": "Templates/Homepage/学习Linux_公司.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 13937,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30592,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 44529,
+    "percentage": 22
+  }
+}
