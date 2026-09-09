@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "学习Linux_岗位",
+      "path": "Templates/Homepage/学习Linux_岗位.md"
+    },
+    {
+      "basename": "学习Linux_公司",
+      "path": "Templates/Homepage/学习Linux_公司.md"
+    },
+    {
+      "basename": "学习Linux",
+      "path": "Templates/Homepage/学习Linux.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -187,18 +199,6 @@
     {
       "basename": "配置 VSCode 阅读 Linux 源码环境",
       "path": "Templates/配置 VSCode 阅读 Linux 源码环境.md"
-    },
-    {
-      "basename": "bear 追踪内核编译",
-      "path": "Templates/bear 追踪内核编译.md"
-    },
-    {
-      "basename": "anki-科目三",
-      "path": "Temp/anki-科目三.md"
-    },
-    {
-      "basename": "Anki-科目三",
-      "path": "Vocabulary/Anki-科目三.md"
     }
   ],
   "omittedPaths": [],
