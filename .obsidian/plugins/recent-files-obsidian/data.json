@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学习LVGL",
+      "path": "Templates/学习LVGL.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Eide",
       "path": "Software/Eide.md"
-    },
-    {
-      "basename": "配置 VSCode 阅读 Linux 源码环境",
-      "path": "Templates/配置 VSCode 阅读 Linux 源码环境.md"
     }
   ],
   "omittedPaths": [],
