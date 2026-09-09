@@ -1,0 +1,25 @@
+{
+  "id": "conv-1788947527173-tsh5jvu5i",
+  "providerId": "claude",
+  "title": "整理Linux岗位分类并提取核心要求",
+  "titleGenerationStatus": "success",
+  "createdAt": 1788947527173,
+  "updatedAt": 1788947643023,
+  "lastResponseAt": 1788947643023,
+  "sessionId": "850cfe42-6280-4be3-977d-0e6d35ba5516",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "850cfe42-6280-4be3-977d-0e6d35ba5516"
+  },
+  "currentNote": "Templates/Homepage/学习Linux_岗位.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8199,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 41088,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 49287,
+    "percentage": 25
+  }
+}
