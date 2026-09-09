@@ -5,8 +5,20 @@
       "path": "Temp/随机过程.md"
     },
     {
+      "basename": "最优化方法",
+      "path": "Temp/最优化方法.md"
+    },
+    {
       "basename": "研一课程",
       "path": "Temp/研一课程.md"
+    },
+    {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "中国特色社会主义理论与实践研究",
@@ -21,16 +33,8 @@
       "path": "Temp/大数据.md"
     },
     {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
-    },
-    {
       "basename": "学习Linux_岗位",
       "path": "Templates/Homepage/学习Linux_岗位.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "002_稍后再看",
@@ -195,10 +199,6 @@
     {
       "basename": "固定linux_ip",
       "path": "Templates/Homepage/固定linux_ip.md"
-    },
-    {
-      "basename": "Vscode-vim",
-      "path": "Software/Vscode-vim.md"
     }
   ],
   "omittedPaths": [],
