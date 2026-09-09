@@ -1,5 +1,7 @@
 const {
   App,
+  Component,
+  MarkdownRenderer,
   MarkdownView,
   Menu,
   Modal,
@@ -406,6 +408,10 @@ class TaskButlerNavigationView extends ItemView {
 
   async onClose() {
     if (this.refreshTimer) window.clearTimeout(this.refreshTimer);
+    if (this.markdownComponent) {
+      this.markdownComponent.unload();
+      this.markdownComponent = null;
+    }
     this.contentEl.empty();
   }
 
@@ -414,8 +420,21 @@ class TaskButlerNavigationView extends ItemView {
     this.refreshTimer = window.setTimeout(() => this.render(), 120);
   }
 
+  ensureMarkdownComponent() {
+    if (!this.markdownComponent) {
+      this.markdownComponent = new Component();
+      this.markdownComponent.load();
+    }
+    return this.markdownComponent;
+  }
+
   async render() {
     const { contentEl } = this;
+    // 卸载上一轮渲染注册的点击/悬停等监听，避免任务增删时链接处理泄漏。
+    if (this.markdownComponent) {
+      this.markdownComponent.unload();
+      this.markdownComponent = null;
+    }
     contentEl.empty();
     contentEl.addClass("ai-task-butler-navigation");
 
@@ -478,7 +497,7 @@ class TaskButlerNavigationView extends ItemView {
         });
         return;
       }
-      for (const task of tasks) this.renderTaskRow(list, task);
+      for (const task of tasks) await this.renderTaskRow(list, task);
     } catch (error) {
       console.error("AI Task Butler: failed to load navigation tasks.", error);
       loading.setText(`读取任务失败：${error.message || "未知错误"}`);
@@ -500,7 +519,7 @@ class TaskButlerNavigationView extends ItemView {
     );
   }
 
-  renderTaskRow(list, task) {
+  async renderTaskRow(list, task) {
     const row = list.createDiv({ cls: "ai-task-butler-task-row" });
     if (task.completed) row.addClass("is-completed");
     if (task.scheduledDate && task.scheduledDate < formatDate(new Date()) && !task.completed) row.addClass("is-overdue");
@@ -520,8 +539,9 @@ class TaskButlerNavigationView extends ItemView {
     });
 
     const body = row.createDiv({ cls: "ai-task-butler-task-body" });
-    const title = body.createDiv({ cls: "ai-task-butler-task-title", text: task.title });
+    const title = body.createDiv({ cls: "ai-task-butler-task-title" });
     title.setAttribute("title", "右键获取更多操作");
+    await this.renderTaskTitle(title, task);
 
     const meta = body.createDiv({ cls: "ai-task-butler-task-meta" });
     const priority = task.priority === "none" ? "" : `${PRIORITY_MARKS[task.priority] || ""} ${priorityDisplayName(task.priority)}`;
@@ -629,6 +649,26 @@ class TaskButlerNavigationView extends ItemView {
         }));
       menu.showAtMouseEvent(event);
     });
+  }
+
+  // 用 Obsidian 内置的 MarkdownRenderer 渲染任务标题：
+  //  - [[wikilink]] / [text](url) 自动成为可点击链接
+  //  - 行内代码、强调、标签等也走原生 Markdown 样式
+  // 渲染结果绑定在 view 级 Component 上，render() 重绘或 onClose() 时统一卸载。
+  async renderTaskTitle(titleEl, task) {
+    const raw = String(task.title || "").trim();
+    if (!raw) {
+      titleEl.setText("(空任务)");
+      return;
+    }
+    const component = this.ensureMarkdownComponent();
+    try {
+      // 用单行包裹：避免 Markdown 把第一行当成块级元素解析（如 # / >），但保留内联语法。
+      await MarkdownRenderer.render(this.app, raw, titleEl, task.filePath || "", component);
+    } catch (error) {
+      console.warn("AI Task Butler: failed to render task title as Markdown, falling back to text.", error);
+      titleEl.setText(raw);
+    }
   }
 }
 

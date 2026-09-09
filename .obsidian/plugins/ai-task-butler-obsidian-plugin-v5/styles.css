@@ -195,6 +195,43 @@
   cursor: context-menu;
 }
 
+/* MarkdownRenderer 默认会把单行包成 <p>，在导航栏里我们让它贴近普通文本样式 */
+.ai-task-butler-task-title > p {
+  margin: 0;
+  display: inline;
+}
+
+.ai-task-butler-task-title > p:first-child {
+  display: inline;
+}
+
+/* 渲染出来的链接在紧凑任务行里也保留正常可点击手感 */
+.ai-task-butler-task-title a {
+  color: var(--link-color);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 2px;
+}
+
+.ai-task-butler-task-title a.internal-link {
+  color: var(--link-color);
+}
+
+.ai-task-butler-task-title a.external-link {
+  color: var(--link-external-color);
+}
+
+.ai-task-butler-task-title code {
+  font-size: 0.9em;
+  padding: 0 3px;
+  border-radius: 3px;
+  background: var(--background-modifier-border);
+}
+
+.ai-task-butler-task-title .tag {
+  color: var(--tag-color);
+}
+
 .ai-task-butler-task-meta {
   margin-top: 4px;
   overflow: hidden;

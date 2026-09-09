@@ -17,6 +17,28 @@ class Plugin {
 
 class Modal {}
 class MarkdownView {}
+class Component {
+  constructor() {
+    this._loaded = false;
+    this._children = [];
+  }
+  load() {
+    this._loaded = true;
+  }
+  unload() {
+    this._loaded = false;
+    this._children.length = 0;
+  }
+  register(child) {
+    this._children.push(child);
+    return child;
+  }
+}
+class MarkdownRenderer {
+  static async render(_app, source, _el) {
+    return source;
+  }
+}
 class Menu {
   addItem(callback) {
     const item = {
@@ -45,6 +67,8 @@ const sandbox = {
     if (name !== "obsidian") throw new Error(`Unexpected require: ${name}`);
     return {
       App: class {},
+      Component,
+      MarkdownRenderer,
       MarkdownView,
       Menu,
       Modal,
@@ -218,6 +242,16 @@ assert.equal(legacyCommandResult, "tasks:edit-task");
 assert.equal(
   sandbox.findTasksEditCommandId({ commands: { findCommand: () => null } }),
   null
+);
+
+// taskTitleFromMarkdown 需要保留 wikilink / 行内代码 / 强调 / 链接，方便导航栏用 MarkdownRenderer 渲染。
+assert.equal(
+  sandbox.taskTitleFromMarkdown("整理 [[项目文档]] 并提交 `code` ^task-x"),
+  "整理 [[项目文档]] 并提交 `code`"
+);
+assert.equal(
+  sandbox.taskTitleFromMarkdown("看 [外部链接](https://example.com) **很重要**"),
+  "看 [外部链接](https://example.com) **很重要**"
 );
 
 console.log("parser smoke tests passed");
