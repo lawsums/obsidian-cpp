@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "研究生手册",
+      "path": "Templates/Homepage/研究生手册.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
       "basename": "路线梳理",
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "帮老师干活",
       "path": "Templates/Homepage/帮老师干活.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "慢跑1000米",
@@ -195,10 +199,6 @@
     {
       "basename": "Anki-科目三",
       "path": "Vocabulary/Anki-科目三.md"
-    },
-    {
-      "basename": "1989.两个数组最小的异或值之和",
-      "path": "Leetcode/1989.两个数组最小的异或值之和.md"
     }
   ],
   "omittedPaths": [],
