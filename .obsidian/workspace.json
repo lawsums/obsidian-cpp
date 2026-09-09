@@ -56,18 +56,6 @@
             }
           },
           {
-            "id": "21a0d181589dd7f7",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.bilibili.com/video/BV1W5PGzKEkt?p=5"
-              },
-              "icon": "bilibili",
-              "title": "Webpage"
-            }
-          },
-          {
             "id": "9665c51e47572251",
             "type": "leaf",
             "state": {
@@ -187,8 +175,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -343,12 +330,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -426,11 +414,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "21a0d181589dd7f7",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习Linux_岗位.md",
     "Templates/学习LVGL.md",
     "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/学习Linux_岗位.md",
     "Templates/Homepage/学习Linux_公司.md",
     "Templates/Homepage/学习Linux.md",
     "Attachments/Pasted image 20260909161553.png",
