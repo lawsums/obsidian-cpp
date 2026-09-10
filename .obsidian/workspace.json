@@ -6,6 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 38.40482573726541,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -127,6 +128,26 @@
               "title": "学习深度学习"
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "0d38d0ce760228ce",
+        "type": "tabs",
+        "dimension": 61.59517426273459,
+        "children": [
+          {
+            "id": "ce35229fd7c91bd1",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.bilibili.com/video/BV1w4411B7a4/"
+              },
+              "icon": "bilibili",
+              "title": "5_5.IMX6UL_6ULL的GPIO操作方法 - bilibili"
+            }
+          }
         ]
       }
     ],
@@ -246,7 +267,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -282,13 +304,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -322,11 +343,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -367,14 +389,18 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "b1c03b8e6e757e62",
+  "active": "ce35229fd7c91bd1",
   "lastOpenFiles": [
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Attachments/Pasted image 20260910110829.png",
+    "Attachments/Pasted image 20260910110534.png",
+    "Templates/Homepage/学习深度学习.md",
+    "Attachments/Pasted image 20260910110429.png",
+    "Templates/Homepage/Homepage.md",
     "Dairies/2026-09-10.md",
     "Temp/随机过程.md",
     "Temp/最优化方法.md",
     "Temp/研一课程.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
-    "Templates/Homepage/Homepage.md",
     "Temp/中国特色社会主义理论与实践研究.md",
     "Temp/计算机视觉.md",
     "Temp/大数据.md",
@@ -397,8 +423,6 @@
     "Templates/Homepage/慢跑1000米.md",
     "Dairies/2026-09-07.md",
     "Dairies/实现自己的数据结构.md",
-    "Templates/Daily_note_template.md",
-    "Templates/Daily_note_md.md",
     "100-学习/110-计算机/代码模版/06-工具",
     "100-学习/110-计算机/代码模版/05-多语言对照",
     "100-学习/110-计算机/代码模版/04-数学",
@@ -412,9 +436,6 @@
     "Attachments/Pasted image 20260901152813.png",
     "Attachments/Pasted image 20260831142242.png",
     "Attachments/Pasted image 20260829175746.png",
-    "Leetcode/images/877_shortest2-graph.jpg",
-    "Leetcode/images/877_shortest1-graph.jpg",
-    "Attachments/Pasted image 20260828170413.png",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
