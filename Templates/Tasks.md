@@ -699,7 +699,8 @@ sort by description
 - [x] 买牙膏 #task ⏫ ➕ 2026-09-05 ⏳ 2026-09-06 ✅ 2026-09-06 ^task-20260905-268d8441
 - [ ] 按照deepseek说的破除虚无主义 #哲学 #虚无主义 🔺 ➕ 2026-09-06 🛫 2026-09-06 ⏳ 2026-09-09 ^task-20260906-9ef72adc
 - [x] 中午去找周老师 #meeting #teacher 🔺 ➕ 2026-09-06 🛫 2026-09-08 ⏳ 2026-09-08 ✅ 2026-09-08 ^task-20260906-7f0541e0
-- [ ] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-07 ⏳ 2026-09-09
+- [ ] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-08 ⏳ 2026-09-10
+- [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-07 ⏳ 2026-09-09 ✅ 2026-09-10
 - [x] 每天通过非虚无方式学习Linux #linux #daily 🔺 🔁 every day ➕ 2026-09-06 🛫 2026-09-06 ⏳ 2026-09-06 ✅ 2026-09-06 ^task-20260906-8ec80965
 - [x] 做epoll和poll查看设备操作驱动的实验 #linux #驱动开发 #epoll #poll ⏫ ➕ 2026-09-06 🛫 2026-09-06 ⏳ 2026-09-07 ✅ 2026-09-08 ^task-20260906-7d7f2986
 - [x] 晚上和fgy吃饭 #meeting 🔺 ➕ 2026-09-06 🛫 2026-09-06 ⏳ 2026-09-07 ✅ 2026-09-07 ^task-20260906-f09e2f6b
@@ -730,3 +731,4 @@ sort by description
 - [x] 十点的时候发一下消息 #task 🔺 ➕ 2026-09-10 🛫 2026-09-10 ⏳ 2026-09-10 ✅ 2026-09-10 ^task-20260910-ceb87a53
 - [ ] 填一下困难申请表 #行政 #申请 🔺 🛫 2026-09-10 ⏳ 2026-09-10 ➕ 2026-09-10 ^task-20260910-ad259c1
 - [ ] 买一下无线鼠标和键盘 #购物 🔺 🛫 2026-09-10 ⏳ 2026-09-12 ➕ 2026-09-10 ^task-20260910-5f3cde28
+- [ ] 下载一下sly发的图像处理 #task ⏫ 🛫 2026-09-10 ⏳ 2026-09-11 ➕ 2026-09-10 ^task-20260910-1f98fa71

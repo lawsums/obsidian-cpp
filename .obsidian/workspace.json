@@ -6,6 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 38.069705093833775,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -127,6 +128,26 @@
               "title": "学习深度学习"
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "20a8c668c12e068c",
+        "type": "tabs",
+        "dimension": 61.93029490616622,
+        "children": [
+          {
+            "id": "2d8c00898e39b6f6",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.bilibili.com/video/BV1w4411B7a4/"
+              },
+              "icon": "bilibili",
+              "title": "5_6-2.最简单的LED驱动程序_基于IMX6ULL - bilibili"
+            }
+          }
         ]
       }
     ],
@@ -246,7 +267,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -282,13 +304,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -322,11 +343,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -367,14 +389,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "2d8c00898e39b6f6",
   "lastOpenFiles": [
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Templates/Homepage/Homepage.md",
     "Attachments/Pasted image 20260910110829.png",
     "Attachments/Pasted image 20260910110534.png",
     "Templates/Homepage/学习深度学习.md",
     "Attachments/Pasted image 20260910110429.png",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-09-10.md",
     "Temp/随机过程.md",
     "Temp/最优化方法.md",
