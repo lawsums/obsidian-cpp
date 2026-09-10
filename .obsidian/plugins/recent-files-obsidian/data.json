@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "填一下困难申请表同时和老妈汇报",
+      "path": "Templates/Homepage/填一下困难申请表同时和老妈汇报.md"
+    },
+    {
       "basename": "路线梳理",
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "大四上考试时间",
       "path": "Temp/大四上考试时间.md"
-    },
-    {
-      "basename": "固定linux_ip",
-      "path": "Templates/Homepage/固定linux_ip.md"
     }
   ],
   "omittedPaths": [],

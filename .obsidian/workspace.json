@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "f4d04b06ceaa73f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/填一下困难申请表同时和老妈汇报.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "填一下困难申请表同时和老妈汇报"
+            }
+          },
+          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -369,8 +393,9 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Templates/Homepage/填一下困难申请表同时和老妈汇报.md",
     "Templates/Homepage/Homepage.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Attachments/Pasted image 20260910110829.png",
     "Attachments/Pasted image 20260910110534.png",
     "Templates/Homepage/学习深度学习.md",
