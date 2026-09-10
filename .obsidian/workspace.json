@@ -6,7 +6,6 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
-        "dimension": 38.40482573726541,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -128,26 +127,6 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "0d38d0ce760228ce",
-        "type": "tabs",
-        "dimension": 61.59517426273459,
-        "children": [
-          {
-            "id": "ce35229fd7c91bd1",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.bilibili.com/video/BV1w4411B7a4/"
-              },
-              "icon": "bilibili",
-              "title": "5_5.IMX6UL_6ULL的GPIO操作方法 - bilibili"
-            }
-          }
         ]
       }
     ],
@@ -267,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -304,12 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -347,8 +326,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -389,7 +367,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ce35229fd7c91bd1",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Attachments/Pasted image 20260910110829.png",
