@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "3ac3f17bd7169b61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/110-计算机/语言/Rust/学习rust.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习rust"
+            }
+          },
+          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -127,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,13 +307,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "100-学习/110-计算机/语言/Rust/学习rust.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习rust 的大纲"
             }
           },
           {
@@ -321,8 +346,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -367,13 +391,17 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "3ac3f17bd7169b61",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
+    "100-学习/110-计算机/语言/Rust/学习rust.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Leetcode/3799.不同三位偶数的数目.md",
+    "Leetcode/3799.不同三位偶数的数目.cpp",
+    "Dairies/2026-09-11.md",
     "Templates/打扫一下厕所卫生然后在群里和几个兄弟讲一下.md",
     "Templates/Tasks.md",
     "Templates/Homepage/填一下困难申请表同时和老妈汇报.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Attachments/Pasted image 20260910110829.png",
     "Attachments/Pasted image 20260910110534.png",
     "Templates/Homepage/学习深度学习.md",
@@ -399,9 +427,6 @@
     "Leetcode/2461.感染二叉树需要的总时间.cpp",
     "Leetcode/images/2461_image-20220625231812-2.png",
     "Leetcode/images/2461_image-20220625231744-1.png",
-    "Templates/Homepage/帮老师干活.md",
-    "Templates/Homepage/慢跑1000米.md",
-    "Dairies/2026-09-07.md",
     "100-学习/110-计算机/代码模版/06-工具",
     "100-学习/110-计算机/代码模版/05-多语言对照",
     "100-学习/110-计算机/代码模版/04-数学",
@@ -411,7 +436,6 @@
     "Attachments/Pasted image 20260905103636.png",
     "100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/q4.cpp",
     "Templates/Task",
-    "Templates/Tasks.md.tmp.16064.76999f4919aa",
     "Attachments/Pasted image 20260901152813.png",
     "Attachments/Pasted image 20260831142242.png",
     "Attachments/Pasted image 20260829175746.png",

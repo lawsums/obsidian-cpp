@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789092575267-hi7a0oz93",
+  "providerId": "claude",
+  "title": "Build Python LeetCode debug logging helper",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789092575268,
+  "updatedAt": 1789092627583,
+  "lastResponseAt": 1789092627583,
+  "sessionId": "4a0aa5e0-9ffe-4696-b5f2-0cbc4f454bdc",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "4a0aa5e0-9ffe-4696-b5f2-0cbc4f454bdc"
+  },
+  "currentNote": "Leetcode/3799.不同三位偶数的数目.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2045,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 41856,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 43901,
+    "percentage": 22
+  }
+}

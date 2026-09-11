@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "学习rust",
+      "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
+      "basename": "3799.不同三位偶数的数目",
+      "path": "Leetcode/3799.不同三位偶数的数目.md"
     },
     {
       "basename": "打扫一下厕所卫生然后在群里和几个兄弟讲一下",
@@ -15,10 +27,6 @@
     {
       "basename": "填一下困难申请表同时和老妈汇报",
       "path": "Templates/Homepage/填一下困难申请表同时和老妈汇报.md"
-    },
-    {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "学习深度学习",
@@ -99,10 +107,6 @@
     {
       "basename": "Daily_note_md",
       "path": "Templates/Daily_note_md.md"
-    },
-    {
-      "basename": "学习rust",
-      "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
     },
     {
       "basename": "嵌入式C造轮子",
@@ -195,10 +199,6 @@
     {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
-    },
-    {
-      "basename": "2848.特别的排列",
-      "path": "Leetcode/2848.特别的排列.md"
     }
   ],
   "omittedPaths": [],
