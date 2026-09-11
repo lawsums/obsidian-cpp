@@ -6,6 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 40.552699228791774,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -127,6 +128,26 @@
               "title": "学习深度学习"
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "44cfd57245f536ef",
+        "type": "tabs",
+        "dimension": 59.44730077120822,
+        "children": [
+          {
+            "id": "ff38ae09bdf119bc",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.bilibili.com/video/BV1w4411B7a4/"
+              },
+              "icon": "bilibili",
+              "title": "5_6-2.最简单的LED驱动程序_基于IMX6ULL - bilibili"
+            }
+          }
         ]
       }
     ],
@@ -246,7 +267,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -282,13 +304,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -326,7 +347,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -367,11 +389,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "ff38ae09bdf119bc",
   "lastOpenFiles": [
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/Homepage.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Leetcode/3799.不同三位偶数的数目.md",
     "Leetcode/3799.不同三位偶数的数目.cpp",
     "Dairies/2026-09-11.md",
