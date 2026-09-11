@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789137298033-npz65nlg1",
+  "providerId": "claude",
+  "title": "Organize SANY C++ written test programming problem",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789137298034,
+  "updatedAt": 1789137774761,
+  "lastResponseAt": 1789137774761,
+  "sessionId": "d8a987e1-66df-42be-9757-da3811323419",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "d8a987e1-66df-42be-9757-da3811323419"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 289,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 110976,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 111265,
+    "percentage": 56
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: embedded-exam-organizer
-description: 特化版笔试整理 skill。把嵌入式方向的笔试题/面试算法题整理到 100-学习/120-嵌入式/面试算法题/ 目录（题目在前、答案解析在后），并在 Templates/Tasks.md 的 Inbox 生成明天的复习任务（只写 ⏳ schedule，不写 📅 due）。当用户要求"把这几道题放到面试算法题目录""整理嵌入式笔试题""归档题目并提醒明天做"时使用。
+description: 特化版笔试整理 skill。把嵌入式方向的笔试题/面试算法题整理到 100-学习/120-嵌入式/面试算法题/ 目录（题目在前、答案解析在后），同时**自动生成配套的本地测试文件夹**（qN.cpp + 一键自动测试脚本，自动发现题目、逐用例比对），并在 Templates/Tasks.md 的 Inbox 生成明天的复习任务（只写 ⏳ schedule，不写 📅 due）。当用户要求"把这几道题放到面试算法题目录""整理嵌入式笔试题""归档题目并提醒明天做""给这些题建测试用例/自动测试"时使用。
 ---
 
 # Embedded Exam Organizer（嵌入式面试算法题整理）
@@ -44,6 +44,94 @@ description: 特化版笔试整理 skill。把嵌入式方向的笔试题/面试
 - 保持编号风格（`# 1`、`## 2.1`、`### 3.1.1`），新题目按顺序续号。
 - 顶部可加导航 callout：跳转"题目"与"答案解析"。
 
+## 生成配套测试文件夹（核心）
+
+每整理一份笔记，**同时**在笔记同级生成一个测试文件夹，方便日后"写一道、测一道"。
+
+- **目录**：`100-学习/120-嵌入式/面试算法题/<考试名>-测试/`
+  - `<考试名>` = 笔记文件名去掉 `笔试—` 前缀与 `.md` 后缀。
+  - 例：笔记 `笔试—三一智能驾驶软件笔试.md` → 文件夹 `三一智能驾驶软件笔试-测试/`
+  - 已存在的旧文件夹（如 `科大讯飞笔试-测试/`）保持不动，不重命名、不覆盖。
+- **模板来源**：本 skill 目录下 `templates/`（`run_tests.ps1`、`run_tests.bat`、`README.template.md`）。直接复制 `run_tests.ps1` / `run_tests.bat` 到测试文件夹，README 按模板填充占位符。
+
+### 测试文件夹结构（生成后）
+
+```
+<考试名>-测试/
+├── README.md              # 由 README.template.md 填充生成
+├── run_tests.bat          # 一键入口（Windows 双击 / 命令行）
+├── run_tests.ps1          # 测试脚本本体（自动发现题目 + 用例）
+├── q1.cpp                 # 空白答题模板（已自动建好，直接往里写）
+├── q2.cpp                 #   有几道题就建几个
+├── reference/             # 参考实现（笔记里的标准答案），用于自检环境
+│   ├── q1.cpp
+│   └── q2.cpp ...
+├── q1-<题名>/             # 题目1 用例
+│   ├── test1.in           # 输入（stdin）
+│   └── test1.out          # 期望输出（stdout）
+└── q2-<题名>/
+    ├── test1.in
+    └── test1.out
+```
+
+### 约定（生成时必须遵守）
+
+1. **题目目录**命名 `qN-<题名>`（题号从 1 起，`q1-`、`q2-`…），脚本按 `^q\d+` 自动发现并排序，**不写死题目数量**。
+2. **用例文件**：`testN.in` / `testN.out`，成对出现；`test1` 必须是笔记里的**样例输入/输出**，其余为边界用例（最小规模、单元素、全同值、无解、临界值等），每题尽量 3~7 条。
+3. **输入格式**：以笔记中给出的输入描述为准；若题干只给了函数原型（如 `int maximumBenefit(int[] weights)`），则**自行约定一个 stdin 格式并在 README 中写明**，例如"第一行 n，第二行 n 个整数"。`reference/qN.cpp` 必须严格按同一格式读入。
+4. **自动建好空白答题文件 `qN.cpp`（按题目数量 1:1 生成，不遗漏）**：
+   - 每题都在测试文件夹**根目录**生成一个 `qN.cpp`，题号与目录 `qN-<题名>` 对应。
+   - 内容是**可直接编译的脚手架**，不是空文件：头部注释写清「题名 / 对应笔记 / 输入格式 / 输出格式」，`main()` 里把**输入读取部分写好**（按第 3 条的格式），算法处留 `// TODO: 在这里实现`。
+   - 这样用户打开就能写，不必自己 new 文件、不必重抄输入解析。示例见下。
+   - **`reference/qN.cpp`**：另用笔记"答案解析"里的参考代码，包一层 `main` 读 stdin、写 stdout，作为标准答案与自检基线（**不要**用参考实现填充 `qN.cpp`）。
+   - 若 `qN.cpp` 已存在，**不覆盖**（用户可能已经写了）。
+
+**`qN.cpp` 脚手架模板**：
+
+```cpp
+// 题目N：<题名>
+// 笔记：[[<笔记名>]]
+//
+// 输入（stdin）：
+//   <输入格式说明>
+// 输出（stdout）：
+//   <输出说明>
+//
+// 👉 在 main() 里实现你的解法；写完后运行 run_tests.bat 自动判题。
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    // --- 读入（已按题目格式写好） ---
+    <读取代码>
+
+    // TODO: 在这里实现
+
+    return 0;
+}
+```
+5. **比对规则**：忽略空白差异，数字序列必须一致——由脚本负责，生成用例时不必强求空格/换行完全一致。
+6. **验证**：生成后运行 `run_tests.bat -Reference`，确认 `reference/qN.cpp` 全部 `PASS`；若有用例 FAIL，说明参考实现或用例有误，须修正后再交付。
+7. **文件编码（重要，踩过坑）**：复制/写入脚本时必须保证
+   - `run_tests.bat`：**纯 ASCII + CRLF 换行、不带 BOM**。cmd.exe 在 GBK 代码页下会把 UTF-8 中文注释和 LF 换行解析错乱，报 `'run_tests.bat' is not recognized`。
+   - `run_tests.ps1`：**UTF-8 带 BOM + CRLF**。Windows PowerShell 5.1 对无 BOM 文件按 ANSI 解码，中文提示会乱码。
+   - 用 Write 工具默认写出的是「UTF-8 无 BOM + LF」，**必须**再用 `[System.IO.File]::WriteAllText($path, $text, $enc)` 规范化（`$enc` 用 `New-Object System.Text.ASCIIEncoding` 或 `New-Object System.Text.UTF8Encoding($true)`）。
+   - `testN.in` / `testN.out` 用 ASCII 数字即可，避免编码问题。
+
+### 用户侧用法（写进 README）
+
+```bat
+run_tests.bat                :: 自动测试全部题目（每题自动找 qN.cpp）
+run_tests.bat -Problem q1    :: 只测题目1
+run_tests.bat -Reference     :: 用 reference\qN.cpp 自检测试环境
+run_tests.bat -List          :: 只列出发现了哪些题目
+```
+
+> **写一道测一道**：还没实现的 `qN.cpp`（脚手架原样、程序无任何输出）会显示 `TODO`，**不算失败**；只有真正写错的才显示 `FAIL`。
+
 ## 创建明天复习任务
 
 调用 / 遵循 **create-obsidian-task** skill（格式与写入流程以该 skill 为准），参数：
@@ -59,17 +147,23 @@ description: 特化版笔试整理 skill。把嵌入式方向的笔试题/面试
 
 1. **确定笔记路径**：按上面命名规则生成 `100-学习/120-嵌入式/面试算法题/笔试—<公司>嵌入式软件开发笔试.md`。优先用用户指定路径或 `<linked_note>`。
 2. **整理笔记**：写入"题目在前、答案解析在后"的结构，代码/示例完整。
-3. **创建任务**：在 `Templates/Tasks.md` 的 `# 1 Inbox` 顶部插入任务行（只写 `⏳`）。
-4. **校验并汇报**：确认任务行日期正确、wikilink 指向存在的笔记；用 wikilink 汇报新建/修改的文件。
+3. **生成测试文件夹**：按「生成配套测试文件夹」一节，创建 `<考试名>-测试/`，复制 `templates/run_tests.ps1`、`templates/run_tests.bat`，生成 `README.md`、**每题一份空白脚手架 `qN.cpp`**、`reference/qN.cpp` 与每题 `qN-<题名>/testN.in|out`。有 N 道题就建 N 个 `qN.cpp`，一个不漏。
+4. **自检**：在测试文件夹运行 `run_tests.bat -Reference`，确认参考实现全部 `PASS`；有 FAIL 则修正用例或参考代码。
+5. **创建任务**：在 `Templates/Tasks.md` 的 `# 1 Inbox` 顶部插入任务行（只写 `⏳`）。
+6. **校验并汇报**：确认任务行日期正确、wikilink 指向存在的笔记；用 wikilink 汇报新建/修改的文件，并提示测试文件夹的用法（`run_tests.bat` 一键测全部）。
 
 ## 示例
 
 用户："把科大讯飞这 3 道题整理到面试算法题目录，明天复习。"
 
 - 笔记：`100-学习/120-嵌入式/面试算法题/笔试—科大讯飞嵌入式软件开发笔试.md`
+- 测试文件夹：`100-学习/120-嵌入式/面试算法题/科大讯飞笔试-测试/`
+  含 `run_tests.ps1`、`q1-convolution/` 等用例、`reference/`，以及 **`q1.cpp` / `q2.cpp` / `q3.cpp` 三份空白脚手架**（用户直接开写）
 - Tasks：`# 1 Inbox` 顶部新增
   `- [ ] 完成 [[笔试—科大讯飞嵌入式软件开发笔试]] 3 道编程题 #study #algorithm #embedded ⏫ ➕ 2026-08-30 ⏳ 2026-08-31`
 
 ## 注意
 - 只动 `Templates/Tasks.md` 的 Inbox 区域，不改 `not done` 查询块与其他任务行。
 - 若用户指定了具体日期（"下周一""某日"），以用户指定为准；否则默认明天。
+- 测试文件夹**只新增、不删除**：若目录已存在，补全缺失的脚本/用例，保留用户已写的 `qN.cpp` 与已有用例。
+- 用户明确说"不用测试文件夹/只要笔记"时，跳过第 3~4 步。
