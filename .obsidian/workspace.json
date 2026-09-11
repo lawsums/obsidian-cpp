@@ -152,8 +152,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "27fba5b61b167920",
@@ -291,7 +290,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -327,13 +327,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "路线梳理 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -413,7 +413,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f694d4546176ff30",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/Homepage.md",
