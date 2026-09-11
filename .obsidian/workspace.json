@@ -6,6 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 37.98200514138818,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -151,6 +152,26 @@
               "title": "学习深度学习"
             }
           }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "27fba5b61b167920",
+        "type": "tabs",
+        "dimension": 62.01799485861182,
+        "children": [
+          {
+            "id": "c67c3021d1da7b11",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.bilibili.com/video/BV1w4411B7a4/"
+              },
+              "icon": "bilibili",
+              "title": "5_7-1.LED驱动程序框架 - bilibili"
+            }
+          }
         ]
       }
     ],
@@ -270,7 +291,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -306,13 +328,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "路线梳理 的大纲"
             }
           },
           {
@@ -350,7 +372,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -391,11 +414,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "f694d4546176ff30",
   "lastOpenFiles": [
-    "Templates/打扫一下厕所卫生然后在群里和几个兄弟讲一下.md",
-    "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/打扫一下厕所卫生然后在群里和几个兄弟讲一下.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Leetcode/3799.不同三位偶数的数目.md",
     "Leetcode/3799.不同三位偶数的数目.cpp",

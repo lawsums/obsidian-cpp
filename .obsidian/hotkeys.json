@@ -161,14 +161,6 @@
       "key": "V"
     }
   ],
-  "editor:toggle-source": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "J"
-    }
-  ],
   "insert-template": [
     {
       "modifiers": [
@@ -201,14 +193,7 @@
       "key": "B"
     }
   ],
-  "markdown:toggle-preview": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "L"
-    }
-  ],
+  "markdown:toggle-preview": [],
   "obsidian-excalidraw-plugin:insert-LaTeX-symbol": [
     {
       "modifiers": [
@@ -403,5 +388,37 @@
       "key": "F"
     }
   ],
-  "obsidian-markdown-formatting-assistant-plugin:open-command-selector": []
+  "obsidian-markdown-formatting-assistant-plugin:open-command-selector": [],
+  "media-extended:forward-10s": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "L"
+    }
+  ],
+  "media-extended:rewind-10s": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "H"
+    }
+  ],
+  "media-extended:decrease-speed": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "J"
+    }
+  ],
+  "media-extended:increase-speed": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "K"
+    }
+  ]
 }
