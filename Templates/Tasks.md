@@ -95,7 +95,8 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-09
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-10
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-09 ✅ 2026-09-10
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-08 ✅ 2026-09-08
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-07 ✅ 2026-09-08
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-06 ✅ 2026-09-07
@@ -673,7 +674,7 @@ sort by description
 - [x] 学习一大节韦东山的课 #学习 #韦东山 🔺 ➕ 2026-08-31 🛫 2026-08-31 ⏳ 2026-09-01 ✅ 2026-09-01 ^task-20260831-beeb55f0
 - [x] 整理TCP编程中signal的作用 #network #concurrency #tcp #signal ⏫ ➕ 2026-09-01 🛫 2026-09-01 ⏳ 2026-09-06 ✅ 2026-09-07 ^task-20260901-fec0a765
 - [x] 迁移 Espressif 到 H 盘 #task 🔺 ➕ 2026-09-01 🛫 2026-09-01 ⏳ 2026-09-02 ✅ 2026-09-02 ^task-20260901-4ff6bfe5
-- [ ] 做[实验室安全教育](https://mp.weixin.qq.com/s/Xw-EvGx4BjFonSNB4B3hMQ) #task 🔺 ➕ 2026-09-01 🛫 2026-09-01 ⏳ 2026-09-10 ^task-20260901-b3eb1605
+- [ ] 做[实验室安全教育](https://mp.weixin.qq.com/s/Xw-EvGx4BjFonSNB4B3hMQ) #task 🔺 ➕ 2026-09-01 🛫 2026-09-01 ⏳ 2026-09-11 ^task-20260901-b3eb1605
 - [ ] 看一下中科大的linux实习 #linux #实习 #中科大 ⏫ 🛫 2026-09-01 ⏳ 2026-09-01 ➕ 2026-09-01 ^task-20260901-29c0b3eb
 - [x] 洗澡 #task ⏫ ➕ 2026-09-01 🛫 2026-09-01 ⏳ 2026-09-02 ✅ 2026-09-02 ^task-20260901-268eac9d
 - [x] 回小姐消息 #task 🔺 ➕ 2026-09-02 ⏳ 2026-09-02 ✅ 2026-09-02 ^task-20260902-a8a5239
@@ -732,6 +733,7 @@ sort by description
 - [ ] 早上洗澡 #task 🔺 🛫 2026-09-09 ➕ 2026-09-09 ^task-20260909-b18da7d1
 - [x] 早上洗澡 #task 🔺 ➕ 2026-09-09 🛫 2026-09-09 ⏳ 2026-09-10 ✅ 2026-09-10 ^task-20260909-1327395a
 - [x] 十点的时候发一下消息 #task 🔺 ➕ 2026-09-10 🛫 2026-09-10 ⏳ 2026-09-10 ✅ 2026-09-10 ^task-20260910-ceb87a53
-- [ ] [[填一下困难申请表同时和老妈汇报]] #行政 #申请 🔺 ➕ 2026-09-10 🛫 2026-09-10 ⏳ 2026-09-10 ^task-20260910-ad259c1
+- [ ] [[填一下困难申请表同时和老妈汇报]] #行政 #申请 🔺 ➕ 2026-09-10 🛫 2026-09-10 ⏳ 2026-09-11 ^task-20260910-ad259c1
 - [ ] 买一下无线鼠标和键盘 #购物 🔺 🛫 2026-09-10 ⏳ 2026-09-12 ➕ 2026-09-10 ^task-20260910-5f3cde28
 - [ ] 下载一下sly发的图像处理 #task ⏫ 🛫 2026-09-10 ⏳ 2026-09-11 ➕ 2026-09-10 ^task-20260910-1f98fa71
+- [ ] [[打扫一下厕所卫生然后在群里和几个兄弟讲一下]] #家务 ⏫ ➕ 2026-09-10 🛫 2026-09-10 ⏳ 2026-09-11 ^task-20260910-425d8464
