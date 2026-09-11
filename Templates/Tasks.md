@@ -704,7 +704,8 @@ sort by description
 - [x] 买牙膏 #task ⏫ ➕ 2026-09-05 ⏳ 2026-09-06 ✅ 2026-09-06 ^task-20260905-268d8441
 - [x] 按照deepseek说的破除虚无主义 #哲学 #虚无主义 🔺 ➕ 2026-09-06 🛫 2026-09-06 ⏳ 2026-09-09 ✅ 2026-09-10 ^task-20260906-9ef72adc
 - [x] 中午去找周老师 #meeting #teacher 🔺 ➕ 2026-09-06 🛫 2026-09-08 ⏳ 2026-09-08 ✅ 2026-09-08 ^task-20260906-7f0541e0
-- [ ] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-08 ⏳ 2026-09-10
+- [ ] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-09 ⏳ 2026-09-11
+- [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-08 ⏳ 2026-09-10 ✅ 2026-09-11
 - [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-07 ⏳ 2026-09-09 ✅ 2026-09-10
 - [x] 每天通过非虚无方式学习Linux #linux #daily 🔺 🔁 every day ➕ 2026-09-06 🛫 2026-09-06 ⏳ 2026-09-06 ✅ 2026-09-06 ^task-20260906-8ec80965
 - [x] 做epoll和poll查看设备操作驱动的实验 #linux #驱动开发 #epoll #poll ⏫ ➕ 2026-09-06 🛫 2026-09-06 ⏳ 2026-09-07 ✅ 2026-09-08 ^task-20260906-7d7f2986
@@ -722,7 +723,7 @@ sort by description
 - [x] 拿快递 #task ⏫ ➕ 2026-09-08 🛫 2026-09-08 ⏳ 2026-09-08 ✅ 2026-09-08 ^task-20260908-6479679f
 - [x] 找一下老师说的顶刊发给xzf #task 🔺 ➕ 2026-09-08 ⏳ 2026-09-08 ✅ 2026-09-08 ^task-20260908-62a8383e
 - [x] 找一下老师说的顶会发给xzf #任务 🔺 ➕ 2026-09-08 🛫 2026-09-08 ⏳ 2026-09-08 ✅ 2026-09-08 ^task-20260908-b2e172a
-- [ ] [[帮老师干活]] #task 🔺 ➕ 2026-09-08 ⏳ 2026-09-10 ^task-20260908-8cdd3566
+- [ ] [[帮老师干活]] #task 🔺 ➕ 2026-09-08 ⏳ 2026-09-12 ^task-20260908-8cdd3566
 - [x] 研究一下[[研究生手册]] #study #graduate 🔺 ➕ 2026-09-08 🛫 2026-09-08 ⏳ 2026-09-09 ✅ 2026-09-09 ^task-20260908-10ab032f
 - [x] 打印照片，然后填一下宿员表 #task 🔺 ➕ 2026-09-08 🛫 2026-09-08 ⏳ 2026-09-08 ✅ 2026-09-08 ^task-20260908-86196cb0
 - [x] 明天买点洗衣粉/洗衣液 #购物 🔺 ➕ 2026-09-08 🛫 2026-09-09 ⏳ 2026-09-11 ✅ 2026-09-11 ^task-20260908-79538577
