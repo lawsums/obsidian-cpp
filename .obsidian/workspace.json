@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -307,13 +306,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/打扫一下厕所卫生然后在群里和几个兄弟讲一下.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "打扫一下厕所卫生然后在群里和几个兄弟讲一下 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -392,15 +391,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "31c123bbc9a5ba33",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/打扫一下厕所卫生然后在群里和几个兄弟讲一下.md",
     "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Leetcode/3799.不同三位偶数的数目.md",
     "Leetcode/3799.不同三位偶数的数目.cpp",
     "Dairies/2026-09-11.md",
-    "Templates/打扫一下厕所卫生然后在群里和几个兄弟讲一下.md",
     "Templates/Tasks.md",
     "Templates/Homepage/填一下困难申请表同时和老妈汇报.md",
     "Attachments/Pasted image 20260910110829.png",
