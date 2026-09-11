@@ -328,13 +328,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "路线梳理 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -414,7 +413,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f694d4546176ff30",
+  "active": "c67c3021d1da7b11",
   "lastOpenFiles": [
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/Homepage.md",
