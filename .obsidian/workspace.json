@@ -169,7 +169,7 @@
                 "source": "https://www.bilibili.com/video/BV1w4411B7a4/"
               },
               "icon": "bilibili",
-              "title": "5_7-1.LED驱动程序框架 - bilibili"
+              "title": "5_8-1.百问网IMX6ULL的LED驱动程序 - bilibili"
             }
           }
         ]
@@ -291,8 +291,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -328,12 +327,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "路线梳理 的大纲"
             }
           },
           {
@@ -413,7 +413,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "c67c3021d1da7b11",
+  "active": "f694d4546176ff30",
   "lastOpenFiles": [
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/Homepage.md",
