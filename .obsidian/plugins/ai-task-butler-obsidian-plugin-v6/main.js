@@ -108,10 +108,9 @@ module.exports = class AiTaskButlerPlugin extends Plugin {
       TASK_BUTLER_NAVIGATION_VIEW_TYPE,
       (leaf) => new TaskButlerNavigationView(leaf, this)
     );
-    this.registerEvent(this.app.vault.on("modify", () => this.requestTaskNavigationRefresh()));
-    this.registerEvent(this.app.vault.on("create", () => this.requestTaskNavigationRefresh()));
-    this.registerEvent(this.app.vault.on("delete", () => this.requestTaskNavigationRefresh()));
-    this.registerEvent(this.app.vault.on("rename", () => this.requestTaskNavigationRefresh()));
+    // 不再监听 vault 的 modify/create/delete/rename —— 写普通笔记不会触发导航栏刷新。
+    // 刷新只发生在明确的时间点，见 setupTasksCommandHook 的注释。
+    this.setupTasksCommandHook();
 
     this.addCommand({
       id: "open-task-butler-navigation",
@@ -168,6 +167,7 @@ module.exports = class AiTaskButlerPlugin extends Plugin {
   }
 
   async onunload() {
+    this.teardownTasksCommandHook();
     this.app.workspace.detachLeavesOfType(TASK_BUTLER_NAVIGATION_VIEW_TYPE);
   }
 
@@ -186,7 +186,36 @@ module.exports = class AiTaskButlerPlugin extends Plugin {
       for (const leaf of this.app.workspace.getLeavesOfType(TASK_BUTLER_NAVIGATION_VIEW_TYPE)) {
         leaf.view?.refresh?.();
       }
-    }, 200);
+    }, 100);
+  }
+
+  // 导航栏只在明确的时间点刷新（不再监听 vault 的每次 modify）：
+  //  1. 调用 Tasks 插件命令时（Create or edit task / toggle done 等，见下方挂钩）
+  //  2. 勾选任务完成时（updateTask 内部调用 requestTaskNavigationRefresh）
+  //  3. 推迟任务时（rescheduleTask / shiftScheduledDate 都走 updateTask）
+  //  4. 切换（聚焦）到 Task Butler 侧边栏时（见 TaskButlerNavigationView 构造器）
+  //  5. 点击 "刷新" / "新增" 按钮时（见 TaskButlerNavigationView.render）
+  // 这样在普通笔记里写一整天字也不会刷新导航栏。
+  setupTasksCommandHook() {
+    const commands = this.app.commands;
+    if (!commands || typeof commands.executeCommandById !== "function") return;
+    const originalExecute = commands.executeCommandById.bind(commands);
+    this.originalExecuteCommandById = originalExecute;
+    commands.executeCommandById = (commandId) => {
+      const result = originalExecute(commandId);
+      if (typeof commandId === "string" && /^(obsidian-tasks-plugin|tasks):/.test(commandId)) {
+        this.requestTaskNavigationRefresh();
+      }
+      return result;
+    };
+  }
+
+  teardownTasksCommandHook() {
+    const commands = this.app?.commands;
+    if (commands && this.originalExecuteCommandById) {
+      commands.executeCommandById = this.originalExecuteCommandById;
+      this.originalExecuteCommandById = null;
+    }
   }
 
   async listTasksInDateRange(startDate, endDate) {
@@ -371,6 +400,7 @@ module.exports = class AiTaskButlerPlugin extends Plugin {
 
     await this.app.vault.modify(file, next);
     new Notice(`Task captured: ${draft.title}`);
+    this.requestTaskNavigationRefresh();
 
     if (this.settings.openInboxAfterCapture) {
       await this.app.workspace.getLeaf(false).openFile(file);
@@ -388,6 +418,13 @@ class TaskButlerNavigationView extends ItemView {
     this.endDate = today;
     this.showCompleted = false;
     this.refreshTimer = null;
+    // 触发点 4：切换（聚焦）到本侧边栏时刷新一次。
+    // 覆盖 "在别的笔记 / Tasks 编辑面板里改完任务，再点回侧边栏想看最新" 的场景。
+    this.registerEvent(
+      this.app.workspace.on("active-leaf-change", (activeLeaf) => {
+        if (activeLeaf === this.leaf) this.refresh();
+      })
+    );
   }
 
   getViewType() {
@@ -442,7 +479,11 @@ class TaskButlerNavigationView extends ItemView {
     header.createEl("h4", { text: "Task Butler" });
     const actions = header.createDiv({ cls: "ai-task-butler-navigation-actions" });
     const captureButton = actions.createEl("button", { text: "新增", attr: { "aria-label": "新增任务" } });
-    captureButton.addEventListener("click", () => new CaptureTaskModal(this.app, this.plugin).open());
+    captureButton.addEventListener("click", () => {
+      // 触发点 5：点 "新增" 时先刷新一遍，再弹采集窗口。
+      this.refresh();
+      new CaptureTaskModal(this.app, this.plugin).open();
+    });
     const refreshButton = actions.createEl("button", { text: "刷新", attr: { "aria-label": "刷新任务" } });
     refreshButton.addEventListener("click", () => this.refresh());
 
@@ -478,13 +519,16 @@ class TaskButlerNavigationView extends ItemView {
       this.showCompleted = completedToggle.checked;
       this.refresh();
     });
-    completedLabel.appendText("显示已完成");
+    completedLabel.appendText("仅显示已完成");
 
     const list = contentEl.createDiv({ cls: "ai-task-butler-task-list" });
     const loading = list.createDiv({ cls: "ai-task-butler-empty", text: "正在读取任务..." });
     try {
       const allTasks = await this.plugin.listTasksInDateRange(this.startDate, this.endDate);
-      const tasks = this.showCompleted ? allTasks : allTasks.filter((task) => !task.completed);
+      // showCompleted 是"只显示已完成"的开关（不是"同时显示已完成与未完成"）：
+      //  - 关闭（默认）：只显示未完成，避免误勾的与待办混在一起；
+      //  - 开启：只显示已完成的，方便在选定日期范围内一键定位误勾的任务并撤回。
+      const tasks = allTasks.filter((task) => (this.showCompleted ? task.completed : !task.completed));
       if (!list.isConnected) return;
       loading.remove();
       contentEl.querySelector(".ai-task-butler-task-count")?.remove();
@@ -493,7 +537,9 @@ class TaskButlerNavigationView extends ItemView {
       if (tasks.length === 0) {
         list.createDiv({
           cls: "ai-task-butler-empty",
-          text: "这个日期范围内没有匹配的任务。"
+          text: this.showCompleted
+            ? "这个日期范围内没有已完成的任务。"
+            : "这个日期范围内没有未完成的任务。"
         });
         return;
       }
