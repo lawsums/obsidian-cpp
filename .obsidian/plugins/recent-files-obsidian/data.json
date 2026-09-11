@@ -5,12 +5,20 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+      "basename": "填一下困难申请表同时和老妈汇报",
+      "path": "Templates/Homepage/填一下困难申请表同时和老妈汇报.md"
     },
     {
       "basename": "打扫一下厕所卫生然后在群里和几个兄弟讲一下",
       "path": "Templates/打扫一下厕所卫生然后在群里和几个兄弟讲一下.md"
+    },
+    {
+      "basename": "慢跑1000米",
+      "path": "Templates/Homepage/慢跑1000米.md"
+    },
+    {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "学习rust",
@@ -23,10 +31,6 @@
     {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
-    },
-    {
-      "basename": "填一下困难申请表同时和老妈汇报",
-      "path": "Templates/Homepage/填一下困难申请表同时和老妈汇报.md"
     },
     {
       "basename": "学习深度学习",
@@ -91,10 +95,6 @@
     {
       "basename": "帮老师干活",
       "path": "Templates/Homepage/帮老师干活.md"
-    },
-    {
-      "basename": "慢跑1000米",
-      "path": "Templates/Homepage/慢跑1000米.md"
     },
     {
       "basename": "实现自己的数据结构",
