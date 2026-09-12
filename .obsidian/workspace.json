@@ -321,7 +321,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -366,7 +367,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "100-学习/120-嵌入式/面试算法题/三一智能驾驶软件笔试-测试/_tmpl.ps1",
     "100-学习/120-嵌入式/面试算法题/三一智能驾驶软件笔试-测试/README.md.tmp.5144.dde9792aa320",
