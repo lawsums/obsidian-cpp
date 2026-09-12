@@ -6,6 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 32.77479892761394,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -127,6 +128,26 @@
               "title": "学习深度学习"
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "b93dde5a509f4a81",
+        "type": "tabs",
+        "dimension": 67.22520107238606,
+        "children": [
+          {
+            "id": "085bd00efa65218a",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.bilibili.com/video/BV1w4411B7a4/?p=88"
+              },
+              "icon": "bilibili",
+              "title": "5_8-1.百问网IMX6ULL的LED驱动程序 - bilibili"
+            }
+          }
         ]
       }
     ],
@@ -246,7 +267,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -282,13 +304,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -326,7 +347,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -367,10 +389,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "085bd00efa65218a",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Daily_note_template.md",
     "100-学习/120-嵌入式/面试算法题/三一智能驾驶软件笔试-测试/_tmpl.ps1",
