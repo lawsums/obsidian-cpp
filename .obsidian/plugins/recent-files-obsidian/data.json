@@ -9,6 +9,10 @@
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
       "basename": "填一下困难申请表同时和老妈汇报",
       "path": "Templates/Homepage/填一下困难申请表同时和老妈汇报.md"
     },
@@ -99,10 +103,6 @@
     {
       "basename": "实现自己的数据结构",
       "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "Daily_note_md",
