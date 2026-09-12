@@ -145,7 +145,7 @@
                 "source": "https://www.bilibili.com/video/BV1w4411B7a4/?p=88"
               },
               "icon": "bilibili",
-              "title": "5_9-1.驱动设计的思想_面向对象_分层_分离 - bilibili"
+              "title": "5_10-1.驱动进化之路_总线设备驱动模型 - bilibili"
             }
           }
         ]
@@ -392,6 +392,7 @@
   "active": "085bd00efa65218a",
   "lastOpenFiles": [
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "100-学习/120-嵌入式/linux路线.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Daily_note_template.md",
@@ -429,7 +430,6 @@
     "Templates/Homepage/002_稍后再看.md",
     "Templates/学习LVGL.md",
     "Templates/Homepage/学习Linux_公司.md",
-    "Templates/Homepage/学习Linux.md",
     "Attachments/Pasted image 20260909161553.png",
     "Leetcode/images/2461_image-20220625231812-2.png",
     "Leetcode/images/2461_image-20220625231744-1.png",

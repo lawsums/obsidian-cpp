@@ -5,6 +5,10 @@
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
+      "basename": "linux路线",
+      "path": "100-学习/120-嵌入式/linux路线.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -123,10 +127,6 @@
     {
       "basename": "收拾开学用的东西",
       "path": "Templates/Homepage/收拾开学用的东西.md"
-    },
-    {
-      "basename": "linux路线",
-      "path": "100-学习/120-嵌入式/linux路线.md"
     },
     {
       "basename": "未命名",
