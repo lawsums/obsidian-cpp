@@ -9,6 +9,10 @@
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
+      "basename": "用ai产出创意内容",
+      "path": "Templates/Homepage/用ai产出创意内容.md"
+    },
+    {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
     },
@@ -111,10 +115,6 @@
     {
       "basename": "嵌入式C造轮子",
       "path": "Templates/Homepage/嵌入式C造轮子.md"
-    },
-    {
-      "basename": "用ai产出创意内容",
-      "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
       "basename": "队列板子",
