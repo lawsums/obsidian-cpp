@@ -10,7 +10,7 @@ sort by description
 ```
 
 # 1 Inbox
-- [ ] 完成 [[笔试—三一智能驾驶软件笔试]] 1 道编程题 #study #algorithm #embedded ⏫ ➕ 2026-09-11 ⏳ 2026-09-12
+- [x] 完成 [[笔试—三一智能驾驶软件笔试]] 1 道编程题 #study #algorithm #embedded ⏫ ➕ 2026-09-11 ⏳ 2026-09-12 ✅ 2026-09-12
 - [x] 完成 [[笔试—文远知行嵌入式软件笔试]] 3 道编程题 #study #algorithm #embedded ⏫ ➕ 2026-09-02 ⏳ 2026-09-04 ✅ 2026-09-04
 - [x] 完成 [[笔试—中兴软件开发笔试]] 2 道编程题 #study #algorithm #embedded ⏫ ➕ 2026-09-02 ⏳ 2026-09-03 ✅ 2026-09-03
 - [x] 完成 [[笔试—科大讯飞嵌入式软件开发笔试]] 1 道编程题 #study #algorithm #embedded ⏫ ➕ 2026-08-30 ⏳ 2026-09-01 ✅ 2026-09-01
@@ -96,7 +96,7 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-12
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-12
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-11 ✅ 2026-09-11
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-10 ✅ 2026-09-11
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-09 ✅ 2026-09-10
