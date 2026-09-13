@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "路线梳理",
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "led驱动改动",
+      "path": "300-项目/嵌入式/韦东山课程/led驱动改动.md"
     },
     {
       "basename": "Tasks",
@@ -195,10 +199,6 @@
     {
       "basename": "关闭GUI",
       "path": "300-项目/嵌入式/韦东山课程/关闭GUI.md"
-    },
-    {
-      "basename": "创建面试题模板_插件",
-      "path": "Templates/Homepage/创建面试题模板_插件.md"
     }
   ],
   "omittedPaths": [],
