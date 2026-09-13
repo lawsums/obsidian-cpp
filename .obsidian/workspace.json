@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8fa3bde95b82293",
+            "id": "02cf3355b19cfce8",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
+            }
+          },
+          {
+            "id": "a8fa3bde95b82293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/160-论文/综述-Diffusion-Models-in-Low-Level-Vision-A-Survey.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "综述-Diffusion-Models-in-Low-Level-Vision-A-Survey"
             }
           },
           {
@@ -113,7 +137,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -232,7 +257,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -268,13 +294,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "100-学习/160-论文/综述-Diffusion-Models-in-Low-Level-Vision-A-Survey.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "综述-Diffusion-Models-in-Low-Level-Vision-A-Survey 的大纲"
             }
           },
           {
@@ -312,7 +338,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -355,8 +382,9 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Templates/Homepage/Homepage.md",
+    "100-学习/160-论文/综述-Diffusion-Models-in-Low-Level-Vision-A-Survey.md",
+    "100-学习/110-计算机/语言/Rust/学习rust.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Configs/onetab/安装自动记录.bat",
     "Configs/onetab/SoftOneTab.ps1",
