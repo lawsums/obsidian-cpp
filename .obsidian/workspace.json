@@ -6,6 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 37.86863270777479,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -29,6 +30,30 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
+            }
+          },
+          {
+            "id": "c2d04d1dec6f5e8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
             }
           },
           {
@@ -104,54 +129,6 @@
             }
           },
           {
-            "id": "02c335c035ea2a8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/算法路线图.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "算法路线图"
-            }
-          },
-          {
-            "id": "80cff0b081da6c7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习C++"
-            }
-          },
-          {
             "id": "ffffe9398e10819f",
             "type": "leaf",
             "state": {
@@ -176,7 +153,26 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
+      },
+      {
+        "id": "7fdea5f5ffeda06e",
+        "type": "tabs",
+        "dimension": 62.13136729222521,
+        "children": [
+          {
+            "id": "e4ac1417c3ac2b66",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.bilibili.com/video/BV1w4411B7a4/"
+              },
+              "icon": "bilibili",
+              "title": "5_11-1.LED模板驱动程序的改造_总线设备驱动模型 - bilibili"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -295,7 +291,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -331,13 +328,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/120-嵌入式/面试八股文/八股文.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "八股文 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -375,7 +371,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -416,17 +413,19 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "35767b9fc9a88122",
+  "active": "e4ac1417c3ac2b66",
   "lastOpenFiles": [
-    "100-学习/120-嵌入式/通信协议.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Tasks.md",
+    "100-学习/120-嵌入式/面试八股文/八股文.md",
+    "100-学习/120-嵌入式/通信协议.md",
     "100-学习/160-论文/综述-Diffusion-Models-in-Low-Level-Vision-A-Survey.md",
     "Attachments/Pasted image 20260913190538.png",
     "Attachments/Pasted image 20260913165815.png",
     "Attachments/Pasted image 20260913165734.png",
     "Attachments/Pasted image 20260913165313.png",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Configs/onetab/安装自动记录.bat",
     "Configs/onetab/SoftOneTab.ps1",
     "Configs/onetab/README-SoftOneTab.md",
@@ -449,7 +448,6 @@
     "Templates/Homepage/慢跑1000米.md",
     "Leetcode/3799.不同三位偶数的数目.md",
     "Dairies/2026-09-11.md",
-    "Templates/Tasks.md",
     "Attachments/Pasted image 20260910110829.png",
     "Attachments/Pasted image 20260910110534.png",
     "Templates/Homepage/学习深度学习.md",
@@ -460,7 +458,6 @@
     "Temp/研一课程.md",
     "Temp/中国特色社会主义理论与实践研究.md",
     "Temp/计算机视觉.md",
-    "Temp/大数据.md",
     "Attachments/Pasted image 20260909161553.png",
     "Leetcode/images/2461_image-20220625231812-2.png",
     "Leetcode/images/2461_image-20220625231744-1.png",
