@@ -132,3 +132,6 @@
 # 5 未来研究方向DMs的局限性
 
 # 6 Conclusion
+
+# 7 别的论文
+H. Manukyan, A. Sargsyan, B. Atanyan, Z. Wang, S. Navasardyan, and H. Shi, “Hd-painter: High-resolution and prompt-faithful text guided image inpainting with diffusion models,” arXiv preprint arXiv: 2312.14091, 2023.
