@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "35767b9fc9a88122",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/120-嵌入式/面试八股文/八股文.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "八股文"
+            }
+          },
+          {
             "id": "d6c4d7746faf0482",
             "type": "leaf",
             "state": {
@@ -307,13 +331,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/160-论文/综述-Diffusion-Models-in-Low-Level-Vision-A-Survey.md",
+                "file": "100-学习/120-嵌入式/面试八股文/八股文.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "综述-Diffusion-Models-in-Low-Level-Vision-A-Survey 的大纲"
+              "title": "八股文 的大纲"
             }
           },
           {
@@ -392,14 +416,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d6c4d7746faf0482",
+  "active": "35767b9fc9a88122",
   "lastOpenFiles": [
+    "100-学习/120-嵌入式/通信协议.md",
     "Templates/Homepage/Homepage.md",
+    "100-学习/160-论文/综述-Diffusion-Models-in-Low-Level-Vision-A-Survey.md",
     "Attachments/Pasted image 20260913190538.png",
     "Attachments/Pasted image 20260913165815.png",
     "Attachments/Pasted image 20260913165734.png",
     "Attachments/Pasted image 20260913165313.png",
-    "100-学习/160-论文/综述-Diffusion-Models-in-Low-Level-Vision-A-Survey.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Configs/onetab/安装自动记录.bat",
