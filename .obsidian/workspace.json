@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "a534be5fbb37fe33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/110-计算机/语言/Rust/学习rust.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习rust"
+            }
+          },
+          {
             "id": "846221d22e0db41f",
             "type": "leaf",
             "state": {
@@ -66,54 +90,6 @@
             }
           },
           {
-            "id": "02c335c035ea2a8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/算法路线图.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "算法路线图"
-            }
-          },
-          {
-            "id": "80cff0b081da6c7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习C++"
-            }
-          },
-          {
             "id": "ffffe9398e10819f",
             "type": "leaf",
             "state": {
@@ -137,7 +113,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "100-学习/110-计算机/语言/Rust/学习rust.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习rust 的大纲"
             }
           },
           {
@@ -377,8 +354,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "a534be5fbb37fe33",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Configs/onetab/安装自动记录.bat",
     "Configs/onetab/SoftOneTab.ps1",
     "Configs/onetab/README-SoftOneTab.md",
@@ -390,13 +369,10 @@
     "Configs/onetab/保存当前页面.bat",
     "Configs/onetab",
     "Configs/新建文件夹",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-09-13.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "100-学习/120-嵌入式/linux路线.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Daily_note_template.md",
-    "100-学习/120-嵌入式/面试算法题/三一智能驾驶软件笔试-测试/_tmpl.ps1",
     "100-学习/120-嵌入式/面试算法题/三一智能驾驶软件笔试-测试/README.md",
     "100-学习/120-嵌入式/面试算法题/笔试—三一智能驾驶软件笔试.md",
     "Templates/Homepage/填一下困难申请表同时和老妈汇报.md",
