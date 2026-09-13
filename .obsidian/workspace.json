@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "846221d22e0db41f",
+            "type": "leaf",
+            "state": {
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
+            }
+          },
+          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -127,7 +137,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,13 +293,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -367,12 +377,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "846221d22e0db41f",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Dairies/2026-09-13.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "100-学习/120-嵌入式/linux路线.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/用ai产出创意内容.md",
     "Templates/Daily_note_template.md",
     "100-学习/120-嵌入式/面试算法题/三一智能驾驶软件笔试-测试/_tmpl.ps1",
