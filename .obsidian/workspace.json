@@ -322,7 +322,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -367,8 +367,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "b1c03b8e6e757e62",
   "lastOpenFiles": [
+    "Dairies/2026-09-14.md",
     "300-项目/嵌入式/韦东山课程/led驱动改动.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/Homepage.md",
@@ -411,7 +412,6 @@
     "Temp/随机过程.md",
     "Temp/最优化方法.md",
     "Temp/研一课程.md",
-    "Temp/中国特色社会主义理论与实践研究.md",
     "Attachments/Pasted image 20260909161553.png",
     "Leetcode/images/2461_image-20220625231812-2.png",
     "Leetcode/images/2461_image-20220625231744-1.png",
