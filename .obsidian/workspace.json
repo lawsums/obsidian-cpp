@@ -176,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -295,8 +295,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -332,13 +331,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/110-计算机/语言/Rust/学习rust.md",
+                "file": "100-学习/190-Anki/Linux系统编程.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习rust 的大纲"
+              "title": "Linux系统编程 的大纲"
             }
           },
           {
@@ -376,8 +375,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -419,9 +417,10 @@
       "anki-interview-helper:新建面试题卡片": false
     }
   },
-  "active": "1385e12858ee381b",
+  "active": "0f8dbec66a0338bc",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
+    "100-学习/110-计算机/语言/Rust/学习rust.md",
     "100-学习/190-Anki/Linux系统编程.md",
     "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "100-学习/190-Anki",
@@ -442,7 +441,6 @@
     "Attachments/Pasted image 20260913165815.png",
     "Attachments/Pasted image 20260913165734.png",
     "Attachments/Pasted image 20260913165313.png",
-    "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Configs/onetab/安装自动记录.bat",
     "Configs/onetab/SoftOneTab.ps1",
     "Configs/onetab/README-SoftOneTab.md",
