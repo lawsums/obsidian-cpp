@@ -267,7 +267,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -303,13 +304,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "路线梳理 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -347,7 +347,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -388,9 +389,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f694d4546176ff30",
+  "active": "ac4da120d8ae2427",
   "lastOpenFiles": [
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "300-项目/嵌入式/韦东山课程/dtb转换过程.md",
+    "Attachments/Pasted image 20260914100308.png",
     "Attachments/Pasted image 20260914090311.png",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-09-14.md",
@@ -434,7 +437,6 @@
     "Temp/随机过程.md",
     "Temp/最优化方法.md",
     "Attachments/Pasted image 20260909161553.png",
-    "Leetcode/images/2461_image-20220625231812-2.png",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
