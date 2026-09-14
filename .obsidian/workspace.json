@@ -127,6 +127,25 @@
               "title": "学习深度学习"
             }
           }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "135fd2968be8ccee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ac4da120d8ae2427",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.bilibili.com/video/BV1w4411B7a4/"
+              },
+              "icon": "bilibili",
+              "title": "【韦东山】韦东山手把手教你嵌入式Linux快速入门到精通 | Linux应用驱动开发基于I.MX6ULL Pro - bilibili"
+            }
+          }
         ]
       }
     ],
@@ -246,7 +265,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -282,13 +302,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "路线梳理 的大纲"
             }
           },
           {
@@ -326,7 +346,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -367,12 +388,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "b1c03b8e6e757e62",
+  "active": "f694d4546176ff30",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Dairies/2026-09-14.md",
     "300-项目/嵌入式/韦东山课程/led驱动改动.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Tasks.md",
     "100-学习/120-嵌入式/面试八股文/八股文.md",
     "100-学习/120-嵌入式/通信协议.md",
