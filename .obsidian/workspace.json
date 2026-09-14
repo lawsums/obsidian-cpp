@@ -56,12 +56,12 @@
             }
           },
           {
-            "id": "02c335c035ea2a8d",
+            "id": "807bf6180def12f6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/算法路线图.md",
+                "file": "100-学习/120-嵌入式/面试八股文/Linux驱动.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,31 +76,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "算法路线图"
+              "title": "Linux驱动"
             }
           },
           {
-            "id": "80cff0b081da6c7b",
+            "id": "33fcecf121054207",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习C++.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习C++"
+              "type": "obsidian-projects",
+              "state": {},
+              "icon": "projects-icon",
+              "title": "Projects"
             }
           },
           {
@@ -127,7 +113,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -282,13 +269,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习深度学习.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习深度学习 的大纲"
             }
           },
           {
@@ -321,8 +308,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -368,16 +354,19 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "ffffe9398e10819f",
   "lastOpenFiles": [
-    "100-学习/190-Anki/Linux系统编程.md",
+    "Templates/Homepage/学习C++.md",
     "100-学习/120-嵌入式/面试八股文/Linux驱动.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "100-学习/190-Anki/Linux系统编程.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Tasks.md",
+    "Leetcode/算法路线图.md",
     "Projects/anime/恶女不才，请多关照 ～雏宫蝶鼠换身传～.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "100-学习/190-Anki",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Attachments/Pasted image 20260914105914.png",
     "300-项目/嵌入式/韦东山课程/dtb转换过程.md",
     "Attachments/Pasted image 20260914104720.png",
@@ -386,7 +375,6 @@
     "Attachments/Pasted image 20260914090311.png",
     "Dairies/2026-09-14.md",
     "300-项目/嵌入式/韦东山课程/led驱动改动.md",
-    "Templates/Tasks.md",
     "100-学习/120-嵌入式/面试八股文/八股文.md",
     "100-学习/120-嵌入式/通信协议.md",
     "100-学习/160-论文/综述-Diffusion-Models-in-Low-Level-Vision-A-Survey.md",
@@ -413,8 +401,6 @@
     "Templates/Homepage/填一下困难申请表同时和老妈汇报.md",
     "Templates/打扫一下厕所卫生然后在群里和几个兄弟讲一下.md",
     "Templates/Homepage/慢跑1000米.md",
-    "Leetcode/3799.不同三位偶数的数目.md",
-    "Dairies/2026-09-11.md",
     "Attachments/Pasted image 20260910110829.png",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
