@@ -6,6 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 38.94601542416453,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -133,6 +134,7 @@
       {
         "id": "135fd2968be8ccee",
         "type": "tabs",
+        "dimension": 61.05398457583547,
         "children": [
           {
             "id": "ac4da120d8ae2427",
@@ -143,7 +145,7 @@
                 "source": "https://www.bilibili.com/video/BV1w4411B7a4/"
               },
               "icon": "bilibili",
-              "title": "【韦东山】韦东山手把手教你嵌入式Linux快速入门到精通 | Linux应用驱动开发基于I.MX6ULL Pro - bilibili"
+              "title": "5_12-2.驱动进化之路_内核对设备树的处理与使用 - bilibili"
             }
           }
         ]
@@ -265,8 +267,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -346,8 +347,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -390,10 +390,11 @@
   },
   "active": "f694d4546176ff30",
   "lastOpenFiles": [
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Attachments/Pasted image 20260914090311.png",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-09-14.md",
     "300-项目/嵌入式/韦东山课程/led驱动改动.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Tasks.md",
     "100-学习/120-嵌入式/面试八股文/八股文.md",
     "100-学习/120-嵌入式/通信协议.md",
@@ -432,10 +433,8 @@
     "Dairies/2026-09-10.md",
     "Temp/随机过程.md",
     "Temp/最优化方法.md",
-    "Temp/研一课程.md",
     "Attachments/Pasted image 20260909161553.png",
     "Leetcode/images/2461_image-20220625231812-2.png",
-    "Leetcode/images/2461_image-20220625231744-1.png",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
