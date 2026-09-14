@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789390838717-ygbebmzvg",
+  "providerId": "claude",
+  "title": "Organize Linux driver file_operations notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789390838718,
+  "updatedAt": 1789390855664,
+  "lastResponseAt": 1789390855664,
+  "sessionId": "8b0d5054-c680-4ba7-aae7-4ed6c310a93b",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "8b0d5054-c680-4ba7-aae7-4ed6c310a93b"
+  },
+  "currentNote": "100-学习/120-嵌入式/面试八股文/Linux驱动.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 255,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 30848,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 31103,
+    "percentage": 16
+  }
+}
