@@ -1,6 +1,6 @@
 {
-  "rootDir": "Anki",
-  "archiveDir": "Anki/Archive",
+  "rootDir": "100-学习/190-Anki",
+  "archiveDir": "100-学习/190-Anki/Archive",
   "autoLoadActiveFile": false,
   "llm": {
     "baseUrl": "https://api.deepseek.com/v1",
@@ -13,6 +13,14 @@
       "name": "linux指令",
       "filePath": "Anki/linux指令.md",
       "lastUsed": 1788157840287,
+      "useCount": 1,
+      "archived": false,
+      "source": "created"
+    },
+    {
+      "name": "Linux系统编程",
+      "filePath": "100-学习/190-Anki/Linux系统编程.md",
+      "lastUsed": 1789370383230,
       "useCount": 1,
       "archived": false,
       "source": "created"

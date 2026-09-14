@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "0f8dbec66a0338bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/190-Anki/Linux系统编程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Linux系统编程"
+            }
+          },
+          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -127,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,13 +307,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "100-学习/190-Anki/Linux系统编程.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "Linux系统编程 的大纲"
             }
           },
           {
@@ -364,11 +389,16 @@
       "obsidian-day-and-night:Toggle Theme": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
       "homepage:Open homepage": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "anki-interview-helper:新建面试题卡片": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "0f8dbec66a0338bc",
   "lastOpenFiles": [
+    "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
+    "100-学习/190-Anki/Linux系统编程.md",
+    "100-学习/190-Anki",
+    "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Attachments/Pasted image 20260914105914.png",
     "300-项目/嵌入式/韦东山课程/dtb转换过程.md",
@@ -376,7 +406,6 @@
     "Attachments/Pasted image 20260914104551.png",
     "Attachments/Pasted image 20260914100308.png",
     "Attachments/Pasted image 20260914090311.png",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-09-14.md",
     "300-项目/嵌入式/韦东山课程/led驱动改动.md",
     "Templates/Tasks.md",
@@ -398,7 +427,6 @@
     "Configs/onetab/查看状态.bat",
     "Configs/onetab/保存当前页面.bat",
     "Configs/onetab",
-    "Configs/新建文件夹",
     "Dairies/2026-09-13.md",
     "100-学习/120-嵌入式/linux路线.md",
     "Templates/Homepage/用ai产出创意内容.md",
@@ -413,7 +441,6 @@
     "Attachments/Pasted image 20260910110829.png",
     "Templates/Homepage/学习深度学习.md",
     "Dairies/2026-09-10.md",
-    "Temp/随机过程.md",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
