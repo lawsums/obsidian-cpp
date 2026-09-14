@@ -175,8 +175,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -331,13 +330,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/190-Anki/Linux系统编程.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Linux系统编程 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -417,11 +416,11 @@
       "anki-interview-helper:新建面试题卡片": false
     }
   },
-  "active": "0f8dbec66a0338bc",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "100-学习/190-Anki/Linux系统编程.md",
     "Templates/Homepage/Homepage.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
-    "100-学习/190-Anki/Linux系统编程.md",
     "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "100-学习/190-Anki",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
