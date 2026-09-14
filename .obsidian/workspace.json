@@ -32,60 +32,12 @@
             }
           },
           {
-            "id": "1385e12858ee381b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100-学习/110-计算机/语言/Rust/学习rust.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习rust"
-            }
-          },
-          {
-            "id": "0f8dbec66a0338bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100-学习/190-Anki/Linux系统编程.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Linux系统编程"
-            }
-          },
-          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
+                "file": "基线模型/Lattice/Lattice.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "路线梳理"
+              "title": "Lattice"
             }
           },
           {
@@ -175,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -330,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "基线模型/Lattice/Lattice.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "Lattice 的大纲"
             }
           },
           {
@@ -378,6 +331,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "anki-interview-helper:新建面试题卡片": false,
       "ai-task-butler:AI Task Butler: open task navigator": false,
       "nutstore-sync:开始同步": false,
       "nutstore-sync:停止同步": false,
@@ -412,14 +366,18 @@
       "obsidian-day-and-night:Toggle Theme": false,
       "obsidian-shellcommands:Shell commands: Custom variables": false,
       "homepage:Open homepage": false,
-      "realclaudian:Open Claudian": false,
-      "anki-interview-helper:新建面试题卡片": false
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "f694d4546176ff30",
   "lastOpenFiles": [
-    "100-学习/190-Anki/Linux系统编程.md",
+    "调研/多模态推荐/OneRec.md",
+    "调研/多模态推荐/MiniOneRec.md",
+    "调研/调研方针.md",
+    "调研/代理式推荐系统.md",
+    "调研/别人的调研脉络.md",
     "Templates/Homepage/Homepage.md",
+    "100-学习/190-Anki/Linux系统编程.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "100-学习/190-Anki",
@@ -458,12 +416,7 @@
     "100-学习/120-嵌入式/面试算法题/笔试—三一智能驾驶软件笔试.md",
     "Templates/Homepage/填一下困难申请表同时和老妈汇报.md",
     "Templates/打扫一下厕所卫生然后在群里和几个兄弟讲一下.md",
-    "Templates/Homepage/慢跑1000米.md",
-    "Leetcode/3799.不同三位偶数的数目.md",
-    "Dairies/2026-09-11.md",
     "Attachments/Pasted image 20260910110829.png",
-    "Templates/Homepage/学习深度学习.md",
-    "Dairies/2026-09-10.md",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
