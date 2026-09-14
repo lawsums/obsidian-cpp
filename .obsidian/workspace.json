@@ -6,7 +6,6 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
-        "dimension": 38.94601542416453,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -128,26 +127,6 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "135fd2968be8ccee",
-        "type": "tabs",
-        "dimension": 61.05398457583547,
-        "children": [
-          {
-            "id": "ac4da120d8ae2427",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.bilibili.com/video/BV1w4411B7a4/"
-              },
-              "icon": "bilibili",
-              "title": "5_12-2.驱动进化之路_内核对设备树的处理与使用 - bilibili"
-            }
-          }
         ]
       }
     ],
@@ -267,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -304,12 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -343,12 +322,11 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -389,10 +367,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ac4da120d8ae2427",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Attachments/Pasted image 20260914105914.png",
     "300-项目/嵌入式/韦东山课程/dtb转换过程.md",
+    "Attachments/Pasted image 20260914104720.png",
+    "Attachments/Pasted image 20260914104551.png",
     "Attachments/Pasted image 20260914100308.png",
     "Attachments/Pasted image 20260914090311.png",
     "Templates/Homepage/Homepage.md",
@@ -430,13 +411,9 @@
     "Leetcode/3799.不同三位偶数的数目.md",
     "Dairies/2026-09-11.md",
     "Attachments/Pasted image 20260910110829.png",
-    "Attachments/Pasted image 20260910110534.png",
     "Templates/Homepage/学习深度学习.md",
-    "Attachments/Pasted image 20260910110429.png",
     "Dairies/2026-09-10.md",
     "Temp/随机过程.md",
-    "Temp/最优化方法.md",
-    "Attachments/Pasted image 20260909161553.png",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
