@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Linux驱动",
+      "path": "100-学习/120-嵌入式/面试八股文/Linux驱动.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Templates_研究对小智AI做二次开发_步骤",
       "path": "Templates/Templates_研究对小智AI做二次开发_步骤.md"
-    },
-    {
-      "basename": "每天给C盘文件夹建立软连接",
-      "path": "Templates/Homepage/每天给C盘文件夹建立软连接.md"
     }
   ],
   "omittedPaths": [],
