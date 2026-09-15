@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "428ce64615cbf0c5",
+            "id": "b660e265e6bd5d33",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/看家教相关工作.md",
+                "file": "100-学习/120-嵌入式/linux路线.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "看家教相关工作"
+              "title": "linux路线"
             }
           },
           {
@@ -77,54 +77,6 @@
               },
               "icon": "lucide-file",
               "title": "Linux驱动"
-            }
-          },
-          {
-            "id": "d7451fdd51c6e1ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Linux系统编程"
-            }
-          },
-          {
-            "id": "638d4b988163e77b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/做实验室安全教育.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "做实验室安全教育"
             }
           },
           {
@@ -441,10 +393,13 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/看家教相关工作.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "100-学习/120-嵌入式/linux路线.md",
     "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/和家长同步家教状况.md",
     "100-学习/120-嵌入式/面试八股文/Linux驱动.md",
+    "Templates/Homepage/投递一个家教.md",
+    "Templates/Homepage/看家教相关工作.md",
+    "Templates/Homepage/和家长同步家教状况.md",
     "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "Templates/做实验室安全教育.md",
     "Leetcode/3517.新增道路查询后的最短距离 I.md",
@@ -461,7 +416,6 @@
     "Leetcode/images/3191_graph-13-1.png",
     "Attachments/Pasted image 20260915162015.png",
     "Templates/Tasks.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/慢跑1000米.md",
     "Templates/Homepage/003_不定期任务.md",
     "Templates/Homepage/学习深度学习.md",
@@ -478,10 +432,8 @@
     "300-项目/嵌入式/韦东山课程/led驱动改动.md",
     "100-学习/120-嵌入式/面试八股文/八股文.md",
     "100-学习/120-嵌入式/通信协议.md",
-    "100-学习/160-论文/综述-Diffusion-Models-in-Low-Level-Vision-A-Survey.md",
     "Configs/onetab/安装自动记录.bat",
     "Configs/onetab/SoftOneTab.ps1",
-    "Configs/onetab/README-SoftOneTab.md",
     "Configs/onetab/选择恢复.bat",
     "Configs/onetab/卸载自动记录.bat",
     "Configs/onetab/恢复昨天.bat",
