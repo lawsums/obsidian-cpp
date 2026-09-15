@@ -96,7 +96,8 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-14
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-15
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-14 ✅ 2026-09-15
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-13 ✅ 2026-09-14
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-12 ✅ 2026-09-13
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-11 ✅ 2026-09-11
@@ -728,7 +729,8 @@ sort by description
 - [x] 买牙膏 #task ⏫ ➕ 2026-09-05 ⏳ 2026-09-06 ✅ 2026-09-06 ^task-20260905-268d8441
 - [x] 按照deepseek说的破除虚无主义 #哲学 #虚无主义 🔺 ➕ 2026-09-06 🛫 2026-09-06 ⏳ 2026-09-09 ✅ 2026-09-10 ^task-20260906-9ef72adc
 - [x] 中午去找周老师 #meeting #teacher 🔺 ➕ 2026-09-06 🛫 2026-09-08 ⏳ 2026-09-08 ✅ 2026-09-08 ^task-20260906-7f0541e0
-- [ ] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-12 ⏳ 2026-09-14
+- [ ] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-13 ⏳ 2026-09-15
+- [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-12 ⏳ 2026-09-14 ✅ 2026-09-15
 - [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-11 ⏳ 2026-09-13 ✅ 2026-09-14
 - [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-10 ⏳ 2026-09-12 ✅ 2026-09-13
 - [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-09 ⏳ 2026-09-11 ✅ 2026-09-12
@@ -784,6 +786,6 @@ sort by description
 - [x] 看看 WavePaint（ICCVW）和 Trans-Adapter（ICCV） #paper #iccv 🔺 ➕ 2026-09-13 🛫 2026-09-13 ⏳ 2026-09-14 ✅ 2026-09-14 ^task-20260913-334f0ddc
 - [x] 看一下驱动改造的思想 #task 🔺 ➕ 2026-09-13 🛫 2026-09-13 ⏳ 2026-09-14 ✅ 2026-09-14 ^task-20260913-e04e5967
 - [x] 洗白衣服 #task 🔺 ➕ 2026-09-14 ⏳ 2026-09-14 ✅ 2026-09-15 ^task-20260914-d3276345
-- [ ] 给zotero装agent和vim相关插件 #zotero #插件 ⏫ 🛫 2026-09-14 ⏳ 2026-09-15 ➕ 2026-09-14 ^task-20260914-d66ca957
+- [ ] 给zotero装vim相关插件 #zotero #插件 ⏫ ➕ 2026-09-14 🛫 2026-09-14 ⏳ 2026-09-15 ^task-20260914-d66ca957
 - [ ] 解决现在知识卡片会重复导入的问题(通过加入标记)，还有Deck应该是DECK全大写才行 #bug #import 🔺 ➕ 2026-09-14 🛫 2026-09-14 ⏳ 2026-09-15 ^task-20260914-f4c86038
 - [ ] 刷一下校园卡激活一下 #校园卡 🔺 🛫 2026-09-14 ⏳ 2026-09-15 ➕ 2026-09-14 ^task-20260914-28117c96
