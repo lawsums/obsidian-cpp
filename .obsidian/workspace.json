@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "428ce64615cbf0c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/看家教相关工作.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "看家教相关工作"
+            }
+          },
+          {
             "id": "d5ce21ee249a51b1",
             "type": "leaf",
             "state": {
@@ -208,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "罗老师",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -417,9 +441,11 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/看家教相关工作.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/和家长同步家教状况.md",
     "100-学习/120-嵌入式/面试八股文/Linux驱动.md",
     "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/做实验室安全教育.md",
     "Leetcode/3517.新增道路查询后的最短距离 I.md",
     "Leetcode/3191.在树上执行操作以后得到的最大分数.md",
@@ -461,8 +487,6 @@
     "Configs/onetab/恢复昨天.bat",
     "Configs/onetab/恢复上次页面.bat",
     "Configs/onetab/查看状态.bat",
-    "Dairies/2026-09-13.md",
-    "100-学习/120-嵌入式/linux路线.md",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",
