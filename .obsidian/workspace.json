@@ -32,6 +32,78 @@
             }
           },
           {
+            "id": "d5ce21ee249a51b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/120-嵌入式/面试八股文/Linux驱动.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Linux驱动"
+            }
+          },
+          {
+            "id": "d7451fdd51c6e1ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Linux系统编程"
+            }
+          },
+          {
+            "id": "638d4b988163e77b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/做实验室安全教育.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "做实验室安全教育"
+            }
+          },
+          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -53,30 +125,6 @@
               },
               "icon": "lucide-file",
               "title": "路线梳理"
-            }
-          },
-          {
-            "id": "02c335c035ea2a8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/算法路线图.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "算法路线图"
             }
           },
           {
@@ -321,8 +369,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -370,35 +417,42 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "100-学习/120-嵌入式/面试八股文/Linux驱动.md",
+    "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/做实验室安全教育.md",
+    "Leetcode/3517.新增道路查询后的最短距离 I.md",
+    "Leetcode/3191.在树上执行操作以后得到的最大分数.md",
+    "100-学习/120-嵌入式/面试八股文/anki.md",
+    "Leetcode/3517.新增道路查询后的最短距离 I.cpp",
+    "Leetcode/images/3517_image12.jpg",
+    "Leetcode/images/3517_image11.jpg",
+    "Leetcode/images/3517_image10.jpg",
+    "Leetcode/images/3517_image9.jpg",
+    "Leetcode/images/3517_image8.jpg",
+    "Leetcode/3191.在树上执行操作以后得到的最大分数.cpp",
+    "Leetcode/images/3191_graph-14-2.png",
+    "Leetcode/images/3191_graph-13-1.png",
+    "Attachments/Pasted image 20260915162015.png",
+    "Templates/Tasks.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/慢跑1000米.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/003_不定期任务.md",
     "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/学习C++.md",
-    "100-学习/120-嵌入式/面试八股文/Linux驱动.md",
     "100-学习/190-Anki/Linux系统编程.md",
-    "Templates/Tasks.md",
     "Leetcode/算法路线图.md",
     "Projects/anime/恶女不才，请多关照 ～雏宫蝶鼠换身传～.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
-    "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "100-学习/190-Anki",
     "Attachments/Pasted image 20260914105914.png",
     "300-项目/嵌入式/韦东山课程/dtb转换过程.md",
     "Attachments/Pasted image 20260914104720.png",
-    "Attachments/Pasted image 20260914104551.png",
-    "Attachments/Pasted image 20260914100308.png",
-    "Attachments/Pasted image 20260914090311.png",
     "Dairies/2026-09-14.md",
     "300-项目/嵌入式/韦东山课程/led驱动改动.md",
     "100-学习/120-嵌入式/面试八股文/八股文.md",
     "100-学习/120-嵌入式/通信协议.md",
     "100-学习/160-论文/综述-Diffusion-Models-in-Low-Level-Vision-A-Survey.md",
-    "Attachments/Pasted image 20260913190538.png",
-    "Attachments/Pasted image 20260913165815.png",
-    "Attachments/Pasted image 20260913165734.png",
-    "Attachments/Pasted image 20260913165313.png",
     "Configs/onetab/安装自动记录.bat",
     "Configs/onetab/SoftOneTab.ps1",
     "Configs/onetab/README-SoftOneTab.md",
@@ -407,15 +461,8 @@
     "Configs/onetab/恢复昨天.bat",
     "Configs/onetab/恢复上次页面.bat",
     "Configs/onetab/查看状态.bat",
-    "Configs/onetab/保存当前页面.bat",
-    "Configs/onetab",
     "Dairies/2026-09-13.md",
     "100-学习/120-嵌入式/linux路线.md",
-    "Templates/Homepage/用ai产出创意内容.md",
-    "Templates/Daily_note_template.md",
-    "100-学习/120-嵌入式/面试算法题/三一智能驾驶软件笔试-测试/README.md",
-    "100-学习/120-嵌入式/面试算法题/笔试—三一智能驾驶软件笔试.md",
-    "Attachments/Pasted image 20260910110829.png",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",

@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789460705304-bjk1fi198",
+  "providerId": "claude",
+  "title": "Organize LeetCode BFS solution in Python",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789460705304,
+  "updatedAt": 1789460745621,
+  "lastResponseAt": 1789460745621,
+  "sessionId": "742c2ba1-3474-479c-b553-0b747a736451",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "742c2ba1-3474-479c-b553-0b747a736451"
+  },
+  "currentNote": "Leetcode/3517.新增道路查询后的最短距离 I.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1570,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 34560,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 36130,
+    "percentage": 18
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "conv-1789460635999-x2rztvjow",
+  "providerId": "claude",
+  "title": "Organize LeetCode Python tree DP solution",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789460636000,
+  "updatedAt": 1789460685034,
+  "lastResponseAt": 1789460685033,
+  "sessionId": "d262f6f9-1974-4f1d-a6a2-2455c20f8610",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "d262f6f9-1974-4f1d-a6a2-2455c20f8610"
+  },
+  "currentNote": "Leetcode/3191.在树上执行操作以后得到的最大分数.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 172,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 44032,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 44204,
+    "percentage": 22
+  }
+}
