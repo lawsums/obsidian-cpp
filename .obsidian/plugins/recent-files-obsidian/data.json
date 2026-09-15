@@ -9,6 +9,10 @@
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
+      "basename": "慢跑1000米",
+      "path": "Templates/Homepage/慢跑1000米.md"
+    },
+    {
       "basename": "003_不定期任务",
       "path": "Templates/Homepage/003_不定期任务.md"
     },
@@ -87,10 +91,6 @@
     {
       "basename": "打扫一下厕所卫生然后在群里和几个兄弟讲一下",
       "path": "Templates/打扫一下厕所卫生然后在群里和几个兄弟讲一下.md"
-    },
-    {
-      "basename": "慢跑1000米",
-      "path": "Templates/Homepage/慢跑1000米.md"
     },
     {
       "basename": "3799.不同三位偶数的数目",
