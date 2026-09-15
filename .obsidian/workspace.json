@@ -6,6 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 37.96561604584527,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -151,6 +152,26 @@
               "title": "学习深度学习"
             }
           }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "7c9b7aa4c2e66ecb",
+        "type": "tabs",
+        "dimension": 62.03438395415473,
+        "children": [
+          {
+            "id": "764070710d831d64",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.bilibili.com/video/BV1w4411B7a4/"
+              },
+              "icon": "bilibili",
+              "title": "5_13-1.LED模板驱动程序的改造_设备树 - bilibili"
+            }
+          }
         ]
       }
     ],
@@ -270,7 +291,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -306,13 +328,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -345,11 +366,13 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -391,11 +414,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "764070710d831d64",
   "lastOpenFiles": [
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
-    "100-学习/120-嵌入式/linux路线.md",
     "Templates/Homepage/Homepage.md",
+    "100-学习/120-嵌入式/linux路线.md",
     "100-学习/120-嵌入式/面试八股文/Linux驱动.md",
     "Templates/Homepage/投递一个家教.md",
     "Templates/Homepage/看家教相关工作.md",
