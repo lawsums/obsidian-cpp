@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
+      "basename": "003_不定期任务",
+      "path": "Templates/Homepage/003_不定期任务.md"
+    },
+    {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
     },
@@ -13,16 +25,8 @@
       "path": "100-学习/120-嵌入式/面试八股文/Linux驱动.md"
     },
     {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
-    },
-    {
       "basename": "Linux系统编程",
       "path": "100-学习/190-Anki/Linux系统编程.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "Tasks",
@@ -195,10 +199,6 @@
     {
       "basename": "模拟I2C",
       "path": "100-学习/120-嵌入式/手写驱动/模拟I2C.md"
-    },
-    {
-      "basename": "C++嵌入式",
-      "path": "100-学习/120-嵌入式/C++嵌入式.md"
     }
   ],
   "omittedPaths": [],

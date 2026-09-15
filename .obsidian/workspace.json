@@ -113,8 +113,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -269,13 +268,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习深度学习 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -354,13 +353,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ffffe9398e10819f",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/003_不定期任务.md",
+    "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/学习C++.md",
     "100-学习/120-嵌入式/面试八股文/Linux驱动.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "100-学习/190-Anki/Linux系统编程.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Tasks.md",
     "Leetcode/算法路线图.md",
     "Projects/anime/恶女不才，请多关照 ～雏宫蝶鼠换身传～.md",
@@ -399,8 +400,6 @@
     "100-学习/120-嵌入式/面试算法题/三一智能驾驶软件笔试-测试/README.md",
     "100-学习/120-嵌入式/面试算法题/笔试—三一智能驾驶软件笔试.md",
     "Templates/Homepage/填一下困难申请表同时和老妈汇报.md",
-    "Templates/打扫一下厕所卫生然后在群里和几个兄弟讲一下.md",
-    "Templates/Homepage/慢跑1000米.md",
     "Attachments/Pasted image 20260910110829.png",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
