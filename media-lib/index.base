@@ -1,0 +1,16 @@
+views:
+  - type: mx-media-lib
+    name: Media Library
+    filters:
+      and:
+        - '!note["mx-uid"].isEmpty()'
+    order:
+      - mx-uid
+      - title
+      - creator
+      - album
+      - duration
+      - cover
+    sort:
+      - property: file.ctime
+        direction: DESC
