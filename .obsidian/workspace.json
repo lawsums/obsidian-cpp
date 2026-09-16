@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -307,13 +306,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/110-计算机/语言/Rust/学习rust.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习rust 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -393,8 +392,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9cf157a8974cc277",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-09-16.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
@@ -426,7 +426,6 @@
     "100-学习/190-Anki/Linux系统编程.md",
     "Leetcode/算法路线图.md",
     "Projects/anime/恶女不才，请多关照 ～雏宫蝶鼠换身传～.md",
-    "100-学习/110-计算机/语言/Rust/学习rust.md",
     "100-学习/190-Anki",
     "Attachments/Pasted image 20260914105914.png",
     "300-项目/嵌入式/韦东山课程/dtb转换过程.md",
