@@ -6,7 +6,6 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
-        "dimension": 99.99999999999999,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -30,30 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
-            }
-          },
-          {
-            "id": "6225eeb3f92189cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/左程云.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "左程云"
             }
           },
           {
@@ -152,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -308,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/左程云.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "左程云 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -394,7 +368,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "6225eeb3f92189cf",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/左程云.md",
     "Templates/Homepage/Homepage.md",
