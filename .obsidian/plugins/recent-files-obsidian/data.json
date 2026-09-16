@@ -1,8 +1,60 @@
 {
   "recentFiles": [
     {
+      "basename": "左程云",
+      "path": "Templates/Homepage/左程云.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Templates_研究对小智AI做二次开发_步骤",
+      "path": "Templates/Homepage/Templates_研究对小智AI做二次开发_步骤.md"
+    },
+    {
+      "basename": "bear 追踪内核编译",
+      "path": "Templates/Homepage/bear 追踪内核编译.md"
+    },
+    {
+      "basename": "做实验室安全教育",
+      "path": "Templates/Homepage/做实验室安全教育.md"
+    },
+    {
+      "basename": "Anki_leetcode",
+      "path": "Templates/Anki_leetcode.md"
+    },
+    {
+      "basename": "打扫一下厕所卫生然后在群里和几个兄弟讲一下",
+      "path": "Templates/Homepage/打扫一下厕所卫生然后在群里和几个兄弟讲一下.md"
+    },
+    {
+      "basename": "手表方案",
+      "path": "Templates/Homepage/手表方案.md"
+    },
+    {
+      "basename": "用CLion写贪吃蛇Qt框架",
+      "path": "Templates/Homepage/用CLion写贪吃蛇Qt框架.md"
+    },
+    {
+      "basename": "思考状压DP",
+      "path": "Templates/Homepage/思考状压DP.md"
+    },
+    {
+      "basename": "学习科目三",
+      "path": "Templates/Homepage/学习科目三.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Homepage/Tasks.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "001_项目",
+      "path": "Templates/Homepage/001_项目.md"
     },
     {
       "basename": "路线梳理",
@@ -33,20 +85,12 @@
       "path": "100-学习/120-嵌入式/面试八股文/Linux系统编程.md"
     },
     {
-      "basename": "做实验室安全教育",
-      "path": "Templates/做实验室安全教育.md"
-    },
-    {
       "basename": "3517.新增道路查询后的最短距离 I",
       "path": "Leetcode/3517.新增道路查询后的最短距离 I.md"
     },
     {
       "basename": "3191.在树上执行操作以后得到的最大分数",
       "path": "Leetcode/3191.在树上执行操作以后得到的最大分数.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "慢跑1000米",
@@ -101,16 +145,8 @@
       "path": "Templates/Homepage/用ai产出创意内容.md"
     },
     {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
-    },
-    {
       "basename": "填一下困难申请表同时和老妈汇报",
       "path": "Templates/Homepage/填一下困难申请表同时和老妈汇报.md"
-    },
-    {
-      "basename": "打扫一下厕所卫生然后在群里和几个兄弟讲一下",
-      "path": "Templates/打扫一下厕所卫生然后在群里和几个兄弟讲一下.md"
     },
     {
       "basename": "3799.不同三位偶数的数目",
@@ -150,7 +186,7 @@
     },
     {
       "basename": "学习LVGL",
-      "path": "Templates/学习LVGL.md"
+      "path": "Templates/Homepage/学习LVGL.md"
     },
     {
       "basename": "学习Linux_公司",
@@ -163,42 +199,6 @@
     {
       "basename": "研究生手册",
       "path": "Templates/Homepage/研究生手册.md"
-    },
-    {
-      "basename": "2461.感染二叉树需要的总时间",
-      "path": "Leetcode/2461.感染二叉树需要的总时间.md"
-    },
-    {
-      "basename": "帮老师干活",
-      "path": "Templates/Homepage/帮老师干活.md"
-    },
-    {
-      "basename": "实现自己的数据结构",
-      "path": "Dairies/实现自己的数据结构.md"
-    },
-    {
-      "basename": "Daily_note_md",
-      "path": "Templates/Daily_note_md.md"
-    },
-    {
-      "basename": "嵌入式C造轮子",
-      "path": "Templates/Homepage/嵌入式C造轮子.md"
-    },
-    {
-      "basename": "队列板子",
-      "path": "100-学习/110-计算机/代码模版/02-数据结构/队列板子.md"
-    },
-    {
-      "basename": "收拾开学用的东西",
-      "path": "Templates/Homepage/收拾开学用的东西.md"
-    },
-    {
-      "basename": "未命名",
-      "path": "300-项目/嵌入式/未命名.md"
-    },
-    {
-      "basename": "anki",
-      "path": "100-学习/120-嵌入式/面试八股文/anki.md"
     }
   ],
   "omittedPaths": [],

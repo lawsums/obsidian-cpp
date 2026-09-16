@@ -32,6 +32,78 @@
             }
           },
           {
+            "id": "c916b09e58d3ecc8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/思考状压DP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "思考状压DP"
+            }
+          },
+          {
+            "id": "8f5dd4006dafb5f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/左程云.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "左程云"
+            }
+          },
+          {
+            "id": "5f3d256d881e938c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily_note_template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daily_note_template"
+            }
+          },
+          {
             "id": "9cf157a8974cc277",
             "type": "leaf",
             "state": {
@@ -127,7 +199,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -160,7 +233,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "打扫一下",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -282,13 +355,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/左程云.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "左程云 的大纲"
             }
           },
           {
@@ -368,10 +441,25 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "8f5dd4006dafb5f9",
   "lastOpenFiles": [
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/左程云.md",
+    "Templates/Homepage/Templates_研究对小智AI做二次开发_步骤.md",
+    "Templates/Homepage/bear 追踪内核编译.md",
+    "Templates/Homepage/做实验室安全教育.md",
+    "Templates/Anki_leetcode.md",
+    "Templates/Homepage/打扫一下厕所卫生然后在群里和几个兄弟讲一下.md",
+    "Templates/Homepage/手表方案.md",
+    "Templates/Homepage/用CLion写贪吃蛇Qt框架.md",
+    "Templates/Homepage/思考状压DP.md",
+    "Templates/Homepage/学习科目三.md",
+    "Templates/Homepage/Tasks.md",
+    "Templates/Daily_note_template.md",
+    "Templates/Homepage/001_项目.md",
+    "Templates/Homepage/未命名.md",
+    "Templates/Homepage/未命名",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Dairies/2026-09-16.md",
     "100-学习/120-嵌入式/linux路线.md",
@@ -380,10 +468,8 @@
     "Templates/Homepage/看家教相关工作.md",
     "Templates/Homepage/和家长同步家教状况.md",
     "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
-    "Templates/做实验室安全教育.md",
     "Leetcode/3517.新增道路查询后的最短距离 I.md",
     "Leetcode/3191.在树上执行操作以后得到的最大分数.md",
-    "100-学习/120-嵌入式/面试八股文/anki.md",
     "Leetcode/3517.新增道路查询后的最短距离 I.cpp",
     "Leetcode/images/3517_image12.jpg",
     "Leetcode/images/3517_image11.jpg",
@@ -394,28 +480,15 @@
     "Leetcode/images/3191_graph-14-2.png",
     "Leetcode/images/3191_graph-13-1.png",
     "Attachments/Pasted image 20260915162015.png",
-    "Templates/Tasks.md",
-    "Templates/Homepage/慢跑1000米.md",
-    "Templates/Homepage/003_不定期任务.md",
-    "Templates/Homepage/学习深度学习.md",
-    "Templates/Homepage/学习C++.md",
-    "100-学习/190-Anki/Linux系统编程.md",
-    "Leetcode/算法路线图.md",
-    "Projects/anime/恶女不才，请多关照 ～雏宫蝶鼠换身传～.md",
     "100-学习/190-Anki",
     "Attachments/Pasted image 20260914105914.png",
-    "300-项目/嵌入式/韦东山课程/dtb转换过程.md",
     "Attachments/Pasted image 20260914104720.png",
-    "Dairies/2026-09-14.md",
-    "300-项目/嵌入式/韦东山课程/led驱动改动.md",
-    "100-学习/120-嵌入式/面试八股文/八股文.md",
     "Configs/onetab/安装自动记录.bat",
     "Configs/onetab/SoftOneTab.ps1",
     "Configs/onetab/选择恢复.bat",
     "Configs/onetab/卸载自动记录.bat",
     "Configs/onetab/恢复昨天.bat",
     "Configs/onetab/恢复上次页面.bat",
-    "Configs/onetab/查看状态.bat",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",

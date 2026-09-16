@@ -96,7 +96,8 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-15
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-16
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-15 ✅ 2026-09-16
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-14 ✅ 2026-09-15
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-13 ✅ 2026-09-14
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-12 ✅ 2026-09-13
@@ -224,7 +225,8 @@ sort by description
 - [x] 准备竖式教学内容 #task 🔼 ➕ 2026-07-16 🛫 2026-07-19 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260716-6b15c303
 - [x] 下午两点和牛客大佬聊聊嵌入式 #learning 🔼 ➕ 2026-07-17 ⏳ 2026-07-18 ✅ 2026-07-18 ^task-20260717-a254378e
 - [x] 让AI统计已做题目的文件标题 #study 🔼 ➕ 2026-07-18 ⏳ 2026-07-23 ✅ 2026-08-06 ^task-20260718-56b40c1b
-- [ ] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-09-16
+- [ ] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-09-17
+- [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-09-16 ✅ 2026-09-16
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-09-15 ✅ 2026-09-15
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-09-14 ✅ 2026-09-14
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-09-13 ✅ 2026-09-14
@@ -273,7 +275,8 @@ sort by description
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ➕ 2026-07-18 ⏳ 2026-08-01 ✅ 2026-08-01 ^task-20260718-5073333b
 - [x] 给灵神的题单写一个目录插件 #coding ⏫ ➕ 2026-07-18 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260718-72efe0c9
 - [x] 买零食 #task 🔼 ➕ 2026-07-18 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260718-a4f8c1f7
-- [ ] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-09-16
+- [ ] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-09-17
+- [x] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-09-16 ✅ 2026-09-16
 - [x] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-09-15 ✅ 2026-09-15
 - [x] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-09-14 ✅ 2026-09-14
 - [x] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-09-13 ✅ 2026-09-14
@@ -808,3 +811,4 @@ sort by description
 - [ ] 晚上洗澡 #task 🔺 ⏳ 2026-09-16 ➕ 2026-09-16 ^task-20260916-b5da1dc0
 - [ ] 写随机过程作业 #task 🔺 ⏳ 2026-09-17 ➕ 2026-09-16 ^task-20260916-2da7a01b
 - [ ] 问导师电话 #task 🔺 ⏳ 2026-09-16 ➕ 2026-09-16 ^task-20260916-5a982263
+- [ ] 和导员问一下周末回家的事 #生活 #学校 🔺 🛫 2026-09-16 ⏳ 2026-09-17 ➕ 2026-09-16 ^task-20260916-b3f966e9
