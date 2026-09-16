@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "左程云",
+      "path": "Templates/Homepage/左程云.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "左程云",
-      "path": "Templates/Homepage/左程云.md"
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "index",
@@ -15,10 +19,6 @@
     {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
-    },
-    {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "思考状压DP",
