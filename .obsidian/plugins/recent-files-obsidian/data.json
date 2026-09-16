@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Tasks",
+      "path": "Templates/Homepage/Tasks.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     }

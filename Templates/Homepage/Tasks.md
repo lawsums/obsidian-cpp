@@ -1,6 +1,6 @@
 ``` tasks
 not done
-path includes Templates/Tasks.md
+path includes Templates/Homepage/Tasks.md
 hide backlink
 hide created date
 hide done date
@@ -810,6 +810,6 @@ sort by description
 - [x] 打印二寸照片 #task 🔺 ➕ 2026-09-16 ⏳ 2026-09-16 ✅ 2026-09-16 ^task-20260916-e65c25eb
 - [ ] 晚上洗澡 #task 🔺 ⏳ 2026-09-16 ➕ 2026-09-16 ^task-20260916-b5da1dc0
 - [ ] 写随机过程作业 #task 🔺 ⏳ 2026-09-17 ➕ 2026-09-16 ^task-20260916-2da7a01b
-- [ ] 问导师电话 #task 🔺 ⏳ 2026-09-16 ➕ 2026-09-16 ^task-20260916-5a982263
+- [x] 问导师电话 #task 🔺 ➕ 2026-09-16 ⏳ 2026-09-16 ✅ 2026-09-16 ^task-20260916-5a982263
 - [ ] 和导员问一下周末回家的事 #生活 #学校 🔺 🛫 2026-09-16 ⏳ 2026-09-17 ➕ 2026-09-16 ^task-20260916-b3f966e9
-- [ ] 去教室拿笔袋 #task 🔺 🛫 2026-09-16 ⏳ 2026-09-17 ➕ 2026-09-16 ^task-20260916-ea32f2ec
+- [ ] 去3-515拿笔袋 #task 🔺 ➕ 2026-09-16 🛫 2026-09-16 ⏳ 2026-09-17 ^task-20260916-ea32f2ec
