@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "Tasks",
-      "path": "Templates/Homepage/Tasks.md"
+      "basename": "慢跑1000米",
+      "path": "Templates/Homepage/慢跑1000米.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "002_稍后再看",
+      "path": "Templates/Homepage/002_稍后再看.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Homepage/Tasks.md"
     }
   ],
   "omittedPaths": [],
