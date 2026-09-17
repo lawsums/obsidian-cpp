@@ -32,54 +32,6 @@
             }
           },
           {
-            "id": "59493aba58ed277f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/慢跑1000米.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "慢跑1000米"
-            }
-          },
-          {
-            "id": "ac847504ed96bdb1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/Tasks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tasks"
-            }
-          },
-          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -175,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -331,13 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/慢跑1000米.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "慢跑1000米 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -417,12 +368,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "59493aba58ed277f",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Dairies/2026-09-17.md",
+    "Attachments/Pasted image 20260916235910.png",
+    "Templates/Homepage/晚上完成剩下几个课程并进行实验室课程考试.md",
+    "Templates/Homepage/Tasks.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/慢跑1000米.md",
     "Templates/Homepage/002_稍后再看.md",
-    "Templates/Homepage/Tasks.md",
     "Templates/Homepage/左程云.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "media-lib/index.base",
@@ -446,8 +400,6 @@
     "100-学习/120-嵌入式/面试八股文/Linux驱动.md",
     "Templates/Homepage/投递一个家教.md",
     "Templates/Homepage/看家教相关工作.md",
-    "Templates/Homepage/和家长同步家教状况.md",
-    "100-学习/120-嵌入式/面试八股文/Linux系统编程.md",
     "Leetcode/3517.新增道路查询后的最短距离 I.cpp",
     "Leetcode/images/3517_image12.jpg",
     "Leetcode/images/3517_image11.jpg",
@@ -460,7 +412,6 @@
     "Attachments/Pasted image 20260915162015.png",
     "100-学习/190-Anki",
     "Attachments/Pasted image 20260914105914.png",
-    "Attachments/Pasted image 20260914104720.png",
     "Configs/onetab/安装自动记录.bat",
     "Configs/onetab/SoftOneTab.ps1",
     "Configs/onetab/选择恢复.bat",
