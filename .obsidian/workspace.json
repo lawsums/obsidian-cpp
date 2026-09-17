@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8fa3bde95b82293",
+            "id": "14e20fd696e32dcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -415,11 +415,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "14e20fd696e32dcf",
   "lastOpenFiles": [
+    "Templates/Homepage/左程云.md",
+    "Templates/Homepage/Homepage.md",
     "100-学习/170-课程/随机过程/随机过程-第二章作业.md",
     "100-学习/170-课程/随机过程/随机过程-第二章知识点.md",
-    "Templates/Homepage/Homepage.md",
     "100-学习/170-课程/随机过程",
     "100-学习/170-课程",
     "Dairies/2026-09-17.md",
@@ -428,7 +429,6 @@
     "Templates/Homepage/Tasks.md",
     "Templates/Homepage/慢跑1000米.md",
     "Templates/Homepage/002_稍后再看.md",
-    "Templates/Homepage/左程云.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "media-lib/index.base",
     "Templates/Daily_note_template.md",
