@@ -744,7 +744,8 @@ sort by description
 - [x] 买牙膏 #task ⏫ ➕ 2026-09-05 ⏳ 2026-09-06 ✅ 2026-09-06 ^task-20260905-268d8441
 - [x] 按照deepseek说的破除虚无主义 #哲学 #虚无主义 🔺 ➕ 2026-09-06 🛫 2026-09-06 ⏳ 2026-09-09 ✅ 2026-09-10 ^task-20260906-9ef72adc
 - [x] 中午去找周老师 #meeting #teacher 🔺 ➕ 2026-09-06 🛫 2026-09-08 ⏳ 2026-09-08 ✅ 2026-09-08 ^task-20260906-7f0541e0
-- [ ] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-14 ⏳ 2026-09-16
+- [ ] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-15 ⏳ 2026-09-17
+- [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-14 ⏳ 2026-09-16 ✅ 2026-09-17
 - [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-13 ⏳ 2026-09-15 ✅ 2026-09-15
 - [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-12 ⏳ 2026-09-14 ✅ 2026-09-15
 - [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-11 ⏳ 2026-09-13 ✅ 2026-09-14
@@ -809,7 +810,7 @@ sort by description
 - [ ] [[投递一个家教]] #家教 #求职 🔺 ➕ 2026-09-15 🛫 2026-09-15 ⏳ 2026-09-20 ^task-20260915-847a4ce1
 - [x] 填一下学生证内容然后交一下 #学生证 🔺 ➕ 2026-09-15 🛫 2026-09-15 ⏳ 2026-09-15 ✅ 2026-09-15 ^task-20260915-124aa140
 - [x] 交学生证 #task 🔺 ➕ 2026-09-15 ⏳ 2026-09-16 ✅ 2026-09-16 ^task-20260915-c1854b50
-- [ ] 做linux实验 #task 🔺 ⏳ 2026-09-16 ➕ 2026-09-15 ^task-20260915-6e8253f1
+- [x] 做linux实验 #task 🔺 ➕ 2026-09-15 ⏳ 2026-09-16 ✅ 2026-09-17 ^task-20260915-6e8253f1
 - [x] 学习rust多线程服务器 #rust #并发 🔺 ➕ 2026-09-15 🛫 2026-09-15 ⏳ 2026-09-16 ✅ 2026-09-16 ^task-20260915-5fbef6ce
 - [ ] 看一下论文 #task ⏫ 🛫 2026-09-15 ⏳ 2026-09-16 ➕ 2026-09-15 ^task-20260915-b8111cc1
 - [x] 打印二寸照片 #task 🔺 ➕ 2026-09-16 ⏳ 2026-09-16 ✅ 2026-09-16 ^task-20260916-e65c25eb
