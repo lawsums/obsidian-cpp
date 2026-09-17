@@ -321,8 +321,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -368,8 +367,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "944cd14a7fae27b7",
   "lastOpenFiles": [
+    "100-学习/170-课程",
     "Dairies/2026-09-17.md",
     "Attachments/Pasted image 20260916235910.png",
     "Templates/Homepage/晚上完成剩下几个课程并进行实验室课程考试.md",
@@ -399,7 +399,6 @@
     "100-学习/120-嵌入式/linux路线.md",
     "100-学习/120-嵌入式/面试八股文/Linux驱动.md",
     "Templates/Homepage/投递一个家教.md",
-    "Templates/Homepage/看家教相关工作.md",
     "Leetcode/3517.新增道路查询后的最短距离 I.cpp",
     "Leetcode/images/3517_image12.jpg",
     "Leetcode/images/3517_image11.jpg",

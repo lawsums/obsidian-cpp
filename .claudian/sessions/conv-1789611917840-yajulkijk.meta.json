@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789611917840-yajulkijk",
+  "providerId": "claude",
+  "title": "Confirm image viewing capability",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789611917841,
+  "updatedAt": 1789612416630,
+  "lastResponseAt": 1789611945684,
+  "sessionId": "cde9d706-4030-491c-b130-ed387ec43f3e",
+  "selectedModel": "claude-code/deepseek-v4-flash",
+  "providerState": {
+    "providerSessionId": "cde9d706-4030-491c-b130-ed387ec43f3e"
+  },
+  "usage": {
+    "model": "deepseek-v4-flash",
+    "inputTokens": 193,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 24704,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 24897,
+    "percentage": 12
+  }
+}
