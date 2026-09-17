@@ -175,8 +175,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -331,13 +330,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/170-课程/随机过程/随机过程-第二章作业.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "随机过程-第二章作业 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -416,10 +415,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "725666ee1d798828",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "100-学习/170-课程/随机过程/随机过程-第二章知识点.md",
     "100-学习/170-课程/随机过程/随机过程-第二章作业.md",
+    "100-学习/170-课程/随机过程/随机过程-第二章知识点.md",
     "Templates/Homepage/Homepage.md",
     "100-学习/170-课程/随机过程",
     "100-学习/170-课程",
