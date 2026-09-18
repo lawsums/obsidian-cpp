@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -316,12 +316,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "100-学习/170-课程/计算机通信与网络/计算机通信与网络-传信速率与传码速率.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "计算机通信与网络-传信速率与传码速率 的大纲"
             }
           },
           {
@@ -390,9 +391,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "20022d0d1d9d4d57",
+  "active": "9dc770d0e0eb3520",
   "lastOpenFiles": [
+    "100-学习/170-课程/计算机通信与网络/计算机通信与网络-传信速率与传码速率.md.tmp.37452.825718431e53",
+    "100-学习/170-课程/计算机通信与网络/计算机通信与网络-时延.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Attachments/Pasted image 20260918204836.png",
+    "Attachments/Pasted image 20260918204032.png",
     "Attachments/Pasted image 20260918200748.png",
     "Attachments/Pasted image 20260918195645.png",
     "100-学习/120-嵌入式/面试算法题/笔试—深信服嵌入式软件开发笔试.md",
@@ -429,14 +434,11 @@
     "Templates/Anki_leetcode.md",
     "Templates/Homepage/打扫一下厕所卫生然后在群里和几个兄弟讲一下.md",
     "Templates/Homepage/手表方案.md",
-    "Templates/Homepage/用CLion写贪吃蛇Qt框架.md",
     "Leetcode/images/3517_image12.jpg",
     "Leetcode/images/3517_image11.jpg",
     "Leetcode/images/3517_image10.jpg",
     "Leetcode/images/3517_image9.jpg",
     "Leetcode/images/3517_image8.jpg",
-    "Leetcode/images/3191_graph-14-2.png",
-    "Leetcode/images/3191_graph-13-1.png",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",

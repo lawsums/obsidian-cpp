@@ -4,8 +4,8 @@
   "title": "Create 计算机通信与网络 course notes folder",
   "titleGenerationStatus": "success",
   "createdAt": 1789729611670,
-  "updatedAt": 1789731411923,
-  "lastResponseAt": 1789731411923,
+  "updatedAt": 1789736039604,
+  "lastResponseAt": 1789736039604,
   "sessionId": "91231afd-ed1a-4103-89b5-382dd943c136",
   "selectedModel": "haiku",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 223,
+    "inputTokens": 158,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 87424,
+    "cacheReadInputTokens": 111488,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 87647,
-    "percentage": 44
+    "contextTokens": 111646,
+    "percentage": 56
   }
 }
