@@ -6,7 +6,6 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
-        "dimension": 36.31805157593123,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -30,30 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
-            }
-          },
-          {
-            "id": "b43f4cb7fbe44fc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100-学习/170-课程/随机过程/随机过程-第一章知识点.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "随机过程-第一章知识点"
             }
           },
           {
@@ -150,26 +125,6 @@
               },
               "icon": "lucide-file",
               "title": "学习深度学习"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "b077b1085fc42869",
-        "type": "tabs",
-        "dimension": 63.68194842406877,
-        "children": [
-          {
-            "id": "e4f84b78fd2309e3",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.bilibili.com/video/BV1w4411B7a4/"
-              },
-              "icon": "bilibili",
-              "title": "5_15-1.查询方式的按键驱动程序_编写框架 - bilibili"
             }
           }
         ]
@@ -291,8 +246,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -328,12 +282,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -366,12 +321,12 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -413,7 +368,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "e4f84b78fd2309e3",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/Homepage.md",

@@ -18,6 +18,8 @@ const {
 const TASK_BUTLER_NAVIGATION_VIEW_TYPE = "ai-task-butler-navigation";
 
 // 候选 Tasks 插件 "Create or edit task" 命令 ID，按版本/插件 ID 排序。
+// 编辑功能改用插件自带的 TaskEditorModal，不再依赖 Tasks 插件命令。
+// 这里保留候选 ID 仅用于探测"Tasks 插件是否已启用"，方便在设置/菜单里给出提示。
 const TASKS_EDIT_COMMAND_IDS = [
   "obsidian-tasks-plugin:edit-task",
   "tasks:edit-task"
@@ -290,71 +292,10 @@ module.exports = class AiTaskButlerPlugin extends Plugin {
     return false;
   }
 
-  async editTaskInTasksPlugin(task) {
-    const tasksCommandId = findTasksEditCommandId(this.app);
-    if (!tasksCommandId) {
-      const available = this.app.commands
-        .listCommands()
-        .filter((command) => /edit[- ]?task|create or edit/i.test(`${command.id} ${command.name}`))
-        .map((command) => `\`${command.id}\``)
-        .join(", ");
-      const hint = available
-        ? `检测到可能的命令：${available}。请把对应 ID 写入 AI Task Butler 设置中的 "Tasks 编辑命令 ID"，或升级 Tasks 插件。`
-        : "未找到 Tasks 插件的 `Tasks: Create or edit task` 命令，请确认 Tasks 插件已启用并升级到最新版本。";
-      new Notice(hint, 8000);
-      return;
-    }
-
-    const file = this.app.vault.getAbstractFileByPath(task.filePath);
-    if (!(file instanceof TFile)) {
-      new Notice("任务所在文件不存在或已被移动。");
-      return;
-    }
-
-    // 仅当当前激活的 Markdown 编辑器不是该任务所在文件时，才打开；
-    // 否则直接复用当前视图，不开 split、不切换 leaf，避免"打开 tasks 文件"。
-    const leaf = await this.resolveEditorLeafForTask(file);
-    if (!leaf) {
-      new Notice("编辑器视图未就绪，无法定位任务行。");
-      return;
-    }
-
-    const ready = await this.waitForTaskEditor(leaf, task.lineNumber, 3000);
-    if (!ready) {
-      new Notice("编辑器视图未就绪，无法把光标定位到任务行。");
-      return;
-    }
-    this.app.workspace.setActiveLeaf(leaf, { focus: true });
-    await new Promise((resolve) => window.setTimeout(resolve, 120));
-
-    const activeEditor = this.app.workspace.activeEditor;
-    if (!activeEditor || !activeEditor.editor) {
-      new Notice("activeEditor 未指向任务所在文件，Tasks 命令无法定位任务。");
-      return;
-    }
-
-    try {
-      this.app.commands.executeCommandById(tasksCommandId);
-    } catch (error) {
-      new Notice(`调用 Tasks 编辑命令失败：${error.message || "未知错误"}`);
-    }
-  }
-
-  // 寻找一个适合编辑该任务的 MarkdownView leaf：
-  //  1. 当前活动编辑器已经在该文件中 → 直接复用（不打开任何文件）
-  //  2. 否则在当前活动 leaf（不创建 split）中打开任务所在文件
-  // 这避免了之前 "总在右侧新开一个 split 打开 tasks 文件" 的行为。
-  async resolveEditorLeafForTask(file) {
-    const activeFile = this.app.workspace.getActiveFile();
-    if (activeFile && activeFile.path === file.path) {
-      const activeView = this.app.workspace.getActiveViewOfType(MarkdownView);
-      if (activeView && activeView.editor && activeView.leaf) {
-        return activeView.leaf;
-      }
-    }
-    const leaf = this.app.workspace.getLeaf(false);
-    await leaf.openFile(file);
-    return leaf;
+  // 编辑任务：直接弹自定义 TaskEditorModal，**完全不打开/不切换**任何 leaf。
+  // 这样大 Inbox 文件也不会因为 "跳转过去" 而卡住 —— 也跟 "打开原文" 的语义分开。
+  openTaskEditor(task) {
+    new TaskEditorModal(this.app, this, task).open();
   }
 
   async rescheduleTask(task, scheduledDate) {
@@ -669,13 +610,12 @@ class TaskButlerNavigationView extends ItemView {
             }
           }));
       });
+      // 自带编辑弹窗：**完全不打开/不切换 leaf**，大 Inbox 也不会卡；
+      // 如果装了 Tasks 插件，会在标题里加个标记提示用户可以直接用 Tasks 编辑。
       menu.addItem((item) => item
-        .setTitle("用 Tasks 插件编辑")
+        .setTitle(hasTasksPlugin ? "编辑任务" : "编辑任务（推荐安装 Tasks 插件获得更多功能）")
         .setIcon("pencil")
-        .setDisabled(!hasTasksPlugin)
-        .onClick(async () => {
-          await this.plugin.editTaskInTasksPlugin(task);
-        }));
+        .onClick(() => this.plugin.openTaskEditor(task)));
       menu.addItem((item) => item
         .setTitle("打开原文")
         .setIcon("file-text")
@@ -1393,6 +1333,225 @@ class QuickVoiceTaskModal extends Modal {
   }
 }
 
+// 自带任务编辑弹窗：不打开任务所在文件、不切换 leaf，避免大 Inbox 卡顿。
+// 复用 plugin.updateTask 完成原子写入，导航栏原地刷新。
+class TaskEditorModal extends Modal {
+  constructor(app, plugin, task) {
+    super(app);
+    this.plugin = plugin;
+    this.task = task;
+    // 字段工作副本（避免直接改 task，导致右侧列表缓存与原文不一致）
+    this.fields = {
+      title: task.title || "",
+      completed: Boolean(task.completed),
+      priority: task.priority || "none",
+      scheduledDate: task.scheduledDate || "",
+      startDate: task.startDate || "",
+      dueDate: task.dueDate || "",
+      recurrence: task.recurrence || "",
+      tagsText: (task.tags || []).join(" ")
+    };
+  }
+
+  onOpen() {
+    this.render();
+  }
+
+  render() {
+    const { contentEl } = this;
+    contentEl.empty();
+    contentEl.addClass("ai-task-butler-modal");
+    contentEl.addClass("ai-task-butler-editor-modal");
+
+    contentEl.createEl("h2", { text: "编辑任务" });
+    contentEl.createEl("p", {
+      cls: "ai-task-butler-editor-hint",
+      text: "保存后会直接覆盖原文任务行；不会跳转到文件，大 Inbox 也不会卡。"
+    });
+
+    // 状态
+    new Setting(contentEl)
+      .setName("状态")
+      .addToggle((toggle) => toggle
+        .setValue(this.fields.completed)
+        .onChange((value) => {
+          this.fields.completed = value;
+        }));
+
+    // 标题
+    new Setting(contentEl)
+      .setName("标题")
+      .addText((text) => text
+        .setValue(this.fields.title)
+        .setPlaceholder("任务标题...")
+        .onChange((value) => {
+          this.fields.title = value;
+        }));
+
+    // 优先级
+    new Setting(contentEl)
+      .setName("优先级")
+      .addDropdown((dropdown) => dropdown
+        .addOption("none", "未指定")
+        .addOption("highest", "🔺 最高")
+        .addOption("high", "⏫ 高")
+        .addOption("medium", "🔼 中")
+        .addOption("low", "🔽 低")
+        .addOption("lowest", "⏬ 最低")
+        .setValue(this.fields.priority)
+        .onChange((value) => {
+          this.fields.priority = value;
+        }));
+
+    // 计划日期 ⏳
+    this.renderDateRow(contentEl, {
+      name: "计划日期 (⏳)",
+      key: "scheduledDate"
+    });
+
+    // 开始日期 🛫
+    this.renderDateRow(contentEl, {
+      name: "开始日期 (🛫)",
+      key: "startDate"
+    });
+
+    // 截止日期 📅
+    this.renderDateRow(contentEl, {
+      name: "截止日期 (📅)",
+      key: "dueDate"
+    });
+
+    // 循环 🔁
+    new Setting(contentEl)
+      .setName("重复 (🔁)")
+      .setDesc(this.recurrenceHint())
+      .addText((text) => text
+        .setValue(this.fields.recurrence)
+        .setPlaceholder("every day")
+        .onChange((value) => {
+          this.fields.recurrence = value;
+        }));
+
+    // 标签
+    new Setting(contentEl)
+      .setName("标签 (#)")
+      .setDesc("空格分隔多个标签，留空即清除所有标签")
+      .addText((text) => text
+        .setValue(this.fields.tagsText)
+        .setPlaceholder("#work #urgent")
+        .onChange((value) => {
+          this.fields.tagsText = value;
+        }));
+
+    // 任务所在文件 / 行号
+    const sourceEl = contentEl.createDiv({ cls: "ai-task-butler-editor-source" });
+    sourceEl.setText(`来源：${this.task.filePath} · 第 ${this.task.lineNumber + 1} 行`);
+
+    // 按钮
+    const buttonRow = contentEl.createDiv({ cls: "ai-task-butler-actions" });
+    const cancelButton = buttonRow.createEl("button", { text: "取消" });
+    cancelButton.addEventListener("click", () => this.close());
+
+    this.saveButton = buttonRow.createEl("button", {
+      text: "保存",
+      cls: "mod-cta"
+    });
+    this.saveButton.addEventListener("click", () => this.submit());
+  }
+
+  recurrenceHint() {
+    const fragment = document.createDocumentFragment();
+    fragment.appendText("如：");
+    const code1 = document.createElement("code");
+    code1.textContent = "every day";
+    fragment.appendChild(code1);
+    fragment.appendText(" / ");
+    const code2 = document.createElement("code");
+    code2.textContent = "every week";
+    fragment.appendChild(code2);
+    fragment.appendText(" / ");
+    const code3 = document.createElement("code");
+    code3.textContent = "every weekday";
+    fragment.appendChild(code3);
+    return fragment;
+  }
+
+  // 渲染"日期 + 清除"行：避免 setValue 后整张模态重新渲染丢焦点。
+  renderDateRow(contentEl, { name, key }) {
+    let dateInput;
+    const setting = new Setting(contentEl).setName(name);
+    setting.addText((text) => {
+      text.inputEl.type = "date";
+      text.setValue(this.fields[key] || "");
+      text.onChange((value) => {
+        this.fields[key] = value;
+      });
+      dateInput = text.inputEl;
+    });
+    setting.addButton((button) => button
+      .setButtonText("清除")
+      .onClick(() => {
+        this.fields[key] = "";
+        if (dateInput) dateInput.value = "";
+      }));
+  }
+
+  parseTagsInput() {
+    const raw = String(this.fields.tagsText || "").trim();
+    if (!raw) return [];
+    return raw
+      .split(/[\s,]+/)
+      .map((tag) => tag.trim())
+      .filter((tag) => tag.length > 0)
+      .map((tag) => (tag.startsWith("#") ? tag : `#${tag}`));
+  }
+
+  async submit() {
+    if (this.isSubmitting) return;
+    const title = String(this.fields.title || "").trim();
+    if (!title) {
+      new Notice("任务标题不能为空。");
+      return;
+    }
+
+    this.isSubmitting = true;
+    if (this.saveButton) {
+      this.saveButton.disabled = true;
+      this.saveButton.setText("保存中...");
+    }
+
+    const tags = this.parseTagsInput();
+
+    const patch = {
+      title,
+      completed: this.fields.completed,
+      priority: this.fields.priority,
+      scheduledDate: validDateOrUndefined(this.fields.scheduledDate),
+      startDate: validDateOrUndefined(this.fields.startDate),
+      dueDate: validDateOrUndefined(this.fields.dueDate),
+      recurrence: String(this.fields.recurrence || "").trim() || undefined,
+      tags
+    };
+
+    try {
+      await this.plugin.updateTask(this.task, patch);
+      this.close();
+    } catch (error) {
+      console.error("AI Task Butler: failed to save task edit.", error);
+      new Notice(`保存失败：${error.message || "未知错误"}`, 8000);
+      this.isSubmitting = false;
+      if (this.saveButton) {
+        this.saveButton.disabled = false;
+        this.saveButton.setText("保存");
+      }
+    }
+  }
+
+  onClose() {
+    this.contentEl.empty();
+  }
+}
+
 class AiTaskButlerSettingTab extends PluginSettingTab {
   constructor(app, plugin) {
     super(app, plugin);
@@ -1678,11 +1837,15 @@ function parseMarkdownTaskLine(line, filePath, lineNumber) {
   const rawBody = match[3];
   const scheduledDate = extractTaskDate(rawBody, "⏳");
   const startDate = extractTaskDate(rawBody, "🛫");
+  const dueDate = extractTaskDate(rawBody, "📅");
+  const createdDate = extractTaskDate(rawBody, "➕");
   const recurrence = rawBody.match(/🔁\s+(.+?)(?=\s+(?:➕|⏳|🛫|📅|\^\S+)|$)/)?.[1]?.trim();
   const blockId = rawBody.match(/\s+\^([A-Za-z0-9_-]+)\s*$/)?.[1];
   const priority = priorityFromTaskMarkdown(rawBody);
+  // 标签：要求 `#` 前面必须是空白或行首，避免误吞 `C#` 这种标题里的 `#`。
+  const tags = [...rawBody.matchAll(/(?:^|\s)(#[\p{L}\p{N}_/-]+)/gu)].map((m) => m[1]);
   const title = taskTitleFromMarkdown(rawBody);
-  if (!title) return null;
+  if (!title && tags.length === 0) return null;
 
   return {
     filePath,
@@ -1691,10 +1854,13 @@ function parseMarkdownTaskLine(line, filePath, lineNumber) {
     rawBody,
     title,
     completed: match[2].toLowerCase() === "x",
+    priority,
     scheduledDate,
     startDate,
+    dueDate,
+    createdDate,
     recurrence,
-    priority,
+    tags,
     blockId
   };
 }
@@ -1760,8 +1926,23 @@ function patchMarkdownTaskLine(line, patch) {
   if (typeof patch.title === "string" && patch.title.trim()) {
     updated = replaceTaskTitle(updated, patch.title.trim());
   }
+  if (Object.prototype.hasOwnProperty.call(patch, "priority")) {
+    updated = replaceTaskPriority(updated, patch.priority);
+  }
   if (Object.prototype.hasOwnProperty.call(patch, "scheduledDate")) {
     updated = replaceTaskDate(updated, "⏳", patch.scheduledDate);
+  }
+  if (Object.prototype.hasOwnProperty.call(patch, "startDate")) {
+    updated = replaceTaskDate(updated, "🛫", patch.startDate);
+  }
+  if (Object.prototype.hasOwnProperty.call(patch, "dueDate")) {
+    updated = replaceTaskDate(updated, "📅", patch.dueDate);
+  }
+  if (Object.prototype.hasOwnProperty.call(patch, "recurrence")) {
+    updated = replaceTaskRecurrence(updated, patch.recurrence);
+  }
+  if (Object.prototype.hasOwnProperty.call(patch, "tags")) {
+    updated = replaceTaskTags(updated, patch.tags);
   }
   return updated;
 }
@@ -1785,6 +1966,65 @@ function replaceTaskDate(line, marker, date) {
     return `${line.slice(0, blockIdMatch.index)} ${marker} ${date}${line.slice(blockIdMatch.index)}`;
   }
   return line.replace(markerPattern, "");
+}
+
+// 优先级：先剥掉所有现有优先级 emoji，再插在标题之后、其它元数据（日期/循环/block ID）之前。
+function replaceTaskPriority(line, priority) {
+  const stripped = line.replace(/\s+(?:🔺|⏫|🔼|🔽|⏬)(?=\s|$)/g, "");
+  const mark = PRIORITY_MARKS[priority];
+  if (!mark || priority === "none") return stripped;
+  const match = stripped.match(/^(\s*[-*+]\s+\[[ xX]\]\s+)(.*)$/);
+  if (!match) return stripped;
+  const body = match[2];
+  // 找下一个"非优先级、非标题"的元数据起点，把新优先级 emoji 插在它前面。
+  const metadataMatch = body.match(/\s+(?=(?:#[\p{L}\p{N}_/-]+|🛫|⏳|📅|🔁|➕|\^[A-Za-z0-9_-]+)[\s\S]*$)/u);
+  if (metadataMatch) {
+    const before = body.slice(0, metadataMatch.index).trimEnd();
+    const suffix = body.slice(metadataMatch.index);
+    return `${match[1]}${before} ${mark}${suffix}`;
+  }
+  return `${stripped.trimEnd()} ${mark}`;
+}
+
+// 循环 🔁：先剥掉已有的整段（含 `every day` 这种多词），再插在 ➕ 之前（保证规范顺序 `🔁 ... ➕ ... ^id`）。
+function replaceTaskRecurrence(line, recurrence) {
+  const knownAfter = "(?:#[\\p{L}\\p{N}_/-]+|🔺|⏫|🔼|🔽|⏬|🛫|⏳|📅|➕|\\^[A-Za-z0-9_-]+)";
+  const pattern = new RegExp(`\\s+🔁\\s+[^\\n]+?(?=\\s+${knownAfter}|$)`, "u");
+  let updated = line.replace(pattern, "");
+  if (recurrence && String(recurrence).trim()) {
+    const cleaned = String(recurrence).trim();
+    // 优先插在 ➕ 之前；如果没有 ➕ 就插在 ^id 之前；都没有就追加到末尾。
+    const createdMatch = updated.match(/\s+➕\s+\d{4}-\d{2}-\d{2}/);
+    const blockIdMatch = updated.match(/\s+\^[A-Za-z0-9_-]+\s*$/);
+    const anchor = createdMatch || blockIdMatch;
+    if (anchor) {
+      updated = `${updated.slice(0, anchor.index).trimEnd()} 🔁 ${cleaned}${updated.slice(anchor.index)}`;
+    } else {
+      updated = `${updated.trimEnd()} 🔁 ${cleaned}`;
+    }
+  }
+  return updated;
+}
+
+// 标签：先一次性剥掉所有 `#tag`，再把新标签插在标题之后、其它元数据之前。
+function replaceTaskTags(line, tags) {
+  const stripped = line.replace(/(?:\s+#[\p{L}\p{N}_/-]+)+/gu, "");
+  const tagList = (Array.isArray(tags) ? tags : [])
+    .map((t) => String(t || "").trim())
+    .filter((t) => t.length > 0)
+    .map((t) => (t.startsWith("#") ? t : `#${t}`));
+  if (tagList.length === 0) return stripped;
+  const match = stripped.match(/^(\s*[-*+]\s+\[[ xX]\]\s+)(.*)$/);
+  if (!match) return stripped;
+  const body = match[2];
+  const metadataMatch = body.match(/\s+(?=(?:🔺|⏫|🔼|🔽|⏬|🛫|⏳|📅|🔁|➕|\^[A-Za-z0-9_-]+)[\s\S]*$)/u);
+  const tagString = " " + tagList.join(" ");
+  if (metadataMatch) {
+    const before = body.slice(0, metadataMatch.index).trimEnd();
+    const suffix = body.slice(metadataMatch.index);
+    return `${match[1]}${before}${tagString}${suffix}`;
+  }
+  return `${stripped.trimEnd()}${tagString}`;
 }
 
 function dateFromIso(date) {

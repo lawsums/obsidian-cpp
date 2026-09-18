@@ -254,4 +254,77 @@ assert.equal(
   "看 [外部链接](https://example.com) **很重要**"
 );
 
+// parseMarkdownTaskLine 需要解出 dueDate / createdDate / tags 字段，给编辑弹窗使用。
+const fullTaskLine = "- [ ] 看文献 #work ⏫ 📅 2026-07-09 🛫 2026-06-30 ⏳ 2026-07-02 🔁 every day ➕ 2026-06-30 ^task-full";
+const fullParsed = sandbox.parseMarkdownTaskLine(fullTaskLine, "Tasks/Plan.md", 12);
+assert.equal(fullParsed.dueDate, "2026-07-09");
+assert.equal(fullParsed.createdDate, "2026-06-30");
+assert.equal(fullParsed.priority, "high");
+assert.equal(fullParsed.tags.length, 1);
+assert.equal(fullParsed.tags[0], "#work");
+assert.equal(fullParsed.title, "看文献");
+
+// 标题里有 `C#` 这种伪 tag 不应被当成标签。
+const hashTitleLine = "- [ ] 修复 C# 编译报错 #work";
+const hashParsed = sandbox.parseMarkdownTaskLine(hashTitleLine, "a.md", 0);
+assert.equal(hashParsed.title, "修复 C# 编译报错");
+assert.equal(hashParsed.tags.length, 1);
+assert.equal(hashParsed.tags[0], "#work");
+
+// patchMarkdownTaskLine：替换优先级 / 新增开始日期 / 清除截止日期 / 改循环 / 替换标签。
+const patchedAll = sandbox.patchMarkdownTaskLine(fullTaskLine, {
+  priority: "medium",
+  startDate: "2026-06-29",
+  dueDate: undefined,
+  recurrence: "every weekday",
+  tags: ["#research"]
+});
+assert.equal(patchedAll.includes("📅"), false, "dueDate cleared");
+assert.match(patchedAll, /🛫 2026-06-29/, "startDate replaced");
+assert.match(patchedAll, /🔁 every weekday/, "recurrence replaced");
+assert.match(patchedAll, /🔼/, "priority replaced with medium");
+assert.match(patchedAll, /#research/, "tags replaced");
+assert.doesNotMatch(patchedAll, /#work/, "old tag stripped");
+assert.match(patchedAll, /\^task-full$/, "block ID preserved at end");
+
+// patchMarkdownTaskLine：清除所有标签 + 清除循环 + 改完成状态。
+const cleared = sandbox.patchMarkdownTaskLine(patchedAll, {
+  tags: [],
+  recurrence: undefined,
+  completed: true
+});
+assert.equal(cleared.includes("#research"), false, "all tags cleared");
+assert.equal(cleared.includes("🔁"), false, "recurrence cleared");
+assert.match(cleared, /^\s*- \[x\]/);
+
+// patchMarkdownTaskLine：只改 title，其它字段一字不丢。
+const onlyTitle = sandbox.patchMarkdownTaskLine(fullTaskLine, { title: "改写" });
+assert.match(onlyTitle, /^- \[ \] 改写 #work ⏫ 📅 2026-07-09 🛫 2026-06-30 ⏳ 2026-07-02 🔁 every day ➕ 2026-06-30 \^task-full$/);
+
+// 单元：replaceTaskPriority / replaceTaskRecurrence / replaceTaskTags
+assert.equal(
+  sandbox.replaceTaskPriority("- [ ] 旧任务 🛫 2026-01-01", "high"),
+  "- [ ] 旧任务 ⏫ 🛫 2026-01-01"
+);
+assert.equal(
+  sandbox.replaceTaskPriority("- [ ] 旧任务 ⏫ 🛫 2026-01-01", "none"),
+  "- [ ] 旧任务 🛫 2026-01-01"
+);
+assert.equal(
+  sandbox.replaceTaskRecurrence("- [ ] 任务 🛫 2026-01-01 🔁 every day ➕ 2026-01-02 ^id", "every weekday"),
+  "- [ ] 任务 🛫 2026-01-01 🔁 every weekday ➕ 2026-01-02 ^id"
+);
+assert.equal(
+  sandbox.replaceTaskRecurrence("- [ ] 任务 🛫 2026-01-01 🔁 every day ➕ 2026-01-02 ^id", undefined),
+  "- [ ] 任务 🛫 2026-01-01 ➕ 2026-01-02 ^id"
+);
+assert.equal(
+  sandbox.replaceTaskTags("- [ ] 任务 #a #b 🛫 2026-01-01", ["#research", "urgent"]),
+  "- [ ] 任务 #research #urgent 🛫 2026-01-01"
+);
+assert.equal(
+  sandbox.replaceTaskTags("- [ ] 任务 #a #b 🛫 2026-01-01", []),
+  "- [ ] 任务 🛫 2026-01-01"
+);
+
 console.log("parser smoke tests passed");
