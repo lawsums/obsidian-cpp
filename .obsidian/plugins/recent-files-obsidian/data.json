@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -9,8 +13,8 @@
       "path": "100-学习/170-课程/随机过程/随机过程-第一章知识点.md"
     },
     {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+      "basename": "Tasks",
+      "path": "Templates/Homepage/Tasks.md"
     },
     {
       "basename": "随机过程-第二章作业",
@@ -27,10 +31,6 @@
     {
       "basename": "晚上完成剩下几个课程并进行实验室课程考试",
       "path": "Templates/Homepage/晚上完成剩下几个课程并进行实验室课程考试.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Homepage/Tasks.md"
     },
     {
       "basename": "慢跑1000米",

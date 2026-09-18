@@ -6,6 +6,7 @@
       {
         "id": "4696daa5c22224ab",
         "type": "tabs",
+        "dimension": 36.31805157593123,
         "children": [
           {
             "id": "a8fa3bde95b82293",
@@ -151,6 +152,26 @@
               "title": "学习深度学习"
             }
           }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "b077b1085fc42869",
+        "type": "tabs",
+        "dimension": 63.68194842406877,
+        "children": [
+          {
+            "id": "e4f84b78fd2309e3",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.bilibili.com/video/BV1w4411B7a4/"
+              },
+              "icon": "bilibili",
+              "title": "5_15-1.查询方式的按键驱动程序_编写框架 - bilibili"
+            }
+          }
         ]
       }
     ],
@@ -270,7 +291,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -306,13 +328,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -349,7 +370,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -391,12 +413,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "e4f84b78fd2309e3",
   "lastOpenFiles": [
-    "100-学习/170-课程/随机过程/随机过程-第一章知识点.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
-    "100-学习/170-课程/随机过程/随机过程-第二章作业.md",
     "Templates/Homepage/Homepage.md",
+    "100-学习/170-课程/随机过程/随机过程-第一章知识点.md",
+    "Templates/Homepage/Tasks.md",
+    "100-学习/170-课程/随机过程/随机过程-第二章作业.md",
     "100-学习/170-课程/随机过程/随机过程-第二章知识点.md",
     "Templates/Homepage/左程云.md",
     "100-学习/170-课程/随机过程",
@@ -404,7 +427,6 @@
     "Dairies/2026-09-17.md",
     "Attachments/Pasted image 20260916235910.png",
     "Templates/Homepage/晚上完成剩下几个课程并进行实验室课程考试.md",
-    "Templates/Homepage/Tasks.md",
     "Templates/Homepage/慢跑1000米.md",
     "Templates/Homepage/002_稍后再看.md",
     "media-lib/index.base",
