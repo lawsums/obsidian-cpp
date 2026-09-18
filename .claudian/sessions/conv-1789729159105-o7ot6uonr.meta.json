@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789729159105-o7ot6uonr",
+  "providerId": "claude",
+  "title": "Solve array game for k consecutive wins",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789729159106,
+  "updatedAt": 1789729422211,
+  "lastResponseAt": 1789729422211,
+  "sessionId": "d16de18e-a3ab-47d2-a639-1c5e4ca25d90",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "d16de18e-a3ab-47d2-a639-1c5e4ca25d90"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1879,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 92672,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 94551,
+    "percentage": 47
+  }
+}
