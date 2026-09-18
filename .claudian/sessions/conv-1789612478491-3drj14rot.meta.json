@@ -4,8 +4,8 @@
   "title": "Review C++ chapter 2 homework problems",
   "titleGenerationStatus": "success",
   "createdAt": 1789612478491,
-  "updatedAt": 1789690386187,
-  "lastResponseAt": 1789612885445,
+  "updatedAt": 1789701137624,
+  "lastResponseAt": 1789701137624,
   "sessionId": "173b8dce-90e4-460b-8c18-73bc2423ae34",
   "selectedModel": "claude-code/deepseek-v4-flash",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "deepseek-v4-flash",
-    "inputTokens": 492,
+    "inputTokens": 221,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 63744,
+    "cacheReadInputTokens": 105728,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 64236,
-    "percentage": 32
+    "contextTokens": 105949,
+    "percentage": 53
   }
 }
