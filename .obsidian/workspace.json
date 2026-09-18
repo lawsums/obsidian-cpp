@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,14 +265,22 @@
               "icon": "clock",
               "title": "Recent Files"
             }
+          },
+          {
+            "id": "823296351c3bd45e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -308,23 +316,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/170-课程/计算机通信与网络/计算机通信与网络-传信速率与传码速率.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "计算机通信与网络-传信速率与传码速率 的大纲"
-            }
-          },
-          {
-            "id": "823296351c3bd45e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "大纲"
             }
           },
           {
@@ -351,8 +348,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -394,25 +390,28 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "5e1fe8d9d7291799",
+  "active": "20022d0d1d9d4d57",
   "lastOpenFiles": [
-    "100-学习/170-课程/随机过程/随机过程-第二章知识点.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Attachments/Pasted image 20260918200748.png",
+    "Attachments/Pasted image 20260918195645.png",
+    "100-学习/120-嵌入式/面试算法题/笔试—深信服嵌入式软件开发笔试.md",
     "100-学习/170-课程/计算机通信与网络/计算机通信与网络-传信速率与传码速率.md",
-    "100-学习/170-课程/计算机通信与网络",
     "Templates/Homepage/Homepage.md",
+    "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/q1.cpp~",
+    "100-学习/170-课程/计算机通信与网络/计算机通信与网络-习题.md",
+    "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/README.md",
+    "100-学习/170-课程/随机过程/随机过程-第二章知识点.md",
+    "100-学习/170-课程/计算机通信与网络",
     "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/q2-最大排序连续上升子段/test5.out",
     "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/q2-最大排序连续上升子段/test5.in",
-    "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/README.md",
     "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/q3-病毒伪装度/test10.out",
     "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/q3-病毒伪装度/test10.in",
     "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/q1-数组游戏连胜数字/test8.out",
     "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/q1-数组游戏连胜数字/test8.in",
     "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/q1-数组游戏连胜数字/test7.out",
     "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/q1-数组游戏连胜数字/test7.in",
-    "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/q1-数组游戏连胜数字/test6.out",
-    "100-学习/120-嵌入式/面试算法题/笔试—深信服嵌入式软件开发笔试.md",
     "Templates/Tasks.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "100-学习/170-课程/随机过程/随机过程-第一章知识点.md",
     "Templates/Homepage/Tasks.md",
     "100-学习/170-课程/随机过程/随机过程-第二章作业.md",
@@ -431,8 +430,6 @@
     "Templates/Homepage/打扫一下厕所卫生然后在群里和几个兄弟讲一下.md",
     "Templates/Homepage/手表方案.md",
     "Templates/Homepage/用CLion写贪吃蛇Qt框架.md",
-    "Templates/Homepage/学习科目三.md",
-    "Templates/Homepage/001_项目.md",
     "Leetcode/images/3517_image12.jpg",
     "Leetcode/images/3517_image11.jpg",
     "Leetcode/images/3517_image10.jpg",
@@ -440,8 +437,6 @@
     "Leetcode/images/3517_image8.jpg",
     "Leetcode/images/3191_graph-14-2.png",
     "Leetcode/images/3191_graph-13-1.png",
-    "Attachments/Pasted image 20260915162015.png",
-    "Attachments/Pasted image 20260914105914.png",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",

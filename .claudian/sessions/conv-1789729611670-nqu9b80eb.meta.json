@@ -4,22 +4,21 @@
   "title": "Create 计算机通信与网络 course notes folder",
   "titleGenerationStatus": "success",
   "createdAt": 1789729611670,
-  "updatedAt": 1789729652149,
-  "lastResponseAt": 1789729652149,
+  "updatedAt": 1789731411923,
+  "lastResponseAt": 1789731411923,
   "sessionId": "91231afd-ed1a-4103-89b5-382dd943c136",
   "selectedModel": "haiku",
   "providerState": {
     "providerSessionId": "91231afd-ed1a-4103-89b5-382dd943c136"
   },
-  "currentNote": "100-学习/170-课程/随机过程/随机过程-第二章知识点.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 231,
+    "inputTokens": 223,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 41344,
+    "cacheReadInputTokens": 87424,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 41575,
-    "percentage": 21
+    "contextTokens": 87647,
+    "percentage": 44
   }
 }
