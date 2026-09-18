@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "d099210fc2472919",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/170-课程/随机过程/随机过程-第二章知识点.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "随机过程-第二章知识点"
+            }
+          },
+          {
+            "id": "cf5ebf7bf46e7a6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/170-课程/随机过程/随机过程-第二章作业.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "随机过程-第二章作业"
+            }
+          },
+          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -321,8 +369,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -370,11 +417,11 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "100-学习/170-课程/随机过程/随机过程-第二章作业.md",
+    "100-学习/170-课程/随机过程/随机过程-第二章知识点.md",
+    "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/左程云.md",
-    "Templates/Homepage/Homepage.md",
-    "100-学习/170-课程/随机过程/随机过程-第二章知识点.md",
-    "100-学习/170-课程/随机过程/随机过程-第二章作业.md",
     "100-学习/170-课程/随机过程",
     "100-学习/170-课程",
     "Dairies/2026-09-17.md",
