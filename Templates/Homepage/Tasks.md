@@ -96,7 +96,8 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-16
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-17
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-16 ✅ 2026-09-17
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-15 ✅ 2026-09-16
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-14 ✅ 2026-09-15
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-13 ✅ 2026-09-14
@@ -726,7 +727,7 @@ sort by description
 - [x] 早上交体检单 #health 🔺 ➕ 2026-09-03 🛫 2026-09-03 ⏳ 2026-09-08 ✅ 2026-09-08 ^task-20260903-c98958d3
 - [x] 去打印复印件和证件照 #生活 🔺 ➕ 2026-09-03 🛫 2026-09-04 ⏳ 2026-09-05 ✅ 2026-09-05 ^task-20260903-c0b135b1
 - [x] 走之前再看一下[[收拾开学用的东西]] #task 🔺 ➕ 2026-09-03 🛫 2026-09-03 ⏳ 2026-09-05 ✅ 2026-09-05 ^task-20260903-5325c6b6
-- [ ] 仔细看看嵌入式linux完全自学指南、研究生自救指南、确定副方向 #学习 #嵌入式 #Linux 🔺 ➕ 2026-09-03 🛫 2026-09-03 ⏳ 2026-09-16 ^task-20260903-5d3608bd
+- [ ] 仔细看看嵌入式linux完全自学指南、研究生自救指南、确定副方向 #学习 #嵌入式 #Linux 🔺 ➕ 2026-09-03 🛫 2026-09-03 ⏳ 2026-10-01 ^task-20260903-5d3608bd
 - [x] [[简单过一下手表板子上的深度学习例程]] #task ⏫ ➕ 2026-09-03 🛫 2026-09-03 ⏳ 2026-09-04 ✅ 2026-09-04 ^task-20260903-4aed4f9f
 - [x] 收拾鞋子 #task 🔺 ➕ 2026-09-04 ⏳ 2026-09-04 ✅ 2026-09-04 ^task-20260904-13efee9c
 - [x] 晒衣服 #task 🔺 ➕ 2026-09-04 🛫 2026-09-04 ✅ 2026-09-06 ^task-20260904-22f240cf
@@ -812,7 +813,7 @@ sort by description
 - [x] 交学生证 #task 🔺 ➕ 2026-09-15 ⏳ 2026-09-16 ✅ 2026-09-16 ^task-20260915-c1854b50
 - [x] 做linux实验 #task 🔺 ➕ 2026-09-15 ⏳ 2026-09-16 ✅ 2026-09-17 ^task-20260915-6e8253f1
 - [x] 学习rust多线程服务器 #rust #并发 🔺 ➕ 2026-09-15 🛫 2026-09-15 ⏳ 2026-09-16 ✅ 2026-09-16 ^task-20260915-5fbef6ce
-- [ ] 看一下论文 #task ⏫ 🛫 2026-09-15 ⏳ 2026-09-16 ➕ 2026-09-15 ^task-20260915-b8111cc1
+- [x] 看一下论文 #task ⏫ ➕ 2026-09-15 🛫 2026-09-15 ⏳ 2026-09-16 ✅ 2026-09-17 ^task-20260915-b8111cc1
 - [x] 打印二寸照片 #task 🔺 ➕ 2026-09-16 ⏳ 2026-09-16 ✅ 2026-09-16 ^task-20260916-e65c25eb
 - [x] 晚上洗澡 #task 🔺 ➕ 2026-09-16 ⏳ 2026-09-16 ✅ 2026-09-16 ^task-20260916-b5da1dc0
 - [ ] 写随机过程2.8往后的作业 #task 🔺 ➕ 2026-09-16 ⏳ 2026-09-18 ^task-20260916-2da7a01b
@@ -825,3 +826,5 @@ sort by description
 - [x] 提交一下登记表 #task 🔺 ➕ 2026-09-17 🛫 2026-09-17 ⏳ 2026-09-17 ✅ 2026-09-17 ^task-20260917-93e5feaf
 - [ ] 研究 Zotero 读论文如何集成到 Obsidian #zotero #obsidian #research 🔺 🛫 2026-09-17 ⏳ 2026-09-18 ➕ 2026-09-17 ^task-20260917-38abc996
 - [ ] 和znn请假 #task 🔺 ➕ 2026-09-17 🛫 2026-09-17 ⏳ 2026-09-18 ^task-20260917-71d59f47
+- [ ] 整理复现结果并告知老师 #科研 #沟通 🔺 🛫 2026-09-17 ⏳ 2026-09-18 ➕ 2026-09-17 ^task-20260917-cd6149b6
+- [ ] 看一下超分辨率综述 #task 🔺 🛫 2026-09-17 ⏳ 2026-09-19 ➕ 2026-09-17 ^task-20260917-7c8f7ce5
