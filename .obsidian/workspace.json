@@ -322,7 +322,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -370,6 +370,7 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Tasks.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/Homepage.md",
     "100-学习/170-课程/随机过程/随机过程-第一章知识点.md",
@@ -401,7 +402,6 @@
     "Templates/Homepage/未命名",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Dairies/2026-09-16.md",
-    "100-学习/120-嵌入式/linux路线.md",
     "Leetcode/3517.新增道路查询后的最短距离 I.cpp",
     "Leetcode/images/3517_image12.jpg",
     "Leetcode/images/3517_image11.jpg",
