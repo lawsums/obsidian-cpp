@@ -454,7 +454,8 @@ sort by description
 - [x] 备课 #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-9f3e6aef
 - [x] 让老妈买纸 #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260812-50c81cd2
 - [x] 获取 [workbuddy 蓝皮书](https://docs.qq.com/doc/DSFFMTFhFQ1hZZ096?nlc=1) #work 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-2dacb169
-- [ ] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-09-18
+- [ ] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-09-19
+- [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-09-18 ✅ 2026-09-18
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-09-17 ✅ 2026-09-17
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-09-16 ✅ 2026-09-16
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-09-15 ✅ 2026-09-15
