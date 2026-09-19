@@ -320,7 +320,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -369,8 +370,9 @@
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
-    "100-学习/120-嵌入式/面试算法题/笔试—深信服嵌入式软件开发笔试.md",
+    "Templates/Daily_note_template.md",
     "Templates/Homepage/Homepage.md",
+    "100-学习/120-嵌入式/面试算法题/笔试—深信服嵌入式软件开发笔试.md",
     "Attachments/Pasted image 20260919101322.png",
     "Attachments/Pasted image 20260919095147.png",
     "Attachments/Pasted image 20260919094617.png",
@@ -405,7 +407,6 @@
     "Templates/Homepage/晚上完成剩下几个课程并进行实验室课程考试.md",
     "Templates/Homepage/慢跑1000米.md",
     "Templates/Homepage/002_稍后再看.md",
-    "Templates/Daily_note_template.md",
     "Templates/Homepage/思考状压DP.md",
     "Templates/Homepage/Templates_研究对小智AI做二次开发_步骤.md",
     "Templates/Homepage/bear 追踪内核编译.md",
