@@ -4,6 +4,30 @@
   resize: vertical;
 }
 
+/* 编辑弹窗：标题是多行自适应文本框，改为纵向布局让文本框占满整行。 */
+.ai-task-butler-editor-modal .setting-item.ai-task-butler-title-setting {
+  flex-direction: column;
+  align-items: stretch;
+  gap: 6px;
+}
+
+.ai-task-butler-editor-modal .setting-item.ai-task-butler-title-setting .setting-item-info {
+  margin-bottom: 0;
+}
+
+.ai-task-butler-editor-modal .setting-item.ai-task-butler-title-setting .setting-item-control {
+  width: 100%;
+  justify-content: stretch;
+}
+
+.ai-task-butler-editor-modal .setting-item.ai-task-butler-title-setting textarea {
+  width: 100%;
+  min-height: 2.8em;
+  resize: vertical;
+  overflow-y: hidden;
+  line-height: 1.4;
+}
+
 .ai-task-butler-draft-status {
   display: flex;
   flex-wrap: wrap;

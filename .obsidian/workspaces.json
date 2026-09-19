@@ -654,8 +654,7 @@
                   "title": "Source Control"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal",
@@ -724,8 +723,7 @@
                   "title": "Advanced Tables"
                 }
               }
-            ],
-            "currentTab": 2
+            ]
           }
         ],
         "direction": "horizontal",
@@ -772,7 +770,7 @@
         }
       },
       "active": "a8fa3bde95b82293",
-      "mtime": "2026-09-19T09:38:16+08:00",
+      "mtime": "2026-09-19T17:47:50+08:00",
       "workspaces-plus:settings-v1": {
         "explorerFoldState": [
           "Vocabulary"

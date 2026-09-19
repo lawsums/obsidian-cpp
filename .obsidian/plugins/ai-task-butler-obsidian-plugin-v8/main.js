@@ -1378,15 +1378,28 @@ class TaskEditorModal extends Modal {
           this.fields.completed = value;
         }));
 
-    // 标题
-    new Setting(contentEl)
+    // 标题：多行自适应文本框 —— 任务标题常含 [[wikilink]] / [markdown 链接]，单行 input 太小放不下。
+    const titleSetting = new Setting(contentEl)
       .setName("标题")
-      .addText((text) => text
-        .setValue(this.fields.title)
-        .setPlaceholder("任务标题...")
-        .onChange((value) => {
-          this.fields.title = value;
-        }));
+      .setDesc("支持 [[链接]] 与 Markdown 语法；换行会在保存时自动合并为空格（任务行必须单行）。")
+      .addTextArea((text) => {
+        text.setValue(this.fields.title)
+          .setPlaceholder("任务标题...")
+          .onChange((value) => {
+            this.fields.title = value;
+          });
+        const input = text.inputEl;
+        input.rows = 2;
+        // 输入时按内容自动增高，长标题不会被裁掉。
+        const autoGrow = () => {
+          input.style.height = "auto";
+          input.style.height = `${Math.max(input.scrollHeight, 44)}px`;
+        };
+        input.addEventListener("input", autoGrow);
+        // Modal 渲染完再量高度，确保初始值（长链接标题）也能撑开。
+        window.setTimeout(autoGrow, 0);
+      });
+    titleSetting.settingEl.addClass("ai-task-butler-title-setting");
 
     // 优先级
     new Setting(contentEl)
@@ -1508,7 +1521,8 @@ class TaskEditorModal extends Modal {
 
   async submit() {
     if (this.isSubmitting) return;
-    const title = String(this.fields.title || "").trim();
+    // 标题里手动敲的换行折叠成空格：Markdown 任务行必须是单行，否则会把一行任务拆散。
+    const title = String(this.fields.title || "").replace(/\s*\n+\s*/g, " ").trim();
     if (!title) {
       new Notice("任务标题不能为空。");
       return;
