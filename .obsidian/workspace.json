@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "18f55df389a21d8c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/120-嵌入式/面试算法题/笔试—深信服嵌入式软件开发笔试.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "笔试—深信服嵌入式软件开发笔试"
+            }
+          },
+          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -127,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,13 +317,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "100-学习/120-嵌入式/面试算法题/笔试—深信服嵌入式软件开发笔试.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "笔试—深信服嵌入式软件开发笔试 的大纲"
             }
           },
           {
@@ -368,14 +393,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "18f55df389a21d8c",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
+    "100-学习/120-嵌入式/面试算法题/笔试—深信服嵌入式软件开发笔试.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Attachments/Pasted image 20260919101322.png",
-    "Templates/Homepage/Homepage.md",
     "Attachments/Pasted image 20260919095147.png",
     "Attachments/Pasted image 20260919094617.png",
-    "100-学习/120-嵌入式/面试算法题/笔试—深信服嵌入式软件开发笔试.md",
     "Dairies/2026-09-19.md",
     "100-学习/170-课程/计算机通信与网络/计算机通信与网络-传信速率与传码速率.md",
     "Templates/Homepage/进行实验室课程考试.md",
