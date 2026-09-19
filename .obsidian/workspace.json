@@ -32,54 +32,6 @@
             }
           },
           {
-            "id": "68c115fbe788d1c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/进行实验室课程考试.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "进行实验室课程考试"
-            }
-          },
-          {
-            "id": "5e1fe8d9d7291799",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100-学习/170-课程/计算机通信与网络/计算机通信与网络-传信速率与传码速率.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "计算机通信与网络-传信速率与传码速率"
-            }
-          },
-          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -175,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -289,18 +240,9 @@
               "icon": "clock",
               "title": "Recent Files"
             }
-          },
-          {
-            "id": "823296351c3bd45e",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -340,13 +282,23 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/进行实验室课程考试.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "进行实验室课程考试 的大纲"
+              "title": "Homepage 的大纲"
+            }
+          },
+          {
+            "id": "823296351c3bd45e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -369,7 +321,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -415,11 +368,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "68c115fbe788d1c3",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/进行实验室课程考试.md",
+    "Dairies/2026-09-19.md",
     "100-学习/170-课程/计算机通信与网络/计算机通信与网络-传信速率与传码速率.md",
+    "Templates/Homepage/进行实验室课程考试.md",
+    "Templates/Homepage/Homepage.md",
     "100-学习/170-课程/计算机通信与网络/计算机通信与网络-传信速率与传码速率.md.tmp.37452.825718431e53",
     "100-学习/170-课程/计算机通信与网络/计算机通信与网络-时延.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
@@ -457,7 +411,6 @@
     "Templates/Homepage/做实验室安全教育.md",
     "Templates/Anki_leetcode.md",
     "Templates/Homepage/打扫一下厕所卫生然后在群里和几个兄弟讲一下.md",
-    "Templates/Homepage/手表方案.md",
     "Leetcode/images/3517_image12.jpg",
     "Leetcode/images/3517_image11.jpg",
     "Leetcode/images/3517_image10.jpg",
