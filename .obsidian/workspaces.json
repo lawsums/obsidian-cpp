@@ -643,9 +643,19 @@
                   "icon": "clock",
                   "title": "Recent Files"
                 }
+              },
+              {
+                "id": "823296351c3bd45e",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "horizontal",
@@ -695,16 +705,6 @@
                 }
               },
               {
-                "id": "823296351c3bd45e",
-                "type": "leaf",
-                "state": {
-                  "type": "git-view",
-                  "state": {},
-                  "icon": "git-pull-request",
-                  "title": "Source Control"
-                }
-              },
-              {
                 "id": "4cb9d123a5756450",
                 "type": "leaf",
                 "state": {
@@ -733,6 +733,7 @@
       },
       "left-ribbon": {
         "hiddenItems": {
+          "anki-interview-helper:新建面试题卡片": false,
           "ai-task-butler:AI Task Butler: open task navigator": false,
           "nutstore-sync:开始同步": false,
           "nutstore-sync:停止同步": false,
@@ -771,9 +772,11 @@
         }
       },
       "active": "a8fa3bde95b82293",
-      "mtime": "2026-09-08T23:19:14+08:00",
+      "mtime": "2026-09-19T09:38:16+08:00",
       "workspaces-plus:settings-v1": {
-        "explorerFoldState": []
+        "explorerFoldState": [
+          "Vocabulary"
+        ]
       }
     }
   },
