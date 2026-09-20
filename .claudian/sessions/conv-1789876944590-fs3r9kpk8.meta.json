@@ -4,22 +4,21 @@
   "title": "Explain Poisson process problem types",
   "titleGenerationStatus": "success",
   "createdAt": 1789876944591,
-  "updatedAt": 1789877012140,
-  "lastResponseAt": 1789877012140,
+  "updatedAt": 1789892228612,
+  "lastResponseAt": 1789892228612,
   "sessionId": "4b32d072-af44-4837-aa46-74d9ffd65d23",
   "selectedModel": "haiku",
   "providerState": {
     "providerSessionId": "4b32d072-af44-4837-aa46-74d9ffd65d23"
   },
-  "currentNote": "100-学习/170-课程/随机过程/随机过程-第一章知识点.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 420,
+    "inputTokens": 430,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 62720,
+    "cacheReadInputTokens": 82944,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 63140,
-    "percentage": 32
+    "contextTokens": 83374,
+    "percentage": 42
   }
 }
