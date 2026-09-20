@@ -760,7 +760,9 @@ sort by description
 - [x] 买牙膏 #task ⏫ ➕ 2026-09-05 ⏳ 2026-09-06 ✅ 2026-09-06 ^task-20260905-268d8441
 - [x] 按照deepseek说的破除虚无主义 #哲学 #虚无主义 🔺 ➕ 2026-09-06 🛫 2026-09-06 ⏳ 2026-09-09 ✅ 2026-09-10 ^task-20260906-9ef72adc
 - [x] 中午去找周老师 #meeting #teacher 🔺 ➕ 2026-09-06 🛫 2026-09-08 ⏳ 2026-09-08 ✅ 2026-09-08 ^task-20260906-7f0541e0
-- [ ] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?vd_source=cf6228c0b4a5c283905e22fd11934994&spm_id_from=333.788.videopod.episodes&p=100) #linux #daily 🔺 🔁 every day 🛫 2026-09-17 ⏳ 2026-09-19
+- [ ] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?vd_source=cf6228c0b4a5c283905e22fd11934994&spm_id_from=333.788.videopod.episodes&p=100) #linux #daily 🔺 🔁 every day 🛫 2026-09-19 ⏳ 2026-09-21
+- [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?vd_source=cf6228c0b4a5c283905e22fd11934994&spm_id_from=333.788.videopod.episodes&p=100) #linux #daily 🔺 🔁 every day 🛫 2026-09-18 ⏳ 2026-09-20 ✅ 2026-09-20
+- [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?vd_source=cf6228c0b4a5c283905e22fd11934994&spm_id_from=333.788.videopod.episodes&p=100) #linux #daily 🔺 🔁 every day 🛫 2026-09-17 ⏳ 2026-09-19 ✅ 2026-09-20
 - [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?vd_source=cf6228c0b4a5c283905e22fd11934994&spm_id_from=333.788.videopod.episodes&p=100) #linux #daily 🔺 🔁 every day 🛫 2026-09-16 ⏳ 2026-09-18 ✅ 2026-09-19
 - [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?vd_source=cf6228c0b4a5c283905e22fd11934994&spm_id_from=333.788.videopod.episodes&p=100) #linux #daily 🔺 🔁 every day 🛫 2026-09-15 ⏳ 2026-09-17 ✅ 2026-09-18
 - [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?spm_id_from=333.337.search-card.all.click&vd_source=cf6228c0b4a5c283905e22fd11934994) #linux #daily 🔺 🔁 every day 🛫 2026-09-14 ⏳ 2026-09-16 ✅ 2026-09-17
@@ -825,7 +827,7 @@ sort by description
 - [x] 解决现在知识卡片会重复导入的问题(通过加入标记)，还有Deck应该是DECK全大写才行 #bug #import 🔺 ➕ 2026-09-14 🛫 2026-09-14 ⏳ 2026-09-15 ✅ 2026-09-15 ^task-20260914-f4c86038
 - [x] 刷一下校园卡激活一下 #校园卡 🔺 ➕ 2026-09-14 🛫 2026-09-14 ⏳ 2026-09-15 ✅ 2026-09-15 ^task-20260914-28117c96
 - [x] 明天试试用deepseek harness给sly刷课 #ai #sly 🔺 ➕ 2026-09-15 🛫 2026-09-16 ⏳ 2026-09-16 ✅ 2026-09-16 ^task-20260915-cc67aacc
-- [ ] [[投递一个家教]] #家教 #求职 🔺 ➕ 2026-09-15 🛫 2026-09-15 ⏳ 2026-09-20 ^task-20260915-847a4ce1
+- [x] [[投递一个家教]] #家教 #求职 🔺 ➕ 2026-09-15 🛫 2026-09-15 ⏳ 2026-09-20 ✅ 2026-09-20 ^task-20260915-847a4ce1
 - [x] 填一下学生证内容然后交一下 #学生证 🔺 ➕ 2026-09-15 🛫 2026-09-15 ⏳ 2026-09-15 ✅ 2026-09-15 ^task-20260915-124aa140
 - [x] 交学生证 #task 🔺 ➕ 2026-09-15 ⏳ 2026-09-16 ✅ 2026-09-16 ^task-20260915-c1854b50
 - [x] 做linux实验 #task 🔺 ➕ 2026-09-15 ⏳ 2026-09-16 ✅ 2026-09-17 ^task-20260915-6e8253f1
