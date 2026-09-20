@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "obsidian",
+      "path": "Software/obsidian.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "左程云",
-      "path": "Templates/Homepage/左程云.md"
+      "basename": "上一节人工智能通识课",
+      "path": "Templates/Homepage/上一节人工智能通识课.md"
+    },
+    {
+      "basename": "随机过程-第一章知识点",
+      "path": "100-学习/170-课程/随机过程/随机过程-第一章知识点.md"
     },
     {
       "basename": "路线梳理",
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
+      "basename": "左程云",
+      "path": "Templates/Homepage/左程云.md"
     },
     {
       "basename": "Daily_note_template",
@@ -31,10 +43,6 @@
     {
       "basename": "README",
       "path": "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/README.md"
-    },
-    {
-      "basename": "随机过程-第一章知识点",
-      "path": "100-学习/170-课程/随机过程/随机过程-第一章知识点.md"
     },
     {
       "basename": "Tasks",

@@ -32,6 +32,102 @@
             }
           },
           {
+            "id": "0cefef2d00e1b4d4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Software/obsidian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "obsidian"
+            }
+          },
+          {
+            "id": "c12ce098ef859cc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/上一节人工智能通识课.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "上一节人工智能通识课"
+            }
+          },
+          {
+            "id": "a2f6b83be458d63f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/170-课程/随机过程/随机过程-第一章知识点.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "随机过程-第一章知识点"
+            }
+          },
+          {
+            "id": "5e24ee6e1d308107",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -127,7 +223,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +257,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "每周五请假",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -366,10 +463,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "0cefef2d00e1b4d4",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20260920102902.png",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/上一节人工智能通识课.md",
+    "100-学习/170-课程/随机过程/随机过程-第一章知识点.md",
+    "Templates/Tasks.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Dairies/2026-09-20.md",
     "Templates/Daily_note_template.md",
     "100-学习/120-嵌入式/面试算法题/笔试—深信服嵌入式软件开发笔试.md",
     "Attachments/Pasted image 20260919101322.png",
@@ -396,8 +498,6 @@
     "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/q1-数组游戏连胜数字/test8.out",
     "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/q1-数组游戏连胜数字/test8.in",
     "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/q1-数组游戏连胜数字/test7.out",
-    "Templates/Tasks.md",
-    "100-学习/170-课程/随机过程/随机过程-第一章知识点.md",
     "Templates/Homepage/Tasks.md",
     "100-学习/170-课程/随机过程/随机过程-第二章作业.md",
     "Templates/Homepage/左程云.md",
@@ -409,8 +509,6 @@
     "Templates/Homepage/思考状压DP.md",
     "Templates/Homepage/Templates_研究对小智AI做二次开发_步骤.md",
     "Templates/Homepage/bear 追踪内核编译.md",
-    "Templates/Homepage/做实验室安全教育.md",
-    "Templates/Anki_leetcode.md",
     "Leetcode/images/3517_image12.jpg",
     "Leetcode/images/3517_image11.jpg",
     "Temp/未命名.canvas",
