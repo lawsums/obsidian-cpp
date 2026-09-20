@@ -321,7 +321,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -367,10 +368,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f694d4546176ff30",
+  "active": "7ad080d1a7a76395",
   "lastOpenFiles": [
-    "Templates/Homepage/左程云.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "300-项目/嵌入式/韦东山课程/上下半部流程说明.md",
+    "Templates/Homepage/左程云.md",
     "Attachments/Pasted image 20260920200602.png",
     "Templates/Homepage/Homepage.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
