@@ -4,8 +4,8 @@
   "title": "Explain Poisson process problem types",
   "titleGenerationStatus": "success",
   "createdAt": 1789876944591,
-  "updatedAt": 1789892228612,
-  "lastResponseAt": 1789892228612,
+  "updatedAt": 1789893160607,
+  "lastResponseAt": 1789893160607,
   "sessionId": "4b32d072-af44-4837-aa46-74d9ffd65d23",
   "selectedModel": "haiku",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 430,
+    "inputTokens": 661,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 82944,
+    "cacheReadInputTokens": 109184,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 83374,
-    "percentage": 42
+    "contextTokens": 109845,
+    "percentage": 55
   }
 }

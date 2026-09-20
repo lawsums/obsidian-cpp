@@ -1,28 +1,40 @@
 {
   "recentFiles": [
     {
-      "basename": "随机过程-第四章知识点",
-      "path": "100-学习/170-课程/随机过程/随机过程-第四章知识点.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "进度",
-      "path": "100-学习/170-课程/随机过程/进度.md"
-    },
-    {
-      "basename": "随机过程-泊松过程典型题型",
-      "path": "100-学习/170-课程/随机过程/随机过程-泊松过程典型题型.md"
+      "basename": "左程云",
+      "path": "Templates/Homepage/左程云.md"
     },
     {
       "basename": "学习rust",
       "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "随机过程-第三章作业",
+      "path": "100-学习/170-课程/随机过程/随机过程-第三章作业.md"
+    },
+    {
+      "basename": "进度",
+      "path": "100-学习/170-课程/随机过程/进度.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
+      "basename": "随机过程-第四章知识点",
+      "path": "100-学习/170-课程/随机过程/随机过程-第四章知识点.md"
     },
     {
       "basename": "随机过程-第一章知识点",
       "path": "100-学习/170-课程/随机过程/随机过程-第一章知识点.md"
+    },
+    {
+      "basename": "随机过程-泊松过程典型题型",
+      "path": "100-学习/170-课程/随机过程/随机过程-泊松过程典型题型.md"
     },
     {
       "basename": "上一节人工智能通识课",
@@ -35,10 +47,6 @@
     {
       "basename": "路线梳理",
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
-    },
-    {
-      "basename": "左程云",
-      "path": "Templates/Homepage/左程云.md"
     },
     {
       "basename": "Daily_note_template",
