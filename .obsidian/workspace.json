@@ -320,8 +320,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -367,8 +366,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "9dc770d0e0eb3520",
   "lastOpenFiles": [
+    "100-学习/120-嵌入式/面试八股文/编译和调试.md",
+    "100-学习/120-嵌入式/面试八股文/编译和调试/编译和调试.md",
+    "100-学习/120-嵌入式/面试八股文/编译和调试",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "300-项目/嵌入式/韦东山课程/上下半部流程说明.md",
     "Templates/Homepage/左程云.md",
@@ -410,10 +412,7 @@
     "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/q3-病毒伪装度/test10.in",
     "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/q1-数组游戏连胜数字/test8.out",
     "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/q1-数组游戏连胜数字/test8.in",
-    "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/q1-数组游戏连胜数字/test7.out",
     "Templates/Homepage/Tasks.md",
-    "100-学习/170-课程/随机过程/随机过程-第二章作业.md",
-    "Dairies/2026-09-17.md",
     "Attachments/Pasted image 20260916235910.png",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",

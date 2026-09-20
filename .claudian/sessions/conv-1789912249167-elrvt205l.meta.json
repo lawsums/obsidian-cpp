@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789912249167-elrvt205l",
+  "providerId": "claude",
+  "title": "Create compilation and debugging interview folder",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789912249168,
+  "updatedAt": 1789912317935,
+  "lastResponseAt": 1789912317935,
+  "sessionId": "11f395fb-7429-4f40-b5c0-76577ef7169b",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "11f395fb-7429-4f40-b5c0-76577ef7169b"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 250,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 42880,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 43130,
+    "percentage": 22
+  }
+}
