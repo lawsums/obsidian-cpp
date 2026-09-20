@@ -5,16 +5,16 @@
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
+      "basename": "左程云",
+      "path": "Templates/Homepage/左程云.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "学习rust",
       "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
-    },
-    {
-      "basename": "左程云",
-      "path": "Templates/Homepage/左程云.md"
     },
     {
       "basename": "随机过程-第三章作业",
