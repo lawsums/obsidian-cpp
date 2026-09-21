@@ -1,0 +1,24 @@
+{
+  "id": "conv-1789954359695-uaricht9j",
+  "providerId": "claude",
+  "title": "Organize problem-solving process into Markov ch...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1789954359696,
+  "updatedAt": 1789954465013,
+  "lastResponseAt": 1789954465013,
+  "sessionId": "557160e9-70f0-4594-ad6f-17edd5c52506",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "557160e9-70f0-4594-ad6f-17edd5c52506"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1123,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 55552,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 56675,
+    "percentage": 28
+  }
+}
