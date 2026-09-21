@@ -1,7 +1,57 @@
 ---
 <%* 
 // 1. 所有需要的变量统一在顶部声明（避免重复声明）
-let url = await tp.system.clipboard();
+// 0. 读剪贴板，拆出「语言 + URL」
+// 剪贴板格式： "<语言> <URL>"  或  直接 "<URL>"（默认 cpp）
+// 例：py https://leetcode.cn/problems/two-sum/  →  生成 two-sum.py
+const LANG_MAP = {
+  cpp:        { slug: 'cpp',        ext: 'cpp',   prelude: '#include <bits/stdc++.h>\nusing namespace std;\n\n' },
+  'c++':      { slug: 'cpp',        ext: 'cpp',   prelude: '#include <bits/stdc++.h>\nusing namespace std;\n\n' },
+  c:          { slug: 'c',          ext: 'c',     prelude: '' },
+  python:     { slug: 'python3',    ext: 'py',    prelude: '' },
+  python3:    { slug: 'python3',    ext: 'py',    prelude: '' },
+  py:         { slug: 'python3',    ext: 'py',    prelude: '' },
+  py3:        { slug: 'python3',    ext: 'py',    prelude: '' },
+  java:       { slug: 'java',       ext: 'java',  prelude: '' },
+  js:         { slug: 'javascript', ext: 'js',    prelude: '' },
+  javascript: { slug: 'javascript', ext: 'js',    prelude: '' },
+  ts:         { slug: 'typescript', ext: 'ts',    prelude: '' },
+  typescript: { slug: 'typescript', ext: 'ts',    prelude: '' },
+  go:         { slug: 'golang',     ext: 'go',    prelude: '' },
+  golang:     { slug: 'golang',     ext: 'go',    prelude: '' },
+  rust:       { slug: 'rust',       ext: 'rs',    prelude: '' },
+  cs:         { slug: 'csharp',     ext: 'cs',    prelude: '' },
+  csharp:     { slug: 'csharp',     ext: 'cs',    prelude: '' },
+  'c#':       { slug: 'csharp',     ext: 'cs',    prelude: '' },
+  kt:         { slug: 'kotlin',     ext: 'kt',    prelude: '' },
+  kotlin:     { slug: 'kotlin',     ext: 'kt',    prelude: '' },
+  swift:      { slug: 'swift',      ext: 'swift', prelude: '' },
+  rb:         { slug: 'ruby',       ext: 'rb',    prelude: '' },
+  ruby:       { slug: 'ruby',       ext: 'rb',    prelude: '' },
+  php:        { slug: 'php',        ext: 'php',   prelude: '' },
+  dart:       { slug: 'dart',       ext: 'dart',  prelude: '' },
+  scala:      { slug: 'scala',      ext: 'scala', prelude: '' },
+  elixir:     { slug: 'elixir',     ext: 'ex',    prelude: '' },
+  erlang:     { slug: 'erlang',     ext: 'erl',   prelude: '' },
+  racket:     { slug: 'racket',     ext: 'rkt',   prelude: '' },
+  cangjie:    { slug: 'cangjie',    ext: 'cj',    prelude: '' },
+};
+
+let rawClip = ((await tp.system.clipboard()) || '').trim();
+let url = rawClip;
+let langKey = 'cpp';
+
+const langMatch = rawClip.match(/^([A-Za-z+#]+)\s+(https?:\/\/\S+)$/);
+if (langMatch) {
+  url = langMatch[2];
+  const key = langMatch[1].toLowerCase();
+  if (LANG_MAP[key]) {
+    langKey = key;
+  } else {
+    new tp.obsidian.Notice(`未识别语言前缀 "${langMatch[1]}"，已回退到 cpp`);
+  }
+}
+const LANG = LANG_MAP[langKey];
 let question = await tp.user.getLeetcodeProblem(tp, url, {
   download_imgs: true,
   img_folder: "assets/leetcode_imgs"
@@ -11,15 +61,18 @@ let question = await tp.user.getLeetcodeProblem(tp, url, {
 // console.log(question);
 // console.log(question.codeSnippets);
 
-// 1. 筛选出 cpp 对应的字典（find 方法：找到第一个匹配项）
-const cppSnippet = question.codeSnippets.find(snippet => snippet.langSlug === 'cpp');
+// 1. 按语言筛选代码片段（LANG 在顶部解析）
+const snippet = question.codeSnippets.find(s => s.langSlug === LANG.slug);
 
-// 2. 安全提取 code（避免找不到时报错）同时自定义all前缀
-const cppCode = cppSnippet ? cppSnippet.code : '';
-const all = "#include <bits/stdc++.h>\nusing namespace std;\n\n" 
+// 2. 安全提取 code（避免找不到时报错）；预置头由 LANG.prelude 提供
+const code = snippet ? snippet.code : '';
+if (!snippet) {
+  new tp.obsidian.Notice(`该题没有 ${LANG.slug} 的代码模板，源文件只写预置头。`);
+}
+const all = LANG.prelude;
 
 // 3. 打印结果
-// console.log(cppCode);
+// console.log(code);
 
 // TODO 
 // console.log(question.similarQuestions);
@@ -82,18 +135,18 @@ const targetFile = tp.config.target_file;
 const fs = require('fs');
 const path = require('path');
 
-// 2. 拼接 .cpp 文件路径（和笔记同名同目录）
-const cppFilePath = path.join(
+// 2. 拼接源文件路径（和笔记同名同目录，扩展名随语言）
+const srcFilePath = path.join(
   targetFile.vault.adapter.basePath,
   targetFile.parent.path,
-  `${targetFile.basename}.cpp`
+  `${targetFile.basename}.${LANG.ext}`
 );
 
-// 3. 自动创建空白 .cpp 文件（不存在时） 写入codeSinppet
-if (!fs.existsSync(cppFilePath)) {
+// 3. 自动创建源文件（不存在时） 写入 codeSnippet
+if (!fs.existsSync(srcFilePath)) {
   try {
-    fs.writeFileSync(cppFilePath, all + cppCode + "\n", 'utf-8'); 
-    console.log(`已创建空白文件：${cppFilePath}`);
+    fs.writeFileSync(srcFilePath, all + code + "\n", 'utf-8'); 
+    console.log(`已创建源文件：${srcFilePath}`);
   } catch (error) {
     console.error(`创建文件失败：${error.message}`);
   }
@@ -102,9 +155,9 @@ if (!fs.existsSync(cppFilePath)) {
 // 4. 生成 Neovim 打开命令（Windows 适配）
 let openNvimCommand;
 if (process.platform === "win32") {
-  openNvimCommand = `${cppFilePath}`;
+  openNvimCommand = `${srcFilePath}`;
 } else {
-  openNvimCommand = `nvim "${cppFilePath}"`;
+  openNvimCommand = `nvim "${srcFilePath}"`;
 }
 const nvimLink = `file:///${encodeURIComponent(openNvimCommand)}`;
 
@@ -112,13 +165,13 @@ const nvimLink = `file:///${encodeURIComponent(openNvimCommand)}`;
 let openVscodeCommand;
 if (process.platform === "win32") {
   // Windows 下直接用 code 命令（需确保 VS Code 已加入环境变量）
-  openVscodeCommand = `code "${cppFilePath}"`;
+  openVscodeCommand = `code "${srcFilePath}"`;
 } else if (process.platform === "darwin") {
   // MacOS 下的 VS Code 命令
-  openVscodeCommand = `code "${cppFilePath}"`;
+  openVscodeCommand = `code "${srcFilePath}"`;
 } else {
   // Linux 下的 VS Code 命令
-  openVscodeCommand = `code "${cppFilePath}"`;
+  openVscodeCommand = `code "${srcFilePath}"`;
 }
 const vscodeLink = `file:///${encodeURIComponent(openVscodeCommand)}`;
 
@@ -159,6 +212,6 @@ _%>
 ## 0.3 Solution 
 **记得复制题目**
 
-![[<% `${targetFile.basename}.cpp` %>]]
+![[<% `${targetFile.basename}.${LANG.ext}` %>]]
 
 END

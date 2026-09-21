@@ -14,6 +14,11 @@
     LeetCode 中文站题目链接。给了就写进剪贴板（模板只读剪贴板，不读参数）。
     不给则直接用当前剪贴板内容。
 
+.PARAMETER Lang
+    刷题语言，默认 cpp。别名见脚本里的 $LANG_KEYS（py / python3 / python 等价，
+    js / javascript 等价…）。最终写进剪贴板的是 "<语言> <URL>"，由模板解析出
+    langSlug、文件扩展名和预置头。
+
 .PARAMETER TimeoutSec
     等待新笔记出现的秒数，默认 120。
 
@@ -29,6 +34,7 @@ param(
     [Parameter(Position = 0)]
     [string]$Url,
 
+    [string]$Lang         = 'cpp',
     [string]$Vault        = 'Cpp',
     [string]$CommandId    = 'quickadd:choice:7f2392c8-cda6-45e2-98ee-702bfff75a17',
     [string]$LeetcodeDir  = 'Leetcode',
@@ -55,10 +61,36 @@ $lcDir     = Join-Path $vaultRoot $LeetcodeDir
 
 if (-not (Test-Path $lcDir)) { throw "找不到 Leetcode 目录：$lcDir" }
 
-# ---------- 准备 URL ----------
-if (-not $Url) { $Url = Get-Clipboard -Raw }
-if (-not $Url) { throw "剪贴板为空，且没有用 -Url 传入链接。" }
-$Url = ($Url -replace '\s', '').Trim()
+# ---------- 语言别名（与 Templates/Leetcode_problem_template.md 的 LANG_MAP 保持对齐）----------
+$LANG_KEYS = @(
+    'cpp', 'c++', 'c',
+    'python', 'python3', 'py', 'py3',
+    'java', 'js', 'javascript', 'ts', 'typescript',
+    'go', 'golang', 'rust',
+    'cs', 'csharp', 'c#', 'kt', 'kotlin', 'swift', 'rb', 'ruby',
+    'php', 'dart', 'scala', 'elixir', 'erlang', 'racket', 'cangjie'
+)
+
+# 语言 → 源文件扩展名（探测新文件时要用）
+$EXT_MAP = @{
+    'cpp' = 'cpp'; 'c++' = 'cpp'; 'c' = 'c'
+    'python' = 'py'; 'python3' = 'py'; 'py' = 'py'; 'py3' = 'py'
+    'java' = 'java'; 'js' = 'js'; 'javascript' = 'js'; 'ts' = 'ts'; 'typescript' = 'ts'
+    'go' = 'go'; 'golang' = 'go'; 'rust' = 'rs'
+    'cs' = 'cs'; 'csharp' = 'cs'; 'c#' = 'cs'; 'kt' = 'kt'; 'kotlin' = 'kt'
+    'swift' = 'swift'; 'rb' = 'rb'; 'ruby' = 'rb'
+    'php' = 'php'; 'dart' = 'dart'; 'scala' = 'scala'
+    'elixir' = 'ex'; 'erlang' = 'erl'; 'racket' = 'rkt'; 'cangjie' = 'cj'
+}
+
+# ---------- 准备 URL 与语言 ----------
+$raw = if ($Url) { $Url } else { Get-Clipboard -Raw }
+if (-not $raw) { throw "剪贴板为空，且没有用 -Url 传入链接。" }
+$raw = $raw.Trim()
+
+# 剪贴板里可能已经是 "<语言> <URL>"，先把 URL 抽出来
+if ($raw -match '(https?://\S+)') { $Url = $Matches[1] }
+else { throw "不是 LeetCode 题目链接：$raw" }
 
 $slug = $null
 if     ($Url -match 'leetcode\.cn/problems/([^/?#]+)')  { $slug = $Matches[1] }
@@ -69,12 +101,21 @@ elseif ($Url -match 'leetcode\.com/problems/([^/?#]+)') {
 }
 else { throw "不是 LeetCode 题目链接：$Url" }
 
-Write-Host "[anki-problem] slug = $slug" -ForegroundColor Cyan
+$Lang = $Lang.ToLower()
+if ($LANG_KEYS -notcontains $Lang) {
+    throw "不认识的语言 '$Lang'。可用：$($LANG_KEYS -join ', ')"
+}
 
-# 模板读的是剪贴板，所以显式传 URL 时要回写剪贴板
-if ($PSBoundParameters.ContainsKey('Url')) {
-    Set-Clipboard -Value $Url
-    Write-Host "[anki-problem] 已把链接写入剪贴板（模板从这里读）" -ForegroundColor DarkGray
+Write-Host "[anki-problem] slug = $slug" -ForegroundColor Cyan
+Write-Host "[anki-problem] 语言 = $Lang" -ForegroundColor Cyan
+
+# 模板读剪贴板，格式 "<语言> <URL>"。
+# 只在用户显式指定了 -Url / -Lang 时才回写，避免干扰手动贴链接的老习惯（无前缀 = cpp）。
+if ($PSBoundParameters.ContainsKey('Url') -or $PSBoundParameters.ContainsKey('Lang')) {
+    Set-Clipboard -Value "$Lang $Url"
+    Write-Host "[anki-problem] 剪贴板 → '$Lang $Url'" -ForegroundColor DarkGray
+} else {
+    Write-Host "[anki-problem] 沿用剪贴板原文，语言交给模板解析（无前缀 = cpp）" -ForegroundColor DarkGray
 }
 
 # ---------- 记录触发前的目录快照 ----------
@@ -137,10 +178,11 @@ if (-not $newMd) {
     exit 1
 }
 
-# ---------- 等重命名落定 + 配套 .cpp 落地 ----------
+# ---------- 等重命名落定 + 配套源文件落地 ----------
 # 关键：QuickAdd 先按 fileNameFormat 建一个"半成品"文件（如 20260921200804.md），
 # Templater 随后执行 tp.file.rename() 才改成 <题号>.<标题>.md。
-# 所以刚探测到的那一瞬文件名是旧的，直接拿它拼 .cpp 必然找不到 —— 必须等名字稳定。
+# 所以刚探测到的那一瞬文件名是旧的，直接拿它拼源文件路径必然找不到 —— 必须等名字稳定。
+$ext            = $EXT_MAP[$Lang]
 $settleDeadline = (Get-Date).AddSeconds(60)
 $lastName   = $newMd.Name
 $stableHits = 0
@@ -155,7 +197,7 @@ while ((Get-Date) -lt $settleDeadline) {
     if ($newMd.Name -eq $lastName) { $stableHits++ }
     else                           { $stableHits = 0; $lastName = $newMd.Name }
 
-    $candidateCpp = Join-Path $lcDir ($newMd.BaseName + '.cpp')
+    $candidateCpp = Join-Path $lcDir ($newMd.BaseName + ".$ext")
     if ((Test-Path -LiteralPath $candidateCpp) -and ($stableHits -ge 1)) {
         $cppPath = $candidateCpp
         break
@@ -169,9 +211,9 @@ Write-Host ''
 Write-Host "[anki-problem] OK 新笔记：$($newMd.Name)" -ForegroundColor Green
 if ($cppPath) {
     $size = (Get-Item -LiteralPath $cppPath).Length
-    Write-Host "[anki-problem] OK 配套 .cpp：$($newMd.BaseName).cpp ($size 字节)" -ForegroundColor Green
+    Write-Host "[anki-problem] OK 配套 .$ext：$($newMd.BaseName).$ext ($size 字节)" -ForegroundColor Green
 } else {
-    Write-Host "[anki-problem] WARN 没等到同名 .cpp（该题 codeSnippets 里可能没有 cpp）。" -ForegroundColor Yellow
+    Write-Host "[anki-problem] WARN 没等到同名 .$ext（该题 codeSnippets 里可能没有 '$Lang' 对应的模板）。" -ForegroundColor Yellow
 }
 Write-Host "[anki-problem] 路径：$($newMd.FullName)" -ForegroundColor DarkGray
 
