@@ -1203,8 +1203,8 @@
           "command": true,
           "templatePath": "Templates/Leetcode_problem_template.md",
           "fileNameFormat": {
-            "enabled": true,
-            "format": "{{DATE:YYYYMMDDHHmmss}}"
+            "enabled": false,
+            "format": ""
           },
           "folder": {
             "enabled": true,
