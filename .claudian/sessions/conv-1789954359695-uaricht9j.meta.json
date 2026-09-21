@@ -4,8 +4,8 @@
   "title": "Organize problem-solving process into Markov ch...",
   "titleGenerationStatus": "success",
   "createdAt": 1789954359696,
-  "updatedAt": 1789977441576,
-  "lastResponseAt": 1789977441576,
+  "updatedAt": 1789986472231,
+  "lastResponseAt": 1789986472231,
   "sessionId": "557160e9-70f0-4594-ad6f-17edd5c52506",
   "selectedModel": "haiku",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 758,
+    "inputTokens": 137,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 165632,
+    "cacheReadInputTokens": 50432,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 166390,
-    "percentage": 83
+    "contextTokens": 50569,
+    "percentage": 25
   }
 }

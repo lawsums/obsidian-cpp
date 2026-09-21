@@ -199,8 +199,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -364,13 +363,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/170-课程/随机过程/随机过程-第三章作业.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "随机过程-第三章作业 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -393,8 +392,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -440,7 +438,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7ad080d1a7a76395",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "100-学习/170-课程/随机过程/随机过程-第一章知识点.md",
     "100-学习/170-课程/随机过程/随机过程-第三章作业.md",
