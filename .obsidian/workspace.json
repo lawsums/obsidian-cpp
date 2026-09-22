@@ -369,7 +369,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -415,7 +416,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "7ad080d1a7a76395",
   "lastOpenFiles": [
     "100-学习/170-课程/随机过程/随机过程-第三章作业.md.tmp.12292.34c9a999c6da",
     "100-学习/170-课程/随机过程/随机过程-第三章作业.md.tmp.12292.27aa9b2747a5",
