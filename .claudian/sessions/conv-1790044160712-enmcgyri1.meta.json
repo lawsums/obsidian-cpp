@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790044160712-enmcgyri1",
+  "providerId": "claude",
+  "title": "Organize notes into random process folder",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790044160713,
+  "updatedAt": 1790044239621,
+  "lastResponseAt": 1790044239621,
+  "sessionId": "692a6b0b-a73c-4280-8b9b-78a170ae48cd",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "692a6b0b-a73c-4280-8b9b-78a170ae48cd"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 398,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 57472,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 57870,
+    "percentage": 29
+  }
+}

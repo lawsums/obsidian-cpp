@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "8f973ada4b95489f",
+            "id": "82cb43ac33366a03",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Leetcode/2325.选择建筑的方案数.md",
+                "file": "100-学习/170-课程/随机过程/进度.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2325.选择建筑的方案数"
+              "title": "进度"
             }
           },
           {
@@ -152,7 +152,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -391,13 +391,16 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "8f973ada4b95489f",
+  "active": "9dc770d0e0eb3520",
   "lastOpenFiles": [
+    "100-学习/170-课程/随机过程/随机过程-第六章知识点.md",
+    "Leetcode/2325.选择建筑的方案数.md",
+    "100-学习/170-课程/随机过程/进度.md",
+    "Templates/Homepage/Homepage.md",
+    "Temp/__ways_test.py",
     "Leetcode/2325.选择建筑的方案数.py",
     "Leetcode/400.第 N 位数字.md",
-    "Leetcode/2325.选择建筑的方案数.md",
     "Leetcode/400.第 N 位数字.py",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-09-22.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Leetcode/53.最大子数组和.md",
@@ -416,7 +419,6 @@
     "Leetcode/images/1224_falling-grid.jpg",
     "Leetcode/1224.下降路径最小和  II.md",
     "Templates/Tasks.md",
-    "100-学习/170-课程/随机过程/进度.md",
     "Templates/Daily_note_template.md",
     "100-学习/170-课程/随机过程/随机过程-第三章作业.md",
     "Templates/Homepage/学写一下Makefile.md",
@@ -436,9 +438,7 @@
     "Attachments/Pasted image 20260919101322.png",
     "Attachments/Pasted image 20260919095147.png",
     "Attachments/Pasted image 20260919094617.png",
-    "100-学习/170-课程/计算机通信与网络/计算机通信与网络-传信速率与传码速率.md.tmp.37452.825718431e53",
     "Attachments/Pasted image 20260918204836.png",
-    "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/q1.cpp~",
     "Temp/未命名.canvas",
     "项目/Agent开发/未命名.canvas",
     "未命名.canvas",

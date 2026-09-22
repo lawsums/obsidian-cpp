@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
       "basename": "2325.选择建筑的方案数",
       "path": "Leetcode/2325.选择建筑的方案数.md"
     },
     {
-      "basename": "400.第 N 位数字",
-      "path": "Leetcode/400.第 N 位数字.md"
+      "basename": "进度",
+      "path": "100-学习/170-课程/随机过程/进度.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
     {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+      "basename": "400.第 N 位数字",
+      "path": "Leetcode/400.第 N 位数字.md"
     },
     {
       "basename": "1224.下降路径最小和  II",
@@ -23,10 +27,6 @@
     {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
-    },
-    {
-      "basename": "进度",
-      "path": "100-学习/170-课程/随机过程/进度.md"
     },
     {
       "basename": "Daily_note_template",
