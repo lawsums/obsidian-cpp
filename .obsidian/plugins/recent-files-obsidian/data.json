@@ -5,16 +5,28 @@
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
-      "basename": "2325.选择建筑的方案数",
-      "path": "Leetcode/2325.选择建筑的方案数.md"
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "随机过程-平稳过程典型题型",
+      "path": "100-学习/170-课程/随机过程/随机过程-平稳过程典型题型.md"
+    },
+    {
+      "basename": "随机过程-第六章知识点",
+      "path": "100-学习/170-课程/随机过程/随机过程-第六章知识点.md"
     },
     {
       "basename": "进度",
       "path": "100-学习/170-课程/随机过程/进度.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "2325.选择建筑的方案数",
+      "path": "Leetcode/2325.选择建筑的方案数.md"
     },
     {
       "basename": "400.第 N 位数字",

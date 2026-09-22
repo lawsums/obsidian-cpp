@@ -4,8 +4,8 @@
   "title": "Organize notes into random process folder",
   "titleGenerationStatus": "success",
   "createdAt": 1790044160713,
-  "updatedAt": 1790044239621,
-  "lastResponseAt": 1790044239621,
+  "updatedAt": 1790045035606,
+  "lastResponseAt": 1790045035606,
   "sessionId": "692a6b0b-a73c-4280-8b9b-78a170ae48cd",
   "selectedModel": "haiku",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 398,
+    "inputTokens": 158,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 57472,
+    "cacheReadInputTokens": 74880,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 57870,
-    "percentage": 29
+    "contextTokens": 75038,
+    "percentage": 38
   }
 }
