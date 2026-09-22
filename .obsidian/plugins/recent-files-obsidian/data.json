@@ -5,6 +5,10 @@
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
+      "basename": "随机过程-第三章作业",
+      "path": "100-学习/170-课程/随机过程/随机过程-第三章作业.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -43,10 +47,6 @@
     {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
-    },
-    {
-      "basename": "随机过程-第三章作业",
-      "path": "100-学习/170-课程/随机过程/随机过程-第三章作业.md"
     },
     {
       "basename": "学写一下Makefile",
