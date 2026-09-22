@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -316,13 +315,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "路线梳理 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -391,15 +390,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f694d4546176ff30",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "100-学习/170-课程/随机过程/随机过程-第三章知识点.md",
     "100-学习/170-课程/随机过程/随机过程-第三章作业.md",
     "100-学习/170-课程/随机过程/随机过程-第三章作业.md.tmp.12292.34c9a999c6da",
     "100-学习/170-课程/随机过程/随机过程-第三章作业.md.tmp.12292.27aa9b2747a5",
     "100-学习/170-课程/随机过程/随机过程-第三章作业.md.tmp.12292.b8387ca5f18f",
     "Templates/Homepage/Homepage.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Attachments/Pasted image 20260922120714.png",
     "100-学习/170-课程/随机过程/随机过程-平稳过程典型题型.md",
     "100-学习/170-课程/随机过程/随机过程-第六章知识点.md",
