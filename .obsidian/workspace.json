@@ -369,8 +369,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -416,7 +415,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7ad080d1a7a76395",
+  "active": "9dc770d0e0eb3520",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
     "100-学习/170-课程/图像处理/图像处理-第3章知识点.md",
