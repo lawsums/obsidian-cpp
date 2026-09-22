@@ -1,12 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "图像处理-第3章知识点",
-      "path": "100-学习/170-课程/图像处理/图像处理-第3章知识点.md"
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
+      "basename": "慢跑1000米",
+      "path": "Templates/Homepage/慢跑1000米.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
     },
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "图像处理-第3章知识点",
+      "path": "100-学习/170-课程/图像处理/图像处理-第3章知识点.md"
     },
     {
       "basename": "路线梳理",
@@ -43,14 +55,6 @@
     {
       "basename": "1224.下降路径最小和  II",
       "path": "Leetcode/1224.下降路径最小和  II.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "学写一下Makefile",
@@ -123,10 +127,6 @@
     {
       "basename": "晚上完成剩下几个课程并进行实验室课程考试",
       "path": "Templates/Homepage/晚上完成剩下几个课程并进行实验室课程考试.md"
-    },
-    {
-      "basename": "慢跑1000米",
-      "path": "Templates/Homepage/慢跑1000米.md"
     },
     {
       "basename": "002_稍后再看",

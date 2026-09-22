@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "f808ca55764c3a20",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Daily_note_template.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Daily_note_template"
+            }
+          },
+          {
+            "id": "9710c25aa0bd364f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dairies/2026-09-22.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-09-22"
+            }
+          },
+          {
             "id": "9e0497cf73be3214",
             "type": "leaf",
             "state": {
@@ -340,13 +388,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/170-课程/图像处理/图像处理-第3章知识点.md",
+                "file": "Templates/Daily_note_template.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "图像处理-第3章知识点 的大纲"
+              "title": "Daily_note_template 的大纲"
             }
           },
           {
@@ -415,8 +463,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "f808ca55764c3a20",
   "lastOpenFiles": [
+    "Templates/Homepage/慢跑1000米.md",
+    "Templates/Tasks.md",
+    "Dairies/2026-09-22.md",
     "Templates/Homepage/Homepage.md",
     "100-学习/170-课程/图像处理/图像处理-第3章知识点.md",
     "100-学习/170-课程/图像处理/进度.md",
@@ -437,7 +488,6 @@
     "Leetcode/2325.选择建筑的方案数.py",
     "Leetcode/400.第 N 位数字.md",
     "Leetcode/400.第 N 位数字.py",
-    "Dairies/2026-09-22.md",
     "Leetcode/53.最大子数组和.md",
     "Leetcode/141.环形链表.md",
     "Leetcode/20.有效的括号.md",
@@ -450,14 +500,12 @@
     "Leetcode/20.有效的括号.py",
     "Leetcode/images/1224_falling-grid.jpg",
     "Leetcode/1224.下降路径最小和  II.md",
-    "Templates/Tasks.md",
     "Templates/Daily_note_template.md",
     "Templates/Homepage/学写一下Makefile.md",
     "100-学习/170-课程/随机过程/随机过程-第一章知识点.md",
     "100-学习/170-课程/随机过程/随机过程-马尔可夫链典型题型.md",
     "100-学习/170-课程/随机过程/随机过程-第四章知识点.md",
     "100-学习/120-嵌入式/面试八股文/编译和调试.md",
-    "100-学习/120-嵌入式/面试八股文/编译和调试/编译和调试.md",
     "Attachments/Pasted image 20260920200602.png",
     "Attachments/Pasted image 20260920102902.png",
     "Attachments/Pasted image 20260919101322.png",
