@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "36ef54242bb3e07e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/170-课程/随机过程/随机过程-第三章作业.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "随机过程-第三章作业"
+            }
+          },
+          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -316,12 +340,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "100-学习/170-课程/随机过程/随机过程-第三章作业.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "随机过程-第三章作业 的大纲"
             }
           },
           {
@@ -344,8 +369,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -391,12 +415,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "b84319e13437e070",
+  "active": "9dc770d0e0eb3520",
   "lastOpenFiles": [
+    "100-学习/170-课程/随机过程/随机过程-第三章作业.md.tmp.12292.27aa9b2747a5",
+    "100-学习/170-课程/随机过程/随机过程-第三章作业.md.tmp.12292.b8387ca5f18f",
+    "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Attachments/Pasted image 20260922120714.png",
     "100-学习/170-课程/随机过程/随机过程-第三章作业.md",
-    "Templates/Homepage/Homepage.md",
     "100-学习/170-课程/随机过程/随机过程-平稳过程典型题型.md",
     "100-学习/170-课程/随机过程/随机过程-第六章知识点.md",
     "100-学习/170-课程/随机过程/进度.md",
@@ -430,7 +456,6 @@
     "100-学习/170-课程/随机过程/随机过程-第四章知识点.md",
     "100-学习/120-嵌入式/面试八股文/编译和调试.md",
     "100-学习/120-嵌入式/面试八股文/编译和调试/编译和调试.md",
-    "100-学习/120-嵌入式/面试八股文/编译和调试",
     "300-项目/嵌入式/韦东山课程/上下半部流程说明.md",
     "Templates/Homepage/左程云.md",
     "Attachments/Pasted image 20260920200602.png",
