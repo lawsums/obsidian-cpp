@@ -101,6 +101,10 @@ elseif ($Url -match 'leetcode\.com/problems/([^/?#]+)') {
 }
 else { throw "不是 LeetCode 题目链接：$Url" }
 
+# 归一化：去掉 ?envType=... 查询串和 /description/ 之类的后缀，只留规范题目链接。
+# 否则 "…/nth-digit?envType=…" 会让模板的 slug 正则把查询串一起吃掉。
+$Url = "https://leetcode.cn/problems/$slug/"
+
 $Lang = $Lang.ToLower()
 if ($LANG_KEYS -notcontains $Lang) {
     throw "不认识的语言 '$Lang'。可用：$($LANG_KEYS -join ', ')"
