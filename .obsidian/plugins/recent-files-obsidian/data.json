@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "多线程Socket服务器",
       "path": "100-学习/120-嵌入式/linux/多线程Socket服务器.md"
     },
@@ -15,10 +19,6 @@
     {
       "basename": "学习Linux",
       "path": "Templates/Homepage/学习Linux.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "Socket网络编程",
