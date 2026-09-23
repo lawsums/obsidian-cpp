@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Pthread基本用法",
+      "path": "100-学习/120-嵌入式/linux/Pthread基本用法.md"
+    },
+    {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "linux路线",
+      "path": "100-学习/120-嵌入式/linux路线.md"
     },
     {
       "basename": "看图像修复和超分和水导",
@@ -31,10 +43,6 @@
     {
       "basename": "图像处理-第3章知识点",
       "path": "100-学习/170-课程/图像处理/图像处理-第3章知识点.md"
-    },
-    {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "随机过程-第三章作业",

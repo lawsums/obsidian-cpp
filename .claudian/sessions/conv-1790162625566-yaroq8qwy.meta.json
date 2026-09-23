@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790162625566-yaroq8qwy",
+  "providerId": "claude",
+  "title": "Create C pthread basics guide",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790162625568,
+  "updatedAt": 1790162649171,
+  "lastResponseAt": 1790162649171,
+  "sessionId": "2936f6c7-4415-4677-bf7d-a2fe6730a72d",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "2936f6c7-4415-4677-bf7d-a2fe6730a72d"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 232,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 28672,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 28904,
+    "percentage": 14
+  }
+}

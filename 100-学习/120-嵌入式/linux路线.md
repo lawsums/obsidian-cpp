@@ -1,5 +1,6 @@
 
 
+[自学计划](G:\Code\Game\talk1\嵌入式Linux自学计划_个人定制版.md)
 [[路线梳理]]
 
 ![[Pasted image 20260905103636.png]]
