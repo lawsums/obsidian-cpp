@@ -104,6 +104,30 @@
             }
           },
           {
+            "id": "43814cf8a2703706",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/120-嵌入式/linux/Socket网络编程.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Socket网络编程"
+            }
+          },
+          {
             "id": "091ee538c3ab243a",
             "type": "leaf",
             "state": {
@@ -224,7 +248,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -463,10 +487,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "79b117a0103f2d65",
+  "active": "43814cf8a2703706",
   "lastOpenFiles": [
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "100-学习/120-嵌入式/linux/Pthread基本用法.md",
+    "100-学习/120-嵌入式/linux/Socket网络编程.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "100-学习/120-嵌入式/linux",
     "Templates/Homepage/Homepage.md",
     "100-学习/120-嵌入式/linux路线.md",
@@ -505,7 +530,6 @@
     "Leetcode/images/141_circularlinkedlist.png",
     "Leetcode/images/1224_falling-grid.jpg",
     "Leetcode/1224.下降路径最小和  II.md",
-    "Templates/Homepage/学写一下Makefile.md",
     "Attachments/Pasted image 20260920200602.png",
     "Attachments/Pasted image 20260920102902.png",
     "Attachments/Pasted image 20260919101322.png",

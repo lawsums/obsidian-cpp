@@ -4,8 +4,8 @@
   "title": "Create C pthread basics guide",
   "titleGenerationStatus": "success",
   "createdAt": 1790162625568,
-  "updatedAt": 1790162649171,
-  "lastResponseAt": 1790162649171,
+  "updatedAt": 1790164086230,
+  "lastResponseAt": 1790164086230,
   "sessionId": "2936f6c7-4415-4677-bf7d-a2fe6730a72d",
   "selectedModel": "haiku",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 232,
+    "inputTokens": 3356,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 28672,
+    "cacheReadInputTokens": 40064,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 28904,
-    "percentage": 14
+    "contextTokens": 43420,
+    "percentage": 22
   }
 }

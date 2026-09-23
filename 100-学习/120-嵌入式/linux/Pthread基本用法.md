@@ -103,12 +103,12 @@ int pthread_equal(pthread_t t1, pthread_t t2);   // 比较，1 相等
 
 ## 1.3 三、线程的终止
 
-| 方式 | 说明 |
-| --- | --- |
-| 线程函数 `return` | 推荐，返回值可被 `join` 拿到 |
-| `pthread_exit(void *retval)` | 主动退出当前线程，不影响其他线程 |
-| `pthread_cancel(tid)` | 请求取消另一个线程（需线程能到达取消点） |
-| 主线程 `exit()` / `return main` | 整个进程结束，所有线程一起死 |
+| 方式                           | 说明                   |
+| ---------------------------- | -------------------- |
+| 线程函数 `return`                | 推荐，返回值可被 `join` 拿到   |
+| `pthread_exit(void *retval)` | 主动退出当前线程，不影响其他线程     |
+| `pthread_cancel(tid)`        | 请求取消另一个线程（需线程能到达取消点） |
+| 主线程 `exit()` / `return main` | 整个进程结束，所有线程一起死       |
 
 ```c
 void *task(void *arg) {
