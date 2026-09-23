@@ -32,12 +32,12 @@
             }
           },
           {
-            "id": "cfcdb8744652d567",
+            "id": "091ee538c3ab243a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/和周老师对话.md",
+                "file": "Templates/Homepage/看图像修复和超分和水导.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "和周老师对话"
+              "title": "看图像修复和超分和水导"
             }
           },
           {
@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -391,10 +390,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "cfcdb8744652d567",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/和周老师对话.md",
+    "Templates/Homepage/看图像修复和超分和水导.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/和周老师对话.md",
     "Dairies/2026-09-22.md",
     "Templates/Daily_note_template.md",
     "Templates/Homepage/慢跑1000米.md",
@@ -433,7 +433,6 @@
     "Templates/Homepage/学写一下Makefile.md",
     "100-学习/170-课程/随机过程/随机过程-第一章知识点.md",
     "100-学习/170-课程/随机过程/随机过程-马尔可夫链典型题型.md",
-    "100-学习/170-课程/随机过程/随机过程-第四章知识点.md",
     "Attachments/Pasted image 20260920200602.png",
     "Attachments/Pasted image 20260920102902.png",
     "Attachments/Pasted image 20260919101322.png",
