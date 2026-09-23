@@ -287,7 +287,8 @@ sort by description
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ➕ 2026-07-18 ⏳ 2026-08-01 ✅ 2026-08-01 ^task-20260718-5073333b
 - [x] 给灵神的题单写一个目录插件 #coding ⏫ ➕ 2026-07-18 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260718-72efe0c9
 - [x] 买零食 #task 🔼 ➕ 2026-07-18 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260718-a4f8c1f7
-- [ ] [[创建个人网站]] #task 🔼 🔁 every week on Tuesday, Friday ⏳ 2026-09-22
+- [ ] [[创建个人网站]] #task 🔼 🔁 every week on Tuesday, Friday ⏳ 2026-09-25
+- [x] [[创建个人网站]] #task 🔼 🔁 every week on Tuesday, Friday ⏳ 2026-09-22 ✅ 2026-09-23
 - [x] [[创建个人网站]] #task 🔼 🔁 every week on Tuesday, Friday ⏳ 2026-09-21 ✅ 2026-09-21
 - [x] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-09-20 ✅ 2026-09-20
 - [x] [[创建个人网站]] #task 🔼 🔁 every day ⏳ 2026-09-19 ✅ 2026-09-19

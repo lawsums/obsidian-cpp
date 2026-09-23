@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "f71751b04b4ac62c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/用ai产出创意内容.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "用ai产出创意内容"
+            }
+          },
+          {
             "id": "5d546e8d6807d654",
             "type": "leaf",
             "state": {
@@ -175,7 +199,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -339,13 +364,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/用ai产出创意内容.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "用ai产出创意内容 的大纲"
             }
           },
           {
@@ -415,13 +440,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "f71751b04b4ac62c",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "100-学习/120-嵌入式/linux/多线程Socket服务器.md",
     "100-学习/120-嵌入式/linux/Pthread基本用法.md",
     "100-学习/120-嵌入式/linux路线.md",
     "Templates/Homepage/学习Linux.md",
-    "Templates/Homepage/Homepage.md",
     "100-学习/120-嵌入式/linux/Socket网络编程.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "100-学习/120-嵌入式/linux",
