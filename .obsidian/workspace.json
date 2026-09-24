@@ -320,7 +320,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -366,8 +367,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "b1c03b8e6e757e62",
   "lastOpenFiles": [
+    "Dairies/2026-09-24.md",
     "Templates/Homepage/Homepage.md",
     "100-学习/120-嵌入式/linux/多线程Socket服务器.md",
     "100-学习/120-嵌入式/linux/Pthread基本用法.md",
@@ -402,7 +404,6 @@
     "Leetcode/400.第 N 位数字.py",
     "Leetcode/53.最大子数组和.md",
     "Leetcode/141.环形链表.md",
-    "Leetcode/20.有效的括号.md",
     "Leetcode/53.最大子数组和.cpp",
     "Leetcode/141.环形链表.cpp",
     "Leetcode/images/141_circularlinkedlist_test3.png",
