@@ -42,30 +42,6 @@
             }
           },
           {
-            "id": "2e772d759cf8871b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/1188.花括号展开 II.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1188.花括号展开 II"
-            }
-          },
-          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -87,30 +63,6 @@
               },
               "icon": "lucide-file",
               "title": "路线梳理"
-            }
-          },
-          {
-            "id": "5eb02b2ea2d0f8f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学写一下Makefile.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学写一下Makefile"
             }
           },
           {
@@ -161,8 +113,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -401,16 +352,17 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "5eb02b2ea2d0f8f0",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习C++.md",
+    "Templates/Homepage/学写一下Makefile.md",
+    "Templates/Homepage/左程云.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/makefile实战.md",
     "Leetcode/1188.花括号展开 II.md",
     "Leetcode/1188.花括号展开 II.cpp",
     "Projects/anime/恶女不才，请多关照 ～雏宫蝶鼠换身传～.md",
     "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/学写一下Makefile.md",
-    "Templates/Homepage/左程云.md",
     "Dairies/2026-09-24.md",
     "100-学习/120-嵌入式/linux/多线程Socket服务器.md",
     "100-学习/120-嵌入式/linux/Pthread基本用法.md",
@@ -435,7 +387,6 @@
     "Attachments/Pasted image 20260922120714.png",
     "100-学习/170-课程/随机过程/随机过程-平稳过程典型题型.md",
     "100-学习/170-课程/随机过程/随机过程-第六章知识点.md",
-    "100-学习/170-课程/随机过程/进度.md",
     "Temp/__ways_test.py",
     "Leetcode/2325.选择建筑的方案数.py",
     "Leetcode/400.第 N 位数字.py",
