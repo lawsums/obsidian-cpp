@@ -22,11 +22,11 @@
 
 ## 1.2 Variables / 变量
 
-* [ ]   Targets / 目标/对象
-    * [ ]   The all target / 全部目标
-    * [ ]   Multiple targets / 多个目标
-* [ ]   Automatic Variables and Wildcards / 自动变量与通配符
-    * [ ]   `*` Wildcard / `*` 通配符
+* [x] Targets / 目标/对象 ✅ 2026-09-25
+    * [x] The all target / 全部目标 ✅ 2026-09-25
+    * [x] Multiple targets / 多个目标 ✅ 2026-09-25
+* [x] Automatic Variables and Wildcards / 自动变量与通配符 ✅ 2026-09-25
+    * [x] `*` Wildcard / `*` 通配符 ✅ 2026-09-25
     * [ ]   `%` Wildcard / `%` 通配符
     * [ ]   Automatic Variables / 自动变量
 

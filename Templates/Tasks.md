@@ -18,7 +18,8 @@
 - [x] 看看能不能调用leetcode api去写一个skill一体化leetcode解题过程 #leetcode #api #skill 🔺 ➕ 2026-09-20 🛫 2026-09-20 ⏳ 2026-09-22 ✅ 2026-09-22 ^task-20260920-3028e2b2
 - [x] 写一个obsidian代码补全器 #obsidian #开发 🔺 ➕ 2026-09-20 🛫 2026-09-20 ⏳ 2026-09-20 ✅ 2026-09-20 ^task-20260920-b9302bf0
 - [x] 测试brushnet在动漫上面的效果，如果不好可以从这个方向入手 #ai #brushnet #动漫 🔺 ➕ 2026-09-20 🛫 2026-09-20 ⏳ 2026-09-21 ✅ 2026-09-21 ^task-20260920-6db9da2c
-- [ ] [[学写一下Makefile]] #dev #build 🔺 🔁 every week on Monday, Thursday 🛫 2026-09-23 ⏳ 2026-09-24
+- [ ] [[学写一下Makefile]] #dev #build 🔺 🔁 every week on Monday, Thursday 🛫 2026-09-27 ⏳ 2026-09-28
+- [x] [[学写一下Makefile]] #dev #build 🔺 🔁 every week on Monday, Thursday 🛫 2026-09-23 ⏳ 2026-09-24 ✅ 2026-09-25
 - [x] [[学写一下Makefile]] #dev #build 🔺 🔁 every week on Monday, Thursday ➕ 2026-09-20 🛫 2026-09-20 ⏳ 2026-09-21 ✅ 2026-09-21 ^task-20260920-162ed9f
 - [ ] 完成小智智能药箱项目并整理成简历项目 #简历 #项目 #小智智能药箱 🔺 🛫 2026-09-20 ⏳ 2026-09-25 ➕ 2026-09-20 ^task-20260920-1ebec3b9
 - [ ] 投线上实习和正常实习作为练习 #实习 #练习 🔺 🛫 2026-09-20 ⏳ 2026-10-05 ➕ 2026-09-20 ^task-20260920-5640a4f5

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790335810659-63za7w41z",
+  "providerId": "claude",
+  "title": "Explain C++ braceExpansionII recursive lambda",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790335810664,
+  "updatedAt": 1790335915831,
+  "lastResponseAt": 1790335915831,
+  "sessionId": "e6490ec2-2157-4051-b9b6-b1f49e44e363",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "e6490ec2-2157-4051-b9b6-b1f49e44e363"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 148,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 57856,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 58004,
+    "percentage": 29
+  }
+}
