@@ -320,8 +320,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -367,7 +366,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "b1c03b8e6e757e62",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Dairies/2026-09-24.md",
     "Templates/Homepage/Homepage.md",
