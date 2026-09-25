@@ -14,10 +14,11 @@
         "conversationId": "conv-1789991790561-wyyygatl6"
       },
       {
+        "draftModel": "haiku",
         "tabId": "tab-1787048763454-coa13qt",
-        "conversationId": "conv-1790044160712-enmcgyri1"
+        "conversationId": null
       }
     ],
-    "activeTabId": "tab-1784339646203-11jufh6"
+    "activeTabId": "tab-1787048763454-coa13qt"
   }
 }

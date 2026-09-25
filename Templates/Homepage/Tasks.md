@@ -232,7 +232,8 @@ sort by description
 - [x] 准备竖式教学内容 #task 🔼 ➕ 2026-07-16 🛫 2026-07-19 ⏳ 2026-07-19 ✅ 2026-07-19 ^task-20260716-6b15c303
 - [x] 下午两点和牛客大佬聊聊嵌入式 #learning 🔼 ➕ 2026-07-17 ⏳ 2026-07-18 ✅ 2026-07-18 ^task-20260717-a254378e
 - [x] 让AI统计已做题目的文件标题 #study 🔼 ➕ 2026-07-18 ⏳ 2026-07-23 ✅ 2026-08-06 ^task-20260718-56b40c1b
-- [ ] [[备份并梳理仓库]] #task 🔼 🔁 every week on Monday, Thursday, Sunday ⏳ 2026-09-24
+- [ ] [[备份并梳理仓库]] #task 🔼 🔁 every week on Monday, Thursday, Sunday ⏳ 2026-09-27
+- [x] [[备份并梳理仓库]] #task 🔼 🔁 every week on Monday, Thursday, Sunday ⏳ 2026-09-24 ✅ 2026-09-25
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every week on Monday, Thursday, Sunday ⏳ 2026-09-21 ✅ 2026-09-21
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-09-20 ✅ 2026-09-20
 - [x] [[备份并梳理仓库]] #task 🔼 🔁 every day ⏳ 2026-09-19 ✅ 2026-09-19
