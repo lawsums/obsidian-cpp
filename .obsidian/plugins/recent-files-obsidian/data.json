@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
+      "basename": "左程云",
+      "path": "Templates/Homepage/左程云.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -27,10 +35,6 @@
     {
       "basename": "Socket网络编程",
       "path": "100-学习/120-嵌入式/linux/Socket网络编程.md"
-    },
-    {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "看图像修复和超分和水导",
@@ -111,10 +115,6 @@
     {
       "basename": "上下半部流程说明",
       "path": "300-项目/嵌入式/韦东山课程/上下半部流程说明.md"
-    },
-    {
-      "basename": "左程云",
-      "path": "Templates/Homepage/左程云.md"
     },
     {
       "basename": "学习rust",
