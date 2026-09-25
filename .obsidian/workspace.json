@@ -127,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -366,11 +367,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "e27c6d7f04ecc235",
   "lastOpenFiles": [
     "Templates/Homepage/左程云.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/Homepage.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Dairies/2026-09-24.md",
     "100-学习/120-嵌入式/linux/多线程Socket服务器.md",
     "100-学习/120-嵌入式/linux/Pthread基本用法.md",
