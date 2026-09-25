@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -367,7 +366,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "59455514e6a1bdab",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
     "Templates/Homepage/左程云.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
