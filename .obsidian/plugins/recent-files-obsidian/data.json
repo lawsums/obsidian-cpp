@@ -1,8 +1,8 @@
 {
   "recentFiles": [
     {
-      "basename": "左程云",
-      "path": "Templates/Homepage/左程云.md"
+      "basename": "学写一下Makefile",
+      "path": "Templates/Homepage/学写一下Makefile.md"
     },
     {
       "basename": "Homepage",
@@ -11,6 +11,10 @@
     {
       "basename": "路线梳理",
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
+      "basename": "左程云",
+      "path": "Templates/Homepage/左程云.md"
     },
     {
       "basename": "用ai产出创意内容",
@@ -95,10 +99,6 @@
     {
       "basename": "1224.下降路径最小和  II",
       "path": "Leetcode/1224.下降路径最小和  II.md"
-    },
-    {
-      "basename": "学写一下Makefile",
-      "path": "Templates/Homepage/学写一下Makefile.md"
     },
     {
       "basename": "随机过程-第一章知识点",
