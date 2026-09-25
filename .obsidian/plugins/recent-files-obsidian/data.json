@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "学写一下Makefile",
+      "path": "Templates/Homepage/学写一下Makefile.md"
+    },
+    {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
+      "basename": "makefile实战",
+      "path": "Templates/Homepage/makefile实战.md"
+    },
+    {
       "basename": "1188.花括号展开 II",
       "path": "Leetcode/1188.花括号展开 II.md"
     },
@@ -11,14 +23,6 @@
     {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
-    },
-    {
-      "basename": "学写一下Makefile",
-      "path": "Templates/Homepage/学写一下Makefile.md"
-    },
-    {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "左程云",

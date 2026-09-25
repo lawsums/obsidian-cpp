@@ -90,6 +90,30 @@
             }
           },
           {
+            "id": "5eb02b2ea2d0f8f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学写一下Makefile.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学写一下Makefile"
+            }
+          },
+          {
             "id": "80cff0b081da6c7b",
             "type": "leaf",
             "state": {
@@ -138,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -377,14 +401,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "2e772d759cf8871b",
+  "active": "5eb02b2ea2d0f8f0",
   "lastOpenFiles": [
-    "Leetcode/1188.花括号展开 II.cpp",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Templates/Homepage/makefile实战.md",
     "Leetcode/1188.花括号展开 II.md",
+    "Leetcode/1188.花括号展开 II.cpp",
     "Projects/anime/恶女不才，请多关照 ～雏宫蝶鼠换身传～.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学写一下Makefile.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/左程云.md",
     "Dairies/2026-09-24.md",
     "100-学习/120-嵌入式/linux/多线程Socket服务器.md",
@@ -415,7 +440,6 @@
     "Leetcode/2325.选择建筑的方案数.py",
     "Leetcode/400.第 N 位数字.py",
     "Leetcode/53.最大子数组和.cpp",
-    "Leetcode/141.环形链表.cpp",
     "Leetcode/images/141_circularlinkedlist_test3.png",
     "Leetcode/images/141_circularlinkedlist_test2.png",
     "Leetcode/images/141_circularlinkedlist.png",
