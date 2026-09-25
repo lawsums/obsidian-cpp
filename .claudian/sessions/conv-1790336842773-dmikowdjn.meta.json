@@ -4,8 +4,8 @@
   "title": "Record Makefile wildcard and auto variable notes",
   "titleGenerationStatus": "success",
   "createdAt": 1790336842773,
-  "updatedAt": 1790336888102,
-  "lastResponseAt": 1790336888102,
+  "updatedAt": 1790337548011,
+  "lastResponseAt": 1790337548011,
   "sessionId": "5bd3d4df-561b-4b03-a4ed-1903002458f0",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Templates/Homepage/学写一下Makefile.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 1122,
+    "inputTokens": 2249,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 37120,
+    "cacheReadInputTokens": 52096,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 38242,
-    "percentage": 19
+    "contextTokens": 54345,
+    "percentage": 27
   }
 }
