@@ -163,8 +163,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -292,7 +291,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -328,13 +328,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/120-嵌入式/linux/ioctl和mmap用法.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "ioctl和mmap用法 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -357,12 +357,12 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -404,12 +404,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7ad080d1a7a76395",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "100-学习/120-嵌入式/linux/ioctl和mmap用法.md",
     "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "100-学习/170-课程/最优化原理/最优化原理-第二章作业.md",
-    "100-学习/120-嵌入式/linux/ioctl和mmap用法.md",
     "100-学习/170-课程/最优化原理/最优化原理-第二章知识点.md",
     "100-学习/170-课程/最优化原理/最优化原理-凸分析基础习题.md",
     "100-学习/170-课程/最优化原理/最优化原理-第一章知识点.md",
