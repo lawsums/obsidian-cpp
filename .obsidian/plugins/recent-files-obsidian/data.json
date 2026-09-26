@@ -5,6 +5,14 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
+      "basename": "1934.替换字符串中的括号内容",
+      "path": "Leetcode/1934.替换字符串中的括号内容.md"
+    },
+    {
       "basename": "ioctl和mmap用法",
       "path": "100-学习/120-嵌入式/linux/ioctl和mmap用法.md"
     },
@@ -19,10 +27,6 @@
     {
       "basename": "左程云",
       "path": "Templates/Homepage/左程云.md"
-    },
-    {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "makefile实战",

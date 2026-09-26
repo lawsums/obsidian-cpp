@@ -4,8 +4,8 @@
   "title": "Invoke QuickAdd Anki_problem macro",
   "titleGenerationStatus": "success",
   "createdAt": 1789991790564,
-  "updatedAt": 1790043815148,
-  "lastResponseAt": 1790043815148,
+  "updatedAt": 1790388380083,
+  "lastResponseAt": 1790388380083,
   "sessionId": "eee8ee51-9fbc-4b8d-8f8d-b90e13280968",
   "selectedModel": "haiku",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 212,
+    "inputTokens": 438,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 44160,
+    "cacheReadInputTokens": 69376,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 44372,
-    "percentage": 22
+    "contextTokens": 69814,
+    "percentage": 35
   }
 }
