@@ -32,54 +32,6 @@
             }
           },
           {
-            "id": "91248b755a89963a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100-学习/170-课程/最优化原理/最优化原理-凸分析基础习题.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "最优化原理-凸分析基础习题"
-            }
-          },
-          {
-            "id": "40cfc45e2b50c390",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100-学习/170-课程/最优化原理/最优化原理-凸集与凸函数.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "最优化原理-凸集与凸函数"
-            }
-          },
-          {
             "id": "02e387107e61a74b",
             "type": "leaf",
             "state": {
@@ -398,8 +350,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -441,8 +392,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "91248b755a89963a",
+  "active": "9dc770d0e0eb3520",
   "lastOpenFiles": [
+    "100-学习/170-课程/最优化原理/最优化原理-第二章作业.md",
+    "100-学习/170-课程/最优化原理/最优化原理-第一章知识点.md",
+    "100-学习/170-课程/最优化原理/最优化原理-第一章作业.md",
+    "100-学习/170-课程/最优化原理/最优化原理-凸集与凸函数.md.tmp.29112.72c9d287fcf6",
     "100-学习/170-课程/最优化原理/最优化原理-凸集与凸函数.md",
     "100-学习/170-课程/最优化原理/最优化原理-凸分析基础习题.md",
     "Templates/Homepage/Homepage.md",
@@ -473,12 +428,8 @@
     "100-学习/120-嵌入式/linux",
     "Templates/Homepage/看图像修复和超分和水导.md",
     "Templates/Homepage/和周老师对话.md",
-    "Dairies/2026-09-22.md",
-    "Templates/Daily_note_template.md",
-    "Templates/Homepage/慢跑1000米.md",
     "100-学习/170-课程/图像处理",
     "100-学习/170-课程/随机过程/随机过程-第三章作业.md.tmp.12292.34c9a999c6da",
-    "100-学习/170-课程/随机过程/随机过程-第三章作业.md.tmp.12292.27aa9b2747a5",
     "Attachments/Pasted image 20260922120714.png",
     "Leetcode/images/141_circularlinkedlist_test3.png",
     "Leetcode/images/141_circularlinkedlist_test2.png",
