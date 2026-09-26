@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "ioctl和mmap用法",
+      "path": "100-学习/120-嵌入式/linux/ioctl和mmap用法.md"
+    },
+    {
       "basename": "学习C++",
       "path": "Templates/Homepage/学习C++.md"
     },
