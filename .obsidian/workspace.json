@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "62593a7b1eb0ea3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/120-嵌入式/面试八股文/操作系统.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "操作系统"
+            }
+          },
+          {
             "id": "444efce0398100c4",
             "type": "leaf",
             "state": {
@@ -163,7 +187,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -328,13 +353,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "100-学习/120-嵌入式/面试八股文/操作系统.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "操作系统 的大纲"
             }
           },
           {
@@ -361,8 +386,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -404,10 +428,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "62593a7b1eb0ea3d",
   "lastOpenFiles": [
-    "100-学习/120-嵌入式/linux/ioctl和mmap用法.md",
     "Templates/Homepage/Homepage.md",
+    "100-学习/120-嵌入式/面试八股文/操作系统.md",
+    "100-学习/120-嵌入式/linux/ioctl和mmap用法.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "100-学习/170-课程/最优化原理/最优化原理-第二章作业.md",
     "100-学习/170-课程/最优化原理/最优化原理-第二章知识点.md",
@@ -439,7 +464,6 @@
     "Templates/Homepage/学习Linux.md",
     "100-学习/120-嵌入式/linux/Socket网络编程.md",
     "100-学习/120-嵌入式/linux",
-    "Templates/Homepage/看图像修复和超分和水导.md",
     "100-学习/170-课程/图像处理",
     "100-学习/170-课程/随机过程/随机过程-第三章作业.md.tmp.12292.34c9a999c6da",
     "Attachments/Pasted image 20260922120714.png",

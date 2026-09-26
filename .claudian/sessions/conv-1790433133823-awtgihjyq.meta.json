@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790433133823-awtgihjyq",
+  "providerId": "claude",
+  "title": "Create OS section for RTOS quiz content",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790433133824,
+  "updatedAt": 1790433150377,
+  "lastResponseAt": 1790433150376,
+  "sessionId": "d97b0ced-b271-481a-bad8-b4b929bc41f9",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "d97b0ced-b271-481a-bad8-b4b929bc41f9"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 174,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 37632,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 37806,
+    "percentage": 19
+  }
+}
