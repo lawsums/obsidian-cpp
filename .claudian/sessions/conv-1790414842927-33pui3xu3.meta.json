@@ -4,22 +4,21 @@
   "title": "Organize C++ course notes",
   "titleGenerationStatus": "success",
   "createdAt": 1790414842927,
-  "updatedAt": 1790415412448,
-  "lastResponseAt": 1790415412448,
+  "updatedAt": 1790423251917,
+  "lastResponseAt": 1790423251917,
   "sessionId": "91a307bd-352d-4ff7-8926-aa95ea33a7eb",
   "selectedModel": "haiku",
   "providerState": {
     "providerSessionId": "91a307bd-352d-4ff7-8926-aa95ea33a7eb"
   },
-  "currentNote": "Templates/Homepage/Homepage.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 784,
+    "inputTokens": 306,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 100224,
+    "cacheReadInputTokens": 63488,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 101008,
-    "percentage": 51
+    "contextTokens": 63794,
+    "percentage": 32
   }
 }
