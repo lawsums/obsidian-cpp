@@ -187,8 +187,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -316,8 +315,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -353,13 +351,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "100-学习/120-嵌入式/面试八股文/操作系统.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "操作系统 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -428,10 +426,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "62593a7b1eb0ea3d",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "100-学习/120-嵌入式/面试八股文/操作系统.md",
+    "Templates/Homepage/Homepage.md",
     "100-学习/120-嵌入式/linux/ioctl和mmap用法.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "100-学习/170-课程/最优化原理/最优化原理-第二章作业.md",
