@@ -779,7 +779,8 @@ sort by description
 - [x] 买牙膏 #task ⏫ ➕ 2026-09-05 ⏳ 2026-09-06 ✅ 2026-09-06 ^task-20260905-268d8441
 - [x] 按照deepseek说的破除虚无主义 #哲学 #虚无主义 🔺 ➕ 2026-09-06 🛫 2026-09-06 ⏳ 2026-09-09 ✅ 2026-09-10 ^task-20260906-9ef72adc
 - [x] 中午去找周老师 #meeting #teacher 🔺 ➕ 2026-09-06 🛫 2026-09-08 ⏳ 2026-09-08 ✅ 2026-09-08 ^task-20260906-7f0541e0
-- [ ] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?vd_source=cf6228c0b4a5c283905e22fd11934994&spm_id_from=333.788.videopod.episodes&p=100) #linux #daily 🔺 🔁 every day 🛫 2026-09-25 ⏳ 2026-09-27
+- [ ] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?vd_source=cf6228c0b4a5c283905e22fd11934994&spm_id_from=333.788.videopod.episodes&p=100) #linux #daily 🔺 🔁 every day 🛫 2026-09-26 ⏳ 2026-09-28
+- [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?vd_source=cf6228c0b4a5c283905e22fd11934994&spm_id_from=333.788.videopod.episodes&p=100) #linux #daily 🔺 🔁 every day 🛫 2026-09-25 ⏳ 2026-09-27 ✅ 2026-09-27
 - [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?vd_source=cf6228c0b4a5c283905e22fd11934994&spm_id_from=333.788.videopod.episodes&p=100) #linux #daily 🔺 🔁 every day 🛫 2026-09-24 ⏳ 2026-09-26 ✅ 2026-09-27
 - [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?vd_source=cf6228c0b4a5c283905e22fd11934994&spm_id_from=333.788.videopod.episodes&p=100) #linux #daily 🔺 🔁 every day 🛫 2026-09-23 ⏳ 2026-09-25 ✅ 2026-09-26
 - [x] 每天通过非虚无方式[[学习Linux]]或者[韦东山](https://www.bilibili.com/video/BV1w4411B7a4/?vd_source=cf6228c0b4a5c283905e22fd11934994&spm_id_from=333.788.videopod.episodes&p=100) #linux #daily 🔺 🔁 every day 🛫 2026-09-22 ⏳ 2026-09-24 ✅ 2026-09-26
