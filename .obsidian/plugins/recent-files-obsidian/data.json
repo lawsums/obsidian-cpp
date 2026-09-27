@@ -1,8 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "上一节人工智能通识课",
+      "path": "Templates/Homepage/上一节人工智能通识课.md"
+    },
+    {
+      "basename": "左程云",
+      "path": "Templates/Homepage/左程云.md"
     },
     {
       "basename": "操作系统",
@@ -11,10 +23,6 @@
     {
       "basename": "ioctl和mmap用法",
       "path": "100-学习/120-嵌入式/linux/ioctl和mmap用法.md"
-    },
-    {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
     {
       "basename": "最优化原理-第二章作业",
@@ -31,10 +39,6 @@
     {
       "basename": "学写一下Makefile",
       "path": "Templates/Homepage/学写一下Makefile.md"
-    },
-    {
-      "basename": "左程云",
-      "path": "Templates/Homepage/左程云.md"
     },
     {
       "basename": "makefile实战",
@@ -155,10 +159,6 @@
     {
       "basename": "随机过程-泊松过程典型题型",
       "path": "100-学习/170-课程/随机过程/随机过程-泊松过程典型题型.md"
-    },
-    {
-      "basename": "上一节人工智能通识课",
-      "path": "Templates/Homepage/上一节人工智能通识课.md"
     },
     {
       "basename": "obsidian",
