@@ -4,8 +4,8 @@
   "title": "Create Linux doc on ioctl and mmap usage",
   "titleGenerationStatus": "success",
   "createdAt": 1790345416594,
-  "updatedAt": 1790385748373,
-  "lastResponseAt": 1790345515631,
+  "updatedAt": 1790569068972,
+  "lastResponseAt": 1790569068972,
   "sessionId": "77f541da-be45-495c-8117-8bb9481b7e7f",
   "selectedModel": "haiku",
   "providerState": {
@@ -13,12 +13,12 @@
   },
   "usage": {
     "model": "haiku",
-    "inputTokens": 214,
+    "inputTokens": 249,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 56960,
+    "cacheReadInputTokens": 96896,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 57174,
-    "percentage": 29
+    "contextTokens": 97145,
+    "percentage": 49
   }
 }

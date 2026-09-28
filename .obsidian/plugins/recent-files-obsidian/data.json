@@ -1,16 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Poll机制",
+      "path": "100-学习/120-嵌入式/linux/Poll机制.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "学习rust",
       "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
     },
     {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+      "basename": "进度",
+      "path": "100-学习/170-课程/最优化原理/进度.md"
     },
     {
       "basename": "上一节人工智能通识课",
@@ -125,10 +137,6 @@
       "path": "100-学习/170-课程/随机过程/进度.md"
     },
     {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
-    },
-    {
       "basename": "2325.选择建筑的方案数",
       "path": "Leetcode/2325.选择建筑的方案数.md"
     },
@@ -191,14 +199,6 @@
     {
       "basename": "随机过程-第二章知识点",
       "path": "100-学习/170-课程/随机过程/随机过程-第二章知识点.md"
-    },
-    {
-      "basename": "晚上完成剩下几个课程并进行实验室课程考试",
-      "path": "Templates/Homepage/晚上完成剩下几个课程并进行实验室课程考试.md"
-    },
-    {
-      "basename": "002_稍后再看",
-      "path": "Templates/Homepage/002_稍后再看.md"
     }
   ],
   "omittedPaths": [],

@@ -420,5 +420,14 @@
       ],
       "key": "K"
     }
+  ],
+  "editing-toolbar:editor:cycle-list-checklist": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "T"
+    }
   ]
 }
