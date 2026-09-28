@@ -303,7 +303,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -373,7 +374,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -415,11 +417,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7ad080d1a7a76395",
+  "active": "bd69c68ece3f7ef7",
   "lastOpenFiles": [
-    "100-学习/120-嵌入式/linux/ioctl和mmap用法.md",
-    "Templates/Homepage/Homepage.md",
     "Temp/prompts/催眠游戏.md",
+    "Templates/Homepage/Homepage.md",
+    "100-学习/120-嵌入式/linux/ioctl和mmap用法.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Temp/prompts",
     "Leetcode/算法路线图.md",
