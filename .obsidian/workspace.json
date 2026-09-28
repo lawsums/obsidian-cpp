@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "5d7068b1b5c7ce0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/110-计算机/语言/Rust/学习rust.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习rust"
+            }
+          },
+          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -255,7 +279,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -324,7 +349,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -368,8 +394,9 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Templates/Homepage/Homepage.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Attachments/Pasted image 20260927121943.png",
     "Attachments/Pasted image 20260927121519.png",
     "Templates/Homepage/上一节人工智能通识课.md",
