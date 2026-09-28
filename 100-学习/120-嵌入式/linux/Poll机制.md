@@ -214,12 +214,12 @@ static ssize_t mydev_write(struct file *filp, const char __user *buf,
 }
 ```
 
-| 函数 | 唤醒范围 |
-| --- | --- |
-| `wake_up_interruptible(&q)` | 只唤醒 `TASK_INTERRUPTIBLE`（**select/poll/epoll 走的就是可中断睡眠，够用**） |
-| `wake_up(&q)` | 可中断 + 不可中断都唤醒（范围更大，可能顺带叫醒不该醒的进程） |
-| `wake_up_interruptible_all(&q)` | 唤醒该队列上全部可中断睡眠者 |
-| `wake_up_interruptible_sync(&q)` | 唤醒时不让被唤醒者抢占当前 CPU（降低延迟敏感场景的抖动） |
+| 函数                               | 唤醒范围                                                         |
+| -------------------------------- | ------------------------------------------------------------ |
+| `wake_up_interruptible(&q)`      | 只唤醒 `TASK_INTERRUPTIBLE`（**select/poll/epoll 走的就是可中断睡眠，够用**） |
+| `wake_up(&q)`                    | 可中断 + 不可中断都唤醒（范围更大，可能顺带叫醒不该醒的进程）                             |
+| `wake_up_interruptible_all(&q)`  | 唤醒该队列上全部可中断睡眠者                                               |
+| `wake_up_interruptible_sync(&q)` | 唤醒时不让被唤醒者抢占当前 CPU（降低延迟敏感场景的抖动）                               |
 
 > [!warning] 唤醒函数要和睡眠方式**匹配**
 > `poll` / `select` / `epoll` 让进程进入的是可中断睡眠，所以驱动里用 `wake_up_interruptible()` 最合适。

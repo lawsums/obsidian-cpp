@@ -80,30 +80,6 @@
             }
           },
           {
-            "id": "7b8e42ad1bd551e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "100-学习/120-嵌入式/linux/Poll机制.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Poll机制"
-            }
-          },
-          {
             "id": "02c335c035ea2a8d",
             "type": "leaf",
             "state": {
@@ -175,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -339,13 +316,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "路线梳理 的大纲"
             }
           },
           {
@@ -368,7 +345,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -414,15 +392,15 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "bd69c68ece3f7ef7",
+  "active": "f694d4546176ff30",
   "lastOpenFiles": [
+    "Leetcode/算法路线图.md",
+    "100-学习/120-嵌入式/linux/Poll机制.md",
+    "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Attachments/Pasted image 20260928122248.png",
     "Attachments/Pasted image 20260928122029.png",
-    "Templates/Homepage/Homepage.md",
-    "100-学习/120-嵌入式/linux/Poll机制.md",
     "Attachments/Pasted image 20260928120601.png",
-    "Leetcode/算法路线图.md",
     "Attachments/Pasted image 20260928120230.png",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "100-学习/170-课程/最优化原理/进度.md",
