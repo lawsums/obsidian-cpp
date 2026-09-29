@@ -96,7 +96,8 @@ sort by description
 - [ ] [[查找嵌入式岗位需求]] #job #embedded 🔼 ➕ 2026-07-13 ⏳ 2026-07-20 ^task-20260713-f6e57ede
 - [x] 获取linux路线资料 #task 🔼 ➕ 2026-07-13 🛫 2026-07-13 ⏳ 2026-07-13 ✅ 2026-07-13 ^task-20260713-61e0c1b9
 - [x] [[用CLion写贪吃蛇Qt框架]] #coding #qt 🔼 ➕ 2026-07-13 ⏳ 2026-07-14 ✅ 2026-07-14 ^task-20260713-870c248f
-- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-27
+- [ ] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-28
+- [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-27 ✅ 2026-09-28
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-26 ✅ 2026-09-26
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-25 ✅ 2026-09-26
 - [x] 学习[牛客基础知识](https://www.nowcoder.com/exam/intelligent?questionJobId=10&subTabName=intelligent_page&tagId=273590)或线上[笔试](https://www.nowcoder.com/exam/company?questionJobId=10&subTabName=written_page)或[面试](https://www.nowcoder.com/exam/interview?order=0)或去图书馆背[嵌入式八股](https://mianbao.zutils.cn/) #study 🔼 🔁 every day ⏳ 2026-09-24 ✅ 2026-09-26
@@ -474,7 +475,8 @@ sort by description
 - [x] 备课 #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-9f3e6aef
 - [x] 让老妈买纸 #task 🔼 ➕ 2026-08-12 ⏳ 2026-08-15 ✅ 2026-08-15 ^task-20260812-50c81cd2
 - [x] 获取 [workbuddy 蓝皮书](https://docs.qq.com/doc/DSFFMTFhFQ1hZZ096?nlc=1) #work 🔼 ➕ 2026-08-12 ⏳ 2026-08-13 ✅ 2026-08-13 ^task-20260812-2dacb169
-- [ ] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-09-28
+- [ ] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-09-29
+- [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-09-28 ✅ 2026-09-28
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-09-27 ✅ 2026-09-27
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-09-26 ✅ 2026-09-26
 - [x] 每天佩戴防驼背护肩带 #health 🔼 🔁 every day ⏳ 2026-09-25 ✅ 2026-09-25
