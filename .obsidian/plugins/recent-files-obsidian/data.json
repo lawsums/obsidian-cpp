@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "2349.检查是否有合法括号字符串路径",
+      "path": "Leetcode/2349.检查是否有合法括号字符串路径.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Tasks",
       "path": "Templates/Homepage/Tasks.md"
-    },
-    {
-      "basename": "随机过程-第二章作业",
-      "path": "100-学习/170-课程/随机过程/随机过程-第二章作业.md"
     }
   ],
   "omittedPaths": [],

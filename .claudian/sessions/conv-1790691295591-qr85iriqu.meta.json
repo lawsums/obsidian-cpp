@@ -1,0 +1,24 @@
+{
+  "id": "conv-1790691295591-qr85iriqu",
+  "providerId": "claude",
+  "title": "Organize Python DP solution for Anki problem",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790691295591,
+  "updatedAt": 1790691397879,
+  "lastResponseAt": 1790691397879,
+  "sessionId": "fba21b1e-161c-4acf-9522-73f4b3e104e5",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "fba21b1e-161c-4acf-9522-73f4b3e104e5"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 183,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 55168,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 55351,
+    "percentage": 28
+  }
+}
