@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "Tasks",
+      "path": "Templates/Homepage/Tasks.md"
+    },
+    {
       "basename": "路线梳理",
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "README",
       "path": "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/README.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Homepage/Tasks.md"
     }
   ],
   "omittedPaths": [],
