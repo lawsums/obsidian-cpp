@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "dd20951038cea8e1",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.bilibili.com/video/BV1w4411B7a4/?p=100"
+              },
+              "icon": "bilibili",
+              "title": "5_17-1.Pinctrl子系统重要概念 - bilibili"
+            }
+          },
+          {
             "id": "e1a260ffaacc3042",
             "type": "leaf",
             "state": {
@@ -151,7 +163,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -390,10 +403,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "dd20951038cea8e1",
   "lastOpenFiles": [
-    "Templates/Homepage/005_KTV歌单.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/005_KTV歌单.md",
     "Dairies/2026-09-30.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Leetcode/2349.检查是否有合法括号字符串路径.md",
