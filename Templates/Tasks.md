@@ -46,3 +46,4 @@
 - [ ] 问问顾陈玩不玩王者 #日常 #沟通 ⏫ ➕ 2026-09-29 🛫 2026-09-29 ⏳ 2026-09-30 ^task-20260929-ae57703d
 - [x] 完成中特素材搜集 #中特 🔺 ➕ 2026-09-29 🛫 2026-09-29 ⏳ 2026-09-30 ✅ 2026-09-30 ^task-20260929-13926a69
 - [ ] 群里说一下自己完成了素材整理 #沟通 #素材 🔺 🛫 2026-09-30 ⏳ 2026-10-01 ➕ 2026-09-30 ^task-20260930-9f08b093
+- [ ] 看看[KMP题单](https://leetcode.cn/problems/longest-happy-prefix/solutions/1394496/by-flix-k4p3/?envType=problem-list-v2&envId=shujujiegouyusuanfa-diguimigong-gundonghaxi) #leetcode #kmp #算法 🔺 🛫 2026-09-30 ⏳ 2026-10-01 ➕ 2026-09-30 ^task-20260930-d422d557
