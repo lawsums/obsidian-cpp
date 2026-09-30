@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "db7b5665708498ca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学写一下Makefile.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学写一下Makefile"
-            }
-          },
-          {
             "id": "dd20951038cea8e1",
             "type": "leaf",
             "state": {
@@ -163,8 +139,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -403,10 +378,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "db7b5665708498ca",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学写一下Makefile.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/005_KTV歌单.md",
     "Dairies/2026-09-30.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",

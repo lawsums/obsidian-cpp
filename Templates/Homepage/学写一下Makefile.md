@@ -41,10 +41,10 @@
 
 ## 1.4 Commands and execution / 命令与执行
 
-* [ ]   Command Echoing/Silencing / 命令回显/静音功能
-* [ ]   Command Execution / 命令执行
-* [ ]   Default Shell / 默认外壳程序
-* [ ]   Double dollar sign / 双美元符号
+* [x] Command Echoing/Silencing / 命令回显/静音功能 ✅ 2026-09-30
+* [x] Command Execution / 命令执行 ✅ 2026-09-30
+* [x] Default Shell / 默认外壳程序 ✅ 2026-09-30
+* [x] Double dollar sign / 双美元符号 ✅ 2026-09-30
 * [ ]   Error handling with -k, -i, and - / 使用 -k、-i 和 - 参数进行错误处理
 * [ ]   Interrupting or killing make / 中断或终止操作会……
 * [ ]   Recursive use of make / 对“make”命令的递归使用
