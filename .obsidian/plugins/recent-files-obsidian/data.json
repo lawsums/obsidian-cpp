@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "005_KTV歌单",
+      "path": "Templates/Homepage/005_KTV歌单.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "进行实验室课程考试",
       "path": "Templates/Homepage/进行实验室课程考试.md"
-    },
-    {
-      "basename": "README",
-      "path": "100-学习/120-嵌入式/面试算法题/深信服笔试-测试/README.md"
     }
   ],
   "omittedPaths": [],

@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "e1a260ffaacc3042",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/005_KTV歌单.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "005_KTV歌单"
+            }
+          },
+          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -127,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -366,10 +391,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "e1a260ffaacc3042",
   "lastOpenFiles": [
-    "Dairies/2026-09-30.md",
     "Templates/Homepage/Homepage.md",
+    "Dairies/2026-09-30.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Leetcode/2349.检查是否有合法括号字符串路径.md",
     "Leetcode/2349.检查是否有合法括号字符串路径.py",
