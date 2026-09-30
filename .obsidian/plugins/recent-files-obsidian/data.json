@@ -5,16 +5,16 @@
       "path": "Temp/prompts/常用姿势.md"
     },
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
     },
     {
       "basename": "催眠游戏",
       "path": "Temp/prompts/催眠游戏.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "学写一下Makefile",
