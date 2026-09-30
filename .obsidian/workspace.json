@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -391,8 +390,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "e1a260ffaacc3042",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/005_KTV歌单.md",
     "Templates/Homepage/Homepage.md",
     "Dairies/2026-09-30.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
@@ -434,7 +434,6 @@
     "Templates/Homepage/Tasks.md",
     "Templates/Homepage/002_稍后再看.md",
     "Templates/Homepage/学习C++.md",
-    "Templates/Homepage/学写一下Makefile.md",
     "Leetcode/1188.花括号展开 II.cpp",
     "100-学习/120-嵌入式/linux",
     "Attachments/Pasted image 20260922120714.png",
