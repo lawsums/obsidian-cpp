@@ -49,3 +49,4 @@
 - [ ] 群里说一下自己完成了素材整理 #沟通 #素材 🔺 🛫 2026-09-30 ⏳ 2026-10-01 ➕ 2026-09-30 ^task-20260930-9f08b093
 - [ ] 看看[KMP题单](https://leetcode.cn/problems/longest-happy-prefix/solutions/1394496/by-flix-k4p3/?envType=problem-list-v2&envId=shujujiegouyusuanfa-diguimigong-gundonghaxi) #leetcode #kmp #算法 🔺 🛫 2026-09-30 ⏳ 2026-10-01 ➕ 2026-09-30 ^task-20260930-d422d557
 - [ ] [[学习深度学习]]或者学习科研的东西 #学习 #科研 #深度学习 ⏫ 🔁 every day ➕ 2026-09-30 🛫 2026-09-30 ⏳ 2026-09-30 ^task-20260930-7cb41511
+- [ ] 多GPU训练test #ai #training 🔺 🛫 2026-09-30 ⏳ 2026-10-01 ➕ 2026-09-30 ^task-20260930-b7e82f73
