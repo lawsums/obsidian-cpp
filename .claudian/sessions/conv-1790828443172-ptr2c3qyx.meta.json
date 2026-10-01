@@ -1,0 +1,25 @@
+{
+  "id": "conv-1790828443172-ptr2c3qyx",
+  "providerId": "claude",
+  "title": "Organize Dijkstra algorithm notes for section 2.3",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790828443173,
+  "updatedAt": 1790829020094,
+  "lastResponseAt": 1790829020094,
+  "sessionId": "2baa29cf-3927-4419-a71f-eed4401614ca",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "2baa29cf-3927-4419-a71f-eed4401614ca"
+  },
+  "currentNote": "Templates/Homepage/左程云.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 1725,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 56960,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 58685,
+    "percentage": 29
+  }
+}

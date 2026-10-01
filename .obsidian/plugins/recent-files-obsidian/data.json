@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "左程云",
+      "path": "Templates/Homepage/左程云.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -59,10 +63,6 @@
     {
       "basename": "上一节人工智能通识课",
       "path": "Templates/Homepage/上一节人工智能通识课.md"
-    },
-    {
-      "basename": "左程云",
-      "path": "Templates/Homepage/左程云.md"
     },
     {
       "basename": "操作系统",
