@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "fe8700dcf492e98e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学写一下Makefile.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学写一下Makefile"
-            }
-          },
-          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -151,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -316,13 +291,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学写一下Makefile.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学写一下Makefile 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -391,11 +366,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
-    "Templates/Homepage/学写一下Makefile.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Templates/Homepage/学写一下Makefile.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/左程云.md",
     "Dairies/2026-10-01.md",
     "Attachments/149880799_p0-request.jpg",

@@ -4,8 +4,8 @@
   "title": "Explain Make shell vs make variable dollar signs",
   "titleGenerationStatus": "success",
   "createdAt": 1790859159626,
-  "updatedAt": 1790859188846,
-  "lastResponseAt": 1790859188846,
+  "updatedAt": 1790860436223,
+  "lastResponseAt": 1790860436223,
   "sessionId": "1ea5a639-010a-412d-a173-6363e59e5693",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "Templates/Homepage/学写一下Makefile.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 1507,
+    "inputTokens": 142,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 32512,
+    "cacheReadInputTokens": 50432,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 34019,
-    "percentage": 17
+    "contextTokens": 50574,
+    "percentage": 25
   }
 }

@@ -46,8 +46,8 @@
 * [x] Default Shell / 默认外壳程序 ✅ 2026-09-30
 * [x] Double dollar sign / 双美元符号 ✅ 2026-09-30
 * [ ]   Error handling with -k, -i, and - / 使用 -k、-i 和 - 参数进行错误处理
-* [ ]   Interrupting or killing make / 中断或终止操作会……
-* [ ]   Recursive use of make / 对“make”命令的递归使用
+* [ ] Interrupting or killing make / 中断或终止操作会……
+* [x] Recursive use of make / 对“make”命令的递归使用 ✅ 2026-10-01
 * [ ]   Export, environments, and recursive make / 导出、环境设置以及递归构建过程
 * [ ]   Arguments to make / 需要提出的论据/理由
 
@@ -294,7 +294,7 @@ I am a make variable
 | `$$sh_var` | **shell** | `$sh_var`（`$$` → `$`） | ✅ shell 变量的值 |
 | `$sh_var`（❌） | make | make 把 `$s` 当成名为 `s` 的 make 变量，后面的 `h_var` 原样保留 | ❌ 得到空串 + `h_var` |
 
-#### TODO 解答：为什么一个变量一个 `$`，另一个要两个 `$`？
+#### 2.2.1.1 TODO 解答：为什么一个变量一个 `$`，另一个要两个 `$`？
 
 关键不在于「变量写在括号里还是写在 `$` 后面」，而在于 **这个变量归谁管**：
 
@@ -313,6 +313,74 @@ I am a make variable
 - **为什么赋值和 `echo` 要挤在同一行（用 `;` 隔开）？** 因为 make 默认 **每一行配方都会新开一个 shell**，上一行设的 `sh_var` 在下一行里就不存在了；把 `sh_var='...'; echo $$sh_var` 写在同一条 shell 命令里才有效。
 
 呼应前面 §2.1.3 末尾那条笔记：「想在配方里用 shell 自己的变量，要写两个 `$`（`echo $$HOME`）」，讲的就是同一件事。
+
+### 2.2.2 Recursive use of make / 对 make 的递归使用
+
+**一句话：递归 make = 在 recipe 里再调一次 make，让每个（子）目录用自己的 Makefile 干自己的活。** 这是大型多目录工程最常见的组织方式。
+
+教程里的最小示例（先自己造一个子 Makefile，再去调它）：
+
+```make
+new_contents = "hello:\n\ttouch inside_file"
+all:
+	mkdir -p subdir                                             # ① 建子目录
+	printf $(new_contents) | sed -e 's/^ //' > subdir/makefile  # ② 把文本写成子 Makefile
+	cd subdir && $(MAKE)                                        # ③ 进子目录，再跑一次 make ← 递归点
+clean:
+	rm -rf subdir
+```
+
+- ② 是「造假 Makefile」的道具：printf 把 `hello:` 和一行 recipe 写进文件，`sed -e 's/^ //'` 去掉行首空格以保证 recipe 是 **Tab** 缩进。**不是重点**；
+- ③ **`cd subdir && $(MAKE)`** 才是核心 —— 在子目录里 **再启动一次 make**，子 make 读到刚生成的 `subdir/makefile`，于是执行 `touch inside_file`。
+
+运行结果：
+
+```text
+$ make
+mkdir -p subdir
+printf "hello:\n\ttouch inside_file" | sed -e 's/^ //' > subdir/makefile
+cd subdir && make
+make[1]: Entering directory '/.../subdir'
+touch inside_file
+make[1]: Leaving directory '/.../subdir'
+```
+
+`make[1]` 是 **子 make 的层级标记**：`[1]` = 第 1 层递归（再往里套就是 `make[2]`、`make[3]`…）。
+
+递归 make 的三要素：
+
+1. 用 **`$(MAKE)`**，而不是 `make`；
+2. 用 `cd 子目录 && $(MAKE)`（等价、更常用：**`$(MAKE) -C 子目录`**）调下一层；
+3. 每个被调用的目录里有 **自己的一套 targets**。
+
+几个关键点：
+
+- **必须写 `$(MAKE)` 而不是 `make`**：`$(MAKE)` 会自动把命令行选项（`-k` / `-j` / `-n` / 变量覆盖……）传给子 make；尤其是跑 `make -n` 时，写 `$(MAKE)` 子 make 也只 dry-run，写成 `make` 则 `-n` 传不下去、**子 make 会真的执行**。
+- **`cd subdir` 和 `$(MAKE)` 必须写在同一行、并用 `&&`**：因为 make **每行 recipe 都新开一个 shell**，单独一行写 `cd subdir` 不会影响下一行（呼应 §2.2 前面「Command Execution」里那个 `cd ..` 的例子）；`&&` 保证 cd 成功后才执行 make。等价写法是 `$(MAKE) -C subdir`（让 make 自己切目录）。
+
+> 注意用词：这里的「递归」是「make 调 make」的 **分层调用**，**不是算法意义上的递归** —— 每层各干各的活、干完把结果交回，而不是「函数拿更小的输入调自己」。
+
+#### 2.2.2.1 一个项目的 Makefile 是不是理论上也是递归的？
+
+结论：**很常见，但不是必须，更谈不上「理论上一定」** —— 分两层看。
+
+**1. 多目录项目，传统上确实这么干。** 顶层只负责「调度」，每个子目录一个 Makefile：
+
+```make
+SUBDIRS = src lib tests
+all:
+	for d in $(SUBDIRS); do $(MAKE) -C $$d; done
+```
+
+即 `project/{Makefile, src/Makefile, lib/Makefile, tests/Makefile}`：每个子目录各自知道怎么编译自己，顶层只管按顺序调用。GNU 很多老项目、KDE、不少 C/C++ 工程都是这个模式。
+
+**2. 但「递归」不是唯一解，也不是「理论上必然」。** 反过来有 **非递归**（single top-level Makefile）的做法：顶层用 `include` 把所有子 Makefile 拼进 **同一个 make 进程**，于是整个项目只有 **一个** make 实例、**一张** 依赖图 —— **Linux 内核**就是这么干的。
+
+- 反对递归的代表作是 Peter Miller 的 *Recursive Make Considered Harmful*，核心论点：递归 make 会 **割裂跨目录的依赖关系** —— 子 make 只看得到自己目录内的文件，看不见别目录的依赖，容易漏重建；非递归用一个统一依赖图就没这个问题。
+
+> 结论：「**递归**」只是把项目 **按目录切成多层、每层一次 make** 的一种组织方式 —— 大型工程里很普遍，但存在等价的非递归方案。是否递归是 **工程选择**，不是 Make 的语法要求。
+
+**3. 递归 make 的一个专门的坑（预告下一节）：** 子 make **默认不继承** 父 make 的 make 变量（如 `CFLAGS`），需要在父 Makefile 里 `export CFLAGS`，或在命令上显式 `$(MAKE) CFLAGS="$(CFLAGS)"` 传下去。
 
 
 ---
