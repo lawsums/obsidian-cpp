@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/学习科研.md",
+                "file": "Templates/Homepage/高频适配.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "学习科研"
+              "title": "高频适配"
             }
           },
           {
@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -316,13 +315,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习科研.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习科研 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -391,8 +390,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a58fcec10103cd17",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/高频适配.md",
     "Templates/Homepage/学习科研.md",
     "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
@@ -431,7 +431,6 @@
     "100-学习/170-课程/最优化原理/最优化原理-第一章知识点.md",
     "100-学习/170-课程/最优化原理/最优化原理-第一章作业.md",
     "100-学习/170-课程/最优化原理/最优化原理-凸集与凸函数.md.tmp.29112.72c9d287fcf6",
-    "100-学习/170-课程/最优化原理/最优化原理-凸集与凸函数.md",
     "100-学习/170-课程/最优化原理",
     "Temp/__1807_cpp20.exe",
     "Temp/__1807_test.py",
