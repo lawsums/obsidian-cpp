@@ -260,6 +260,61 @@ app: $(OBJS)
 
 > 一句话：**`*` 是「有哪些」（看磁盘），`%` 是「像什么」（看名字）。**
 
+## 2.2 Commands and execution / 命令与执行
+
+### 2.2.1 Double dollar sign / 双美元符号
+
+**核心一句话：配方（recipe）里的每一行，都要先经过 make，再交给 shell —— 所以 `$` 到底归谁用，取决于你想让谁来做这次展开。**
+
+- 想让 **make** 展开 → 写 **一个** `$`：`$(make_var)`。make 在把这一行交给 shell **之前**，就已经把变量替换成了它的值；
+- 想让 **shell** 展开 → 写 **两个** `$`：`$$sh_var`。`$$` 是 make 的 **转义**，make 把它变成一个字面量的 `$` 送给 shell，shell 这才看到 `$sh_var` 并去展开它。
+
+```make
+make_var = I am a make variable
+all:
+	# 等价于在 shell 里运行：sh_var='I am a shell variable'; echo $sh_var
+	sh_var='I am a shell variable'; echo $$sh_var
+
+	# 等价于在 shell 里运行：echo I am a make variable
+	echo $(make_var)
+```
+
+运行 `make all`，两行分别输出：
+
+```text
+I am a shell variable
+I am a make variable
+```
+
+三种写法对比：
+
+| 写法 | 由谁展开 | make 交给 shell 时的样子 | 结果 |
+| --- | --- | --- | --- |
+| `$(make_var)` | **make** | 已被替换成 `I am a make variable` | ✅ make 变量的值 |
+| `$$sh_var` | **shell** | `$sh_var`（`$$` → `$`） | ✅ shell 变量的值 |
+| `$sh_var`（❌） | make | make 把 `$s` 当成名为 `s` 的 make 变量，后面的 `h_var` 原样保留 | ❌ 得到空串 + `h_var` |
+
+#### TODO 解答：为什么一个变量一个 `$`，另一个要两个 `$`？
+
+关键不在于「变量写在括号里还是写在 `$` 后面」，而在于 **这个变量归谁管**：
+
+1. **`make_var` 是 make 变量，由 make 负责展开。**
+   make 在处理这一行时就把 `$(make_var)` 换成了它的值，shell 从头到尾 **根本没见到过** `make_var` 这个名字，它拿到的只是一个已经拼好的字符串 `I am a make variable`。既然展开只发生一次、而且由 make 完成，那么 **一个 `$` 就够了**。
+
+2. **`sh_var` 是 shell 变量，必须留给 shell 去展开。**
+   `$` 对 make 来说是「变量引用」的起手式，make 一看到单个 `$` 就会抢着自己去解释它。为了把这个 `$` **原样传给 shell**，就要写 `$$` 来转义 —— make 消费掉一个 `$`，把剩下的那个 `$` 交到 shell 手里，shell 再按自己的规则展开 `$sh_var`。
+
+> 一句话记住规则：**`$$` 不是「两个美元符号」，而是「一个美元符号 + 一次转义」—— 目的就是让一个 **字面量的 `$`** 穿过 make，递到 shell 手里。**
+
+由此还能顺带解释几个常见疑问：
+
+- **为什么 `$(make_var)` 有括号，而 `$$sh_var` 没括号？** 括号只是 make 用来「圈出变量名边界」的写法（单字符变量可以简写成 `$x`，多字符才需要 `$(xxx)`）。shell 侧同理，写成 `$${sh_var}` 也成立、含义不变。
+- **为什么不能写成 `$$(make_var)`？** 因为 shell 环境里 **根本没有** 名为 `make_var` 的变量，把它推给 shell 只会得到空值。想让哪个变量展开，就要交给对应的那一方。
+- **为什么赋值和 `echo` 要挤在同一行（用 `;` 隔开）？** 因为 make 默认 **每一行配方都会新开一个 shell**，上一行设的 `sh_var` 在下一行里就不存在了；把 `sh_var='...'; echo $$sh_var` 写在同一条 shell 命令里才有效。
+
+呼应前面 §2.1.3 末尾那条笔记：「想在配方里用 shell 自己的变量，要写两个 `$`（`echo $$HOME`）」，讲的就是同一件事。
+
+
 ---
 
 * 2026-09-21 - 1
