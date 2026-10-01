@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "fe8700dcf492e98e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学写一下Makefile.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学写一下Makefile"
+            }
+          },
+          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -127,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -291,13 +316,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学写一下Makefile.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学写一下Makefile 的大纲"
             }
           },
           {
@@ -366,11 +391,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "fe8700dcf492e98e",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/学写一下Makefile.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/左程云.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-10-01.md",
     "Attachments/149880799_p0-request.jpg",
     "Temp/prompts/常用姿势.md",
@@ -378,7 +404,6 @@
     "Templates/Homepage/学习深度学习.md",
     "Temp/prompts/催眠游戏.md",
     "Attachments/Pasted image 20260930222658.png",
-    "Templates/Homepage/学写一下Makefile.md",
     "Templates/Homepage/005_KTV歌单.md",
     "Dairies/2026-09-30.md",
     "Leetcode/2349.检查是否有合法括号字符串路径.md",
