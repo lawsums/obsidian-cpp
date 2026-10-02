@@ -58,7 +58,6 @@ switch (weekday) {
     break;
   case "星期五":
 	 tR += `- [ ] [[学习rust]] ⏫ ⏳ ${titleDate}\n`;
-	 tR += `- [ ] [[上午在系统上请假并告诉老师]] ⏫ ⏳ ${titleDate}\n`;
     break;
   case "星期六":
     tR += `- [ ] 打leetcode比赛 🔼 ⏳ ${titleDate}\n`;
