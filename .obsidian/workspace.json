@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -293,12 +292,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -368,7 +368,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "67bbdb9f7adf4c79",
+  "active": "f094e1792a1a2a53",
   "lastOpenFiles": [
     "Templates/Homepage/学习Linux.md",
     "Templates/Homepage/学习深度学习.md",

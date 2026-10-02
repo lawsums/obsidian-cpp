@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
       "basename": "学习Linux",
       "path": "Templates/Homepage/学习Linux.md"
     },
@@ -11,10 +15,6 @@
     {
       "basename": "左程云",
       "path": "Templates/Homepage/左程云.md"
-    },
-    {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
     },
     {
       "basename": "Tasks",
