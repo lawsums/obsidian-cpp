@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "左程云",
+      "path": "Templates/Homepage/左程云.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -23,10 +27,6 @@
     {
       "basename": "学写一下Makefile",
       "path": "Templates/Homepage/学写一下Makefile.md"
-    },
-    {
-      "basename": "左程云",
-      "path": "Templates/Homepage/左程云.md"
     },
     {
       "basename": "常用姿势",
