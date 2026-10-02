@@ -32,7 +32,7 @@
             }
           },
           {
-            "id": "67bbdb9f7adf4c79",
+            "id": "f1946e3312c9635d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -293,13 +293,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习Linux.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习Linux 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -371,9 +370,13 @@
   },
   "active": "67bbdb9f7adf4c79",
   "lastOpenFiles": [
+    "Templates/Homepage/学习Linux.md",
+    "Templates/Homepage/学习深度学习.md",
+    "Attachments/Pasted image 20261002175128.png",
+    "Templates/Homepage/左程云.md",
+    "Attachments/Pasted image 20261002174334.png",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/Tasks.md",
-    "Templates/Homepage/左程云.md",
     "Leetcode/3389.访问消失节点的最少时间.md",
     "Leetcode/3389.访问消失节点的最少时间.cpp",
     "_debug_templater.md",
@@ -381,7 +384,6 @@
     "debug-templater.log",
     "_debug_templater.md.tmp.27732.4448aa86aecc",
     "Templates/scripts/debugGlp2.js",
-    "Templates/Homepage/学习深度学习.md",
     "Leetcode/算法路线图.md",
     "Templates/Homepage/学习C++.md",
     "_debug_templater.md.tmp.27732.c882ec7e8860",
