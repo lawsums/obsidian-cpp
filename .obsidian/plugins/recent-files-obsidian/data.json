@@ -1,20 +1,24 @@
 {
   "recentFiles": [
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Homepage/Tasks.md"
-    },
-    {
       "basename": "左程云",
       "path": "Templates/Homepage/左程云.md"
     },
     {
       "basename": "路线梳理",
       "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Tasks.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Homepage/Tasks.md"
     },
     {
       "basename": "Daily_note_template",
@@ -143,10 +147,6 @@
     {
       "basename": "慢跑1000米",
       "path": "Templates/Homepage/慢跑1000米.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Tasks.md"
     },
     {
       "basename": "图像处理-第3章知识点",
