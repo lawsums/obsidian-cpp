@@ -1,12 +1,16 @@
 {
   "recentFiles": [
     {
-      "basename": "左程云",
-      "path": "Templates/Homepage/左程云.md"
-    },
-    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Homepage/Tasks.md"
+    },
+    {
+      "basename": "左程云",
+      "path": "Templates/Homepage/左程云.md"
     },
     {
       "basename": "路线梳理",
@@ -43,10 +47,6 @@
     {
       "basename": "005_KTV歌单",
       "path": "Templates/Homepage/005_KTV歌单.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Homepage/Tasks.md"
     },
     {
       "basename": "2349.检查是否有合法括号字符串路径",
