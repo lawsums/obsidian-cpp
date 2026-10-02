@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "学习rust",
+      "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -83,10 +87,6 @@
     {
       "basename": "Poll机制",
       "path": "100-学习/120-嵌入式/linux/Poll机制.md"
-    },
-    {
-      "basename": "学习rust",
-      "path": "100-学习/110-计算机/语言/Rust/学习rust.md"
     },
     {
       "basename": "进度",

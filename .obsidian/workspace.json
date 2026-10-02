@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "42b7db986eb42446",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/110-计算机/语言/Rust/学习rust.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习rust"
+            }
+          },
+          {
             "id": "c60c9b4488e58f35",
             "type": "leaf",
             "state": {
@@ -151,7 +175,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -316,13 +341,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "100-学习/110-计算机/语言/Rust/学习rust.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习rust 的大纲"
             }
           },
           {
@@ -392,10 +417,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f094e1792a1a2a53",
+  "active": "42b7db986eb42446",
   "lastOpenFiles": [
-    "Templates/Homepage/004_闪念.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/004_闪念.md",
     "Templates/Homepage/学习Linux.md",
     "Templates/Homepage/学习深度学习.md",
     "Attachments/Pasted image 20261002175128.png",
