@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -317,13 +316,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/左程云.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "左程云 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -346,8 +345,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -393,10 +391,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "b1c03b8e6e757e62",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/左程云.md",
+    "Attachments/Pasted image 20261002145117.png",
+    "Attachments/Pasted image 20261002143824.png",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Tasks.md",
     "Dairies/2025-12-26.md"

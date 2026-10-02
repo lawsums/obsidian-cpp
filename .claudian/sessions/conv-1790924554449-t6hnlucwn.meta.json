@@ -1,0 +1,25 @@
+{
+  "id": "conv-1790924554449-t6hnlucwn",
+  "providerId": "claude",
+  "title": "Organize KMP algorithm notes section",
+  "titleGenerationStatus": "success",
+  "createdAt": 1790924554450,
+  "updatedAt": 1790924681618,
+  "lastResponseAt": 1790924681618,
+  "sessionId": "90d87073-cede-4ec2-af50-b0152d690723",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "90d87073-cede-4ec2-af50-b0152d690723"
+  },
+  "currentNote": "Templates/Homepage/左程云.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 157,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 65920,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 66077,
+    "percentage": 33
+  }
+}
