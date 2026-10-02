@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -317,13 +316,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/004_闪念.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "004_闪念 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -393,8 +392,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "c60c9b4488e58f35",
+  "active": "f094e1792a1a2a53",
   "lastOpenFiles": [
+    "Templates/Homepage/004_闪念.md",
     "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习Linux.md",
     "Templates/Homepage/学习深度学习.md",
