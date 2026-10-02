@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "67bbdb9f7adf4c79",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Templates/Homepage/学习Linux.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "学习Linux"
+            }
+          },
+          {
             "id": "79e92f4cf9abdf05",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +161,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "社保",
+                "query": "韦东山",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -268,13 +293,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习Linux.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习Linux 的大纲"
             }
           },
           {
@@ -297,7 +322,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -343,10 +369,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f094e1792a1a2a53",
+  "active": "67bbdb9f7adf4c79",
   "lastOpenFiles": [
-    "Templates/Homepage/左程云.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Homepage/Tasks.md",
+    "Templates/Homepage/左程云.md",
     "Leetcode/3389.访问消失节点的最少时间.md",
     "Leetcode/3389.访问消失节点的最少时间.cpp",
     "_debug_templater.md",

@@ -1,8 +1,16 @@
 {
   "recentFiles": [
     {
+      "basename": "学习Linux",
+      "path": "Templates/Homepage/学习Linux.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Tasks",
+      "path": "Templates/Homepage/Tasks.md"
     },
     {
       "basename": "左程云",
@@ -31,10 +39,6 @@
     {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
-    },
-    {
-      "basename": "Tasks",
-      "path": "Templates/Homepage/Tasks.md"
     },
     {
       "basename": "Daily_note_template",
@@ -127,10 +131,6 @@
     {
       "basename": "linux路线",
       "path": "100-学习/120-嵌入式/linux路线.md"
-    },
-    {
-      "basename": "学习Linux",
-      "path": "Templates/Homepage/学习Linux.md"
     },
     {
       "basename": "Socket网络编程",
