@@ -5,6 +5,22 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "3389.访问消失节点的最少时间",
+      "path": "Leetcode/3389.访问消失节点的最少时间.md"
+    },
+    {
+      "basename": "学习深度学习",
+      "path": "Templates/Homepage/学习深度学习.md"
+    },
+    {
+      "basename": "算法路线图",
+      "path": "Leetcode/算法路线图.md"
+    },
+    {
+      "basename": "学习C++",
+      "path": "Templates/Homepage/学习C++.md"
+    },
+    {
       "basename": "左程云",
       "path": "Templates/Homepage/左程云.md"
     },
@@ -41,10 +57,6 @@
       "path": "Temp/prompts/常用姿势.md"
     },
     {
-      "basename": "学习深度学习",
-      "path": "Templates/Homepage/学习深度学习.md"
-    },
-    {
       "basename": "催眠游戏",
       "path": "Temp/prompts/催眠游戏.md"
     },
@@ -59,10 +71,6 @@
     {
       "basename": "ioctl和mmap用法",
       "path": "100-学习/120-嵌入式/linux/ioctl和mmap用法.md"
-    },
-    {
-      "basename": "算法路线图",
-      "path": "Leetcode/算法路线图.md"
     },
     {
       "basename": "Poll机制",
@@ -91,10 +99,6 @@
     {
       "basename": "1934.替换字符串中的括号内容",
       "path": "Leetcode/1934.替换字符串中的括号内容.md"
-    },
-    {
-      "basename": "学习C++",
-      "path": "Templates/Homepage/学习C++.md"
     },
     {
       "basename": "makefile实战",
@@ -191,14 +195,6 @@
     {
       "basename": "随机过程-第四章知识点",
       "path": "100-学习/170-课程/随机过程/随机过程-第四章知识点.md"
-    },
-    {
-      "basename": "上下半部流程说明",
-      "path": "300-项目/嵌入式/韦东山课程/上下半部流程说明.md"
-    },
-    {
-      "basename": "随机过程-泊松过程典型题型",
-      "path": "100-学习/170-课程/随机过程/随机过程-泊松过程典型题型.md"
     }
   ],
   "omittedPaths": [],

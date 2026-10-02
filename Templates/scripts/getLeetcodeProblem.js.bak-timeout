@@ -146,45 +146,27 @@ async function getImages(content, img_folder, prefix) {
   mkdir(img_folder_path);
   const note_folder_path = path.join(vaultPath(), tp.config.target_file.parent.path);
 
-  // 图片下载总时限：图床挂掉/超时也不能拖垮整个模板渲染，
-  // 否则 Templater 会一直 await，笔记残留成原始模板（QuickAdd 超时回滚）。
-  const deadline = Date.now() + 3000;
   for (const match of findImgLinks(content)) {
     const img_url = match.groups.url;
-    const remain = deadline - Date.now();
-    if (remain <= 200) {
-      console.error(`跳过图片（超过下载时限）：${img_url}`);
-      break;
-    }
     // 处理中文版图片 URL 可能的前缀（如 https://assets.leetcode.cn/...）
     const img_filename = `${prefix}_${path.basename(img_url).replace(/\?.*$/, "")}`; // 去除 URL 参数
     const img_path = path.join(img_folder_path, img_filename);
-    try {
-      await downloadImage(img_url, img_path, Math.min(remain, 2000));
-      const relative_img_path = path.relative(note_folder_path, img_path);
-      content = content.replace(img_url, relative_img_path.replace(/\\/g, "/"));
-    } catch (e) {
-      // 下载失败就保留外链，不阻断整篇笔记
-      console.error(`图片下载失败，保留外链：${img_url}（${e && e.message ? e.message : e}）`);
-    }
+    await downloadImage(img_url, img_path);
+    const relative_img_path = path.relative(note_folder_path, img_path);
+    content = content.replace(img_url, relative_img_path.replace(/\\/g, "/"));
   }
 
   return content;
 }
 
 // 以下函数逻辑不变，直接复用
-async function downloadImage(url, filepath, timeoutMs = 10000) {
-  // requestUrl 本身没有超时，遇到不可达的图床会永久挂起 —— 这里手动加超时。
-  const request = tp.obsidian.requestUrl({
+async function downloadImage(url, filepath) {
+  const response = await tp.obsidian.requestUrl({
     url: url,
     method: 'GET',
     responseType: 'arraybuffer',
     headers: { ...headersList },
   });
-  const response = await Promise.race([
-    request,
-    new Promise((_, reject) => setTimeout(() => reject(new Error(`下载超时 ${timeoutMs}ms`)), timeoutMs)),
-  ]);
 
   if (response.status === 200) {
     fs.writeFileSync(filepath, Buffer.from(response.arrayBuffer), 'binary');
