@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "高频适配",
+      "path": "Templates/Homepage/高频适配.md"
+    },
+    {
+      "basename": "学习科研",
+      "path": "Templates/Homepage/学习科研.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -51,14 +59,6 @@
     {
       "basename": "Daily_note_template",
       "path": "Templates/Daily_note_template.md"
-    },
-    {
-      "basename": "高频适配",
-      "path": "Templates/Homepage/高频适配.md"
-    },
-    {
-      "basename": "学习科研",
-      "path": "Templates/Homepage/学习科研.md"
     },
     {
       "basename": "学写一下Makefile",

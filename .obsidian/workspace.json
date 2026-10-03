@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
-                "mode": "preview",
+                "file": "Templates/Homepage/高频适配.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Homepage"
+              "title": "高频适配"
             }
           },
           {
@@ -255,7 +255,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -368,10 +369,12 @@
   },
   "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Templates/Homepage/学习科研.md",
+    "Templates/Homepage/高频适配.md",
+    "Templates/Homepage/Homepage.md",
     "Dairies/2026-10-03.md",
     "Templates/Homepage/004_闪念.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习Linux.md",
     "Templates/Homepage/学习深度学习.md",
     "Attachments/Pasted image 20261002175128.png",
