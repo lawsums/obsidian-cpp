@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Pthread基本用法",
+      "path": "100-学习/120-嵌入式/linux/Pthread基本用法.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -127,10 +131,6 @@
     {
       "basename": "多线程Socket服务器",
       "path": "100-学习/120-嵌入式/linux/多线程Socket服务器.md"
-    },
-    {
-      "basename": "Pthread基本用法",
-      "path": "100-学习/120-嵌入式/linux/Pthread基本用法.md"
     },
     {
       "basename": "linux路线",
