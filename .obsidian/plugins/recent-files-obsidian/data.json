@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "常见画师",
+      "path": "Temp/prompts/常见画师.md"
+    },
+    {
       "basename": "常用姿势",
       "path": "Temp/prompts/常用姿势.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "随机过程-第一章知识点",
       "path": "100-学习/170-课程/随机过程/随机过程-第一章知识点.md"
-    },
-    {
-      "basename": "随机过程-马尔可夫链典型题型",
-      "path": "100-学习/170-课程/随机过程/随机过程-马尔可夫链典型题型.md"
     }
   ],
   "omittedPaths": [],
