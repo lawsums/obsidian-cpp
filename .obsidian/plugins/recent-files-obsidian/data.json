@@ -5,6 +5,22 @@
       "path": "Templates/Homepage/Homepage.md"
     },
     {
+      "basename": "路线梳理",
+      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
+    },
+    {
+      "basename": "002_稍后再看",
+      "path": "Templates/Homepage/002_稍后再看.md"
+    },
+    {
+      "basename": "上一节人工智能通识课",
+      "path": "Templates/Homepage/上一节人工智能通识课.md"
+    },
+    {
+      "basename": "常用姿势",
+      "path": "Temp/prompts/常用姿势.md"
+    },
+    {
       "basename": "Pthread基本用法",
       "path": "100-学习/120-嵌入式/linux/Pthread基本用法.md"
     },
@@ -53,10 +69,6 @@
       "path": "Templates/Homepage/学习C++.md"
     },
     {
-      "basename": "路线梳理",
-      "path": "300-项目/嵌入式/韦东山课程/路线梳理.md"
-    },
-    {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
     },
@@ -67,10 +79,6 @@
     {
       "basename": "学写一下Makefile",
       "path": "Templates/Homepage/学写一下Makefile.md"
-    },
-    {
-      "basename": "常用姿势",
-      "path": "Temp/prompts/常用姿势.md"
     },
     {
       "basename": "催眠游戏",
@@ -95,10 +103,6 @@
     {
       "basename": "进度",
       "path": "100-学习/170-课程/最优化原理/进度.md"
-    },
-    {
-      "basename": "上一节人工智能通识课",
-      "path": "Templates/Homepage/上一节人工智能通识课.md"
     },
     {
       "basename": "操作系统",
@@ -195,10 +199,6 @@
     {
       "basename": "随机过程-马尔可夫链典型题型",
       "path": "100-学习/170-课程/随机过程/随机过程-马尔可夫链典型题型.md"
-    },
-    {
-      "basename": "随机过程-第四章知识点",
-      "path": "100-学习/170-课程/随机过程/随机过程-第四章知识点.md"
     }
   ],
   "omittedPaths": [],
