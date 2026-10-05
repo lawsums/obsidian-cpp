@@ -127,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -291,13 +292,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -320,7 +320,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -366,11 +367,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "d9e6696bde9df92d",
   "lastOpenFiles": [
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md.tmp.23276.517e2578f10a",
     "Templates/Homepage/Homepage.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md.tmp.23276.517e2578f10a",
     "Attachments/Pasted image 20261004230005.png",
     "Attachments/Pasted image 20261004225958.png",
     "Attachments/Pasted image 20261004225937.png",
