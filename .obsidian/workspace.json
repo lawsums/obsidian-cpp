@@ -292,12 +292,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "路线梳理 的大纲"
             }
           },
           {
@@ -320,8 +321,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -367,9 +367,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "d9e6696bde9df92d",
+  "active": "9dc770d0e0eb3520",
   "lastOpenFiles": [
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Attachments/Pasted image 20261005162027.png",
+    "Templates/Homepage/学习深度学习.md",
+    "Attachments/Pasted image 20261005155735.png",
     "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md.tmp.23276.517e2578f10a",
     "Attachments/Pasted image 20261004230005.png",
@@ -390,7 +393,6 @@
     "Templates/Homepage/004_闪念.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Templates/Homepage/学习Linux.md",
-    "Templates/Homepage/学习深度学习.md",
     "Attachments/Pasted image 20261002175128.png",
     "Attachments/Pasted image 20261002174334.png",
     "Templates/Homepage/Tasks.md",
@@ -410,7 +412,6 @@
     "Leetcode/20261002153800.md",
     "Leetcode/20261002154035.md",
     "Attachments/Pasted image 20261002145117.png",
-    "Attachments/Pasted image 20261002143824.png",
     "Templates/Tasks.md",
     "Dairies/2025-12-26.md"
   ]
