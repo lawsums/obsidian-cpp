@@ -292,13 +292,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "路线梳理 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -367,13 +366,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "d9e6696bde9df92d",
   "lastOpenFiles": [
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Templates/Homepage/Homepage.md",
     "Attachments/Pasted image 20261005162027.png",
     "Templates/Homepage/学习深度学习.md",
     "Attachments/Pasted image 20261005155735.png",
-    "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md.tmp.23276.517e2578f10a",
     "Attachments/Pasted image 20261004230005.png",
     "Attachments/Pasted image 20261004225958.png",
