@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "4dfcae481c5e9ab6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/prompts/常见画师.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "常见画师"
-            }
-          },
-          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -276,8 +252,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -317,13 +292,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/prompts/常见画师.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "常见画师 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -346,7 +320,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -392,8 +367,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "4dfcae481c5e9ab6",
+  "active": "b3961b652eb7fc45",
   "lastOpenFiles": [
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Templates/Homepage/Homepage.md",
     "Attachments/Pasted image 20261004230005.png",
     "Attachments/Pasted image 20261004225958.png",
     "Attachments/Pasted image 20261004225937.png",
@@ -401,8 +378,6 @@
     "Attachments/Pasted image 20261004225546.png",
     "Temp/prompts/常用姿势.md",
     "Temp/prompts/常见画师.md",
-    "Templates/Homepage/Homepage.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/002_稍后再看.md",
     "Templates/Homepage/左程云.md",
     "Templates/Homepage/上一节人工智能通识课.md",
