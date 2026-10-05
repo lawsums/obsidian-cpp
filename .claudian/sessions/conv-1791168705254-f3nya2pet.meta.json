@@ -1,0 +1,25 @@
+{
+  "id": "conv-1791168705254-f3nya2pet",
+  "providerId": "claude",
+  "title": "Explain Linux kernel timers and jiffies",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791168705255,
+  "updatedAt": 1791169242968,
+  "lastResponseAt": 1791169242968,
+  "sessionId": "73b9c01e-7138-4856-86f8-c53ad982e1ac",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "73b9c01e-7138-4856-86f8-c53ad982e1ac"
+  },
+  "currentNote": "300-项目/嵌入式/韦东山课程/路线梳理.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 251,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 84352,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 84603,
+    "percentage": 42
+  }
+}

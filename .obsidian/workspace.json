@@ -320,8 +320,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -370,6 +369,7 @@
   "active": "b3961b652eb7fc45",
   "lastOpenFiles": [
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md.tmp.23276.517e2578f10a",
     "Templates/Homepage/Homepage.md",
     "Attachments/Pasted image 20261004230005.png",
     "Attachments/Pasted image 20261004225958.png",
@@ -406,7 +406,6 @@
     "Templates/scripts/debugGlp.js",
     "Templates/scripts/debugFetch.js",
     "Templates/scripts/debugEcho.js",
-    "_debug_templater.md.tmp.27732.eff95eca436a",
     "Leetcode/20261002153800.md",
     "Leetcode/20261002154035.md",
     "Attachments/Pasted image 20261002145117.png",
