@@ -320,11 +320,12 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -369,6 +370,8 @@
   "active": "d9e6696bde9df92d",
   "lastOpenFiles": [
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md.tmp.23276.f0daf7b3a9be",
+    "Attachments/Pasted image 20261005173006.png",
     "Templates/Homepage/Homepage.md",
     "Attachments/Pasted image 20261005162027.png",
     "Templates/Homepage/学习深度学习.md",
@@ -407,10 +410,8 @@
     "_debug_templater.md.tmp.27732.c882ec7e8860",
     "Templates/scripts/debugGlp.js",
     "Templates/scripts/debugFetch.js",
-    "Templates/scripts/debugEcho.js",
     "Leetcode/20261002153800.md",
     "Leetcode/20261002154035.md",
-    "Attachments/Pasted image 20261002145117.png",
     "Templates/Tasks.md",
     "Dairies/2025-12-26.md"
   ]

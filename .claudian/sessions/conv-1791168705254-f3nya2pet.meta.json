@@ -4,8 +4,8 @@
   "title": "Explain Linux kernel timers and jiffies",
   "titleGenerationStatus": "success",
   "createdAt": 1791168705255,
-  "updatedAt": 1791188521441,
-  "lastResponseAt": 1791188521441,
+  "updatedAt": 1791193316717,
+  "lastResponseAt": 1791193316717,
   "sessionId": "73b9c01e-7138-4856-86f8-c53ad982e1ac",
   "selectedModel": "haiku",
   "providerState": {
@@ -14,12 +14,12 @@
   "currentNote": "300-项目/嵌入式/韦东山课程/路线梳理.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 1750,
+    "inputTokens": 175,
     "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 98688,
+    "cacheReadInputTokens": 129152,
     "contextWindow": 200000,
     "contextWindowIsAuthoritative": true,
-    "contextTokens": 100438,
-    "percentage": 50
+    "contextTokens": 129327,
+    "percentage": 65
   }
 }
