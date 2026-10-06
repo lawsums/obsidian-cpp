@@ -175,8 +175,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -415,11 +414,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "ee494af6144bd3dd",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Leetcode/1513.找到所有好字符串.py",
-    "Templates/Homepage/Homepage.md",
     "Leetcode/1513.找到所有好字符串.md",
+    "Templates/Homepage/Homepage.md",
+    "Leetcode/1513.找到所有好字符串.py",
     "Templates/Homepage/左程云.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Attachments/Pasted image 20261006110657.png",
@@ -459,7 +458,6 @@
     "Templates/Homepage/学习C++.md",
     "_debug_templater.md.tmp.27732.c882ec7e8860",
     "Templates/scripts/debugGlp.js",
-    "Templates/scripts/debugFetch.js",
     "Leetcode/20261002153800.md",
     "Leetcode/20261002154035.md",
     "Templates/Tasks.md"
