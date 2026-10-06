@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "ee494af6144bd3dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Leetcode/1513.找到所有好字符串.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "1513.找到所有好字符串"
+            }
+          },
+          {
             "id": "3ea8c56b448e93d6",
             "type": "leaf",
             "state": {
@@ -280,8 +304,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5,
-    "collapsed": true
+    "width": 298.5
   },
   "right": {
     "id": "10b2f2cc90125c33",
@@ -346,13 +369,11 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -394,46 +415,11 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "floating": {
-    "id": "d5e8df4d1c39e50f",
-    "type": "floating",
-    "children": [
-      {
-        "id": "f5e8fc06d85d7eff",
-        "type": "window",
-        "children": [
-          {
-            "id": "ee22794ff3fc9e64",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5f1724824f9ea31d",
-                "type": "leaf",
-                "state": {
-                  "type": "mx-webpage",
-                  "state": {
-                    "source": "https://www.bilibili.com/video/BV1w4411B7a4/?p=100"
-                  },
-                  "icon": "bilibili",
-                  "title": "5_17-1.Pinctrl子系统重要概念 - bilibili"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 40,
-        "y": 364,
-        "width": 910,
-        "height": 980,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "3ea8c56b448e93d6",
+  "active": "ee494af6144bd3dd",
   "lastOpenFiles": [
+    "Leetcode/1513.找到所有好字符串.py",
     "Templates/Homepage/Homepage.md",
+    "Leetcode/1513.找到所有好字符串.md",
     "Templates/Homepage/左程云.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Attachments/Pasted image 20261006110657.png",
@@ -476,7 +462,6 @@
     "Templates/scripts/debugFetch.js",
     "Leetcode/20261002153800.md",
     "Leetcode/20261002154035.md",
-    "Templates/Tasks.md",
-    "Dairies/2025-12-26.md"
+    "Templates/Tasks.md"
   ]
 }

@@ -1,0 +1,24 @@
+{
+  "id": "conv-1791279516646-k6aswu58n",
+  "providerId": "claude",
+  "title": "Explain Python findGoodStrings KMP solution",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791279516648,
+  "updatedAt": 1791279575546,
+  "lastResponseAt": 1791279575546,
+  "sessionId": "9bbef9db-d9ae-41d3-9b47-cc8cd618101f",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "9bbef9db-d9ae-41d3-9b47-cc8cd618101f"
+  },
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 2320,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 43904,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 46224,
+    "percentage": 23
+  }
+}
