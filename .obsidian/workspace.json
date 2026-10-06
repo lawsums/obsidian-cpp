@@ -32,18 +32,6 @@
             }
           },
           {
-            "id": "c4aa5f8a999c0043",
-            "type": "leaf",
-            "state": {
-              "type": "mx-webpage",
-              "state": {
-                "source": "https://www.bilibili.com/video/BV1w4411B7a4/?p=100"
-              },
-              "icon": "bilibili",
-              "title": "Webpage"
-            }
-          },
-          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -338,8 +326,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.5,
-    "collapsed": true
+    "width": 329.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -381,10 +368,50 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "c4aa5f8a999c0043",
+  "floating": {
+    "id": "d5e8df4d1c39e50f",
+    "type": "floating",
+    "children": [
+      {
+        "id": "f5e8fc06d85d7eff",
+        "type": "window",
+        "children": [
+          {
+            "id": "ee22794ff3fc9e64",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5f1724824f9ea31d",
+                "type": "leaf",
+                "state": {
+                  "type": "mx-webpage",
+                  "state": {
+                    "source": "https://www.bilibili.com/video/BV1w4411B7a4/?p=100"
+                  },
+                  "icon": "bilibili",
+                  "title": "5_20-9.mmap基础知识 - bilibili"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 352,
+        "y": 165,
+        "width": 911,
+        "height": 981,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "f694d4546176ff30",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
+    "Attachments/Pasted image 20261006110657.png",
+    "Attachments/Pasted image 20261006110643.png",
+    "Attachments/Pasted image 20261006105005.png",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md.tmp.23276.f0daf7b3a9be",
     "Attachments/Pasted image 20261005173006.png",
     "Attachments/Pasted image 20261005162027.png",
@@ -409,8 +436,6 @@
     "Templates/Homepage/004_闪念.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Templates/Homepage/学习Linux.md",
-    "Attachments/Pasted image 20261002175128.png",
-    "Attachments/Pasted image 20261002174334.png",
     "Templates/Homepage/Tasks.md",
     "Leetcode/3389.访问消失节点的最少时间.md",
     "Leetcode/3389.访问消失节点的最少时间.cpp",
