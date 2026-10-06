@@ -417,38 +417,25 @@
                   "icon": "bilibili",
                   "title": "5_17-1.Pinctrl子系统重要概念 - bilibili"
                 }
-              },
-              {
-                "id": "f5c218ca0eb6c0ce",
-                "type": "leaf",
-                "state": {
-                  "type": "mx-webpage",
-                  "state": {
-                    "source": "https://www.bilibili.com/video/BV13m41197tS/"
-                  },
-                  "icon": "bilibili",
-                  "title": "算法讲解101【扩展】 KMP算法相关题目 - bilibili"
-                }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "vertical",
-        "x": 352,
-        "y": 165,
-        "width": 911,
-        "height": 981,
+        "x": 40,
+        "y": 364,
+        "width": 910,
+        "height": 980,
         "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "f5c218ca0eb6c0ce",
+  "active": "3ea8c56b448e93d6",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/左程云.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
-    "Templates/Homepage/Homepage.md",
     "Attachments/Pasted image 20261006110657.png",
     "Attachments/Pasted image 20261006110643.png",
     "Attachments/Pasted image 20261006105005.png",
