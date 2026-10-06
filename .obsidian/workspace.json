@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "c4aa5f8a999c0043",
+            "type": "leaf",
+            "state": {
+              "type": "mx-webpage",
+              "state": {
+                "source": "https://www.bilibili.com/video/BV1w4411B7a4/?p=100"
+              },
+              "icon": "bilibili",
+              "title": "Webpage"
+            }
+          },
+          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -127,7 +139,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -368,12 +381,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "c4aa5f8a999c0043",
   "lastOpenFiles": [
+    "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md.tmp.23276.f0daf7b3a9be",
     "Attachments/Pasted image 20261005173006.png",
-    "Templates/Homepage/Homepage.md",
     "Attachments/Pasted image 20261005162027.png",
     "Templates/Homepage/学习深度学习.md",
     "Attachments/Pasted image 20261005155735.png",
