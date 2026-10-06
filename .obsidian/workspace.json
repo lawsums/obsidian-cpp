@@ -127,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -322,11 +321,13 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 329.5
+    "width": 329.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -389,7 +390,7 @@
                     "source": "https://www.bilibili.com/video/BV1w4411B7a4/?p=100"
                   },
                   "icon": "bilibili",
-                  "title": "5_20-9.mmap基础知识 - bilibili"
+                  "title": "5_20-10.mmap编程 - bilibili"
                 }
               }
             ]
@@ -405,12 +406,12 @@
       }
     ]
   },
-  "active": "f694d4546176ff30",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Attachments/Pasted image 20261006110657.png",
     "Attachments/Pasted image 20261006110643.png",
     "Attachments/Pasted image 20261006105005.png",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md.tmp.23276.f0daf7b3a9be",
     "Attachments/Pasted image 20261005173006.png",
@@ -422,7 +423,6 @@
     "Attachments/Pasted image 20261004225958.png",
     "Attachments/Pasted image 20261004225937.png",
     "Attachments/Pasted image 20261004225556.png",
-    "Attachments/Pasted image 20261004225546.png",
     "Temp/prompts/常用姿势.md",
     "Temp/prompts/常见画师.md",
     "Templates/Homepage/002_稍后再看.md",
