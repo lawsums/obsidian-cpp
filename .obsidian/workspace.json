@@ -393,8 +393,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -440,7 +439,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "7ad080d1a7a76395",
+  "active": "9dc770d0e0eb3520",
   "lastOpenFiles": [
     "Templates/Homepage/学习深度学习.md",
     "Templates/Homepage/Homepage.md",
