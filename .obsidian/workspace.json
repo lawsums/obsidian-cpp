@@ -369,7 +369,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -415,7 +416,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "7ad080d1a7a76395",
   "lastOpenFiles": [
     "Attachments/diffusion-unet-model.png",
     "Attachments/diffusion-00-diffusers-library.jpg",

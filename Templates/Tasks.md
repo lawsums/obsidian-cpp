@@ -81,3 +81,4 @@
 - [ ] 打leetcode比赛并在下午看灵神的解说视频 #task ⏫ 🔁 every week on Saturday ⏳ 2026-10-10
 - [x] 打leetcode比赛并在下午看灵神的解说视频 #task ⏫ 🔁 every week on Saturday ➕ 2026-10-06 ⏳ 2026-10-06 ✅ 2026-10-06 ^task-20261006-fa1b6248
 - [ ] 被子带到学校 #task 🔺 ⏳ 2026-10-08 ➕ 2026-10-07 ^task-20261007-9cd241a7
+- [ ] 拔充电器 #task 🔺 ⏳ 2026-10-08 ➕ 2026-10-07 ^task-20261007-92b861bb
