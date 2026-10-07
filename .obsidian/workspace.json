@@ -32,78 +32,6 @@
             }
           },
           {
-            "id": "51a70983107bef1d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习深度学习"
-            }
-          },
-          {
-            "id": "ee494af6144bd3dd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Leetcode/1513.找到所有好字符串.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "1513.找到所有好字符串"
-            }
-          },
-          {
-            "id": "3ea8c56b448e93d6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/左程云.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "左程云"
-            }
-          },
-          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -199,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -364,13 +291,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习深度学习 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -439,10 +366,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9dc770d0e0eb3520",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/学习深度学习.md",
+    "Dairies/2026-10-07.md",
     "Templates/Homepage/Homepage.md",
+    "Templates/Daily_note_template.md",
+    "Templates/Homepage/学习深度学习.md",
+    "Dairies/2026-06-13.md",
     "Leetcode/1513.找到所有好字符串.md",
     "Leetcode/1513.找到所有好字符串.py",
     "Templates/Homepage/左程云.md",
@@ -483,8 +413,6 @@
     "Templates/Homepage/学习C++.md",
     "_debug_templater.md.tmp.27732.c882ec7e8860",
     "Templates/scripts/debugGlp.js",
-    "Leetcode/20261002153800.md",
-    "Leetcode/20261002154035.md",
-    "Templates/Tasks.md"
+    "Leetcode/20261002153800.md"
   ]
 }

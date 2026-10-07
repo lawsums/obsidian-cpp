@@ -1,12 +1,20 @@
 {
   "recentFiles": [
     {
+      "basename": "Homepage",
+      "path": "Templates/Homepage/Homepage.md"
+    },
+    {
+      "basename": "Daily_note_template",
+      "path": "Templates/Daily_note_template.md"
+    },
+    {
       "basename": "学习深度学习",
       "path": "Templates/Homepage/学习深度学习.md"
     },
     {
-      "basename": "Homepage",
-      "path": "Templates/Homepage/Homepage.md"
+      "basename": "2026-06-13",
+      "path": "Dairies/2026-06-13.md"
     },
     {
       "basename": "1513.找到所有好字符串",
@@ -79,10 +87,6 @@
     {
       "basename": "Tasks",
       "path": "Templates/Tasks.md"
-    },
-    {
-      "basename": "Daily_note_template",
-      "path": "Templates/Daily_note_template.md"
     },
     {
       "basename": "学写一下Makefile",
@@ -195,10 +199,6 @@
     {
       "basename": "400.第 N 位数字",
       "path": "Leetcode/400.第 N 位数字.md"
-    },
-    {
-      "basename": "1224.下降路径最小和  II",
-      "path": "Leetcode/1224.下降路径最小和  II.md"
     }
   ],
   "omittedPaths": [],
