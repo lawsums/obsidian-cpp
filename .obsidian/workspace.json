@@ -151,8 +151,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -317,13 +316,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "路线梳理 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -392,17 +391,17 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "f694d4546176ff30",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
+    "Templates/Homepage/慢跑1000米.md",
+    "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md.tmp.3256.4623dbb33070",
     "100-学习/160-论文/超分辨率.md",
     "300-项目/嵌入式/韦东山课程/mmap.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/学习深度学习.md",
-    "Templates/Homepage/Homepage.md",
     "Templates/Tasks.md",
     "Dairies/2026-09-22.md",
-    "Templates/Homepage/慢跑1000米.md",
     "Dairies/2026-09-07.md",
     "100-学习/160-论文/超分辨率.md.tmp.7828.9be7827906c5",
     "Dairies/2026-10-08.md",
@@ -438,7 +437,6 @@
     "Templates/scripts/getLeetcodeProblem.js.bak-timeout",
     "debug-templater.log",
     "_debug_templater.md.tmp.27732.4448aa86aecc",
-    "Templates/scripts/debugGlp2.js",
-    "_debug_templater.md.tmp.27732.c882ec7e8860"
+    "Templates/scripts/debugGlp2.js"
   ]
 }
