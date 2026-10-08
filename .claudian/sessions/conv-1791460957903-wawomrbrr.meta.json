@@ -1,0 +1,25 @@
+{
+  "id": "conv-1791460957903-wawomrbrr",
+  "providerId": "claude",
+  "title": "Analyze driver functions for mmap programming s...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791460957904,
+  "updatedAt": 1791461584450,
+  "lastResponseAt": 1791461584450,
+  "sessionId": "5b6790e7-cdd9-4a69-be71-8c7834e83d6b",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "5b6790e7-cdd9-4a69-be71-8c7834e83d6b"
+  },
+  "currentNote": "300-项目/嵌入式/韦东山课程/路线梳理.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 151,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 73984,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 74135,
+    "percentage": 37
+  }
+}
