@@ -1,0 +1,25 @@
+{
+  "id": "conv-1791470898313-vr0azd0ek",
+  "providerId": "claude",
+  "title": "Reformat markdown heading levels in notes",
+  "titleGenerationStatus": "success",
+  "createdAt": 1791470898313,
+  "updatedAt": 1791508198213,
+  "lastResponseAt": 1791471550138,
+  "sessionId": "a5fe360e-c06d-4937-bd3b-854abb111c37",
+  "selectedModel": "haiku",
+  "providerState": {
+    "providerSessionId": "a5fe360e-c06d-4937-bd3b-854abb111c37"
+  },
+  "currentNote": "Templates/Homepage/学习深度学习.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 719,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 65664,
+    "contextWindow": 200000,
+    "contextWindowIsAuthoritative": true,
+    "contextTokens": 66383,
+    "percentage": 33
+  }
+}
