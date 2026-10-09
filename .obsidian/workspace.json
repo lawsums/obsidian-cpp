@@ -151,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -315,13 +316,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "Templates/Homepage/学习深度学习.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "学习深度学习 的大纲"
             }
           },
           {
@@ -390,10 +391,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "ffffe9398e10819f",
   "lastOpenFiles": [
-    "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Templates/Homepage/Homepage.md",
+    "100-学习/110-计算机/语言/Rust/学习rust.md",
     "Templates/Homepage/学习深度学习.md",
     "100-学习/160-论文/diffusion.md",
     "Templates/Homepage/学习深度学习.md.tmp.35004.a5f2b520f498",
