@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "简历上可以放的项目列表",
+      "path": "300-项目/简历上可以放的项目列表.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "随机过程-第三章作业",
       "path": "100-学习/170-课程/随机过程/随机过程-第三章作业.md"
-    },
-    {
-      "basename": "随机过程-平稳过程典型题型",
-      "path": "100-学习/170-课程/随机过程/随机过程-平稳过程典型题型.md"
     }
   ],
   "omittedPaths": [],
