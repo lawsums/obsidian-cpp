@@ -5,6 +5,10 @@
       "path": "Templates/Homepage/学习深度学习.md"
     },
     {
+      "basename": "未命名",
+      "path": "未命名.md"
+    },
+    {
       "basename": "Homepage",
       "path": "Templates/Homepage/Homepage.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "图像处理-第3章知识点",
       "path": "100-学习/170-课程/图像处理/图像处理-第3章知识点.md"
-    },
-    {
-      "basename": "随机过程-第三章作业",
-      "path": "100-学习/170-课程/随机过程/随机过程-第三章作业.md"
     }
   ],
   "omittedPaths": [],
