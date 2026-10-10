@@ -184,7 +184,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "e000ed0",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,7 +238,8 @@
               "title": "算法路线图 的出链列表"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "a1a3b64710b00c75",
@@ -390,7 +391,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "2109367872043c6a",
   "lastOpenFiles": [
     "Templates/Homepage/Homepage.md",
     "300-项目/简历上可以放的项目列表.md",
