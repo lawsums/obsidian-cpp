@@ -151,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,7 +185,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "e000ed0",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -391,10 +392,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "2109367872043c6a",
+  "active": "ed168d8d3688f666",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "300-项目/简历上可以放的项目列表.md",
+    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习深度学习.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "100-学习/160-论文/diffusion.md",
