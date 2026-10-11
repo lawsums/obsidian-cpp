@@ -127,7 +127,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -291,13 +292,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "300-项目/嵌入式/韦东山课程/路线梳理.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "路线梳理 的大纲"
             }
           },
           {
@@ -320,7 +321,8 @@
               "title": "Advanced Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -366,12 +368,14 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "f694d4546176ff30",
   "lastOpenFiles": [
+    "Templates/Homepage/左程云.md",
+    "Attachments/Pasted image 20261011145932.png",
+    "Templates/Homepage/Homepage.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/上一节人工智能通识课.md",
     "Dairies/2026-10-04.md",
-    "Templates/Homepage/Homepage.md",
     "Dairies/2026-10-11.md",
     "Templates/Homepage/学习深度学习.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
@@ -399,18 +403,15 @@
     "Attachments/diffusion-07-loss-curves.png",
     "Attachments/diffusion-06-noisy-images.png",
     "Attachments/diffusion-05-noise-schedule-plot.png",
-    "Attachments/diffusion-04-training-data-batch.png",
     "100-学习/160-论文/diffusion除图像修复相关论文.md",
     "Dairies/2026-10-07.md",
     "Templates/Daily_note_template.md",
     "Dairies/2026-06-13.md",
     "Leetcode/1513.找到所有好字符串.md",
     "Leetcode/1513.找到所有好字符串.py",
-    "Templates/Homepage/左程云.md",
     "300-项目/嵌入式/韦东山课程/路线梳理.md.tmp.23276.f0daf7b3a9be",
     "300-项目/嵌入式/韦东山课程/路线梳理.md.tmp.23276.517e2578f10a",
     "Temp/prompts/常用姿势.md",
-    "Temp/prompts/常见画师.md",
     "Leetcode/3389.访问消失节点的最少时间.cpp",
     "Templates/scripts/getLeetcodeProblem.js.bak-timeout",
     "debug-templater.log"
