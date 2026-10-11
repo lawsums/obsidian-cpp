@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "9c5daf3be95c143d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "100-学习/160-论文/Zotero Notes/RDDM 残差去噪扩散模型精读笔记.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "RDDM 残差去噪扩散模型精读笔记"
+            }
+          },
+          {
             "id": "f694d4546176ff30",
             "type": "leaf",
             "state": {
@@ -127,7 +151,8 @@
               "title": "学习深度学习"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -292,13 +317,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/Homepage.md",
+                "file": "100-学习/160-论文/Zotero Notes/RDDM 残差去噪扩散模型精读笔记.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Homepage 的大纲"
+              "title": "RDDM 残差去噪扩散模型精读笔记 的大纲"
             }
           },
           {
@@ -368,10 +393,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a8fa3bde95b82293",
+  "active": "9c5daf3be95c143d",
   "lastOpenFiles": [
-    "Temp/prompts/常见画师.md",
     "Templates/Homepage/Homepage.md",
+    "100-学习/160-论文/Zotero Notes/RDDM 残差去噪扩散模型精读笔记.md",
+    "100-学习/160-论文/Zotero Notes",
+    "Temp/prompts/常见画师.md",
     "Attachments/Pasted image 20261011171603.png",
     "Attachments/Pasted image 20261011171553.png",
     "Attachments/Pasted image 20261011171520.png",
@@ -413,7 +440,6 @@
     "300-项目/嵌入式/韦东山课程/路线梳理.md.tmp.23276.f0daf7b3a9be",
     "300-项目/嵌入式/韦东山课程/路线梳理.md.tmp.23276.517e2578f10a",
     "Leetcode/3389.访问消失节点的最少时间.cpp",
-    "Templates/scripts/getLeetcodeProblem.js.bak-timeout",
-    "debug-templater.log"
+    "Templates/scripts/getLeetcodeProblem.js.bak-timeout"
   ]
 }
