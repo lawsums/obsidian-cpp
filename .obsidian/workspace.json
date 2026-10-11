@@ -292,13 +292,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Temp/prompts/常见画师.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "常见画师 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -368,21 +368,20 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "a11e808306dc5c78",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
+    "Temp/prompts/常见画师.md",
+    "Templates/Homepage/Homepage.md",
     "Attachments/Pasted image 20261011171603.png",
     "Attachments/Pasted image 20261011171553.png",
     "Attachments/Pasted image 20261011171520.png",
     "Attachments/Pasted image 20261011171438.png",
     "Attachments/Pasted image 20261011171405.png",
-    "Templates/Homepage/Homepage.md",
-    "Temp/prompts/常见画师.md",
     "Attachments/Pasted image 20261011170454.png",
     "Attachments/Pasted image 20261011170439.png",
     "Attachments/Pasted image 20261011170424.png",
     "Attachments/Pasted image 20261011170304.png",
     "Attachments/Pasted image 20261011170233.png",
-    "Attachments/Pasted image 20261011170223.png",
     "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/学习科研.md",
     "Templates/Homepage/左程云.md",
