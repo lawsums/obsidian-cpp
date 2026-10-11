@@ -127,37 +127,6 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "1ead6259e1fa3bf7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "469a2af0d699de16",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Temp/prompts/常见画师.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "常见画师"
-            }
-          }
         ]
       }
     ],
@@ -399,17 +368,24 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "469a2af0d699de16",
+  "active": "a11e808306dc5c78",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20261011171603.png",
+    "Attachments/Pasted image 20261011171553.png",
+    "Attachments/Pasted image 20261011171520.png",
+    "Attachments/Pasted image 20261011171438.png",
+    "Attachments/Pasted image 20261011171405.png",
     "Templates/Homepage/Homepage.md",
-    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Temp/prompts/常见画师.md",
-    "Attachments/Pasted image 20261011164032.png",
-    "Attachments/Pasted image 20261011164016.png",
-    "Attachments/Pasted image 20261011163923.png",
+    "Attachments/Pasted image 20261011170454.png",
+    "Attachments/Pasted image 20261011170439.png",
+    "Attachments/Pasted image 20261011170424.png",
+    "Attachments/Pasted image 20261011170304.png",
+    "Attachments/Pasted image 20261011170233.png",
+    "Attachments/Pasted image 20261011170223.png",
+    "300-项目/嵌入式/韦东山课程/路线梳理.md",
     "Templates/Homepage/学习科研.md",
     "Templates/Homepage/左程云.md",
-    "Attachments/Pasted image 20261011145932.png",
     "Templates/Homepage/上一节人工智能通识课.md",
     "Dairies/2026-10-04.md",
     "Dairies/2026-10-11.md",
@@ -430,12 +406,6 @@
     "Dairies/2026-09-07.md",
     "100-学习/160-论文/超分辨率.md.tmp.7828.9be7827906c5",
     "Dairies/2026-10-08.md",
-    "Attachments/diffusion-unet-model.png",
-    "Attachments/diffusion-00-diffusers-library.jpg",
-    "Attachments/diffusion-11-butterflies-64px.png",
-    "Attachments/diffusion-10-generated-sample-2.png",
-    "Attachments/diffusion-09-sampling-loop-output.png",
-    "Attachments/diffusion-08-generated-sample-1.png",
     "100-学习/160-论文/diffusion除图像修复相关论文.md",
     "Dairies/2026-10-07.md",
     "Templates/Daily_note_template.md",
