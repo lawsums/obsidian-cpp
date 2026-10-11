@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ed168d8d3688f666",
+            "id": "a8fa3bde95b82293",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -29,30 +29,6 @@
               },
               "icon": "lucide-file",
               "title": "Homepage"
-            }
-          },
-          {
-            "id": "6bbde798cdaa333e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "学习深度学习"
             }
           },
           {
@@ -151,8 +127,7 @@
               "title": "学习深度学习"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -316,13 +291,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Homepage/学习深度学习.md",
+                "file": "Templates/Homepage/Homepage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "学习深度学习 的大纲"
+              "title": "Homepage 的大纲"
             }
           },
           {
@@ -345,8 +320,7 @@
               "title": "Advanced Tables"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -392,10 +366,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "6bbde798cdaa333e",
+  "active": "a8fa3bde95b82293",
   "lastOpenFiles": [
-    "Templates/Homepage/Homepage.md",
     "Templates/Homepage/学习深度学习.md",
+    "Templates/Homepage/Homepage.md",
     "100-学习/110-计算机/语言/Rust/学习rust.md",
     "300-项目/简历上可以放的项目列表.md",
     "未命名.md",
